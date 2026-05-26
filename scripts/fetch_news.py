@@ -170,10 +170,24 @@ def main():
                 blurb = blurb[:197].rsplit(" ", 1)[0] + "..."
 
             # link: rss <link>text</link> or atom <link href="">
-            link = strip_html(tag(block, "link"))
-            if not link:
+            # NOTE: do NOT run strip_html here — it deletes URLs. Pull raw.
+            link = ""
+            lm = re.search(r"<link[^>]*>(.*?)</link>", block, re.S | re.I)
+            if lm:
+                raw = lm.group(1)
+                cd = re.match(r"<!\[CDATA\[(.*?)\]\]>", raw, re.S)
+                link = (cd.group(1) if cd else raw).strip()
+            if not link or not link.startswith("http"):
                 m = re.search(r'<link[^>]*href="([^"]+)"', block, re.I)
-                link = m.group(1) if m else ""
+                if m:
+                    link = m.group(1).strip()
+            # last resort: some feeds put the canonical URL in <guid>
+            if not link or not link.startswith("http"):
+                g = tag(block, "guid")
+                g = g.strip()
+                if g.startswith("http"):
+                    link = g
+            link = html.unescape(link)
 
             if not src["aew_only"]:
                 if not is_aew(title, blurb):

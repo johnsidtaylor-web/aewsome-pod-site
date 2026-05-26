@@ -116,7 +116,18 @@ def main():
 
         audio = attr(block, "enclosure", "url")
         duration = fmt_duration(tag(block, "itunes:duration"))
-        link = strip_html(tag(block, "link"))
+        # link: do NOT strip_html (it deletes URLs). Pull raw text or href.
+        link = ""
+        lm = re.search(r"<link[^>]*>(.*?)</link>", block, re.S | re.I)
+        if lm:
+            raw = lm.group(1)
+            cd = re.match(r"<!\[CDATA\[(.*?)\]\]>", raw, re.S)
+            link = (cd.group(1) if cd else raw).strip()
+        if not link or not link.startswith("http"):
+            m = re.search(r'<link[^>]*href="([^"]+)"', block, re.I)
+            if m:
+                link = m.group(1).strip()
+        link = html.unescape(link)
         guid = strip_html(tag(block, "guid"))
         num = episode_number(title, len(items) - i)
 

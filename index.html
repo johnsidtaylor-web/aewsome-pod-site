@@ -356,11 +356,7 @@
     {n:218,title:"FTR's Honorable Loss & Moxley's Briefcase of Doom",date:"May 5, 2026",len:"1h 11m"},
     {n:217,title:"Double Or Nothing Fallout + Mailbag Chaos",date:"May 1, 2026",len:"1h 28m"}
   ];
-  const posts=[
-    {who:"Johnny Taylor",init:"JT",grad:"linear-gradient(145deg,var(--gold-lt),var(--gold-dk))",col:"var(--black)",date:"MAY 23, 2026",title:"Why The Swerve/Omega Chain Spot Actually Worked",body:"Everyone's mad about it. Everyone's wrong. Let me explain why the most uncomfortable finish AEW has run all year was also the smartest, and why Sacramento booing was the point..."},
-    {who:"Diana Prince",init:"DP",grad:"linear-gradient(145deg,var(--red-lt),#7a1418)",col:"var(--cream)",date:"MAY 20, 2026",title:"In Defense Of The Three-Hour Combo Show",body:"I know, I know. Nobody asked for a 3-hour Dynamite/Collision mutant super-show. But buried in all that runtime was the best women's tag match of the year and I will die on this hill..."},
-    {who:"Gringo Fantastico",init:"GF",grad:"linear-gradient(145deg,var(--gold-lt),var(--gold-dk))",col:"var(--black)",date:"MAY 16, 2026",title:"What The Announcers Get Wrong About Lucha",body:"From a guy who's actually taken the bumps: here's what commentary consistently misreads about lucha psychology, and why the AEW crowd pops for the wrong spots sometimes..."}
-  ];
+  const posts=[];  // real columns get added here when written
 
   // ticker
   
@@ -383,11 +379,15 @@
   document.getElementById('search').addEventListener('input',renderNews);
 
   // episodes
+  let epsExpanded=false;
+  const EP_LIMIT=15;
   function renderEps(){
     const q=document.getElementById('epsearch').value.toLowerCase();const box=document.getElementById('eps');box.innerHTML='';
-    const f=episodes.filter(e=>!q||(e.title+' '+(e.blurb||'')).toLowerCase().includes(q));
-    document.getElementById('epcount').textContent=f.length+" EPISODES";
+    const all=episodes.filter(e=>!q||(e.title+' '+(e.blurb||'')).toLowerCase().includes(q));
+    document.getElementById('epcount').textContent=all.length+" EPISODES";
     box.style.cssText="display:flex;flex-direction:column";
+    // when searching, show all matches; otherwise cap to EP_LIMIT unless expanded
+    const f=(q||epsExpanded)?all:all.slice(0,EP_LIMIT);
     f.forEach(e=>{const d=document.createElement('div');
       const epn = (e.num!==undefined&&e.num!==null)?e.num:(e.n!==undefined?e.n:'\u25B8');
       const cleanTitle = e.title.replace(/^Episode\s*\d+:?\s*/i,'');
@@ -395,14 +395,30 @@
       d.style.cssText="display:grid;grid-template-columns:60px 1fr auto;gap:18px;align-items:center;padding:18px 4px;border-bottom:1px solid var(--line)";
       d.innerHTML="<div style=\"font-family:Anton;font-size:30px;color:var(--gold-dk)\">"+epn+"</div><div><div style=\"font-family:Barlow Condensed;font-weight:700;font-size:21px;text-transform:uppercase;line-height:1.05\">"+cleanTitle+"</div><div style=\"font-family:DM Mono,monospace;font-size:12px;color:var(--ash);margin-top:4px\">"+[e.date,e.len].filter(Boolean).join(' \u00B7 ')+"</div></div><div style=\"display:flex;gap:7px\"><a href='"+listen+"' target='_blank' rel='noopener' style=\"width:auto;padding:0 12px;height:36px;border:1px solid var(--line);display:grid;place-items:center;color:var(--ash);text-decoration:none;font-family:DM Mono;font-size:12px\">LISTEN \u2197</a></div>";
       box.appendChild(d)});
+    // view-all / show-less toggle (only when not searching and there's more)
+    if(!q && all.length>EP_LIMIT){
+      const btn=document.createElement('button');
+      btn.textContent = epsExpanded ? ('\u2191 Show Less') : ('View All '+all.length+' Episodes \u2193');
+      btn.style.cssText="margin:22px auto 0;display:block;font-family:'Barlow Condensed';font-weight:700;font-style:italic;text-transform:uppercase;letter-spacing:.06em;font-size:15px;padding:12px 28px;border:1.5px solid var(--gold-dk);background:transparent;color:var(--gold-lt);cursor:pointer";
+      btn.onmouseover=()=>{btn.style.background='var(--gold)';btn.style.color='var(--black)'};
+      btn.onmouseout=()=>{btn.style.background='transparent';btn.style.color='var(--gold-lt)'};
+      btn.onclick=()=>{epsExpanded=!epsExpanded;renderEps();if(!epsExpanded)document.getElementById('episodes').scrollIntoView({behavior:'smooth'})};
+      box.appendChild(btn);
+    }
   }
   document.getElementById('epsearch').addEventListener('input',renderEps);
 
   // columns
   const colWrap=document.getElementById('cols');
-  posts.forEach(p=>{const d=document.createElement('div');d.className='post';
-    d.innerHTML="<div class='by'><div class='av' style='background:"+p.grad+";color:"+p.col+"'>"+p.init+"</div><div class='meta'><b>"+p.who+"</b>"+p.date+"</div></div><h3>"+p.title+"</h3><p>"+p.body+"</p><a class='more' href='#'>Read the full column \u2197</a>";
-    colWrap.appendChild(d)});
+  if(!posts.length){
+    const d=document.createElement('div');d.className='post';d.style.gridColumn='1/-1';d.style.textAlign='center';
+    d.innerHTML="<h3 style='font-family:Anton;font-style:italic;transform:skewX(-7deg);font-size:34px;color:var(--gold-lt)'>STAY TUNED</h3><p style='margin-top:8px'>Johnny, Diana &amp; Gringo drop their hot takes here when they've got something to say. Check back soon.</p>";
+    colWrap.appendChild(d);
+  } else {
+    posts.forEach(p=>{const d=document.createElement('div');d.className='post';
+      d.innerHTML="<div class='by'><div class='av' style='background:"+p.grad+";color:"+p.col+"'>"+p.init+"</div><div class='meta'><b>"+p.who+"</b>"+p.date+"</div></div><h3>"+p.title+"</h3><p>"+p.body+"</p><a class='more' href='#'>Read the full column \u2197</a>";
+      colWrap.appendChild(d)});
+  }
 
   // embed tabs
   function swEmbed(which){

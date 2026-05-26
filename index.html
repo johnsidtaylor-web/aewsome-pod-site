@@ -380,7 +380,7 @@
 
   // episodes
   let epsExpanded=false;
-  const EP_LIMIT=15;
+  const EP_LIMIT=6;
   function renderEps(){
     const q=document.getElementById('epsearch').value.toLowerCase();const box=document.getElementById('eps');box.innerHTML='';
     const all=episodes.filter(e=>!q||(e.title+' '+(e.blurb||'')).toLowerCase().includes(q));

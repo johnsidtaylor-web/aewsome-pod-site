@@ -1,9 +1,9 @@
 {
-  "updated": "2026-05-26T08:01:38.397848+00:00",
+  "updated": "2026-05-26T15:08:03.449789+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (2 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,59 +12,91 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Renee Paquette Comments On The Possibility Of Mick Foley Wrestling In AEW",
+      "p": "AEW's Renee Paquette has discussed the possibility of Mick Foley wrestling once again following his recent appearance at Double or Nothing.",
+      "link": "https://www.wrestlinginc.com/2180889/aew-renee-paquette-mick-foley-possibility-wrestling/",
+      "t": "8m",
+      "dt": "2026-05-26T15:00:00+00:00"
+    },
+    {
       "src": "Wrestling Observer",
-      "h": "Young Bucks talk Stadium Stampede production process",
-      "p": "The seven-on-seven Stadium Stampede match was one of the highlights of AEW’s Double or Nothing. The day after, two of its featured wrestlers have explained how it all came together. Although the...",
-      "link": "https://www.f4wonline.com/uncategorized/young-bucks-talk-stadium-stampede-production-process/",
-      "t": "6h",
-      "dt": "2026-05-26T01:45:35+00:00"
+      "h": "AEW officially announces Redemption PPV, full details",
+      "p": "After rumors began in April, AEW officially announced they will have a pay-per-view this July, bringing their yearly total to ten for the first time in their history. Announced by Toronto Sun,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-announces-redemption-2026-montreal/",
+      "t": "13m",
+      "dt": "2026-05-26T14:54:29+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW On HBO Max Schedule Announced For June",
-      "p": "Warner Bros Discovery has announced the content schedule for HBO Max in June, which includes All Elite Wrestling programming. Full schedule ALL ELITE WRESTLING (AEW) IN JUNE HBO Max subscription...",
-      "link": "https://www.fightful.com/wrestling-news/all-elite-wrestling-on-hbo-max-schedule-annouced-for-june/",
-      "t": "6h",
-      "dt": "2026-05-26T01:19:28+00:00"
+      "h": "Speedball Mike Bailey: I Am Very, Very Glad that Konosuke Takeshita Is Out Of The Don Callis Family",
+      "p": "Speedball Mike Bailey continues to celebrate any negative moment for Don Callis and his family, this time with Konosuke Takeshita’s exit from the faction. At AEW Double Or Nothing this past...",
+      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-i-am-very-very-glad-that-konosuke-takeshita-is-out-of-the-don-callis-family/",
+      "t": "20m",
+      "dt": "2026-05-26T14:47:11+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Redemption pay-per-view announced for July 26 in Montreal, Quebec",
+      "p": "The first-ever AEW Redemption pay-per-view will take place in Montreal, Quebec, Canada this summer, it was announced Tuesday. The post AEW Redemption pay-per-view announced for July 26 in...",
+      "link": "https://www.postwrestling.com/2026/05/26/aew-redemption-pay-per-view-announced-for-july-26-in-montreal-quebec/",
+      "t": "23m",
+      "dt": "2026-05-26T14:44:34+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW World Champion MJF Doesn't Watch Wrestling For A Character",
+      "p": "MJF has spoken about the importance of being authentic in pro wrestling, with the AEW star alleging that some wrestlers put on a character.",
+      "link": "https://www.wrestlinginc.com/2180878/aew-world-champion-mjf-watch-wrestling-character/",
+      "t": "38m",
+      "dt": "2026-05-26T14:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Redemption Announced For July 26 In Montreal",
+      "p": "AEW is headed to Montreal for the first-ever AEW Redemption pay-per-view. All Elite Wrestling announced that Redemption will be held on July 26 at the Center Bell in Montreal, Quebec, Canada. From...",
+      "link": "https://www.fightful.com/wrestling-news/aew-redemption-announced-for-july-26-in-montreal/",
+      "t": "45m",
+      "dt": "2026-05-26T14:22:32+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Buddy Matthews announced for World Series Wrestling tour starting in October",
+      "p": "For the first time in over a year, AEW's Buddy Matthews has been announced for a professional wrestling event. The post Buddy Matthews announced for World Series Wrestling tour starting in October...",
+      "link": "https://www.postwrestling.com/2026/05/26/buddy-matthews-announced-for-world-series-wrestling-tour-starting-in-october/",
+      "t": "54m",
+      "dt": "2026-05-26T14:13:16+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Another three-hour block of Dynamite and Collision",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Another three-hour block of Dynamite and Collision appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/05/26/aew-dynamite-preview-another-three-hour-block-of-dynamite-and-collision-2/",
+      "t": "2h",
+      "dt": "2026-05-26T13:00:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Confirmed final ticket sales number for AEW Double or Nothing 2026 revealed",
+      "p": "AEW Double or Nothing 2026 over the weekend was a major success for the company when it came to ticket sales. The company announced that there were 15,015 in attendance, but the latest report from...",
+      "link": "https://www.f4wonline.com/news/aew/aew-double-or-nothing-2026-confirmed-final-ticket-sales-number-revealed/",
+      "t": "5h",
+      "dt": "2026-05-26T09:55:56+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Report: Wardlow was backstage at AEW Double or Nothing",
       "p": "AEW veteran Wardlow was reportedly backstage at Sunday night's pay-per-view event in New York City. The post Report: Wardlow was backstage at AEW Double or Nothing appeared first on POST Wrestling...",
       "link": "https://www.postwrestling.com/2026/05/25/report-wardlow-was-backstage-at-aew-double-or-nothing/",
-      "t": "9h",
+      "t": "16h",
       "dt": "2026-05-25T22:14:21+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Report: FTR approaching AEW option year, WWE has ‘preliminary’ interest",
-      "p": "Some contract news has emerged on FTR in the wake of AEW Double or Nothing. Bodyslam.net reports that Dax Harwood & Cash Wheeler, who signed four-year deals with AEW in 2023, are now approaching...",
-      "link": "https://www.f4wonline.com/news/aew/ftr-aew-contract-update-wwe-interest/",
-      "t": "10h",
-      "dt": "2026-05-25T21:10:35+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW not concerned with same-market WWE competition",
-      "p": "AEW isn’t worried about trying to outdo WWE when both promotions have shows in the same market. At the post-Double or Nothing 2026 press conference, Tony Khan was asked if he has anything special...",
-      "link": "https://www.f4wonline.com/news/aew/aew-not-concerned-with-same-market-wwe-competition/",
-      "t": "11h",
-      "dt": "2026-05-25T20:10:02+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Double Or Nothing 2026: Biggest Winners And Losers",
-      "p": "The biggest winners and losers from the 2026 edition of AEW Double or Nothing.",
-      "link": "https://www.wrestlinginc.com/2180683/aew-double-nothing-2026-biggest-winners-losers-opinion-review/",
-      "t": "13h",
-      "dt": "2026-05-25T18:47:55+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "Pruett’s Pause: 10 Thoughts on AEW Double or Nothing 2026 – MJF regains the AEW Men’s World Championship from Darby Allin, The Owen Hart Tournaments begin, Stadium Stampede, and Takeshita vs. Okada",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Double or Nothing 2026 – MJF regains the AEW Men’s World Championship from Darby Allin, The Owen Hart...",
       "link": "https://prowrestling.net/site/2026/05/25/pruetts-pause-10-thoughts-on-aew-double-or-nothing-2026-mjf-regains-the-aew-mens-world-championship-from-darby-allin-the-owen-hart-tournaments-begin-stadium-stampede-and-takesh/",
-      "t": "13h",
+      "t": "20h",
       "dt": "2026-05-25T18:39:58+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "POST NEWS: John Kleinchester’s live coverage of AEW Double or Nothing",
       "p": "John Pollock chats with John Kleinchester after his live coverage of AEW Double or Nothing and attending the post-show press conference. The post POST NEWS: John Kleinchester’s live coverage of...",
       "link": "https://www.postwrestling.com/2026/05/25/post-news-john-kleinchesters-live-coverage-of-aew-double-or-nothing/",
-      "t": "14h",
+      "t": "21h",
       "dt": "2026-05-25T17:58:59+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 5/24 – PWTorch Dailycast – Wrestling Night in America – AEW Double or Nothing post-show: Parks & Griffin break down full card including MJF vs. Darby Allin, Stadium Stampede, Owen Hart Cup matches, more (121 min.)",
-      "p": "SHOW SUMMARY: In our post-PPV “Wrestling Night in America” format, PWTorch columnist Greg Parks is joined by PWTorch.com contributor Chris Griffin to discuss in-depth AEW Double or Nothing,...",
-      "link": "https://www.pwtorch.com/site/2026/05/25/free-podcast-5-24-pwtorch-dailycast-wrestling-night-in-america-aew-double-or-nothing-post-show-parks-griffin-break-down-full-card-including-mjf-vs-darby-allin-stadium-stampede-owen-hart-cu/",
-      "t": "1d",
-      "dt": "2026-05-25T07:50:03+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "05/25 AEW Double Or Nothing audio review: Darby Allin vs. MJF in a hair vs. title match for the AEW World Championship, Kazuchika Okada vs. Konosuke Takeshita for the AEW International Championship",
-      "p": "By Jake Barnett (@jakebarnett) and Jason... The post 05/25 AEW Double Or Nothing audio review: Darby Allin vs. MJF in a hair vs. title match for the AEW World Championship, Kazuchika Okada vs....",
-      "link": "https://prowrestling.net/site/2026/05/25/05-25-aew-double-or-nothing-audio-review-darby-allin-vs-mjf-in-a-hair-vs-title-match-for-the-aew-world-championship-kazuchika-okada-vs-konosuke-takeshita-for-the-aew-international-championship/",
-      "t": "1d",
-      "dt": "2026-05-25T06:39:58+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 5/24 – AEW Double or Nothing PPV Audio Roundtable: Keller & Martin & Fann discuss Darby vs. MJF, Stadium Stampede, Okada vs. Takeshita, Foley’s AEW debut (75 min.)",
-      "p": "SHOW SUMMARY: In this VIP Post-Event Audio Roundtable covering the AEW Double or Nothing PPV event, PWTorch editor Wade Keller is joined by PWTorch VIP analysts Rich Fann and Todd Martin. They...",
-      "link": "https://www.pwtorch.com/site/2026/05/25/vip-podcast-5-24-aew-double-or-nothing-ppv-audio-roundtable-keller-martin-fann-discuss-darby-vs-mjf-stadium-stampede-okada-vs-takeshita-foleys-aew-debut-75-min/",
-      "t": "1d",
-      "dt": "2026-05-25T06:11:11+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Double or Nothing post-event scrum notes: Tony Khan, Will Ospreay & Thekla",
-      "p": "Tony Khan, Thekla and Will Ospreay appeared at the AEW Double or Nothing press conference on Sunday evening. The post AEW Double or Nothing post-event scrum notes: Tony Khan, Will Ospreay & Thekla...",
-      "link": "https://www.postwrestling.com/2026/05/25/aew-double-or-nothing-post-event-scrum-notes-tony-khan-will-ospreay-thekla/",
-      "t": "1d",
-      "dt": "2026-05-25T05:55:18+00:00"
     }
   ]
 }

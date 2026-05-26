@@ -23,8 +23,9 @@ from urllib.error import URLError, HTTPError
 
 OUT = Path(__file__).resolve().parent.parent / "data" / "news.json"
 UA = "Mozilla/5.0 (compatible; AEWsomePodSite/1.0; +https://github.com)"
-MAX_ITEMS = 60          # cap the wall
-MAX_PER_SOURCE = 12     # keep one source from dominating
+MAX_ITEMS = 12          # cap the wall
+MAX_AGE_HOURS = 72      # only show stories from the last 3 days
+MAX_PER_SOURCE = 6      # keep one source from dominating
 
 # Reputable roster. "aew_only" feeds are pre-filtered category feeds and skip
 # keyword matching. General feeds get the loose AEW filter applied.
@@ -92,7 +93,19 @@ def is_aew(title, blurb):
     return False
 
 
+# Headlines that are clearly a WWE show piece get dropped outright, even if
+# the blurb name-drops AEW in passing (e.g. a Raw review that mentions an AEW
+# scrum note). The story's PRIMARY subject is what matters.
+WWE_TITLE_KILL = ["wwe raw", "raw review", "raw results", "smackdown",
+                  "wrestlemania", "royal rumble", "money in the bank",
+                  "nxt ", "summerslam", "wwe nxt", " raw ", "raw rating"]
+
+
 def looks_wwe_only(title, blurb):
+    tl = title.lower()
+    # Hard kill: the headline itself is a WWE show review/recap.
+    if any(k in tl for k in WWE_TITLE_KILL):
+        return True
     text = f"{title} {blurb}".lower()
     has_wwe = any(k in text for k in WWE_ONLY_HINTS)
     has_aew = any(k in text for k in AEW_KEYWORDS)
@@ -205,6 +218,12 @@ def main():
             continue
         seen[it["key"]] = True
         deduped.append(it)
+
+    # Drop anything older than MAX_AGE_HOURS (keep items with no date as a
+    # safety net so a malformed date doesn't silently nuke a real story).
+    from datetime import timedelta
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
+    deduped = [it for it in deduped if (it["dt"] is None or it["dt"] >= cutoff)]
 
     deduped = deduped[:MAX_ITEMS]
 

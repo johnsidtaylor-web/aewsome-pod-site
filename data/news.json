@@ -1,111 +1,111 @@
 {
-  "updated": "2026-05-26T16:11:02.252851+00:00",
+  "updated": "2026-05-26T18:37:46.564821+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "Wrestling Inc": "ok (4 AEW items)",
+    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
   },
   "items": [
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Speedball Mike Bailey: Darby Allin 'Isn't That Smart'",
-      "p": "AEW's Speedball Mike Bailey says that former AEW World Champion Darby Allin \"isn't that smart\" in regards to Allin agreeing to defend the title against Bailey",
-      "link": "https://www.wrestlinginc.com/2181220/aew-speedball-mike-bailey-darby-allin-isnt-smart/",
-      "t": "27m",
-      "dt": "2026-05-26T15:43:50+00:00"
+      "h": "Bully Ray Praises AEW Double Or Nothing 2026, Says It Was A 'Definitive Step Forward'",
+      "p": "Two-time HOFer Bully Ray praises AEW Double or Nothing 2026, saying that the show proved to be a \"definitive step forward\" for the promotion going forward",
+      "link": "https://www.wrestlinginc.com/2181440/bully-ray-aew-double-or-nothing-2026-definitive-step-forward/",
+      "t": "7m",
+      "dt": "2026-05-26T18:29:53+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW Reveals Details Behind Brand New PPV, AEW Redemption, Debuting July 2026",
-      "p": "A brand-new AEW pay-per-view is coming to Canada this July as Montreal will host the first-ever AEW Redemption event.",
-      "link": "https://www.wrestlinginc.com/2181216/aew-redemption-2026-details-date-location-venue/",
-      "t": "31m",
-      "dt": "2026-05-26T15:39:57+00:00"
+      "src": "POST Wrestling",
+      "h": "Kyle Fletcher documents his recovery process and how he avoided surgery",
+      "p": "Kyle Fletcher detailed his recovery process over the past two months, leading to his unannounced appearance at Double or Nothing. The post Kyle Fletcher documents his recovery process and how he...",
+      "link": "https://www.postwrestling.com/2026/05/26/kyle-fletcher-documents-his-recovery-process-and-how-he-avoided-surgery/",
+      "t": "12m",
+      "dt": "2026-05-26T18:24:57+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Christopher Daniels: I Don’t Really Have A Desire To Wrestle Again Because I Don’t Wanna Embarrass Myself",
+      "p": "Returning to in-ring action is not something Christopher Daniels desires. It was back in January 2025 that Christopher Daniels had his final televised match. He wrestled Hangman Adam Page in a...",
+      "link": "https://www.fightful.com/wrestling-news/christopher-daniels-i-dont-really-have-a-desire-to-wrestle-again-because-i-dont-wanna-embarrass-myself/",
+      "t": "26m",
+      "dt": "2026-05-26T18:11:13+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kyle Fletcher did not require surgery for AEW injury",
+      "p": "Kyle Fletcher was able to make his AEW return without undergoing surgery for the injury he suffered in March. While competing on the March 28 episode of Collision, Fletcher tore his meniscus and...",
+      "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-did-not-require-surgery-for-aew-injury/",
+      "t": "33m",
+      "dt": "2026-05-26T18:03:46+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kevin Knight: Speedball Mike Bailey Is To Pro Wrestling What Albert Einstein Is To Science",
+      "p": "Kevin Knight discusses Speedball Mike Bailey and is ability to instruct in the world of professional wrestling. Since the pair both arrived in All Elite Wrestling, Kevin Knight and Speedball Mike...",
+      "link": "https://www.fightful.com/wrestling-news/kevin-kevin-knight-speedball-mike-bailey-is-to-pro-wrestling-what-albert-einstein-is-to-science/",
+      "t": "37m",
+      "dt": "2026-05-26T18:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kyle Fletcher Didn’t Require Surgery For Injuries, Not Cleared For In-Ring Return",
+      "p": "Kyle Fletcher made his return to television at AEW Double or Nothing, attacking Konosuke Takeshita and laying him out with a brainbuster. Fletcher had been sidelined since March 28, when he...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-didnt-require-surgery-for-injuries-not-cleared-for-in-ring-return/",
+      "t": "50m",
+      "dt": "2026-05-26T17:47:09+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Update on Mick Foley’s status for AEW Dynamite",
+      "p": "Mick Foley is All Elite, but it doesn’t sound like he’ll be making an appearance on Dynamite this week. PWInsider reports that, due to a “pre-existing responsibility” from before he signed with...",
+      "link": "https://www.f4wonline.com/news/aew/update-on-mick-foleys-status-for-aew-dynamite/",
+      "t": "59m",
+      "dt": "2026-05-26T17:38:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Injured AEW wrestler Buddy Matthews announced for indie tour",
+      "p": "He’s not medically cleared to compete yet, but AEW wrestler Buddy Matthews has been announced for an indie tour taking place in his home country later this year. Matthews will return to Australia...",
+      "link": "https://www.f4wonline.com/news/aew/injured-aew-wrestler-buddy-matthews-announced-for-indie-tour/",
+      "t": "2h",
+      "dt": "2026-05-26T16:22:17+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW officially announces Redemption PPV, full details",
       "p": "After rumors began in April, AEW officially announced they will have a pay-per-view this July, bringing their yearly total to ten for the first time in their history. Announced by Toronto Sun,...",
       "link": "https://www.f4wonline.com/news/aew/aew-announces-redemption-2026-montreal/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-05-26T14:54:29+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Speedball Mike Bailey: I Am Very, Very Glad that Konosuke Takeshita Is Out Of The Don Callis Family",
-      "p": "Speedball Mike Bailey continues to celebrate any negative moment for Don Callis and his family, this time with Konosuke Takeshita’s exit from the faction. At AEW Double Or Nothing this past...",
-      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-i-am-very-very-glad-that-konosuke-takeshita-is-out-of-the-don-callis-family/",
-      "t": "1h",
-      "dt": "2026-05-26T14:47:11+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW Redemption pay-per-view announced for July 26 in Montreal, Quebec",
       "p": "The first-ever AEW Redemption pay-per-view will take place in Montreal, Quebec, Canada this summer, it was announced Tuesday. The post AEW Redemption pay-per-view announced for July 26 in...",
       "link": "https://www.postwrestling.com/2026/05/26/aew-redemption-pay-per-view-announced-for-july-26-in-montreal-quebec/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-05-26T14:44:34+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Redemption Announced For July 26 In Montreal",
-      "p": "AEW is headed to Montreal for the first-ever AEW Redemption pay-per-view. All Elite Wrestling announced that Redemption will be held on July 26 at the Center Bell in Montreal, Quebec, Canada. From...",
-      "link": "https://www.fightful.com/wrestling-news/aew-redemption-announced-for-july-26-in-montreal/",
-      "t": "1h",
-      "dt": "2026-05-26T14:22:32+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Buddy Matthews announced for World Series Wrestling tour starting in October",
       "p": "For the first time in over a year, AEW's Buddy Matthews has been announced for a professional wrestling event. The post Buddy Matthews announced for World Series Wrestling tour starting in October...",
       "link": "https://www.postwrestling.com/2026/05/26/buddy-matthews-announced-for-world-series-wrestling-tour-starting-in-october/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-05-26T14:13:16+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Another three-hour block of Dynamite and Collision",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Another three-hour block of Dynamite and Collision appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/05/26/aew-dynamite-preview-another-three-hour-block-of-dynamite-and-collision-2/",
-      "t": "3h",
-      "dt": "2026-05-26T13:00:51+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Confirmed final ticket sales number for AEW Double or Nothing 2026 revealed",
       "p": "AEW Double or Nothing 2026 over the weekend was a major success for the company when it came to ticket sales. The company announced that there were 15,015 in attendance, but the latest report from...",
       "link": "https://www.f4wonline.com/news/aew/aew-double-or-nothing-2026-confirmed-final-ticket-sales-number-revealed/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-05-26T09:55:56+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Report: Wardlow was backstage at AEW Double or Nothing",
-      "p": "AEW veteran Wardlow was reportedly backstage at Sunday night's pay-per-view event in New York City. The post Report: Wardlow was backstage at AEW Double or Nothing appeared first on POST Wrestling...",
-      "link": "https://www.postwrestling.com/2026/05/25/report-wardlow-was-backstage-at-aew-double-or-nothing/",
-      "t": "17h",
-      "dt": "2026-05-25T22:14:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Double Or Nothing 2026: Biggest Winners And Losers",
-      "p": "The biggest winners and losers from the 2026 edition of AEW Double or Nothing.",
-      "link": "https://www.wrestlinginc.com/2180683/aew-double-nothing-2026-biggest-winners-losers-opinion-review/",
-      "t": "21h",
-      "dt": "2026-05-25T18:47:55+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: 10 Thoughts on AEW Double or Nothing 2026 – MJF regains the AEW Men’s World Championship from Darby Allin, The Owen Hart Tournaments begin, Stadium Stampede, and Takeshita vs. Okada",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Double or Nothing 2026 – MJF regains the AEW Men’s World Championship from Darby Allin, The Owen Hart...",
-      "link": "https://prowrestling.net/site/2026/05/25/pruetts-pause-10-thoughts-on-aew-double-or-nothing-2026-mjf-regains-the-aew-mens-world-championship-from-darby-allin-the-owen-hart-tournaments-begin-stadium-stampede-and-takesh/",
-      "t": "21h",
-      "dt": "2026-05-25T18:39:58+00:00"
     }
   ]
 }

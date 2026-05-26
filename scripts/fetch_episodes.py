@@ -102,9 +102,12 @@ def main():
             continue
         desc = tag(block, "description") or tag(block, "itunes:summary") \
             or tag(block, "content:encoded")
-        blurb = strip_html(desc)
-        if len(blurb) > 320:
-            blurb = blurb[:317].rsplit(" ", 1)[0] + "..."
+        blurb_full = strip_html(desc)
+        # short version for the compact episode-list rows
+        if len(blurb_full) > 320:
+            blurb_short = blurb_full[:317].rsplit(" ", 1)[0] + "..."
+        else:
+            blurb_short = blurb_full
 
         pub_raw = tag(block, "pubDate")
         try:
@@ -137,7 +140,8 @@ def main():
             "date": date_disp,
             "date_iso": date_iso,
             "len": duration,
-            "blurb": blurb,
+            "blurb": blurb_short,
+            "blurb_full": blurb_full,
             "audio": audio,
             "link": link,
             "guid": guid,

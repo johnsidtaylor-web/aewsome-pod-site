@@ -421,13 +421,24 @@
 
   // chips
   let activeSrc="ALL";
+
+  function relTime(iso){
+    if(!iso) return '';
+    const then=new Date(iso); if(isNaN(then)) return '';
+    const secs=(Date.now()-then.getTime())/1000;
+    if(secs<60) return 'just now';
+    if(secs<3600) return Math.floor(secs/60)+'m ago';
+    if(secs<86400) return Math.floor(secs/3600)+'h ago';
+    return Math.floor(secs/86400)+'d ago';
+  }
+
   function renderNews(){
     const q=document.getElementById('search').value.toLowerCase();const wall=document.getElementById('wall');wall.innerHTML='';
     const f=news.filter(n=>(activeSrc==="ALL"||n.src===activeSrc)&&(!q||(n.h+' '+n.p).toLowerCase().includes(q)));
     document.getElementById('newscount').textContent=f.length+" STORIES";
     if(!f.length){wall.innerHTML="<p class='empty'>No stories match that search.</p>";return}
     f.forEach(n=>{const d=document.createElement('div');d.className='clip';
-      const url=n.link||'#';const tt=n.t?(n.t+" ago"):"";
+      const url=n.link||'#';const tt=relTime(n.dt)|| (n.t?(n.t+' ago'):'');
       d.innerHTML="<div class='src'><span>"+n.src+"</span><span class='time'>"+tt+"</span></div><h3>"+n.h+"</h3><p>"+n.p+"</p><a class='read' target='_blank' rel='noopener' href='"+url+"'>Read at "+n.src+"</a>";
       wall.appendChild(d)});
   }

@@ -1,62 +1,62 @@
 {
-  "updated": "2026-05-27T16:11:38.540972+00:00",
+  "updated": "2026-05-27T18:33:52.849185+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Inc",
-      "h": "AEW EVPs Pull Back Curtain On Kenny Omega's First Cigar",
-      "p": "Kenny Omega smoked his first cigar at AEW Double or Nothing 2026, and the latest episode of \"Being The Elite\" shows what he thought of it.",
-      "link": "https://www.wrestlinginc.com/2182103/aew-evps-pull-back-curtain-kenny-omega-first-cigar/",
-      "t": "19m",
-      "dt": "2026-05-27T15:52:25+00:00"
+      "src": "Fightful",
+      "h": "QT Marshall Not Expected To Miss Time After AEW Double Or Nothing Injury Scare",
+      "p": "An update on QT Marshall. Fightful Select reports “Sources that Fightful Select spoke to backstage and around AEW Dynamite today said that QT Marshall appeared fine after Double or Nothing, and...",
+      "link": "https://www.fightful.com/wrestling-news/qt-marshall-not-expected-to-miss-time-after-aew-double-or-nothing-injury-scare/",
+      "t": "5m",
+      "dt": "2026-05-27T18:28:35+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Wheeler Says Jon Moxley Told Him His Hair Was ‘Like It’s Own Character On The Show’ Prior To Getting His Head Shaved",
-      "p": "Wheeler Yuta reflects on his hair vs hair tag team match where he would team with Marina Shafir against Toni Storm and Orange Cassidy. At AEW Grand Slam Australia in February of this year, Wheeler...",
-      "link": "https://www.fightful.com/wrestling-news/wheeler-yuta-says-hair-vs-hair-tag-match-with-toni-storm-and-orange-cassidy-was-a-crowning-achievement/",
-      "t": "30m",
-      "dt": "2026-05-27T15:41:15+00:00"
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay says BOSJ match vs. Ricochet ‘changed everything’",
+      "p": "New Japan Pro Wrestling, Will Ospreay and others are reflecting on one of the greatest matches in Best of the Super Juniors history. On May 27, 2016, Ospreay defeated Ricochet in a match that went...",
+      "link": "https://www.f4wonline.com/news/new-japan/will-ospreay-says-bosj-match-vs-ricochet-changed-everything/",
+      "t": "11m",
+      "dt": "2026-05-27T18:22:12+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Wheeler Yuta Names Matches With Jon Moxley And Bryan Danielson As His AEW Favorites",
-      "p": "Wheeler Yuta names his favorite matches in AEW so far, naming his two matches with Jon Moxley and Bryan Danielson. While Yuta has been part of the Death Riders since the faction began in 2024, he...",
-      "link": "https://www.fightful.com/wrestling-news/wheeler-yuta-names-matches-with-jon-moxley-and-bryan-danielson-as-his-aew-favorites/",
-      "t": "55m",
-      "dt": "2026-05-27T15:16:19+00:00"
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Stadium Stampede once had an acceptable purpose and now it’s a net negative in several ways, Takeshita shines against Okada",
+      "p": "Welcome everyone! “No one does PPV like AEW” is their tagline and, in 2026, I do not think it can be argued. AEW has really built up goodwill with their fanbase through PPV’s over their [...]",
+      "link": "https://www.pwtorch.com/site/2026/05/27/aew-rising-and-fading-stars-stadium-stampede-once-had-an-acceptable-purpose-and-now-its-a-net-negative-in-several-ways-takeshita-shines-against-okada/",
+      "t": "56m",
+      "dt": "2026-05-27T17:37:09+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE & COLLISION PREVIEW (5/27): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, MAY 27, 2026 Where: PHILADELPHIA, PA. AT LIACOURAS CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,535 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/05/27/aew-dynamite-collision-preview-5-27-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "1h",
+      "dt": "2026-05-27T16:45:09+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW ticket distribution update for tonight’s Dynamite & Collision in Philadelphia",
       "p": "An update is available regarding how many tickets have been distributed to tonight’s episode of AEW Dynamite. The show, which will be a three-hour block of programming with a two-hour Dynamite...",
       "link": "https://www.f4wonline.com/news/aew/aew-ticket-distribution-update-for-tonights-dynamite-collision-in-philadelphia/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-05-27T14:56:27+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Wheeler Yuta: Becoming A Wrestler Was Just A Childhood Dream, Then I Chased That Dream My Whole Life",
-      "p": "Wheeler Yuta discusses how becoming a wrestler was always his childhood dream that he has chased his whole life. While Yuta has been around in AEW for several years now, it is easy to forget that...",
-      "link": "https://www.fightful.com/wrestling-news/wheeler-yuta-becoming-a-wrestler-was-just-a-childhood-dream-then-i-chased-that-dream-my-whole-life/",
-      "t": "2h",
-      "dt": "2026-05-27T14:05:08+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite preview: Tonight’s three-hour block of Dynamite and Collision",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s three-hour block of Dynamite and Collision appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/05/27/aew-dynamite-preview-tonights-three-hour-block-of-dynamite-and-collision-3/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-05-27T14:00:55+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "Kyle Fletcher reveals he ‘didn’t even feel like a pro wrestler anymore’ during recovery",
       "p": "Kyle Fletcher shared his reaction following his AEW return at Double or Nothing. He expressed the overwhelming emotions during recovery. In his latest vlog, Protolog, Fletcher recorded his...",
       "link": "https://www.f4wonline.com/news/kyle-fletcher-reveals-he-didnt-even-feel-like-a-pro-wrestler-anymore-during-recovery/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-05-27T13:59:27+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "AEW Dynamite and Collision in Philadelphia, WWE Evolve, last week’s Dynamite and Collision grades, Eric Bischoff, Natalya",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite and Collision in Philadelphia, WWE Evolve, last week’s Dynamite and Collision grades, Eric Bischoff, Natalya appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/05/27/aew-dynamite-and-collision-in-philadelphia-wwe-evolve-last-weeks-dynamite-and-collision-grades-eric-bischoff-natalya/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-05-27T12:00:11+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "The Young Bucks reveal Stadium Stampede was shot mostly live on site at AEW Double or Nothing PPV",
       "p": "The Young Bucks (Matt & Nick Jackson), who were part of the Stadium Stampede match at Double or Nothing, have revealed that the match was shot almost entirely live on location at Louis Armstrong...",
       "link": "https://www.pwtorch.com/site/2026/05/27/the-young-bucks-reveal-stadium-stampede-was-shot-mostly-live-on-site-at-aew-double-or-nothing-ppv/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-05-27T05:09:26+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "05/26 Wade Keller Pro Wrestling Podcast: Powell and Keller on Brock Lesnar and Oba Femi, Roman Reigns and Jacob Fatu, MJF vs. Darby Allin, WWE PLE free hour on ESPN, Owen Hart Cup Tournament, Mick Foley",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 05/26 Wade Keller Pro Wrestling Podcast: Powell and Keller on Brock Lesnar and Oba Femi, Roman Reigns and Jacob Fatu, MJF vs. Darby Allin, WWE...",
       "link": "https://prowrestling.net/site/2026/05/26/05-26-wade-keller-pro-wrestling-podcast-powell-and-keller-on-brock-lesnar-and-oba-femi-roman-reigns-and-jacob-fatu-mjf-vs-darby-allin-wwe-ple-free-hour-on-espn-owen-hart-cup-tournament-mick-fol/",
-      "t": "11h",
+      "t": "14h",
       "dt": "2026-05-27T04:23:17+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "FREE PODCAST 5/26 – WKPWP Flagship: Keller & Powell discuss Lesnar-Oba, Reigns-Fatu, MJF vs. Darby, free hours on ESPN, wrestlers stepping up on Raw, Owen Hart Tournament, Foley (113 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the weekly Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Jason Powell from ProWrestling.net and the Pro Wrestling...",
       "link": "https://www.pwtorch.com/site/2026/05/26/free-podcast-5-26-wkpwp-flagship-keller-powell-discuss-lesnar-oba-reigns-fatu-mjf-vs-darby-free-hours-on-espn-wrestlers-stepping-up-on-raw-owen-hart-tournament-foley-113-min/",
-      "t": "11h",
+      "t": "14h",
       "dt": "2026-05-27T04:16:33+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Jericho vs. Ricochet, Lights Out Philly Street Fight added to AEW Dynamite",
       "p": "AEW will follow its Double or Nothing with a three-hour episode of Dynamite/Collision on Wednesday night from Philadelphia. The post Jericho vs. Ricochet, Lights Out Philly Street Fight added to...",
       "link": "https://www.postwrestling.com/2026/05/26/jericho-vs-ricochet-lights-out-philly-street-fight-added-to-aew-dynamite/",
-      "t": "12h",
+      "t": "15h",
       "dt": "2026-05-27T03:12:19+00:00"
     }
   ]

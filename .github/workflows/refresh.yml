@@ -2,8 +2,10 @@ name: Refresh feed data
 
 on:
   schedule:
-    - cron: "15 */4 * * *"
-  workflow_dispatch: {}
+    # Runs at :15 past every hour (UTC). ~24 refreshes/day.
+    # NOTE: GitHub schedules are best-effort and may lag or skip under load.
+    - cron: "15 * * * *"
+  workflow_dispatch: {}   # lets you trigger manually from the Actions tab
   push:
     branches: [ main ]
     paths:
@@ -27,7 +29,7 @@ jobs:
 
       - name: Fetch episodes
         run: python scripts/fetch_episodes.py
-        continue-on-error: true
+        continue-on-error: true   # one feed failing shouldn't kill the run
 
       - name: Fetch AEW news
         run: python scripts/fetch_news.py
@@ -39,8 +41,9 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add data/episodes.json data/news.json
           if git diff --staged --quiet; then
-            echo "No changes to commit."
+            echo "No changes to commit — data identical to last run."
           else
             git commit -m "chore: refresh feed data [skip ci]"
-            git push
+            echo "Committed. Attempting push..."
+            git push && echo "PUSH SUCCEEDED" || (echo "PUSH FAILED — check Settings > Actions > Workflow permissions (needs Read and write)"; exit 1)
           fi

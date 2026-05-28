@@ -1,9 +1,9 @@
 {
-  "updated": "2026-05-28T00:13:09.565982+00:00",
+  "updated": "2026-05-28T04:39:51.524951+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (6 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,100 +12,100 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Trios title match, TBS Championship future part of next AEW Collision lineup",
+      "p": "The next episode of AEW Collision is set to take place on May 30, 2026, in Huntsville, Alabama. Scheduled to take place at Von Braun Center in Huntsville, Alabama, on Saturday, May 30, 2026, AEW...",
+      "link": "https://www.f4wonline.com/news/aew/trios-title-match-tbs-championship-future-part-of-next-aew-collision-lineup/",
+      "t": "27m",
+      "dt": "2026-05-28T04:12:17+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "TBS Championship Situation To Be Addressed, AEW Trios Title Bout, More Announced For 5/30 Collision",
+      "p": "The future of the TBS Championship. All Elite Wrestling’s Collision program is back to two hours for the May 30th show. The show is taking place at Propst Arena in Huntsville, Alabama, and the...",
+      "link": "https://www.fightful.com/wrestling-news/tbs-championship-situation-to-be-addressed-aew-trios-title-bout-more-announced-for-5-30-collision/",
+      "t": "57m",
+      "dt": "2026-05-28T03:42:43+00:00"
+    },
+    {
       "src": "PWTorch",
-      "h": "AEW DYNAMITE RESULTS (5/20): Keller’s report on Ricochet vs. Jericho, Perry vs. Davis in Owen Cup Tournament, Statlander vs. Shida, plus promos by Knight, Fletcher, MJF",
-      "p": "AEW DYNAMITE REPORT MAY 27, 2026 PHILADELPHIA, PA. AT LIACOURAS CENTER AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring Announcer:...",
-      "link": "https://www.pwtorch.com/site/2026/05/27/aew-dynamite-results-5-20-kellers-report-on-ricochet-vs-jericho-perry-vs-davis-in-owen-cup-tournament-statlander-vs-shida-plus-promos-by-knight-fletcher-mjf/",
-      "t": "12m",
-      "dt": "2026-05-28T00:00:23+00:00"
+      "h": "AEW COLLISION RESULTS (5/27): Ospreay teams with the Death Riders, Ace Austin vs. Andrade, Statlander vs. Shida in a Philly Street Fight",
+      "p": "AEW COLLISION REPORT MAY 27, 2026 PHILADELPHIA, PA. AT LIACOURAS CENTER AIRED LIVE ON TBS & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Excalibur & Tony Schiavone & Taz Ring...",
+      "link": "https://www.pwtorch.com/site/2026/05/27/aew-collision-results-5-27-ospreay-teams-with-the-death-riders-ace-austin-vs-andrade-statlander-vs-shida-in-a-philly-street-fight/",
+      "t": "58m",
+      "dt": "2026-05-28T03:40:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW programming leaving NJPW World this summer",
+      "p": "The end of AEW TV on NJPW World is coming soon for those in Japan. Announced Wednesday by NJPW, archive episodes of Dynamite, Collision, Rampage, Battle of the Belts and AEW Now will no longer be...",
+      "link": "https://www.f4wonline.com/news/new-japan/aew-programming-leave-njpw-world-this-summer/",
+      "t": "1h",
+      "dt": "2026-05-28T03:37:22+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF vs. RUSH For AEW World Championship, Kevin Knight vs. ‘Speedball’ Mike Bailey For TNT Title, More Set For 6/3 Dynamite",
+      "p": "MJF and Kevin Knight to defend their respective titles. Coming off the heels of the May 27th edition of AEW Dynamite, the lineup was set for the June 3rd show at the Siegel Center in Richmond,...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-vs-rush-for-aew-world-championship-kevin-knight-vs-speedball-mike-bailey-for-tnt-title-more-set-for-6-3-dynamite/",
+      "t": "1h",
+      "dt": "2026-05-28T03:31:55+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Content Will No Longer Be Available To NJPW World Users In Japan In September",
+      "p": "AEW content will no longer be available to NJPW World users in Japan by the end of the summer. NJPW announced that the content will be unavailable beginning on August 31. Fans in Japan can use...",
+      "link": "https://www.fightful.com/wrestling-news/aew-content-will-no-longer-be-available-to-njpw-world-users-in-japan-in-september/",
+      "t": "1h",
+      "dt": "2026-05-28T03:31:36+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "MJF World title defense, Kevin Knight vs. Speedball part of next week’s AEW Dynamite",
+      "p": "AEW World Champion MJF will defend the title for the first time in his third reign on next week’s AEW Dynamite. He will put the title up against Rush who called his shot after picking up a win in...",
+      "link": "https://www.f4wonline.com/news/aew/mjf-rush-next-week-aew-dynamite-lineup/",
+      "t": "1h",
+      "dt": "2026-05-28T03:20:04+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kyle Fletcher says he is cleared to return to the ring",
+      "p": "After making a surprise return at last Sunday’s AEW Double or Nothing, former TNT Champion Kyle Fletcher revealed that he is “100% cleared” to return to action. Fletcher appeared on Wednesday’s...",
+      "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-cleared-to-return-aew/",
+      "t": "1h",
+      "dt": "2026-05-28T03:14:57+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 5/27 – WKPWP Flagship from 5 Yrs Ago: Keller & Parks discuss whether CM Punk would be better fit in AEW or WWE if he returned, pros and cons of Ultimate Warrior documentary, fans returning (100 min.)",
+      "p": "SHOW SUMMARY: In this week’s Flagship Flashback episode of the Wade Keller Pro Wrestling Podcast from five years ago (5-25-2021), PWTorch editor Wade Keller was joined by PWTorch columnist and...",
+      "link": "https://www.pwtorch.com/site/2026/05/27/free-podcast-5-27-wkpwp-flagship-from-5-yrs-ago-keller-parks-discuss-whether-cm-punk-would-be-better-fit-in-aew-or-wwe-if-he-returned-pros-and-cons-of-ultimate-warrior-documentary-fans/",
+      "t": "1h",
+      "dt": "2026-05-28T03:00:09+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "AEW Dynamite 5/27 Live Results: MJF title celebration, Owen Hart tournament continues & more",
-      "p": "Follow POST Wrestling's live coverage of AEW Dynamite as it happens this evening! The post AEW Dynamite 5/27 Live Results: MJF title celebration, Owen Hart tournament continues & more appeared...",
+      "h": "AEW Dynamite 5/27 Results: MJF accepts challenge from Rush, Mark Davis & Brody King advance in Owen Cup",
+      "p": "MJF's first challenger was decided on Wednesday, when he accepted a match against Rush on AEW Dynamite. The post AEW Dynamite 5/27 Results: MJF accepts challenge from Rush, Mark Davis & Brody King...",
       "link": "https://www.postwrestling.com/2026/05/27/aew-dynamite-5-27-live-results-mjf-title-celebration-owen-hart-tournament-continues-more/",
-      "t": "12m",
-      "dt": "2026-05-28T00:00:07+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite results (5/27): Barnett’s review of MJF’s celebration for becoming a three-time AEW World Champion, Hikaru Shida vs. Kris Statlander in a Lights Out Philly Street Fight",
-      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post AEW Dynamite results (5/27): Barnett’s review of MJF’s celebration for becoming a three-time AEW World Champion, Hikaru Shida vs. Kris...",
-      "link": "https://prowrestling.net/site/2026/05/27/aew-dynamite-results-5-27-barnetts-review-of-mjfs-celebration-for-becoming-a-three-time-aew-world-champion-hikaru-shida-vs-kris-statlander-in-a-lights-out-philly-street-fight/",
-      "t": "42m",
-      "dt": "2026-05-27T23:30:59+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Results (5/27/2026): Lights Out Match, MJF Appears, Kevin Knight, More",
-      "p": "Full results for the May 27, 2026, edition of AEW Dynamite on TBS live from the Liacouras Center in Philadelphia, Pennsylvania. On May 27, 2026, All Elite Wrestling hosted a new episode of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-5-27-2026-lights-out-match-mjf-appears-kevin-knight-more/",
-      "t": "58m",
-      "dt": "2026-05-27T23:15:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay, Jon Moxley & PAC vs. The Rascalz, Four-Way Match Added To 5/27 AEW Dynamite/Collision",
-      "p": "Will Ospreay teaming with the Death Riders is among the additions to the three-hour AEW Dynamite/Collision broadcast. The Liacouras Center in Philadelphia, Pennsylvania, is playing host to the...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-jon-moxley-pac-vs-the-rascalz-four-way-match-added-to-5-27-aew-dynamite-collision/",
       "t": "1h",
-      "dt": "2026-05-27T23:06:24+00:00"
+      "dt": "2026-05-28T03:00:07+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Stardom President Taro Okada Expects Stardom-NJPW Relationship To Continue",
+      "p": "On Wednesday morning, it was announced that Bushiroad was transferring all shares in New Japan Pro-Wrestling (NJPW) to CyberAgent and TV Asahi. Bushiroad acquired NJPW in 2012, and is also the...",
+      "link": "https://www.fightful.com/wrestling-news/stardom-president-taro-okada-expects-stardom-njpw-relationship-to-continue/",
+      "t": "1h",
+      "dt": "2026-05-28T02:56:49+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Dynamite & Collision live results: Chris Jericho vs. Ricochet, MJF title celebration",
-      "p": "AEW Dynamite tonight is live from Philadelphia featuring the fallout from Sunday’s Double or Nothing pay-per-view. MJF will celebrate his third AEW World Championship win on the show. The Owen...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-collision-live-results-chris-jericho-vs-ricochet-mjf-title-celebration/",
+      "h": "Samoa Joe ‘stepping away’ from AEW for a few months",
+      "p": "Former AEW World Champion Samoa Joe is “stepping away” for a few months. He revealed the news during the third hour of Wednesday’s combo Dynamite & Collision during a backstage segment, flanked by...",
+      "link": "https://www.f4wonline.com/news/aew/samoa-joe-stepping-away-aew-twisted-metal-season-three/",
       "t": "1h",
-      "dt": "2026-05-27T23:05:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite & Collision Results 5/27 - Lights Out Philadelphia Street Fight, MJF Appears",
-      "p": "This is Wrestling Inc.'s coverage for \"Dynamite\" & \"Collision\" on May 27, with a Lights Out Philadelphia Street Fight between Kris Statlander & Hikaru Shida!",
-      "link": "https://www.wrestlinginc.com/2181792/aew-dynamite-collision-may-27-lights-out-philadelphia-street-fight-mjf-appears/",
-      "t": "1h",
-      "dt": "2026-05-27T23:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Double Or Nothing poll results for best match and overall grade",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Double Or Nothing poll results for best match and overall grade appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/05/27/aew-double-or-nothing-poll-results-for-best-match-and-overall-grade-7/",
-      "t": "1h",
-      "dt": "2026-05-27T22:14:37+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW FEUD TRACKER: Barber’s assessment of the latest feuds coming out of AEW Double or Nothing including Knight’s turn, Fletcher’s choice, Takeshita’s big win",
-      "p": "HOUSEKEEPING • AEW officially announced that the new PPV Redemption will take place on July 26 in Montreal, Quebec, Canada. INTRO Double or Nothing is behind us but the fallout is just getting...",
-      "link": "https://www.pwtorch.com/site/2026/05/27/aew-feud-tracker-barbers-assessment-of-the-latest-feuds-coming-out-of-aew-double-or-nothing-including-knights-turn-fletchers-choice-takeshitas-big-win/",
-      "t": "3h",
-      "dt": "2026-05-27T21:03:52+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay Reflects On Ten-Year Anniversary Of NJPW BOSJ Bout With Ricochet",
-      "p": "On May 27, 2016, Ricochet and Will Ospreay broke wrestling social media when they faced off in the Best of Super Juniors tournament. The match was clipped and highlighted to show the athleticism...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-reflects-on-ten-year-anniversary-of-njpw-bosj-bout-with-ricochet/",
-      "t": "3h",
-      "dt": "2026-05-27T20:31:56+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP NEWSLETTER – PRO WRESTLING TORCH #1971 (May 27, 2026): Keller’s AEW Double or Nothing report and Staff Roundtable Reviews, Parks on latest book on early ’90s WWF, TV reports",
-      "p": "PWTorch Newsletter #1971 Cover-dated May 27, 2026 LINK: 1971 PWTorch Newsletter PDF –LIST OF ALL LATEST NEWSLETTERS –CLICK HERE FOR DIRECTORY OF ALL PAST NEWSLETTERS BY YEAR SUMMARY: This week’s...",
-      "link": "https://www.pwtorch.com/site/2026/05/27/vip-newsletter-pro-wrestling-torch-1971-may-27-2026-kellers-aew-double-or-nothing-report-and-staff-roundtable-reviews-parks-on-latest-book-on-early-90s-wwf-tv-reports/",
-      "t": "5h",
-      "dt": "2026-05-27T18:55:12+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay says BOSJ match vs. Ricochet ‘changed everything’",
-      "p": "New Japan Pro Wrestling, Will Ospreay and others are reflecting on one of the greatest matches in Best of the Super Juniors history. On May 27, 2016, Ospreay defeated Ricochet in a match that went...",
-      "link": "https://www.f4wonline.com/news/new-japan/will-ospreay-says-bosj-match-vs-ricochet-changed-everything/",
-      "t": "5h",
-      "dt": "2026-05-27T18:22:12+00:00"
+      "dt": "2026-05-28T02:56:16+00:00"
     }
   ]
 }

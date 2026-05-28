@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T22:05:55.596278+00:00",
+  "updated": "2026-05-28T23:42:06.831775+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -13,10 +13,34 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "ROH live results: Bandido vs. Volador Jr, Mark Davis vs. Adam Priest",
+      "p": "Ring of Honor is back on HonorClub tonight. This week’s episode was taped at the WJCT Studios in Jacksonville, Florida. The ROH World Championship will be on the line tonight as Bandido puts his...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-live-results-bandido-vs-volador-jr-mark-davis-vs-adam-priest/",
+      "t": "37m",
+      "dt": "2026-05-28T23:05:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "STARDOM Announces Change To May 30th Card Because Hazuki Is Competing On AEW Collision",
+      "p": "Hazuki is set to debut for AEW. World Wonder Ring STARDOM has a show scheduled for May 30th at the Kobe Sambo Hall in Japan. Among the names advertised for the show was Hazuki. STARDOM announced...",
+      "link": "https://www.fightful.com/wrestling-news/stardom-announces-change-to-may-30th-card-because-hazuki-is-competing-on-aew-collision/",
+      "t": "1h",
+      "dt": "2026-05-28T22:41:53+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "05/29 Dot Net Weekly audio show: Barnett and Powell share WWE Clash in Italy predictions, discuss the NJPW sale, the WWE shareholders lawsuit, AEW Dynamite",
+      "p": "By Jake Barnett (@jakebarnett) and... The post 05/29 Dot Net Weekly audio show: Barnett and Powell share WWE Clash in Italy predictions, discuss the NJPW sale, the WWE shareholders lawsuit, AEW...",
+      "link": "https://prowrestling.net/site/2026/05/28/05-29-dot-net-weekly-audio-show-barnett-and-powell-share-wwe-clash-in-italy-predictions-discuss-the-njpw-sale-the-wwe-shareholders-lawsuit-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-05-28T22:38:28+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "AEW Collision ticket distribution update for Saturday’s show",
       "p": "An update is available regarding how many tickets have been distributed to AEW Collision on Saturday. The show is scheduled for the Von Braun Center in Huntsville, Alabama. According to a post...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-distribution-update-for-saturdays-show/",
-      "t": "30m",
+      "t": "2h",
       "dt": "2026-05-28T21:35:30+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "POST NEWS: Joe Hennig arrested, Jim Ross’ AEW deal, Rousey responds to Holm",
       "p": "John Pollock covers the news, including Joe Hennig’s arrest, Jim Ross shares a contract update, and Ronda Rousey responds to Holly Holm. The post POST NEWS: Joe Hennig arrested, Jim Ross’ AEW...",
       "link": "https://www.postwrestling.com/2026/05/28/post-news-joe-hennig-arrested-jim-ross-aew-deal-rousey-responds-to-holm/",
-      "t": "56m",
+      "t": "2h",
       "dt": "2026-05-28T21:09:50+00:00"
     },
     {
@@ -32,23 +56,15 @@
       "h": "Daily Update: WWE notes, Twisted Metal, MJF",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Thursday Update WWE...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-wwe-notes-twisted-metal-mjf/",
-      "t": "1h",
-      "dt": "2026-05-28T21:00:36+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ronda Rousey Addresses Possibility Of Having AEW Run, Says Being On The Road Is Time-Consuming",
-      "p": "The idea of having another pro wrestling run is not appealing to Ronda Rousey. It was back in March at All Elite Wrestling’s Revolution pay-per-view that UFC Hall of Famer and multi-time WWE...",
-      "link": "https://www.fightful.com/wrestling-news/ronda-rousey-addresses-possibility-of-having-aew-run-says-being-on-the-road-is-time-consuming/",
       "t": "2h",
-      "dt": "2026-05-28T20:05:14+00:00"
+      "dt": "2026-05-28T21:00:36+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "WOL: WWE lawsuit details, Dynamite, Clash in Italy odds, more!",
       "p": "Wrestling Observer Live with Bryan Alvarez is back with a solo show talking all sorts of topics including tons of info on the WWE shareholder lawsuit and why it looks bad for Vince and company,...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-wwe-lawsuit-details-dynamite-clash-in-italy-odds-more/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-05-28T20:03:22+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW Programming Will Soon No Longer Be Available On NJPW World In Japan",
       "p": "AEW content will be moving away from NJPW World this summer as MyAEW continues to establish itself as the international destination for the company.",
       "link": "https://www.wrestlinginc.com/2183201/aew-njpw-world-no-longer-available-japan/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-05-28T19:29:44+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Ronda Rousey addresses Tony Khan’s AEW open-door invitation",
       "p": "Though the door is open for an AEW return if she wants it, Ronda Rousey doesn’t have any plans to get back into professional wrestling. Rousey, in the middle of promoting her MMA comeback fight,...",
       "link": "https://www.f4wonline.com/news/aew/ronda-rousey-addresses-tony-khans-aew-open-door-invitation/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-05-28T19:25:48+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Brian Myers recalls the first time MJF came to his Create A Pro wrestling school, going on a “honeymoon” with Joe Hennig, training with The Rock",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Brian Myers recalls the first time MJF came to his Create A Pro wrestling school, going on a “honeymoon” with Joe Hennig, training with The...",
       "link": "https://prowrestling.net/site/2026/05/28/brian-myers-recalls-the-first-time-mjf-came-to-his-create-a-pro-wrestling-school-going-on-a-honeymoon-with-joe-hennig-training-with-the-rock/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-05-28T18:30:11+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on new AEW World Champion MJF’s first two challengers, Kevin Knight’s heel mic work, the Owen Hart Cup matches",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on new AEW World Champion MJF’s first two challengers, Kevin Knight’s heel mic work, the Owen Hart Cup...",
       "link": "https://prowrestling.net/site/2026/05/28/powells-aew-dynamite-hit-list-thoughts-on-new-aew-world-champion-mjfs-first-two-challengers-kevin-knights-heel-mic-work-the-owen-hart-cup-matches/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-05-28T17:30:45+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "AEW DYNAMITE HITS & MISSES (5/27): Copeland and Christian fun with disposable cameras, Omega and Ospreay’s heart-to-heart, Knight explains himself, wrestlers circling around MJF and his AEW Title, Jericho winning fans back, more",
       "p": "HITS OMEGA-OSPREAY HEART TO HEART This drama was a solid way to start the show. Kenny Omega asked the question most fans would be asking: “Why the Death Riders?”. And it was a fair question. [...]",
       "link": "https://www.pwtorch.com/site/2026/05/28/aew-dynamite-hits-misses-5-27-copeland-and-christian-fun-with-disposable-cameras-omega-and-ospreays-heart-to-heart-knight-explains-himself-wrestlers-circling-around-mjf-and-his-aew-title-je/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-05-28T17:23:05+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "New match added to AEW Collision lineup",
-      "p": "Stardom wrestler Hazuki will make her AEW debut this weekend ahead of competing in the 2026 Owen Hart Foundation tournament. Hazuki vs. Maya World is the newest addition to the card for Saturday’s...",
-      "link": "https://www.f4wonline.com/news/aew/hazuki-maya-world-set-aew-collision/",
-      "t": "5h",
-      "dt": "2026-05-28T17:01:36+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Jim Ross suffers fall prior to Double or Nothing, shares update on his AEW contract status",
-      "p": "Jim Ross suffered a fall before his trip to New York for Double or Nothing this past weekend and shared an update on his contract status. The post Jim Ross suffers fall prior to Double or Nothing,...",
-      "link": "https://www.postwrestling.com/2026/05/28/jim-ross-suffers-fall-prior-to-double-or-nothing-shares-update-on-his-aew-contract-status/",
-      "t": "5h",
-      "dt": "2026-05-28T16:20:16+00:00"
     }
   ]
 }

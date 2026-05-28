@@ -1,9 +1,9 @@
 {
-  "updated": "2026-05-28T08:52:58.406795+00:00",
+  "updated": "2026-05-28T12:45:09.779070+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (5 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "WOR: New Japan sale, WWE shareholder suit, Dynamite and Collision, more!",
+      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including New Japan new ownership and what this means, the WWE shareholder lawsuit, AEW Dynamite and...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-new-japan-sale-wwe-shareholder-suit-dynamite-and-collision-more/",
+      "t": "3h",
+      "dt": "2026-05-28T08:55:33+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "05/27 Barnett’s AEW Dynamite audio review: AEW Double or Nothing fallout show, Powell’s bonus AEW Collision coverage",
       "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 05/27 Barnett’s AEW Dynamite audio review: AEW Double or Nothing fallout show, Powell’s bonus AEW Collision coverage appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/05/28/05-27-barnetts-aew-dynamite-audio-review-aew-double-or-nothing-fallout-show-powells-bonus-aew-collision-coverage/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-05-28T06:10:00+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "FREE PODCAST 5/27 – WKPWP after Dynamite: Keller & Kline talk Double or Nothing fallout including MJF’s challengers lining up, Ospreay-Omega heart-to-heart, Owen Hart Cup tournament, AEW’s Top Six (93 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Dennis Kline to review AEW Dynamite with chat and email interactions throughout. They open with a discussion about MJF’s...",
       "link": "https://www.pwtorch.com/site/2026/05/27/free-podcast-5-27-wkpwp-after-dynamite-keller-kline-talk-double-or-nothing-fallout-including-mjfs-challengers-lining-up-ospreay-omega-heart-to-heart-owen-hart-cup-tournament-aews-t/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-05-28T04:52:53+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "VIP PODCAST 5/27 – WKH – AEW Dynamite: Jericho vs. Ricochet, MJF’s title win celebration, Perry vs. Davis, Brody vs. Claudio, Knight explains himself (22 min.)",
       "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the May 27 episode of AEW Dynamite start to finish including Chris Jericho vs. Ricochet, Claudio vs....",
       "link": "https://www.pwtorch.com/site/2026/05/27/vip-podcast-5-27-wkh-aew-dynamite-jericho-vs-ricochet-mjfs-title-win-celebration-perry-vs-davis-brody-vs-claudio-knight-explains-himself-22-min/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-05-28T04:43:11+00:00"
     },
     {
@@ -40,15 +48,23 @@
       "h": "Trios title match, TBS Championship future part of next AEW Collision lineup",
       "p": "The next episode of AEW Collision is set to take place on May 30, 2026, in Huntsville, Alabama. Scheduled to take place at Von Braun Center in Huntsville, Alabama, on Saturday, May 30, 2026, AEW...",
       "link": "https://www.f4wonline.com/news/aew/trios-title-match-tbs-championship-future-part-of-next-aew-collision-lineup/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-05-28T04:12:17+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite & Collision 5/27/2026: 3 Things We Hated & 3 Things We Loved",
+      "p": "After more than three hours of programming, here are three things we hated and three things we loved about the 5/27/26 episode of \"AEW Dynamite & Collision!\"",
+      "link": "https://www.wrestlinginc.com/2182660/aew-dynamite-collision-may-27-2026-hated-loved-opinion-review/",
+      "t": "8h",
+      "dt": "2026-05-28T04:00:32+00:00"
     },
     {
       "src": "Fightful",
       "h": "TBS Championship Situation To Be Addressed, AEW Trios Title Bout, More Announced For 5/30 Collision",
       "p": "The future of the TBS Championship. All Elite Wrestling’s Collision program is back to two hours for the May 30th show. The show is taking place at Propst Arena in Huntsville, Alabama, and the...",
       "link": "https://www.fightful.com/wrestling-news/tbs-championship-situation-to-be-addressed-aew-trios-title-bout-more-announced-for-5-30-collision/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-05-28T03:42:43+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW COLLISION RESULTS (5/27): Ospreay teams with the Death Riders, Ace Austin vs. Andrade, Statlander vs. Shida in a Philly Street Fight",
       "p": "AEW COLLISION REPORT MAY 27, 2026 PHILADELPHIA, PA. AT LIACOURAS CENTER AIRED LIVE ON TBS & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Excalibur & Tony Schiavone & Taz Ring...",
       "link": "https://www.pwtorch.com/site/2026/05/27/aew-collision-results-5-27-ospreay-teams-with-the-death-riders-ace-austin-vs-andrade-statlander-vs-shida-in-a-philly-street-fight/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-05-28T03:40:51+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW programming leaving NJPW World this summer",
       "p": "The end of AEW TV on NJPW World is coming soon for those in Japan. Announced Wednesday by NJPW, archive episodes of Dynamite, Collision, Rampage, Battle of the Belts and AEW Now will no longer be...",
       "link": "https://www.f4wonline.com/news/new-japan/aew-programming-leave-njpw-world-this-summer/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-05-28T03:37:22+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "MJF vs. RUSH For AEW World Championship, Kevin Knight vs. ‘Speedball’ Mike Bailey For TNT Title, More Set For 6/3 Dynamite",
       "p": "MJF and Kevin Knight to defend their respective titles. Coming off the heels of the May 27th edition of AEW Dynamite, the lineup was set for the June 3rd show at the Siegel Center in Richmond,...",
       "link": "https://www.fightful.com/wrestling-news/mjf-vs-rush-for-aew-world-championship-kevin-knight-vs-speedball-mike-bailey-for-tnt-title-more-set-for-6-3-dynamite/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-05-28T03:31:55+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "AEW Content Will No Longer Be Available To NJPW World Users In Japan In September",
       "p": "AEW content will no longer be available to NJPW World users in Japan by the end of the summer. NJPW announced that the content will be unavailable beginning on August 31. Fans in Japan can use...",
       "link": "https://www.fightful.com/wrestling-news/aew-content-will-no-longer-be-available-to-njpw-world-users-in-japan-in-september/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-05-28T03:31:36+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Jet Lag: AEW Dynamite & Collision 5/27/26 Review | RAD",
       "p": "John & Wai review AEW Dynamite & Collision w/ Speedball confronting Kevin Knight, Double or Nothing fallout. XL: Bushiroad transfers NJPW shares, judge sanctions Vince/Nick Khan in merger lawsuit,...",
       "link": "https://www.postwrestling.com/2026/05/27/aew-dynamite-collision-5-27-26-review-rad-live-11pm-et/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-05-28T03:30:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "MJF World title defense, Kevin Knight vs. Speedball part of next week’s AEW Dynamite",
-      "p": "AEW World Champion MJF will defend the title for the first time in his third reign on next week’s AEW Dynamite. He will put the title up against Rush who called his shot after picking up a win in...",
-      "link": "https://www.f4wonline.com/news/aew/mjf-rush-next-week-aew-dynamite-lineup/",
-      "t": "5h",
-      "dt": "2026-05-28T03:20:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kyle Fletcher says he is cleared to return to the ring",
-      "p": "After making a surprise return at last Sunday’s AEW Double or Nothing, former TNT Champion Kyle Fletcher revealed that he is “100% cleared” to return to action. Fletcher appeared on Wednesday’s...",
-      "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-cleared-to-return-aew/",
-      "t": "5h",
-      "dt": "2026-05-28T03:14:57+00:00"
     }
   ]
 }

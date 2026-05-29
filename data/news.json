@@ -1,22 +1,46 @@
 {
-  "updated": "2026-05-29T08:51:24.708563+00:00",
+  "updated": "2026-05-29T12:26:55.944917+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: Mask vs. Mask in Mexico, Roman vs. Fatu at Clash in Italy, BOSJ chugs along and more!",
+      "p": "A guide to all the top wrestling events available on streaming & TV this weekend, including WWE, AEW, AAA, NJPW and more! The post Weekend TV Guide: Mask vs. Mask in Mexico, Roman vs. Fatu at...",
+      "link": "https://www.postwrestling.com/2026/05/29/weekend-tv-guide-mask-vs-mask-in-mexico-roman-vs-fatu-at-clash-in-italy-bosj-chugs-along-and-more/",
+      "t": "26m",
+      "dt": "2026-05-29T12:00:43+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jim Ross reacts to only calling one match at AEW Double or Nothing 2026",
+      "p": "Jim Ross made his return to AEW commentary at the Double or Nothing PPV event. However, according to what he has said on his latest Grilling Jr podcast, he wasn’t 100% happy with only calling the...",
+      "link": "https://www.f4wonline.com/news/aew/jim-ross-aew-double-or-nothing-2026-commentary/",
+      "t": "2h",
+      "dt": "2026-05-29T10:12:42+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW All In London 2026 ticket sales update",
+      "p": "AEW All In London 2026 takes place on Sunday, August 30th from Wembley Stadium in London, England. Tickets for the show have been struggling compared to the 2024 iteration of the show from...",
+      "link": "https://www.f4wonline.com/news/aew/aew-all-in-london-2026-ticket-sales-update/",
+      "t": "2h",
+      "dt": "2026-05-29T09:34:08+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Fight Game: Is MJF a WON HOFer + WWE Clash in Italy preview",
       "p": "John LaRocca and I return with a brand-new Fight Game to discuss some of the most topical things going on in pro wrestling this week. You can also watch full video of the show below. We gave out...",
       "link": "https://www.f4wonline.com/podcasts/fight-game-is-mjf-a-won-hofer-wwe-clash-in-italy-preview/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-05-29T07:12:50+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Vince McMahon and Nick Khan sanctioned in lawsuit from shareholders against WWE for destruction of evidence",
       "p": "A judge has ruled that Vince McMahon and Tony Khan used the message app signal and changed their settings so that messages would automatically delete after a short period of time according to an...",
       "link": "https://www.pwtorch.com/site/2026/05/28/vince-mcmahon-and-nick-khan-sanctioned-in-lawsuit-from-shareholders-against-wwe-for-destruction-of-evidence/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-05-29T04:46:30+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "B&V: AEW Dynamite and Collision and overruns and NXT!",
       "p": "The Bryan & Vinny Show is back with tons to talk about including reviews of a very long AEW block, 2 hours and 20 minutes of Dynamite followed immediately by a Collision with an overrun, and an...",
       "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/bv-aew-dynamite-and-collision-and-overruns-and-nxt/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-05-29T04:17:37+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "ROH TV Results (5/28): Bandido, Mark Davis, AR Fox Compete",
       "p": "Ring of Honor aired the latest episode of ROH TV on May 28. The event aired on HonorClub. Full results are below. ROH TV Results (5/28) AEW National Championship: Mark Davis (c) def. Adam Priest...",
       "link": "https://www.fightful.com/wrestling-news/roh-tv-results-5-28-bandido-mark-davis-ar-fox-compete/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-05-29T03:58:05+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Hazuki Debut Announced For AEW Collision Despite Potential Conflict With STARDOM Dates",
       "p": "Hazuki will make her AEW debut this weekend, but she will have a quick turnaround given that she also has STARDOM events that same weekend.",
       "link": "https://www.wrestlinginc.com/2183421/hazuki-debut-aew-collision-conflict-stardom/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-05-29T02:24:22+00:00"
     },
     {
@@ -56,39 +80,23 @@
       "h": "CMLL & AEW Star Mistico Offers Injury Update",
       "p": "Mistico might have suffered an injury at a recent CMLL event, but the ace of Arena Mexico is hopeful of making a quick return.",
       "link": "https://www.wrestlinginc.com/2183417/cmll-aew-mistico-injury-update-may-2026/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-05-29T01:49:31+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH live results: Bandido vs. Volador Jr, Mark Davis vs. Adam Priest",
-      "p": "Ring of Honor is back on HonorClub tonight. This week’s episode was taped at the WJCT Studios in Jacksonville, Florida. The ROH World Championship will be on the line tonight as Bandido puts his...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-live-results-bandido-vs-volador-jr-mark-davis-vs-adam-priest/",
-      "t": "9h",
-      "dt": "2026-05-28T23:05:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "05/29 Dot Net Weekly audio show: Barnett and Powell share WWE Clash in Italy predictions, discuss the NJPW sale, the WWE shareholders lawsuit, AEW Dynamite",
       "p": "By Jake Barnett (@jakebarnett) and... The post 05/29 Dot Net Weekly audio show: Barnett and Powell share WWE Clash in Italy predictions, discuss the NJPW sale, the WWE shareholders lawsuit, AEW...",
       "link": "https://prowrestling.net/site/2026/05/28/05-29-dot-net-weekly-audio-show-barnett-and-powell-share-wwe-clash-in-italy-predictions-discuss-the-njpw-sale-the-wwe-shareholders-lawsuit-aew-dynamite/",
-      "t": "10h",
+      "t": "13h",
       "dt": "2026-05-28T22:38:28+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision ticket distribution update for Saturday’s show",
-      "p": "An update is available regarding how many tickets have been distributed to AEW Collision on Saturday. The show is scheduled for the Von Braun Center in Huntsville, Alabama. According to a post...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-distribution-update-for-saturdays-show/",
-      "t": "11h",
-      "dt": "2026-05-28T21:35:30+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "POST NEWS: Joe Hennig arrested, Jim Ross’ AEW deal, Rousey responds to Holm",
       "p": "John Pollock covers the news, including Joe Hennig’s arrest, Jim Ross shares a contract update, and Ronda Rousey responds to Holly Holm. The post POST NEWS: Joe Hennig arrested, Jim Ross’ AEW...",
       "link": "https://www.postwrestling.com/2026/05/28/post-news-joe-hennig-arrested-jim-ross-aew-deal-rousey-responds-to-holm/",
-      "t": "11h",
+      "t": "15h",
       "dt": "2026-05-28T21:09:50+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Brian Myers recalls the first time MJF came to his Create A Pro wrestling school, going on a “honeymoon” with Joe Hennig, training with The Rock",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Brian Myers recalls the first time MJF came to his Create A Pro wrestling school, going on a “honeymoon” with Joe Hennig, training with The...",
       "link": "https://prowrestling.net/site/2026/05/28/brian-myers-recalls-the-first-time-mjf-came-to-his-create-a-pro-wrestling-school-going-on-a-honeymoon-with-joe-hennig-training-with-the-rock/",
-      "t": "14h",
+      "t": "17h",
       "dt": "2026-05-28T18:30:11+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Thoughts on new AEW World Champion MJF’s first two challengers, Kevin Knight’s heel mic work, the Owen Hart Cup matches",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on new AEW World Champion MJF’s first two challengers, Kevin Knight’s heel mic work, the Owen Hart Cup...",
-      "link": "https://prowrestling.net/site/2026/05/28/powells-aew-dynamite-hit-list-thoughts-on-new-aew-world-champion-mjfs-first-two-challengers-kevin-knights-heel-mic-work-the-owen-hart-cup-matches/",
-      "t": "15h",
-      "dt": "2026-05-28T17:30:45+00:00"
     }
   ]
 }

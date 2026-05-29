@@ -1,9 +1,9 @@
 {
-  "updated": "2026-05-29T16:53:10.688393+00:00",
+  "updated": "2026-05-29T19:40:25.860875+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (1 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "POLL: How do you feel about Darby Allin’s AEW World Title run now that it’s over?",
+      "p": "How do you feel about Darby Allin’s AEW World Title run now that it’s over? Loved it! (a perfect fun sidetrack) Loved it! (wish it lasted longer) Liked it well enough Mixed feelings Didn’t like [...]",
+      "link": "https://www.pwtorch.com/site/2026/05/29/poll-how-do-you-feel-about-darby-allins-aew-world-title-run-now-that-its-over/",
+      "t": "26m",
+      "dt": "2026-05-29T19:13:30+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Sources Believe MJF Had Been Supportive Of The Darby Allin AEW World Title Reign ‘Dating Back Quite A While’",
+      "p": "A Fightful Select story about Darby Allin’s AEW World Title reign. Fightful Select posted an exclusive note about the AEW World Championship reign of Darby Allin. Several skeptics of Allin’s run...",
+      "link": "https://www.fightful.com/wrestling-news/sources-believe-mjf-had-been-supportive-of-the-darby-allin-aew-world-title-reign-dating-back-quite-a-while/",
+      "t": "59m",
+      "dt": "2026-05-29T18:41:07+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Evil Uno Says All AEW Games Content Is On Hold For The Time Being",
+      "p": "Evil Uno gives an update on AEW Games. On BlueSky, Evil Uno informed fans that all AEW Games content is on hold for the time being. He wrote, “Since it’s been a month of silence, we were told to...",
+      "link": "https://www.fightful.com/wrestling-news/evil-uno-says-all-aew-games-content-is-on-hold-for-the-time-being/",
+      "t": "1h",
+      "dt": "2026-05-29T18:19:30+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Brody King and Mark Davis advance in Owen Hart Tournament, Kevin Knight talks, MJF’s new challengers are determined",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Brody King and Mark Davis advance in Owen Hart Tournament, Kevin Knight talks, MJF’s new...",
       "link": "https://prowrestling.net/site/2026/05/29/pruetts-pause-10-thoughts-on-aew-dynamite-brody-king-and-mark-davis-advance-in-owen-hart-tournament-kevin-knight-talks-mjfs-new-challengers-are-determined/",
-      "t": "10m",
+      "t": "2h",
       "dt": "2026-05-29T16:42:35+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Ronda Rousey Downplays Likelihood Of AEW Run: 'It Just Happened To Be In Town",
       "p": "Ronda Rousey claims that she has no interest in wrestling on a full-time schedule again.",
       "link": "https://www.wrestlinginc.com/2183754/aew-ronda-rousey-downplays-likelihood-happened-town/",
-      "t": "18m",
+      "t": "3h",
       "dt": "2026-05-29T16:34:20+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "ROH on HonorClub results (5/28): AR Fox vs. Dezmond Xavier for the ROH TV Title, Bandido vs. Volador Jr. for the ROH Championship, Mark Davis vs. Adam Priest for the AEW National Championship",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (5/28): AR Fox vs. Dezmond Xavier for the ROH TV Title, Bandido vs. Volador Jr. for the ROH Championship, Mark Davis...",
       "link": "https://prowrestling.net/site/2026/05/29/roh-on-honorclub-results-5-28-ar-fox-vs-dezmond-xavier-for-the-roh-tv-title-bandido-vs-volador-jr-for-the-roh-championship-mark-davis-vs-adam-priest-for-the-aew-national-championship/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-05-29T15:30:33+00:00"
     },
     {
@@ -40,39 +64,23 @@
       "h": "June 1, 2026 Observer Newsletter: AEW Double or Nothing review & ratings, NJPW ownership shakeup, big WWE shareholder lawsuit developments",
       "p": "After two weeks, the Wrestling Observer Newsletter has returned. Dave Meltzer is back from vacation with lots to talk about including: Click here to read (sub needed)",
       "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/won-aew-double-or-nothing-ratings-njpw-wwe-lawsuit/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-05-29T14:49:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ronda Rousey Says It Would Be Cool To Open A Wrestling School In Hawaii",
-      "p": "Ronda Rousey made her return to wrestling at AEW Revolution, confronting Toni Storm after her match against Marina Shafir. Speaking to Ryan Gaydos of Fox News, Rousey commented on her future in...",
-      "link": "https://www.fightful.com/wrestling-news/ronda-rousey-says-it-would-be-cool-to-open-a-wrestling-school-in-hawaii/",
-      "t": "2h",
-      "dt": "2026-05-29T14:29:20+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Weekend TV Guide: Mask vs. Mask in Mexico, Roman vs. Fatu at Clash in Italy, BOSJ chugs along and more!",
       "p": "A guide to all the top wrestling events available on streaming & TV this weekend, including WWE, AEW, AAA, NJPW and more! The post Weekend TV Guide: Mask vs. Mask in Mexico, Roman vs. Fatu at...",
       "link": "https://www.postwrestling.com/2026/05/29/weekend-tv-guide-mask-vs-mask-in-mexico-roman-vs-fatu-at-clash-in-italy-bosj-chugs-along-and-more/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-05-29T12:00:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jim Ross reacts to only calling one match at AEW Double or Nothing 2026",
-      "p": "Jim Ross made his return to AEW commentary at the Double or Nothing PPV event. However, according to what he has said on his latest Grilling Jr podcast, he wasn’t 100% happy with only calling the...",
-      "link": "https://www.f4wonline.com/news/aew/jim-ross-aew-double-or-nothing-2026-commentary/",
-      "t": "6h",
-      "dt": "2026-05-29T10:12:42+00:00"
     },
     {
       "src": "PWTorch",
       "h": "Vince McMahon and Nick Khan sanctioned in lawsuit from shareholders for destruction of evidence",
       "p": "A judge has ruled that Vince McMahon and Tony Khan used the message app signal and changed their settings so that messages would automatically delete after a short period of time according to an...",
       "link": "https://www.pwtorch.com/site/2026/05/28/vince-mcmahon-and-nick-khan-sanctioned-in-lawsuit-from-shareholders-against-wwe-for-destruction-of-evidence/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-05-29T04:46:30+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "05/29 Dot Net Weekly audio show: Barnett and Powell share WWE Clash in Italy predictions, discuss the NJPW sale, the WWE shareholders lawsuit, AEW Dynamite",
       "p": "By Jake Barnett (@jakebarnett) and... The post 05/29 Dot Net Weekly audio show: Barnett and Powell share WWE Clash in Italy predictions, discuss the NJPW sale, the WWE shareholders lawsuit, AEW...",
       "link": "https://prowrestling.net/site/2026/05/28/05-29-dot-net-weekly-audio-show-barnett-and-powell-share-wwe-clash-in-italy-predictions-discuss-the-njpw-sale-the-wwe-shareholders-lawsuit-aew-dynamite/",
-      "t": "18h",
+      "t": "21h",
       "dt": "2026-05-28T22:38:28+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "POST NEWS: Joe Hennig arrested, Jim Ross’ AEW deal, Rousey responds to Holm",
       "p": "John Pollock covers the news, including Joe Hennig’s arrest, Jim Ross shares a contract update, and Ronda Rousey responds to Holly Holm. The post POST NEWS: Joe Hennig arrested, Jim Ross’ AEW...",
       "link": "https://www.postwrestling.com/2026/05/28/post-news-joe-hennig-arrested-jim-ross-aew-deal-rousey-responds-to-holm/",
-      "t": "19h",
+      "t": "22h",
       "dt": "2026-05-28T21:09:50+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Brian Myers recalls the first time MJF came to his Create A Pro wrestling school, going on a “honeymoon” with Joe Hennig, training with The Rock",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Brian Myers recalls the first time MJF came to his Create A Pro wrestling school, going on a “honeymoon” with Joe Hennig, training with The...",
       "link": "https://prowrestling.net/site/2026/05/28/brian-myers-recalls-the-first-time-mjf-came-to-his-create-a-pro-wrestling-school-going-on-a-honeymoon-with-joe-hennig-training-with-the-rock/",
-      "t": "22h",
+      "t": "1d",
       "dt": "2026-05-28T18:30:11+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Thoughts on new AEW World Champion MJF’s first two challengers, Kevin Knight’s heel mic work, the Owen Hart Cup matches",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on new AEW World Champion MJF’s first two challengers, Kevin Knight’s heel mic work, the Owen Hart Cup...",
-      "link": "https://prowrestling.net/site/2026/05/28/powells-aew-dynamite-hit-list-thoughts-on-new-aew-world-champion-mjfs-first-two-challengers-kevin-knights-heel-mic-work-the-owen-hart-cup-matches/",
-      "t": "23h",
-      "dt": "2026-05-28T17:30:45+00:00"
     }
   ]
 }

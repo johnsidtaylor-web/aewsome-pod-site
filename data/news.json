@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T21:14:03.950465+00:00",
+  "updated": "2026-05-30T22:13:59.477842+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -8,7 +8,7 @@
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
@@ -16,7 +16,7 @@
       "h": "Thekla Wants Raise For AEW Women's Division In Exchange For Second Blood & Guts Match",
       "p": "AEW Women's World Champion Thekla enjoyed the first women's Blood & Guts match, but thinks the division deserves a raise if there's going to be a second one.",
       "link": "https://www.wrestlinginc.com/2183021/thekla-aew-womens-division-blood-guts-raise/",
-      "t": "14m",
+      "t": "1h",
       "dt": "2026-05-30T21:00:00+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "Former WWE Star Rico Discusses Battle With Blood Clots",
       "p": "Former WWE tag champ Rico Constantino, who also appeared in AEW, recently opened up about his longstanding battle with blood clots.",
       "link": "https://www.wrestlinginc.com/2182928/former-wwe-star-rico-battle-blood-clots/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-05-30T20:00:00+00:00"
     },
     {
@@ -32,15 +32,23 @@
       "h": "AEW Collision ticket distribution update for tonight’s show",
       "p": "An update is available regarding how many tickets have been distributed for tonight’s live episode of AEW Collision. The event is set for the Von Braun Center in Huntsville, Alabama. According to...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-distribution-update-for-tonights-show/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-05-30T17:27:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: Two title matches, an update on the vacant TBS Championship",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Two title matches, an update on the vacant TBS Championship appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/05/30/aew-collision-lineup-two-title-matches-an-update-on-the-vacant-tbs-championship/",
+      "t": "11h",
+      "dt": "2026-05-30T11:00:44+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "WOR: WWE Clash in Italy preview, AEW DON fallout",
       "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-wwe-clash-in-italy-preview-aew-don-fallout/",
-      "t": "13h",
+      "t": "14h",
       "dt": "2026-05-30T07:31:00+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "International title match, Jon Moxley, The Dogs, Lee Moriarty and more added to AEW Collision",
       "p": "We’re in for a busy episode of AEW Collision tonight from the Propst Arena in Huntsville, Alabama. A series of announcements on Friday has brought The post International title match, Jon Moxley,...",
       "link": "https://www.postwrestling.com/2026/05/30/international-title-match-jon-moxley-the-dogs-lee-moriarty-and-more-added-to-aew-collision/",
-      "t": "14h",
+      "t": "15h",
       "dt": "2026-05-30T06:23:04+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "FREE PODCAST 5/29 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner review Double or Nothing, MJF regains the World Championship, Foley’s debut, Fletcher returns, Knight turns heel (104 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review last Sunday’s super successful Double or Nothing PPV from New York....",
       "link": "https://www.pwtorch.com/site/2026/05/29/free-podcast-5-29-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-review-double-or-nothing-mjf-regains-the-world-championship-foleys-debut-fletcher-returns-kni/",
-      "t": "17h",
+      "t": "18h",
       "dt": "2026-05-30T03:30:24+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Backstage reaction to Darby Allin’s AEW World Championship run",
       "p": "For 39 days, Darby Allin thrilled AEW fans with one exciting World Championship match after another. We know it got over with the fans. But how did it get over with the locker room. Sean Ross Sapp...",
       "link": "https://www.f4wonline.com/uncategorized/backstage-reaction-to-darby-allins-aew-world-championship-run/",
-      "t": "19h",
+      "t": "20h",
       "dt": "2026-05-30T01:31:53+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Three new matches added to AEW Collision",
       "p": "New matches are set for Saturday’s AEW Collision. Jon Moxley will be wrestling on the card where he’ll team with PAC to take on The Infantry. Another Death Rider member, Daniel Garcia, will...",
       "link": "https://www.f4wonline.com/news/aew/three-new-matches-added-to-aew-collision/",
-      "t": "19h",
+      "t": "20h",
       "dt": "2026-05-30T01:16:34+00:00"
     },
     {
@@ -84,28 +92,20 @@
       "dt": "2026-05-29T19:13:30+00:00"
     },
     {
-      "src": "POST Wrestling",
-      "h": "Weekend TV Guide: Mask vs. Mask in Mexico, Roman vs. Fatu at Clash in Italy, BOSJ chugs along and more!",
-      "p": "A guide to all the top wrestling events available on streaming & TV this weekend, including WWE, AEW, AAA, NJPW and more! The post Weekend TV Guide: Mask vs. Mask in Mexico, Roman vs. Fatu at...",
-      "link": "https://www.postwrestling.com/2026/05/29/weekend-tv-guide-mask-vs-mask-in-mexico-roman-vs-fatu-at-clash-in-italy-bosj-chugs-along-and-more/",
+      "src": "ProWrestling.net",
+      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Brody King and Mark Davis advance in Owen Hart Tournament, Kevin Knight talks, MJF’s new challengers are determined",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Brody King and Mark Davis advance in Owen Hart Tournament, Kevin Knight talks, MJF’s new...",
+      "link": "https://prowrestling.net/site/2026/05/29/pruetts-pause-10-thoughts-on-aew-dynamite-brody-king-and-mark-davis-advance-in-owen-hart-tournament-kevin-knight-talks-mjfs-new-challengers-are-determined/",
       "t": "1d",
-      "dt": "2026-05-29T12:00:43+00:00"
+      "dt": "2026-05-29T16:42:35+00:00"
     },
     {
-      "src": "PWTorch",
-      "h": "Vince McMahon and Nick Khan sanctioned in lawsuit from shareholders for destruction of evidence",
-      "p": "A judge has ruled that Vince McMahon and Tony Khan used the message app signal and changed their settings so that messages would automatically delete after a short period of time according to an...",
-      "link": "https://www.pwtorch.com/site/2026/05/28/vince-mcmahon-and-nick-khan-sanctioned-in-lawsuit-from-shareholders-against-wwe-for-destruction-of-evidence/",
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub results (5/28): AR Fox vs. Dezmond Xavier for the ROH TV Title, Bandido vs. Volador Jr. for the ROH Championship, Mark Davis vs. Adam Priest for the AEW National Championship",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (5/28): AR Fox vs. Dezmond Xavier for the ROH TV Title, Bandido vs. Volador Jr. for the ROH Championship, Mark Davis...",
+      "link": "https://prowrestling.net/site/2026/05/29/roh-on-honorclub-results-5-28-ar-fox-vs-dezmond-xavier-for-the-roh-tv-title-bandido-vs-volador-jr-for-the-roh-championship-mark-davis-vs-adam-priest-for-the-aew-national-championship/",
       "t": "1d",
-      "dt": "2026-05-29T04:46:30+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: Joe Hennig arrested, Jim Ross’ AEW deal, Rousey responds to Holm",
-      "p": "John Pollock covers the news, including Joe Hennig’s arrest, Jim Ross shares a contract update, and Ronda Rousey responds to Holly Holm. The post POST NEWS: Joe Hennig arrested, Jim Ross’ AEW...",
-      "link": "https://www.postwrestling.com/2026/05/28/post-news-joe-hennig-arrested-jim-ross-aew-deal-rousey-responds-to-holm/",
-      "t": "2d",
-      "dt": "2026-05-28T21:09:50+00:00"
+      "dt": "2026-05-29T15:30:33+00:00"
     }
   ]
 }

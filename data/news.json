@@ -1,30 +1,78 @@
 {
-  "updated": "2026-05-30T23:15:41.639900+00:00",
+  "updated": "2026-05-31T04:48:59.487358+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "Wrestling Inc": "ok (5 AEW items)",
+    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "AEW COLLISION RESULTS (5/30): Takeshita defends the International title against Garcia, Conglomeration vs. Callis Family, Hazuki vs. Maya World, Death Riders in action, TayJay vs. Divine Dominion",
+      "p": "AEW COLLISION REPORT MAY 30, 2026 HUNTSVILLE, ALA. AT VON BRAUN CENTER AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel McGuinness Ring...",
+      "link": "https://www.pwtorch.com/site/2026/05/30/aew-collision-results-5-30-takeshita-defends-the-international-title-against-garcia-conglomeration-vs-callis-family-hazuki-vs-maya-world-death-riders-in-action-tayjay-vs-divine-dominion/",
+      "t": "11m",
+      "dt": "2026-05-31T04:37:02+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Shelton Benjamin Offers Thoughts On Two Possible Hurt Syndicate Additions",
+      "p": "The Hurt Syndicate arrived in AEW in 2024 and fans have always wondered if they'd add a fourth member.",
+      "link": "https://www.wrestlinginc.com/2183078/aew-shelton-benjamin-cedric-alexander-kevin-knight-hurt-syndicate-additions-thoughts/",
+      "t": "49m",
+      "dt": "2026-05-31T03:59:00+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "AEW Collision Results (5/30/2026): Konosuke Takeshita vs. Daniel Garcia, Hazuki, More",
-      "p": "Full results for the May 30, 2026, edition of AEW Collision from the Von Braun Center in Huntsville, Alabama. On May 30, 2026, All Elite Wrestling hosted a new episode of AEW Collision on TNT &...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-results-5-30-2026-konosuke-takeshita-vs-daniel-garcia-hazuki-more/",
-      "t": "0m",
-      "dt": "2026-05-30T23:15:00+00:00"
+      "h": "AEW Women’s World Tag Titles Match, Persephone Vs. Hazuki Set For 6/6 AEW Collision",
+      "p": "Lineup for the upcoming AEW Collision. On the 5/30 Collision, TayJay (Tay Melo and Anna Jay) managed to defeat The Divine Dominion (Megan Bayne and Lena Kross) in their 5-minute eliminator match....",
+      "link": "https://www.fightful.com/wrestling-news/aew-womens-world-tag-titles-match-persephone-vs-hazuki-set-for-6-6-aew-collision/",
+      "t": "2h",
+      "dt": "2026-05-31T02:33:27+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 5/30/26 Results: Mass brawl after Takeshita retains, Survival of the Fittest match set for TBS Title, TayJay earn shot at Divine Dominion",
+      "p": "A massive brawl closed out the May 30 episode of AEW Collision following Konosuke Takeshita's successful title defense. The post AEW Collision 5/30/26 Results: Mass brawl after Takeshita retains,...",
+      "link": "https://www.postwrestling.com/2026/05/30/aew-collision-5-30-26-results-mass-brawl-after-takeshita-retains-survival-of-the-fittest-match-set-for-tbs-title-tayjay-earn-shot-at-divine-dominion/",
+      "t": "2h",
+      "dt": "2026-05-31T02:27:47+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Survival of the Fittest match to determine next AEW TBS Champion",
+      "p": "For the first time ever, ROH’s Survival of the Fittest match will take place in AEW. Tony Schiavone announced on Saturday that a series of matches will be held over the next month to determine who...",
+      "link": "https://www.f4wonline.com/news/aew/survival-of-the-fittest-match-to-determine-next-aew-tbs-champion/",
+      "t": "2h",
+      "dt": "2026-05-31T02:22:42+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Announces Survival Of The Fittest Match To Crown New TBS Champion",
+      "p": "AEW announces Survival of the Fittest match to crown a new TBS Champion. Willow Nightingale recently relinquished the TBS Title after announcing she’s suffered a shoulder injury. On the 5/30 AEW...",
+      "link": "https://www.fightful.com/wrestling-news/aew-announces-survival-of-the-fittest-match-to-crown-new-tbs-champion/",
+      "t": "2h",
+      "dt": "2026-05-31T02:08:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Women’s Tag Team title, Owen Hart Foundation tournament matches set for next AEW Collision",
+      "p": "A match in the women’s Owen Hart Foundation tournament will take place on next week’s AEW Collision. It was confirmed that next week’s show in Youngstown, Ohio will see Persephone take on...",
+      "link": "https://www.f4wonline.com/news/aew/womens-owen-hart-foundation-tournament-match-set-for-next-weeks-aew-collision/",
+      "t": "3h",
+      "dt": "2026-05-31T01:20:44+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Collision live results: Konosuke Takeshita vs. Daniel Garcia",
       "p": "AEW Collision is live tonight from the Von Braun Center in Huntsville, Alabama. Two title matches are scheduled for the show. Konosuke Takeshita will defend his AEW International Championship...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-live-results-konosuke-takeshita-vs-daniel-garcia/",
-      "t": "11m",
+      "t": "5h",
       "dt": "2026-05-30T23:04:00+00:00"
     },
     {
@@ -32,55 +80,23 @@
       "h": "AEW Collision Results 5/30 - Two Titles On The Line, STARDOM's Hazuki Makes AEW Debut",
       "p": "On \"AEW Collision\", Divine Dominion will have a 5-min Tag Title Eliminator Challenge match and ROH Pure Champion Lee Moriarty will be in action.",
       "link": "https://www.wrestlinginc.com/2184309/aew-collision-may-30-2026-results/",
-      "t": "13m",
+      "t": "5h",
       "dt": "2026-05-30T23:01:58+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "No Exclusivity Preventing Paramount From Adding AEW",
-      "p": "Details on the AEW and Paramount relationship. Fightful Select reports “For all of the discussion regarding Paramount airing TKO-owned UFC, a Paramount source indicated to @FightfulSelect that...",
-      "link": "https://www.fightful.com/wrestling-news/no-exclusivity-preventing-paramount-from-adding-aew/",
-      "t": "38m",
-      "dt": "2026-05-30T22:37:33+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Thekla Wants Raise For AEW Women's Division In Exchange For Second Blood & Guts Match",
       "p": "AEW Women's World Champion Thekla enjoyed the first women's Blood & Guts match, but thinks the division deserves a raise if there's going to be a second one.",
       "link": "https://www.wrestlinginc.com/2183021/thekla-aew-womens-division-blood-guts-raise/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-05-30T21:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision ticket distribution update for tonight’s show",
-      "p": "An update is available regarding how many tickets have been distributed for tonight’s live episode of AEW Collision. The event is set for the Von Braun Center in Huntsville, Alabama. According to...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-distribution-update-for-tonights-show/",
-      "t": "5h",
-      "dt": "2026-05-30T17:27:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Two title matches, an update on the vacant TBS Championship",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Two title matches, an update on the vacant TBS Championship appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/05/30/aew-collision-lineup-two-title-matches-an-update-on-the-vacant-tbs-championship/",
-      "t": "12h",
-      "dt": "2026-05-30T11:00:44+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: WWE Clash in Italy preview, AEW DON fallout",
-      "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-wwe-clash-in-italy-preview-aew-don-fallout/",
-      "t": "15h",
-      "dt": "2026-05-30T07:31:00+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "International title match, Jon Moxley, The Dogs, Lee Moriarty and more added to AEW Collision",
       "p": "We’re in for a busy episode of AEW Collision tonight from the Propst Arena in Huntsville, Alabama. A series of announcements on Friday has brought The post International title match, Jon Moxley,...",
       "link": "https://www.postwrestling.com/2026/05/30/international-title-match-jon-moxley-the-dogs-lee-moriarty-and-more-added-to-aew-collision/",
-      "t": "16h",
+      "t": "22h",
       "dt": "2026-05-30T06:23:04+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "FREE PODCAST 5/29 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner review Double or Nothing, MJF regains the World Championship, Foley’s debut, Fletcher returns, Knight turns heel (104 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review last Sunday’s super successful Double or Nothing PPV from New York....",
       "link": "https://www.pwtorch.com/site/2026/05/29/free-podcast-5-29-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-review-double-or-nothing-mjf-regains-the-world-championship-foleys-debut-fletcher-returns-kni/",
-      "t": "19h",
+      "t": "1d",
       "dt": "2026-05-30T03:30:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Backstage reaction to Darby Allin’s AEW World Championship run",
-      "p": "For 39 days, Darby Allin thrilled AEW fans with one exciting World Championship match after another. We know it got over with the fans. But how did it get over with the locker room. Sean Ross Sapp...",
-      "link": "https://www.f4wonline.com/uncategorized/backstage-reaction-to-darby-allins-aew-world-championship-run/",
-      "t": "21h",
-      "dt": "2026-05-30T01:31:53+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Three new matches added to AEW Collision",
-      "p": "New matches are set for Saturday’s AEW Collision. Jon Moxley will be wrestling on the card where he’ll team with PAC to take on The Infantry. Another Death Rider member, Daniel Garcia, will...",
-      "link": "https://www.f4wonline.com/news/aew/three-new-matches-added-to-aew-collision/",
-      "t": "21h",
-      "dt": "2026-05-30T01:16:34+00:00"
     }
   ]
 }

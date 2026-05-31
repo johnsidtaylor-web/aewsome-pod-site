@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T14:55:25.492314+00:00",
+  "updated": "2026-05-31T15:33:33.554388+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -16,7 +16,7 @@
       "h": "AEW Collision 5/30/26 Review | COLLISION COURSE (Free 12pm ET)",
       "p": "FREE TODAY 12pm ET — Kate from MTL & John Kleinchester review #AEWCollision Featuring a Trios title match, Takeshita vs Garcia for the International title, Divine Dominion vs TayJay, PAC & Moxley...",
       "link": "https://www.postwrestling.com/2026/05/31/aew-collision-5-30-26-review-collision-course-free-12pm-et/",
-      "t": "24m",
+      "t": "1h",
       "dt": "2026-05-31T14:30:50+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "AJ Styles Worries About This AEW Star Hurting Himself, Would Love To Have Him In WWE",
       "p": "WWE Hall of Famer AJ Styles has praised an AEW star and expressed hope that he will join WWE, while also asking him to go easy on his body in the ring.",
       "link": "https://www.wrestlinginc.com/2183502/aj-styles-will-ospreay-aew-wwe-hurting-himself/",
-      "t": "25m",
+      "t": "1h",
       "dt": "2026-05-31T14:30:00+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "AEW dark match result, ROH spoilers from Huntsville, Alabama",
       "p": "Spoilers from matches taped at the Von Braun Center in Huntsville, Alabama, on Saturday night are now available. The spoilers below are courtesy of PWInsider. Before Saturday’s live episode of...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/aew-dark-match-result-roh-spoilers-from-huntsville-alabama/",
-      "t": "40m",
+      "t": "1h",
       "dt": "2026-05-31T14:14:37+00:00"
     },
     {
@@ -56,7 +56,7 @@
       "h": "AEW Collision results (5/30): Murphy’s review of Konosuke Takeshita vs. Daniel Garcia for the AEW International Title, The Conglomeration vs. Rocky Romero, Trent Beretta, and Lance Archer for the AEW Trios Titles",
       "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (5/30): Murphy’s review of Konosuke Takeshita vs. Daniel Garcia for the AEW International Title, The Conglomeration vs....",
       "link": "https://prowrestling.net/site/2026/05/30/aew-collision-results-5-30-murphys-review-of-konosuke-takeshita-vs-daniel-garcia-for-the-aew-international-title-the-conglomeration-vs-rocky-romero-trent-beretta-and-lance-archer-for-the-aew/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-05-31T04:00:07+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "AEW Collision 5/30/26 Results: Mass brawl after Takeshita retains, Survival of the Fittest match set for TBS Title, TayJay earn shot at Divine Dominion",
       "p": "A massive brawl closed out the May 30 episode of AEW Collision following Konosuke Takeshita's successful title defense. The post AEW Collision 5/30/26 Results: Mass brawl after Takeshita retains,...",
       "link": "https://www.postwrestling.com/2026/05/30/aew-collision-5-30-26-results-mass-brawl-after-takeshita-retains-survival-of-the-fittest-match-set-for-tbs-title-tayjay-earn-shot-at-divine-dominion/",
-      "t": "12h",
+      "t": "13h",
       "dt": "2026-05-31T02:27:47+00:00"
     },
     {
@@ -72,16 +72,8 @@
       "h": "Survival of the Fittest match to determine next AEW TBS Champion",
       "p": "For the first time ever, ROH’s Survival of the Fittest match will take place in AEW. Tony Schiavone announced on Saturday that a series of matches will be held over the next month to determine who...",
       "link": "https://www.f4wonline.com/news/aew/survival-of-the-fittest-match-to-determine-next-aew-tbs-champion/",
-      "t": "12h",
+      "t": "13h",
       "dt": "2026-05-31T02:22:42+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Collision Results 5/30 - Two Titles On The Line, STARDOM's Hazuki Makes AEW Debut",
-      "p": "On \"AEW Collision\", Divine Dominion will have a 5-min Tag Title Eliminator Challenge match and ROH Pure Champion Lee Moriarty will be in action.",
-      "link": "https://www.wrestlinginc.com/2184309/aew-collision-may-30-2026-results/",
-      "t": "15h",
-      "dt": "2026-05-30T23:01:58+00:00"
     },
     {
       "src": "ProWrestling.net",
@@ -106,6 +98,14 @@
       "link": "https://www.pwtorch.com/site/2026/05/29/free-podcast-5-29-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-review-double-or-nothing-mjf-regains-the-world-championship-foleys-debut-fletcher-returns-kni/",
       "t": "1d",
       "dt": "2026-05-30T03:30:24+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "POLL: How do you feel about Darby Allin’s AEW World Title run now that it’s over?",
+      "p": "How do you feel about Darby Allin’s AEW World Title run now that it’s over? Loved it! (a perfect fun sidetrack) Loved it! (wish it lasted longer) Liked it well enough Mixed feelings Didn’t like [...]",
+      "link": "https://www.pwtorch.com/site/2026/05/29/poll-how-do-you-feel-about-darby-allins-aew-world-title-run-now-that-its-over/",
+      "t": "1d",
+      "dt": "2026-05-29T19:13:30+00:00"
     }
   ]
 }

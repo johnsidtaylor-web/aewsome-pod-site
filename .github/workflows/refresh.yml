@@ -43,7 +43,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit — data identical to last run."
           else
-            git commit -m "chore: refresh feed data [skip ci]"
+            git commit -m "chore: refresh feed data"
             echo "Committed. Attempting push..."
             git push && echo "PUSH SUCCEEDED" || (echo "PUSH FAILED — check Settings > Actions > Workflow permissions (needs Read and write)"; exit 1)
           fi

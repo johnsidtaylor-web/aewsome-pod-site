@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T01:35:45.984821+00:00",
+  "updated": "2026-06-02T06:55:31.341961+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -7,32 +7,24 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (0 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Inc",
-      "h": "WWE's Rhea Ripley Offers Injury Update On Husband & AEW Star Buddy Matthews",
-      "p": "While on Stephanie McMahon's podcast, WWE's Rhea Ripley gave an update on Buddy Matthews following an injury he suffered in an AEW match last year.",
-      "link": "https://www.wrestlinginc.com/2185414/wwe-aew-rhea-ripley-buddy-matthews-injury-update-husband/",
-      "t": "32m",
-      "dt": "2026-06-02T01:03:01+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Announcer Justin Roberts Recalls First Hearing Of AEW's Existence",
-      "p": "\"The Dapper Yapper\" Justin Roberts has detailed his journey to AEW and how he found out about the company's formation.",
-      "link": "https://www.wrestlinginc.com/2183944/aew-justin-roberts-announcer-first-hearing-existence/",
-      "t": "35m",
-      "dt": "2026-06-02T01:00:00+00:00"
+      "h": "WWE's AJ Styles Commends Will Ospreay's Styles Clash At AEW Double Or Nothing",
+      "p": "AJ Styles has praised Will Ospreay for his \"flawless\" Styles Clash at AEW Double or Nothing 2026.",
+      "link": "https://www.wrestlinginc.com/2185427/wwe-aew-double-or-nothing-2026-aj-styles-will-ospreay-styles-clash/",
+      "t": "4h",
+      "dt": "2026-06-02T02:26:58+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 6/1 – Greg Parks Outloud! The AEW women’s division is missing some of its biggest stars; how have they tried to make up for those absences, and what more can they do? (22 min.)",
       "p": "SHOW SUMMARY: In this edition of “Greg Parks Outloud!,” PWTorch columnist Greg Parks presents a podcast version of his weekly PWTorch Newsletter column. This week’s show dives into the AEW women’s...",
       "link": "https://www.pwtorch.com/site/2026/06/01/vip-podcast-6-1-greg-parks-outloud-the-aew-womens-division-is-missing-some-of-its-biggest-stars-how-have-they-tried-to-make-up-for-those-absences-and-what-more-can-they-do-22-min/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-06-01T22:31:03+00:00"
     },
     {
@@ -40,7 +32,7 @@
       "h": "WrestlePro “Better Than You” results (5/31): Vetter’s review of AEW World Champion MJF vs. Pat Buck, LSG vs. Richard Holliday for the WrestlePro Gold Title, Max Caster vs. Yoscifer El",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post WrestlePro “Better Than You” results (5/31): Vetter’s review of AEW World Champion MJF vs. Pat Buck, LSG vs. Richard Holliday for the...",
       "link": "https://prowrestling.net/site/2026/06/01/wrestlepro-better-than-you-results-5-31-vetters-review-of-aew-world-champion-mjf-vs-pat-buck-lsg-vs-richard-holliday-for-the-wrestlepro-gold-title-max-caster-vs-yoscifer-el/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-06-01T22:13:37+00:00"
     },
     {
@@ -48,7 +40,7 @@
       "h": "Mick Foley praises AEW boss Tony Khan, bids farewell to WWE",
       "p": "Mick Foley is excited to join an environment in AEW where everyone is encouraged to take risks and swing for the fences. In a video posted to his social media accounts on Monday, Foley reflected...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-praises-aew-tony-khan-wwe-farewell/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-01T21:32:09+00:00"
     },
     {
@@ -56,7 +48,7 @@
       "h": "AEW Collision rating: Did viewership plummet after Wednesday’s Dynamite ended?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: Did viewership plummet after Wednesday’s Dynamite ended? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/01/aew-collision-rating-did-viewership-plummet-after-wednesdays-dynamite-ended/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-01T21:12:59+00:00"
     },
     {
@@ -64,7 +56,7 @@
       "h": "AEW Dynamite rating for the Double or Nothing fallout show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating for the Double or Nothing fallout show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/01/aew-dynamite-rating-for-the-double-or-nothing-fallout-show-2/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-01T21:12:16+00:00"
     },
     {
@@ -72,7 +64,7 @@
       "h": "WOL: Mask vs. Mask, Clash in Italy, King and Queen of the Ring",
       "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including the AAA mask vs. mask match, WWE Clash in Italy, the King and Queen of the ring, Dynamite...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-mask-vs-mask-clash-in-italy-king-and-queen-of-the-ring/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-06-01T20:02:51+00:00"
     },
     {
@@ -80,7 +72,7 @@
       "h": "AEW Dynamite viewership up, 18-49 rating ties best of 2026",
       "p": "Last week’s post-Double or Nothing episode of AEW Dynamite saw notable increases for both viewers and the 18-49 demo. The episode drew 704,000 viewers on TBS, up 14.9% from the previous week’s...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-viewership-up-18-49-rating/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-06-01T19:49:18+00:00"
     },
     {
@@ -88,7 +80,7 @@
       "h": "AEW Collision lineup: The card for Saturday’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for Saturday’s live show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/01/aew-collision-lineup-the-card-for-saturdays-live-show-13/",
-      "t": "11h",
+      "t": "16h",
       "dt": "2026-06-01T14:00:48+00:00"
     },
     {
@@ -96,7 +88,7 @@
       "h": "AEW Dynamite preview: AEW World Championship and TNT Title matches set for Wednesday",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship and TNT Title matches set for Wednesday appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/01/aew-dynamite-preview-aew-world-championship-and-tnt-title-matches-set-for-wednesday-2/",
-      "t": "12h",
+      "t": "17h",
       "dt": "2026-06-01T13:15:39+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "FREE PODCAST 5/31 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Cody’s Double or Nothing media Q&A, Torch Roundtable on Double or Nothing PPV line-up (185 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode (5-27-2021), we present a special PPV Preview Roundtable edition of the Wade Keller Pro Wrestling Podcast with former Pro Wrestling Torch...",
       "link": "https://www.pwtorch.com/site/2026/06/01/free-podcast-5-31-wkpwp-aew-dynamite-post-show-5-yrs-ago-codys-double-or-nothing-media-qa-torch-roundtable-on-double-or-nothing-ppv-line-up-185-min/",
-      "t": "19h",
+      "t": "1d",
       "dt": "2026-06-01T06:18:37+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 5/31 – PWTorch Dailycast – Best of PWTorch Livecast: 5 Yrs Ago – Mike & Andrew talk AEW Double or Nothing, Stadium Stampede, AEW World Title match, will AEW sign wrestlers released by WWE, more (93 min.)",
+      "p": "SHOW SUMMARY: Today we jump back five years to the June 2, 2021 episode of Wrestling Night in America, PWTorch’s Mike McMahon and Andrew Soucek talk about AEW Double or Nothing with a focus on [...]",
+      "link": "https://www.pwtorch.com/site/2026/05/31/free-podcast-5-31-pwtorch-dailycast-best-of-pwtorch-livecast-5-yrs-ago-mike-andrew-talk-aew-double-or-nothing-stadium-stampede-aew-world-title-match-will-aew-sign-wrestlers/",
+      "t": "1d",
+      "dt": "2026-05-31T22:56:47+00:00"
     }
   ]
 }

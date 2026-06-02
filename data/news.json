@@ -1,46 +1,94 @@
 {
-  "updated": "2026-06-02T16:54:24.497321+00:00",
+  "updated": "2026-06-02T20:18:21.463997+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (1 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (1 AEW items)",
-    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
+    "Wrestling Inc": "ok (4 AEW items)",
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Mick Foley open to possibility of having AEW match",
+      "p": "Mick Foley isn’t closing the door on the idea of having one last match, but it would have to be the perfect scenario where all of the stars align. The 60-year-old Foley appeared on The Ariel...",
+      "link": "https://www.f4wonline.com/news/aew/mick-foley-open-to-possibility-of-having-aew-match/",
+      "t": "10m",
+      "dt": "2026-06-02T20:07:51+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Mick Foley on whether he intends to wrestle in AEW, additional roles he can play for the company, compares the styles of Tony Khan and Vince McMahon, explains his decision to sever ties with WWE",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Mick Foley on whether he intends to wrestle in AEW, additional roles he can play for the company, compares the styles of Tony Khan and Vince...",
+      "link": "https://prowrestling.net/site/2026/06/02/mick-foley-on-whether-he-intends-to-wrestle-in-aew-additional-roles-he-can-play-for-the-company-compares-the-styles-of-tony-khan-and-vince-mcmahon-explains-his-decision-to-sever-ties-with-wwe/",
+      "t": "16m",
+      "dt": "2026-06-02T20:02:06+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Announces Charity Merchandise In Support Of ALS Research",
+      "p": "AEW's Rebel announced last month that was diagnosed with ALS and is in the terminal stage. AEW is working with two ALS organizations to support research.",
+      "link": "https://www.wrestlinginc.com/2186023/aew-announces-charity-merchandise-support-rebel-als-research/",
+      "t": "1h",
+      "dt": "2026-06-02T18:54:08+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Shop Releases Rebel Merchandise, 100% Profits Going To Those Affected By ALS",
+      "p": "On May 1, former AEW talent Rebel announced that she had been diagnosed with terminal ALS. Rebel was previously with AEW as the manager to Britt Baker. The company has supported Rebel in her...",
+      "link": "https://www.fightful.com/wrestling-news/aew-shop-releases-rebel-merchandise-100-profits-going-to-those-affected-by-als/",
+      "t": "2h",
+      "dt": "2026-06-02T17:50:51+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW returning to Arena Mexico for a Grand Slam show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW returning to Arena Mexico for a Grand Slam show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/02/aew-returning-to-arena-mexico-for-a-grand-slam-show/",
+      "t": "2h",
+      "dt": "2026-06-02T17:45:15+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mick Foley Opens Up About WWE Departure Due To Donald Trump Association",
+      "p": "On December 16, Mick Foley effectively cut ties with WWE over its relationship with Donald Trump. Foley let his Legends Deal expire and eventually joined AEW in May, debuting at Double or Nothing....",
+      "link": "https://www.fightful.com/wrestling-news/mick-foley-opens-up-about-wwe-departure-due-to-donald-trump-association/",
+      "t": "2h",
+      "dt": "2026-06-02T17:42:59+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "NXT’s Great American Bash to air head-to-head against AEW’s Forbidden Door",
+      "p": "The first NXT premium live event has been announced for the end of June and will air head-to-head with AEW's Forbidden Door. The post NXT’s Great American Bash to air head-to-head against AEW’s...",
+      "link": "https://www.postwrestling.com/2026/06/02/nxts-great-american-bash-to-air-head-to-head-against-aews-forbidden-door/",
+      "t": "2h",
+      "dt": "2026-06-02T17:42:53+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "AEW reveals date for Grand Slam Mexico 2026",
       "p": "AEW is officially heading back to Mexico City this summer for a special episode of Dynamite. It was confirmed today that AEW Grand Slam Mexico 2026 will take place live from Arena Mexico on...",
       "link": "https://www.f4wonline.com/news/aew/aew-reveals-date-for-grand-slam-mexico-2026/",
-      "t": "19m",
+      "t": "3h",
       "dt": "2026-06-02T16:34:52+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW Grand Slam Mexico confirmed for August 5 at Arena México",
-      "p": "AEW Grand Slam is confirmed with a return to Arena México this summer. The post AEW Grand Slam Mexico confirmed for August 5 at Arena México appeared first on POST Wrestling | Podcasts, News,...",
+      "p": "AEW Grand Slam Mexico is confirmed with a return to Arena México this summer. The post AEW Grand Slam Mexico confirmed for August 5 at Arena México appeared first on POST Wrestling | Podcasts,...",
       "link": "https://www.postwrestling.com/2026/06/02/aew-grand-slam-mexico-confirmed-for-august-5-at-arena-mexico/",
-      "t": "19m",
+      "t": "3h",
       "dt": "2026-06-02T16:34:51+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Grand Slam Mexico To Take Place On August 5",
-      "p": "AEW Grand Slam Mexico returns. All Elite Wrestling announced that Grand Slam Mexico will take place on Wednesday, August 5 at Arena Mexico. Tickets go on sale on Saturday, June 6. From AEW: All...",
-      "link": "https://www.fightful.com/wrestling-news/aew-grand-slam-mexico-to-take-place-on-august-5/",
-      "t": "27m",
-      "dt": "2026-06-02T16:26:55+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW COLLISION HITS & MISSES (5/30): Ciampa gives 1,004 reasons why he hates Jericho, AEW announces Survival of the Fittest to crown a new TBS Champion, Takeshita vs. Garcia, Hazuki",
       "p": "To help you add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS HAZUKI...",
       "link": "https://www.pwtorch.com/site/2026/06/02/aew-collision-hits-misses-5-30-ciampa-gives-1004-reasons-why-he-hates-jericho-aew-announces-survival-of-the-fittest-to-crown-a-new-tbs-champion-takeshita-vs-garcia-hazuki/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-02T15:48:01+00:00"
     },
     {
@@ -48,64 +96,16 @@
       "h": "Mistico returning from injury, AEW names set for CMLL Arena Mexico card",
       "p": "Mistico is officially set to make his in-ring return this Friday night. After spending a couple of weeks on the sidelines due to a knee injury, Mistico said he hoped to make his CMLL return on the...",
       "link": "https://www.f4wonline.com/news/aew/mistico-return-aew-names-set-cmll-arena-mexico-card/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-02T15:20:24+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Sammy Guevara Says He Was ‘Feeling’ Table Crash Spots From AEW World Title Match With Darby Allin For A Couple Days",
-      "p": "Sammy Guevara reflects on ‘feeling’ several table crash spots during his recent AEW World Title match with Darby Allin. Sammy Guevara is no stranger to major spots in matches, having been through...",
-      "link": "https://www.fightful.com/wrestling-news/sammy-guevara-says-he-was-feeling-table-crash-spots-from-aew-world-title-match-with-darby-allin-for-a-couple-days/",
-      "t": "3h",
-      "dt": "2026-06-02T13:07:57+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan praises Jon Moxley’s backstage contributions in AEW",
-      "p": "AEW President Tony Khan recently shed light on Jon Moxley’s backstage contributions to the promotion. And how that helps lift some weight off his shoulders on building and managing the promotion....",
-      "link": "https://www.f4wonline.com/news/tony-khan-praises-jon-moxleys-backstage-contributions-in-aew/",
-      "t": "5h",
-      "dt": "2026-06-02T11:18:18+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW COLLISION HITS & MISSES (5/27/26): Statlander and Shida steal the show in Lights Out main event, Andrade’s momentum continues, Ospreay & Death Riders vs. The Rascalz",
       "p": "To help you add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS THE...",
       "link": "https://www.pwtorch.com/site/2026/06/01/aew-collision-hits-misses-5-27-26-statlander-and-shida-steal-the-show-in-lights-out-main-event-andrades-momentum-continues-ospreay-death-riders-vs-the-rascalz/",
-      "t": "12h",
+      "t": "15h",
       "dt": "2026-06-02T04:48:56+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 6/1 – Greg Parks Outloud! The AEW women’s division is missing some of its biggest stars; how have they tried to make up for those absences, and what more can they do? (22 min.)",
-      "p": "SHOW SUMMARY: In this edition of “Greg Parks Outloud!,” PWTorch columnist Greg Parks presents a podcast version of his weekly PWTorch Newsletter column. This week’s show dives into the AEW women’s...",
-      "link": "https://www.pwtorch.com/site/2026/06/01/vip-podcast-6-1-greg-parks-outloud-the-aew-womens-division-is-missing-some-of-its-biggest-stars-how-have-they-tried-to-make-up-for-those-absences-and-what-more-can-they-do-22-min/",
-      "t": "18h",
-      "dt": "2026-06-01T22:31:03+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 5/31 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Cody’s Double or Nothing media Q&A, Torch Roundtable on Double or Nothing PPV line-up (185 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode (5-27-2021), we present a special PPV Preview Roundtable edition of the Wade Keller Pro Wrestling Podcast with former Pro Wrestling Torch...",
-      "link": "https://www.pwtorch.com/site/2026/06/01/free-podcast-5-31-wkpwp-aew-dynamite-post-show-5-yrs-ago-codys-double-or-nothing-media-qa-torch-roundtable-on-double-or-nothing-ppv-line-up-185-min/",
-      "t": "1d",
-      "dt": "2026-06-01T06:18:37+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 5/31 – PWTorch Dailycast – Best of PWTorch Livecast: 5 Yrs Ago – Mike & Andrew talk AEW Double or Nothing, Stadium Stampede, AEW World Title match, will AEW sign wrestlers released by WWE, more (93 min.)",
-      "p": "SHOW SUMMARY: Today we jump back five years to the June 2, 2021 episode of Wrestling Night in America, PWTorch’s Mike McMahon and Andrew Soucek talk about AEW Double or Nothing with a focus on [...]",
-      "link": "https://www.pwtorch.com/site/2026/05/31/free-podcast-5-31-pwtorch-dailycast-best-of-pwtorch-livecast-5-yrs-ago-mike-andrew-talk-aew-double-or-nothing-stadium-stampede-aew-world-title-match-will-aew-sign-wrestlers/",
-      "t": "1d",
-      "dt": "2026-05-31T22:56:47+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION RESULTS (5/30): Takeshita defends the International title against Garcia, Conglomeration vs. Callis Family, Hazuki vs. Maya World, Death Riders in action, TayJay vs. Divine Dominion",
-      "p": "AEW COLLISION REPORT MAY 30, 2026 HUNTSVILLE, ALA. AT VON BRAUN CENTER AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel McGuinness Ring...",
-      "link": "https://www.pwtorch.com/site/2026/05/30/aew-collision-results-5-30-takeshita-defends-the-international-title-against-garcia-conglomeration-vs-callis-family-hazuki-vs-maya-world-death-riders-in-action-tayjay-vs-divine-dominion/",
-      "t": "2d",
-      "dt": "2026-05-31T04:37:02+00:00"
     }
   ]
 }

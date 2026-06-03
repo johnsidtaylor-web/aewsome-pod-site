@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-03T07:06:37.719810+00:00",
+  "updated": "2026-06-03T12:07:55.863583+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite in Richmond, WWE Evolve, WWE in Lisbon (reports needed), last week’s Dynamite and Collision grades, Jade Cargill, The Blade",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Richmond, WWE Evolve, WWE in Lisbon (reports needed), last week’s Dynamite and Collision grades, Jade Cargill, The Blade...",
+      "link": "https://prowrestling.net/site/2026/06/03/aew-dynamite-in-richmond-wwe-evolve-wwe-in-lisbon-reports-needed-last-weeks-dynamite-and-collision-grades-jade-cargill-the-blade/",
+      "t": "7m",
+      "dt": "2026-06-03T12:00:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (6/3)",
+      "p": "Viewing information and lineup for AEW Dynamite on June 3, 2026. AEW Dynamite (June 3, 2026) Venue: Siegel Center City: Richmond, VA Time: 8pm ET Channel: TBS, Max Lineup Women’s Owen Hart Cup...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-6-3/",
+      "t": "7m",
+      "dt": "2026-06-03T12:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Bronson Reed updates fans following car accident",
+      "p": "WWE star Bronson Reed confirmed that he was involved in a car accident last night. Reed confirmed on his Instagram Story that he had a rear collision: “Just had a rear collision. Thankfully,...",
+      "link": "https://www.f4wonline.com/news/wwe/bronson-reed-updates-car-accident-wwe-fans/",
+      "t": "2h",
+      "dt": "2026-06-03T09:52:20+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Mick Foley tells the story of when he made Sabu ‘cry’ in the ring",
+      "p": "WWE Hall of Famer and new AEW on-screen personality Mick Foley recently discussed his history in hardcore wrestling. Speaking on Something To Wrestle With, Foley recalled the time that he made...",
+      "link": "https://www.f4wonline.com/news/wwe/mick-foley-sabu-chairshot-tears-ecw-wwf/",
+      "t": "2h",
+      "dt": "2026-06-03T09:37:33+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Start Time Tonight (06-03-2026)",
+      "p": "AEW Dynamite airs tonight (Wednesday, June 3, 2026) at 8:00 p.m. ET on TBS, with a simultaneous stream on HBO Max. The show runs live from the Siegel Center in Richmond, Virginia. AEW Dynamite...",
+      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-06-03-2026/",
+      "t": "4h",
+      "dt": "2026-06-03T07:28:10+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Preview: Confirmed matches and segments (06-03-2026)",
+      "p": "Tonight’s episode of AEW Dynamite takes place from the Siegel Center in Richmond, VA, and several matches have already been confirmed for the broadcast. MJF will be defending his AEW World...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-06-03-2026/",
+      "t": "4h",
+      "dt": "2026-06-03T07:21:55+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Maria Kanellis addresses the evolution in women’s wrestling: ‘You didn’t talk about your children’",
       "p": "Former WWE and AEW talent Maria Kanellis recently opened up and discussed how far women have come in the pro-wrestling industry. Beginning her career in the early 2000s, Kanellis recently revealed...",
       "link": "https://www.f4wonline.com/news/maria-kanellis-addresses-the-evolution-in-womens-wrestling-you-didnt-talk-about-your-children/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-06-03T03:19:52+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "FREE PODCAST 6/2 – WKPWP Flagship: Keller & Heydorn on Reigns-Fatu-Usos, plus Oba Femi, Ospreay, Darby’s reign, Foley, Jericho, KOTR, QOTR, Gable, Montez (115 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Zack Heydorn from Brass Ring Media and Sports...",
       "link": "https://www.pwtorch.com/site/2026/06/02/free-podcast-6-2-wkpwp-flagship-keller-heydorn-on-reigns-fatu-usos-plus-oba-femi-ospreay-darbys-reign-foley-jericho-kotr-qotr-gable-montez-115-min/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-03T03:00:20+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "AEW Collision (5/30) Viewership Down On Cable TV Against NBA Playoffs",
       "p": "AEW Collision viewership information for May 30. The Wrestling Observer reports that AEW Collision drew 360,000 viewers on TNT on May 30. This number is down from the 384,000 viewers the show drew...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-5-30-viewership-down-on-cable-tv-against-nba-playoffs/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-03T02:17:33+00:00"
     },
     {
@@ -40,23 +88,15 @@
       "h": "Darby Allin Felt In 'Year One' That He Could Succeed As AEW World Champion",
       "p": "Darby Allin's run as AEW World Champion is over, but the man himself knew from day one that he could be the top guy in All Elite Wrestling.",
       "link": "https://www.wrestlinginc.com/2186287/aew-darby-allin-world-champion-succeed-year-one/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-06-03T02:04:39+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision ratings down against NBA Conference Final",
-      "p": "Saturday night’s episode of AEW Collision averaged 360,000 viewers on TNT, down 27.7% from the Wednesday airing after Dynamite on TBS and down 6.3% from the last time the show aired in it’s...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-down-against-nba-conference-final/",
-      "t": "5h",
-      "dt": "2026-06-03T01:33:24+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision rating: How did the show hold up against Game 7 of the NBA Western Conference Finals?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did the show hold up against Game 7 of the NBA Western Conference Finals? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/02/aew-collision-rating-how-did-the-show-hold-up-against-game-7-of-the-nba-western-conference-finals/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-06-03T00:50:40+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Mick Foley on whether he intends to wrestle in AEW, additional roles he can play for the company, compares the styles of Tony Khan and Vince McMahon, explains his decision to sever ties with WWE",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Mick Foley on whether he intends to wrestle in AEW, additional roles he can play for the company, compares the styles of Tony Khan and Vince...",
       "link": "https://prowrestling.net/site/2026/06/02/mick-foley-on-whether-he-intends-to-wrestle-in-aew-additional-roles-he-can-play-for-the-company-compares-the-styles-of-tony-khan-and-vince-mcmahon-explains-his-decision-to-sever-ties-with-wwe/",
-      "t": "11h",
+      "t": "16h",
       "dt": "2026-06-02T20:02:06+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW returning to Arena Mexico for a Grand Slam show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW returning to Arena Mexico for a Grand Slam show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/02/aew-returning-to-arena-mexico-for-a-grand-slam-show/",
-      "t": "13h",
-      "dt": "2026-06-02T17:45:15+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "NXT’s Great American Bash to air head-to-head against AEW’s Forbidden Door",
-      "p": "The first NXT premium live event has been announced for the end of June and will air head-to-head with AEW's Forbidden Door. The post NXT’s Great American Bash to air head-to-head against AEW’s...",
-      "link": "https://www.postwrestling.com/2026/06/02/nxts-great-american-bash-to-air-head-to-head-against-aews-forbidden-door/",
-      "t": "13h",
-      "dt": "2026-06-02T17:42:53+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Grand Slam Mexico confirmed for August 5 at Arena México",
-      "p": "AEW Grand Slam Mexico is confirmed with a return to Arena México this summer. The post AEW Grand Slam Mexico confirmed for August 5 at Arena México appeared first on POST Wrestling | Podcasts,...",
-      "link": "https://www.postwrestling.com/2026/06/02/aew-grand-slam-mexico-confirmed-for-august-5-at-arena-mexico/",
-      "t": "14h",
-      "dt": "2026-06-02T16:34:51+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (5/30): Ciampa gives 1,004 reasons why he hates Jericho, AEW announces Survival of the Fittest to crown a new TBS Champion, Takeshita vs. Garcia, Hazuki",
-      "p": "To help you add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS HAZUKI...",
-      "link": "https://www.pwtorch.com/site/2026/06/02/aew-collision-hits-misses-5-30-ciampa-gives-1004-reasons-why-he-hates-jericho-aew-announces-survival-of-the-fittest-to-crown-a-new-tbs-champion-takeshita-vs-garcia-hazuki/",
-      "t": "15h",
-      "dt": "2026-06-02T15:48:01+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (5/27/26): Statlander and Shida steal the show in Lights Out main event, Andrade’s momentum continues, Ospreay & Death Riders vs. The Rascalz",
-      "p": "To help you add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS THE...",
-      "link": "https://www.pwtorch.com/site/2026/06/01/aew-collision-hits-misses-5-27-26-statlander-and-shida-steal-the-show-in-lights-out-main-event-andrades-momentum-continues-ospreay-death-riders-vs-the-rascalz/",
-      "t": "1d",
-      "dt": "2026-06-02T04:48:56+00:00"
     }
   ]
 }

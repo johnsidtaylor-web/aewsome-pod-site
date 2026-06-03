@@ -1,38 +1,94 @@
 {
-  "updated": "2026-06-03T12:07:55.863583+00:00",
+  "updated": "2026-06-03T17:15:30.936820+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Tony Schiavone Says He ‘Always Checks On’ Darby Allin Following Big Spots",
+      "p": "Tony Schiavone discusses Darby Allin being involved in major spots, noting that he always checks on Darby afterwards. Throughout his AEW career, Darby Allin has been involved in many big spots in...",
+      "link": "https://www.fightful.com/wrestling-news/tony-schiavone-says-he-always-checks-on-darby-allin-following-big-spots/",
+      "t": "1m",
+      "dt": "2026-06-03T17:13:38+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Schiavone On The Difference Between WCW And AEW For Him: At WCW, The Wrestlers Were My Age, At AEW, They’re The Age Of My Kids",
+      "p": "Tony Schiavone talks about some of the biggest differences between working with WCW and working with AEW. Schiavone has been a staple of professional wrestling since the Monday Night Wars, where...",
+      "link": "https://www.fightful.com/wrestling-news/tony-schiavone-on-the-difference-between-wcw-and-aew-for-him-at-wcw-the-wrestlers-were-my-age-at-aew-theyre-the-age-of-my-kids/",
+      "t": "21m",
+      "dt": "2026-06-03T16:53:30+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Kevin Knight’s journey so far and what could be next, The Gunns being wasted in a weak shallow tag division",
+      "p": "Welcome everyone! Another week of AEW is in the books and I have to say, as a whole, AEW has gotten so much better at the post PPV Dynamite’s. Sometimes it would feel like the [...]",
+      "link": "https://www.pwtorch.com/site/2026/06/03/aew-rising-and-fading-stars-kevin-knights-journey-so-far-and-what-could-be-next-the-gunns-being-wasted-in-a-weak-shallow-tag-division/",
+      "t": "28m",
+      "dt": "2026-06-03T16:46:57+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "WWE's Bronson Reed Urges Drivers To Pay Attention Following Vehicle Collision",
+      "p": "Bronson Reed gets involved in a car accident on Tuesday, advises people to be more aware on the road.",
+      "link": "https://www.wrestlinginc.com/2186660/wwe-bronson-reed-drivers-attention-vehicle-collision/",
+      "t": "56m",
+      "dt": "2026-06-03T16:19:16+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (6/3): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, JUNE 3, 2026 Where: RICHMOND, VA. AT SIEGEL CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,418 tickets had been distributed;...",
+      "link": "https://www.pwtorch.com/site/2026/06/03/aew-dynamite-preview-6-3-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "1h",
+      "dt": "2026-06-03T16:10:21+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Speedball Mike Bailey Doesn't Want Kevin Knight To Join 'The Dark Side'",
+      "p": "AEW's \"Speedball\" Mike Bailey isn't happy with Kevin Knight's attitude, but he still doesn't want his tag team partner to join 'The Dark Side.\"",
+      "link": "https://www.wrestlinginc.com/2186633/aew-speedball-mike-bailey-kevin-knight-dark-side/",
+      "t": "1h",
+      "dt": "2026-06-03T15:58:47+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: AEW World Championship and TNT Title matches, Owen Hart Cup matches",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship and TNT Title matches, Owen Hart Cup matches appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/03/aew-dynamite-preview-aew-world-championship-and-tnt-title-matches-owen-hart-cup-matches/",
+      "t": "3h",
+      "dt": "2026-06-03T14:00:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite ticket distribution update for tonight’s show in Richmond",
+      "p": "An update is available regarding how many tickets have been distributed for the June 3, 2026, edition of AEW Dynamite. The show is set for the Stuart C. Siegel Center in Richmond, Virginia, and...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-distribution-update-for-tonights-show-in-richmond/",
+      "t": "3h",
+      "dt": "2026-06-03T13:34:22+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite in Richmond, WWE Evolve, WWE in Lisbon (reports needed), last week’s Dynamite and Collision grades, Jade Cargill, The Blade",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Richmond, WWE Evolve, WWE in Lisbon (reports needed), last week’s Dynamite and Collision grades, Jade Cargill, The Blade...",
       "link": "https://prowrestling.net/site/2026/06/03/aew-dynamite-in-richmond-wwe-evolve-wwe-in-lisbon-reports-needed-last-weeks-dynamite-and-collision-grades-jade-cargill-the-blade/",
-      "t": "7m",
+      "t": "5h",
       "dt": "2026-06-03T12:00:13+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (6/3)",
-      "p": "Viewing information and lineup for AEW Dynamite on June 3, 2026. AEW Dynamite (June 3, 2026) Venue: Siegel Center City: Richmond, VA Time: 8pm ET Channel: TBS, Max Lineup Women’s Owen Hart Cup...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-6-3/",
-      "t": "7m",
-      "dt": "2026-06-03T12:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Bronson Reed updates fans following car accident",
       "p": "WWE star Bronson Reed confirmed that he was involved in a car accident last night. Reed confirmed on his Instagram Story that he had a rear collision: “Just had a rear collision. Thankfully,...",
       "link": "https://www.f4wonline.com/news/wwe/bronson-reed-updates-car-accident-wwe-fans/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-06-03T09:52:20+00:00"
     },
     {
@@ -40,72 +96,16 @@
       "h": "Mick Foley tells the story of when he made Sabu ‘cry’ in the ring",
       "p": "WWE Hall of Famer and new AEW on-screen personality Mick Foley recently discussed his history in hardcore wrestling. Speaking on Something To Wrestle With, Foley recalled the time that he made...",
       "link": "https://www.f4wonline.com/news/wwe/mick-foley-sabu-chairshot-tears-ecw-wwf/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-06-03T09:37:33+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (06-03-2026)",
-      "p": "AEW Dynamite airs tonight (Wednesday, June 3, 2026) at 8:00 p.m. ET on TBS, with a simultaneous stream on HBO Max. The show runs live from the Siegel Center in Richmond, Virginia. AEW Dynamite...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-06-03-2026/",
-      "t": "4h",
-      "dt": "2026-06-03T07:28:10+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (06-03-2026)",
-      "p": "Tonight’s episode of AEW Dynamite takes place from the Siegel Center in Richmond, VA, and several matches have already been confirmed for the broadcast. MJF will be defending his AEW World...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-06-03-2026/",
-      "t": "4h",
-      "dt": "2026-06-03T07:21:55+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Maria Kanellis addresses the evolution in women’s wrestling: ‘You didn’t talk about your children’",
-      "p": "Former WWE and AEW talent Maria Kanellis recently opened up and discussed how far women have come in the pro-wrestling industry. Beginning her career in the early 2000s, Kanellis recently revealed...",
-      "link": "https://www.f4wonline.com/news/maria-kanellis-addresses-the-evolution-in-womens-wrestling-you-didnt-talk-about-your-children/",
-      "t": "8h",
-      "dt": "2026-06-03T03:19:52+00:00"
     },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 6/2 – WKPWP Flagship: Keller & Heydorn on Reigns-Fatu-Usos, plus Oba Femi, Ospreay, Darby’s reign, Foley, Jericho, KOTR, QOTR, Gable, Montez (115 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Zack Heydorn from Brass Ring Media and Sports...",
       "link": "https://www.pwtorch.com/site/2026/06/02/free-podcast-6-2-wkpwp-flagship-keller-heydorn-on-reigns-fatu-usos-plus-oba-femi-ospreay-darbys-reign-foley-jericho-kotr-qotr-gable-montez-115-min/",
-      "t": "9h",
+      "t": "14h",
       "dt": "2026-06-03T03:00:20+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision (5/30) Viewership Down On Cable TV Against NBA Playoffs",
-      "p": "AEW Collision viewership information for May 30. The Wrestling Observer reports that AEW Collision drew 360,000 viewers on TNT on May 30. This number is down from the 384,000 viewers the show drew...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-5-30-viewership-down-on-cable-tv-against-nba-playoffs/",
-      "t": "9h",
-      "dt": "2026-06-03T02:17:33+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Darby Allin Felt In 'Year One' That He Could Succeed As AEW World Champion",
-      "p": "Darby Allin's run as AEW World Champion is over, but the man himself knew from day one that he could be the top guy in All Elite Wrestling.",
-      "link": "https://www.wrestlinginc.com/2186287/aew-darby-allin-world-champion-succeed-year-one/",
-      "t": "10h",
-      "dt": "2026-06-03T02:04:39+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision rating: How did the show hold up against Game 7 of the NBA Western Conference Finals?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did the show hold up against Game 7 of the NBA Western Conference Finals? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/02/aew-collision-rating-how-did-the-show-hold-up-against-game-7-of-the-nba-western-conference-finals/",
-      "t": "11h",
-      "dt": "2026-06-03T00:50:40+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Mick Foley on whether he intends to wrestle in AEW, additional roles he can play for the company, compares the styles of Tony Khan and Vince McMahon, explains his decision to sever ties with WWE",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Mick Foley on whether he intends to wrestle in AEW, additional roles he can play for the company, compares the styles of Tony Khan and Vince...",
-      "link": "https://prowrestling.net/site/2026/06/02/mick-foley-on-whether-he-intends-to-wrestle-in-aew-additional-roles-he-can-play-for-the-company-compares-the-styles-of-tony-khan-and-vince-mcmahon-explains-his-decision-to-sever-ties-with-wwe/",
-      "t": "16h",
-      "dt": "2026-06-02T20:02:06+00:00"
     }
   ]
 }

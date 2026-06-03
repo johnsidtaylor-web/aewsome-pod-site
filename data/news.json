@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T23:07:39.457506+00:00",
+  "updated": "2026-06-03T01:45:28.344596+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -7,24 +7,32 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Inc",
-      "h": "Two AEW Luchadors Still Struggling With Visa Issues",
-      "p": "Two AEW luchadors are continuing to have struggles with visa issues, leading to them working with AEW's promotional partner CMLL in Mexico for the time being",
-      "link": "https://www.wrestlinginc.com/2186205/two-aew-luchadors-still-struggling-visa-issues/",
-      "t": "1h",
-      "dt": "2026-06-02T21:52:08+00:00"
+      "src": "Wrestling Observer",
+      "h": "AEW Collision ratings down against NBA Conference Final",
+      "p": "Saturday night’s episode of AEW Collision averaged 360,000 viewers on TNT, down 27.7% from the Wednesday airing after Dynamite on TBS and down 6.3% from the last time the show aired in it’s...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-down-against-nba-conference-final/",
+      "t": "11m",
+      "dt": "2026-06-03T01:33:24+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating: How did the show hold up against Game 7 of the NBA Western Conference Finals?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did the show hold up against Game 7 of the NBA Western Conference Finals? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/02/aew-collision-rating-how-did-the-show-hold-up-against-game-7-of-the-nba-western-conference-finals/",
+      "t": "54m",
+      "dt": "2026-06-03T00:50:40+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW launches ‘Rebel Heart’ fundraiser to help those affected by ALS",
       "p": "AEW is showing its support for Rebel (Tanea Brooks) by launching a fundraiser to help those affected by ALS. Amid a long health battle where doctors spent a long time unable to fully figure out...",
       "link": "https://www.f4wonline.com/news/aew/aew-launches-rebel-heart-fundraiser-to-help-those-affected-by-als/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-02T20:43:18+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Mick Foley Believes He Could Be A Manager In AEW",
       "p": "Mick Foley officially became All Elite at AEW Double or Nothing as he hosted the Buy In pre-show with Renee Paquette. Foley also got into an exchange of words with MJF, who ended up kicking Foley...",
       "link": "https://www.fightful.com/wrestling-news/mick-foley-believes-he-could-be-a-manager-in-aew/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-02T20:26:48+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Mick Foley open to possibility of having AEW match",
       "p": "Mick Foley isn’t closing the door on the idea of having one last match, but it would have to be the perfect scenario where all of the stars align. The 60-year-old Foley appeared on The Ariel...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-open-to-possibility-of-having-aew-match/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-02T20:07:51+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Mick Foley on whether he intends to wrestle in AEW, additional roles he can play for the company, compares the styles of Tony Khan and Vince McMahon, explains his decision to sever ties with WWE",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Mick Foley on whether he intends to wrestle in AEW, additional roles he can play for the company, compares the styles of Tony Khan and Vince...",
       "link": "https://prowrestling.net/site/2026/06/02/mick-foley-on-whether-he-intends-to-wrestle-in-aew-additional-roles-he-can-play-for-the-company-compares-the-styles-of-tony-khan-and-vince-mcmahon-explains-his-decision-to-sever-ties-with-wwe/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-02T20:02:06+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW returning to Arena Mexico for a Grand Slam show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW returning to Arena Mexico for a Grand Slam show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/02/aew-returning-to-arena-mexico-for-a-grand-slam-show/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-02T17:45:15+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "NXT’s Great American Bash to air head-to-head against AEW’s Forbidden Door",
       "p": "The first NXT premium live event has been announced for the end of June and will air head-to-head with AEW's Forbidden Door. The post NXT’s Great American Bash to air head-to-head against AEW’s...",
       "link": "https://www.postwrestling.com/2026/06/02/nxts-great-american-bash-to-air-head-to-head-against-aews-forbidden-door/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-02T17:42:53+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW reveals date for Grand Slam Mexico 2026",
       "p": "AEW is officially heading back to Mexico City this summer for a special episode of Dynamite. It was confirmed today that AEW Grand Slam Mexico 2026 will take place live from Arena Mexico on...",
       "link": "https://www.f4wonline.com/news/aew/aew-reveals-date-for-grand-slam-mexico-2026/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-06-02T16:34:52+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW Grand Slam Mexico confirmed for August 5 at Arena México",
       "p": "AEW Grand Slam Mexico is confirmed with a return to Arena México this summer. The post AEW Grand Slam Mexico confirmed for August 5 at Arena México appeared first on POST Wrestling | Podcasts,...",
       "link": "https://www.postwrestling.com/2026/06/02/aew-grand-slam-mexico-confirmed-for-august-5-at-arena-mexico/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-06-02T16:34:51+00:00"
     },
     {
@@ -88,23 +96,15 @@
       "h": "AEW COLLISION HITS & MISSES (5/30): Ciampa gives 1,004 reasons why he hates Jericho, AEW announces Survival of the Fittest to crown a new TBS Champion, Takeshita vs. Garcia, Hazuki",
       "p": "To help you add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS HAZUKI...",
       "link": "https://www.pwtorch.com/site/2026/06/02/aew-collision-hits-misses-5-30-ciampa-gives-1004-reasons-why-he-hates-jericho-aew-announces-survival-of-the-fittest-to-crown-a-new-tbs-champion-takeshita-vs-garcia-hazuki/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-06-02T15:48:01+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mistico returning from injury, AEW names set for CMLL Arena Mexico card",
-      "p": "Mistico is officially set to make his in-ring return this Friday night. After spending a couple of weeks on the sidelines due to a knee injury, Mistico said he hoped to make his CMLL return on the...",
-      "link": "https://www.f4wonline.com/news/aew/mistico-return-aew-names-set-cmll-arena-mexico-card/",
-      "t": "7h",
-      "dt": "2026-06-02T15:20:24+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW COLLISION HITS & MISSES (5/27/26): Statlander and Shida steal the show in Lights Out main event, Andrade’s momentum continues, Ospreay & Death Riders vs. The Rascalz",
       "p": "To help you add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS THE...",
       "link": "https://www.pwtorch.com/site/2026/06/01/aew-collision-hits-misses-5-27-26-statlander-and-shida-steal-the-show-in-lights-out-main-event-andrades-momentum-continues-ospreay-death-riders-vs-the-rascalz/",
-      "t": "18h",
+      "t": "20h",
       "dt": "2026-06-02T04:48:56+00:00"
     }
   ]

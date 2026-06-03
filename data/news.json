@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-03T21:29:32.754124+00:00",
+  "updated": "2026-06-03T23:59:10.622820+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
-    "Wrestling Observer": "ok (4 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "Wrestling Inc": "ok (6 AEW items)",
+    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Results (6/3/2026): MJF vs. RUSH, Mike Bailey vs. Kevin Knight, More",
+      "p": "Full results for the June 3, 2026, edition of AEW Dynamite on TBS live from the Siegel Center in Richmond, Virginia. On June 3, 2026, All Elite Wrestling hosted a new episode of Dynamite at the...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-6-3-2026-mjf-vs-rush-mike-bailey-vs-kevin-knight-more/",
+      "t": "44m",
+      "dt": "2026-06-03T23:15:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tomohiro Ishii Returns To AEW",
+      "p": "Tomohiro Ishii is back in AEW. Ishii returned in a backstage segment with the rest of the Conglomeration, including Mark Briscoe, Orange Cassidy, Kyle O’Reilly, and Roderick Strong. Briscoe said...",
+      "link": "https://www.fightful.com/wrestling-news/tomohiro-ishii-returns-to-aew/",
+      "t": "46m",
+      "dt": "2026-06-03T23:12:57+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite live results: MJF vs. Rush, Will Ospreay vs. Mark Davis",
+      "p": "AEW Dynamite is live tonight from the Stuart C. Siegel Center in Richmond, Virginia. Two title matches and two Owen Hart Foundation tournament bouts are scheduled for the show. MJF will put the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-live-results-mjf-vs-rush-will-ospreay-vs-mark-davis/",
+      "t": "54m",
+      "dt": "2026-06-03T23:05:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Results 6/3 - Two Titles On The Line, Owen Hart Cup Tournaments Continue",
+      "p": "This is Wrestling Inc.'s coverage for \"AEW Dynamite\" on June 3, 2026, with the AEW World & TNT Championships both defended by MJF & Kevin Knight respectively!",
+      "link": "https://www.wrestlinginc.com/2186292/aew-dynamite-june-3-two-titles-on-line-owen-hart-cup-tournaments-continue/",
+      "t": "59m",
+      "dt": "2026-06-03T23:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW announces date and location for next Grand Slam event",
+      "p": "AEW announced that AEW Grand Slam: Mexico will return to Arena Mexico on Aug. 5. Tickets for the event will go on sale on June 6 at 11 a.m. ET at AEWTix.com and Ticketmaster.com.mx. ARTICLE [...]",
+      "link": "https://www.pwtorch.com/site/2026/06/03/aew-announces-date-and-location-for-next-grand-slam-event/",
+      "t": "1h",
+      "dt": "2026-06-03T22:25:47+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Kevin Knight Compares Speedball Mike Bailey To Albert Einstein & Deion Sanders",
+      "p": "They might not be on the same page now, but AEW's Kevin Knight believes \"Speedball\" Mike Bailey is on the level of Albert Einstein and Deion Sanders.",
+      "link": "https://www.wrestlinginc.com/2187054/aew-kevin-knight-speedball-mike-bailey-albert-einstein-deion-sanders-compares/",
+      "t": "1h",
+      "dt": "2026-06-03T22:07:07+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mercedes Mone Expected To Make AEW Return ‘Relatively Soon’",
+      "p": "Details on the AEW status of Mercedes Mone. Fightful Select reports, “Sources tell us to expect Mercedes Moné to make her AEW return relatively soon.” Full details are available for subscribers....",
+      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-expected-to-make-aew-return-relatively-soon/",
+      "t": "1h",
+      "dt": "2026-06-03T22:05:58+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Update On Mercedes Mone's AEW Status Ahead Of Tonight's Dynamite",
+      "p": "A new report revealed more about the AEW status of Mercedes Mone ahead of tonight's edition of \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2187053/mercedes-mone-aew-status-dynamite-owen-hart-tournament/",
+      "t": "1h",
+      "dt": "2026-06-03T22:04:47+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan, Multiple AEW Stars Featured In New Dark Side Of The Ring Trailer",
+      "p": "AEW owner Tony Khan and multiple AEW stars are featured in the new trailer for Dark Side of the Ring, one month before the seventh season premieres",
+      "link": "https://www.wrestlinginc.com/2187049/tony-khan-aew-dark-side-of-the-ring-trailer/",
+      "t": "1h",
+      "dt": "2026-06-03T21:59:10+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: Nick Khan, AEW-Australia, Mick Foley",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
+      "link": "https://www.f4wonline.com/news/wwe/daily-update-nick-khan-aew-australia-mick-foley/",
+      "t": "2h",
+      "dt": "2026-06-03T21:55:59+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Star Says Former New Day Would 'Make A Great Addition' Following Their WWE Release",
+      "p": "Another AEW star has spoken out about how much they'd like to see New Day's Xavier Woods and Kofi Kingston in AEW following their WWE departure.",
+      "link": "https://www.wrestlinginc.com/2187035/aew-anthony-bowens-new-day-great-addition-wwe-release/",
+      "t": "2h",
+      "dt": "2026-06-03T21:43:06+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Swerve Strickland Explains How Collaboration With Raekwon Came Together",
       "p": "When Swerve Strickland returned at AEW Full Gear, he did so with a new theme. “Big Pressure” was replaced by “Hit Different,” featuring Raekwon and Monteasy. Speaking on The Cruz Show, Swerve...",
       "link": "https://www.fightful.com/wrestling-news/swerve-strickland-explains-how-collaboration-with-raekwon-came-together/",
-      "t": "4m",
+      "t": "2h",
       "dt": "2026-06-03T21:24:32+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP NEWSLETTER – PRO WRESTLING TORCH #1972 (June 3, 2026): Keller’s WWE Clash in Italy report and Staff Roundtable Reviews, Parks column on AEW Women’s Division, TV reports, Newswire",
-      "p": "PWTorch Newsletter #1972 Cover-dated June 3, 2026 LINK: 1972 PWTorch Newsletter PDF –LIST OF ALL LATEST NEWSLETTERS –CLICK HERE FOR DIRECTORY OF ALL PAST NEWSLETTERS BY YEAR SUMMARY: This week’s...",
-      "link": "https://www.pwtorch.com/site/2026/06/03/vip-newsletter-pro-wrestling-torch-1972-june-2-2026-kellers-wwe-clash-in-italy-report-and-staff-roundtable-reviews-parks-column-on-aew-womens-division-tv-reports-newswire/",
-      "t": "16m",
-      "dt": "2026-06-03T21:13:18+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's MJF To Wrestle His Last American Indie Match 'For An Extraordinarily Long Time'",
-      "p": "AEW Men's World Champion MJF declares this weekend will see him wrestle is last American independent wrestling match \"for an extraordinary long time\"",
-      "link": "https://www.wrestlinginc.com/2186927/aew-mjf-last-american-indie-match-extraordinarily-long-time/",
-      "t": "1h",
-      "dt": "2026-06-03T19:51:23+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: AEW World Championship and TNT Title matches, Owen Hart Cup matches",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship and TNT Title matches, Owen Hart Cup matches appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/03/aew-dynamite-preview-aew-world-championship-and-tnt-title-matches-owen-hart-cup-matches/",
-      "t": "2h",
-      "dt": "2026-06-03T19:20:19+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Dark Side of the Ring trailer includes Tony Khan and AEW wrestlers",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Dark Side of the Ring trailer includes Tony Khan and AEW wrestlers appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/03/dark-side-of-the-ring-trailer-includes-tony-khan-and-aew-wrestlers/",
-      "t": "2h",
-      "dt": "2026-06-03T19:08:14+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan appears in new trailer for Dark Side of the Ring season 7",
-      "p": "Tony Khan, Jeff Jarrett, Scott Steiner, Matt Hardy, and others are featured in a new trailer for Dark Side of the Ring. The seventh season of the Vice TV show begins Tuesday, July 7 at 9 p.m....",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-appears-in-new-trailer-for-dark-side-of-the-ring-season-7/",
-      "t": "2h",
-      "dt": "2026-06-03T18:48:03+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mick Foley Wasn’t Sure MJF Could Project Toughness, ‘I Was Wrong’",
-      "p": "Mick Foley has praise for MJF. On Foley’s first day on the job at AEW Double or Nothing, he went toe-to-toe on the microphone with MJF, who ended up kicking Foley in the dick. MJF has established...",
-      "link": "https://www.fightful.com/wrestling-news/mick-foley-wasnt-sure-mjf-could-project-toughness-i-was-wrong/",
-      "t": "2h",
-      "dt": "2026-06-03T18:33:39+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Tony Khan, Matt Hardy, Samoa Joe appear in ‘Dark Side of the Ring’ Season 7 trailer",
-      "p": "AEW President Tony Khan, veterans Matt Hardy, Samoa Joe and others will appear as part of VICE's Dark Side of the Ring Season 7. The post Tony Khan, Matt Hardy, Samoa Joe appear in ‘Dark Side of...",
-      "link": "https://www.postwrestling.com/2026/06/03/tony-khan-matt-hardy-samoa-joe-appear-in-dark-side-of-the-ring-season-7-trailer/",
-      "t": "2h",
-      "dt": "2026-06-03T18:33:31+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "MJF could be done working US indies ‘for an extraordinarily long time’",
-      "p": "After this Friday, MJF says it could be an “extraordinarily long time” before he wrestles on another independent show. MJF is set to face Bobby Orlando at Beyond Wrestling’s Break the Walls Down...",
-      "link": "https://www.f4wonline.com/news/aew/mjf-could-be-done-working-us-indies-for-an-extraordinarily-long-time/",
-      "t": "3h",
-      "dt": "2026-06-03T18:07:25+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Ryan Nemeth takes apparent shot at CM Punk over ‘PEDs’",
-      "p": "On social media today, Ryan Nemeth took an apparent shot at CM Punk, who he’s had issues with since the two were part of the AEW roster. Nemeth is now with TNA Wrestling and Punk is back in WWE....",
-      "link": "https://www.f4wonline.com/news/wwe/ryan-nemeth-takes-apparent-shot-at-cm-punk-over-peds/",
-      "t": "3h",
-      "dt": "2026-06-03T17:55:11+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan, Samoa Joe, Eddie Kingston Featured In ‘Dark Side Of The Ring’ Season 7 Trailer",
-      "p": "The trailer for Dark Side of the Ring season seven has been released. Vice TV posted the first trailer for the upcoming season, which will premiere on July 7 with a two-hour episode on the story...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-samoa-joe-eddie-kingston-featured-in-dark-side-of-the-ring-season-7-trailer/",
-      "t": "3h",
-      "dt": "2026-06-03T17:52:24+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Schiavone: Kyle Fletcher Is The Underdog That Eventually Can Be The Biggest Star In AEW By Far",
-      "p": "Tony Schiavone speaks on Kyle Fletcher, noting that he is the underdog that can eventually be the biggest star in AEW by far. Fletcher returned to All Elite Wrestling at AEW Double Or Nothing, but...",
-      "link": "https://www.fightful.com/wrestling-news/tony-schiavone-kyle-fletcher-is-the-underdog-that-eventually-can-be-the-biggest-star-in-aew-by-far/",
-      "t": "3h",
-      "dt": "2026-06-03T17:34:21+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-04T21:52:29.986796+00:00",
+  "updated": "2026-06-04T23:35:34.816052+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -13,42 +13,58 @@
   "items": [
     {
       "src": "Wrestling Observer",
-      "h": "Update on MJF after AEW Dynamite injury | Exclusive",
-      "p": "An update is available on MJF. On Thursday, the AEW World Champion was pulled from a scheduled match for Beyond Wrestling, with the promotion revealing that MJF suffered a hyperextended knee...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-mjf-after-aew-dynamite-injury-exclusive/",
-      "t": "54m",
-      "dt": "2026-06-04T20:57:46+00:00"
+      "h": "ROH live results: Athena vs. Hyan, Lee Moriarty vs. Mance Warner",
+      "p": "Ring of Honor is back on HonorClub tonight. Three proving ground matches are scheduled for tonight’s show. ROH Women’s Pure Champion Deonna Purrazzo will wrestle Isla Dawn in a proving ground...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-live-results-athena-vs-hyan-lee-moriarty-vs-mance-warner/",
+      "t": "30m",
+      "dt": "2026-06-04T23:05:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Christopher Daniels Praises Young AEW Stars",
+      "p": "AEW's Head of Talent Relations Christopher Daniels highlights young stars that have recently impressed him in AEW and Ring of Honor.",
+      "link": "https://www.wrestlinginc.com/2187916/christopher-daniels-praises-young-aew-stars/",
+      "t": "1h",
+      "dt": "2026-06-04T22:17:41+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Lio Rush, Wheeler Yuta Set For Beyond Wrestling’s June 5th Event",
-      "p": "Lio Rush and Wheeler Yuta are set for Beyond Wrestling’s next event. Coming up on June 5th is the next show for Beyond Wrestling. The promotion broke the news that AEW World Champion MJF would no...",
-      "link": "https://www.fightful.com/wrestling-news/lio-rush-wheeler-yuta-set-for-beyond-wrestlings-june-5th-event/",
+      "h": "Will Ospreay Praises Mask vs. Mask Match, But Says He’s In His Own Lane In Response To Comparison",
+      "p": "Will Ospreay took to social media to respond to a clip of Wrestling Republic praising El Grande Americano vs. OG Americano by saying that, in the history books, it will be more remembered than any...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-praises-mask-vs-mask-match-but-says-hes-in-his-own-lane-in-response-to-comparison/",
       "t": "1h",
-      "dt": "2026-06-04T20:51:54+00:00"
+      "dt": "2026-06-04T22:04:01+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mick Foley: AEW Has Done A Good Job Making Their Midcard Mean Something",
+      "p": "Mick Foley praises the AEW midcard. Mick Foley officially joined AEW at Double or Nothing, working as an analyst during the Buy In show alongside Renee Paquette. Foley cut ties with WWE over their...",
+      "link": "https://www.fightful.com/wrestling-news/mick-foley-aew-has-done-a-good-job-making-their-midcard-mean-something/",
+      "t": "1h",
+      "dt": "2026-06-04T22:02:08+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Update on MJF after AEW Dynamite injury | Exclusive",
+      "p": "An update is available on MJF. On Thursday, the AEW World Champion was pulled from a scheduled match for Beyond Wrestling, with the promotion revealing that MJF suffered a hyperextended knee...",
+      "link": "https://www.f4wonline.com/news/aew/update-on-mjf-after-aew-dynamite-injury-exclusive/",
+      "t": "2h",
+      "dt": "2026-06-04T20:57:46+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "POST NEWS: UFC PPVs in Canada, Shun Skywalker’s exit, Will Ospreay advances in Owen",
       "p": "John Pollock covers the news, including UFC PPVs moving to Paramount+ in Canada, Shun Skywalker leaving & Will Ospreay advances in the Owen. The post POST NEWS: UFC PPVs in Canada, Shun...",
       "link": "https://www.postwrestling.com/2026/06/04/post-news-ufc-ppvs-in-canada-shun-skywalkers-exit-will-ospreay-advances-in-owen/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-06-04T20:37:36+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Excalibur Closes AEW Dynamite With ‘Fix Your Hearts Or Die’ In Support Of Pride Month",
-      "p": "June is Pride month and Excalibur let everyone know that he is an ally of the LGBTQ community. The masked AEW announcer closed the June 3 episode of Dynamite by saying, “Fix your hearts or die....",
-      "link": "https://www.fightful.com/wrestling-news/excalibur-closes-aew-dynamite-with-fix-your-hearts-or-die-in-support-of-pride-month/",
-      "t": "1h",
-      "dt": "2026-06-04T20:24:05+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "WOL: Lance Storm update, AEW Dynamite, Adam Cole, MJF",
       "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including an update on Lance Storm, notes from the Dynamite show last night, news on Adam Cole and...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-lance-storm-update-aew-dynamite-adam-cole-mjf/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-04T20:05:40+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW's Christopher Daniels Addresses Higher Power Rumor From Attitude Era",
       "p": "AEW's Christopher Daniels addresses the rumor that he was supposed to be the Corporate Ministry's \"higher power\" during the notorious Attitude Era angle",
       "link": "https://www.wrestlinginc.com/2187798/aew-christopher-daniels-addresses-higher-power-rumor-attitude-era/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-04T20:01:30+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "WWE HOFer Jeff Jarrett Discusses Business Differences Between WWE And NJPW",
       "p": "WWE HOFer and AEW performer Jeff Jarrett discusses the business differences between WWE and NJPW while talking about NJPW being sold to TV Asahi and Ameba",
       "link": "https://www.wrestlinginc.com/2187777/wwe-hofer-jeff-jarrett-discusses-business-differences-wwe-njpw/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-06-04T19:36:27+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Mick Foley reportedly has ‘mind made up’ about wrestling in AEW",
       "p": "An update is available regarding Mick Foley potentially wrestling again. WrestleVotes Radio and Fightful Select reported on Thursday that, according to AEW sources, Foley “had his mind made up...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-reportedly-has-mind-made-up-about-wrestling-in-aew/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-04T19:17:02+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Mercedes Moné returns to AEW, Will Ospreay vs. Mark Davis, MJF vs. Rush for the AEW Men’s World Championship",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Mercedes Moné returns to AEW, Will Ospreay vs. Mark Davis, MJF vs. Rush for the AEW Men’s World...",
       "link": "https://prowrestling.net/site/2026/06/04/pruetts-pause-10-thoughts-on-aew-dynamite-mercedes-mone-returns-to-aew-will-ospreay-vs-mark-davis-mjf-vs-rush-for-the-aew-mens-world-championship/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-04T19:11:44+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Backstage Update On Possibility Of Mick Foley Wrestling In AEW",
       "p": "He's been retired for over 14 years, but Mick Foley might have talked himself into wrestling a match in AEW according to reports.",
       "link": "https://www.wrestlinginc.com/2187736/backstage-update-possibility-mick-foley-wrestling-aew/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-04T19:10:09+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "New El Grande Americano Merch, AEW Dynamite Highlights, More | Fight Size",
-      "p": "Here is your fight size update for Thursday, June 4, 2026. – There is a ton of new El Grande Americano merch on WWE Shop: El Grande Americano's new WWE merch. pic.twitter.com/0RAugSdmxr — Fightful...",
-      "link": "https://www.fightful.com/wrestling-news/new-el-grande-americano-merch-aew-dynamite-highlights-more-fight-size/",
-      "t": "2h",
-      "dt": "2026-06-04T19:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Stardom wrestlers respond to Thekla ‘declaring death’ to promotion",
-      "p": "Several wrestlers from Stardom have responded to Thekla. The AEW Women’s World Champion spat on the Stardom logo during Wednesday’s broadcast of AEW Dynamite and “declared death” to the promotion....",
-      "link": "https://www.f4wonline.com/news/aew/stardom-wrestlers-respond-to-thekla-declaring-death-to-promotion/",
-      "t": "5h",
-      "dt": "2026-06-04T16:45:38+00:00"
     }
   ]
 }

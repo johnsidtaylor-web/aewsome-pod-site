@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T08:59:12.475546+00:00",
+  "updated": "2026-06-04T12:16:31.752074+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
@@ -13,10 +13,26 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "AEW World Champion MJF pulled from indie show due to injury",
+      "p": "AEW World Champion MJF will no longer be making his scheduled appearance for Beyond Wrestling this Friday night. It was supposed to be MJF vs. Bobby Orlando at the indie promotion’s event in...",
+      "link": "https://www.f4wonline.com/news/aew/aew-champion-mjf-injured-pulled-beyond-wrestling/",
+      "t": "36m",
+      "dt": "2026-06-04T11:39:28+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW and NJPW names confirmed for debut PRODUCE NYC show",
+      "p": "PRODUCE will be debuting on 6/29 in Brooklyn, NYC at Pioneer World, and there are some names from AEW and NJPW set to appear on the card. Deonna Purrazzo and Zack Sabre Jr will be appearing on the...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/aew-njpw-names-confirmed-debut-produce-nyc-show/",
+      "t": "3h",
+      "dt": "2026-06-04T09:09:59+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "The Young Bucks provide update on Adam Cole",
       "p": "The Young Bucks recently gave fans an update on Adam Cole following his apparent retirement from the ring back at All In 2025 in Texas. Speaking during a recent livestream on the Being The Elite...",
       "link": "https://www.f4wonline.com/news/aew/the-young-bucks-update-adam-cole/",
-      "t": "4m",
+      "t": "3h",
       "dt": "2026-06-04T08:54:16+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW Dynamite June 3, 2026 stats, match times and more",
       "p": "AEW Dynamite had six matches and 1 hour, 16 minutes, 55 seconds of in-ring action this week from the Siegel Center in Richmond on (June 3, 2026). MJF retained the AEW World Championship over Rush...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-june-3-2026-stats-match-times-average-age/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-04T07:58:07+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW Collision on track to sell far less tickets this week in Youngstown than 2024 visit",
       "p": "AEW Collision this week takes place on Saturday, June 6th from the Covelli Centre in Youngstown, Ohio. According to the latest report from WrestleTix, the tickets distributed for the show are...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-sales-update-youngstown-ohio-june-2026/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-04T07:47:02+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "06/03 Powell’s AEW Dynamite audio review: MJF vs. Rush for the AEW World Championship, Kevin Knight vs. Mike Bailey for the TNT Title, Owen Hart Cup tournament matches",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 06/03 Powell’s AEW Dynamite audio review: MJF vs. Rush for the AEW World Championship, Kevin Knight vs. Mike Bailey for the TNT Title, Owen...",
       "link": "https://prowrestling.net/site/2026/06/04/06-03-powells-aew-dynamite-audio-review-mjf-vs-rush-for-the-aew-world-championship-kevin-knight-vs-mike-bailey-for-the-tnt-title-owen-hart-cup-tournament-matches/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-06-04T05:19:12+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "FREE PODCAST 6/3 – WKPWP after Dynamite: Keller & Lilly react to chaotic end to Ospreay-Davis main event, return of Mercedes Mode, MJF vs. Rush, Briscoe vs. Lio, Knight vs. Speedball (91 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Darrin Lilly to review AEW Dynamite with chat and email interactions throughout. They open with a discussion about the...",
       "link": "https://www.pwtorch.com/site/2026/06/04/free-podcast-6-3-wkpwp-after-dynamite-keller-lilly-react-to-chaotic-end-to-ospreay-davis-main-event-return-of-mercedes-mode-mjf-vs-rush-briscoe-vs-lio-knight-vs-speedball-91-min/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-06-04T05:18:31+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "VIP PODCAST 6/3 – WKH – AEW Dynamite: MJF vs. Rush for AEW Title, Speedball vs. Knight, Ospreay vs. Davis, Windsor vs. Mercedes, more (23 min.)",
       "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the June 3 episode of AEW Dynamite start to finish including MJF vs. Rush for the AEW World Title, Will...",
       "link": "https://www.pwtorch.com/site/2026/06/04/vip-podcast-6-3-wkh-aew-dynamite-mjf-vs-rush-for-aew-title-speedball-vs-knight-ospreay-vs-davis-windsor-vs-mercedes-more-23-min/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-06-04T05:05:25+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW Dynamite - 6/3/2026: 3 Things We Hated And 3 We Loved",
       "p": "The best and the worst of the first AEW Dynamite of June.",
       "link": "https://www.wrestlinginc.com/2187224/aew-dynamite-june-3-2026-3-things-hated-loved-opinion-review/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-06-04T04:41:59+00:00"
     },
     {
@@ -72,31 +88,15 @@
       "h": "Kevin Knight joins Don Callis Family on AEW Dynamite",
       "p": "Kevin Knight has fueled his heel turn by now joining the Don Callis Family on AEW Dynamite. Fans saw the current reigning TNT Champion, Knight, join forces with Don Callis on the June 3, 2026...",
       "link": "https://www.f4wonline.com/news/aew/kevin-knight-joins-don-callis-family-on-aew-dynamite/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-04T03:43:25+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tomohiro Ishii returns to AEW on Dynamite",
-      "p": "Tomohiro Ishii has finally returned to AEW Dynamite. On Wednesday, June 3, 2026, the episode of AEW Dynamite saw the return of Tomohiro Ishii during a backstage segment featuring The...",
-      "link": "https://www.f4wonline.com/news/aew/tomohiro-ishii-returns-to-aew-on-dynamite/",
-      "t": "5h",
-      "dt": "2026-06-04T03:25:45+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Thekla declares ‘death to Stardom’ for AEW Forbidden Door, president Taro Okada responds",
-      "p": "Reigning AEW Women’s World Champion Thekla’s war with her previous employer Stardom will apparently continue at this month’s AEW x NJPW Forbidden Door. During Wednesday’s AEW Dynamite, Thekla cut...",
-      "link": "https://www.f4wonline.com/news/aew/thekla-declares-death-stardom-aew-forbidden-door-taro-okada/",
-      "t": "5h",
-      "dt": "2026-06-04T03:21:58+00:00"
     },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 6/3 – WKPWP Flagship from 5 Yrs Ago: Keller & Powell talk WWE roster cuts, would Vince sell WWE, lack of rules in Young Bucks matches, Cody’s trajectory, more (94 min.)",
       "p": "SHOW SUMMARY: In this week’s Flagship Flashback episode of the Wade Keller Pro Wrestling Podcast from five years ago (6-3-2021), PWTorch editor Wade Keller was joined by co-host Jason Powell from...",
       "link": "https://www.pwtorch.com/site/2026/06/03/free-podcast-6-3-wkpwp-flagship-from-5-yrs-ago-keller-powell-talk-wwe-roster-cuts-would-vince-sell-wwe-lack-of-rules-in-young-bucks-matches-codys-trajectory-more-94-min/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-06-04T03:00:18+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Moné Returns: AEW Dynamite 6/3/26 Review | RAD",
       "p": "John & Wai review AEW Dynamite (MJF vs Rush, Knight vs Bailey) and discuss NXT GAB vs. Forbidden Door, BOSJ finals, Foley's comments on wrestling again. Get free access to this XL Podcast during...",
       "link": "https://www.postwrestling.com/2026/06/03/aew-dynamite-6-3-26-review-rad-live-free-1035pm-et/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-06-04T02:40:52+00:00"
     }
   ]

@@ -1,22 +1,78 @@
 {
-  "updated": "2026-06-04T16:28:38.211043+00:00",
+  "updated": "2026-06-04T19:30:45.305257+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Mick Foley reportedly has ‘mind made up’ about wrestling in AEW",
+      "p": "An update is available regarding Mick Foley potentially wrestling again. WrestleVotes Radio and Fightful Select reported on Thursday that, according to AEW sources, Foley “had his mind made up...",
+      "link": "https://www.f4wonline.com/news/aew/mick-foley-reportedly-has-mind-made-up-about-wrestling-in-aew/",
+      "t": "13m",
+      "dt": "2026-06-04T19:17:02+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Mercedes Moné returns to AEW, Will Ospreay vs. Mark Davis, MJF vs. Rush for the AEW Men’s World Championship",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Mercedes Moné returns to AEW, Will Ospreay vs. Mark Davis, MJF vs. Rush for the AEW Men’s World...",
+      "link": "https://prowrestling.net/site/2026/06/04/pruetts-pause-10-thoughts-on-aew-dynamite-mercedes-mone-returns-to-aew-will-ospreay-vs-mark-davis-mjf-vs-rush-for-the-aew-mens-world-championship/",
+      "t": "19m",
+      "dt": "2026-06-04T19:11:44+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Update On Possibility Of Mick Foley Wrestling In AEW",
+      "p": "He's been retired for over 14 years, but Mick Foley might have talked himself into wrestling a match in AEW according to reports.",
+      "link": "https://www.wrestlinginc.com/2187736/backstage-update-possibility-mick-foley-wrestling-aew/",
+      "t": "20m",
+      "dt": "2026-06-04T19:10:09+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "New El Grande Americano Merch, AEW Dynamite Highlights, More | Fight Size",
+      "p": "Here is your fight size update for Thursday, June 4, 2026. – There is a ton of new El Grande Americano merch on WWE Shop: El Grande Americano's new WWE merch. pic.twitter.com/0RAugSdmxr — Fightful...",
+      "link": "https://www.fightful.com/wrestling-news/new-el-grande-americano-merch-aew-dynamite-highlights-more-fight-size/",
+      "t": "30m",
+      "dt": "2026-06-04T19:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mick Foley Believed To Have Made Up His Mind Regarding Last Match",
+      "p": "Details on Mick Foley potentially having a last match. WrestleVotes on Fightful Select reports “When @WrestleVotes Radio on @FightfulSelect spoke with AEW sources, they believed that Mick Foley...",
+      "link": "https://www.fightful.com/wrestling-news/mick-foley-believed-to-have-made-up-his-mind-regarding-last-match/",
+      "t": "1h",
+      "dt": "2026-06-04T18:09:40+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Young Bucks Comment On Mick Foley Joining AEW",
+      "p": "The Young Bucks are happy to see Mick Foley in AEW. Foley debuted for the company at the Double Or Nothing pay-per-view, where he hosted the pre-show and had an in-ring confrontation with MJF....",
+      "link": "https://www.fightful.com/wrestling-news/young-bucks-aew-mick-foley-308990/",
+      "t": "1h",
+      "dt": "2026-06-04T18:04:53+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Stardom wrestlers respond to Thekla ‘declaring death’ to promotion",
+      "p": "Several wrestlers from Stardom have responded to Thekla. The AEW Women’s World Champion spat on the Stardom logo during Wednesday’s broadcast of AEW Dynamite and “declared death” to the promotion....",
+      "link": "https://www.f4wonline.com/news/aew/stardom-wrestlers-respond-to-thekla-declaring-death-to-promotion/",
+      "t": "2h",
+      "dt": "2026-06-04T16:45:38+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "Barnett’s AEW Dynamite Hit List: An underwhelming return for Mercedes Mone, a rare case of outside interference making a television main event better",
       "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post Barnett’s AEW Dynamite Hit List: An underwhelming return for Mercedes Mone, a rare case of outside interference making a television main...",
       "link": "https://prowrestling.net/site/2026/06/04/barnetts-aew-dynamite-hit-list-an-underwhelming-return-for-mercedes-mone-a-rare-case-of-outside-interference-making-a-television-main-event-better/",
-      "t": "23m",
+      "t": "3h",
       "dt": "2026-06-04T16:05:05+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "AEW DYNAMITE HITS & MISSES (6/3): Rush’s questionable judgment, Knight joining Don Callis Family, what’s the deal with Lio Rush, can The Bucks stop winking to camera",
       "p": "HITS MJF VS. RUSH A strong start to the show made the viewers look at Rush as a legitimate threat to MJF, who attempted to get into his head in the “earlier” interview. Rush getting [...]",
       "link": "https://www.pwtorch.com/site/2026/06/04/aew-dynamite-hits-misses-6-3-rushs-questionable-judgment-knight-joining-don-callis-family-whats-the-deal-with-lio-rush-can-the-bucks-stop-winking-to-camera/",
-      "t": "34m",
+      "t": "3h",
       "dt": "2026-06-04T15:53:57+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "Young Bucks donate live stream proceeds to Rebel’s ALS fundraiser",
       "p": "The Young Bucks showed support for their AEW colleague Rebel on Wednesday by donating $3,000 to her ALS fundraiser. Amid her battle with ALS, Rebel (Tanea Brooks) announced this week that she has...",
       "link": "https://www.f4wonline.com/news/aew/young-bucks-donate-rebels-aew-als-fundraiser/",
-      "t": "55m",
+      "t": "3h",
       "dt": "2026-06-04T15:33:24+00:00"
     },
     {
@@ -40,7 +96,7 @@
       "h": "AEW's Jim Ross Doesn't Believe WWE Shareholder Lawsuit Will Be 'Over Quickly'",
       "p": "The WWE Shareholders lawsuit against Vince McMahon is set to begin next week.",
       "link": "https://www.wrestlinginc.com/2187450/wwe-aew-jim-ross-doesnt-believe-shareholder-lawsuit-over-quickly/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-04T15:09:48+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "AEW World Champion MJF Pulled From Indie Booking Due To Injury",
       "p": "MJF's match at Beyond Wrestling's Break The Walls Down has officially been cancelled after he suffered a knee injury on \"AEW Dynamite.\"",
       "link": "https://www.wrestlinginc.com/2187425/aew-world-champion-mjf-pulled-indie-booking-injury/",
-      "t": "1h",
-      "dt": "2026-06-04T14:46:51+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Beyond Wrestling claims MJF hyperextended his knee during Dynamite and will miss indie booking",
-      "p": "MJF seems to have suffered an injury during his match against Rush on Dynamite, as he will miss a Beyond Wrestling event Friday. The post Beyond Wrestling claims MJF hyperextended his knee during...",
-      "link": "https://www.postwrestling.com/2026/06/04/beyond-wrestling-claims-mjf-hyperextended-his-knee-during-dynamite-and-will-miss-indie-booking/",
-      "t": "2h",
-      "dt": "2026-06-04T14:20:14+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Mick Foley Describes His AEW Role As A 'Swiss Army Knife,' Says He Could Be A Manager",
-      "p": "AEW's Mick Foley has discussed his role in the promotion following his debut, explaining the various roles he believes he would be a good fit for.",
-      "link": "https://www.wrestlinginc.com/2187314/mick-foley-aew-swiss-army-knife-manager/",
-      "t": "2h",
-      "dt": "2026-06-04T14:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub lineup: Three Proving Ground matches top tonight’s card",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: Three Proving Ground matches top tonight’s card appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/04/roh-on-honorclub-lineup-three-proving-ground-matches-top-tonights-card/",
-      "t": "2h",
-      "dt": "2026-06-04T13:40:29+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The Summer Blockbuster card",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Summer Blockbuster card appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/04/aew-dynamite-preview-the-summer-blockbuster-card/",
-      "t": "3h",
-      "dt": "2026-06-04T13:20:04+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Title match and an Owen Hart Cup tournament match set for Saturday’s live show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Title match and an Owen Hart Cup tournament match set for Saturday’s live show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/04/aew-collision-lineup-title-match-and-an-owen-hart-cup-tournament-match-set-for-saturdays-live-show/",
-      "t": "3h",
-      "dt": "2026-06-04T13:00:20+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "For subscribers: Bryan Alvarez’s AEW Dynamite report",
-      "p": "Bryan Alvarez’s report on this week’s AEW Dynamite is now available for subscribers.",
-      "link": "https://www.f4wonline.com/news/aew/for-subscribers-bryan-alvarezs-aew-dynamite-report-11/",
-      "t": "3h",
-      "dt": "2026-06-04T12:39:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW World Champion MJF pulled from indie show due to injury",
-      "p": "AEW World Champion MJF will no longer be making his scheduled appearance for Beyond Wrestling this Friday night. It was supposed to be MJF vs. Bobby Orlando at the indie promotion’s event in...",
-      "link": "https://www.f4wonline.com/news/aew/aew-champion-mjf-injured-pulled-beyond-wrestling/",
       "t": "4h",
-      "dt": "2026-06-04T11:39:28+00:00"
+      "dt": "2026-06-04T14:46:51+00:00"
     }
   ]
 }

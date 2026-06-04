@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-03T23:59:10.622820+00:00",
+  "updated": "2026-06-04T05:03:09.638777+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Fightful": "ok (6 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "AEW Dynamite Results (6/3/2026): MJF vs. RUSH, Mike Bailey vs. Kevin Knight, More",
-      "p": "Full results for the June 3, 2026, edition of AEW Dynamite on TBS live from the Siegel Center in Richmond, Virginia. On June 3, 2026, All Elite Wrestling hosted a new episode of Dynamite at the...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-6-3-2026-mjf-vs-rush-mike-bailey-vs-kevin-knight-more/",
-      "t": "44m",
-      "dt": "2026-06-03T23:15:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tomohiro Ishii Returns To AEW",
-      "p": "Tomohiro Ishii is back in AEW. Ishii returned in a backstage segment with the rest of the Conglomeration, including Mark Briscoe, Orange Cassidy, Kyle O’Reilly, and Roderick Strong. Briscoe said...",
-      "link": "https://www.fightful.com/wrestling-news/tomohiro-ishii-returns-to-aew/",
-      "t": "46m",
-      "dt": "2026-06-03T23:12:57+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite - 6/3/2026: 3 Things We Hated And 3 We Loved",
+      "p": "The best and the worst of the first AEW Dynamite of June.",
+      "link": "https://www.wrestlinginc.com/2187224/aew-dynamite-june-3-2026-3-things-hated-loved-opinion-review/",
+      "t": "21m",
+      "dt": "2026-06-04T04:41:59+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Dynamite live results: MJF vs. Rush, Will Ospreay vs. Mark Davis",
-      "p": "AEW Dynamite is live tonight from the Stuart C. Siegel Center in Richmond, Virginia. Two title matches and two Owen Hart Foundation tournament bouts are scheduled for the show. MJF will put the...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-live-results-mjf-vs-rush-will-ospreay-vs-mark-davis/",
-      "t": "54m",
-      "dt": "2026-06-03T23:05:00+00:00"
+      "h": "Kevin Knight joins Don Callis Family on AEW Dynamite",
+      "p": "Kevin Knight has fueled his heel turn by now joining the Don Callis Family on AEW Dynamite. Fans saw the current reigning TNT Champion, Knight, join forces with Don Callis on the June 3, 2026...",
+      "link": "https://www.f4wonline.com/news/aew/kevin-knight-joins-don-callis-family-on-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-06-04T03:43:25+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Results 6/3 - Two Titles On The Line, Owen Hart Cup Tournaments Continue",
-      "p": "This is Wrestling Inc.'s coverage for \"AEW Dynamite\" on June 3, 2026, with the AEW World & TNT Championships both defended by MJF & Kevin Knight respectively!",
-      "link": "https://www.wrestlinginc.com/2186292/aew-dynamite-june-3-two-titles-on-line-owen-hart-cup-tournaments-continue/",
-      "t": "59m",
-      "dt": "2026-06-03T23:00:00+00:00"
+      "src": "Wrestling Observer",
+      "h": "Tomohiro Ishii returns to AEW on Dynamite",
+      "p": "Tomohiro Ishii has finally returned to AEW Dynamite. On Wednesday, June 3, 2026, the episode of AEW Dynamite saw the return of Tomohiro Ishii during a backstage segment featuring The...",
+      "link": "https://www.f4wonline.com/news/aew/tomohiro-ishii-returns-to-aew-on-dynamite/",
+      "t": "1h",
+      "dt": "2026-06-04T03:25:45+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Thekla declares ‘death to Stardom’ for AEW Forbidden Door, president Taro Okada responds",
+      "p": "Reigning AEW Women’s World Champion Thekla’s war with her previous employer Stardom will apparently continue at this month’s AEW x NJPW Forbidden Door. During Wednesday’s AEW Dynamite, Thekla cut...",
+      "link": "https://www.f4wonline.com/news/aew/thekla-declares-death-stardom-aew-forbidden-door-taro-okada/",
+      "t": "1h",
+      "dt": "2026-06-04T03:21:58+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Title match, Owen Hart women’s tourney bout set for AEW Collision",
+      "p": "While the overall lineup for this Saturday’s AEW Collision is a bit light in terms of total matches, the show from Youngstown, Ohio, will feature both an AEW Women’s Tag Team title match and a...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-lineup-divine-dominion-persephone-hazuki/",
+      "t": "2h",
+      "dt": "2026-06-04T03:01:43+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "AEW announces date and location for next Grand Slam event",
-      "p": "AEW announced that AEW Grand Slam: Mexico will return to Arena Mexico on Aug. 5. Tickets for the event will go on sale on June 6 at 11 a.m. ET at AEWTix.com and Ticketmaster.com.mx. ARTICLE [...]",
-      "link": "https://www.pwtorch.com/site/2026/06/03/aew-announces-date-and-location-for-next-grand-slam-event/",
-      "t": "1h",
-      "dt": "2026-06-03T22:25:47+00:00"
+      "h": "FREE PODCAST 6/3 – WKPWP Flagship from 5 Yrs Ago: Keller & Powell talk WWE roster cuts, would Vince sell WWE, lack of rules in Young Bucks matches, Cody’s trajectory, more (94 min.)",
+      "p": "SHOW SUMMARY: In this week’s Flagship Flashback episode of the Wade Keller Pro Wrestling Podcast from five years ago (6-3-2021), PWTorch editor Wade Keller was joined by co-host Jason Powell from...",
+      "link": "https://www.pwtorch.com/site/2026/06/03/free-podcast-6-3-wkpwp-flagship-from-5-yrs-ago-keller-powell-talk-wwe-roster-cuts-would-vince-sell-wwe-lack-of-rules-in-young-bucks-matches-codys-trajectory-more-94-min/",
+      "t": "2h",
+      "dt": "2026-06-04T03:00:18+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kevin Knight Compares Speedball Mike Bailey To Albert Einstein & Deion Sanders",
-      "p": "They might not be on the same page now, but AEW's Kevin Knight believes \"Speedball\" Mike Bailey is on the level of Albert Einstein and Deion Sanders.",
-      "link": "https://www.wrestlinginc.com/2187054/aew-kevin-knight-speedball-mike-bailey-albert-einstein-deion-sanders-compares/",
-      "t": "1h",
-      "dt": "2026-06-03T22:07:07+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mercedes Mone Expected To Make AEW Return ‘Relatively Soon’",
-      "p": "Details on the AEW status of Mercedes Mone. Fightful Select reports, “Sources tell us to expect Mercedes Moné to make her AEW return relatively soon.” Full details are available for subscribers....",
-      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-expected-to-make-aew-return-relatively-soon/",
-      "t": "1h",
-      "dt": "2026-06-03T22:05:58+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Update On Mercedes Mone's AEW Status Ahead Of Tonight's Dynamite",
-      "p": "A new report revealed more about the AEW status of Mercedes Mone ahead of tonight's edition of \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2187053/mercedes-mone-aew-status-dynamite-owen-hart-tournament/",
-      "t": "1h",
-      "dt": "2026-06-03T22:04:47+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan, Multiple AEW Stars Featured In New Dark Side Of The Ring Trailer",
-      "p": "AEW owner Tony Khan and multiple AEW stars are featured in the new trailer for Dark Side of the Ring, one month before the seventh season premieres",
-      "link": "https://www.wrestlinginc.com/2187049/tony-khan-aew-dark-side-of-the-ring-trailer/",
-      "t": "1h",
-      "dt": "2026-06-03T21:59:10+00:00"
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite 6/3/26 Review | RAD",
+      "p": "John & Wai review AEW Dynamite (MJF vs Rush, Knight vs Bailey) and discuss NXT GAB vs. Forbidden Door, BOSJ finals, Foley's comments on wrestling again. Get free access to this XL Podcast during...",
+      "link": "https://www.postwrestling.com/2026/06/03/aew-dynamite-6-3-26-review-rad-live-free-1035pm-et/",
+      "t": "2h",
+      "dt": "2026-06-04T02:40:52+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Daily Update: Nick Khan, AEW-Australia, Mick Foley",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
-      "link": "https://www.f4wonline.com/news/wwe/daily-update-nick-khan-aew-australia-mick-foley/",
+      "h": "Two Owen Hart tournament matches set for next week’s AEW Dynamite Summer Blockbuster",
+      "p": "Two Owen Hart Foundation tournament bouts are on tap for next Wednesday’s Summer Blockbuster edition of AEW Dynamite from Cincinnati, Ohio. One will be a semifinal in the men’s bracket as former...",
+      "link": "https://www.f4wonline.com/news/aew/aew-summer-blockbuster-lineup-owen-hart-tournament/",
       "t": "2h",
-      "dt": "2026-06-03T21:55:59+00:00"
+      "dt": "2026-06-04T02:39:20+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Hook set to make GCW debut at signature event",
+      "p": "AEW wrestler Hook is scheduled to be a part of two significant GCW events [Game Changer Wrestling], including his much-awaited GCW debut. Hook is also set to make his GCW debut against Joey Janela...",
+      "link": "https://www.f4wonline.com/news/aew/hook-set-to-make-gcw-debut-at-signature-event/",
+      "t": "2h",
+      "dt": "2026-06-04T02:35:27+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Star Says Former New Day Would 'Make A Great Addition' Following Their WWE Release",
-      "p": "Another AEW star has spoken out about how much they'd like to see New Day's Xavier Woods and Kofi Kingston in AEW following their WWE departure.",
-      "link": "https://www.wrestlinginc.com/2187035/aew-anthony-bowens-new-day-great-addition-wwe-release/",
+      "h": "Will Ospreay Earns Spot At AEW Forbidden Door After Chaotic Semi-Final",
+      "p": "Will Ospreay is headed to the finals of the 2026 Men's Owen Hart Foundation tournament after a chaotic win on \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2187207/will-ospreay-earns-spot-aew-forbidden-door-chaotic-semi-final/",
       "t": "2h",
-      "dt": "2026-06-03T21:43:06+00:00"
+      "dt": "2026-06-04T02:33:24+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Swerve Strickland Explains How Collaboration With Raekwon Came Together",
-      "p": "When Swerve Strickland returned at AEW Full Gear, he did so with a new theme. “Big Pressure” was replaced by “Hit Different,” featuring Raekwon and Monteasy. Speaking on The Cruz Show, Swerve...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-explains-how-collaboration-with-raekwon-came-together/",
+      "h": "Will Ospreay Defeats Mark Davis, Advances To Men’s Owen Hart Tournament Finals",
+      "p": "Will Ospreay is moving on to the finals of the Men’s Owen Hart Foundation tournament. Ospreay took on ‘Dunkzilla’ Mark Davis in a tournament semifinal match on the June 3 episode of AEW Dynamite....",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-mark-davis-owen-308916/",
       "t": "2h",
-      "dt": "2026-06-03T21:24:32+00:00"
+      "dt": "2026-06-04T02:22:04+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland vs. Brody King, Skye Blue vs. Sareee Set For AEW Dynamite Summer Blockbuster",
+      "p": "Here’s what on tap for AEW Dynamite Summer Blockbuster. The show will feature another match in the Men’s Owen Hart Foundation Tournament, as Swerve Strickland will battle Brody King in a...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-brody-king-sareee-aew-dynamite-308911/",
+      "t": "2h",
+      "dt": "2026-06-04T02:18:46+00:00"
     }
   ]
 }

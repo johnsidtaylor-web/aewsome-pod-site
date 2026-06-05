@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-05T20:09:16.423681+00:00",
+  "updated": "2026-06-05T21:43:14.979711+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (2 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (5 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
   },
   "items": [
     {
@@ -16,7 +16,7 @@
       "h": "POST NEWS: Plaintiffs’ issue filing before WWE shareholder trial, BOSJ Final & MyAEW adds PRODUCE",
       "p": "John Pollock covers the news, including a filing by the plaintiffs in the WWE shareholder suit, BOSJ final is set, and another MyAEW deal. The post POST NEWS: Plaintiffs’ issue filing before WWE...",
       "link": "https://www.postwrestling.com/2026/06/05/post-news-plaintiffs-issue-filing-before-wwe-shareholder-trial-bosj-final-myaew-adds-produce/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-06-05T18:56:35+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "Deonna Purrazzo Names Mercedes Mone And More As Potential Forbidden Door Or Global Wars Opponents",
       "p": "Deonna Purrazzo is the reigning ROH Women’s Pure Champion, and she is ready to take on all challengers. At ROH Supercard of Honor, Deonna defeated Diamante to retain her Women’s Pure Title....",
       "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-names-mercedes-mone-and-more-as-potential-forbidden-door-or-global-wars-opponents/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-06-05T18:50:47+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "AEW's Anthony Bowens Defends Divisive Singles Run",
       "p": "Anthony Bowens describes the evolution of his character as a singles performer. Why some of his gimmicks didn't take off as they should have.",
       "link": "https://www.wrestlinginc.com/2188452/aew-anthony-bowens-defends-divisive-singles-run/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-06-05T18:04:35+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "Mick Foley Reveals How He Ended Up In AEW, Says He Feels Connection With Tony Khan",
       "p": "WWE Hall of Famer Mick Foley reveals what attracted him to All Elite Wrestling and how he formed a connection with CEO Tony Khan.",
       "link": "https://www.wrestlinginc.com/2188390/mick-foley-aew-connection-tony-khan/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-06-05T17:00:48+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "Bandido vs. Volador Jr. for ROH Title and Villano III Jr. vs. Zandokan among the latest CMLL Match Recommendations",
       "p": "Here’s a look at some of the top CMLL matches from the last two weeks. 5/17 Arena Mexico Volador Jr. pinned Bandido with a head scissors out of the corner turned into a piledeiver. Really [...]",
       "link": "https://www.pwtorch.com/site/2026/06/05/bandido-vs-volador-jr-for-roh-title-and-villano-iii-jr-vs-zandokan-among-the-latest-cmll-match-recommendations/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-05T16:21:44+00:00"
     },
     {
@@ -56,7 +56,7 @@
       "h": "Indie Promotion PRODUCE Joins MyAEW, Announces First Show Curated By Jonathan Gresham",
       "p": "MyAEW is an international streaming platform for AEW and ROH. It will now be the home to two indie promotions, including new promotion, PRODUCE Wrestling.",
       "link": "https://www.wrestlinginc.com/2188333/aew-myaew-produce-orange-crush-jonathan-gresham-indie-promotion-debut-curated/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-06-05T16:00:31+00:00"
     },
     {
@@ -64,23 +64,15 @@
       "h": "June 8, 2026 Observer Newsletter: Wrestling war escalations, AAA’s mask vs. mask classic, WWE Clash in Italy ratings",
       "p": "Dave Meltzer has returned with a new and packed Wrestling Observer Newsletter. He leads off with the latest escalations in the various wrestling wars including WWE NXT, AEW and TNA going...",
       "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/june-8-2026-observer-newsletter-aaa-cmll-wrestling-war-escalations-nxt-vs-aew-vs-tna-head-to-head-mask-vs-mask-classic/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-06-05T15:29:05+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub results 6/4): Athena vs. Hyan, Lee Moriarty vs. Mance Warner, and Deonna Purrazzo vs. Isla Dawn in Proving Ground matches, Lacey Layne vs. Queen Aminata",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results 6/4): Athena vs. Hyan, Lee Moriarty vs. Mance Warner, and Deonna Purrazzo vs. Isla Dawn in Proving Ground matches,...",
-      "link": "https://prowrestling.net/site/2026/06/05/roh-on-honorclub-results-6-4-athena-vs-hyan-lee-moriarty-vs-mance-warner-and-deonna-purrazzo-vs-isla-dawn-in-proving-ground-matches-lacey-layne-vs-queen-aminata/",
-      "t": "5h",
-      "dt": "2026-06-05T14:55:49+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "PRODUCE Wrestling lands PPV distribution deal with MyAEW",
       "p": "PRODUCE Wrestling supercards will be available on PPV via the MyAEW app and website. Additionally, the press release confirmed that future PRODUCE events will be distributed through the platform...",
       "link": "https://www.f4wonline.com/news/produce-wrestling-lands-ppv-distribution-deal-with-myaew/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-06-05T14:55:33+00:00"
     },
     {
@@ -88,7 +80,7 @@
       "h": "Orange Crush’s PRODUCE joins MyAEW with pay-per-view distribution deal",
       "p": "Orange Crush’s Produce Wrestling has become the second promotion to join the MyAEW streaming service, with a PPV distribution deal announced. The post Orange Crush’s PRODUCE joins MyAEW with...",
       "link": "https://www.postwrestling.com/2026/06/05/orange-crushs-produce-joins-myaew-with-pay-per-view-distribution-deal/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-06-05T14:37:47+00:00"
     },
     {
@@ -96,7 +88,7 @@
       "h": "AEW's MVP Doesn't Trust 'Liar' And 'Coward' Triple H",
       "p": "AEW star MVP has once again hit out at Triple H, calling him a coward and a liar, and explaining how his presence in WWE convinced him to leave the company.",
       "link": "https://www.wrestlinginc.com/2188059/aew-mvp-doesnt-trust-liar-coward-triple-h/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-06-05T14:00:00+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "Weekend TV Guide: BOSJ wraps up, Divine Dominion defend, Noche de los Grandes continues & more!",
       "p": "A preview of this weekend's top wrestling events on TV & streaming, including shows from WWE, AEW, NJPW, AAA, TJPW and more! The post Weekend TV Guide: BOSJ wraps up, Divine Dominion defend, Noche...",
       "link": "https://www.postwrestling.com/2026/06/05/weekend-tv-guide-bosj-wraps-up-divine-dominion-defend-noche-de-los-grandes-continues-more/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-06-05T12:00:12+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Reportedly Hoping Legitimate MJF Injury Suffered On Dynamite Isn't Serious",
+      "p": "MJF suffered an injury on \"AEW Dynamite,\" but the company is hoping that it isn't that serious.",
+      "link": "https://www.wrestlinginc.com/2188012/aew-hoping-legitimate-mjf-injury-dynamite-serious/",
+      "t": "17h",
+      "dt": "2026-06-05T04:24:10+00:00"
     }
   ]
 }

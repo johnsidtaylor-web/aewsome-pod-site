@@ -1,22 +1,30 @@
 {
-  "updated": "2026-06-05T04:44:56.873910+00:00",
+  "updated": "2026-06-05T08:52:05.017812+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW’s Hook announced for World title match",
+      "p": "AEW wrestler Hook is scheduled to compete for the GCW World Championship. The former FTW Champion was announced as part of two GCW events [Game Changer Wrestling]. He is set to make his...",
+      "link": "https://www.f4wonline.com/news/indies/aews-hook-announced-for-world-title-match/",
+      "t": "4h",
+      "dt": "2026-06-05T04:50:00+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "AEW Reportedly Hoping Legitimate MJF Injury Suffered On Dynamite Isn't Serious",
       "p": "MJF suffered an injury on \"AEW Dynamite,\" but the company is hoping that it isn't that serious.",
       "link": "https://www.wrestlinginc.com/2188012/aew-hoping-legitimate-mjf-injury-dynamite-serious/",
-      "t": "20m",
+      "t": "4h",
       "dt": "2026-06-05T04:24:10+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "B&V: AEW Dynamite and NXT, plus backstage notes!",
       "p": "The Bryan & Vinny Show is back with tons to talk about including a full recap of AEW Dynamite with one person already heading to the finals of the Owen and a surprise debut on the women’s side....",
       "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/bv-aew-dynamite-and-nxt-plus-backstage-notes-2/",
-      "t": "33m",
+      "t": "4h",
       "dt": "2026-06-05T04:11:41+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "The Butcher vs. Josh Barnett Added To August 3rd PRODUCE Event",
       "p": "The Butcher’s first post-AEW date is against Josh Barnett. Fightful Select was first to report that The Butcher and The Blade are now free agents after their respective contracts with All Elite...",
       "link": "https://www.fightful.com/wrestling-news/the-butcher-vs-josh-barnett-added-to-august-3rd-produce-event/",
-      "t": "56m",
+      "t": "5h",
       "dt": "2026-06-05T03:48:21+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "HOOK Challenging Atticus Cogar For GCW World Championship",
       "p": "AEW’s HOOK is getting a shot at GCW’s top title. June 27th is the date of Game Changer Wrestling’s ‘Amerikas Most Wanted’ show at the Ukrainian Cultural Center in Los Angeles, California. At the...",
       "link": "https://www.fightful.com/wrestling-news/hook-challenging-atticus-cogar-for-gcw-world-championship/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-06-05T03:17:14+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Orange Cassidy To Be Part Of Beyond Wrestling’s July 17th Show",
       "p": "Orange Cassidy is heading back to Beyond. The last time that Orange Cassidy wrestled for Beyond Wrestling was in 2020. He is set to return to the promotion for their July 17th show titled ‘Beyond...",
       "link": "https://www.fightful.com/wrestling-news/orange-cassidy-to-be-part-of-beyond-wrestlings-july-17th-show/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-06-05T03:08:24+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "FREE PODCAST 6/4 – WKPWP 15 Yrs Ago Livecasts: Keller & Powell & Mitchell discuss Randy Savage’s legacy, Cena vs. Savage, Sting as TNA’s top star, ROH sale (156 min.)",
       "p": "SHOW SUMMARY: Today we jump back 15 years to two back-to-back episodes of the PWTorch Livecast from May 23 and 24, 2011. On the May 23, 2011 episode, PWTorch Livecast with host PWTorch editor Wade...",
       "link": "https://www.pwtorch.com/site/2026/06/04/free-podcast-6-4-wkpwp-15-yrs-ago-livecasts-keller-powell-mitchell-discuss-randy-savages-legacy-cena-vs-savage-sting-as-tnas-top-star-roh-sale-156-min/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-06-05T03:00:48+00:00"
     },
     {
@@ -64,23 +72,15 @@
       "h": "Two Longtime AEW Stars Reportedly Gone From The Company",
       "p": "Two AEW stars who have been with the company since 2019 have become free agents as their contracts have expired.",
       "link": "https://www.wrestlinginc.com/2188002/aew-departures-butcher-blade-gone/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-06-05T02:44:20+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Results (6/4): Athena, Deonna Purrazzo Compete",
-      "p": "Ring of Honor Wrestling aired the latest episode of ROH TV on June 4. The event aired on HonorClub. Full results are below. ROH TV Results (6/4) The Rascalz (Zachary Wentz & Myron Reed) def....",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-6-4/",
-      "t": "2h",
-      "dt": "2026-06-05T02:24:50+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Will Ospreay responds to social media trolling comparing him & AAA mask vs. mask match",
       "p": "Will Ospreay has reacted to trolling on social media regarding the comparison between his career and the recent El Grande Americano mask vs. mask match at AAA Noche de Los Grandes. AEW star Will...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-responds-to-social-media-trolling-comparing-him-aaa-mask-vs-mask-match/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-06-05T02:11:10+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "Athena’s next Ring of Honor Women’s title defense announced as part of special show",
       "p": "ROH Women’s World Champion Athena will put her title on the line as part of the run-up to AEW x NJPW Forbidden Door. Announced Thursday, Athena will put her record-long title streak up against...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/athena-syuri-roh-cmll-stardom/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-06-05T02:09:59+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "VIP PODCAST 6/4 – The Fix w/Todd & Wade (pt. 1 of 2): Latest on UFC at White House, AAA mask vs. mask climax, WWE Clash fallout, AEW Dynamite review (74 min.)",
       "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: A review of AAA Noche De Los Grandes...",
       "link": "https://www.pwtorch.com/site/2026/06/04/vip-podcast-6-4-the-fix-w-todd-wade-pt-1-of-2-latest-on-ufc-at-white-house-aaa-mask-vs-mask-climax-wwe-clash-fallout-aew-dynamite-review-74-min/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-06-05T02:07:26+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW star set to replace MJF at weekend indie show",
       "p": "With AEW World Champion MJF having to pull out of a Friday indie match due to a knee injury, another AEW star is stepping up to take his place. First reported by Justin Barrasso, Andrade El Idolo...",
       "link": "https://www.f4wonline.com/news/aew/andrade-replacing-mjf-indie-show-beyond-wrestling/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-06-05T01:15:05+00:00"
     }
   ]

@@ -1,0 +1,4 @@
+# Pretty URLs for host pages -> rewrite to the real .html file (200 = no visible redirect)
+/johnny    /johnny.html    200
+/diana     /diana.html     200
+/gringo    /gringo.html    200

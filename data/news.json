@@ -1,54 +1,62 @@
 {
-  "updated": "2026-06-06T12:16:47.799550+00:00",
+  "updated": "2026-06-06T14:52:40.664698+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
-    "Wrestling Observer": "ok (4 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
+      "h": "Orange Cassidy Recalls How He Came Up With Wrestling With His Hands In His Pockets",
+      "p": "Orange Cassidy recalls how he began to wrestle with his hands in his pockets and the origins of his wrestling career. One of the staples of Cassidy’s presentation is his ability to wrestle with...",
+      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-recalls-how-he-came-up-with-wrestling-with-his-hands-in-his-pockets/",
+      "t": "12m",
+      "dt": "2026-06-06T14:40:06+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Darby Allin Details Life Lesson That He Learned From AEW Mentor Sting",
+      "p": "Former AEW Men's World Champion Darby Allin details the life lessons he learned from his AEW mentor and former tag team partner, the icon Sting",
+      "link": "https://www.wrestlinginc.com/2185739/aew-darby-allin-sting-life-lesson-mentor/",
+      "t": "22m",
+      "dt": "2026-06-06T14:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Shane Haste On A Potential WWE Return: I’d Never Say Never",
+      "p": "Shane Haste discusses potential returns with the likes of TNA, AEW and WWE, noting that he would ‘never say never’ about a WWE return. Haste is a former WWE superstar, having wrestled under both...",
+      "link": "https://www.fightful.com/wrestling-news/shane-haste-on-a-potential-wwe-return-id-never-say-never/",
+      "t": "33m",
+      "dt": "2026-06-06T14:19:06+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP 2006 BACK ISSUE – Pro Wrestling Torch #916 (June 3, 2006): Angle jumps to ECW, ROH Fourth Anniversary Roundtable & Keller Report, Sammartino Interview, Keller review of “Game of Shadows,” insider news",
+      "p": "SUMMARY of #916 cover-dated June 3, 2006: This issue includes a cover story on Kurt Angle’s jump to ECW and the overall state of the ECW relaunch… In-depth analysis of the ROH Fourth Anniversary...",
+      "link": "https://www.pwtorch.com/site/2026/06/06/vip-2006-back-issue-pro-wrestling-torch-916-june-3-2006-angle-jumps-to-ecw-roh-fourth-anniversary-roundtable-keller-report-sammartino-interview-keller-review-of-game-of-shadows/",
+      "t": "1h",
+      "dt": "2026-06-06T13:00:22+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Orange Cassidy Says Beating People With His Hands In His Pockets Is ‘Probably The Ultimate Disrespect’ To Heels",
       "p": "Orange Cassidy says that beating people with his hands in his pockets is ‘probably the ultimate disrespect’ for arrogant heels. One of Cassidy’s signature moves is to wrestle with his hands in his...",
       "link": "https://www.fightful.com/wrestling-news/orange-cassidy-says-beating-people-with-his-hands-in-his-pockets-is-probably-the-ultimate-disrespect-to-heels/",
-      "t": "5m",
+      "t": "2h",
       "dt": "2026-06-06T12:10:55+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Preview, Start Time, How To Watch, Location (6/6)",
-      "p": "Viewing information and lineup for AEW Collision on June 6, 2026 AEW Collision (June 6, 2026) Venue: Covelli Centre City: Youngstown, OH Time: 8 pm ET Channel: TNT, HBO Max Lineup AEW Women’s...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-6-6/",
-      "t": "16m",
-      "dt": "2026-06-06T12:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Deonna Purrazzo Wanted To Pay Tribute To CM Punk Vs. AJ Styles In Match Against Billie Starkz But Changed Her Mind After Watching Its Finish",
-      "p": "Deonna Purrazzo wanted to pay homage to Punk vs. Styles in her match with Billie Starkz, but changed her mind. At ROH Final Battle 2025, Deonna Purrazzo faced Billie Starkz in the finals of the...",
-      "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-wanted-to-pay-tribute-to-cm-punk-vs-aj-styles-in-match-against-billie-starkz-but-changed-her-mind-after-watching-its-finish/",
-      "t": "16m",
-      "dt": "2026-06-06T12:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Orange Cassidy On His Favorite Opponents: The Death Riders Are Always A Thorn In My Side, For Sure",
-      "p": "Orange Cassidy discusses his favorite opponent(s) in AEW, pointing to his rivalry with The Death Riders. Throughout his time in All Elite Wrestling since the companies inception in 2019, Cassidy...",
-      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-on-his-favorite-opponents-the-death-riders-are-always-a-thorn-in-my-side-for-sure/",
-      "t": "29m",
-      "dt": "2026-06-06T11:46:59+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision lineup: Title match and an Owen Hart Cup tournament match set for tonight’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Title match and an Owen Hart Cup tournament match set for tonight’s live show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/06/aew-collision-lineup-title-match-and-an-owen-hart-cup-tournament-match-set-for-tonights-live-show/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-06T11:00:15+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Produce Wrestling announces distribution deal with MyAEW streaming platform",
       "p": "Produce Wrestling announced in a press release today that it has landed a distribution deal on the MyAEW streaming platform. The first event, Produce Vol. 1 – The Octopus, will air on June 29 at [...]",
       "link": "https://www.pwtorch.com/site/2026/06/05/produce-wrestling-announces-distribution-deal-with-myaew-streaming-platform/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-06-06T04:22:46+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Dave Meltzer Explains Why WWE Decision To Oppose AEW Pay-Per-View Is 'Questionable'",
       "p": "Dave Meltzer has weighed in with his thoughts on WWE's latest attempt to counterprogram AEW.",
       "link": "https://www.wrestlinginc.com/2188835/wwe-nxt-aew-dave-meltzer-decision-oppose-pay-per-view-questionable/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-06-06T03:13:58+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "FREE PODCAST 6/5 – WKPWP 15 Yrs Ago Livecasts: Squash matches pros and cons, Savage, Kharma, next WWE PPV, Taker’s WWE role, ROH sale, Bischoff responds to TNA disappointment (178 min.)",
       "p": "SHOW SUMMARY: Today we jump back 15 years to two back-to-back episodes of the PWTorch Livecast from May 25 and 26, 2011. On the May 25, 2011 episode, PWTorch assistant editor James Caldwell and...",
       "link": "https://www.pwtorch.com/site/2026/06/05/free-podcast-6-5-wkpwp-15-yrs-ago-livecasts-squash-matches-pros-and-cons-savage-kharma-next-wwe-ppv-takers-wwe-role-roh-sale-bischoff-responds-to-tna-disappointment-178-min/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-06-06T03:00:00+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Deonna Purrazzo talks opponents for Forbidden Door, Global Wars",
       "p": "With ROH Global Wars and AEW Forbidden Door both taking place this month, fans will have the opportunity to see a number of interpromotional matches soon. As the reigning ROH Women’s Pure...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/deonna-purrazzo-talks-opponents-for-forbidden-door-global-wars/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-06-06T01:54:00+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW Dynamite Viewership & Ratings Report, 6/3/2026",
       "p": "The June 3 episode of \"AEW Dynamite\" saw a lot of action, but it also saw a drop in viewership when it came to the TV ratings.",
       "link": "https://www.wrestlinginc.com/2188824/aew-dynamite-viewership-ratings-report-june-3-2026/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-06-06T01:07:11+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "VIP PODCAST 6/5 – Everything with Rich & Wade: AAA’s Americano payoff, Reigns-Fatu-Usos, King and Queen tournament speculation, under 30 champs, ESPN freebies, Ric Flair family feud (64 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Some observations from London trip related to AEW AAA’s Americano...",
       "link": "https://www.pwtorch.com/site/2026/06/05/vip-podcast-6-5-everything-with-rich-wade-aaas-americano-payoff-reigns-fatu-usos-king-and-queen-tournament-speculation-under-30-champs-espn-freebies-ric-flair-family-feud-64-min/",
-      "t": "11h",
+      "t": "14h",
       "dt": "2026-06-06T00:36:45+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mick Foley, Britt Baker visit AEW colleague Rebel amid ALS battle",
-      "p": "Amid her battle with ALS, Rebel (Tanea Brooks) got to spend time with a couple of visitors on Friday. New AEW signee Mick Foley shared a photo to social media saying he was having the “best” time...",
-      "link": "https://www.f4wonline.com/news/aew/mick-foley-britt-baker-visit-aew-colleague-rebel-amid-als-battle/",
-      "t": "13h",
-      "dt": "2026-06-05T22:23:49+00:00"
     }
   ]
 }

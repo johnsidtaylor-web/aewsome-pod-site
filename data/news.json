@@ -1,30 +1,62 @@
 {
-  "updated": "2026-06-05T23:36:38.217088+00:00",
+  "updated": "2026-06-06T04:18:48.487840+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "Wrestling Inc": "ok (5 AEW items)",
+    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "AEW Dynamite (6/3) Draws 638,000 Viewers On Cable TV Against NBA Finals",
-      "p": "AEW Dynamite viewership and ratings information for the June 3 episode. Wrestlenomics reports that AEW Dynamite on June 3 drew 638,000 viewers on TBS. This number is down from the 704,000 viewers...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-6-3-draws-638000-viewers-on-cable-tv-against-nba-finals/",
-      "t": "14m",
-      "dt": "2026-06-05T23:22:01+00:00"
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Explains Why WWE Decision To Oppose AEW Pay-Per-View Is 'Questionable'",
+      "p": "Dave Meltzer has weighed in with his thoughts on WWE's latest attempt to counterprogram AEW.",
+      "link": "https://www.wrestlinginc.com/2188835/wwe-nxt-aew-dave-meltzer-decision-oppose-pay-per-view-questionable/",
+      "t": "1h",
+      "dt": "2026-06-06T03:13:58+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 6/5 – WKPWP 15 Yrs Ago Livecasts: Squash matches pros and cons, Savage, Kharma, next WWE PPV, Taker’s WWE role, ROH sale, Bischoff responds to TNA disappointment (178 min.)",
+      "p": "SHOW SUMMARY: Today we jump back 15 years to two back-to-back episodes of the PWTorch Livecast from May 25 and 26, 2011. On the May 25, 2011 episode, PWTorch assistant editor James Caldwell and...",
+      "link": "https://www.pwtorch.com/site/2026/06/05/free-podcast-6-5-wkpwp-15-yrs-ago-livecasts-squash-matches-pros-and-cons-savage-kharma-next-wwe-ppv-takers-wwe-role-roh-sale-bischoff-responds-to-tna-disappointment-178-min/",
+      "t": "1h",
+      "dt": "2026-06-06T03:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Deonna Purrazzo talks opponents for Forbidden Door, Global Wars",
+      "p": "With ROH Global Wars and AEW Forbidden Door both taking place this month, fans will have the opportunity to see a number of interpromotional matches soon. As the reigning ROH Women’s Pure...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/deonna-purrazzo-talks-opponents-for-forbidden-door-global-wars/",
+      "t": "2h",
+      "dt": "2026-06-06T01:54:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Viewership & Ratings Report, 6/3/2026",
+      "p": "The June 3 episode of \"AEW Dynamite\" saw a lot of action, but it also saw a drop in viewership when it came to the TV ratings.",
+      "link": "https://www.wrestlinginc.com/2188824/aew-dynamite-viewership-ratings-report-june-3-2026/",
+      "t": "3h",
+      "dt": "2026-06-06T01:07:11+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 6/5 – Everything with Rich & Wade: AAA’s Americano payoff, Reigns-Fatu-Usos, King and Queen tournament speculation, under 30 champs, ESPN freebies, Ric Flair family feud (64 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Some observations from London trip related to AEW AAA’s Americano...",
+      "link": "https://www.pwtorch.com/site/2026/06/05/vip-podcast-6-5-everything-with-rich-wade-aaas-americano-payoff-reigns-fatu-usos-king-and-queen-tournament-speculation-under-30-champs-espn-freebies-ric-flair-family-feud-64-min/",
+      "t": "3h",
+      "dt": "2026-06-06T00:36:45+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Mick Foley, Britt Baker visit AEW colleague Rebel amid ALS battle",
       "p": "Amid her battle with ALS, Rebel (Tanea Brooks) got to spend time with a couple of visitors on Friday. New AEW signee Mick Foley shared a photo to social media saying he was having the “best” time...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-britt-baker-visit-aew-colleague-rebel-amid-als-battle/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-06-05T22:23:49+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Wrestling Weekly: Nothing new in the WWE main event scene",
       "p": "After a week away, Les Thatcher and Vic Sosa return on Wrestling Weekly to talk all the things happening in WWE and AEW. In WWE, it may be more what’s not happening for three talents in particular...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-nothing-new-in-the-wwe-main-event-scene/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-06-05T22:21:21+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "AEW Dynamite ratings take hit against NBA Finals",
       "p": "This past Wednesday’s AEW Dynamite averaged 638,000 viewers on TBS, down 9.4% from the previous week but was still the second-largest audience for the show in nearly two months. The episode...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-take-hit-against-nba-finals/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-06-05T22:19:01+00:00"
     },
     {
@@ -48,23 +80,15 @@
       "h": "Report: AEW X NJPW Forbidden Door Creative Plans 'Not In Jeopardy' Due To MJF Injury",
       "p": "MJF might have suffered an injury on \"AEW Dynamite,\" but the AEW World Champion should be healthy enough to compete at Forbidden Door.",
       "link": "https://www.wrestlinginc.com/2188717/aew-njpw-forbidden-door-2026-mjf-creative-plans-not-jeopardy-injury/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-06-05T21:59:27+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating: How did Dynamite hold up against game one of the NBA Finals?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did Dynamite hold up against game one of the NBA Finals? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/05/aew-dynamite-rating-how-did-dynamite-hold-up-against-game-one-of-the-nba-finals/",
-      "t": "1h",
-      "dt": "2026-06-05T21:43:48+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "POST NEWS: Plaintiffs’ issue filing before WWE shareholder trial, BOSJ Final & MyAEW adds PRODUCE",
       "p": "John Pollock covers the news, including a filing by the plaintiffs in the WWE shareholder suit, BOSJ final is set, and another MyAEW deal. The post POST NEWS: Plaintiffs’ issue filing before WWE...",
       "link": "https://www.postwrestling.com/2026/06/05/post-news-plaintiffs-issue-filing-before-wwe-shareholder-trial-bosj-final-myaew-adds-produce/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-05T18:56:35+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW's Anthony Bowens Defends Divisive Singles Run",
       "p": "Anthony Bowens describes the evolution of his character as a singles performer. Why some of his gimmicks didn't take off as they should have.",
       "link": "https://www.wrestlinginc.com/2188452/aew-anthony-bowens-defends-divisive-singles-run/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-06-05T18:04:35+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "Mick Foley Reveals How He Ended Up In AEW, Says He Feels Connection With Tony Khan",
       "p": "WWE Hall of Famer Mick Foley reveals what attracted him to All Elite Wrestling and how he formed a connection with CEO Tony Khan.",
       "link": "https://www.wrestlinginc.com/2188390/mick-foley-aew-connection-tony-khan/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-06-05T17:00:48+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "Bandido vs. Volador Jr. for ROH Title and Villano III Jr. vs. Zandokan among the latest CMLL Match Recommendations",
-      "p": "Here’s a look at some of the top CMLL matches from the last two weeks. 5/17 Arena Mexico Volador Jr. pinned Bandido with a head scissors out of the corner turned into a piledeiver. Really [...]",
-      "link": "https://www.pwtorch.com/site/2026/06/05/bandido-vs-volador-jr-for-roh-title-and-villano-iii-jr-vs-zandokan-among-the-latest-cmll-match-recommendations/",
-      "t": "7h",
-      "dt": "2026-06-05T16:21:44+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Indie Promotion PRODUCE Joins MyAEW, Announces First Show Curated By Jonathan Gresham",
-      "p": "MyAEW is an international streaming platform for AEW and ROH. It will now be the home to two indie promotions, including new promotion, PRODUCE Wrestling.",
-      "link": "https://www.wrestlinginc.com/2188333/aew-myaew-produce-orange-crush-jonathan-gresham-indie-promotion-debut-curated/",
-      "t": "7h",
-      "dt": "2026-06-05T16:00:31+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "June 8, 2026 Observer Newsletter: Wrestling war escalations, AAA’s mask vs. mask classic, WWE Clash in Italy ratings",
-      "p": "Dave Meltzer has returned with a new and packed Wrestling Observer Newsletter. He leads off with the latest escalations in the various wrestling wars including WWE NXT, AEW and TNA going...",
-      "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/june-8-2026-observer-newsletter-aaa-cmll-wrestling-war-escalations-nxt-vs-aew-vs-tna-head-to-head-mask-vs-mask-classic/",
-      "t": "8h",
-      "dt": "2026-06-05T15:29:05+00:00"
     }
   ]
 }

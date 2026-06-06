@@ -1,22 +1,30 @@
 {
-  "updated": "2026-06-06T16:18:23.994682+00:00",
+  "updated": "2026-06-06T18:19:41.907321+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (2 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 6/6 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner discuss Mercedes returns, MJF injured, Kevin Knight joins the Don Callis Family, more (78 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review last Wednesday’s Dynamite from Richmond, Va. They review Kevin Knight...",
+      "link": "https://www.pwtorch.com/site/2026/06/06/free-podcast-6-6-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-discuss-mercedes-returns-mjf-injured-kevin-knight-joins-the-don-callis-family-more-78-min/",
+      "t": "1h",
+      "dt": "2026-06-06T17:08:24+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Darby Allin Recalls Time AEW Boss Tony Khan Said 'No' To Dangerous Creative Pitch",
       "p": "Darby Allin has the freedom to do whatever he wants in AEW, but there was one stunt that even Tony Khan had to say no to.",
       "link": "https://www.wrestlinginc.com/2185435/aew-darby-allin-tony-khan-boss-no-dangerous-creative-pitch/",
-      "t": "14m",
+      "t": "2h",
       "dt": "2026-06-06T16:03:50+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW Collision ticket distribution update for tonight’s Youngstown show",
       "p": "An update is available regarding how many tickets have been distributed to tonight’s AEW Collision. The show is scheduled for the Covelli Centre in Youngstown, Ohio. According to a report from...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-distribution-update-for-tonights-youngstown-show/",
-      "t": "54m",
+      "t": "2h",
       "dt": "2026-06-06T15:23:30+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Orange Cassidy: I’m Glad That The Guy Who Makes Decisions In AEW Is A Wrestling Fan",
       "p": "Orange Cassidy says that he is glad that the guy who makes decisions in AEW is a ‘passionate and genuine’ wrestling fan. In 2019, Tony Khan would create All Elite Wrestling with the help of The...",
       "link": "https://www.fightful.com/wrestling-news/orange-cassidy-im-glad-that-the-guy-who-makes-decisions-in-aew-is-a-wrestling-fan/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-06T15:01:20+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Orange Cassidy Recalls How He Came Up With Wrestling With His Hands In His Pockets",
       "p": "Orange Cassidy recalls how he began to wrestle with his hands in his pockets and the origins of his wrestling career. One of the staples of Cassidy’s presentation is his ability to wrestle with...",
       "link": "https://www.fightful.com/wrestling-news/orange-cassidy-recalls-how-he-came-up-with-wrestling-with-his-hands-in-his-pockets/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-06T14:40:06+00:00"
     },
     {
@@ -48,23 +56,15 @@
       "h": "Darby Allin Details Life Lesson That He Learned From AEW Mentor Sting",
       "p": "Former AEW Men's World Champion Darby Allin details the life lessons he learned from his AEW mentor and former tag team partner, the icon Sting",
       "link": "https://www.wrestlinginc.com/2185739/aew-darby-allin-sting-life-lesson-mentor/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-06T14:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Shane Haste On A Potential WWE Return: I’d Never Say Never",
-      "p": "Shane Haste discusses potential returns with the likes of TNA, AEW and WWE, noting that he would ‘never say never’ about a WWE return. Haste is a former WWE superstar, having wrestled under both...",
-      "link": "https://www.fightful.com/wrestling-news/shane-haste-on-a-potential-wwe-return-id-never-say-never/",
-      "t": "1h",
-      "dt": "2026-06-06T14:19:06+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP 2006 BACK ISSUE – Pro Wrestling Torch #916 (June 3, 2006): Angle jumps to ECW, ROH Fourth Anniversary Roundtable & Keller Report, Sammartino Interview, Keller review of “Game of Shadows,” insider news",
       "p": "SUMMARY of #916 cover-dated June 3, 2006: This issue includes a cover story on Kurt Angle’s jump to ECW and the overall state of the ECW relaunch… In-depth analysis of the ROH Fourth Anniversary...",
       "link": "https://www.pwtorch.com/site/2026/06/06/vip-2006-back-issue-pro-wrestling-torch-916-june-3-2006-angle-jumps-to-ecw-roh-fourth-anniversary-roundtable-keller-report-sammartino-interview-keller-review-of-game-of-shadows/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-06T13:00:22+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "AEW Collision lineup: Title match and an Owen Hart Cup tournament match set for tonight’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Title match and an Owen Hart Cup tournament match set for tonight’s live show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/06/aew-collision-lineup-title-match-and-an-owen-hart-cup-tournament-match-set-for-tonights-live-show/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-06-06T11:00:15+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "Produce Wrestling announces distribution deal with MyAEW streaming platform",
       "p": "Produce Wrestling announced in a press release today that it has landed a distribution deal on the MyAEW streaming platform. The first event, Produce Vol. 1 – The Octopus, will air on June 29 at [...]",
       "link": "https://www.pwtorch.com/site/2026/06/05/produce-wrestling-announces-distribution-deal-with-myaew-streaming-platform/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-06-06T04:22:46+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "Dave Meltzer Explains Why WWE Decision To Oppose AEW Pay-Per-View Is 'Questionable'",
       "p": "Dave Meltzer has weighed in with his thoughts on WWE's latest attempt to counterprogram AEW.",
       "link": "https://www.wrestlinginc.com/2188835/wwe-nxt-aew-dave-meltzer-decision-oppose-pay-per-view-questionable/",
-      "t": "13h",
+      "t": "15h",
       "dt": "2026-06-06T03:13:58+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "FREE PODCAST 6/5 – WKPWP 15 Yrs Ago Livecasts: Squash matches pros and cons, Savage, Kharma, next WWE PPV, Taker’s WWE role, ROH sale, Bischoff responds to TNA disappointment (178 min.)",
       "p": "SHOW SUMMARY: Today we jump back 15 years to two back-to-back episodes of the PWTorch Livecast from May 25 and 26, 2011. On the May 25, 2011 episode, PWTorch assistant editor James Caldwell and...",
       "link": "https://www.pwtorch.com/site/2026/06/05/free-podcast-6-5-wkpwp-15-yrs-ago-livecasts-squash-matches-pros-and-cons-savage-kharma-next-wwe-ppv-takers-wwe-role-roh-sale-bischoff-responds-to-tna-disappointment-178-min/",
-      "t": "13h",
+      "t": "15h",
       "dt": "2026-06-06T03:00:00+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Deonna Purrazzo talks opponents for Forbidden Door, Global Wars",
       "p": "With ROH Global Wars and AEW Forbidden Door both taking place this month, fans will have the opportunity to see a number of interpromotional matches soon. As the reigning ROH Women’s Pure...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/deonna-purrazzo-talks-opponents-for-forbidden-door-global-wars/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-06-06T01:54:00+00:00"
     }
   ]

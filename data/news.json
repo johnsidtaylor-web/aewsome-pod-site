@@ -1,22 +1,38 @@
 {
-  "updated": "2026-06-07T18:18:43.945157+00:00",
+  "updated": "2026-06-07T20:36:57.673091+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (4 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Mick Foley Intends To Have A Conversation With Darby Allin About Taking Risks",
+      "p": "New AEW star Mick Foley knows a thing or two about taking risks in the ring, and he believes that Darby Allin shouldn't be doing too much of it.",
+      "link": "https://www.wrestlinginc.com/2188091/aew-mick-foley-darby-allin-conversation-risks/",
+      "t": "1h",
+      "dt": "2026-06-07T19:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kevin Knight Discusses His Place On The AEW Roster, Building Trust With Tony Khan",
+      "p": "AEW star Kevin Knight has explained why he believes he's earned the trust of Tony Khan, and where he thinks his trajectory might take him in the company.",
+      "link": "https://www.wrestlinginc.com/2187993/aew-kevin-knight-tony-khan-trust-roster/",
+      "t": "2h",
+      "dt": "2026-06-07T18:30:00+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Young Bucks Vs. The Dogs Added To AEW Collision Summer Blockbuster",
       "p": "The Young Bucks vs. The Dogs set for AEW Collision Summer Blockbuster. Next week, AEW will air two nights of AEW Dynamite and Collision Summer Blockbusters. These events will take place at the...",
       "link": "https://www.fightful.com/wrestling-news/young-bucks-vs-the-dogs-added-to-aew-collision-summer-blockbuster/",
-      "t": "25m",
+      "t": "2h",
       "dt": "2026-06-07T17:53:06+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Injury Update On AEW Champion MJF, Following Removal From Indie Date",
       "p": "A new report provides an update on the status of AEW World Champion MJF following his hyperextended knee injury.",
       "link": "https://www.wrestlinginc.com/2189042/injury-update-aew-champion-mjf-following-removal-indie-date/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-07T16:39:54+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "06/07 Pruett’s AEW Collision audio review: Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone vs. Hazuki in an Owen Hart Cup tournament match",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 06/07 Pruett’s AEW Collision audio review: Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone...",
       "link": "https://prowrestling.net/site/2026/06/07/06-07-pruetts-aew-collision-audio-review-megan-bayne-and-lena-kross-vs-anna-jay-and-tay-melo-for-the-aew-womens-tag-titles-persephone-vs-hazuki-in-an-owen-hart-cup-tournament-match/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-07T16:38:03+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "AEW's Skye Blue Looks Back On Injury That Made Her Doubt Whether Return Was Possible",
       "p": "When AEW star Skye Blue underwent surgery on her injured ankle in 2024, she initially had some doubts about whether she'd be able to get back in the ring.",
       "link": "https://www.wrestlinginc.com/2187355/aew-skye-blue-injury-doubt-return-possible/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-06-07T13:00:00+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW reportedly set to sign ‘nationally televised talent’ this summer",
       "p": "AEW is reportedly set to sign new talent in the coming months. According to a report from Fightful Select on Saturday, the promotion will be adding “nationally televised talent” to its roster this...",
       "link": "https://www.f4wonline.com/news/aew/aew-reportedly-set-to-sign-nationally-televised-talent-this-summer/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-07T12:19:01+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "First competitors revealed for upcoming AEW Survival of the Fittest qualifying matches",
       "p": "Qualifiers for the Survival will begin soon, and we now know some of the participants. On Saturday, Hikaru Shida, Kris Statlander, Mina Shirakawa, Harley Cameron, Zayda Steele, and Queen Aminata...",
       "link": "https://www.f4wonline.com/news/aew/first-competitors-revealed-for-upcoming-aew-survival-of-the-fittest-qualifying-matches/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-06-07T03:42:03+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW Collision results (6/6): Murphy’s review of Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone vs. Hazuki in an Owen Hart Cup tournament match",
       "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (6/6): Murphy’s review of Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone...",
       "link": "https://prowrestling.net/site/2026/06/06/aew-collision-results-6-6-murphys-review-of-megan-bayne-and-lena-kross-vs-anna-jay-and-tay-melo-for-the-aew-womens-tag-titles-persephone-vs-hazuki-in-an-owen-hart-cup-tournament-match/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-06-07T03:40:37+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "AEW COLLISION RESULTS (6/6): Persephone vs. Hazuki in tournament match, Conglomeration vs. LFI for trios titles, Divine Dominion vs. TayJay for tag titles, and more",
       "p": "AEW COLLISION REPORT JUNE 6, 2026 YOUNGSTOWN, OHIO AT COVELLI CENTRE AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel McGuinness Ring...",
       "link": "https://www.pwtorch.com/site/2026/06/06/aew-collision-results-6-6-persephone-vs-hazuki-in-tournament-match-conglomeration-vs-lfi-for-trios-titles-divine-dominion-vs-tayjay-for-tag-titles-and-more/",
-      "t": "14h",
+      "t": "17h",
       "dt": "2026-06-07T03:35:55+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "AEW Collision 6/6/26 Review | COLLISION COURSE (Free)",
       "p": "Kate from MTL & Wai Ting review AEW Collision, featuring Divine Dominion defending the Women’s Tag Titles vs. TayJay and a Women’s Owen Hart quarter-final match between Persephone and Hazuki. The...",
       "link": "https://www.postwrestling.com/2026/06/06/aew-collision-6-6-26-review-collision-course-free-11pm-et/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-06-07T03:00:58+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Report: More on MJF’s injury from AEW Dynamite match",
       "p": "A brand new report has emerged on MJF’s injury. On Thursday, June 4, 2026, MJF was pulled from his scheduled match for Beyond Wrestling. The promotion announced that MJF had suffered a...",
       "link": "https://www.f4wonline.com/news/aew/report-more-on-mjfs-injury-from-aew-dynamite-match/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-06-07T02:47:31+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Three new matches added to AEW Dynamite Summer Blockbuster",
-      "p": "Three new matches are official for the next AEW Dynamite. Shane Taylor made it a point on Saturday to not only go after the Death Riders, but also towards Jon Moxley, calling him out after quickly...",
-      "link": "https://www.f4wonline.com/news/aew/three-new-matches-added-to-aew-dynamite-summer-blockbuster/",
-      "t": "15h",
-      "dt": "2026-06-07T02:21:33+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "WWE shareholder trial has officially been cancelled",
-      "p": "The WWE shareholder trial has officially been cancelled. The post WWE shareholder trial has officially been cancelled appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT NJPW.",
-      "link": "https://www.postwrestling.com/2026/06/06/wwe-shareholder-trial-has-officially-been-cancelled/",
-      "t": "16h",
-      "dt": "2026-06-07T02:12:57+00:00"
     }
   ]
 }

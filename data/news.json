@@ -1,30 +1,46 @@
 {
-  "updated": "2026-06-08T11:19:48.605936+00:00",
+  "updated": "2026-06-08T16:17:36.000098+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (1 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Summer Blockbuster 2026 Start Times: US, UK, Australia and more",
-      "p": "AEW Dynamite: Summer Blockbuster airs live this week (Wednesday, June 10, 2026) at 8:00 PM ET on TBS and HBO Max. The show comes live from The Andrew J. Brady Music Center in Cincinnati, Ohio. If...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-summer-blockbuster-2026-start-times-us-uk-australia/",
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The Summer Blockbuster card",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Summer Blockbuster card appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/08/aew-dynamite-preview-the-summer-blockbuster-card-2/",
       "t": "3h",
-      "dt": "2026-06-08T07:43:55+00:00"
+      "dt": "2026-06-08T13:15:02+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Star Skye Blue Says Kyle Fletcher Is A 'Diva' When It Comes To Travel",
+      "p": "AEW star Skye Blue joked that her boyfriend, former TNT Champion Kyle Fletcher, is more of the \"diva\" when it comes to traveling.",
+      "link": "https://www.wrestlinginc.com/2188693/httpswww-wrestlinginc-com1317230kyle-fletcher-skyle-blue-pool/",
+      "t": "3h",
+      "dt": "2026-06-08T12:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star comments on NJPW Best of the Super Juniors 33 experience",
+      "p": "Nick Wayne shared a message after competing in NJPW Best of the Super Juniors 33. Reflecting on the experience, the 20-year-old highlighted how valuable the tour was for his development. He cited...",
+      "link": "https://www.f4wonline.com/news/aew-star-comments-on-njpw-best-of-the-super-juniors-33-experience/",
+      "t": "4h",
+      "dt": "2026-06-08T11:39:10+00:00"
     },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 6/7 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller & Dehnel & Sage analysis of Double or Nothing fallout, Inner Circle celebration, Britt celebration, Dustin vs. Comoroto, more (94 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (6-7-2021), PWTorch.com’s Joel Dehnel and Tyler Sage for a special Roundtable podcast discussing...",
       "link": "https://www.pwtorch.com/site/2026/06/08/free-podcast-6-7-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-dehnel-sage-analysis-of-double-or-nothing-fallout-inner-circle-celebration-britt-celebration-dustin-vs-comor/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-06-08T05:05:36+00:00"
     },
     {
@@ -32,47 +48,23 @@
       "h": "AEW COLLISION HITS & MISSES (6/6): A show in need of more flair, Hazuki builds momentum ahead of Mercedes showdown, Divine Dominion retains titles, Taylor targets Moxley",
       "p": "To help you add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS HAZUKI’S...",
       "link": "https://www.pwtorch.com/site/2026/06/07/aew-collision-hits-misses-6-6-a-show-in-need-of-more-flair-hazuki-builds-momentum-ahead-of-mercedes-showdown-divine-dominion-retains-titles-taylor-targets-moxley/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-06-08T04:04:24+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Road Dogg: WWE Looked At AEW Like, ‘That’s This Other Little Money Mark’s Company’",
-      "p": "Road Dogg weighs in on how WWE viewed AEW. When AEW was announced in 2019, Triple H famously said during the D-Generation X Hall of Fame induction speech that WWE would buy “that pissant company”...",
-      "link": "https://www.fightful.com/wrestling-news/road-dogg-wwe-looked-at-aew-like-thats-this-other-little-money-marks-company/",
-      "t": "9h",
-      "dt": "2026-06-08T01:48:13+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Road Dogg Thinks Wrestling Booking Is Now About The Money, ‘WWE Feels Like A Money Grab’",
-      "p": "Road Dogg discusses how things changed when AEW came around. AEW has become a prominent competitor to WWE, making competitive monetary offers, securing top wrestlers who have left WWE, and landing...",
-      "link": "https://www.fightful.com/wrestling-news/road-dogg-thinks-wrestling-booking-is-now-about-the-money-wwe-feels-like-a-money-grab/",
-      "t": "9h",
-      "dt": "2026-06-08T01:32:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "RADICAN’S TAKE: Beyond Wrestling makes the best out of a difficult situation with Andrade el Idolo replacing MJF against Bobby Orlando in marquee match",
       "p": "When you’re running an independent promotion, it’s not often that you’re able to make the best out of a tough situation, but Beyond Wrestling owner and founder Drew Cordeiro managed to do just...",
       "link": "https://www.pwtorch.com/site/2026/06/07/radicans-take-beyond-wrestling-makes-the-best-out-of-a-difficult-situation-with-andrade-el-idolo-replacing-mjf-against-bobby-orlando-in-marquee-match/",
-      "t": "10h",
+      "t": "15h",
       "dt": "2026-06-08T01:04:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "RevPro Live In London 108 Results (6/7): New Undisputed British Heavyweight Champion",
-      "p": "Revolution Pro Wrestling held its RevPro Live In London 108 event on June 7 from Porchester Hall in London, England, UK. The event aired on RevProOnDemand.com. Full results are below. RevPro Live...",
-      "link": "https://www.fightful.com/wrestling-news/revpro-live-in-london-108-results-6-7-new-undisputed-british-heavyweight-champion/",
-      "t": "11h",
-      "dt": "2026-06-08T00:15:08+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Mick Foley Intends To Have A Conversation With Darby Allin About Taking Risks",
       "p": "New AEW star Mick Foley knows a thing or two about taking risks in the ring, and he believes that Darby Allin shouldn't be doing too much of it.",
       "link": "https://www.wrestlinginc.com/2188091/aew-mick-foley-darby-allin-conversation-risks/",
-      "t": "15h",
+      "t": "20h",
       "dt": "2026-06-07T19:30:00+00:00"
     },
     {
@@ -80,7 +72,7 @@
       "h": "Kevin Knight Discusses His Place On The AEW Roster, Building Trust With Tony Khan",
       "p": "AEW star Kevin Knight has explained why he believes he's earned the trust of Tony Khan, and where he thinks his trajectory might take him in the company.",
       "link": "https://www.wrestlinginc.com/2187993/aew-kevin-knight-tony-khan-trust-roster/",
-      "t": "16h",
+      "t": "21h",
       "dt": "2026-06-07T18:30:00+00:00"
     },
     {
@@ -88,7 +80,7 @@
       "h": "Injury Update On AEW Champion MJF, Following Removal From Indie Date",
       "p": "A new report provides an update on the status of AEW World Champion MJF following his hyperextended knee injury.",
       "link": "https://www.wrestlinginc.com/2189042/injury-update-aew-champion-mjf-following-removal-indie-date/",
-      "t": "18h",
+      "t": "23h",
       "dt": "2026-06-07T16:39:54+00:00"
     },
     {
@@ -96,7 +88,7 @@
       "h": "06/07 Pruett’s AEW Collision audio review: Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone vs. Hazuki in an Owen Hart Cup tournament match",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 06/07 Pruett’s AEW Collision audio review: Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone...",
       "link": "https://prowrestling.net/site/2026/06/07/06-07-pruetts-aew-collision-audio-review-megan-bayne-and-lena-kross-vs-anna-jay-and-tay-melo-for-the-aew-womens-tag-titles-persephone-vs-hazuki-in-an-owen-hart-cup-tournament-match/",
-      "t": "18h",
+      "t": "23h",
       "dt": "2026-06-07T16:38:03+00:00"
     },
     {
@@ -106,6 +98,14 @@
       "link": "https://prowrestling.net/site/2026/06/06/aew-collision-results-6-6-murphys-review-of-megan-bayne-and-lena-kross-vs-anna-jay-and-tay-melo-for-the-aew-womens-tag-titles-persephone-vs-hazuki-in-an-owen-hart-cup-tournament-match/",
       "t": "1d",
       "dt": "2026-06-07T03:40:37+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW COLLISION RESULTS (6/6): Persephone vs. Hazuki in tournament match, Conglomeration vs. LFI for trios titles, Divine Dominion vs. TayJay for tag titles, and more",
+      "p": "AEW COLLISION REPORT JUNE 6, 2026 YOUNGSTOWN, OHIO AT COVELLI CENTRE AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel McGuinness Ring...",
+      "link": "https://www.pwtorch.com/site/2026/06/06/aew-collision-results-6-6-persephone-vs-hazuki-in-tournament-match-conglomeration-vs-lfi-for-trios-titles-divine-dominion-vs-tayjay-for-tag-titles-and-more/",
+      "t": "1d",
+      "dt": "2026-06-07T03:35:55+00:00"
     }
   ]
 }

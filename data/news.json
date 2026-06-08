@@ -1,22 +1,62 @@
 {
-  "updated": "2026-06-08T00:21:06.316135+00:00",
+  "updated": "2026-06-08T06:06:34.537378+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (0 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
-    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
+    "Wrestling Inc": "ok (3 AEW items)",
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 6/7 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller & Dehnel & Sage analysis of Double or Nothing fallout, Inner Circle celebration, Britt celebration, Dustin vs. Comoroto, more (94 min.)",
+      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (6-7-2021), PWTorch.com’s Joel Dehnel and Tyler Sage for a special Roundtable podcast discussing...",
+      "link": "https://www.pwtorch.com/site/2026/06/08/free-podcast-6-7-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-dehnel-sage-analysis-of-double-or-nothing-fallout-inner-circle-celebration-britt-celebration-dustin-vs-comor/",
+      "t": "1h",
+      "dt": "2026-06-08T05:05:36+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW COLLISION HITS & MISSES (6/6): A show in need of more flair, Hazuki builds momentum ahead of Mercedes showdown, Divine Dominion retains titles, Taylor targets Moxley",
+      "p": "To help you add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS HAZUKI’S...",
+      "link": "https://www.pwtorch.com/site/2026/06/07/aew-collision-hits-misses-6-6-a-show-in-need-of-more-flair-hazuki-builds-momentum-ahead-of-mercedes-showdown-divine-dominion-retains-titles-taylor-targets-moxley/",
+      "t": "2h",
+      "dt": "2026-06-08T04:04:24+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Road Dogg: WWE Looked At AEW Like, ‘That’s This Other Little Money Mark’s Company’",
+      "p": "Road Dogg weighs in on how WWE viewed AEW. When AEW was announced in 2019, Triple H famously said during the D-Generation X Hall of Fame induction speech that WWE would buy “that pissant company”...",
+      "link": "https://www.fightful.com/wrestling-news/road-dogg-wwe-looked-at-aew-like-thats-this-other-little-money-marks-company/",
+      "t": "4h",
+      "dt": "2026-06-08T01:48:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Road Dogg Thinks Wrestling Booking Is Now About The Money, ‘WWE Feels Like A Money Grab’",
+      "p": "Road Dogg discusses how things changed when AEW came around. AEW has become a prominent competitor to WWE, making competitive monetary offers, securing top wrestlers who have left WWE, and landing...",
+      "link": "https://www.fightful.com/wrestling-news/road-dogg-thinks-wrestling-booking-is-now-about-the-money-wwe-feels-like-a-money-grab/",
+      "t": "4h",
+      "dt": "2026-06-08T01:32:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "RADICAN’S TAKE: Beyond Wrestling makes the best out of a difficult situation with Andrade el Idolo replacing MJF against Bobby Orlando in marquee match",
+      "p": "When you’re running an independent promotion, it’s not often that you’re able to make the best out of a tough situation, but Beyond Wrestling owner and founder Drew Cordeiro managed to do just...",
+      "link": "https://www.pwtorch.com/site/2026/06/07/radicans-take-beyond-wrestling-makes-the-best-out-of-a-difficult-situation-with-andrade-el-idolo-replacing-mjf-against-bobby-orlando-in-marquee-match/",
+      "t": "5h",
+      "dt": "2026-06-08T01:04:41+00:00"
+    },
     {
       "src": "Fightful",
       "h": "RevPro Live In London 108 Results (6/7): New Undisputed British Heavyweight Champion",
       "p": "Revolution Pro Wrestling held its RevPro Live In London 108 event on June 7 from Porchester Hall in London, England, UK. The event aired on RevProOnDemand.com. Full results are below. RevPro Live...",
       "link": "https://www.fightful.com/wrestling-news/revpro-live-in-london-108-results-6-7-new-undisputed-british-heavyweight-champion/",
-      "t": "5m",
+      "t": "5h",
       "dt": "2026-06-08T00:15:08+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "AEW's Mick Foley Intends To Have A Conversation With Darby Allin About Taking Risks",
       "p": "New AEW star Mick Foley knows a thing or two about taking risks in the ring, and he believes that Darby Allin shouldn't be doing too much of it.",
       "link": "https://www.wrestlinginc.com/2188091/aew-mick-foley-darby-allin-conversation-risks/",
-      "t": "4h",
+      "t": "10h",
       "dt": "2026-06-07T19:30:00+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Kevin Knight Discusses His Place On The AEW Roster, Building Trust With Tony Khan",
       "p": "AEW star Kevin Knight has explained why he believes he's earned the trust of Tony Khan, and where he thinks his trajectory might take him in the company.",
       "link": "https://www.wrestlinginc.com/2187993/aew-kevin-knight-tony-khan-trust-roster/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-06-07T18:30:00+00:00"
     },
     {
@@ -40,72 +80,32 @@
       "h": "Injury Update On AEW Champion MJF, Following Removal From Indie Date",
       "p": "A new report provides an update on the status of AEW World Champion MJF following his hyperextended knee injury.",
       "link": "https://www.wrestlinginc.com/2189042/injury-update-aew-champion-mjf-following-removal-indie-date/",
-      "t": "7h",
+      "t": "13h",
       "dt": "2026-06-07T16:39:54+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW's Skye Blue Looks Back On Injury That Made Her Doubt Whether Return Was Possible",
-      "p": "When AEW star Skye Blue underwent surgery on her injured ankle in 2024, she initially had some doubts about whether she'd be able to get back in the ring.",
-      "link": "https://www.wrestlinginc.com/2187355/aew-skye-blue-injury-doubt-return-possible/",
-      "t": "11h",
-      "dt": "2026-06-07T13:00:00+00:00"
+      "src": "ProWrestling.net",
+      "h": "06/07 Pruett’s AEW Collision audio review: Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone vs. Hazuki in an Owen Hart Cup tournament match",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 06/07 Pruett’s AEW Collision audio review: Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone...",
+      "link": "https://prowrestling.net/site/2026/06/07/06-07-pruetts-aew-collision-audio-review-megan-bayne-and-lena-kross-vs-anna-jay-and-tay-melo-for-the-aew-womens-tag-titles-persephone-vs-hazuki-in-an-owen-hart-cup-tournament-match/",
+      "t": "13h",
+      "dt": "2026-06-07T16:38:03+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "AEW reportedly set to sign ‘nationally televised talent’ this summer",
-      "p": "AEW is reportedly set to sign new talent in the coming months. According to a report from Fightful Select on Saturday, the promotion will be adding “nationally televised talent” to its roster this...",
-      "link": "https://www.f4wonline.com/news/aew/aew-reportedly-set-to-sign-nationally-televised-talent-this-summer/",
-      "t": "12h",
-      "dt": "2026-06-07T12:19:01+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW Collision results (6/6): Murphy’s review of Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone vs. Hazuki in an Owen Hart Cup tournament match",
+      "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (6/6): Murphy’s review of Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone...",
+      "link": "https://prowrestling.net/site/2026/06/06/aew-collision-results-6-6-murphys-review-of-megan-bayne-and-lena-kross-vs-anna-jay-and-tay-melo-for-the-aew-womens-tag-titles-persephone-vs-hazuki-in-an-owen-hart-cup-tournament-match/",
+      "t": "1d",
+      "dt": "2026-06-07T03:40:37+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW COLLISION RESULTS (6/6): Persephone vs. Hazuki in tournament match, Conglomeration vs. LFI for trios titles, Divine Dominion vs. TayJay for tag titles, and more",
       "p": "AEW COLLISION REPORT JUNE 6, 2026 YOUNGSTOWN, OHIO AT COVELLI CENTRE AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel McGuinness Ring...",
       "link": "https://www.pwtorch.com/site/2026/06/06/aew-collision-results-6-6-persephone-vs-hazuki-in-tournament-match-conglomeration-vs-lfi-for-trios-titles-divine-dominion-vs-tayjay-for-tag-titles-and-more/",
-      "t": "20h",
+      "t": "1d",
       "dt": "2026-06-07T03:35:55+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Collision 6/6/26 Review | COLLISION COURSE (Free)",
-      "p": "Kate from MTL & Wai Ting review AEW Collision, featuring Divine Dominion defending the Women’s Tag Titles vs. TayJay and a Women’s Owen Hart quarter-final match between Persephone and Hazuki. The...",
-      "link": "https://www.postwrestling.com/2026/06/06/aew-collision-6-6-26-review-collision-course-free-11pm-et/",
-      "t": "21h",
-      "dt": "2026-06-07T03:00:58+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "WWE shareholder trial has officially been cancelled",
-      "p": "The WWE shareholder trial has officially been cancelled. The post WWE shareholder trial has officially been cancelled appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT NJPW.",
-      "link": "https://www.postwrestling.com/2026/06/06/wwe-shareholder-trial-has-officially-been-cancelled/",
-      "t": "22h",
-      "dt": "2026-06-07T02:12:57+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Collision 6/6/26 Results: Moné attacks Persephone and Hazuki, Divine Dominion retain, Moxley title defense set for Dynamite",
-      "p": "Mercedes Moné attacked Hazuki and Persephone following their main event encounter on Saturday's AEW Collision from Youngstown, Ohio. The post AEW Collision 6/6/26 Results: Moné attacks Persephone...",
-      "link": "https://www.postwrestling.com/2026/06/06/aew-collision-6-6-26-results-mone-attacks-persephone-and-hazuki-divine-dominion-retain-moxley-title-defense-set-for-dynamite/",
-      "t": "22h",
-      "dt": "2026-06-07T02:11:14+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/6 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner discuss Mercedes returns, MJF injured, Kevin Knight joins the Don Callis Family, more (78 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review last Wednesday’s Dynamite from Richmond, Va. They review Kevin Knight...",
-      "link": "https://www.pwtorch.com/site/2026/06/06/free-podcast-6-6-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-discuss-mercedes-returns-mjf-injured-kevin-knight-joins-the-don-callis-family-more-78-min/",
-      "t": "1d",
-      "dt": "2026-06-06T17:08:24+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP 2006 BACK ISSUE – Pro Wrestling Torch #916 (June 3, 2006): Angle jumps to ECW, ROH Fourth Anniversary Roundtable & Keller Report, Sammartino Interview, Keller review of “Game of Shadows,” insider news",
-      "p": "SUMMARY of #916 cover-dated June 3, 2006: This issue includes a cover story on Kurt Angle’s jump to ECW and the overall state of the ECW relaunch… In-depth analysis of the ROH Fourth Anniversary...",
-      "link": "https://www.pwtorch.com/site/2026/06/06/vip-2006-back-issue-pro-wrestling-torch-916-june-3-2006-angle-jumps-to-ecw-roh-fourth-anniversary-roundtable-keller-report-sammartino-interview-keller-review-of-game-of-shadows/",
-      "t": "1d",
-      "dt": "2026-06-06T13:00:22+00:00"
     }
   ]
 }

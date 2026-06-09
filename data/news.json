@@ -1,30 +1,46 @@
 {
-  "updated": "2026-06-09T12:15:23.795691+00:00",
+  "updated": "2026-06-09T15:28:15.103485+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (1 AEW items)",
+    "Wrestling Observer": "ok (2 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "Takumi Iroha to serve as back-up if Sareee is not cleared for AEW Summer Blockbuster",
+      "p": "Sareee has a contingency plan in case her neck is not healed in time for this week’s AEW Summer Blockbuster show. The post Takumi Iroha to serve as back-up if Sareee is not cleared for AEW Summer...",
+      "link": "https://www.postwrestling.com/2026/06/09/takumi-iroha-to-serve-as-back-up-if-sareee-is-not-cleared-for-aew-summer-blockbuster/",
+      "t": "15m",
+      "dt": "2026-06-09T15:12:18+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Speedball Mike Bailey Reflects On TNT Title Bout With Kevin Knight: In AEW Right Now, I Feel Alone",
-      "p": "Speedball Mike Bailey reflects on his TNT title bout with Kevin Knight on this past week’s edition of AEW Dynamite. Since AEW Double Or Nothing, Kevin Knight and Speedball’s tag team, Jet Speed,...",
-      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-reflects-on-tnt-title-bout-with-kevin-knight-in-aew-right-now-i-feel-alone/",
-      "t": "20m",
-      "dt": "2026-06-09T11:54:36+00:00"
+      "h": "Sammy Guevara & Beast Mortos Defending ROH World Tag Titles, Tiger Mask IV Set For CMLL’s June 12th Show",
+      "p": "The lineup for CMLL’s June 12th show. Coming up on June 12th is CMLL’s show at Arena Mexico, and it has been announced that the show will feature Sammy Guevara, The Beast Mortos, and Tiger Mask...",
+      "link": "https://www.fightful.com/wrestling-news/sammy-guevara-beast-mortos-defending-roh-world-tag-titles-tiger-mask-iv-set-for-cmlls-june-12th-show/",
+      "t": "1h",
+      "dt": "2026-06-09T14:11:09+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Matt Hardy Identifies Wrestler Whom He Believes Is 'Carrying' AEW",
+      "p": "Matt Hardy believes that the absence of a top star due to injury would affect AEW, stating that he is the one carrying the promotion.",
+      "link": "https://www.wrestlinginc.com/2190226/aew-matt-hardy-mjf-carrying/",
+      "t": "1h",
+      "dt": "2026-06-09T13:30:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Sareee gives update on neck injury ahead of AEW Dynamite Summer Blockbuster match",
       "p": "Sareee is set to compete on AEW Dynamite Summer Blockbuster this week in the Women’s bracket of the Owen Hart Cup tournament. Skye Blue will be her opponent in the first round of the tournament in...",
       "link": "https://www.f4wonline.com/news/aew/sareee-neck-injury-update-aew-dynamite-summer-blockbuster/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-06-09T08:44:20+00:00"
     },
     {
@@ -32,55 +48,15 @@
       "h": "AEW Dynamite Summer Blockbuster 2026 Live Stream: How to watch",
       "p": "AEW Dynamite: Summer Blockbuster airs live Wednesday, June 10, 2026, at 8 p.m. ET on TBS, with a simulcast on HBO Max. The show comes live from The Andrew J. Brady Music Center in Cincinnati,...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-summer-blockbuster-2026-live-stream-how-to-watch/",
-      "t": "4h",
-      "dt": "2026-06-09T07:44:32+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Sareee Says Her Neck Isn’t 100%, Takumi Iroha Will Corner Her At AEW Dynamite",
-      "p": "Sareee gives an update on her status. Sareee is set to take on Skye Blue in the first round of the Owen Hart Women’s Foundation Cup at AEW Dynamite Summer Blockbuster. Speaking to Tokyo Sports,...",
-      "link": "https://www.fightful.com/wrestling-news/sareee-says-her-neck-isnt-100-takumi-iroha-will-corner-her-at-aew-dynamite/",
       "t": "7h",
-      "dt": "2026-06-09T04:21:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Orange Cassidy on his pockets spot: ‘You never know what’s going to work’",
-      "p": "You never really know what will work in pro wrestling. Just ask Orange Cassidy. One of the AEW star’s trademark spots is putting his hands in his pockets while wrestling, throwing his opponents...",
-      "link": "https://www.f4wonline.com/news/aew/orange-cassidy-on-his-pockets-spot-you-never-know-whats-going-to-work/",
-      "t": "9h",
-      "dt": "2026-06-09T02:24:21+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Orange Cassidy: The Rizzler Is The Best, We’re Boys",
-      "p": "Orange Cassidy is pals with a walking meme. In what some might call the most expected friendship in wrestling history, Cassidy is apparently friends with The Rizzler himself. ‘Freshly Squeezed’...",
-      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-rizzler/",
-      "t": "10h",
-      "dt": "2026-06-09T01:21:45+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Orange Cassidy On Not Moving During Lio Rush’s Entrance: It Was My First Gut Instinct",
-      "p": "Orange Cassidy is doing his best. On the June 3 episode of AEW Dynamite, Orange Cassidy and The Conglomeration went viral after they froze in place during Lio Rush’s entrance. This ended up...",
-      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-lio-rush-entrance-309782/",
-      "t": "11h",
-      "dt": "2026-06-09T01:09:39+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Orange Cassidy Says Matt Sydal Came Up With The Idea For His New Shirt",
-      "p": "Orange Cassidy gives all the credit to Matt Sydal. Sydal may be inactive in the ring, but he’s still giving advice to some of the top stars in the business. In a new interview with TMZ Sports,...",
-      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-matt-sydal-309776/",
-      "t": "11h",
-      "dt": "2026-06-09T00:53:12+00:00"
+      "dt": "2026-06-09T07:44:32+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Biggest Winners And Losers Of The Week — 6/8/2026",
       "p": "From Mercedes Mone's return on \"AEW Dynamite\" to Seth Rollins' KOTR loss on \"WWE Raw,\" here are your WINC winners and losers for the week of 6/8/26!",
       "link": "https://www.wrestlinginc.com/2190141/biggest-winners-losers-week-june-8-2026/",
-      "t": "12h",
+      "t": "15h",
       "dt": "2026-06-08T23:33:20+00:00"
     },
     {
@@ -88,7 +64,7 @@
       "h": "Backstage Report On Extended Absence Of AEW Star Keith Lee",
       "p": "A backstage report on the extended absence of AEW star Keith Lee reveals there had been discussions about bring Lee back to television months ago",
       "link": "https://www.wrestlinginc.com/2190094/aew-keith-lee-extended-absence-backstage-report-june-2026/",
-      "t": "14h",
+      "t": "17h",
       "dt": "2026-06-08T22:01:18+00:00"
     },
     {
@@ -96,7 +72,7 @@
       "h": "Matt & Nick Jackson Of The Young Bucks Offer Update On AEW Star Adam Cole",
       "p": "Adam Cole was last seen in AEW when he tearfully relinquished the TNT Championship at ALL IN Texas last July due to a concussion.",
       "link": "https://www.wrestlinginc.com/2190076/aew-adam-cole-matt-nick-jackson-young-bucks-update-june-2026/",
-      "t": "14h",
+      "t": "17h",
       "dt": "2026-06-08T21:46:39+00:00"
     },
     {
@@ -104,8 +80,32 @@
       "h": "Young Bucks Hint At New Day's AEW Arrival During Fan Q&A",
       "p": "The Young Bucks have thrown fuel on the fire of The New Day's potential AEW arrival following a recent livestream.",
       "link": "https://www.wrestlinginc.com/2190067/aew-young-bucks-new-day-hint-arrival/",
-      "t": "14h",
+      "t": "17h",
       "dt": "2026-06-08T21:35:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Now Sharing Streaming Service With WWE Programming",
+      "p": "The first three years of AEW Dynamite have now been added to Tubi, meaning AEW content is now on the same streaming service as several WWE shows",
+      "link": "https://www.wrestlinginc.com/2190040/aew-dynamite-tubi-episodes-added-streaming-service-wwe-programming/",
+      "t": "18h",
+      "dt": "2026-06-08T21:16:37+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 6/8 – PWTorch Dailycast – Worse or Better (Episode 9 – All Elite Women): Steph & Josh examine the women’s division in AEW, from the optimism of their inception to the uncertainty of the present (137 min.)",
+      "p": "SHOW SUMMARY: In this PWTorch Dailycast series titled “Worse or Better,” Josh White and Stephanie Chase discuss one aspect of today’s pro wrestling scene and compare it to a previous era or eras...",
+      "link": "https://www.pwtorch.com/site/2026/06/08/free-podcast-6-8-pwtorch-dailycast-worse-or-better-episode-9-all-elite-women-steph-josh-examine-the-womens-division-in-aew-from-the-optimism-of-their-inception-to-the-unc/",
+      "t": "20h",
+      "dt": "2026-06-08T18:37:08+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The Summer Blockbuster card",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Summer Blockbuster card appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/08/aew-dynamite-preview-the-summer-blockbuster-card-2/",
+      "t": "1d",
+      "dt": "2026-06-08T13:15:02+00:00"
     }
   ]
 }

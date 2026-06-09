@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T21:07:46.802109+00:00",
+  "updated": "2026-06-09T22:47:31.294149+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -7,24 +7,32 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
-    "ProWrestling.net": "ok (5 AEW items)"
+    "Wrestling Inc": "ok (2 AEW items)",
+    "ProWrestling.net": "ok (4 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Nick Wayne Feels 2026 NJPW Best Of The Super Juniors Was Best Performances & Experience Of His Life",
-      "p": "A look at Nick Wayne’s tournament experience. For the second consecutive year, All Elite Wrestling’s Nick Wayne competed in New Japan Pro-Wrestling’s Best of the Super Juniors tournament. In the...",
-      "link": "https://www.fightful.com/wrestling-news/nick-wayne-feels-2026-njpw-best-of-the-super-juniors-was-best-performances-experience-of-his-life/",
+      "src": "PWTorch",
+      "h": "PARKS’S TAKE: What’s the better option for Steve Maclin as he leaves TNA and perhaps is readying to sign with AEW or WWE?",
+      "p": "Steve Maclin has requested his release from TNA. That’s a big name to leave TNA of his own volition, having just recently been in the main event scene challenging TNA Champion Mike Santana (who...",
+      "link": "https://www.pwtorch.com/site/2026/06/09/parkss-take-whats-the-better-option-for-steve-maclin-as-he-leaves-tna-and-perhaps-is-readying-to-sign-with-aew-or-wwe/",
       "t": "1h",
-      "dt": "2026-06-09T19:45:27+00:00"
+      "dt": "2026-06-09T21:35:05+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW’s Harley Cameron To Appear On Denise Salcedo’s Live Podcast On June 27th In California",
+      "p": "Harley Cameron is set for an appearance on Denise Salcedo’s podcast. Friend of Fightful Denise Salcedo is hosting a live podcast on June 27th at Rooster T. Feathers Comedy Club in Sunnyvale,...",
+      "link": "https://www.fightful.com/wrestling-news/aews-harley-cameron-to-appear-on-denise-salcedos-live-podcast-on-june-27th-in-california/",
+      "t": "1h",
+      "dt": "2026-06-09T21:32:37+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 6/9 – Alan4L’s ProWres Paradise: Alan’s idealized Forbidden Door booking strategy, AJPW battle of the giants in Miyagi, Tanaka vs. Doi in Dragongate, Steiners, more (65 min.)",
       "p": "SHOW SUMMARY: In our latest episode of Alan4L’s ProWres Paradise, PWTorch columnist Alan4L flies solo with some match recommendations old and new, and a rare foray into fantasy booking! Forbidden...",
       "link": "https://www.pwtorch.com/site/2026/06/09/vip-podcast-6-9-alan4ls-prowres-paradise-alans-idealized-forbidden-door-booking-strategy-ajpw-battle-of-the-giants-in-miyagi-tanaka-vs-doi-in-dragongate-steiners-more-65-min/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-09T17:23:02+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Former Producer Road Dogg Says WWE Doesn't View AEW As Competition But It Should",
       "p": "WWE Hall of Famer Road Dogg has admitted that the company didn't view AEW competition, but that mindset needs to change.",
       "link": "https://www.wrestlinginc.com/2190663/wwe-aew-road-dogg-brian-james-competition/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-06-09T17:02:01+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Sareee Offers Neck Injury Update, May Be Replaced In AEW Dynamite Tournament Match",
       "p": "Sareee is scheduled to face Skye Blue in the Owen Hart Foundation Cup tournament on \"AEW Dynamite\" and has been dealing with a neck injury.",
       "link": "https://www.wrestlinginc.com/2190510/aew-dynamite-sareee-neck-injury-update-replaced-tournament-match/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-06-09T15:34:41+00:00"
     },
     {
@@ -48,16 +56,8 @@
       "h": "Takumi Iroha to serve as back-up if Sareee is not cleared for AEW Summer Blockbuster",
       "p": "Sareee has a contingency plan in case her neck is not healed in time for this week’s AEW Summer Blockbuster show. The post Takumi Iroha to serve as back-up if Sareee is not cleared for AEW Summer...",
       "link": "https://www.postwrestling.com/2026/06/09/takumi-iroha-to-serve-as-back-up-if-sareee-is-not-cleared-for-aew-summer-blockbuster/",
-      "t": "5h",
-      "dt": "2026-06-09T15:12:18+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Matt Hardy Identifies Wrestler Whom He Believes Is 'Carrying' AEW",
-      "p": "Matt Hardy believes that the absence of a top star due to injury would affect AEW, stating that he is the one carrying the promotion.",
-      "link": "https://www.wrestlinginc.com/2190226/aew-matt-hardy-mjf-carrying/",
       "t": "7h",
-      "dt": "2026-06-09T13:30:00+00:00"
+      "dt": "2026-06-09T15:12:18+00:00"
     },
     {
       "src": "PWTorch",

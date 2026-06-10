@@ -1,22 +1,70 @@
 {
-  "updated": "2026-06-10T20:44:51.242343+00:00",
+  "updated": "2026-06-10T22:56:20.943543+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "FAILED (The read operation timed out)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Mercedes Mone Has Four Corgis",
+      "p": "The biggest Mercedes Mone news of the week. In her Mone Mag, Mercedes revealed that she has added an extra Corgi baby to the bunch. “While I was away, Papicito Beast Mortos surprised me with a...",
+      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-has-four-corgis/",
+      "t": "55m",
+      "dt": "2026-06-10T22:00:54+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: AEW Summer Blockbuster, Dustin Rhodes, Undertaker",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-summer-blockbuster-dustin-rhodes-undertaker/",
+      "t": "1h",
+      "dt": "2026-06-10T21:46:55+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Skye Blue Opens Up About Participating In Women's Owen Hart Cup Tournament",
+      "p": "Skye Blue opened up about being in the Women's Owen Hart Cup tournament ahead of her match against Sareee on Wednesday's \"AEW Dynamite: Summer Blockbuster.\"",
+      "link": "https://www.wrestlinginc.com/2191856/aew-skye-blue-womens-owen-hart-cup-tournament/",
+      "t": "1h",
+      "dt": "2026-06-10T21:29:40+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Tonight’s Summer Blockbuster card",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s Summer Blockbuster card appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/10/aew-dynamite-preview-tonights-summer-blockbuster-card/",
+      "t": "1h",
+      "dt": "2026-06-10T21:00:49+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Mercedes Mone Reflects On AEW Dynamite Return, Comeback Outfit & Collision Appearance",
+      "p": "In the latest edition of \"Mone Mag,\" Mercedes Mone reflected on her return to AEW, writing about everything from her return look to her \"Collision\" appearance.",
+      "link": "https://www.wrestlinginc.com/2191825/mercedes-mone-aew-dynamite-return-comeback-outfit-collision/",
+      "t": "2h",
+      "dt": "2026-06-10T20:44:48+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Killer Kross Thinks The Door Has Always Been Open With AEW",
+      "p": "After departing WWE in the summer of 2025, Killer Kross has been back on the independent scene, mainly working with MLW. At the time of his WWE departure, many wondered if Kross would show up in...",
+      "link": "https://www.fightful.com/wrestling-news/killer-kross-thinks-the-door-has-always-been-open-with-aew/",
+      "t": "2h",
+      "dt": "2026-06-10T20:37:11+00:00"
+    },
     {
       "src": "POST Wrestling",
       "h": "POST NEWS: NXT’s #1 Contenders, Nemeth v. AEW update & UFC’s AI rankings are coming",
       "p": "Jack Wannan covers the news, including No. 1 contenders coming out of NXT, an AEW v. Ryan Nemeth update, and AI-powered UFC rankings coming. The post POST NEWS: NXT’s #1 Contenders, Nemeth v. AEW...",
       "link": "https://www.postwrestling.com/2026/06/10/post-news-nxts-1-contenders-nemeth-v-aew-update-ufcs-ai-rankings-are-coming/",
-      "t": "14m",
+      "t": "2h",
       "dt": "2026-06-10T20:30:18+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Killer Kross on potentially joining AEW: I think the door has ‘always been open’",
       "p": "Killer Kross doesn’t think the door is closed to him eventually ending up in AEW. Making a Wednesday appearance on The Ariel Helwani Show, the former Karrion Kross discussed how happy he’s been in...",
       "link": "https://www.f4wonline.com/news/aew/killer-kross-addresses-aew-interest-tony-khan/",
-      "t": "19m",
+      "t": "2h",
       "dt": "2026-06-10T20:25:38+00:00"
     },
     {
@@ -32,15 +80,23 @@
       "h": "Report Details Snag In Arbitration Process Between AEW & Ryan Nemeth",
       "p": "One year after agreeing to resolve their differences in arbitration, a report reveals that Ryan Nemeth and AEW have hit a snag in their negotiations",
       "link": "https://www.wrestlinginc.com/2191788/aew-ryan-nemeth-arbitration-snag/",
-      "t": "32m",
+      "t": "2h",
       "dt": "2026-06-10T20:12:03+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kevin Knight And Tommaso Ciampa To Speak At AEW Dynamite Summer Blockbuster",
+      "p": "Kevin Knight will speak on Dynamite. AEW announced that TNT Champion “The Jet” will speak at AEW Dynamite Summer Blockbuster on June 10. Knight joined the Don Callis Family last Wednesday, and...",
+      "link": "https://www.fightful.com/wrestling-news/kevin-knight-to-speak-at-aew-dynamite-summer-blockbuster/",
+      "t": "2h",
+      "dt": "2026-06-10T20:07:28+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Mercedes Moné addresses rumors surrounding AEW absence",
       "p": "Mercedes Moné has explained her absence from AEW. Moné wrestled her first match of 2026 for the company on the June 3 edition of Dynamite, defeating Alex Windsor in the quarterfinals of the...",
       "link": "https://www.f4wonline.com/news/aew/mercedes-mone-addresses-rumors-surrounding-aew-absence/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-10T19:32:38+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "New match announced for ROH Global Wars Cincinnati",
       "p": "A new match has been announced for ROH Global Wars Cincinnati. Matches for the show will be taped at the Andrew J. Brady Music Center in Cincinnati, Ohio this week as AEW presents Summer...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/new-match-announced-for-roh-global-wars-cincinnati/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-10T18:53:29+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "5 YRS AGO – Keller’s AEW Dynamite Report (4/28/2021): Fans chant “Pinnacle / Inner Circle” as Jericho and MJF factions continue their verbal battle",
-      "p": "The following report originally published 5 years ago here at PWTorch.com… AEW DYNAMITE TV REPORT APRIL 28, 2021 JACKSONVILLE, FLA. AT DAILY’S PLACE LIVE ON TNT REPORT BY WADE KELLER, PWTORCH...",
-      "link": "https://www.pwtorch.com/site/2026/06/10/5-yrs-ago-kellers-aew-dynamite-report-4-28-2021-fans-chant-pinnacle-inner-circle-as-jericho-and-mjf-factions-continue-their-verbal-battle/",
-      "t": "2h",
-      "dt": "2026-06-10T18:30:19+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on AEW, Ryan Nemeth legal dispute",
-      "p": "An update is available regarding the legal conflict between AEW and Ryan Nemeth. Nemeth filed a lawsuit in Los Angeles Superior Court against Tony Khan, AEW, and CM Punk on February 21, 2025,...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-aew-ryan-nemeth-legal-dispute/",
-      "t": "2h",
-      "dt": "2026-06-10T18:23:22+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WWE star eyes Rhea Ripley for retirement feud",
-      "p": "Nikki Bella has identified a few WWE dream opponents she would like to face before retiring for good and a potential final feud in Rhea Ripley. Bella told Casino Guru in an exclusive interview...",
-      "link": "https://www.f4wonline.com/news/wwe-star-eyes-rhea-ripley-for-retirement-feud/",
-      "t": "2h",
-      "dt": "2026-06-10T18:19:42+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "5 YRS AGO – Keller’s AEW Dynamite Report (4/21/2021): The episode where Jericho said MJF sounds like a high school theater student reciting memorized lines and lacks conviction",
-      "p": "The following report originally published 5 years ago this week here at PWTorch.com… AEW DYNAMITE TV REPORT APRIL 21, 2021 JACKSONVILLE, FLA. AT DAILY’S PLACE LIVE ON TNT REPORT BY WADE KELLER,...",
-      "link": "https://www.pwtorch.com/site/2026/06/10/5-yrs-ago-kellers-aew-dynamite-report-4-21-2021-the-episode-where-jericho-said-mjf-sounds-like-a-high-school-theater-student-reciting-memorized-lines-and-lacks-conviction/",
-      "t": "2h",
-      "dt": "2026-06-10T18:12:44+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "5 YRS AGO – Keller’s AEW Dynamite Report (4/14/2021): The episode where The Young Bucks said they felt fraudulent and took a big payday and were no longer hungry, then snipped off their tassels",
-      "p": "The following report originally published 5 years ago this week here at PWTorch.com… AEW DYNAMITE TV REPORT APRIL 14, 2021 JACKSONVILLE, FLA. AT DAILY’S PLACE AIRED ON TNT (TAPED APR. 8) REPORT BY...",
-      "link": "https://www.pwtorch.com/site/2026/06/10/5-yrs-ago-kellers-aew-dynamite-report-4-14-2021-the-episode-where-the-young-bucks-said-they-felt-fraudulent-and-took-a-big-payday-and-were-no-longer-hungry-then-snipped-off-thei/",
-      "t": "2h",
-      "dt": "2026-06-10T17:59:39+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: The Don Callis Family is clicking, Mercedes Mone’s character is still stuck in ambiguous mode, AEW’s Medical Staff",
-      "p": "Welcome everyone! Well, last week was in depth on Kevin Knight. That was not what I set out to write but sometimes you just start writing and before you know it you have written the [...]",
-      "link": "https://www.pwtorch.com/site/2026/06/10/aew-rising-and-fading-stars-the-don-callis-family-is-clicking-mercedes-mones-character-is-still-stuck-in-ambiguous-mode-aews-medical-staff/",
-      "t": "3h",
-      "dt": "2026-06-10T17:31:12+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH Special Episode results (6/9): AR Fox vs. Angelico vs. Sammy Guevara vs. Ace Austin in a four-way for the ROH TV Title, The IInspiration vs. Mina Shirakawa and Harley Cameron",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH Special Episode results (6/9): AR Fox vs. Angelico vs. Sammy Guevara vs. Ace Austin in a four-way for the ROH TV Title, The IInspiration...",
-      "link": "https://prowrestling.net/site/2026/06/10/roh-special-episode-results-6-9-ar-fox-vs-angelico-vs-sammy-guevara-vs-ace-austin-in-a-four-way-for-the-roh-tv-title-the-iinspiration-vs-mina-shirakawa-and-harley-cameron/",
-      "t": "3h",
-      "dt": "2026-06-10T17:02:37+00:00"
     }
   ]
 }

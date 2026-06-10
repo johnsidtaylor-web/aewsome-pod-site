@@ -1,62 +1,78 @@
 {
-  "updated": "2026-06-09T22:47:31.294149+00:00",
+  "updated": "2026-06-10T01:29:36.631319+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (0 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (1 AEW items)",
     "ProWrestling.net": "ok (4 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "AEW Collision (6/6) Draws Nearly 500,000 Viewers On Cable TV",
+      "p": "AEW Collision viewership information for June 6. Programming Insider reports that AEW Collision drew 496,000 viewers on TNT on June 6. This number is up from the 360,000 viewers the show drew on...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-6-6-draws-nearly-500000-viewers-on-cable-tv/",
+      "t": "45m",
+      "dt": "2026-06-10T00:43:59+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF Gives An Update On His Knee Injury",
+      "p": "MJF suffered a hyperextended knee on the June 3 episode of AEW Dynamite during his match with RUSH. The injury prevented him from being cleared for a scheduled date at Beyond Wrestling two days...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-gives-an-update-on-his-knee-injury/",
+      "t": "1h",
+      "dt": "2026-06-09T23:58:48+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW World Champion MJF Provides Update On Knee Injury",
+      "p": "AEW World Champion MJF provided fans with an update on his knee injury via a social media video from his cold plunge tub on Tuesday.",
+      "link": "https://www.wrestlinginc.com/2191069/aew-mjf-knee-injury-update/",
+      "t": "1h",
+      "dt": "2026-06-09T23:31:19+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating: How did the show hold up against Stanley Cup Final competition?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did the show hold up against Stanley Cup Final competition? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/09/aew-collision-rating-how-did-the-show-hold-up-against-stanley-cup-final-competition/",
+      "t": "2h",
+      "dt": "2026-06-09T23:27:12+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Watch: ROH TV Special Tuesday Episode | 6/9/2026",
+      "p": "ROH TV Special Tuesday Episode | 6/9/2026 The post Watch: ROH TV Special Tuesday Episode | 6/9/2026 appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
+      "link": "https://www.fightful.com/wrestling-news/watch-roh-tv-special-tuesday-episode-6-9-2026/",
+      "t": "2h",
+      "dt": "2026-06-09T23:00:27+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "PARKS’S TAKE: What’s the better option for Steve Maclin as he leaves TNA and perhaps is readying to sign with AEW or WWE?",
       "p": "Steve Maclin has requested his release from TNA. That’s a big name to leave TNA of his own volition, having just recently been in the main event scene challenging TNA Champion Mike Santana (who...",
       "link": "https://www.pwtorch.com/site/2026/06/09/parkss-take-whats-the-better-option-for-steve-maclin-as-he-leaves-tna-and-perhaps-is-readying-to-sign-with-aew-or-wwe/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-09T21:35:05+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW’s Harley Cameron To Appear On Denise Salcedo’s Live Podcast On June 27th In California",
-      "p": "Harley Cameron is set for an appearance on Denise Salcedo’s podcast. Friend of Fightful Denise Salcedo is hosting a live podcast on June 27th at Rooster T. Feathers Comedy Club in Sunnyvale,...",
-      "link": "https://www.fightful.com/wrestling-news/aews-harley-cameron-to-appear-on-denise-salcedos-live-podcast-on-june-27th-in-california/",
-      "t": "1h",
-      "dt": "2026-06-09T21:32:37+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 6/9 – Alan4L’s ProWres Paradise: Alan’s idealized Forbidden Door booking strategy, AJPW battle of the giants in Miyagi, Tanaka vs. Doi in Dragongate, Steiners, more (65 min.)",
       "p": "SHOW SUMMARY: In our latest episode of Alan4L’s ProWres Paradise, PWTorch columnist Alan4L flies solo with some match recommendations old and new, and a rare foray into fantasy booking! Forbidden...",
       "link": "https://www.pwtorch.com/site/2026/06/09/vip-podcast-6-9-alan4ls-prowres-paradise-alans-idealized-forbidden-door-booking-strategy-ajpw-battle-of-the-giants-in-miyagi-tanaka-vs-doi-in-dragongate-steiners-more-65-min/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-09T17:23:02+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Former Producer Road Dogg Says WWE Doesn't View AEW As Competition But It Should",
-      "p": "WWE Hall of Famer Road Dogg has admitted that the company didn't view AEW competition, but that mindset needs to change.",
-      "link": "https://www.wrestlinginc.com/2190663/wwe-aew-road-dogg-brian-james-competition/",
-      "t": "5h",
-      "dt": "2026-06-09T17:02:01+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Sareee Offers Neck Injury Update, May Be Replaced In AEW Dynamite Tournament Match",
-      "p": "Sareee is scheduled to face Skye Blue in the Owen Hart Foundation Cup tournament on \"AEW Dynamite\" and has been dealing with a neck injury.",
-      "link": "https://www.wrestlinginc.com/2190510/aew-dynamite-sareee-neck-injury-update-replaced-tournament-match/",
-      "t": "7h",
-      "dt": "2026-06-09T15:34:41+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Takumi Iroha to serve as back-up if Sareee is not cleared for AEW Summer Blockbuster",
       "p": "Sareee has a contingency plan in case her neck is not healed in time for this week’s AEW Summer Blockbuster show. The post Takumi Iroha to serve as back-up if Sareee is not cleared for AEW Summer...",
       "link": "https://www.postwrestling.com/2026/06/09/takumi-iroha-to-serve-as-back-up-if-sareee-is-not-cleared-for-aew-summer-blockbuster/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-06-09T15:12:18+00:00"
     },
     {
@@ -90,22 +106,6 @@
       "link": "https://www.pwtorch.com/site/2026/06/07/aew-collision-hits-misses-6-6-a-show-in-need-of-more-flair-hazuki-builds-momentum-ahead-of-mercedes-showdown-divine-dominion-retains-titles-taylor-targets-moxley/",
       "t": "1d",
       "dt": "2026-06-08T04:04:24+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "RADICAN’S TAKE: Beyond Wrestling makes the best out of a difficult situation with Andrade el Idolo replacing MJF against Bobby Orlando in marquee match",
-      "p": "When you’re running an independent promotion, it’s not often that you’re able to make the best out of a tough situation, but Beyond Wrestling owner and founder Drew Cordeiro managed to do just...",
-      "link": "https://www.pwtorch.com/site/2026/06/07/radicans-take-beyond-wrestling-makes-the-best-out-of-a-difficult-situation-with-andrade-el-idolo-replacing-mjf-against-bobby-orlando-in-marquee-match/",
-      "t": "1d",
-      "dt": "2026-06-08T01:04:41+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "06/07 Pruett’s AEW Collision audio review: Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone vs. Hazuki in an Owen Hart Cup tournament match",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 06/07 Pruett’s AEW Collision audio review: Megan Bayne and Lena Kross vs. Anna Jay and Tay Melo for the AEW Women’s Tag Titles, Persephone...",
-      "link": "https://prowrestling.net/site/2026/06/07/06-07-pruetts-aew-collision-audio-review-megan-bayne-and-lena-kross-vs-anna-jay-and-tay-melo-for-the-aew-womens-tag-titles-persephone-vs-hazuki-in-an-owen-hart-cup-tournament-match/",
-      "t": "2d",
-      "dt": "2026-06-07T16:38:03+00:00"
     }
   ]
 }

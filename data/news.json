@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-11T11:47:16.354975+00:00",
+  "updated": "2026-06-11T16:20:00.314478+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,27 +12,91 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Says Tony Khan Will Appear On TNA Episode Of Dark Side Of The Ring",
+      "p": "\"Dark Side of the Ring\" premieres next month with a three-part episode on TNA Wrestling. Jeff Jarrett confirmed Tony Khan will be on the TNA episodes.",
+      "link": "https://www.wrestlinginc.com/2192285/aew-jeff-jarrett-tony-khan-dark-side-of-the-ring-tna/",
+      "t": "10m",
+      "dt": "2026-06-11T16:09:28+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Forbidden Door lineup: The card for the next pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door lineup: The card for the next pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/11/aew-forbidden-door-lineup-the-card-for-the-next-pay-per-view-event-3/",
+      "t": "1h",
+      "dt": "2026-06-11T15:00:40+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "For subscribers: Bryan Alvarez’s AEW Dynamite report",
+      "p": "Bryan Alvarez’s report on this week’s AEW Dynamite is now available for subscribers.",
+      "link": "https://www.f4wonline.com/news/aew/for-subscribers-bryan-alvarezs-aew-dynamite-report-12/",
+      "t": "1h",
+      "dt": "2026-06-11T14:44:35+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Orange Cassidy Explains What Mick Foley Brings To AEW",
+      "p": "AEW's Orange Cassidy has discussed the impact WWE Hall of Famer Mick Foley has already made on the promotion following his debut at Double or Nothing.",
+      "link": "https://www.wrestlinginc.com/2192011/aew-orange-cassidy-mick-foley-brings/",
+      "t": "1h",
+      "dt": "2026-06-11T14:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH Global Wars: Cincinnati Spoilers (Taped On 6/10)",
+      "p": "Ring of Honor taped ROH Global Wars Cincinnati on June 10 from the Brady J Music Center in Cincinnati, OH. Full spoilers (courtesy of Wrestling Observer) are below. ROH Global Wars: Cincinnati...",
+      "link": "https://www.fightful.com/wrestling-news/roh-global-wars-cincinnati-spoilers-taped-on-6-10/",
+      "t": "2h",
+      "dt": "2026-06-11T14:17:26+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: The card for tonight’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/11/roh-on-honorclub-lineup-the-card-for-tonights-show-39/",
+      "t": "2h",
+      "dt": "2026-06-11T13:40:21+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Owen Hart Cup tournament semifinal match set for Wednesday’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Owen Hart Cup tournament semifinal match set for Wednesday’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/11/aew-dynamite-preview-owen-hart-cup-tournament-semifinal-match-set-for-wednesdays-show/",
+      "t": "2h",
+      "dt": "2026-06-11T13:20:02+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: Saturday’s Summer Blockbuster show (Cincy taping reports needed)",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Saturday’s Summer Blockbuster show (Cincy taping reports needed) appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/11/aew-collision-lineup-saturdays-summer-blockbuster-show-cincy-taping-reports-needed/",
+      "t": "3h",
+      "dt": "2026-06-11T13:00:23+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Speedball Mike Bailey Struggles With AEW Betrayal",
+      "p": "Mike Bailey has discussed his emotions following Kevin Knight's heel turn and their subsequent AEW match, claiming that Knight won only because of Don Callis.",
+      "link": "https://www.wrestlinginc.com/2191969/speedball-mike-bailey-struggles-aew-betrayal/",
+      "t": "3h",
+      "dt": "2026-06-11T13:00:00+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite June 10, 2026 stats, match times and more",
       "p": "AEW Dynamite Summer Blockbuster this week (June 10, 2026) had five matches and 1 hour, 7 minutes and 10 seconds of in-ring action at the Andrew J Brady Music Center in Cincinnati. Every bout went...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-june-10-2026-stats-match-times-average-age/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-06-11T09:41:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: Janel Grant, UFC White House, Dynamite, NXT, Global Wars",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the latest on Janel Grant and Vince McMahon, the UFC White House show, Undertaker and Rey...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-janel-grant-ufc-white-house-dynamite-nxt-global-wars/",
-      "t": "2h",
-      "dt": "2026-06-11T09:00:31+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "ROH TV Start Time Tonight (06-11-2026)",
       "p": "ROH on HonorClub airs tonight (Thursday, June 11, 2026), with the main show starting at 8:00 PM ET / 7:00 PM CT. The weekly show streams exclusively on Ring of Honor’s HonorClub service, which is...",
       "link": "https://www.f4wonline.com/event-guides/roh-tv-start-time-tonight-06-11-2026/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-06-11T08:53:08+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "FREE PODCAST 6/10 – WKPWP after Dynamite: Keller & Griffin discuss MJF as center of attention with several challengers aiming for his title, plus Jericho-Ciampa, Callis Family, more (114 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Chris Griffin to review AEW Dynamite with chat and email interactions throughout. They opened by discussing MJF’s strong...",
       "link": "https://www.pwtorch.com/site/2026/06/11/free-podcast-6-10-wkpwp-after-dynamite-keller-griffin-discuss-mjf-as-center-of-attention-with-several-challengers-aiming-for-his-title-plus-jericho-ciampa-callis-family-more-114-min/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-06-11T06:09:08+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 6/10 – WKH – AEW Dynamite: Forbidden Door developments including Owen Cup Final set and 12-mag tag with MJF and Briscoe, plus Pac-Briscoe, Mox-Taylor, Cassidy-Andrade (21 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the June 10 episode of AEW Dynamite start to finish including Swerve Strickland vs. Brody King, Maya...",
-      "link": "https://www.pwtorch.com/site/2026/06/11/vip-podcast-6-10-wkh-aew-dynamite-forbidden-door-developments-including-owen-cup-final-set-and-12-mag-tag-with-mjf-and-briscoe-plus-pac-briscoe-mox-taylor-cassidy-andrade-21-min/",
-      "t": "6h",
-      "dt": "2026-06-11T05:08:01+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Mercedes Moné on break from AEW: “I was simply waiting for the right time to return”",
-      "p": "Mercedes Moné put to bed any rumors regarding her time away from AEW, confirming that she simply wanted to take a break. The post Mercedes Moné on break from AEW: “I was simply waiting for the...",
-      "link": "https://www.postwrestling.com/2026/06/11/mercedes-mone-on-break-from-aew-i-was-simply-waiting-for-the-right-time-to-return/",
-      "t": "7h",
-      "dt": "2026-06-11T04:46:15+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Summer Blockbuster - 6/10/2026: 3 Things We Hated And 3 We Loved",
-      "p": "Some stuff from AEW Summer Blockbuster got a thumbs up, and some got a serious thumbs down.",
-      "link": "https://www.wrestlinginc.com/2191950/aew-dynamite-june-10-2026-3-things-hated-loved-opinion-review/",
-      "t": "7h",
-      "dt": "2026-06-11T04:35:32+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "06/10 Barnett’s AEW Dynamite audio review: The Summer Blockbuster with Swerve Strickland vs. Brody King and Skye Blue vs. Maya World in Owen Hart Cup tournament matches",
-      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 06/10 Barnett’s AEW Dynamite audio review: The Summer Blockbuster with Swerve Strickland vs. Brody King and Skye Blue vs. Maya World in Owen...",
-      "link": "https://prowrestling.net/site/2026/06/10/06-10-barnetts-aew-dynamite-audio-review-the-summer-blockbuster-with-swerve-strickland-vs-brody-king-and-skye-blue-vs-maya-world-in-owen-hart-cup-tournament-matches/",
-      "t": "7h",
-      "dt": "2026-06-11T04:28:51+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH Global Wars spoilers from Cincinnati, OH",
-      "p": "ROH (Ring of Honor) taped matches for the upcoming edition of ROH Global Wars on June 10 at The Andrew J. Brady Music Center in Cincinnati, Ohio. The episode was taped before and after the June...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-global-wars-spoilers-from-cincinnati-oh/",
-      "t": "7h",
-      "dt": "2026-06-11T04:04:37+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Date set for Mercedes Mone vs. Hazuki AEW women’s Owen Hart tournament semifinal",
-      "p": "The road to redemption for former TBS Champion Mercedes Mone will continue on next week’s AEW Dynamite from Sugar Land, Texas. In a semifinal match in the women’s Owen Hart Foundation tournament,...",
-      "link": "https://www.f4wonline.com/news/aew/mercedes-mone-hazuki-aew-dynamite-next-week/",
-      "t": "8h",
-      "dt": "2026-06-11T03:09:28+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Kenny Omega appearance, Death Riders vs. Shane Taylor Promotions street fight & more booked for AEW Collision",
-      "p": "Making his first singles appearance since Dynasty, Kenny Omega will appear as part of this Saturday's AEW Collision. The post Kenny Omega appearance, Death Riders vs. Shane Taylor Promotions...",
-      "link": "https://www.postwrestling.com/2026/06/10/kenny-omega-appearance-death-riders-vs-shane-taylor-promotions-street-fight-more-booked-for-aew-collision/",
-      "t": "9h",
-      "dt": "2026-06-11T02:40:31+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Dynamite: Summer Blockbuster Review 6/10/26 | RAD",
-      "p": "John Pollock and Wai Ting review AEW Dynamite with Swerve vs King and Maya World vs Blue in Owen Hart Tournament matches. XL: Janel Grant latest, Zaria wins NXT NA title, UFC Freedom 250 & NJPW...",
-      "link": "https://www.postwrestling.com/2026/06/10/aew-dynamite-summer-blockbuster-review-6-10-26-rad-live-1035pm-et/",
-      "t": "9h",
-      "dt": "2026-06-11T02:35:33+00:00"
     }
   ]
 }

@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-11T01:37:22.042214+00:00",
+  "updated": "2026-06-11T07:03:44.401172+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "ok (5 AEW items)"
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Inc",
-      "h": "Mark Briscoe Makes Forbidden Door Steel Cage Main Event",
-      "p": "Mark Briscoe has made a deal with Tony Khan to make the main event of AEW x NJPW Forbidden Door a multi-man Steel Cage Match.",
-      "link": "https://www.wrestlinginc.com/2191930/mark-briscoe-forbidden-door-steel-cage-main-event/",
-      "t": "10m",
-      "dt": "2026-06-11T01:26:34+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Team Briscoe vs. Team MJF Steel Cage Tag Set For AEW x NJPW Forbidden Door",
-      "p": "A huge match has been announced for Forbidden Door. On this week’s episode of AEW Dynamite, Mark Briscoe broke some big news for the pay-per-view, revealing that a twelve man tag team bout will...",
-      "link": "https://www.fightful.com/wrestling-news/steel-cage-briscoe-mjf-tag-forbidden-door-310209/",
-      "t": "23m",
-      "dt": "2026-06-11T01:13:52+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Former World Champion returns on AEW Dynamite",
-      "p": "For the first time since losing the AEW World title and then being taken out afterward while lying on a stretcher, former champion Darby Allin made his surprise return on Wednesday’s Dynamite....",
-      "link": "https://www.f4wonline.com/news/aew/darby-allin-returns-aew-dynamite/",
-      "t": "27m",
-      "dt": "2026-06-11T01:10:13+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Dynamite: Summer Blockbuster Review 6/10/26 | RAD (Live 10:35pm ET)",
-      "p": "John Pollock and Wai Ting review #AEWDynamite with Swerve vs King and Sareee vs Blue in Owen Hart Tournament matches. XL: Janel Grant latest, Zaria wins NXT NA title, UFC Freedom 250 & NJPW...",
-      "link": "https://www.postwrestling.com/2026/06/10/aew-dynamite-summer-blockbuster-review-6-10-26-rad-live-1035pm-et/",
-      "t": "36m",
-      "dt": "2026-06-11T01:00:33+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Frankie Kazarian Recalls AEW Departure & Return To TNA Wrestling",
-      "p": "Former TNA World Champion Frankie Kazarian has detailed how he returned to the company in 2023 after his departure from AEW.",
-      "link": "https://www.wrestlinginc.com/2189149/frankie-kazarian-aew-departure-return-tna/",
-      "t": "37m",
-      "dt": "2026-06-11T01:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Jon Moxley Beats Shane Taylor To Retain AEW Continental Title, Taylor Retaliates",
-      "p": "Jon Moxley defeated Shane Taylor in the opening bout of \"AEW Dynamite\" to retain the Continental Championship.",
-      "link": "https://www.wrestlinginc.com/2191923/jon-moxley-beats-shane-taylor-retain-aew-continental-title-retaliates/",
-      "t": "46m",
-      "dt": "2026-06-11T00:50:53+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Darby Allin Returns At AEW Dynamite Summer Blockbuster, Attacks Kevin Knight",
-      "p": "Darby Allin is out for blood. This week’s episode of AEW Dynamite featured a braggadocios promo from Kevin Knight and his new leader, Don Callis. After bringing up his desire to challenge for the...",
-      "link": "https://www.fightful.com/wrestling-news/darby-allin-kevin-knight-310204/",
-      "t": "50m",
-      "dt": "2026-06-11T00:46:29+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Dynamite: Summer Blockbuster 6/10 Results: Owen Hart Cup continues, Jon Moxley defends against Shane Taylor",
-      "p": "Follow live coverage of AEW Dynamite: Summer Blockbuster 2026 as it happens this evening! The post AEW Dynamite: Summer Blockbuster 6/10 Results: Owen Hart Cup continues, Jon Moxley defends...",
-      "link": "https://www.postwrestling.com/2026/06/10/aew-dynamite-summer-blockbuster-6-10-results-owen-hart-cup-continues-jon-moxley-defends-against-shane-taylor/",
-      "t": "1h",
-      "dt": "2026-06-11T00:00:02+00:00"
+      "src": "PWTorch",
+      "h": "FREE PODCAST 6/10 – WKPWP after Dynamite: Keller & Griffin discuss MJF as center of attention with several challengers aiming for his title, plus Jericho-Ciampa, Callis Family, more (114 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Chris Griffin to review AEW Dynamite with chat and email interactions throughout. They opened by discussing MJF’s strong...",
+      "link": "https://www.pwtorch.com/site/2026/06/11/free-podcast-6-10-wkpwp-after-dynamite-keller-griffin-discuss-mjf-as-center-of-attention-with-several-challengers-aiming-for-his-title-plus-jericho-ciampa-callis-family-more-114-min/",
+      "t": "54m",
+      "dt": "2026-06-11T06:09:08+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "AEW DYNAMITE RESULTS (6/10): Keller’s report on Skye Blue vs. Sareee and Swerve vs. Brody in Owen Tourney matches, Moxley vs. Taylor, Pac vs. Briscoe",
-      "p": "AEW DYNAMITE REPORT JUNE 10, 2026 CINCINNATI, OHIO AT ANDREW J BRADY MUSIC CENTER AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring...",
-      "link": "https://www.pwtorch.com/site/2026/06/10/aew-dynamite-results-6-10-kellers-report-on-skye-blue-vs-sareee-and-swerve-vs-brody-in-owen-tourney-matches-moxley-vs-taylor-pac-vs-briscoe/",
-      "t": "2h",
-      "dt": "2026-06-10T23:36:56+00:00"
+      "h": "VIP PODCAST 6/10 – WKH – AEW Dynamite: Forbidden Door developments including Owen Cup Final set and 12-mag tag with MJF and Briscoe, plus Pac-Briscoe, Mox-Taylor, Cassidy-Andrade (21 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the June 10 episode of AEW Dynamite start to finish including Swerve Strickland vs. Brody King, Maya...",
+      "link": "https://www.pwtorch.com/site/2026/06/11/vip-podcast-6-10-wkh-aew-dynamite-forbidden-door-developments-including-owen-cup-final-set-and-12-mag-tag-with-mjf-and-briscoe-plus-pac-briscoe-mox-taylor-cassidy-andrade-21-min/",
+      "t": "1h",
+      "dt": "2026-06-11T05:08:01+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite results (6/10): Barnett’s review of “The Summer Blockbuster” with Swerve Strickland vs. Brody King and Sareee vs. Skye Blue in Owen Hart Cup tournament matches",
-      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post AEW Dynamite results (6/10): Barnett’s review of “The Summer Blockbuster” with Swerve Strickland vs. Brody King and Sareee vs. Skye Blue in...",
-      "link": "https://prowrestling.net/site/2026/06/10/aew-dynamite-results-6-10-barnetts-review-of-the-summer-blockbuster-with-swerve-strickland-vs-brody-king-and-sareee-vs-skye-blue-in-owen-hart-cup-tournament-matches/",
+      "src": "POST Wrestling",
+      "h": "Mercedes Moné on break from AEW: “I was simply waiting for the right time to return”",
+      "p": "Mercedes Moné put to bed any rumors regarding her time away from AEW, confirming that she simply wanted to take a break. The post Mercedes Moné on break from AEW: “I was simply waiting for the...",
+      "link": "https://www.postwrestling.com/2026/06/11/mercedes-mone-on-break-from-aew-i-was-simply-waiting-for-the-right-time-to-return/",
       "t": "2h",
-      "dt": "2026-06-10T23:30:52+00:00"
+      "dt": "2026-06-11T04:46:15+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Sareee Not Cleared For AEW Dynamite Match, Tony Khan Names Owen Hart Cup Replacement",
-      "p": "AEW President Tony Khan announced Sareee is not cleared for her Owen Hart Cup match on Wednesday, but announced a replacement for the bout with Skye Blue.",
-      "link": "https://www.wrestlinginc.com/2191904/sareee-aew-dynamite-not-cleared-tony-khan-owen-hart-cup-maya-world/",
+      "h": "AEW Dynamite Summer Blockbuster - 6/10/2026: 3 Things We Hated And 3 We Loved",
+      "p": "Some stuff from AEW Summer Blockbuster got a thumbs up, and some got a serious thumbs down.",
+      "link": "https://www.wrestlinginc.com/2191950/aew-dynamite-june-10-2026-3-things-hated-loved-opinion-review/",
       "t": "2h",
-      "dt": "2026-06-10T23:28:39+00:00"
+      "dt": "2026-06-11T04:35:32+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "AEW Dynamite Summer Blockbuster Results (6/10/2026): Swerve Strickland, Skye Blue, Jon Moxley, Andrade, More",
-      "p": "Full results for the June 10, 2026, edition of AEW Dynamite on TBS live from The Andrew J. Brady Music Center in Cincinnati, Ohio. On June 10, 2026, All Elite Wrestling hosted a new episode of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-summer-blockbuster-results-6-10-2026-swerve-strickland-skye-blue-jon-moxley-andrade-more/",
+      "src": "ProWrestling.net",
+      "h": "06/10 Barnett’s AEW Dynamite audio review: The Summer Blockbuster with Swerve Strickland vs. Brody King and Skye Blue vs. Maya World in Owen Hart Cup tournament matches",
+      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 06/10 Barnett’s AEW Dynamite audio review: The Summer Blockbuster with Swerve Strickland vs. Brody King and Skye Blue vs. Maya World in Owen...",
+      "link": "https://prowrestling.net/site/2026/06/10/06-10-barnetts-aew-dynamite-audio-review-the-summer-blockbuster-with-swerve-strickland-vs-brody-king-and-skye-blue-vs-maya-world-in-owen-hart-cup-tournament-matches/",
       "t": "2h",
-      "dt": "2026-06-10T23:15:00+00:00"
+      "dt": "2026-06-11T04:28:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH Global Wars spoilers from Cincinnati, OH",
+      "p": "ROH (Ring of Honor) taped matches for the upcoming edition of ROH Global Wars on June 10 at The Andrew J. Brady Music Center in Cincinnati, Ohio. The episode was taped before and after the June...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-global-wars-spoilers-from-cincinnati-oh/",
+      "t": "2h",
+      "dt": "2026-06-11T04:04:37+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Date set for Mercedes Mone vs. Hazuki AEW women’s Owen Hart tournament semifinal",
+      "p": "The road to redemption for former TBS Champion Mercedes Mone will continue on next week’s AEW Dynamite from Sugar Land, Texas. In a semifinal match in the women’s Owen Hart Foundation tournament,...",
+      "link": "https://www.f4wonline.com/news/aew/mercedes-mone-hazuki-aew-dynamite-next-week/",
+      "t": "3h",
+      "dt": "2026-06-11T03:09:28+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "12-man steel cage match with stipulations set for AEW x NJPW Forbidden Door",
+      "p": "A unique 12-man steel cage match has been tabbed for this month’s AEW x NJPW Forbidden Door with some stipulations as part of the equation. Made during Wednesday’s Dynamite, a team led by AEW...",
+      "link": "https://www.f4wonline.com/news/aew/12-man-steel-cage-match-aew-njpw-forbidden-door/",
+      "t": "4h",
+      "dt": "2026-06-11T02:51:08+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Kenny Omega appearance, Death Riders vs. Shane Taylor Promotions street fight & more booked for AEW Collision",
+      "p": "Making his first singles appearance since Dynasty, Kenny Omega will appear as part of this Saturday's AEW Collision. The post Kenny Omega appearance, Death Riders vs. Shane Taylor Promotions...",
+      "link": "https://www.postwrestling.com/2026/06/10/kenny-omega-appearance-death-riders-vs-shane-taylor-promotions-street-fight-more-booked-for-aew-collision/",
+      "t": "4h",
+      "dt": "2026-06-11T02:40:31+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite: Summer Blockbuster Review 6/10/26 | RAD",
+      "p": "John Pollock and Wai Ting review AEW Dynamite with Swerve vs King and Maya World vs Blue in Owen Hart Tournament matches. XL: Janel Grant latest, Zaria wins NXT NA title, UFC Freedom 250 & NJPW...",
+      "link": "https://www.postwrestling.com/2026/06/10/aew-dynamite-summer-blockbuster-review-6-10-26-rad-live-1035pm-et/",
+      "t": "4h",
+      "dt": "2026-06-11T02:35:33+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kenny Omega returning to action as part of announced AEW Collision lineup",
+      "p": "Ahead of his match with Zack Sabre Jr. at Forbidden Door, former AEW World Champion Kenny Omega will return to the ring on this Saturday’s AEW Collision. Omega will face Sabre Jr.’s TMDK...",
+      "link": "https://www.f4wonline.com/news/aew/kenny-omega-young-bucks-death-riders-aew-collision-lineup/",
+      "t": "4h",
+      "dt": "2026-06-11T02:34:19+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Zack Sabre Jr. vs. Kenny Omega, Team Mark Briscoe vs. Team MJF cage match added to AEW Forbidden Door 2026",
+      "p": "For the first time since 2018, Kenny Omega and Zack Sabre Jr. will go one-on-one at AEW Forbidden Door later this month. The post Zack Sabre Jr. vs. Kenny Omega, Team Mark Briscoe vs. Team MJF...",
+      "link": "https://www.postwrestling.com/2026/06/10/zack-sabre-jr-vs-kenny-omega-team-mark-briscoe-vs-team-mjf-cage-match-added-to-aew-forbidden-door-2026/",
+      "t": "4h",
+      "dt": "2026-06-11T02:30:07+00:00"
     }
   ]
 }

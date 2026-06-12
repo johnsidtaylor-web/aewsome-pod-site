@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-12T09:10:22.491187+00:00",
+  "updated": "2026-06-12T12:29:14.263891+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: Newman & Tsuji headlines NJPW Dominion, Omega wrestles on Collision, road to Night of Champions continues & more!",
+      "p": "A guide to this weekend's top wrestling events on TV & streaming, including shows from WWE, AEW, NJPW, CMLL, and more! The post Weekend TV Guide: Newman & Tsuji headlines NJPW Dominion, Omega...",
+      "link": "https://www.postwrestling.com/2026/06/12/weekend-tv-guide-newman-tsuji-2-headlines-njpw-dominion-omega-wrestles-on-collision-road-to-night-of-champions-continues-more/",
+      "t": "29m",
+      "dt": "2026-06-12T12:00:02+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW names appearing in new Steven Spielberg film",
+      "p": "It was previously reported by PWInsider that there would be several pro wrestling scenes filmed for the new Steven Spielberg film Disclosure Day, which opens officially today in theaters. It’s now...",
+      "link": "https://www.f4wonline.com/news/aew/disclosure-day-steven-spielberg-new-film-aew-lance-archer-brian-cage/",
+      "t": "2h",
+      "dt": "2026-06-12T10:08:24+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Grand Slam Mexico ticket sales doing well above YTD average months away from show",
+      "p": "AEW Grand Slam Mexico will be taking place on Wednesday, August 5th from Arena México in Mexico City. Despite the show still being just under a couple of months out, the ticket sales appear to be...",
+      "link": "https://www.f4wonline.com/news/aew/aew-grand-slam-mexico-2026-ticket-sales-update-ytd-average/",
+      "t": "3h",
+      "dt": "2026-06-12T09:23:17+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Fight Game: New Forbidden Door matches, The Owen, King & Queen of the Ring",
       "p": "Paul Fontaine is backing, subbing for John LaRocca, to join me on The Fight Game Podcast as we discussed the latest happenings in pro wrestling. You can watch the full episode on YouTube, which is...",
       "link": "https://www.f4wonline.com/podcasts/fight-game-new-forbidden-door-matches-the-owen-king-queen-of-the-ring/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-06-12T05:43:59+00:00"
     },
     {
@@ -24,55 +48,23 @@
       "h": "VIP PODCAST 6/11 – The Fix w/Todd & Wade (pt. 1 of 2): Grant-McMahon lawsuit, TKO-Shareholder lawsuit, UFC at the White House, AEW and WWE TV reviews, Dominion preview (70 min.)",
       "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: Analysis of the two legal developments...",
       "link": "https://www.pwtorch.com/site/2026/06/11/vip-podcast-6-11-the-fix-w-todd-wade-pt-1-of-2-grant-mcmahon-lawsuit-tko-shareholder-lawsuit-ufc-at-the-white-house-aew-and-wwe-tv-reviews-dominion-preview-70-min/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-12T03:46:10+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision Summer Blockbuster spoilers from Cincinnati, OH",
-      "p": "AEW taped matches for the upcoming edition of Collision Summer Blockbuster on June 11 at The Andrew J. Brady Music Center in Cincinnati, Ohio. The episode was taped on Thursday, June 11, 2026, and...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-summer-blockbuster-spoilers-from-cincinnati-oh/",
-      "t": "5h",
-      "dt": "2026-06-12T03:32:36+00:00"
     },
     {
       "src": "Fightful",
       "h": "AEW Collision Summer Blockbuster Spoilers (Taped On 6/11)",
       "p": "All Elite Wrestling taped AEW Collision Summer Blockbuster on June 11 from Cincinnati, OH. The event will air on June 13. Full spoilers (courtesy of Fightful) are below AEW Collision Summer...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-summer-blockbuster-spoilers-taped-on-6-11/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-06-12T02:32:34+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "TNT title defense part of updates AEW Collision Summer Blockbuster lineup",
-      "p": "The Summer Blockbuster lineup for this Saturday’s AEW Collision has been bolstered with a TNT title defense, a second Survival of the Fittest qualifying match, and more. After earning a future AEW...",
-      "link": "https://www.f4wonline.com/news/aew/tnt-title-defense-new-additionsaew-collision-summer-blockbuster/",
-      "t": "6h",
-      "dt": "2026-06-12T02:25:39+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Results (6/11): Bandido, Edde Kingston, IInspiration In Action",
-      "p": "Ring of Honor aired the latest episode of ROH TV on June 11. The event aired on HonorClub. Full results are below. ROH TV Results (6/11) Top Flight (Dante & Darius Martin) (w/ Christopher Daniels)...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-6-11-bandido-edde-kingston-iinspiration-in-action/",
-      "t": "6h",
-      "dt": "2026-06-12T02:13:24+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kevin Knight To Defend AEW TNT Title, More Added To AEW Collision Summer Blockbuster",
-      "p": "New matches have been added to AEW Collision Summer Blockbuster. All Elite Wrestling announced that Kevin Knight will defend the TNT Championship against Myron Reed at Collision Summer Blockbuster...",
-      "link": "https://www.fightful.com/wrestling-news/kevin-knight-to-defend-aew-tnt-title-more-added-to-aew-collision-summer-blockbuster/",
-      "t": "7h",
-      "dt": "2026-06-12T01:55:58+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "ASK-A-WAI: Ask Us Anything! (June 2026)",
       "p": "In this month's Ask-A-Wai, John Pollock and Wai Ting answer patrons' questions about AEW’s family-friendly direction, Attitude Era “what ifs,” WWE to AEW transformations, WWE ticket pricing, and...",
       "link": "https://www.postwrestling.com/2026/06/11/ask-a-wai-ask-us-anything-june-2026/",
-      "t": "12h",
+      "t": "16h",
       "dt": "2026-06-11T20:26:40+00:00"
     },
     {
@@ -80,7 +72,7 @@
       "h": "06/11 PW Boom With Jason Powell (Episode 413): Rich Fann on the WWE KQOTR and AEW’s Owen Hart Cup, four major events in two days, TNA’s place in the crowded landscape",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 06/11 PW Boom With Jason Powell (Episode 413): Rich Fann on the WWE KQOTR and AEW’s Owen Hart Cup, four major events in two days, TNA’s place...",
       "link": "https://prowrestling.net/site/2026/06/11/06-11-pw-boom-with-jason-powell-episode-413-rich-fann-on-the-wwe-kqotr-and-aews-owen-hart-cup-four-major-events-in-two-days-tnas-place-in-the-crowded-landscape/",
-      "t": "13h",
+      "t": "16h",
       "dt": "2026-06-11T19:59:21+00:00"
     },
     {
@@ -88,7 +80,7 @@
       "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – The men’s Owen Hart final is set, Jon Moxley vs. Shane Taylor, Chris Jericho continues to disappoint",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – The men’s Owen Hart final is set, Jon Moxley vs. Shane Taylor, Chris Jericho continues to...",
       "link": "https://prowrestling.net/site/2026/06/11/pruetts-pause-10-thoughts-on-aew-dynamite-the-mens-owen-hart-final-is-set-jon-moxley-vs-shane-taylor-chris-jericho-continues-to-disappoint/",
-      "t": "13h",
+      "t": "17h",
       "dt": "2026-06-11T19:25:38+00:00"
     },
     {
@@ -96,7 +88,7 @@
       "h": "AEW's Jeff Jarrett Comments On WWE Shareholder Lawsuit Not Going To Trial",
       "p": "On the latest episode of \"My World\", AEW's Jeff Jarrett weighed in on the WWE Shareholder lawsuit being canceled days before it was supposed to go to trial.",
       "link": "https://www.wrestlinginc.com/2192424/aew-jeff-jarrett-wwe-shareholder-lawsuit-trial/",
-      "t": "15h",
+      "t": "18h",
       "dt": "2026-06-11T17:47:47+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on predictable matches, presentation flaws, and a rough atmosphere",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on predictable matches, presentation flaws, and a rough atmosphere appeared first on Pro Wrestling Dot...",
       "link": "https://prowrestling.net/site/2026/06/11/powells-aew-dynamite-hit-list-thoughts-on-predictable-matches-presentation-flaws-and-a-rough-atmosphere/",
-      "t": "16h",
+      "t": "20h",
       "dt": "2026-06-11T16:22:27+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Says Tony Khan Will Appear On TNA Episode Of Dark Side Of The Ring",
+      "p": "\"Dark Side of the Ring\" premieres next month with a three-part episode on TNA Wrestling. Jeff Jarrett confirmed Tony Khan will be on the TNA episodes.",
+      "link": "https://www.wrestlinginc.com/2192285/aew-jeff-jarrett-tony-khan-dark-side-of-the-ring-tna/",
+      "t": "20h",
+      "dt": "2026-06-11T16:09:28+00:00"
     }
   ]
 }

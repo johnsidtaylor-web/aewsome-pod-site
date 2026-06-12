@@ -1,38 +1,102 @@
 {
-  "updated": "2026-06-12T16:27:31.830058+00:00",
+  "updated": "2026-06-12T19:21:18.778749+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (1 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
-    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
+    "Wrestling Inc": "ok (6 AEW items)",
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "SANADA Reveals He Had Been Dealing With Scalenus Syndrome Since 2024, Had To Use Guitar In Matches Because He Couldn’t Fully Use His Arm",
+      "p": "SANADA is back in the mix. For the first time since January 2026, SANADA is going to be in action for New Japan Pro-Wrestling. He is scheduled to challenge Konosuke Takeshita for the World...",
+      "link": "https://www.fightful.com/wrestling-news/sanada-reveals-he-had-been-dealing-with-scalenus-syndrome-since-2024-had-to-use-guitar-in-matches-because-he-couldnt-fully-use-his-arm/",
+      "t": "31m",
+      "dt": "2026-06-12T18:49:46+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Additional Details On AEW Dynamite Being Added To Tubi",
+      "p": "More details have been revealed regarding episodes of \"AEW Dynamite\" being added to Tubi, alongside WWE content.",
+      "link": "https://www.wrestlinginc.com/2193325/aew-dynamite-tubi-additional-details/",
+      "t": "41m",
+      "dt": "2026-06-12T18:39:57+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF Compares De’Aaron Fox To Mark Briscoe, TNA iMPACT Highlights, More | Fight Size",
+      "p": "Here’s your fight size update for Friday, June 12. – MJF compared De’Aaron Fox to Mark Briscoe on social media. In case you’re unaware, Fox recently fumbled away a Game 4 win for the San Antonio...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-compares-deaaron-fox-to-mark-briscoe-tna-impact-highlights-more-fight-size/",
+      "t": "1h",
+      "dt": "2026-06-12T18:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Report On Sareee Dropping Out Of AEW's Owen Hart Cup Due To Injury",
+      "p": "Sareee had been battling a neck injury prior to being announced for AEW's Owen Hart Cup, but traveled to the U.S. this week in hopes of competing.",
+      "link": "https://www.wrestlinginc.com/2193198/aew-sareee-owen-hart-cup-dropping-out-injury-backstage-report/",
+      "t": "2h",
+      "dt": "2026-06-12T16:54:10+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Stars Make Predictions, Announce Favorites For 2026 World Cup",
+      "p": "FIFA World Cup fever has gripped AEW as the stars of the company have made their predictions on who they think will win the tournament.",
+      "link": "https://www.wrestlinginc.com/2193189/aew-2026-world-cup-predictions-favorites/",
+      "t": "2h",
+      "dt": "2026-06-12T16:48:46+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE RESULTS (6/10): Adams’ alt-perspective on Jericho-Ciama, Shane Taylor Promotions, Overlapping Storylines, Swerve vs. Brody messiness,",
+      "p": "AEW DYNAMITE REPORT JUNE 10, 2026 CINCINNATI, OHIO AT ANDREW J BRADY MUSIC CENTER AIRED ON TBS & HBO MAX REPORT BY CHRISTOPHER ADAMS, PWTORCH CONTRIBUTOR Commentators: Excalibur, Tony Schiavone,...",
+      "link": "https://www.pwtorch.com/site/2026/06/12/aew-dynamite-results-6-10-adams-alt-perspective-on-jericho-ciama-shane-taylor-promotions-overlapping-storylines-swerve-vs-brody-messiness/",
+      "t": "2h",
+      "dt": "2026-06-12T16:37:43+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Sheriff’s Department releases details on death of Jatwane Anton Wilson, brother of AEW’s Maya World",
+      "p": "Jatwane Anton Wilson, the brother of AEW performer Maya World, was killed after being struck by a vehicle this past week. The post Sheriff’s Department releases details on death of Jatwane Anton...",
+      "link": "https://www.postwrestling.com/2026/06/12/sheriffs-department-releases-details-on-death-of-jatwane-anton-wilson-brother-of-aews-maya-world/",
+      "t": "2h",
+      "dt": "2026-06-12T16:30:13+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE HITS & MISSES (6/10): I hated Jericho-Ciampa opening segment, MJF and his many challengers, Swerve vs. Brody, Ospreay’s backstage promo, Thekla’s vignette promo, Maya World",
+      "p": "HITS MJF AND HIS CHALLENGERS AEW is continuing to do a great job making the World Title the main focus of Dynamite week after week. From all of the challengers swarming around MJF, to the [...]",
+      "link": "https://www.pwtorch.com/site/2026/06/12/aew-dynamite-hits-misses-6-10-i-hated-jericho-ciampa-opening-segment-mjf-and-his-many-challengers-swerve-vs-brody-ospreays-backstage-promo-theklas-vignette-promo-maya-world/",
+      "t": "2h",
+      "dt": "2026-06-12T16:29:42+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Backstage Report On Chances Of AEW Star Kota Ibushi Returning To The Ring",
       "p": "Kota Ibushi was injured last fall at an \"AEW Collision\" taping in match against Josh Alexander. The injury has resulted in two surgries.",
       "link": "https://www.wrestlinginc.com/2193147/aew-kota-ibushi-dave-meltzer-backstage-report-chances-returning-ring-injury/",
-      "t": "7m",
+      "t": "3h",
       "dt": "2026-06-12T16:19:50+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Chris Jericho: I Take Great Responsibility In Entertaining People That Appreciate My Work",
-      "p": "Chris Jericho owes it to his fans and friends. At the age of 55, Jericho is constantly faced with questions about retirement. Even with these questions, the former AEW World Champion has always...",
-      "link": "https://www.fightful.com/wrestling-news/chris-jericho-i-take-great-responsibility-in-entertaining-people-that-appreciate-my-work/",
-      "t": "20m",
-      "dt": "2026-06-12T16:06:49+00:00"
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub results (6/11): ROH Champion Bandido vs. Angelico in a Proving Ground match, Eddie Kingston and Ortiz vs. The Workhorsemen, Top Flight vs. Premier Athletes",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (6/11): ROH Champion Bandido vs. Angelico in a Proving Ground match, Eddie Kingston and Ortiz vs. The Workhorsemen,...",
+      "link": "https://prowrestling.net/site/2026/06/12/roh-on-honorclub-results-6-11-roh-champion-bandido-vs-angelico-in-a-proving-ground-match-eddie-kingston-and-ortiz-vs-the-workhorsemen-top-flight-vs-premier-athletes/",
+      "t": "4h",
+      "dt": "2026-06-12T15:05:16+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Thekla's Forbidden Door Opponent Revealed In AEW Collision Spoilers",
       "p": "\"AEW Collision\" spoilers reveal the upcoming Forbidden Door opponent for AEW Women's World Champion Thekla.",
       "link": "https://www.wrestlinginc.com/2192991/aew-njpw-stardom-forbidden-door-2026-thekla-starlight-kid-collision-spoilers/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-12T14:26:00+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "Jeff Jarrett Comments On Possibility Of Mick Foley Wrestling For AEW",
       "p": "Jeff Jarrett has commented on whether he wants to see fellow WWE Hall of Famer Mick Foley return to the ring with AEW.",
       "link": "https://www.wrestlinginc.com/2192857/jeff-jarrett-mick-foley-wrestling-aew/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-12T14:00:00+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Limitless Wrestling announces partnership agreement with MyAEW",
-      "p": "Limitless Wrestling is the latest promotion to jump on board with the MyAEW streaming service with a partnership agreement. The post Limitless Wrestling announces partnership agreement with MyAEW...",
-      "link": "https://www.postwrestling.com/2026/06/12/limitless-wrestling-announces-partnership-agreement-with-myaew/",
-      "t": "2h",
-      "dt": "2026-06-12T13:47:14+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Weekend TV Guide: Newman & Tsuji headlines NJPW Dominion, Omega wrestles on Collision, road to Night of Champions continues & more!",
-      "p": "A guide to this weekend's top wrestling events on TV & streaming, including shows from WWE, AEW, NJPW, CMLL, and more! The post Weekend TV Guide: Newman & Tsuji headlines NJPW Dominion, Omega...",
-      "link": "https://www.postwrestling.com/2026/06/12/weekend-tv-guide-newman-tsuji-2-headlines-njpw-dominion-omega-wrestles-on-collision-road-to-night-of-champions-continues-more/",
-      "t": "4h",
-      "dt": "2026-06-12T12:00:02+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW names appearing in new Steven Spielberg film",
-      "p": "It was previously reported by PWInsider that there would be several pro wrestling scenes filmed for the new Steven Spielberg film Disclosure Day, which opens officially today in theaters. It’s now...",
-      "link": "https://www.f4wonline.com/news/aew/disclosure-day-steven-spielberg-new-film-aew-lance-archer-brian-cage/",
-      "t": "6h",
-      "dt": "2026-06-12T10:08:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Grand Slam Mexico ticket sales doing well above YTD average months away from show",
-      "p": "AEW Grand Slam Mexico will be taking place on Wednesday, August 5th from Arena México in Mexico City. Despite the show still being just under a couple of months out, the ticket sales appear to be...",
-      "link": "https://www.f4wonline.com/news/aew/aew-grand-slam-mexico-2026-ticket-sales-update-ytd-average/",
-      "t": "7h",
-      "dt": "2026-06-12T09:23:17+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 6/11 – The Fix w/Todd & Wade (pt. 1 of 2): Grant-McMahon lawsuit, TKO-Shareholder lawsuit, UFC at the White House, AEW and WWE TV reviews, Dominion preview (70 min.)",
-      "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: Analysis of the two legal developments...",
-      "link": "https://www.pwtorch.com/site/2026/06/11/vip-podcast-6-11-the-fix-w-todd-wade-pt-1-of-2-grant-mcmahon-lawsuit-tko-shareholder-lawsuit-ufc-at-the-white-house-aew-and-wwe-tv-reviews-dominion-preview-70-min/",
-      "t": "12h",
-      "dt": "2026-06-12T03:46:10+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "ASK-A-WAI: Ask Us Anything! (June 2026)",
-      "p": "In this month's Ask-A-Wai, John Pollock and Wai Ting answer patrons' questions about AEW’s family-friendly direction, Attitude Era “what ifs,” WWE to AEW transformations, WWE ticket pricing, and...",
-      "link": "https://www.postwrestling.com/2026/06/11/ask-a-wai-ask-us-anything-june-2026/",
-      "t": "20h",
-      "dt": "2026-06-11T20:26:40+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/10 – WKPWP after Dynamite: Keller & Griffin discuss MJF as center of attention with several challengers aiming for his title, plus Jericho-Ciampa, Callis Family, more (114 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Chris Griffin to review AEW Dynamite with chat and email interactions throughout. They opened by discussing MJF’s strong...",
-      "link": "https://www.pwtorch.com/site/2026/06/11/free-podcast-6-10-wkpwp-after-dynamite-keller-griffin-discuss-mjf-as-center-of-attention-with-several-challengers-aiming-for-his-title-plus-jericho-ciampa-callis-family-more-114-min/",
-      "t": "1d",
-      "dt": "2026-06-11T06:09:08+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 6/10 – WKH – AEW Dynamite: Forbidden Door developments including Owen Cup Final set and 12-mag tag with MJF and Briscoe, plus Pac-Briscoe, Mox-Taylor, Cassidy-Andrade (21 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the June 10 episode of AEW Dynamite start to finish including Swerve Strickland vs. Brody King, Maya...",
-      "link": "https://www.pwtorch.com/site/2026/06/11/vip-podcast-6-10-wkh-aew-dynamite-forbidden-door-developments-including-owen-cup-final-set-and-12-mag-tag-with-mjf-and-briscoe-plus-pac-briscoe-mox-taylor-cassidy-andrade-21-min/",
-      "t": "1d",
-      "dt": "2026-06-11T05:08:01+00:00"
     }
   ]
 }

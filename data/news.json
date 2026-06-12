@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-12T19:21:18.778749+00:00",
+  "updated": "2026-06-12T22:00:42.940841+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (1 AEW items)",
+    "Fightful": "ok (5 AEW items)",
+    "Wrestling Observer": "ok (0 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,67 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Ex-WWE Star Karrion Kross Says He's Had Private Conversations With AEW's Tony Khan",
+      "p": "Former WWE star Karrion Kross said he's had conversations with AEW President Tony Khan following his departure from WWE last August.",
+      "link": "https://www.wrestlinginc.com/2193556/wwe-karrion-killer-kross-aew-tony-khan-private-conversations/",
+      "t": "16m",
+      "dt": "2026-06-12T21:44:15+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH Global Wars: Cincinnati Spoilers (Taped On 6/11)",
+      "p": "Ring of Honor taped ROH Global Wars Cincinnati on June 11 from the Brady J Music Center in Cincinnati, OH. Full spoilers (courtesy of Wrestling Observer) are below. ROH Global Wars: Cincinnati...",
+      "link": "https://www.fightful.com/wrestling-news/roh-global-wars-cincinnati-spoilers-taped-on-6-11/",
+      "t": "1h",
+      "dt": "2026-06-12T20:26:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Schiavone Says Recent AEW Moment Was One Of The Only Times He's Felt Butterflies",
+      "p": "Veteran broadcaster Tony Schiavone reveals the rare instances where he's felt butterflies while working pro wrestling events.",
+      "link": "https://www.wrestlinginc.com/2193473/aew-tony-schiavone-ted-turner-butterflies/",
+      "t": "1h",
+      "dt": "2026-06-12T20:04:45+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Aaron Rourke Getting Pulled From Limitless Wrestling Show Unrelated To MyAEW Partnership",
+      "p": "Update on Aaron Rourke. On June 11, Limitless Wrestling announced that Rourke would no longer work their 6/20 show due to WWE ID contract obligations. The promotion had recently announced a...",
+      "link": "https://www.fightful.com/wrestling-news/aaron-rourke-getting-pulled-from-limitless-wrestling-show-unrelated-to-myaew-partnership/",
+      "t": "1h",
+      "dt": "2026-06-12T20:02:40+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kay Lee Ray Names Mercedes Mone As One Of Her Dream Opponents",
+      "p": "Kay Lee Ray reveals her dream opponents in wrestling. After leaving WWE earlier this year, Kay Lee Ray recently returned to Pro Wrestling Eve. She’s also currently scheduled for an upcoming RevPro...",
+      "link": "https://www.fightful.com/wrestling-news/kay-lee-ray-names-mercedes-mone-as-one-of-her-dream-opponents/",
+      "t": "2h",
+      "dt": "2026-06-12T19:50:04+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Darby Allin Beats His Record For Most Rotations On A Cliff Jump",
+      "p": "Darby Allin is back at it again. The former AEW World Champion posted a video of himself cliff jumping in Moab, Utah. In the video, Darby hits seven flips, breaking his old record. Darby Allin...",
+      "link": "https://www.fightful.com/wrestling-news/darby-allin-beats-his-record-for-most-rotations-on-a-cliff-jump/",
+      "t": "2h",
+      "dt": "2026-06-12T19:35:54+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Report On WWE ID Talent Being Pulled From AEW-Affiliated Event",
+      "p": "A new report offered more backstage news on various WWE ID talent being pulled from multiple independent shows set for June 20.",
+      "link": "https://www.wrestlinginc.com/2193427/wwe-id-aew-talent-pulled-backstage-report/",
+      "t": "2h",
+      "dt": "2026-06-12T19:35:02+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "SANADA Reveals He Had Been Dealing With Scalenus Syndrome Since 2024, Had To Use Guitar In Matches Because He Couldn’t Fully Use His Arm",
       "p": "SANADA is back in the mix. For the first time since January 2026, SANADA is going to be in action for New Japan Pro-Wrestling. He is scheduled to challenge Konosuke Takeshita for the World...",
       "link": "https://www.fightful.com/wrestling-news/sanada-reveals-he-had-been-dealing-with-scalenus-syndrome-since-2024-had-to-use-guitar-in-matches-because-he-couldnt-fully-use-his-arm/",
-      "t": "31m",
+      "t": "3h",
       "dt": "2026-06-12T18:49:46+00:00"
     },
     {
@@ -24,23 +80,15 @@
       "h": "Additional Details On AEW Dynamite Being Added To Tubi",
       "p": "More details have been revealed regarding episodes of \"AEW Dynamite\" being added to Tubi, alongside WWE content.",
       "link": "https://www.wrestlinginc.com/2193325/aew-dynamite-tubi-additional-details/",
-      "t": "41m",
+      "t": "3h",
       "dt": "2026-06-12T18:39:57+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MJF Compares De’Aaron Fox To Mark Briscoe, TNA iMPACT Highlights, More | Fight Size",
-      "p": "Here’s your fight size update for Friday, June 12. – MJF compared De’Aaron Fox to Mark Briscoe on social media. In case you’re unaware, Fox recently fumbled away a Game 4 win for the San Antonio...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-compares-deaaron-fox-to-mark-briscoe-tna-impact-highlights-more-fight-size/",
-      "t": "1h",
-      "dt": "2026-06-12T18:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Backstage Report On Sareee Dropping Out Of AEW's Owen Hart Cup Due To Injury",
       "p": "Sareee had been battling a neck injury prior to being announced for AEW's Owen Hart Cup, but traveled to the U.S. this week in hopes of competing.",
       "link": "https://www.wrestlinginc.com/2193198/aew-sareee-owen-hart-cup-dropping-out-injury-backstage-report/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-12T16:54:10+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "AEW Stars Make Predictions, Announce Favorites For 2026 World Cup",
       "p": "FIFA World Cup fever has gripped AEW as the stars of the company have made their predictions on who they think will win the tournament.",
       "link": "https://www.wrestlinginc.com/2193189/aew-2026-world-cup-predictions-favorites/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-12T16:48:46+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "AEW DYNAMITE RESULTS (6/10): Adams’ alt-perspective on Jericho-Ciama, Shane Taylor Promotions, Overlapping Storylines, Swerve vs. Brody messiness,",
       "p": "AEW DYNAMITE REPORT JUNE 10, 2026 CINCINNATI, OHIO AT ANDREW J BRADY MUSIC CENTER AIRED ON TBS & HBO MAX REPORT BY CHRISTOPHER ADAMS, PWTORCH CONTRIBUTOR Commentators: Excalibur, Tony Schiavone,...",
       "link": "https://www.pwtorch.com/site/2026/06/12/aew-dynamite-results-6-10-adams-alt-perspective-on-jericho-ciama-shane-taylor-promotions-overlapping-storylines-swerve-vs-brody-messiness/",
-      "t": "2h",
-      "dt": "2026-06-12T16:37:43+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Sheriff’s Department releases details on death of Jatwane Anton Wilson, brother of AEW’s Maya World",
-      "p": "Jatwane Anton Wilson, the brother of AEW performer Maya World, was killed after being struck by a vehicle this past week. The post Sheriff’s Department releases details on death of Jatwane Anton...",
-      "link": "https://www.postwrestling.com/2026/06/12/sheriffs-department-releases-details-on-death-of-jatwane-anton-wilson-brother-of-aews-maya-world/",
-      "t": "2h",
-      "dt": "2026-06-12T16:30:13+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE HITS & MISSES (6/10): I hated Jericho-Ciampa opening segment, MJF and his many challengers, Swerve vs. Brody, Ospreay’s backstage promo, Thekla’s vignette promo, Maya World",
-      "p": "HITS MJF AND HIS CHALLENGERS AEW is continuing to do a great job making the World Title the main focus of Dynamite week after week. From all of the challengers swarming around MJF, to the [...]",
-      "link": "https://www.pwtorch.com/site/2026/06/12/aew-dynamite-hits-misses-6-10-i-hated-jericho-ciampa-opening-segment-mjf-and-his-many-challengers-swerve-vs-brody-ospreays-backstage-promo-theklas-vignette-promo-maya-world/",
-      "t": "2h",
-      "dt": "2026-06-12T16:29:42+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Report On Chances Of AEW Star Kota Ibushi Returning To The Ring",
-      "p": "Kota Ibushi was injured last fall at an \"AEW Collision\" taping in match against Josh Alexander. The injury has resulted in two surgries.",
-      "link": "https://www.wrestlinginc.com/2193147/aew-kota-ibushi-dave-meltzer-backstage-report-chances-returning-ring-injury/",
-      "t": "3h",
-      "dt": "2026-06-12T16:19:50+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub results (6/11): ROH Champion Bandido vs. Angelico in a Proving Ground match, Eddie Kingston and Ortiz vs. The Workhorsemen, Top Flight vs. Premier Athletes",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (6/11): ROH Champion Bandido vs. Angelico in a Proving Ground match, Eddie Kingston and Ortiz vs. The Workhorsemen,...",
-      "link": "https://prowrestling.net/site/2026/06/12/roh-on-honorclub-results-6-11-roh-champion-bandido-vs-angelico-in-a-proving-ground-match-eddie-kingston-and-ortiz-vs-the-workhorsemen-top-flight-vs-premier-athletes/",
-      "t": "4h",
-      "dt": "2026-06-12T15:05:16+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Thekla's Forbidden Door Opponent Revealed In AEW Collision Spoilers",
-      "p": "\"AEW Collision\" spoilers reveal the upcoming Forbidden Door opponent for AEW Women's World Champion Thekla.",
-      "link": "https://www.wrestlinginc.com/2192991/aew-njpw-stardom-forbidden-door-2026-thekla-starlight-kid-collision-spoilers/",
-      "t": "4h",
-      "dt": "2026-06-12T14:26:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Jeff Jarrett Comments On Possibility Of Mick Foley Wrestling For AEW",
-      "p": "Jeff Jarrett has commented on whether he wants to see fellow WWE Hall of Famer Mick Foley return to the ring with AEW.",
-      "link": "https://www.wrestlinginc.com/2192857/jeff-jarrett-mick-foley-wrestling-aew/",
       "t": "5h",
-      "dt": "2026-06-12T14:00:00+00:00"
+      "dt": "2026-06-12T16:37:43+00:00"
     }
   ]
 }

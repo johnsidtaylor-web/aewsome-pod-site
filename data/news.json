@@ -1,30 +1,38 @@
 {
-  "updated": "2026-06-13T14:23:26.089403+00:00",
+  "updated": "2026-06-13T16:44:16.478088+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "ok (2 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "AEW Collision Summer Blockbuster Preview, Start Time, How To Watch, Location (6/13)",
-      "p": "Viewing information and lineup for AEW Collision on June 13, 2026 AEW Collision (June 13, 2026) Venue: Andrew J Brady Music Center City: Cincinnati, OH Time: 8 pm ET Channel: TNT, HBO Max Lineup...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-summer-blockbuster-preview-start-time-how-to-watch-location-6-13/",
-      "t": "2h",
-      "dt": "2026-06-13T12:00:00+00:00"
+      "src": "Wrestling Inc",
+      "h": "TNA's Nic Nemeth Would Have Loved A Different Result In This AEW Dynamite Match",
+      "p": "After this week's content, Nic Nemeth explains which \"AEW Dynamite\" match should have had a different turn out.",
+      "link": "https://www.wrestlinginc.com/2193722/tna-nic-nemeth-aew-dynamite-jon-moxley-shane-taylor-different-result/",
+      "t": "6m",
+      "dt": "2026-06-13T16:38:11+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Injury update on AEW’s Private Party",
+      "p": "An update is available on Private Party’s Isiah Kassidy. Private Party has not wrestled in AEW since the March 28 edition of AEW Collision, where they lost to the team of Daniel Garcia and Jon...",
+      "link": "https://www.f4wonline.com/news/aew/injury-update-on-aews-private-party/",
+      "t": "1h",
+      "dt": "2026-06-13T14:53:47+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision lineup: Tonight’s Summer Blockbuster edition",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Tonight’s Summer Blockbuster edition appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/13/aew-collision-lineup-tonights-summer-blockbuster-edition/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-13T11:00:39+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "US Justice Department Approves Paramount Skydance Takeover Of AEW Parent Company WBD",
       "p": "The Paramount Skydance-Warner Brothers Discovery merger overcame a major hurdle as the US Justice Department have approved the deal.",
       "link": "https://www.wrestlinginc.com/2193652/aew-warner-bros-discovery-us-justice-department-approves-paramount-skydance-takeover/",
-      "t": "10h",
+      "t": "13h",
       "dt": "2026-06-13T03:38:58+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Jack Perry Seemingly Responds To Report Regarding CM Punk-AEW Relationship",
       "p": "Never say never when it comes to CM Punk mending fences with AEW, unless you're Jack Perry, who has made opinion on recent reports felt.",
       "link": "https://www.wrestlinginc.com/2193638/aew-jack-perry-cm-punk-responds-report-relationship-burning-bridge/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-06-13T01:47:35+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW Dynamite ratings take hit against NBA Finals",
       "p": "This week’s AEW Dynamite averaged 542,000 viewers on TBS, down 15.1% from the previous week’s 648,000 and its lowest audience for the show since January 21. The show also averaged a 0.08 rating in...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-take-hit-against-nba-finals-2/",
-      "t": "12h",
+      "t": "15h",
       "dt": "2026-06-13T01:37:36+00:00"
     },
     {
@@ -56,39 +64,15 @@
       "h": "06/12 Dot Net Weekly audio show: Barnett and Powell on the Janel Grant lawsuit moving to arbitration, CM Punk, WWE MITB date change, TNA departures, AEW Dynamite",
       "p": "By Jake Barnett (@jakebarnett) and... The post 06/12 Dot Net Weekly audio show: Barnett and Powell on the Janel Grant lawsuit moving to arbitration, CM Punk, WWE MITB date change, TNA departures,...",
       "link": "https://prowrestling.net/site/2026/06/12/06-12-dot-net-weekly-audio-show-barnett-and-powell-on-the-janel-grant-lawsuit-moving-to-arbitration-cm-punk-wwe-mitb-date-change-tna-departures-aew-dynamite/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-06-12T22:44:54+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Ex-WWE Star Karrion Kross Says He's Had Private Conversations With AEW's Tony Khan",
-      "p": "Former WWE star Karrion Kross said he's had conversations with AEW President Tony Khan following his departure from WWE last August.",
-      "link": "https://www.wrestlinginc.com/2193556/wwe-karrion-killer-kross-aew-tony-khan-private-conversations/",
-      "t": "16h",
-      "dt": "2026-06-12T21:44:15+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Schiavone Says Recent AEW Moment Was One Of The Only Times He's Felt Butterflies",
-      "p": "Veteran broadcaster Tony Schiavone reveals the rare instances where he's felt butterflies while working pro wrestling events.",
-      "link": "https://www.wrestlinginc.com/2193473/aew-tony-schiavone-ted-turner-butterflies/",
-      "t": "18h",
-      "dt": "2026-06-12T20:04:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Report On WWE ID Talent Being Pulled From AEW-Affiliated Event",
-      "p": "A new report offered more backstage news on various WWE ID talent being pulled from multiple independent shows set for June 20.",
-      "link": "https://www.wrestlinginc.com/2193427/wwe-id-aew-talent-pulled-backstage-report/",
-      "t": "18h",
-      "dt": "2026-06-12T19:35:02+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW DYNAMITE RESULTS (6/10): Adams’ alt-perspective on Jericho-Ciama, Shane Taylor Promotions, Overlapping Storylines, Swerve vs. Brody messiness,",
       "p": "AEW DYNAMITE REPORT JUNE 10, 2026 CINCINNATI, OHIO AT ANDREW J BRADY MUSIC CENTER AIRED ON TBS & HBO MAX REPORT BY CHRISTOPHER ADAMS, PWTORCH CONTRIBUTOR Commentators: Excalibur, Tony Schiavone,...",
       "link": "https://www.pwtorch.com/site/2026/06/12/aew-dynamite-results-6-10-adams-alt-perspective-on-jericho-ciama-shane-taylor-promotions-overlapping-storylines-swerve-vs-brody-messiness/",
-      "t": "21h",
+      "t": "1d",
       "dt": "2026-06-12T16:37:43+00:00"
     },
     {
@@ -96,7 +80,7 @@
       "h": "Sheriff’s Department releases details on death of Jatwane Anton Wilson, brother of AEW’s Maya World",
       "p": "Jatwane Anton Wilson, the brother of AEW performer Maya World, was killed after being struck by a vehicle this past week. The post Sheriff’s Department releases details on death of Jatwane Anton...",
       "link": "https://www.postwrestling.com/2026/06/12/sheriffs-department-releases-details-on-death-of-jatwane-anton-wilson-brother-of-aews-maya-world/",
-      "t": "21h",
+      "t": "1d",
       "dt": "2026-06-12T16:30:13+00:00"
     },
     {
@@ -104,8 +88,24 @@
       "h": "AEW DYNAMITE HITS & MISSES (6/10): I hated Jericho-Ciampa opening segment, MJF and his many challengers, Swerve vs. Brody, Ospreay’s backstage promo, Thekla’s vignette promo, Maya World",
       "p": "HITS MJF AND HIS CHALLENGERS AEW is continuing to do a great job making the World Title the main focus of Dynamite week after week. From all of the challengers swarming around MJF, to the [...]",
       "link": "https://www.pwtorch.com/site/2026/06/12/aew-dynamite-hits-misses-6-10-i-hated-jericho-ciampa-opening-segment-mjf-and-his-many-challengers-swerve-vs-brody-ospreays-backstage-promo-theklas-vignette-promo-maya-world/",
-      "t": "21h",
+      "t": "1d",
       "dt": "2026-06-12T16:29:42+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub results (6/11): ROH Champion Bandido vs. Angelico in a Proving Ground match, Eddie Kingston and Ortiz vs. The Workhorsemen, Top Flight vs. Premier Athletes",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (6/11): ROH Champion Bandido vs. Angelico in a Proving Ground match, Eddie Kingston and Ortiz vs. The Workhorsemen,...",
+      "link": "https://prowrestling.net/site/2026/06/12/roh-on-honorclub-results-6-11-roh-champion-bandido-vs-angelico-in-a-proving-ground-match-eddie-kingston-and-ortiz-vs-the-workhorsemen-top-flight-vs-premier-athletes/",
+      "t": "1d",
+      "dt": "2026-06-12T15:05:16+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Limitless Wrestling announces partnership agreement with MyAEW",
+      "p": "Limitless Wrestling is the latest promotion to jump on board with the MyAEW streaming service with a partnership agreement. The post Limitless Wrestling announces partnership agreement with MyAEW...",
+      "link": "https://www.postwrestling.com/2026/06/12/limitless-wrestling-announces-partnership-agreement-with-myaew/",
+      "t": "1d",
+      "dt": "2026-06-12T13:47:14+00:00"
     }
   ]
 }

@@ -1,22 +1,62 @@
 {
-  "updated": "2026-06-14T18:43:33.463917+00:00",
+  "updated": "2026-06-14T20:40:08.351184+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "NJPW DOMINION 20 RESULTS (6/14): Wells’s report and analysis on Tsuji vs. Newman, Douki vs. Yoh, Takeshita vs. Sanada, G-1 field partially announced",
+      "p": "NJPW DOMINION REPORT JUNE 14, 2026 OSAKA-JO HALL OSAKA, JAPAN AIRED LIVE ON NJPW WORLD Walker Stewart and Chris Charlton were on the call. (1) KONOSUKE TAKESHITA (c) vs. SANADA – Television...",
+      "link": "https://www.pwtorch.com/site/2026/06/14/njpw-dominion-20-results-6-14-wellss-report-and-analysis-on-tsuji-vs-newman-douki-vs-yoh-takeshita-vs-sanada-g-1-field-partially-announced/",
+      "t": "10m",
+      "dt": "2026-06-14T20:29:36+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Considered Alice In Chains’ ‘Them Bones’ For Jack Perry During His 2024 Return",
+      "p": "AEW considered a different theme song for Jack Perry during his 2024 return. When Jack Perry returned to AEW during the AEW Dynasty 2024 pay-per-view, he used “SCAPEGOAT” by Yonosuke Kitamura as...",
+      "link": "https://www.fightful.com/wrestling-news/aew-considered-alice-in-chains-them-bones-for-jack-perry-during-his-2024-return/",
+      "t": "31m",
+      "dt": "2026-06-14T20:08:11+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Another independent promotion joins MyAEW",
+      "p": "Another independent promotion has joined MyAEW. C*4 (Capital City Championship Combat) out of Ottawa, Ontario, Canada has been added to AEW’s new streaming service, joining Limitless, PRODUCE, and...",
+      "link": "https://www.f4wonline.com/news/aew/another-independent-promotion-joins-myaew/",
+      "t": "1h",
+      "dt": "2026-06-14T19:28:35+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Canada’s C*4 Wrestling joins MyAEW, free matches uploaded to the platform",
+      "p": "The Canadian-based C*4 Wrestling is the latest addition to the MyAEW streaming platform. The post Canada’s C*4 Wrestling joins MyAEW, free matches uploaded to the platform appeared first on POST...",
+      "link": "https://www.postwrestling.com/2026/06/14/canadas-c4-wrestling-joins-myaew-free-matches-uploaded-to-the-platform/",
+      "t": "1h",
+      "dt": "2026-06-14T19:28:25+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "C4 Wrestling Joining MyAEW",
+      "p": "C4 Wrestling is headed to MyAEW. Capital City Championship Combat Wrestling in Canada announced that the promotion is joining the MyAEW streaming platform. The promotion wrote on social media,...",
+      "link": "https://www.fightful.com/wrestling-news/c4-wrestling-joining-myaew/",
+      "t": "1h",
+      "dt": "2026-06-14T19:05:02+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Jeff Jarrett Reflects On Winning WWE Intercontinental Title, WCW World Title",
       "p": "Jeff Jarrett has drawn parallels between winning the WCW World Heavyweight Championship and the WWE Intercontinental title, rating the former more highly.",
       "link": "https://www.wrestlinginc.com/2192085/aew-jeff-jarrett-wwe-intercontinental-title-wcw-world-championship/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-14T17:30:00+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "NJPW “Dominion” results (6/14): Vetter’s review of Callum Newman vs. Yota Tsuji for the IWGP Hvt. Championship, Konosuke Takeshita vs. Sanada for the NJPW TV Title, Mistico vs. El Desperado",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “Dominion” results (6/14): Vetter’s review of Callum Newman vs. Yota Tsuji for the IWGP Hvt. Championship, Konosuke Takeshita vs....",
       "link": "https://prowrestling.net/site/2026/06/14/njpw-dominion-results-6-14-vetters-review-of-callum-newman-vs-yota-tsuji-for-the-iwgp-hvt-championship-konosuke-takeshita-vs-sanada-for-the-njpw-tv-title-mistico-vs-el-desperado/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-14T17:23:03+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "06/14 Pruett’s AEW Collision audio review: Kevin Knight vs. Myron Reed for the TNT Championship, Death Riders vs. STP in a ten-person street fight, Survival of the Fittest qualifiers",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 06/14 Pruett’s AEW Collision audio review: Kevin Knight vs. Myron Reed for the TNT Championship, Death Riders vs. STP in a ten-person street...",
       "link": "https://prowrestling.net/site/2026/06/14/06-14-pruetts-aew-collision-audio-review-kevin-knight-vs-myron-reed-for-the-tnt-championship-death-riders-vs-stp-in-a-ten-person-street-fight-survival-of-the-fittest-qualifiers/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-14T17:08:05+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "AEW's Konosuke Takeshita Retains TV Title At NJPW Dominion",
       "p": "Konosuke Takeshita remains a double champion as he retained his NJPW World Television Title at NJPW Dominion 2026.",
       "link": "https://www.wrestlinginc.com/2193882/aew-konosuke-takeshita-retains-tv-title-njpw-dominion/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-14T17:01:27+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Hikaru Shida And Persephone Qualify For AEW Survival Of The Fittest Match",
       "p": "Hikaru Shida and Persephone punched their tickets to the Survival of the Fittest match on July 1 with wins on \"AEW Collision\"",
       "link": "https://www.wrestlinginc.com/2193873/hikaru-shida-persephone-qualify-aew-survival-fittest-match/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-14T16:35:40+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW's Andrade Loses Global Title At NJPW Dominion",
       "p": "Andrade El Idolo will return to AEW beltless as he lost his IWGP Global Heavyweight Title at NJPW Dominion 2026.",
       "link": "https://www.wrestlinginc.com/2193868/aew-andrade-loses-title-njpw-dominion/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-14T16:03:03+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "NJPW Dominion 2026 title change statistics",
       "p": "Five title changes took place at New Japan Pro Wrestling Dominion 2026 in Osaka-Jo Hall on Sunday. The only wrestler on the show to successfully defend his title was Konosuke Takeshita, who...",
       "link": "https://www.f4wonline.com/news/new-japan/njpw-dominion-2026-title-change-statistics/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-14T15:57:02+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kevin Knight Escapes AEW Collision With TNT Title",
-      "p": "Kevin Knight is still your AEW TNT Champion following his successful title defense against Myron Reed on \"AEW Collision.\"",
-      "link": "https://www.wrestlinginc.com/2193836/kevin-knight-escapes-aew-collision-tnt-title/",
-      "t": "3h",
-      "dt": "2026-06-14T14:58:14+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Danhausen and the New York Knicks show AEW didn’t capitalize on what they had | Opinion",
-      "p": "With the New York Knicks now NBA champions, WWE and Danhausen have an opportunity to make a lot of money. The Knicks/Danhausen merchandise is already available, and Danhausen has already been...",
-      "link": "https://www.f4wonline.com/news/wwe/danhausen-and-the-new-york-knicks-show-aew-didnt-capitalise-on-what-they-had-opinion/",
-      "t": "4h",
-      "dt": "2026-06-14T14:28:56+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kay Lee Ray (WWE's Alba Fyre) Names AEW Stars She Hopes To Face",
-      "p": "With a sea of potential new opponents available to her, Kay Lee Ray eyes dream matches with some All Elite Wrestling stars.",
-      "link": "https://www.wrestlinginc.com/2193824/wwe-aew-kay-lee-ray-alba-fyre-kris-statlander-mercedes-mone-hopes-face/",
-      "t": "4h",
-      "dt": "2026-06-14T14:20:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star returns from injury, makes surprise appearance at NJPW Dominion",
-      "p": "An AEW star returned from injury at NJPW Dominion and made it clear what he wanted next. Gabe Kidd returned from injury on Sunday, attacking Shota Umino after he won the IWGP Global title in a...",
-      "link": "https://www.f4wonline.com/news/new-japan/aew-star-returns-from-injury-makes-surprise-appearance-at-njpw-dominion/",
-      "t": "8h",
-      "dt": "2026-06-14T10:16:21+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Shota Umino pins Andrade El Idolo, wins three-way for IWGP Global Heavyweight Title at NJPW Dominion 6.14",
-      "p": "Shota Umino's post-match celebration was short-lived, as AEW's Gabe Kidd attacked him after the match. The post Shota Umino pins Andrade El Idolo, wins three-way for IWGP Global Heavyweight Title...",
-      "link": "https://www.postwrestling.com/2026/06/14/shota-umino-pins-andrade-el-idolo-wins-three-way-for-iwgp-global-heavyweight-title-at-njpw-dominion-6-14/",
-      "t": "8h",
-      "dt": "2026-06-14T09:54:28+00:00"
     }
   ]
 }

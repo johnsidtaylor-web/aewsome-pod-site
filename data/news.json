@@ -1,22 +1,30 @@
 {
-  "updated": "2026-06-14T09:55:15.649792+00:00",
+  "updated": "2026-06-14T12:14:04.821995+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW star returns from injury, makes surprise appearance at NJPW Dominion",
+      "p": "An AEW star returned from injury at NJPW Dominion and made it clear what he wanted next. Gabe Kidd returned from injury on Sunday, attacking Shota Umino after he won the IWGP Global title in a...",
+      "link": "https://www.f4wonline.com/news/new-japan/aew-star-returns-from-injury-makes-surprise-appearance-at-njpw-dominion/",
+      "t": "1h",
+      "dt": "2026-06-14T10:16:21+00:00"
+    },
+    {
       "src": "POST Wrestling",
       "h": "Shota Umino pins Andrade El Idolo, wins three-way for IWGP Global Heavyweight Title at NJPW Dominion 6.14",
       "p": "Shota Umino's post-match celebration was short-lived, as AEW's Gabe Kidd attacked him after the match. The post Shota Umino pins Andrade El Idolo, wins three-way for IWGP Global Heavyweight Title...",
       "link": "https://www.postwrestling.com/2026/06/14/shota-umino-pins-andrade-el-idolo-wins-three-way-for-iwgp-global-heavyweight-title-at-njpw-dominion-6-14/",
-      "t": "0m",
+      "t": "2h",
       "dt": "2026-06-14T09:54:28+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Gabe Kidd, Konosuke Takeshita among 14 names confirmed for NJPW G1 Climax 36",
       "p": "This year's NJPW G1 Climax tournament will include defending champ Konosuke Takeshita and the returning Gabe Kidd. The post Gabe Kidd, Konosuke Takeshita among 14 names confirmed for NJPW G1...",
       "link": "https://www.postwrestling.com/2026/06/14/gabe-kidd-konosuke-takeshita-among-14-names-confirmed-for-njpw-g1-climax-36/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-14T08:41:07+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Gabe Kidd, Konosuke Takeshita, Callum Newman, More Announced For NJPW G1 Climax 36",
       "p": "The field is set for NJPW G1 Climax 36. New Japan Pro-Wrestling announced the participants for the annual G1 Climax tournament. The tournament will begin on July 11 in Chicago and conclude on...",
       "link": "https://www.fightful.com/wrestling-news/gabe-kidd-konosuke-takeshita-callum-newman-more-announced-for-njpw-g1-climax-36/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-14T08:32:57+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "SANADA Debuts New Look, Loses Return Match At NJPW Dominion 2026",
       "p": "SANADA’s comeback bout. The opening match of New Japan Pro-Wrestling’s Dominion 2026 event saw Konosuke Takeshita defend the NJPW World Television Championship against the returning SANADA. It was...",
       "link": "https://www.fightful.com/wrestling-news/sanada-debuts-new-look-loses-return-match-at-njpw-dominion-2026/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-14T07:37:08+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Konosuke Takeshita retains NJPW World TV title over returning SANADA to open Dominion 6.14",
       "p": "NJPW World Television Champion Konosuke Takeshita needed just eight minutes to beat SANADA, who was wrestling for the first time in months. The post Konosuke Takeshita retains NJPW World TV title...",
       "link": "https://www.postwrestling.com/2026/06/14/konosuke-takeshita-retains-njpw-world-tv-title-over-returning-sanada-to-open-dominion-6-14/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-14T07:30:36+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW COLLISION RESULTS (6/13): Death Riders in a street fight, Omega in action, Persephone vs. Julia Hart and Shida vs. Zayda Steel in qualifying matches, Young Bucks vs. The Dogs",
       "p": "AEW SUMMER BLOCKBUSTER COLLISION REPORT JUNE 13, 2026 (recorded 6/11) CINCINNATI, OHIO AT THE ANDREW J BRADY MUSIC CENTER AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR...",
       "link": "https://www.pwtorch.com/site/2026/06/14/aew-collision-results-6-13-death-riders-in-a-street-fight-omega-in-action-persephone-vs-julia-hart-and-shida-vs-zayda-steel-in-qualifying-matches-young-bucks-vs-the-dogs/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-06-14T05:38:33+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Former WWE & AEW Star Maria Kanellis Discusses Role Of Managers In Modern Wrestling",
       "p": "Former WWE and AEW star Maria Kanellis-Bennett described the diminishing role of managers in modern-day wrestling.",
       "link": "https://www.wrestlinginc.com/2191085/wwe-aew-maria-kanellis-managers-modern-wrestling/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-14T03:59:00+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW Collision 6/13/26 Results: Thekla will defend against Starlight Kid at Forbidden Door, Hikaru Shida and Persephone advance to Survival of the Fittest",
       "p": "Starlight Kid will challenge Thekla for the AEW Women's World Championship at Forbidden Door. The post AEW Collision 6/13/26 Results: Thekla will defend against Starlight Kid at Forbidden Door,...",
       "link": "https://www.postwrestling.com/2026/06/13/aew-collision-6-13-26-results-thekla-will-defend-against-starlight-kid-at-forbidden-door-hikaru-shida-and-persephone-advance-to-survival-of-the-fittest/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-06-14T03:40:43+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW Collision: Summer Blockbuster Review 6/13/26 | COLLISION COURSE",
       "p": "Kate from Montreal & Jey Lacey review AEW Collision Summer Blockbuster featuring Kenny Omega vs. Bad Dude Tito. The post AEW Collision: Summer Blockbuster Review 6/13/26 | COLLISION COURSE...",
       "link": "https://www.postwrestling.com/2026/06/13/aew-collision-summer-blockbuster-review-6-13-26-collision-course-live-1045pm-et/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-06-14T02:45:57+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW Collision results (6/13): Murphy’s review of Kevin Knight vs. Myron Reed for the TNT Championship, Death Riders vs. STP in a ten-person street fight, Survival of the Fittest qualifiers",
       "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (6/13): Murphy’s review of Kevin Knight vs. Myron Reed for the TNT Championship, Death Riders vs. STP in a ten-person...",
       "link": "https://prowrestling.net/site/2026/06/13/aew-collision-results-6-13-murphys-review-of-kevin-knight-vs-myron-reed-for-the-tnt-championship-death-riders-vs-stp-in-a-ten-person-street-fight-survival-of-the-fittest-qualifiers/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-06-14T02:30:20+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Women’s Championship match confirmed for AEW x NJPW Forbidden Door",
       "p": "A new match is confirmed for Forbidden Door. Thekla will defend the AEW Women’s Championship on June 28 in San Jose against Stardom’s Starlight Kid. This comes after Thekla has spent weeks...",
       "link": "https://www.f4wonline.com/news/aew/womens-championship-match-confirmed-for-aew-x-njpw-forbidden-door/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-06-14T02:05:01+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "First two wrestlers qualify for AEW TBS title Survival of the Fittest match",
-      "p": "The first two Survival of the Fittest competitors are now set. Hikaru Shida and Persephone advanced to the Survival of the Fittest match on Saturday, winning their qualifying matches. They now...",
-      "link": "https://www.f4wonline.com/news/aew/first-two-wrestlers-qualify-for-aew-tbs-title-survival-of-the-fittest-match/",
-      "t": "8h",
-      "dt": "2026-06-14T01:52:12+00:00"
     }
   ]
 }

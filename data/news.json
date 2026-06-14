@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T16:45:31.728910+00:00",
+  "updated": "2026-06-14T18:43:33.463917+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -13,10 +13,42 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Reflects On Winning WWE Intercontinental Title, WCW World Title",
+      "p": "Jeff Jarrett has drawn parallels between winning the WCW World Heavyweight Championship and the WWE Intercontinental title, rating the former more highly.",
+      "link": "https://www.wrestlinginc.com/2192085/aew-jeff-jarrett-wwe-intercontinental-title-wcw-world-championship/",
+      "t": "1h",
+      "dt": "2026-06-14T17:30:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "NJPW “Dominion” results (6/14): Vetter’s review of Callum Newman vs. Yota Tsuji for the IWGP Hvt. Championship, Konosuke Takeshita vs. Sanada for the NJPW TV Title, Mistico vs. El Desperado",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “Dominion” results (6/14): Vetter’s review of Callum Newman vs. Yota Tsuji for the IWGP Hvt. Championship, Konosuke Takeshita vs....",
+      "link": "https://prowrestling.net/site/2026/06/14/njpw-dominion-results-6-14-vetters-review-of-callum-newman-vs-yota-tsuji-for-the-iwgp-hvt-championship-konosuke-takeshita-vs-sanada-for-the-njpw-tv-title-mistico-vs-el-desperado/",
+      "t": "1h",
+      "dt": "2026-06-14T17:23:03+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "06/14 Pruett’s AEW Collision audio review: Kevin Knight vs. Myron Reed for the TNT Championship, Death Riders vs. STP in a ten-person street fight, Survival of the Fittest qualifiers",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 06/14 Pruett’s AEW Collision audio review: Kevin Knight vs. Myron Reed for the TNT Championship, Death Riders vs. STP in a ten-person street...",
+      "link": "https://prowrestling.net/site/2026/06/14/06-14-pruetts-aew-collision-audio-review-kevin-knight-vs-myron-reed-for-the-tnt-championship-death-riders-vs-stp-in-a-ten-person-street-fight-survival-of-the-fittest-qualifiers/",
+      "t": "1h",
+      "dt": "2026-06-14T17:08:05+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Konosuke Takeshita Retains TV Title At NJPW Dominion",
+      "p": "Konosuke Takeshita remains a double champion as he retained his NJPW World Television Title at NJPW Dominion 2026.",
+      "link": "https://www.wrestlinginc.com/2193882/aew-konosuke-takeshita-retains-tv-title-njpw-dominion/",
+      "t": "1h",
+      "dt": "2026-06-14T17:01:27+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "Hikaru Shida And Persephone Qualify For AEW Survival Of The Fittest Match",
       "p": "Hikaru Shida and Persephone punched their tickets to the Survival of the Fittest match on July 1 with wins on \"AEW Collision\"",
       "link": "https://www.wrestlinginc.com/2193873/hikaru-shida-persephone-qualify-aew-survival-fittest-match/",
-      "t": "9m",
+      "t": "2h",
       "dt": "2026-06-14T16:35:40+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW's Andrade Loses Global Title At NJPW Dominion",
       "p": "Andrade El Idolo will return to AEW beltless as he lost his IWGP Global Heavyweight Title at NJPW Dominion 2026.",
       "link": "https://www.wrestlinginc.com/2193868/aew-andrade-loses-title-njpw-dominion/",
-      "t": "42m",
+      "t": "2h",
       "dt": "2026-06-14T16:03:03+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "NJPW Dominion 2026 title change statistics",
       "p": "Five title changes took place at New Japan Pro Wrestling Dominion 2026 in Osaka-Jo Hall on Sunday. The only wrestler on the show to successfully defend his title was Konosuke Takeshita, who...",
       "link": "https://www.f4wonline.com/news/new-japan/njpw-dominion-2026-title-change-statistics/",
-      "t": "48m",
+      "t": "2h",
       "dt": "2026-06-14T15:57:02+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Kevin Knight Escapes AEW Collision With TNT Title",
       "p": "Kevin Knight is still your AEW TNT Champion following his successful title defense against Myron Reed on \"AEW Collision.\"",
       "link": "https://www.wrestlinginc.com/2193836/kevin-knight-escapes-aew-collision-tnt-title/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-14T14:58:14+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Danhausen and the New York Knicks show AEW didn’t capitalize on what they had | Opinion",
       "p": "With the New York Knicks now NBA champions, WWE and Danhausen have an opportunity to make a lot of money. The Knicks/Danhausen merchandise is already available, and Danhausen has already been...",
       "link": "https://www.f4wonline.com/news/wwe/danhausen-and-the-new-york-knicks-show-aew-didnt-capitalise-on-what-they-had-opinion/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-14T14:28:56+00:00"
     },
     {
@@ -56,31 +88,15 @@
       "h": "Kay Lee Ray (WWE's Alba Fyre) Names AEW Stars She Hopes To Face",
       "p": "With a sea of potential new opponents available to her, Kay Lee Ray eyes dream matches with some All Elite Wrestling stars.",
       "link": "https://www.wrestlinginc.com/2193824/wwe-aew-kay-lee-ray-alba-fyre-kris-statlander-mercedes-mone-hopes-face/",
-      "t": "2h",
-      "dt": "2026-06-14T14:20:30+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Former WWE Producer Road Dogg Explains How AEW's Existence Affects Contract Talks",
-      "p": "Former WWE producer Road Dogg explains how he feels AEW's existence has affected both contract talks, and creative ideas, for wrestlers in WWE",
-      "link": "https://www.wrestlinginc.com/2191432/wwe-aew-road-dogg-producer-existence-contract-talks/",
-      "t": "3h",
-      "dt": "2026-06-14T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Star Orange Cassidy Believes This 2020 Pay-Per-View Match Will Define His Career",
-      "p": "Orange Cassidy has opened up about an AEW match that he believes will define his career long after it ends.",
-      "link": "https://www.wrestlinginc.com/2191111/aew-revolution-2020-orange-cassidy-pac-match-define-career/",
       "t": "4h",
-      "dt": "2026-06-14T12:30:00+00:00"
+      "dt": "2026-06-14T14:20:30+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW star returns from injury, makes surprise appearance at NJPW Dominion",
       "p": "An AEW star returned from injury at NJPW Dominion and made it clear what he wanted next. Gabe Kidd returned from injury on Sunday, attacking Shota Umino after he won the IWGP Global title in a...",
       "link": "https://www.f4wonline.com/news/new-japan/aew-star-returns-from-injury-makes-surprise-appearance-at-njpw-dominion/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-06-14T10:16:21+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Shota Umino pins Andrade El Idolo, wins three-way for IWGP Global Heavyweight Title at NJPW Dominion 6.14",
       "p": "Shota Umino's post-match celebration was short-lived, as AEW's Gabe Kidd attacked him after the match. The post Shota Umino pins Andrade El Idolo, wins three-way for IWGP Global Heavyweight Title...",
       "link": "https://www.postwrestling.com/2026/06/14/shota-umino-pins-andrade-el-idolo-wins-three-way-for-iwgp-global-heavyweight-title-at-njpw-dominion-6-14/",
-      "t": "6h",
-      "dt": "2026-06-14T09:54:28+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Gabe Kidd, Konosuke Takeshita among 14 names confirmed for NJPW G1 Climax 36",
-      "p": "This year's NJPW G1 Climax tournament will include defending champ Konosuke Takeshita and the returning Gabe Kidd. The post Gabe Kidd, Konosuke Takeshita among 14 names confirmed for NJPW G1...",
-      "link": "https://www.postwrestling.com/2026/06/14/gabe-kidd-konosuke-takeshita-among-14-names-confirmed-for-njpw-g1-climax-36/",
       "t": "8h",
-      "dt": "2026-06-14T08:41:07+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Konosuke Takeshita retains NJPW World TV title over returning SANADA to open Dominion 6.14",
-      "p": "NJPW World Television Champion Konosuke Takeshita needed just eight minutes to beat SANADA, who was wrestling for the first time in months. The post Konosuke Takeshita retains NJPW World TV title...",
-      "link": "https://www.postwrestling.com/2026/06/14/konosuke-takeshita-retains-njpw-world-tv-title-over-returning-sanada-to-open-dominion-6-14/",
-      "t": "9h",
-      "dt": "2026-06-14T07:30:36+00:00"
+      "dt": "2026-06-14T09:54:28+00:00"
     }
   ]
 }

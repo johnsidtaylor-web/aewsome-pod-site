@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-13T22:17:49.739106+00:00",
+  "updated": "2026-06-14T00:19:57.426547+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (1 AEW items)",
+    "Wrestling Observer": "ok (2 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "AEW Collision Summer Blockbuster Results (6/13/2026): Kenny Omega vs. Bad Dude Tito, Death Riders, Athena, Young Bucks, More",
+      "p": "Results for the June 13, 2026, edition of AEW Collision from the Andrew J Brady Music Center in Cincinnati, Ohio. On June 13, 2026, All Elite Wrestling hosted a new episode of Collision Summer...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-summer-blockbuster-results-6-13-2026-kenny-omega-vs-bad-dude-tito-death-riders-athena-young-bucks-more/",
+      "t": "49m",
+      "dt": "2026-06-13T23:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision: Summer Blockbuster 2026 live results: Kenny Omega vs. Bad Dude Tito",
+      "p": "AEW Collision: Summer Blockbuster 2026 is tonight. The show was taped on Thursday at the Andrew J. Brady Music Center in Cincinnati, Ohio. Here is what is advertised for the show: Kenny Omega will...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-summer-blockbuster-2026-live-results-kenny-omega-vs-bad-dude-tito/",
+      "t": "1h",
+      "dt": "2026-06-13T23:05:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Results 6/13 - Cincinnati Street Fight, Young Bucks Vs. The Dogs",
+      "p": "\"AEW Collision: Summer Blockbuster\" will last 2.5 hours. There will be four women's matches, including two women's Survival of the Fittest qualifying matches.",
+      "link": "https://www.wrestlinginc.com/2193659/aew-collision-june-13-2026-results/",
+      "t": "1h",
+      "dt": "2026-06-13T23:00:00+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "FREE PODCAST 6/13 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner discuss setup for key Forbidden Door match-ups, Ospreay vs. Strickland set for Owen Cup final, Darby Allin returns (100 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review last Wednesday’s Dynamite from Cincinnati, Ohio. They review Swerve...",
       "link": "https://www.pwtorch.com/site/2026/06/13/free-podcast-6-13-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-discuss-setup-for-key-forbidden-door-match-ups-ospreay-vs-strickland-set-for-owen-cup-final-darb/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-13T20:32:59+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "AEW's Christopher Daniels Reflects On Last Match, Life After Wrestling",
       "p": "Christopher Daniels has opened up about how proud he is of his retirement match against Hangman Page in AEW.",
       "link": "https://www.wrestlinginc.com/2191040/aew-christopher-daniels-reflects-last-match-life-wrestling/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-13T20:00:00+00:00"
     },
     {
@@ -32,23 +56,15 @@
       "h": "AEW's Orange Cassidy On Friendship With The Rizzler: 'Him And I Are Boys'",
       "p": "Orange Cassidy has recalled The Rizzler showing up to an AEW show dressed as the wrestler, and Cassidy believes the social media figure pulled off the look.",
       "link": "https://www.wrestlinginc.com/2190765/aew-orange-cassidy-rizzler-friendship-boys/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-13T18:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Sareee Discusses Not Being Cleared For AEW Dynamite, Maya World Taking Her Place",
-      "p": "Sareee was scheduled to compete at AEW Dynamite Summer Blockbuster, but was not cleared due to a neck injury. The injury was known ahead of time as she’s been out of the ring since May and it was...",
-      "link": "https://www.fightful.com/wrestling-news/sareee-discusses-not-being-cleared-for-aew-dynamite-maya-world-taking-her-place/",
-      "t": "4h",
-      "dt": "2026-06-13T18:13:21+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Bully Ray Is 'Past The Point' Of Trying To Understand Creative Direction Of AEW Group",
       "p": "Hall of Famer Bully Ray is tired of trying to guess where this specific AEW faction is going creatively.",
       "link": "https://www.wrestlinginc.com/2193755/aew-bully-ray-death-riders-past-point-trying-understand-creative-direction/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-06-13T18:06:39+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "TNA's Nic Nemeth Would Have Loved A Different Result In This AEW Dynamite Match",
       "p": "After this week's content, Nic Nemeth explains which \"AEW Dynamite\" match should have had a different turn out.",
       "link": "https://www.wrestlinginc.com/2193722/tna-nic-nemeth-aew-dynamite-jon-moxley-shane-taylor-different-result/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-06-13T16:38:11+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Injury update on AEW’s Private Party",
       "p": "An update is available on Private Party’s Isiah Kassidy. Private Party has not wrestled in AEW since the March 28 edition of AEW Collision, where they lost to the team of Daniel Garcia and Jon...",
       "link": "https://www.f4wonline.com/news/aew/injury-update-on-aews-private-party/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-06-13T14:53:47+00:00"
     },
     {
@@ -72,23 +88,15 @@
       "h": "AEW Collision lineup: Tonight’s Summer Blockbuster edition",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Tonight’s Summer Blockbuster edition appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/13/aew-collision-lineup-tonights-summer-blockbuster-edition/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-06-13T11:00:39+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "US Justice Department Approves Paramount Skydance Takeover Of AEW Parent Company WBD",
-      "p": "The Paramount Skydance-Warner Brothers Discovery merger overcame a major hurdle as the US Justice Department have approved the deal.",
-      "link": "https://www.wrestlinginc.com/2193652/aew-warner-bros-discovery-us-justice-department-approves-paramount-skydance-takeover/",
-      "t": "18h",
-      "dt": "2026-06-13T03:38:58+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "06/12 Dot Net Weekly audio show: Barnett and Powell on the Janel Grant lawsuit moving to arbitration, CM Punk, WWE MITB date change, TNA departures, AEW Dynamite",
       "p": "By Jake Barnett (@jakebarnett) and... The post 06/12 Dot Net Weekly audio show: Barnett and Powell on the Janel Grant lawsuit moving to arbitration, CM Punk, WWE MITB date change, TNA departures,...",
       "link": "https://prowrestling.net/site/2026/06/12/06-12-dot-net-weekly-audio-show-barnett-and-powell-on-the-janel-grant-lawsuit-moving-to-arbitration-cm-punk-wwe-mitb-date-change-tna-departures-aew-dynamite/",
-      "t": "23h",
+      "t": "1d",
       "dt": "2026-06-12T22:44:54+00:00"
     },
     {
@@ -98,14 +106,6 @@
       "link": "https://www.pwtorch.com/site/2026/06/12/aew-dynamite-results-6-10-adams-alt-perspective-on-jericho-ciama-shane-taylor-promotions-overlapping-storylines-swerve-vs-brody-messiness/",
       "t": "1d",
       "dt": "2026-06-12T16:37:43+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Sheriff’s Department releases details on death of Jatwane Anton Wilson, brother of AEW’s Maya World",
-      "p": "Jatwane Anton Wilson, the brother of AEW performer Maya World, was killed after being struck by a vehicle this past week. The post Sheriff’s Department releases details on death of Jatwane Anton...",
-      "link": "https://www.postwrestling.com/2026/06/12/sheriffs-department-releases-details-on-death-of-jatwane-anton-wilson-brother-of-aews-maya-world/",
-      "t": "1d",
-      "dt": "2026-06-12T16:30:13+00:00"
     }
   ]
 }

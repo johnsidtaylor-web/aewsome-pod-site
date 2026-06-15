@@ -1,22 +1,30 @@
 {
-  "updated": "2026-06-15T18:46:26.849874+00:00",
+  "updated": "2026-06-15T21:48:33.216217+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW to partner with ‘Last Match’ wrestling-themed musical theatre experience",
+      "p": "While AEW is used to putting on performances, they are heading into a different arena for their latest venture. On Monday, the promotion announced they are partnering with ‘The Last Match: A...",
+      "link": "https://www.f4wonline.com/news/aew/aew-to-partner-with-last-match-wrestling-themed-musical-theatre-experience/",
+      "t": "2h",
+      "dt": "2026-06-15T19:46:56+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Dave Meltzer Doesn't Believe CM Punk Is Leaving WWE For AEW Any Time Soon",
       "p": "Dave Meltzer shuts down rumors about CM Punk returning to AEW following online speculation that he's unhappy with WWE.",
       "link": "https://www.wrestlinginc.com/2194607/wwe-aew-dave-meltzer-cm-punk-doesnt-believe-leaving/",
-      "t": "15m",
+      "t": "3h",
       "dt": "2026-06-15T18:31:20+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW Stars Will Ospreay & Alex Windsor Get Married, Share Wedding Photo",
       "p": "AEW stars Will Ospreay and Alex Windsor confirmed that they are officially married after Ospreay posted a wedding photo of the couple on Facebook",
       "link": "https://www.wrestlinginc.com/2194572/aew-will-ospreay-alex-windsor-married-wedding-photo/",
-      "t": "33m",
+      "t": "3h",
       "dt": "2026-06-15T18:12:40+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Speedball Mike Bailey: I Am Having A Rough Time, A Bad Few Weeks And I Need It To Get Better",
       "p": "Speedball Mike Bailey speaks on how things are going for him since Kevin Knight and he split as a tag team. Since AEW Double Or Nothing, Speedball and Kevin Knight have been on the outs, with...",
       "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-i-am-having-a-rough-time-a-bad-few-weeks-and-i-need-it-to-get-better/",
-      "t": "54m",
+      "t": "3h",
       "dt": "2026-06-15T17:51:34+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "AEW COLLISION HITS & MISSES (6/14): Praise for a complete show, Omega calls out MJF, Knight retains the TNT Title against Myron Reed, Death Riders survive a chaotic street fight, Maya World feels like a future star",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS THE WOMEN...",
       "link": "https://www.pwtorch.com/site/2026/06/15/aew-collision-hits-misses-6-14-praise-for-a-complete-show-omega-calls-out-mjf-knight-retains-the-tnt-title-against-myron-reed-death-riders-survive-a-chaotic-street-fight-maya-world-feels-like/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-15T17:36:31+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW star Darby Allin set for no DQ indie match",
       "p": "Former AEW World Champion Darby Allin is heading to 1FW in Georgia next month for a no DQ match. One Fall Wrestling has announced that Allin will battle his protege Kiran Grey at the indie...",
       "link": "https://www.f4wonline.com/news/aew/aew-star-darby-allin-set-for-no-dq-indie-match/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-15T17:14:47+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW Announces Stage Musical Titled The Last Match",
       "p": "AEW is getting into the musical theater business, announcing that they will be presenting the upcoming London West End production \"The Last Match\"",
       "link": "https://www.wrestlinginc.com/2194435/aew-last-match-stage-musical-pro-wrestling-rock-experience/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-15T17:02:09+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "AEW stars Will Ospreay and Alex Windsor are married",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW stars Will Ospreay and Alex Windsor are married appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/15/aew-stars-will-ospreay-and-alex-windsor-are-married/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-15T16:48:52+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW announces partnership with “The Last Match: A Pro-Wrestling Rock Experience”",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW announces partnership with “The Last Match: A Pro-Wrestling Rock Experience” appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/15/aew-announces-partnership-with-the-last-match-a-pro-wrestling-rock-experience/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-15T16:16:41+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW stars Will Ospreay and Alex Windsor are officially married",
       "p": "AEW stars Will Ospreay and Alex Windsor are officially married. Ospreay shared the news on Facebook with a wedding photograph of himself and Alex Windsor along with the caption – ‘Hey, we did it’....",
       "link": "https://www.f4wonline.com/news/aew-stars-will-ospreay-and-alex-windsor-are-officially-married/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-15T15:58:52+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "Will Ospreay Calls Out Yota Tsuji For Suggesting AEW X NJPW Forbidden Door Boycott",
       "p": "AEW star Will Ospreay calls out IWGP Heavyweight Champion Yota Tsuji after the latter suggested that NJPW stars boycott AEW x NJPW Forbidden Door",
       "link": "https://www.wrestlinginc.com/2194299/aew-njpw-forbidden-door-2026-will-ospreay-yota-tsuji-calls-out-boycott/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-06-15T15:23:59+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Backstage Report On Jack Perry's AEW Contract Status",
       "p": "There's been an update regarding Jack Perry's future with AEW heading into the summer.",
       "link": "https://www.wrestlinginc.com/2194223/aew-jack-perry-contract-status-negotiating/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-06-15T14:46:25+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Owen Hart Cup tournament semifinal match set for Saturday",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Owen Hart Cup tournament semifinal match set for Saturday appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/15/aew-collision-lineup-owen-hart-cup-tournament-semifinal-match-set-for-saturday/",
-      "t": "4h",
-      "dt": "2026-06-15T14:00:14+00:00"
     }
   ]
 }

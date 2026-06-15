@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-15T06:37:42.566267+00:00",
+  "updated": "2026-06-15T13:26:25.470830+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (0 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their teams for the cage match at Forbidden Door",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their...",
+      "link": "https://prowrestling.net/site/2026/06/15/aew-dynamite-preview-owen-hart-cup-tournament-semifinal-match-will-ospreay-and-swerve-strickland-meet-mjf-and-mark-briscoe-announce-their-teams-for-the-cage-match-at-forbidden-door/",
+      "t": "10m",
+      "dt": "2026-06-15T13:15:49+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Yota Tsuji: I Like Tony Khan, I Think There Are At Least Some Things We Can Learn From AEW In Our New System",
+      "p": "Yota Tsuji talks Tony Khan, admitting that he thinks there are some things that NJPW can learn from AEW despite tension with the company. Yota has been no stranger to talking down on the AEW x...",
+      "link": "https://www.fightful.com/wrestling-news/yota-tsuji-i-like-tony-khan-i-think-there-are-at-least-some-things-we-can-learn-from-aew-in-our-new-system/",
+      "t": "51m",
+      "dt": "2026-06-15T12:34:39+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Yota Tsuji Talks Potentially Not Defending The IWGP Heavyweight Title At AEW X NJPW Forbidden Door: I Have To Protect Its Value",
+      "p": "Yota Tsuji discusses potentially not defending the IWGP Heavyweight title at AEW x NJPW Forbidden Door, wanting to protect the title. Since the inception of the AEW x NJPW Forbidden Door event,...",
+      "link": "https://www.fightful.com/wrestling-news/yota-tsuji-talks-potentially-not-defending-the-iwgp-heavyweight-title-at-aew-x-njpw-forbidden-door-i-have-to-protect-its-value/",
+      "t": "1h",
+      "dt": "2026-06-15T12:11:41+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "FREE PODCAST 6/14 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller with AEW Double or Nothing On-Site Correspondent discussing experience for first full live crowd since pandemic (174 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (6-14-2021), due to AEW Dynamite being moved to late Friday night again that week, we presented...",
       "link": "https://www.pwtorch.com/site/2026/06/14/free-podcast-6-14-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-with-aew-double-or-nothing-on-site-correspondent-discussing-experience-for-first-full-live-crowd-since-pandemic-17/",
-      "t": "2h",
+      "t": "9h",
       "dt": "2026-06-15T04:00:29+00:00"
     },
     {
@@ -24,39 +48,23 @@
       "h": "FREE PODCAST 6/14 – PWTorch Dailycast – Best of PWTorch Livecast: Jay Lethal joins Ryan and Tyler to talk about 18 months of being a pro wrestler during the pandemic, being ROH centerpiece, more (126 min.)",
       "p": "SHOW SUMMARY: Today we jump back five years to the June 17, 2021 episode of Podcast of Honor, Jay Lethal joined the show to discuss his time in pro wrestling over the last 18 months, [...]",
       "link": "https://www.pwtorch.com/site/2026/06/14/free-podcast-6-14-pwtorch-dailycast-best-of-pwtorch-livecast-jay-lethal-joins-ryan-and-tyler-to-talk-about-18-months-of-being-a-pro-wrestler-during-the-pandemic-being-roh-centerp/",
-      "t": "3h",
+      "t": "10h",
       "dt": "2026-06-15T02:54:13+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "The latest on Jack Perry’s AEW contract status | Exclusive",
-      "p": "Bryan Alvarez has an update on Jack Perry’s contract status for subscribers. More information can be found here.",
-      "link": "https://www.f4wonline.com/news/aew/the-latest-on-jack-perrys-aew-contract-status-exclusive/",
-      "t": "7h",
-      "dt": "2026-06-14T22:58:12+00:00"
     },
     {
       "src": "PWTorch",
       "h": "NJPW DOMINION 20 RESULTS (6/14): Wells’s report and analysis on Tsuji vs. Newman, Douki vs. Yoh, Takeshita vs. Sanada, G-1 field partially announced",
       "p": "NJPW DOMINION REPORT JUNE 14, 2026 OSAKA-JO HALL OSAKA, JAPAN AIRED LIVE ON NJPW WORLD Walker Stewart and Chris Charlton were on the call. (1) KONOSUKE TAKESHITA (c) vs. SANADA – Television...",
       "link": "https://www.pwtorch.com/site/2026/06/14/njpw-dominion-20-results-6-14-wellss-report-and-analysis-on-tsuji-vs-newman-douki-vs-yoh-takeshita-vs-sanada-g-1-field-partially-announced/",
-      "t": "10h",
+      "t": "16h",
       "dt": "2026-06-14T20:29:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Another independent promotion joins MyAEW",
-      "p": "Another independent promotion has joined MyAEW. C*4 (Capital City Championship Combat) out of Ottawa, Ontario, Canada has been added to AEW’s new streaming service, joining Limitless, PRODUCE, and...",
-      "link": "https://www.f4wonline.com/news/aew/another-independent-promotion-joins-myaew/",
-      "t": "11h",
-      "dt": "2026-06-14T19:28:35+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Canada’s C*4 Wrestling joins MyAEW, free matches uploaded to the platform",
       "p": "The Canadian-based C*4 Wrestling is the latest addition to the MyAEW streaming platform. The post Canada’s C*4 Wrestling joins MyAEW, free matches uploaded to the platform appeared first on POST...",
       "link": "https://www.postwrestling.com/2026/06/14/canadas-c4-wrestling-joins-myaew-free-matches-uploaded-to-the-platform/",
-      "t": "11h",
+      "t": "17h",
       "dt": "2026-06-14T19:28:25+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "AEW's Jeff Jarrett Reflects On Winning WWE Intercontinental Title, WCW World Title",
       "p": "Jeff Jarrett has drawn parallels between winning the WCW World Heavyweight Championship and the WWE Intercontinental title, rating the former more highly.",
       "link": "https://www.wrestlinginc.com/2192085/aew-jeff-jarrett-wwe-intercontinental-title-wcw-world-championship/",
-      "t": "13h",
+      "t": "19h",
       "dt": "2026-06-14T17:30:00+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "NJPW “Dominion” results (6/14): Vetter’s review of Callum Newman vs. Yota Tsuji for the IWGP Hvt. Championship, Konosuke Takeshita vs. Sanada for the NJPW TV Title, Mistico vs. El Desperado",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “Dominion” results (6/14): Vetter’s review of Callum Newman vs. Yota Tsuji for the IWGP Hvt. Championship, Konosuke Takeshita vs....",
       "link": "https://prowrestling.net/site/2026/06/14/njpw-dominion-results-6-14-vetters-review-of-callum-newman-vs-yota-tsuji-for-the-iwgp-hvt-championship-konosuke-takeshita-vs-sanada-for-the-njpw-tv-title-mistico-vs-el-desperado/",
-      "t": "13h",
+      "t": "20h",
       "dt": "2026-06-14T17:23:03+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "06/14 Pruett’s AEW Collision audio review: Kevin Knight vs. Myron Reed for the TNT Championship, Death Riders vs. STP in a ten-person street fight, Survival of the Fittest qualifiers",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 06/14 Pruett’s AEW Collision audio review: Kevin Knight vs. Myron Reed for the TNT Championship, Death Riders vs. STP in a ten-person street...",
       "link": "https://prowrestling.net/site/2026/06/14/06-14-pruetts-aew-collision-audio-review-kevin-knight-vs-myron-reed-for-the-tnt-championship-death-riders-vs-stp-in-a-ten-person-street-fight-survival-of-the-fittest-qualifiers/",
-      "t": "13h",
+      "t": "20h",
       "dt": "2026-06-14T17:08:05+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW's Konosuke Takeshita Retains TV Title At NJPW Dominion",
       "p": "Konosuke Takeshita remains a double champion as he retained his NJPW World Television Title at NJPW Dominion 2026.",
       "link": "https://www.wrestlinginc.com/2193882/aew-konosuke-takeshita-retains-tv-title-njpw-dominion/",
-      "t": "13h",
+      "t": "20h",
       "dt": "2026-06-14T17:01:27+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Hikaru Shida And Persephone Qualify For AEW Survival Of The Fittest Match",
       "p": "Hikaru Shida and Persephone punched their tickets to the Survival of the Fittest match on July 1 with wins on \"AEW Collision\"",
       "link": "https://www.wrestlinginc.com/2193873/hikaru-shida-persephone-qualify-aew-survival-fittest-match/",
-      "t": "14h",
+      "t": "20h",
       "dt": "2026-06-14T16:35:40+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Andrade Loses Global Title At NJPW Dominion",
-      "p": "Andrade El Idolo will return to AEW beltless as he lost his IWGP Global Heavyweight Title at NJPW Dominion 2026.",
-      "link": "https://www.wrestlinginc.com/2193868/aew-andrade-loses-title-njpw-dominion/",
-      "t": "14h",
-      "dt": "2026-06-14T16:03:03+00:00"
     }
   ]
 }

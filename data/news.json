@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-16T21:18:25.193961+00:00",
+  "updated": "2026-06-16T23:46:22.326070+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (1 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (1 AEW items)",
@@ -12,11 +12,43 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Will Ospreay Says There Is A Level Of Pride In Holding IWGP Heavyweight Title, Doesn’t Think NJPW Capitalize On Gabe Kidd",
+      "p": "Will Ospreay continues to weigh in on the current state of New Japan Pro-Wrestling. On Monday morning, Ospreay responded to comments made by new IWGP Heavyweight Champion Yota Tusji, who suggested...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-there-is-a-level-of-pride-in-holding-iwgp-heavyweight-title-doesnt-think-njpw-capitalize-on-gabe-kidd/",
+      "t": "49m",
+      "dt": "2026-06-16T22:56:47+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Bully Ray Compares AEW 'Missing' On WWE's Danhausen To Top Attitude Era Star In WCW",
+      "p": "Bully Ray questioned if AEW \"missing the boat\" on Danhausen is as big as WCW fumbling one major Attitude Era star.",
+      "link": "https://www.wrestlinginc.com/2195901/bully-ray-wwe-danhausen-aew-wcw-steve-austin-attitude-era/",
+      "t": "1h",
+      "dt": "2026-06-16T22:13:51+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International Title",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International...",
+      "link": "https://prowrestling.net/site/2026/06/16/vetters-independent-wrestling-roundup-aew-world-champion-mjfs-open-challenge-mustafa-ali-vs-dylan-donovan-for-the-tna-international-title/",
+      "t": "1h",
+      "dt": "2026-06-16T21:54:48+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kris Statlander Got Back Scars From Blood & Guts Nail Bed Spot Tattooed In Red",
+      "p": "Kris Statlander is whimsy. Back in November 2025, Statlander competed in the first Women’s Blood & Guts match. Despite ending up on the losing team, the former TBS Champion chose to honor the...",
+      "link": "https://www.fightful.com/wrestling-news/kris-statlander-nail-bed-311222/",
+      "t": "2h",
+      "dt": "2026-06-16T21:29:55+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW Dynamite Viewership & Ratings Report: 6/10/2026",
       "p": "\"AEW Dynamite\" records one of its lowest viewership figures of the year this past Wednesday.",
       "link": "https://www.wrestlinginc.com/2195489/aew-dynamite-viewership-ratings-june-10-2026/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-06-16T16:45:55+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Will Ospreay responds to debate on NJPW direction & AEW partnership",
       "p": "AEW star Will Ospreay weighed in on the social media debate surrounding NJPW’s talent development, missing opportunities amid changing times. Ospreay responded to Josh from We Work Stiff’s X post...",
       "link": "https://www.f4wonline.com/news/will-ospreay-responds-to-debate-on-njpw-direction-not-saying-aew-relationship-is-perfect-there-is-more-we-could-do-as-a-partner/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-06-16T15:06:54+00:00"
     },
     {
@@ -32,23 +64,15 @@
       "h": "Report: Jack Perry's AEW Contract To Expire Imminently, Expected To Re-Sign",
       "p": "A new report provides an update on Jack Perry's AEW contract, which is expected to expire imminently, though it's believed Perry will re-sign with AEW",
       "link": "https://www.wrestlinginc.com/2195273/aew-jack-perry-contract-expire-imminently-expected-re-sign/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-06-16T14:55:53+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "JBL Doesn't Believe WWE Is Underestimating AEW As A Competitor",
-      "p": "WWE Hall of Famer JBL feels that WWE sees AEW as a legitimate threat and pointed to one notable example as evidence to support the claim.",
-      "link": "https://www.wrestlinginc.com/2195031/wwe-aew-jbl-underestimating-competitor-counter-programming/",
-      "t": "6h",
-      "dt": "2026-06-16T14:30:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite rating: How did the Summer Blockbuster fare against Game Four of the NBA Finals?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the Summer Blockbuster fare against Game Four of the NBA Finals? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/15/aew-dynamite-rating-how-did-the-summer-blockbuster-fare-against-game-four-of-the-nba-finals/",
-      "t": "21h",
+      "t": "1d",
       "dt": "2026-06-15T23:20:25+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Darby Allin to wrestle at 1FW’s Summer Stage 2 on July 17",
       "p": "Former AEW World Champion Darby Allin will wrestle his first independent booking of 2026 next month at 1 Fall Wrestling. The post Darby Allin to wrestle at 1FW’s Summer Stage 2 on July 17 appeared...",
       "link": "https://www.postwrestling.com/2026/06/15/darby-allin-to-wrestle-at-1fws-summer-stage-2-on-july-17/",
-      "t": "22h",
+      "t": "1d",
       "dt": "2026-06-15T22:27:32+00:00"
     },
     {
@@ -82,30 +106,6 @@
       "link": "https://prowrestling.net/site/2026/06/15/aew-announces-partnership-with-the-last-match-a-pro-wrestling-rock-experience/",
       "t": "1d",
       "dt": "2026-06-15T16:16:41+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Owen Hart Cup tournament semifinal match set for Saturday",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Owen Hart Cup tournament semifinal match set for Saturday appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/15/aew-collision-lineup-owen-hart-cup-tournament-semifinal-match-set-for-saturday/",
-      "t": "1d",
-      "dt": "2026-06-15T14:00:14+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their teams for the cage match at Forbidden Door",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their...",
-      "link": "https://prowrestling.net/site/2026/06/15/aew-dynamite-preview-owen-hart-cup-tournament-semifinal-match-will-ospreay-and-swerve-strickland-meet-mjf-and-mark-briscoe-announce-their-teams-for-the-cage-match-at-forbidden-door/",
-      "t": "1d",
-      "dt": "2026-06-15T13:15:49+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/14 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller with AEW Double or Nothing On-Site Correspondent discussing experience for first full live crowd since pandemic (174 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (6-14-2021), due to AEW Dynamite being moved to late Friday night again that week, we presented...",
-      "link": "https://www.pwtorch.com/site/2026/06/14/free-podcast-6-14-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-with-aew-double-or-nothing-on-site-correspondent-discussing-experience-for-first-full-live-crowd-since-pandemic-17/",
-      "t": "1d",
-      "dt": "2026-06-15T04:00:29+00:00"
     }
   ]
 }

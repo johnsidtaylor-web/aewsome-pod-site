@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-16T05:30:14.752624+00:00",
+  "updated": "2026-06-16T11:32:53.384728+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (1 AEW items)",
+    "Wrestling Observer": "ok (2 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW Redemption ticket sales update for new Canadian PPV show",
+      "p": "AEW Redemption is set to take place on Sunday, July 26th from the Centre Bell in Montreal, Quebec, Canada. Tickets for Redemption went on sale June 1 and we’ve now got an update in terms of how...",
+      "link": "https://www.f4wonline.com/news/aew/aew-redemption-ticket-sales-update-new-canadian-ppv-show/",
+      "t": "1h",
+      "dt": "2026-06-16T09:37:39+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Forbidden Door 2026 ticket sales compared to last year’s London show",
+      "p": "AEW Forbidden Door 2026 is set to take place on Sunday, June 28th from the SAP Center in San Jose, San Jose, CA. According to the latest report from WrestleTix, 6,411 tickets have been distributed...",
+      "link": "https://www.f4wonline.com/news/aew/aew-forbidden-door-2026-ticket-sales-compared-london-o2-show-2025/",
+      "t": "2h",
+      "dt": "2026-06-16T09:09:49+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW's Dustin Rhodes Offers Injury Return Update, Thoughts On Retirement",
       "p": "Dustin Rhodes is eyeing a return to AEW by the end of the year, but will that return be the last dance for \"The Natural?\"",
       "link": "https://www.wrestlinginc.com/2194998/aew-dustin-rhodes-injury-return-update-retirement/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-06-16T03:32:55+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Hangman Page: Get On Your Knees, Pray To God: The Birds And The Bees",
       "p": "Hangman Page returns to Bluesky. For the first time in two months, Hangman Page made a new post on Bluesky. “look at this happy little fucker. i fenced in the perennials this year and the rabbits...",
       "link": "https://www.fightful.com/wrestling-news/hangman-page-get-on-your-knees-pray-to-god-the-birds-and-the-bees/",
-      "t": "4h",
+      "t": "10h",
       "dt": "2026-06-16T01:13:27+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW Dynamite rating: How did the Summer Blockbuster fare against Game Four of the NBA Finals?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the Summer Blockbuster fare against Game Four of the NBA Finals? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/15/aew-dynamite-rating-how-did-the-summer-blockbuster-fare-against-game-four-of-the-nba-finals/",
-      "t": "6h",
+      "t": "12h",
       "dt": "2026-06-15T23:20:25+00:00"
     },
     {
@@ -40,23 +56,15 @@
       "h": "Darby Allin to wrestle at 1FW’s Summer Stage 2 on July 17",
       "p": "Former AEW World Champion Darby Allin will wrestle his first independent booking of 2026 next month at 1 Fall Wrestling. The post Darby Allin to wrestle at 1FW’s Summer Stage 2 on July 17 appeared...",
       "link": "https://www.postwrestling.com/2026/06/15/darby-allin-to-wrestle-at-1fws-summer-stage-2-on-july-17/",
-      "t": "7h",
+      "t": "13h",
       "dt": "2026-06-15T22:27:32+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW to partner with ‘Last Match’ wrestling-themed musical theatre experience",
-      "p": "While AEW is used to putting on performances, they are heading into a different arena for their latest venture. On Monday, the promotion announced they are partnering with ‘The Last Match: A...",
-      "link": "https://www.f4wonline.com/news/aew/aew-to-partner-with-last-match-wrestling-themed-musical-theatre-experience/",
-      "t": "9h",
-      "dt": "2026-06-15T19:46:56+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Dave Meltzer Doesn't Believe CM Punk Is Leaving WWE For AEW Any Time Soon",
       "p": "Dave Meltzer shuts down rumors about CM Punk returning to AEW following online speculation that he's unhappy with WWE.",
       "link": "https://www.wrestlinginc.com/2194607/wwe-aew-dave-meltzer-cm-punk-doesnt-believe-leaving/",
-      "t": "10h",
+      "t": "17h",
       "dt": "2026-06-15T18:31:20+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "AEW Stars Will Ospreay & Alex Windsor Get Married, Share Wedding Photo",
       "p": "AEW stars Will Ospreay and Alex Windsor confirmed that they are officially married after Ospreay posted a wedding photo of the couple on Facebook",
       "link": "https://www.wrestlinginc.com/2194572/aew-will-ospreay-alex-windsor-married-wedding-photo/",
-      "t": "11h",
+      "t": "17h",
       "dt": "2026-06-15T18:12:40+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW COLLISION HITS & MISSES (6/14): Praise for a complete show, Omega calls out MJF, Knight retains the TNT Title against Myron Reed, Death Riders survive a chaotic street fight, Maya World feels like a future star",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS THE WOMEN...",
       "link": "https://www.pwtorch.com/site/2026/06/15/aew-collision-hits-misses-6-14-praise-for-a-complete-show-omega-calls-out-mjf-knight-retains-the-tnt-title-against-myron-reed-death-riders-survive-a-chaotic-street-fight-maya-world-feels-like/",
-      "t": "11h",
+      "t": "17h",
       "dt": "2026-06-15T17:36:31+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW stars Will Ospreay and Alex Windsor are married",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW stars Will Ospreay and Alex Windsor are married appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/15/aew-stars-will-ospreay-and-alex-windsor-are-married/",
-      "t": "12h",
+      "t": "18h",
       "dt": "2026-06-15T16:48:52+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW announces partnership with “The Last Match: A Pro-Wrestling Rock Experience”",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW announces partnership with “The Last Match: A Pro-Wrestling Rock Experience” appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/15/aew-announces-partnership-with-the-last-match-a-pro-wrestling-rock-experience/",
-      "t": "13h",
+      "t": "19h",
       "dt": "2026-06-15T16:16:41+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW Collision lineup: Owen Hart Cup tournament semifinal match set for Saturday",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Owen Hart Cup tournament semifinal match set for Saturday appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/15/aew-collision-lineup-owen-hart-cup-tournament-semifinal-match-set-for-saturday/",
-      "t": "15h",
+      "t": "21h",
       "dt": "2026-06-15T14:00:14+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their teams for the cage match at Forbidden Door",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their...",
-      "link": "https://prowrestling.net/site/2026/06/15/aew-dynamite-preview-owen-hart-cup-tournament-semifinal-match-will-ospreay-and-swerve-strickland-meet-mjf-and-mark-briscoe-announce-their-teams-for-the-cage-match-at-forbidden-door/",
-      "t": "16h",
-      "dt": "2026-06-15T13:15:49+00:00"
     }
   ]
 }

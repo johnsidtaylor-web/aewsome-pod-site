@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-17T05:14:18.143337+00:00",
+  "updated": "2026-06-17T10:04:22.992609+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Start Time Tonight (06-17-2026)",
+      "p": "AEW Dynamite is back tonight (Wednesday, June 17, 2026) and the broadcasts starts at 8:00 p.m. ET on TBS, with a simulcast streaming on HBO Max. The show runs its usual two-hour block, wrapping at...",
+      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-06-17-2026/",
+      "t": "2h",
+      "dt": "2026-06-17T07:49:27+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Preview: Confirmed matches and segments (06-17-2026)",
+      "p": "AEW Dynamite takes place tonight from the Smart Financial Centre in Sugar Land, Texas and several matches and segments have already been confirmed for the broadcast. Will Ospreay and Swerve...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-06-17-2026/",
+      "t": "2h",
+      "dt": "2026-06-17T07:44:55+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "ROH TV Results (6/16): Marina Shafir, AR Fox, Katsuyori Shibata Compete",
       "p": "Ring of Honor aired the latest episode of ROH TV on June 16. The event aired on YouTube. Full results are below. ROH TV Results (6/16) ROH Women’s World Television Championship: Red Velvet (c)...",
       "link": "https://www.fightful.com/wrestling-news/roh-tv-results-6-16-marina-shafir-ar-fox-katsuyori-shibata-compete/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-06-17T02:41:32+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Kris Statlander got her back scars permanently tattooed",
       "p": "Former AEW Women’s Champion Kris Statlander has her scars permanently tattooed. Last year, in November 2025, Kris Statlander participated in the first-ever Women’s Blood and Guts match. Being on...",
       "link": "https://www.f4wonline.com/news/aew/kris-statlander-got-her-back-scars-permanently-tattooed/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-06-17T02:19:00+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Zack Sabre Jr. announced for RevPro 14 Year Anniversary event",
       "p": "Zack Sabre Jr. is scheduled to appear on the RevPro 14 Year Anniversary event. In an official social media update by Revolution Pro [RevPro], it was announced that Sabre Jr. will return to the...",
       "link": "https://www.f4wonline.com/news/indies/zack-sabre-jr-announced-for-revpro-14-year-anniversary-event/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-06-17T02:08:48+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "AEW Collision (6/13) Viewership Declines Against NBA Finals Game 5",
       "p": "AEW Collision viewership information for June 13. Programming Insider reports that AEW Collision drew 364,000 viewers on TNT on June 13. This number is down from the 496,000 viewers the show drew...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-6-13-viewership-declines-against-nba-finals-game-5/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-06-17T01:09:46+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW Collision rating: Did the Summer Blockbuster theme boost the numbers?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: Did the Summer Blockbuster theme boost the numbers? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/16/aew-collision-rating-did-the-summer-blockbuster-theme-boost-the-numbers/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-17T00:56:13+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Multiple Title Bouts Added To ROH Global Wars Cincinnati",
       "p": "Multiple title matches have been announced for ROH Global Wars Cincinnati. ROH announced that Sammy Guevara & Beast Mortos will defend the ROH Tag Team Titles against Los Villanos. Plus, Konosuke...",
       "link": "https://www.fightful.com/wrestling-news/multiple-title-bouts-added-to-roh-global-wars-cincinnati/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-17T00:44:39+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Bully Ray Compares AEW 'Missing' On WWE's Danhausen To Top Attitude Era Star In WCW",
       "p": "Bully Ray questioned if AEW \"missing the boat\" on Danhausen is as big as WCW fumbling one major Attitude Era star.",
       "link": "https://www.wrestlinginc.com/2195901/bully-ray-wwe-danhausen-aew-wcw-steve-austin-attitude-era/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-06-16T22:13:51+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International Title",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International...",
       "link": "https://prowrestling.net/site/2026/06/16/vetters-independent-wrestling-roundup-aew-world-champion-mjfs-open-challenge-mustafa-ali-vs-dylan-donovan-for-the-tna-international-title/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-06-16T21:54:48+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "AEW Dynamite Viewership & Ratings Report: 6/10/2026",
       "p": "\"AEW Dynamite\" records one of its lowest viewership figures of the year this past Wednesday.",
       "link": "https://www.wrestlinginc.com/2195489/aew-dynamite-viewership-ratings-june-10-2026/",
-      "t": "12h",
+      "t": "17h",
       "dt": "2026-06-16T16:45:55+00:00"
     },
     {
@@ -90,22 +106,6 @@
       "link": "https://prowrestling.net/site/2026/06/15/aew-dynamite-rating-how-did-the-summer-blockbuster-fare-against-game-four-of-the-nba-finals/",
       "t": "1d",
       "dt": "2026-06-15T23:20:25+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Darby Allin to wrestle at 1FW’s Summer Stage 2 on July 17",
-      "p": "Former AEW World Champion Darby Allin will wrestle his first independent booking of 2026 next month at 1 Fall Wrestling. The post Darby Allin to wrestle at 1FW’s Summer Stage 2 on July 17 appeared...",
-      "link": "https://www.postwrestling.com/2026/06/15/darby-allin-to-wrestle-at-1fws-summer-stage-2-on-july-17/",
-      "t": "1d",
-      "dt": "2026-06-15T22:27:32+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (6/14): Praise for a complete show, Omega calls out MJF, Knight retains the TNT Title against Myron Reed, Death Riders survive a chaotic street fight, Maya World feels like a future star",
-      "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS THE WOMEN...",
-      "link": "https://www.pwtorch.com/site/2026/06/15/aew-collision-hits-misses-6-14-praise-for-a-complete-show-omega-calls-out-mjf-knight-retains-the-tnt-title-against-myron-reed-death-riders-survive-a-chaotic-street-fight-maya-world-feels-like/",
-      "t": "1d",
-      "dt": "2026-06-15T17:36:31+00:00"
     }
   ]
 }

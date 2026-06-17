@@ -1,38 +1,62 @@
 {
-  "updated": "2026-06-17T13:59:20.669248+00:00",
+  "updated": "2026-06-17T17:22:02.764699+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "ok (2 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Thunder Rosa Admits That She Sometimes Tries Brand New Things On National TV While In The Ring: I’ve Been Lucky That I Did A Pretty Good Job",
-      "p": "Thunder Rosa speaks about trying brand new things in the ring, sometimes on national television with All Elite Wrestling. Rosa has proven to be a staple of the AEW Women’s Division in recent...",
-      "link": "https://www.fightful.com/wrestling-news/thunder-rosa-admits-that-she-sometimes-tries-brand-new-things-on-national-tv-while-in-the-ring-ive-been-lucky-that-i-did-a-pretty-good-job/",
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (6/17): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, JUNE 17, 2026 Where: SUGAR LAND, TEX. AT SMART FINANCIAL CENTRE How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,921 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/06/17/aew-dynamite-preview-6-17-announced-matches-location-ticket-sales-how-to-watch/",
       "t": "12m",
-      "dt": "2026-06-17T13:46:43+00:00"
+      "dt": "2026-06-17T17:09:10+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Thunder Rosa On What Would Make Women’s Wrestling On A Level Playing Field To Men: People Need To Understand That We Are Able To Sell Tickets",
-      "p": "Thunder Rosa comment son what she thinks would put women’s wrestling on a level playing field to men’s wrestling. Thunder has been a pivotal part of the growth of the AEW women’s division, having...",
-      "link": "https://www.fightful.com/wrestling-news/thunder-rosa-on-what-would-make-womens-wrestling-on-a-level-playing-field-to-men-people-need-to-understand-that-we-are-able-to-sell-tickets/",
-      "t": "33m",
-      "dt": "2026-06-17T13:25:29+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Viewership & Ratings Report, 6/13/2026",
+      "p": "AEW Collision's viewership and key demographic ratings fell sharply from the previous week's show due to stiff competition from major sporting events.",
+      "link": "https://www.wrestlinginc.com/2196059/aew-collision-viewership-ratings-report-june-13-2026/",
+      "t": "1h",
+      "dt": "2026-06-17T15:30:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH Special Episode results (6/16): AR Rox vs. Tony Nese for the ROH TV Title, Red Velvet vs. Hyena Hera for the ROH Women’s TV Title, Marina Shafir vs. Zayda Steel",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH Special Episode results (6/16): AR Rox vs. Tony Nese for the ROH TV Title, Red Velvet vs. Hyena Hera for the ROH Women’s TV Title, Marina...",
+      "link": "https://prowrestling.net/site/2026/06/17/roh-special-episode-results-6-16-ar-rox-vs-tony-nese-for-the-roh-tv-title-red-velvet-vs-hyena-hera-for-the-roh-womens-tv-title-marina-shafir-vs-zayda-steel/",
+      "t": "2h",
+      "dt": "2026-06-17T15:01:17+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their teams for the cage match at Forbidden Door",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their...",
+      "link": "https://prowrestling.net/site/2026/06/17/aew-dynamite-preview-owen-hart-cup-tournament-semifinal-match-will-ospreay-and-swerve-strickland-meet-mjf-and-mark-briscoe-announce-their-teams-for-the-cage-match-at-forbidden-door-2/",
+      "t": "3h",
+      "dt": "2026-06-17T14:00:06+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kris Statlander Hopes To Carry TBS Championship Into AEW All In 2026",
+      "p": "Former AEW Women's World Champion and TBS Champion Kris Statlander is eager to have gold around her waist when she heads into All In in August.",
+      "link": "https://www.wrestlinginc.com/2196009/aew-all-in-2026-kris-statlander-tbs-championship-hopes-carry/",
+      "t": "3h",
+      "dt": "2026-06-17T14:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Dustin Rhodes Says He Never Wants To Wrestle His Brother Cody Rhodes Again",
       "p": "Despite the magic they created in their Double or Nothing match in 2019, Dustin Rhodes would prefer to never wrestle his brother Cody again.",
       "link": "https://www.wrestlinginc.com/2193852/aew-dustin-rhodes-cody-rhodes-never-wrestle-again/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-17T12:30:00+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW Dynamite ticket sales update ahead of tonight’s show (06-17-2026)",
       "p": "AEW Dynamite has 2,921 tickets distributed for tonight’s (June 17, 2026) show at the Smart Financial Centre at Sugar Land, Texas. This will be company’s debut at the venue, that’s currently...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-tonight-show-06-17-2026/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-06-17T12:01:15+00:00"
     },
     {
@@ -48,55 +72,31 @@
       "h": "AEW Dynamite, AEW Collision taping (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Minoru Suzuki",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, AEW Collision taping (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Minoru Suzuki appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/06/17/aew-dynamite-aew-collision-taping-reports-needed-wwe-evolve-last-weeks-dynamite-and-collision-grades-minoru-suzuki/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-06-17T12:00:05+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (6/17)",
-      "p": "Viewing information and lineup for AEW Dynamite on June 17, 2026. AEW Dynamite (June 17, 2026) Venue: Smart Financial Centre City: Sugar Land, TX Time: 8pm ET Channel: TBS, Max Lineup Will Ospreay...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-6-17/",
-      "t": "1h",
-      "dt": "2026-06-17T12:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Collision ratings down against NBA Finals",
       "p": "Saturday night’s episode of AEW Collision averaged 364,000 viewers on TNT, down 26.6 percent from the previous week. It’s the second-lowest audience total for the show since May 9. Collision drew...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-down-against-nba-finals/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-17T11:54:48+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH name recalls first Sinclair Taping: “one of those painful things I’ve ever been through in my life”",
-      "p": "Ring Of Honor ring announcer Bobby Cruise recently discussed when ROH was initially purchased by Sinclair Broadcasting Group back in May 2011. Speaking on the latest episode of Tony Schiavone’s...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/bobby-cruise-roh-tv-taping-sinclair-broadcasting/",
-      "t": "3h",
-      "dt": "2026-06-17T10:17:13+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision rating: Did the Summer Blockbuster theme boost the numbers?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: Did the Summer Blockbuster theme boost the numbers? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/16/aew-collision-rating-did-the-summer-blockbuster-theme-boost-the-numbers/",
-      "t": "13h",
+      "t": "16h",
       "dt": "2026-06-17T00:56:13+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Bully Ray Compares AEW 'Missing' On WWE's Danhausen To Top Attitude Era Star In WCW",
-      "p": "Bully Ray questioned if AEW \"missing the boat\" on Danhausen is as big as WCW fumbling one major Attitude Era star.",
-      "link": "https://www.wrestlinginc.com/2195901/bully-ray-wwe-danhausen-aew-wcw-steve-austin-attitude-era/",
-      "t": "15h",
-      "dt": "2026-06-16T22:13:51+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International Title",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International...",
       "link": "https://prowrestling.net/site/2026/06/16/vetters-independent-wrestling-roundup-aew-world-champion-mjfs-open-challenge-mustafa-ali-vs-dylan-donovan-for-the-tna-international-title/",
-      "t": "16h",
+      "t": "19h",
       "dt": "2026-06-16T21:54:48+00:00"
     },
     {

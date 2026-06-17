@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-17T10:04:22.992609+00:00",
+  "updated": "2026-06-17T13:59:20.669248+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (4 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,75 +12,83 @@
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (06-17-2026)",
-      "p": "AEW Dynamite is back tonight (Wednesday, June 17, 2026) and the broadcasts starts at 8:00 p.m. ET on TBS, with a simulcast streaming on HBO Max. The show runs its usual two-hour block, wrapping at...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-06-17-2026/",
-      "t": "2h",
-      "dt": "2026-06-17T07:49:27+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (06-17-2026)",
-      "p": "AEW Dynamite takes place tonight from the Smart Financial Centre in Sugar Land, Texas and several matches and segments have already been confirmed for the broadcast. Will Ospreay and Swerve...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-06-17-2026/",
-      "t": "2h",
-      "dt": "2026-06-17T07:44:55+00:00"
+      "src": "Fightful",
+      "h": "Thunder Rosa Admits That She Sometimes Tries Brand New Things On National TV While In The Ring: I’ve Been Lucky That I Did A Pretty Good Job",
+      "p": "Thunder Rosa speaks about trying brand new things in the ring, sometimes on national television with All Elite Wrestling. Rosa has proven to be a staple of the AEW Women’s Division in recent...",
+      "link": "https://www.fightful.com/wrestling-news/thunder-rosa-admits-that-she-sometimes-tries-brand-new-things-on-national-tv-while-in-the-ring-ive-been-lucky-that-i-did-a-pretty-good-job/",
+      "t": "12m",
+      "dt": "2026-06-17T13:46:43+00:00"
     },
     {
       "src": "Fightful",
-      "h": "ROH TV Results (6/16): Marina Shafir, AR Fox, Katsuyori Shibata Compete",
-      "p": "Ring of Honor aired the latest episode of ROH TV on June 16. The event aired on YouTube. Full results are below. ROH TV Results (6/16) ROH Women’s World Television Championship: Red Velvet (c)...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-6-16-marina-shafir-ar-fox-katsuyori-shibata-compete/",
-      "t": "7h",
-      "dt": "2026-06-17T02:41:32+00:00"
+      "h": "Thunder Rosa On What Would Make Women’s Wrestling On A Level Playing Field To Men: People Need To Understand That We Are Able To Sell Tickets",
+      "p": "Thunder Rosa comment son what she thinks would put women’s wrestling on a level playing field to men’s wrestling. Thunder has been a pivotal part of the growth of the AEW women’s division, having...",
+      "link": "https://www.fightful.com/wrestling-news/thunder-rosa-on-what-would-make-womens-wrestling-on-a-level-playing-field-to-men-people-need-to-understand-that-we-are-able-to-sell-tickets/",
+      "t": "33m",
+      "dt": "2026-06-17T13:25:29+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Dustin Rhodes Says He Never Wants To Wrestle His Brother Cody Rhodes Again",
+      "p": "Despite the magic they created in their Double or Nothing match in 2019, Dustin Rhodes would prefer to never wrestle his brother Cody again.",
+      "link": "https://www.wrestlinginc.com/2193852/aew-dustin-rhodes-cody-rhodes-never-wrestle-again/",
+      "t": "1h",
+      "dt": "2026-06-17T12:30:00+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Kris Statlander got her back scars permanently tattooed",
-      "p": "Former AEW Women’s Champion Kris Statlander has her scars permanently tattooed. Last year, in November 2025, Kris Statlander participated in the first-ever Women’s Blood and Guts match. Being on...",
-      "link": "https://www.f4wonline.com/news/aew/kris-statlander-got-her-back-scars-permanently-tattooed/",
-      "t": "7h",
-      "dt": "2026-06-17T02:19:00+00:00"
+      "h": "AEW Dynamite ticket sales update ahead of tonight’s show (06-17-2026)",
+      "p": "AEW Dynamite has 2,921 tickets distributed for tonight’s (June 17, 2026) show at the Smart Financial Centre at Sugar Land, Texas. This will be company’s debut at the venue, that’s currently...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-tonight-show-06-17-2026/",
+      "t": "1h",
+      "dt": "2026-06-17T12:01:15+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Zack Sabre Jr. announced for RevPro 14 Year Anniversary event",
-      "p": "Zack Sabre Jr. is scheduled to appear on the RevPro 14 Year Anniversary event. In an official social media update by Revolution Pro [RevPro], it was announced that Sabre Jr. will return to the...",
-      "link": "https://www.f4wonline.com/news/indies/zack-sabre-jr-announced-for-revpro-14-year-anniversary-event/",
-      "t": "7h",
-      "dt": "2026-06-17T02:08:48+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite, AEW Collision taping (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Minoru Suzuki",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, AEW Collision taping (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Minoru Suzuki appeared first on Pro...",
+      "link": "https://prowrestling.net/site/2026/06/17/aew-dynamite-aew-collision-taping-reports-needed-wwe-evolve-last-weeks-dynamite-and-collision-grades-minoru-suzuki/",
+      "t": "1h",
+      "dt": "2026-06-17T12:00:05+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW Collision (6/13) Viewership Declines Against NBA Finals Game 5",
-      "p": "AEW Collision viewership information for June 13. Programming Insider reports that AEW Collision drew 364,000 viewers on TNT on June 13. This number is down from the 496,000 viewers the show drew...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-6-13-viewership-declines-against-nba-finals-game-5/",
-      "t": "8h",
-      "dt": "2026-06-17T01:09:46+00:00"
+      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (6/17)",
+      "p": "Viewing information and lineup for AEW Dynamite on June 17, 2026. AEW Dynamite (June 17, 2026) Venue: Smart Financial Centre City: Sugar Land, TX Time: 8pm ET Channel: TBS, Max Lineup Will Ospreay...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-6-17/",
+      "t": "1h",
+      "dt": "2026-06-17T12:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision ratings down against NBA Finals",
+      "p": "Saturday night’s episode of AEW Collision averaged 364,000 viewers on TNT, down 26.6 percent from the previous week. It’s the second-lowest audience total for the show since May 9. Collision drew...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-down-against-nba-finals/",
+      "t": "2h",
+      "dt": "2026-06-17T11:54:48+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH name recalls first Sinclair Taping: “one of those painful things I’ve ever been through in my life”",
+      "p": "Ring Of Honor ring announcer Bobby Cruise recently discussed when ROH was initially purchased by Sinclair Broadcasting Group back in May 2011. Speaking on the latest episode of Tony Schiavone’s...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/bobby-cruise-roh-tv-taping-sinclair-broadcasting/",
+      "t": "3h",
+      "dt": "2026-06-17T10:17:13+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision rating: Did the Summer Blockbuster theme boost the numbers?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: Did the Summer Blockbuster theme boost the numbers? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/16/aew-collision-rating-did-the-summer-blockbuster-theme-boost-the-numbers/",
-      "t": "9h",
+      "t": "13h",
       "dt": "2026-06-17T00:56:13+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Multiple Title Bouts Added To ROH Global Wars Cincinnati",
-      "p": "Multiple title matches have been announced for ROH Global Wars Cincinnati. ROH announced that Sammy Guevara & Beast Mortos will defend the ROH Tag Team Titles against Los Villanos. Plus, Konosuke...",
-      "link": "https://www.fightful.com/wrestling-news/multiple-title-bouts-added-to-roh-global-wars-cincinnati/",
-      "t": "9h",
-      "dt": "2026-06-17T00:44:39+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Bully Ray Compares AEW 'Missing' On WWE's Danhausen To Top Attitude Era Star In WCW",
       "p": "Bully Ray questioned if AEW \"missing the boat\" on Danhausen is as big as WCW fumbling one major Attitude Era star.",
       "link": "https://www.wrestlinginc.com/2195901/bully-ray-wwe-danhausen-aew-wcw-steve-austin-attitude-era/",
-      "t": "11h",
+      "t": "15h",
       "dt": "2026-06-16T22:13:51+00:00"
     },
     {
@@ -88,16 +96,8 @@
       "h": "Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International Title",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International...",
       "link": "https://prowrestling.net/site/2026/06/16/vetters-independent-wrestling-roundup-aew-world-champion-mjfs-open-challenge-mustafa-ali-vs-dylan-donovan-for-the-tna-international-title/",
-      "t": "12h",
+      "t": "16h",
       "dt": "2026-06-16T21:54:48+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report: 6/10/2026",
-      "p": "\"AEW Dynamite\" records one of its lowest viewership figures of the year this past Wednesday.",
-      "link": "https://www.wrestlinginc.com/2195489/aew-dynamite-viewership-ratings-june-10-2026/",
-      "t": "17h",
-      "dt": "2026-06-16T16:45:55+00:00"
     },
     {
       "src": "ProWrestling.net",

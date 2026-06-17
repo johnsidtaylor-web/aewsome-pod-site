@@ -1,30 +1,70 @@
 {
-  "updated": "2026-06-16T23:46:22.326070+00:00",
+  "updated": "2026-06-17T05:14:18.143337+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (2 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
-      "h": "Will Ospreay Says There Is A Level Of Pride In Holding IWGP Heavyweight Title, Doesn’t Think NJPW Capitalize On Gabe Kidd",
-      "p": "Will Ospreay continues to weigh in on the current state of New Japan Pro-Wrestling. On Monday morning, Ospreay responded to comments made by new IWGP Heavyweight Champion Yota Tusji, who suggested...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-there-is-a-level-of-pride-in-holding-iwgp-heavyweight-title-doesnt-think-njpw-capitalize-on-gabe-kidd/",
-      "t": "49m",
-      "dt": "2026-06-16T22:56:47+00:00"
+      "h": "ROH TV Results (6/16): Marina Shafir, AR Fox, Katsuyori Shibata Compete",
+      "p": "Ring of Honor aired the latest episode of ROH TV on June 16. The event aired on YouTube. Full results are below. ROH TV Results (6/16) ROH Women’s World Television Championship: Red Velvet (c)...",
+      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-6-16-marina-shafir-ar-fox-katsuyori-shibata-compete/",
+      "t": "2h",
+      "dt": "2026-06-17T02:41:32+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kris Statlander got her back scars permanently tattooed",
+      "p": "Former AEW Women’s Champion Kris Statlander has her scars permanently tattooed. Last year, in November 2025, Kris Statlander participated in the first-ever Women’s Blood and Guts match. Being on...",
+      "link": "https://www.f4wonline.com/news/aew/kris-statlander-got-her-back-scars-permanently-tattooed/",
+      "t": "2h",
+      "dt": "2026-06-17T02:19:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Zack Sabre Jr. announced for RevPro 14 Year Anniversary event",
+      "p": "Zack Sabre Jr. is scheduled to appear on the RevPro 14 Year Anniversary event. In an official social media update by Revolution Pro [RevPro], it was announced that Sabre Jr. will return to the...",
+      "link": "https://www.f4wonline.com/news/indies/zack-sabre-jr-announced-for-revpro-14-year-anniversary-event/",
+      "t": "3h",
+      "dt": "2026-06-17T02:08:48+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision (6/13) Viewership Declines Against NBA Finals Game 5",
+      "p": "AEW Collision viewership information for June 13. Programming Insider reports that AEW Collision drew 364,000 viewers on TNT on June 13. This number is down from the 496,000 viewers the show drew...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-6-13-viewership-declines-against-nba-finals-game-5/",
+      "t": "4h",
+      "dt": "2026-06-17T01:09:46+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating: Did the Summer Blockbuster theme boost the numbers?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: Did the Summer Blockbuster theme boost the numbers? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/16/aew-collision-rating-did-the-summer-blockbuster-theme-boost-the-numbers/",
+      "t": "4h",
+      "dt": "2026-06-17T00:56:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Multiple Title Bouts Added To ROH Global Wars Cincinnati",
+      "p": "Multiple title matches have been announced for ROH Global Wars Cincinnati. ROH announced that Sammy Guevara & Beast Mortos will defend the ROH Tag Team Titles against Los Villanos. Plus, Konosuke...",
+      "link": "https://www.fightful.com/wrestling-news/multiple-title-bouts-added-to-roh-global-wars-cincinnati/",
+      "t": "4h",
+      "dt": "2026-06-17T00:44:39+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Bully Ray Compares AEW 'Missing' On WWE's Danhausen To Top Attitude Era Star In WCW",
       "p": "Bully Ray questioned if AEW \"missing the boat\" on Danhausen is as big as WCW fumbling one major Attitude Era star.",
       "link": "https://www.wrestlinginc.com/2195901/bully-ray-wwe-danhausen-aew-wcw-steve-austin-attitude-era/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-06-16T22:13:51+00:00"
     },
     {
@@ -32,40 +72,16 @@
       "h": "Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International Title",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post Vetter’s Independent Wrestling Roundup: AEW World Champion MJF’s open challenge, Mustafa Ali vs. Dylan Donovan for the TNA International...",
       "link": "https://prowrestling.net/site/2026/06/16/vetters-independent-wrestling-roundup-aew-world-champion-mjfs-open-challenge-mustafa-ali-vs-dylan-donovan-for-the-tna-international-title/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-06-16T21:54:48+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kris Statlander Got Back Scars From Blood & Guts Nail Bed Spot Tattooed In Red",
-      "p": "Kris Statlander is whimsy. Back in November 2025, Statlander competed in the first Women’s Blood & Guts match. Despite ending up on the losing team, the former TBS Champion chose to honor the...",
-      "link": "https://www.fightful.com/wrestling-news/kris-statlander-nail-bed-311222/",
-      "t": "2h",
-      "dt": "2026-06-16T21:29:55+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW Dynamite Viewership & Ratings Report: 6/10/2026",
       "p": "\"AEW Dynamite\" records one of its lowest viewership figures of the year this past Wednesday.",
       "link": "https://www.wrestlinginc.com/2195489/aew-dynamite-viewership-ratings-june-10-2026/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-06-16T16:45:55+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay responds to debate on NJPW direction & AEW partnership",
-      "p": "AEW star Will Ospreay weighed in on the social media debate surrounding NJPW’s talent development, missing opportunities amid changing times. Ospreay responded to Josh from We Work Stiff’s X post...",
-      "link": "https://www.f4wonline.com/news/will-ospreay-responds-to-debate-on-njpw-direction-not-saying-aew-relationship-is-perfect-there-is-more-we-could-do-as-a-partner/",
-      "t": "8h",
-      "dt": "2026-06-16T15:06:54+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Report: Jack Perry's AEW Contract To Expire Imminently, Expected To Re-Sign",
-      "p": "A new report provides an update on Jack Perry's AEW contract, which is expected to expire imminently, though it's believed Perry will re-sign with AEW",
-      "link": "https://www.wrestlinginc.com/2195273/aew-jack-perry-contract-expire-imminently-expected-re-sign/",
-      "t": "8h",
-      "dt": "2026-06-16T14:55:53+00:00"
     },
     {
       "src": "ProWrestling.net",
@@ -90,22 +106,6 @@
       "link": "https://www.pwtorch.com/site/2026/06/15/aew-collision-hits-misses-6-14-praise-for-a-complete-show-omega-calls-out-mjf-knight-retains-the-tnt-title-against-myron-reed-death-riders-survive-a-chaotic-street-fight-maya-world-feels-like/",
       "t": "1d",
       "dt": "2026-06-15T17:36:31+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW stars Will Ospreay and Alex Windsor are married",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW stars Will Ospreay and Alex Windsor are married appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/15/aew-stars-will-ospreay-and-alex-windsor-are-married/",
-      "t": "1d",
-      "dt": "2026-06-15T16:48:52+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW announces partnership with “The Last Match: A Pro-Wrestling Rock Experience”",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW announces partnership with “The Last Match: A Pro-Wrestling Rock Experience” appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/15/aew-announces-partnership-with-the-last-match-a-pro-wrestling-rock-experience/",
-      "t": "1d",
-      "dt": "2026-06-15T16:16:41+00:00"
     }
   ]
 }

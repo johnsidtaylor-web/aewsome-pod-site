@@ -1,22 +1,70 @@
 {
-  "updated": "2026-06-17T20:29:34.006455+00:00",
+  "updated": "2026-06-17T22:52:25.615066+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "AEW Dynamite live results: Mercedes Mone vs. Hazuki, MJF and Mark Briscoe pick teams",
+      "p": "AEW Dynamite is live tonight from the Smart Financial Centre in Sugar Land, Texas. Four segments are advertised for Wednesday’s show, including Will Ospreay and Swerve Strickland meeting...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-mercedes-mone-vs-hazuki-mjf-and-mark-briscoe-pick-teams/",
+      "t": "22m",
+      "dt": "2026-06-17T22:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Speedball Mike Bailey Calls Out Numerous AEW Betrayals",
+      "p": "Speedball Mike Bailey calls out the numerous betrayals he's suffered in AEW, and tries to prepare Myron Reed for his match against Kevin Knight",
+      "link": "https://www.wrestlinginc.com/2196885/speedball-mike-bailey-calls-out-numerous-aew-betrayals/",
+      "t": "1h",
+      "dt": "2026-06-17T21:51:55+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Forbidden Door lineup: The card for next Sunday’s pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door lineup: The card for next Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/17/aew-forbidden-door-lineup-the-card-for-next-sundays-pay-per-view-event/",
+      "t": "1h",
+      "dt": "2026-06-17T21:47:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Where would the AEW Women’s Division be without Thekla? Jericho, Ciampa, and Bang Bang Bang sereaming WWE circa 2015",
+      "p": "Welcome everyone! Wow! That was a rough week of television for AEW. In my opinion, they could not get out of Ohio fast enough. Hopefully this week shows we’ll have a better crowd. So, let’s [...]",
+      "link": "https://www.pwtorch.com/site/2026/06/17/aew-rising-and-fading-stars-where-would-the-aew-womens-division-be-without-thekla-jericho-ciampa-and-bang-bang-bang-sereaming-wwe-circa-2015/",
+      "t": "1h",
+      "dt": "2026-06-17T21:33:22+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Dustin Rhodes Says He Tried To Talk Tony Khan Out Of AEW TNT Title Win At All In 2025",
+      "p": "Dustin Rhodes won the AEW TNT Championship at AEW All In 2025, defeating Sammy Guevara, Kyle Fletcher, and Daniel Garcia in a four-way match. The bout was originally supposed to be Fletcher vs....",
+      "link": "https://www.fightful.com/wrestling-news/dustin-rhodes-says-he-tried-to-talk-tony-khan-out-of-aew-tnt-title-win-at-all-in-2025/",
+      "t": "1h",
+      "dt": "2026-06-17T21:29:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Schiavone Excited For AEW Forbidden Door Match: Never 'Seen Anything Like That'",
+      "p": "AEW commentator Tony Schiavone spoke about a Forbidden Door match he's excited for, saying he's \"never seen anything\" like it.",
+      "link": "https://www.wrestlinginc.com/2196855/tony-schiavone-excited-aew-forbidden-door-never-seen-anything/",
+      "t": "1h",
+      "dt": "2026-06-17T21:03:16+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "Paul Wight ‘starting to see real results’ in the gym amid AEW absence",
       "p": "Paul Wight is starting to notice a real difference in his physique as he progresses toward what he hopes will be a return to the AEW ring. With the goal of reaching 350 pounds, Wight has steadily...",
       "link": "https://www.f4wonline.com/news/aew/paul-wight-physique-improvement-aew-absence/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-17T19:28:46+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "AEW Dynamite 6/17/26 Review | RAD (Live 10:35pm ET)",
       "p": "TONIGHT 10:35pm ET — Pollock & Ting review #AEWDynamite as MJF and Briscoe unveil Forbidden Door teams before a 12-man tag. Also: Moné vs Hazuki, Ospreay and Swerve face off. XL Edition with news...",
       "link": "https://www.postwrestling.com/2026/06/17/aew-dynamite-6-17-26-review-rad-live-1035pm-et/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-17T19:00:54+00:00"
     },
     {
@@ -32,23 +80,15 @@
       "h": "ROH World Tag title match taped at Arena Mexico to air as part of Global Wars Cincinnati",
       "p": "For the first time in more than three months, the Ring of Honor World Tag Team titles will be defended on ROH programming this week. Sammy Guevara & The Beast Mortos will defend the titles against...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-world-tag-title-match-taped-at-arena-mexico-to-air-as-part-of-global-wars-cincinnati/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-17T18:30:30+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kayla Braxton On Not Going To AEW After Exiting WWE: Why Would I Leave The Biggest Wrestling Company In The World To Go To Another?",
-      "p": "Kayla Braxton answers why she didn’t go to AEW after exiting WWE, questioning why she would leave the biggest company for another. In 2024, Kayla would exit WWE, leading to many questions on where...",
-      "link": "https://www.fightful.com/wrestling-news/kayla-braxton-on-not-going-to-aew-after-exiting-wwe-why-would-i-leave-the-biggest-wrestling-company-in-the-world-to-go-to-another/",
-      "t": "3h",
-      "dt": "2026-06-17T17:27:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW DYNAMITE PREVIEW (6/17): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, JUNE 17, 2026 Where: SUGAR LAND, TEX. AT SMART FINANCIAL CENTRE How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,921 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/06/17/aew-dynamite-preview-6-17-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-17T17:09:10+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW Collision Viewership & Ratings Report, 6/13/2026",
       "p": "AEW Collision's viewership and key demographic ratings fell sharply from the previous week's show due to stiff competition from major sporting events.",
       "link": "https://www.wrestlinginc.com/2196059/aew-collision-viewership-ratings-report-june-13-2026/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-06-17T15:30:00+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "ROH Special Episode results (6/16): AR Rox vs. Tony Nese for the ROH TV Title, Red Velvet vs. Hyena Hera for the ROH Women’s TV Title, Marina Shafir vs. Zayda Steel",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH Special Episode results (6/16): AR Rox vs. Tony Nese for the ROH TV Title, Red Velvet vs. Hyena Hera for the ROH Women’s TV Title, Marina...",
       "link": "https://prowrestling.net/site/2026/06/17/roh-special-episode-results-6-16-ar-rox-vs-tony-nese-for-the-roh-tv-title-red-velvet-vs-hyena-hera-for-the-roh-womens-tv-title-marina-shafir-vs-zayda-steel/",
-      "t": "5h",
-      "dt": "2026-06-17T15:01:17+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their teams for the cage match at Forbidden Door",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Owen Hart Cup tournament semifinal match, Will Ospreay and Swerve Strickland meet, MJF and Mark Briscoe announce their...",
-      "link": "https://prowrestling.net/site/2026/06/17/aew-dynamite-preview-owen-hart-cup-tournament-semifinal-match-will-ospreay-and-swerve-strickland-meet-mjf-and-mark-briscoe-announce-their-teams-for-the-cage-match-at-forbidden-door-2/",
-      "t": "6h",
-      "dt": "2026-06-17T14:00:06+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kris Statlander Hopes To Carry TBS Championship Into AEW All In 2026",
-      "p": "Former AEW Women's World Champion and TBS Champion Kris Statlander is eager to have gold around her waist when she heads into All In in August.",
-      "link": "https://www.wrestlinginc.com/2196009/aew-all-in-2026-kris-statlander-tbs-championship-hopes-carry/",
-      "t": "6h",
-      "dt": "2026-06-17T14:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Dustin Rhodes Says He Never Wants To Wrestle His Brother Cody Rhodes Again",
-      "p": "Despite the magic they created in their Double or Nothing match in 2019, Dustin Rhodes would prefer to never wrestle his brother Cody again.",
-      "link": "https://www.wrestlinginc.com/2193852/aew-dustin-rhodes-cody-rhodes-never-wrestle-again/",
       "t": "7h",
-      "dt": "2026-06-17T12:30:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite, AEW Collision taping (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Minoru Suzuki",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, AEW Collision taping (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Minoru Suzuki appeared first on Pro...",
-      "link": "https://prowrestling.net/site/2026/06/17/aew-dynamite-aew-collision-taping-reports-needed-wwe-evolve-last-weeks-dynamite-and-collision-grades-minoru-suzuki/",
-      "t": "8h",
-      "dt": "2026-06-17T12:00:05+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision rating: Did the Summer Blockbuster theme boost the numbers?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: Did the Summer Blockbuster theme boost the numbers? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/16/aew-collision-rating-did-the-summer-blockbuster-theme-boost-the-numbers/",
-      "t": "19h",
-      "dt": "2026-06-17T00:56:13+00:00"
+      "dt": "2026-06-17T15:01:17+00:00"
     }
   ]
 }

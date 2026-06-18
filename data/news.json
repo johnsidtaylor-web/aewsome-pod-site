@@ -1,38 +1,86 @@
 {
-  "updated": "2026-06-18T15:51:15.615093+00:00",
+  "updated": "2026-06-18T18:34:40.910129+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Says The Door Is Open For Sareee At AEW",
+      "p": "Sareee was scheduled to compete at AEW Dynamite Summer Blockbuster, but was not cleared due to a neck injury. The injury was known ahead of time as she’s been out of the ring since May and it was...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-the-door-is-open-for-sareee-at-aew/",
+      "t": "3m",
+      "dt": "2026-06-18T18:31:15+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Eddie Kingston On AEW Absence: Business Is Business. Sometimes You’re The Hammer, Sometimes You’re The Nail",
+      "p": "Eddie Kingston discusses his absence from AEW television. As of publish time, Kingston has been away from AEW TV since the February 7 episode of AEW Collision, where he took part in an eight-man...",
+      "link": "https://www.fightful.com/wrestling-news/eddie-kingston-aew-business-311482/",
+      "t": "32m",
+      "dt": "2026-06-18T18:02:18+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "CMLL/NJPW Fantastica Mania and Create A Pro Wrestling among additions to MyAEW",
+      "p": "There are more promotions added to the MyAEW catalog, including Create A Pro Wrestling and CMLL and NJPW Fantastica Mania. The post CMLL/NJPW Fantastica Mania and Create A Pro Wrestling among...",
+      "link": "https://www.postwrestling.com/2026/06/18/cmll-njpw-fantastic-mania-and-create-a-pro-wrestling-among-additions-to-myaew/",
+      "t": "48m",
+      "dt": "2026-06-18T17:45:58+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Powell’s AEW Dynamite Hit List: Thoughts on a rough night for mic work, how the wrong message was sent about the ROH Championship",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on a rough night for mic work, how the wrong message was sent about the ROH Championship appeared...",
+      "link": "https://prowrestling.net/site/2026/06/18/powells-aew-dynamite-hit-list-thoughts-on-a-rough-night-for-mic-work-how-the-wrong-message-was-sent-about-the-roh-championship/",
+      "t": "1h",
+      "dt": "2026-06-18T17:15:44+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "PAC Challenges Shota Umino For AEW x NJPW Forbidden Door",
+      "p": "PAC issues a challenge for AEW x NJPW Forbidden Door. AEW posted a new social media video where Death Rider member PAC issues a challenge to IWGP Global Heavyweight Champion Shota Umino to face...",
+      "link": "https://www.fightful.com/wrestling-news/pac-challenges-shota-umino-for-aew-x-njpw-forbidden-door/",
+      "t": "1h",
+      "dt": "2026-06-18T16:40:56+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Challenge issued for IWGP Global title match at AEW x NJPW Forbidden Door",
+      "p": "A challenge for the IWGP Global Heavyweight Championship has been issued. On Thursday, PAC issued a challenge to Shota Umino, who won the title on June 14 at Dominion in a three-way match with...",
+      "link": "https://www.f4wonline.com/news/aew/challenge-issued-for-iwgp-global-title-match-at-aew-x-njpw-forbidden-door/",
+      "t": "2h",
+      "dt": "2026-06-18T16:16:42+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE HITS & MISSES (6/17): Inappropriate Ospreay interacts with Swerve, Ciampa rips on 2026 Jericho schtick, Bandido and Brody’s stupid mid-match dance routine returns, more",
+      "p": "HITS TEAM MJF OPENS THE SHOW That was one of the most entertaining opening segments in a while. MJF was hitting on all cylinders verbally going after all of his contenders. It was amusing, but [...]",
+      "link": "https://www.pwtorch.com/site/2026/06/18/aew-dynamite-hits-misses-6-17-inappropriate-ospreay-interacts-with-swerve-ciampa-rips-on-2026-jericho-schtick-bandido-and-brodys-stupid-mid-match-dance-routine-returns-more/",
+      "t": "2h",
+      "dt": "2026-06-18T16:06:16+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "More Content Added To MyAEW Including Upcoming CMLL/NJPW Pay-Per-View",
       "p": "Ahead of AEW x NJPW: Forbidden Door, which includes ROH, CMLL, and STARDOM, myAEW announced that a joint CMLL/NJPW pay-per-view would be livestreaming.",
       "link": "https://www.wrestlinginc.com/2197299/myaew-cmll-njpw-content-added-fantasticamania/",
-      "t": "2m",
+      "t": "2h",
       "dt": "2026-06-18T15:48:48+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MJF Says His Knee Is Good From A Structural Standpoint, Is Still In ‘A Shit Ton Of F*cking Pain’",
-      "p": "MJF provides an update on his knee injury. Friedman is currently dealing with a knee injury that he suffered in a match with RUSH on the June 3 episode of AEW Dynamite. Despite the injury, MJF...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-knee-good-311460/",
-      "t": "14m",
-      "dt": "2026-06-18T15:36:46+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "MJF: There’s no one on the AEW roster that I don’t respect",
       "p": "While there is healthy competition for the top spots in the company, MJF has respect for everyone he shares the AEW locker room with. The AEW World Champion appeared on the Shut Up and Wrestle...",
       "link": "https://www.f4wonline.com/news/aew/mjf-respects-everyone-on-aew-roster/",
-      "t": "30m",
+      "t": "3h",
       "dt": "2026-06-18T15:20:09+00:00"
     },
     {
@@ -40,31 +88,15 @@
       "h": "AEW Forbidden Door lineup: The latest card for next Sunday’s pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door lineup: The latest card for next Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/18/aew-forbidden-door-lineup-the-latest-card-for-next-sundays-pay-per-view-event/",
-      "t": "49m",
+      "t": "3h",
       "dt": "2026-06-18T15:01:17+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Spoilers For 6/20 (Taped On 6/17)",
-      "p": "All Elite Wrestling taped the June 20 episode of AEW Collision on June 17 from Sugar Land, TX. Full spoilers (courtesy of PWInsider) are below. AEW Collision Spoilers For 6/20 (Taped On 6/17) The...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-spoilers-for-6-20-taped-on-6-17/",
-      "t": "58m",
-      "dt": "2026-06-18T14:52:25+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Files Trademark Related To MyAEW",
-      "p": "AEW has filed a trademark related to MyAEW. On June 17, AEW filed a trademark on MyAEW.com and the logo. Full description: IC 041: Providing online non-downloadable videos in the field of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-files-trademark-related-to-myaew/",
-      "t": "1h",
-      "dt": "2026-06-18T14:31:02+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW star says Randy Orton split in WWE was ‘final straw’ before exit",
       "p": "AEW’s Cash Wheeler reflected on The Revival’s short-lived alliance with Randy Orton in WWE. Wheeler discussed WWE splitting up The Revival from Orton in an interview with LNG Productions. The tag...",
       "link": "https://www.f4wonline.com/news/aew-star-says-randy-orton-split-in-wwe-was-final-straw-before-exit/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-18T14:21:31+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Date set for Chris Jericho vs. Tommaso Ciampa AEW grudge match",
       "p": "The following contain spoilers for this Saturday’s AEW Collision. Fans will still have to wait for a bit to see the Chris Jericho vs. Tommaso Ciampa grudge match that has been building for weeks...",
       "link": "https://www.f4wonline.com/news/aew/chris-jericho-vs-tommaso-ciampa-aew-beach-break-2026/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-18T14:20:14+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Collision Spoilers: Women's Owen Hart Cup Finals Determined",
-      "p": "The final match of the 2026 Women's Owen Hart Cup was revealed thanks to \"AEW Collision\" spoilers, as the show was taped after Wednesday's \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2197160/aew-collision-maya-world-mercedes-mone-spoilers-womens-owen-hart-cup-finals/",
-      "t": "1h",
-      "dt": "2026-06-18T14:04:32+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub lineup: Global Wars featuring ROH, CMLL, and Stardom wrestlers",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: Global Wars featuring ROH, CMLL, and Stardom wrestlers appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/18/roh-on-honorclub-lineup-global-wars-featuring-roh-cmll-and-stardom-wrestlers/",
-      "t": "2h",
-      "dt": "2026-06-18T13:30:51+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Owen Hart Cup tournament semifinal match and more set for Saturday",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Owen Hart Cup tournament semifinal match and more set for Saturday appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/18/aew-collision-lineup-owen-hart-cup-tournament-semifinal-match-and-more-set-for-saturday/",
-      "t": "2h",
-      "dt": "2026-06-18T13:00:51+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Alvarez’s AEW Dynamite June 17, 2026 report for subscribers",
-      "p": "Bryan Alvarez’s report on AEW Dynamite is now available for subscribers.",
-      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-june-17-2026-report-for-subscribers/",
-      "t": "3h",
-      "dt": "2026-06-18T12:27:17+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-18T11:16:55.865338+00:00",
+  "updated": "2026-06-18T15:51:15.615093+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,100 +12,100 @@
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite June 17, 2026 stats, match times and more",
-      "p": "AEW Dynamite #350 took place on Wednesday, June 17, 2026 at the Smart Financial Centre in Sugar Land, Texas. Excalibur, Taz and Tony Schiavone called the broadcast. The card featured four matches...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-june-17-2026-stats-match-times-average-age/",
-      "t": "1h",
-      "dt": "2026-06-18T09:19:38+00:00"
+      "src": "Wrestling Inc",
+      "h": "More Content Added To MyAEW Including Upcoming CMLL/NJPW Pay-Per-View",
+      "p": "Ahead of AEW x NJPW: Forbidden Door, which includes ROH, CMLL, and STARDOM, myAEW announced that a joint CMLL/NJPW pay-per-view would be livestreaming.",
+      "link": "https://www.wrestlinginc.com/2197299/myaew-cmll-njpw-content-added-fantasticamania/",
+      "t": "2m",
+      "dt": "2026-06-18T15:48:48+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF Says His Knee Is Good From A Structural Standpoint, Is Still In ‘A Shit Ton Of F*cking Pain’",
+      "p": "MJF provides an update on his knee injury. Friedman is currently dealing with a knee injury that he suffered in a match with RUSH on the June 3 episode of AEW Dynamite. Despite the injury, MJF...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-knee-good-311460/",
+      "t": "14m",
+      "dt": "2026-06-18T15:36:46+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "WOR: Duke of Dorchester, TNA releases, AEW and NXT, Collision spoilers",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the death of the Duke of Dorchester, TNA releases and what’s happening there, ratings notes,...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-duke-of-dorchester-tna-releases-aew-and-nxt-collision-spoilers/",
-      "t": "2h",
-      "dt": "2026-06-18T08:31:41+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH Global Wars 2026 Start Time: US, UK, Australia and more",
-      "p": "Ring of Honor presents Global Wars: Cincinnati on Thursday, June 18, and the company has confirmed a start time of 8/7c on HonorClub. The full episode airs on both MyAEW and HonorClub. The matches...",
-      "link": "https://www.f4wonline.com/event-guides/roh-global-wars-2026-start-time-us-uk-australia/",
-      "t": "3h",
-      "dt": "2026-06-18T07:46:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision spoilers from Sugar Land, Texas",
-      "p": "The following are spoilers for this Saturday’s AEW Collision from the Smart Financial Centre in Sugar Land, Texas, taped after Wednesday, June 17, 2026, Dynamite. Taped on 06/17, this particular...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-spoilers-from-sugar-land-texas/",
-      "t": "3h",
-      "dt": "2026-06-18T07:27:20+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 6/17 – WKH – AEW Dynamite: Ospreay-Swerve face-to-face, Team MJF & DCF vs. Team Briscoe, Mox & Garcia vs. Brodido, Ciampa undercuts Jericho’s babyface act (28 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the June 17 episode of AEW Dynamite start to finish including a 12 man tag main event with Team MJF [...]",
-      "link": "https://www.pwtorch.com/site/2026/06/18/vip-podcast-6-17-wkh-aew-dynamite-ospreay-swerve-face-to-face-team-mjf-dcf-vs-team-briscoe-mox-garcia-vs-brodido-ciampa-undercuts-jerichos-babyface-act-28-min/",
-      "t": "5h",
-      "dt": "2026-06-18T06:13:10+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/17 – WKPWP after Dynamite: Keller & Halley talk Ospreay-Swerve segment pros and cons, Omega-ZSJ build, MJF-Briscoe build, Mercedes vs. Hazuki (137 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Taylor Halley to review AEW Dynamite with chat and email interactions throughout. They opened by discussing the pros and...",
-      "link": "https://www.pwtorch.com/site/2026/06/18/free-podcast-6-17-wkpwp-after-dynamite-keller-halley-talk-ospreay-swerve-segment-pros-and-cons-omega-zsj-build-mjf-briscoe-build-mercedes-vs-hazuki-137-min/",
-      "t": "5h",
-      "dt": "2026-06-18T06:02:31+00:00"
+      "h": "MJF: There’s no one on the AEW roster that I don’t respect",
+      "p": "While there is healthy competition for the top spots in the company, MJF has respect for everyone he shares the AEW locker room with. The AEW World Champion appeared on the Shut Up and Wrestle...",
+      "link": "https://www.f4wonline.com/news/aew/mjf-respects-everyone-on-aew-roster/",
+      "t": "30m",
+      "dt": "2026-06-18T15:20:09+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "06/17 Powell’s AEW Dynamite audio review: Will Ospreay and Swerve Strickland meet face to face, Mercedes Mone vs. Hazuki in an Owen Hart Cup tournament semifinal match",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 06/17 Powell’s AEW Dynamite audio review: Will Ospreay and Swerve Strickland meet face to face, Mercedes Mone vs. Hazuki in an Owen Hart Cup...",
-      "link": "https://prowrestling.net/site/2026/06/18/06-17-powells-aew-dynamite-audio-review-will-ospreay-and-swerve-strickland-meet-face-to-face-mercedes-mone-vs-hazuki-in-an-owen-hart-cup-tournament-semifinal-match/",
-      "t": "5h",
-      "dt": "2026-06-18T05:31:44+00:00"
+      "h": "AEW Forbidden Door lineup: The latest card for next Sunday’s pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door lineup: The latest card for next Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/18/aew-forbidden-door-lineup-the-latest-card-for-next-sundays-pay-per-view-event/",
+      "t": "49m",
+      "dt": "2026-06-18T15:01:17+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision Spoilers For 6/20 (Taped On 6/17)",
+      "p": "All Elite Wrestling taped the June 20 episode of AEW Collision on June 17 from Sugar Land, TX. Full spoilers (courtesy of PWInsider) are below. AEW Collision Spoilers For 6/20 (Taped On 6/17) The...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-spoilers-for-6-20-taped-on-6-17/",
+      "t": "58m",
+      "dt": "2026-06-18T14:52:25+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Files Trademark Related To MyAEW",
+      "p": "AEW has filed a trademark related to MyAEW. On June 17, AEW filed a trademark on MyAEW.com and the logo. Full description: IC 041: Providing online non-downloadable videos in the field of...",
+      "link": "https://www.fightful.com/wrestling-news/aew-files-trademark-related-to-myaew/",
+      "t": "1h",
+      "dt": "2026-06-18T14:31:02+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star says Randy Orton split in WWE was ‘final straw’ before exit",
+      "p": "AEW’s Cash Wheeler reflected on The Revival’s short-lived alliance with Randy Orton in WWE. Wheeler discussed WWE splitting up The Revival from Orton in an interview with LNG Productions. The tag...",
+      "link": "https://www.f4wonline.com/news/aew-star-says-randy-orton-split-in-wwe-was-final-straw-before-exit/",
+      "t": "1h",
+      "dt": "2026-06-18T14:21:31+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Date set for Chris Jericho vs. Tommaso Ciampa AEW grudge match",
+      "p": "The following contain spoilers for this Saturday’s AEW Collision. Fans will still have to wait for a bit to see the Chris Jericho vs. Tommaso Ciampa grudge match that has been building for weeks...",
+      "link": "https://www.f4wonline.com/news/aew/chris-jericho-vs-tommaso-ciampa-aew-beach-break-2026/",
+      "t": "1h",
+      "dt": "2026-06-18T14:20:14+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Dynamite - 6/17/2026: 3 Things We Hated And 3 We Loved",
-      "p": "The very best and the very worst of the June 17 edition of AEW's flagship show, Dynamite.",
-      "link": "https://www.wrestlinginc.com/2196991/aew-dynamite-june-17-2026-3-things-loved-hated-opinion-review/",
-      "t": "5h",
-      "dt": "2026-06-18T05:23:34+00:00"
+      "h": "AEW Collision Spoilers: Women's Owen Hart Cup Finals Determined",
+      "p": "The final match of the 2026 Women's Owen Hart Cup was revealed thanks to \"AEW Collision\" spoilers, as the show was taped after Wednesday's \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2197160/aew-collision-maya-world-mercedes-mone-spoilers-womens-owen-hart-cup-finals/",
+      "t": "1h",
+      "dt": "2026-06-18T14:04:32+00:00"
     },
     {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/17 – WKPWP Flagship from 5 Yrs Ago: Keller & Heydorn talk about the wake-up call in store for WWE when crowds return, AEW, Shingo, Takeover, Kross, more (112 min.)",
-      "p": "SHOW SUMMARY: In this week’s Flagship Flashback episode of the Wade Keller Pro Wrestling Podcast from five years ago (6-15-2021), PWTorch editor Wade Keller presents a Thursday Flagship edition of...",
-      "link": "https://www.pwtorch.com/site/2026/06/17/free-podcast-6-17-wkpwp-flagship-from-5-yrs-ago-keller-heydorn-talk-about-the-wake-up-call-in-store-for-wwe-when-crowds-return-aew-shingo-takeover-kross-more-112-min/",
-      "t": "8h",
-      "dt": "2026-06-18T03:00:13+00:00"
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: Global Wars featuring ROH, CMLL, and Stardom wrestlers",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: Global Wars featuring ROH, CMLL, and Stardom wrestlers appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/18/roh-on-honorclub-lineup-global-wars-featuring-roh-cmll-and-stardom-wrestlers/",
+      "t": "2h",
+      "dt": "2026-06-18T13:30:51+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: Owen Hart Cup tournament semifinal match and more set for Saturday",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Owen Hart Cup tournament semifinal match and more set for Saturday appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/18/aew-collision-lineup-owen-hart-cup-tournament-semifinal-match-and-more-set-for-saturday/",
+      "t": "2h",
+      "dt": "2026-06-18T13:00:51+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "MJF and Mark Briscoe’s AEW x NJPW Forbidden Door team members revealed",
-      "p": "MJF and Mark Briscoe’s teams for their upcoming AEW x NJPW Forbidden Door match have been revealed. Both squads were announced and part of a 12-man tag team match on Wednesday’s Dynamite....",
-      "link": "https://www.f4wonline.com/news/aew/mjf-and-mark-briscoes-aew-x-njpw-forbidden-door-team-members-revealed/",
-      "t": "8h",
-      "dt": "2026-06-18T02:58:34+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Zack Sabre Jr., The Elite part of this week’s AEW Collision lineup",
-      "p": "Several new matches and segments have been added to this Saturday’s AEW Collision lineup. Ahead of his AEW x NJPW Forbidden Door match against Kenny Omega, Zack Sabre Jr. will face Adam Priest in...",
-      "link": "https://www.f4wonline.com/news/aew/zack-sabre-jr-the-elite-part-of-updated-next-aew-collision-lineup/",
-      "t": "8h",
-      "dt": "2026-06-18T02:46:07+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "MJF & Briscoe Choose Teams: AEW Dynamite 6/17/26 Review | RAD",
-      "p": "Pollock & Ting review #AEWDynamite as MJF and Briscoe unveil Forbidden Door teams before a 12-man tag. Also: Moné vs Hazuki, Ospreay and Swerve face off. XL Edition with news on Conor McGregor and...",
-      "link": "https://www.postwrestling.com/2026/06/17/aew-dynamite-6-17-26-review-rad-live-1035pm-et/",
-      "t": "8h",
-      "dt": "2026-06-18T02:35:54+00:00"
+      "h": "Bryan Alvarez’s AEW Dynamite June 17, 2026 report for subscribers",
+      "p": "Bryan Alvarez’s report on AEW Dynamite is now available for subscribers.",
+      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-june-17-2026-report-for-subscribers/",
+      "t": "3h",
+      "dt": "2026-06-18T12:27:17+00:00"
     }
   ]
 }

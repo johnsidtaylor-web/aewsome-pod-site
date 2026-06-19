@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-19T17:26:04.431242+00:00",
+  "updated": "2026-06-19T20:02:20.204219+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "JoJo Offerman Speaks About Potential AEW Return: “We’ll See… Working On It”",
+      "p": "A potential return to AEW for JoJo Offerman. Former WWE ring announcer and personality JoJo Offerman has done ring announcing for All Elite Wrestling, and in 2025, she performed Chaka Khan’s...",
+      "link": "https://www.fightful.com/wrestling-news/jojo-offerman-speaks-about-potential-aew-return-well-see-working-on-it/",
+      "t": "30m",
+      "dt": "2026-06-19T19:31:28+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Cash Wheeler Doesn't Believe FTR Will Have Another AEW Tag Title Run",
+      "p": "Cash Wheeler explains why he and Dax Harwood likely won't have another AEW tag title run in their future.",
+      "link": "https://www.wrestlinginc.com/2198170/aew-ftr-cash-wheeler-doesnt-believe-another-tag-title-run/",
+      "t": "55m",
+      "dt": "2026-06-19T19:06:51+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Lio Rush Wins ROH Television Championship During Global Wars Special",
+      "p": "Lio Rush won his first title in ROH or AEW when he won a three-way match during Thursday's Global Wars special.",
+      "link": "https://www.wrestlinginc.com/2198134/roh-ring-honor-lio-rush-television-championship-global-wars-special/",
+      "t": "2h",
+      "dt": "2026-06-19T17:55:01+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW launches free channel on Tubi",
+      "p": "AEW content recently started popping up on Tubi, and now the promotion has officially launched its own channel on the Fox-owned service. Fans took notice last week that 101 episodes of Dynamite...",
+      "link": "https://www.f4wonline.com/news/aew/aew-launches-free-channel-on-tubi/",
+      "t": "2h",
+      "dt": "2026-06-19T17:37:40+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "TNA re-signs former multi-division champion to contract",
+      "p": "After returning to the company earlier this year following an aborted contract with AEW, Trey Miguel is staying with TNA Wrestling. Announced on The Battleground Podcast and later confirmed by TNA...",
+      "link": "https://www.f4wonline.com/news/tna-wrestling/trey-miguel-resigns-tna-wrestling-contract/",
+      "t": "2h",
+      "dt": "2026-06-19T17:30:22+00:00"
+    },
+    {
       "src": "POST Wrestling",
       "h": "WatchAEW FAST Channel added to Tubi",
       "p": "A free, 24/7 channel of AEW replays has been added to Tubi, it was confirmed this week. The post WatchAEW FAST Channel added to Tubi appeared first on POST Wrestling | Podcasts, News, Reviews |...",
       "link": "https://www.postwrestling.com/2026/06/19/watchaew-fast-channel-added-to-tubi/",
-      "t": "36m",
+      "t": "3h",
       "dt": "2026-06-19T16:49:29+00:00"
     },
     {
@@ -24,39 +64,23 @@
       "h": "Wrestling Weekly: What makes a good developmental territory, MJF’s many World title challengers",
       "p": "With TNA reportedly nearing a deal to have OVW as a developmental territory, the new Wrestling Weekly features Les Thatcher and Vic Sosa looking back at the time Les ran a developmental territory...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-tna-wwe-developmental-mjf-aew/",
-      "t": "39m",
+      "t": "3h",
       "dt": "2026-06-19T16:46:21+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "WatchAEW 24/7 Channel Added To Tubi",
-      "p": "Tubi gets more AEW content. On Friday, June 19, the company took to social media to announce that their WatchAEW FAST channel is now available on Tubi. For those that are unaware, a FAST channel...",
-      "link": "https://www.fightful.com/wrestling-news/aew-watch-24-7-channel-added-to-tubi/",
-      "t": "59m",
-      "dt": "2026-06-19T16:26:29+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW reportedly discussing Matt Sydal’s return after two years",
       "p": "AEW is reportedly considering Matt Sydal’s return for in-ring competition after his two-year absence. According to Mike Johnson of PWInsider, there have been internal discussions in AEW to bring...",
       "link": "https://www.f4wonline.com/news/aew/aew-reportedly-discussing-matt-sydals-return-after-two-years/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-19T15:54:02+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Dalton Castle Comments On Idea Of Roman Reigns & Seth Rollins Being The Boys: “Could You Imagine Me Between The Two?”",
-      "p": "Dalton Castle ponders the idea. K & S WrestleFest hosted a virtual signing with one-third of the ROH World Six-Man Tag Team Champions, Dalton Castle. As the signing moved along, Castle commented...",
-      "link": "https://www.fightful.com/wrestling-news/dalton-castle-comments-on-idea-of-roman-reigns-seth-rollins-being-the-boys-could-you-imagine-me-between-the-two/",
-      "t": "1h",
-      "dt": "2026-06-19T15:47:52+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "ROH on HonorClub results (6/18): Global Wars with Athena vs. Syuri for the ROH Women’s Championship, Konosuke Takeshita vs. Lee Johnson for the AEW International Title",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (6/18): Global Wars with Athena vs. Syuri for the ROH Women’s Championship, Konosuke Takeshita vs. Lee Johnson for the...",
       "link": "https://prowrestling.net/site/2026/06/19/roh-on-honorclub-results-6-18-global-wars-with-athena-vs-syuri-for-the-roh-womens-championship-konosuke-takeshita-vs-lee-johnson-for-the-aew-international-title/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-19T15:02:57+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Deonna Purrazzo shares scary stalker story, police could not file report",
       "p": "Last summer, AEW/ROH wrestler Deonna Purrazzo went through a scary situation where she was stalked by a man who believed they were in a relationship. Purrazzo shared the story on social media last...",
       "link": "https://www.f4wonline.com/news/aew/deonna-purrazzo-shares-scary-aew-stalker-story/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-19T14:58:34+00:00"
     },
     {
@@ -72,40 +96,16 @@
       "h": "AEW wrestler says Cody Rhodes is ‘a polarizing figure’",
       "p": "Eddie Kingston shared his thoughts on WWE Champion Cody Rhodes, describing him as a ‘polarizing figure’ while reflecting on their history together. Kingston was featured on the latest edition of...",
       "link": "https://www.f4wonline.com/news/aew-wrestler-says-cody-rhodes-is-a-polarizing-figure/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-19T14:45:28+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW tag team member reveals scrapped CM Punk match",
-      "p": "Cash Wheeler revealed details of a scrapped match with CM Punk in AEW while discussing plans on pursuing a singles career. Wheeler gave insight on LNG Productions about the suggestions and pitches...",
-      "link": "https://www.f4wonline.com/news/aew-tag-team-member-reveals-scrapped-cm-punk-match/",
-      "t": "4h",
-      "dt": "2026-06-19T12:31:41+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Dustin Rhodes Says He Tried To Talk Tony Khan Out Of AEW All In 2025 Title Win",
       "p": "Dustin Rhodes reveals that he tried to talk AEW President Tony Khan out of awarding him the TNT Championship at All In 2025.",
       "link": "https://www.wrestlinginc.com/2193912/aew-all-in-2025-dustin-rhodes-tony-khan-tried-talk-out-title-win/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-06-19T12:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Claudio Castagnoli addresses Death Riders’ potential new members in AEW",
-      "p": "AEW’s Claudio Castagnoli gave insight on Death Riders potentially adding new members. In an interview with 107.7 The Bone, Castagnoli addressed the possibility of Death Riders adding new members....",
-      "link": "https://www.f4wonline.com/news/claudio-castagnoli-addresses-death-riders-potential-new-members-in-aew/",
-      "t": "6h",
-      "dt": "2026-06-19T11:23:56+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Ex-AEW Star Allie Officially Signs With TNA Ahead Of Slammiversary Tag Title Match",
-      "p": "Ahead of her tag title opportunity, former AEW star Allie confirms that she has officially inked a contract with TNA Wrestling.",
-      "link": "https://www.wrestlinginc.com/2197890/aew-allie-signs-tna-slammiversary-tag-title-match/",
-      "t": "16h",
-      "dt": "2026-06-19T00:52:17+00:00"
     }
   ]
 }

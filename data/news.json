@@ -1,38 +1,62 @@
 {
-  "updated": "2026-06-20T14:28:18.937007+00:00",
+  "updated": "2026-06-20T16:47:42.488963+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "CM Punk announced for MMA commentary return next week",
+      "p": "CM Punk is returning to MMA commentary next week. Cage Fury Fighting Championships announced that Punk will be back on the broadcast team for CFFC 156, which takes place at Hard Rock Casino...",
+      "link": "https://www.f4wonline.com/news/wwe/cm-punk-announced-for-mma-commentary-return-next-week/",
+      "t": "50m",
+      "dt": "2026-06-20T15:57:07+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Shota Umino says he will defend IWGP Global Title against PAC at Forbidden Door",
+      "p": "Shota Umino has accepted PAC’s challenge for a match at Forbidden Door, with the IWGP Global Heavyweight Championship set to be defended. The post Shota Umino says he will defend IWGP Global Title...",
+      "link": "https://www.postwrestling.com/2026/06/20/shota-umino-says-he-will-defend-iwgp-global-title-against-pac-at-forbidden-door/",
+      "t": "1h",
+      "dt": "2026-06-20T15:30:02+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Matt Hardy Believes CM Punk-AEW Relationship Could Be Repaired",
+      "p": "Matt Hardy believes CM Punk could one day return to AEW, while also discussing the missed potential of a feud against the Young Bucks.",
+      "link": "https://www.wrestlinginc.com/2194663/aew-matt-hardy-cm-punk-relationship-repaired/",
+      "t": "1h",
+      "dt": "2026-06-20T15:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Don Callis Family member attacks former stablemate at Arena Mexico",
+      "p": "A current Don Callis Family member teamed with a recently ousted member of the group on Friday night in Arena Mexico. Despite being kicked out of the Don Callis Family at Double or Nothing last...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/don-callis-family-member-attacks-former-stablemate-at-arena-mexico/",
+      "t": "2h",
+      "dt": "2026-06-20T14:36:39+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "Sareee set for first match since missing AEW Owen Hart tournament",
       "p": "Sareee is returning to the ring. She announced on Saturday that she will take part in a show for the Marvelous promotion on Sunday, June 21 at Fukuoka Nishitetsu Hall. Sareee will team with Takumi...",
       "link": "https://www.f4wonline.com/news/aew/sareee-set-for-first-match-since-missing-aew-owen-hart-tournament/",
-      "t": "18m",
+      "t": "2h",
       "dt": "2026-06-20T14:09:54+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Shota Umino Agrees To Defend IWGP Global Heavyweight Title Against PAC At AEW x NJPW Forbidden Door 2026",
-      "p": "Shota accepted the challenge from PAC. A video message was pushed out by All Elite Wrestling from Death Riders member PAC. He called out IWGP Global Heavyweight Champion Shota Umino for a title...",
-      "link": "https://www.fightful.com/wrestling-news/shota-umino-agrees-to-defend-iwgp-global-heavyweight-title-against-pac-at-aew-x-njpw-forbidden-door-2026/",
-      "t": "27m",
-      "dt": "2026-06-20T14:00:32+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Thekla crashes STARDOM event in Tokyo, attacks company president",
       "p": "AEW Women’s World Champion Thekla made a surprise appearance at STARDOM’s The Conversion 2026, attacking company president Taro Okada before being stopped by Starlight Kid. The post Thekla crashes...",
       "link": "https://www.postwrestling.com/2026/06/20/thekla-crashes-stardom-event-in-tokyo-attacks-company-president/",
-      "t": "38m",
+      "t": "2h",
       "dt": "2026-06-20T13:49:26+00:00"
     },
     {
@@ -40,23 +64,15 @@
       "h": "VIP 2006 BACK ISSUE – Pro Wrestling Torch #919 (June 18, 2006): In-depth coverage of ECW relaunch, backstage ECW relaunch news, ROH Best in the World DVD roundtable reviews, Bruno Sammartino Torch interview",
       "p": "SUMMARY of #919 cover-dated June 18, 2006: This issue includes a cover story on the first ECW on Sci Fi rating including historical perspective of how debut wrestling shows have done over the...",
       "link": "https://www.pwtorch.com/site/2026/06/20/vip-2006-back-issue-pro-wrestling-torch-919-june-18-2006-in-depth-coverage-of-ecw-relaunch-backstage-ecw-relaunch-news-roh-best-in-the-world-dvd-roundtable-reviews-bruno-sammartino-t/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-20T13:00:32+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Thekla Appears At STARDOM The Conversion, Whips Taro Okada With Belt",
-      "p": "Thekla has made an appearance at STARDOM The Conversion, once again ruining Taro Okada’s day before brawling with Starlight Kid. The AEW Women’s World Champion is currently set to defend her...",
-      "link": "https://www.fightful.com/wrestling-news/thekla-appears-at-stardom-the-conversion-whips-taro-okada-with-belt/",
-      "t": "1h",
-      "dt": "2026-06-20T12:50:04+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "IWGP Global champion responds to challenge for AEW x NJPW Forbidden Door",
       "p": "The IWGP Global Heavyweight Championship looks to be on the line at Forbidden Door. PAC’s video challenging champion Shota Umino for the June 28 pay-per-view was shown on Saturday at Yuji Nagata...",
       "link": "https://www.f4wonline.com/news/aew/iwgp-global-champion-responds-to-challenge-for-aew-x-njpw-forbidden-door/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-20T12:21:23+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Thekla makes surprise appearance at Stardom The Conversion 2026",
       "p": "Thekla’s rivalry against her former promotion continued on Saturday. The AEW Women’s World Champion made a surprise appearance at Stardom The Conversion 2026 on June 20. Following the third match...",
       "link": "https://www.f4wonline.com/news/aew/thekla-makes-surprise-appearance-at-stardom-the-conversion-2026/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-20T11:44:13+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "AEW Collision lineup: Owen Hart Cup tournament semifinal match and more set for Saturday",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Owen Hart Cup tournament semifinal match and more set for Saturday appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/20/aew-collision-lineup-owen-hart-cup-tournament-semifinal-match-and-more-set-for-saturday-2/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-20T11:00:08+00:00"
     },
     {
@@ -80,32 +96,16 @@
       "h": "Deonna Purrazzo, Myla Grace call out TNA’s AJ Francis for online comments",
       "p": "AJ Francis was blessed with size, charisma, and a gift for drawing heat—in the ring and in the locker room alike. In an attempt to defend some of TNA’s recent roster moves, Francis took to social...",
       "link": "https://www.f4wonline.com/news/tna-wrestling/deonna-purrazzo-myla-grace-call-out-tnas-aj-francis-for-online-comments/",
-      "t": "12h",
-      "dt": "2026-06-20T01:30:41+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: Forbidden Door, UFC White House ratings",
-      "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-forbidden-door-ufc-white-house-ratings/",
       "t": "15h",
-      "dt": "2026-06-19T23:13:00+00:00"
+      "dt": "2026-06-20T01:30:41+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW Star Cash Wheeler Was So Impressed By Recent WWE Match He Watched It Twice",
       "p": "AEW's Cash Wheeler was so impressed by one recent, extremely popular match that he admitted he's watched it twice already.",
       "link": "https://www.wrestlinginc.com/2198266/aew-wwe-aaa-cash-wheeler-chad-gable-ludwig-kaiser-grande-americano-impressed-watched-twice/",
-      "t": "15h",
-      "dt": "2026-06-19T23:12:01+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Update On Matt Sydal's AEW Status",
-      "p": "A backstage update on Matt Sydal's status with AEW was reported on Friday amidst the star's two-year absence from the company.",
-      "link": "https://www.wrestlinginc.com/2198231/aew-matt-sydal-backstage-update-status-return-discussed/",
       "t": "17h",
-      "dt": "2026-06-19T21:10:11+00:00"
+      "dt": "2026-06-19T23:12:01+00:00"
     }
   ]
 }

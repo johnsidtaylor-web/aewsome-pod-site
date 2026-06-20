@@ -1,22 +1,46 @@
 {
-  "updated": "2026-06-19T23:13:02.694108+00:00",
+  "updated": "2026-06-20T00:19:55.827466+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "More Promotions To Be Announced For MyAEW",
+      "p": "Details on MyAEW. Fightful Select reports “There are still promotions to be announced for MyAEW.” The following promotions are currently on the streaming platform: Limitless, 1FW, C*4, PRODUCE,...",
+      "link": "https://www.fightful.com/wrestling-news/more-promotions-to-be-announced-for-myaew/",
+      "t": "12m",
+      "dt": "2026-06-20T00:06:57+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOR: Forbidden Door, UFC White House ratings",
+      "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
+      "link": "https://www.f4wonline.com/podcasts/wor-forbidden-door-ufc-white-house-ratings/",
+      "t": "35m",
+      "dt": "2026-06-19T23:44:30+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Star Cash Wheeler Was So Impressed By Recent WWE Match He Watched It Twice",
+      "p": "AEW's Cash Wheeler was so impressed by one recent, extremely popular match that he admitted he's watched it twice already.",
+      "link": "https://www.wrestlinginc.com/2198266/aew-wwe-aaa-cash-wheeler-chad-gable-ludwig-kaiser-grande-americano-impressed-watched-twice/",
+      "t": "1h",
+      "dt": "2026-06-19T23:12:01+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Backstage Update On Matt Sydal's AEW Status",
       "p": "A backstage update on Matt Sydal's status with AEW was reported on Friday amidst the star's two-year absence from the company.",
       "link": "https://www.wrestlinginc.com/2198231/aew-matt-sydal-backstage-update-status-return-discussed/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-06-19T21:10:11+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Cash Wheeler Doesn't Believe FTR Will Have Another AEW Tag Title Run",
       "p": "Cash Wheeler explains why he and Dax Harwood likely won't have another AEW tag title run in their future.",
       "link": "https://www.wrestlinginc.com/2198170/aew-ftr-cash-wheeler-doesnt-believe-another-tag-title-run/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-06-19T19:06:51+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Lio Rush Wins ROH Television Championship During Global Wars Special",
       "p": "Lio Rush won his first title in ROH or AEW when he won a three-way match during Thursday's Global Wars special.",
       "link": "https://www.wrestlinginc.com/2198134/roh-ring-honor-lio-rush-television-championship-global-wars-special/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-06-19T17:55:01+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW launches free channel on Tubi",
       "p": "AEW content recently started popping up on Tubi, and now the promotion has officially launched its own channel on the Fox-owned service. Fans took notice last week that 101 episodes of Dynamite...",
       "link": "https://www.f4wonline.com/news/aew/aew-launches-free-channel-on-tubi/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-06-19T17:37:40+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "TNA re-signs former multi-division champion to contract",
       "p": "After returning to the company earlier this year following an aborted contract with AEW, Trey Miguel is staying with TNA Wrestling. Announced on The Battleground Podcast and later confirmed by TNA...",
       "link": "https://www.f4wonline.com/news/tna-wrestling/trey-miguel-resigns-tna-wrestling-contract/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-06-19T17:30:22+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "WatchAEW FAST Channel added to Tubi",
       "p": "A free, 24/7 channel of AEW replays has been added to Tubi, it was confirmed this week. The post WatchAEW FAST Channel added to Tubi appeared first on POST Wrestling | Podcasts, News, Reviews |...",
       "link": "https://www.postwrestling.com/2026/06/19/watchaew-fast-channel-added-to-tubi/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-06-19T16:49:29+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Wrestling Weekly: What makes a good developmental territory, MJF’s many World title challengers",
       "p": "With TNA reportedly nearing a deal to have OVW as a developmental territory, the new Wrestling Weekly features Les Thatcher and Vic Sosa looking back at the time Les ran a developmental territory...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-tna-wwe-developmental-mjf-aew/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-06-19T16:46:21+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW reportedly discussing Matt Sydal’s return after two years",
       "p": "AEW is reportedly considering Matt Sydal’s return for in-ring competition after his two-year absence. According to Mike Johnson of PWInsider, there have been internal discussions in AEW to bring...",
       "link": "https://www.f4wonline.com/news/aew/aew-reportedly-discussing-matt-sydals-return-after-two-years/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-06-19T15:54:02+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "ROH on HonorClub results (6/18): Global Wars with Athena vs. Syuri for the ROH Women’s Championship, Konosuke Takeshita vs. Lee Johnson for the AEW International Title",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (6/18): Global Wars with Athena vs. Syuri for the ROH Women’s Championship, Konosuke Takeshita vs. Lee Johnson for the...",
       "link": "https://prowrestling.net/site/2026/06/19/roh-on-honorclub-results-6-18-global-wars-with-athena-vs-syuri-for-the-roh-womens-championship-konosuke-takeshita-vs-lee-johnson-for-the-aew-international-title/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-06-19T15:02:57+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Deonna Purrazzo shares scary stalker story, police could not file report",
-      "p": "Last summer, AEW/ROH wrestler Deonna Purrazzo went through a scary situation where she was stalked by a man who believed they were in a relationship. Purrazzo shared the story on social media last...",
-      "link": "https://www.f4wonline.com/news/aew/deonna-purrazzo-shares-scary-aew-stalker-story/",
-      "t": "8h",
-      "dt": "2026-06-19T14:58:34+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW wrestler says Cody Rhodes is ‘a polarizing figure’",
-      "p": "Eddie Kingston shared his thoughts on WWE Champion Cody Rhodes, describing him as a ‘polarizing figure’ while reflecting on their history together. Kingston was featured on the latest edition of...",
-      "link": "https://www.f4wonline.com/news/aew-wrestler-says-cody-rhodes-is-a-polarizing-figure/",
-      "t": "8h",
-      "dt": "2026-06-19T14:45:28+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Mercedes Moné vs. Hazuki steals the show and the Owen Hart Tournament, Will Ospreay and Swerve Strickland chat intensely, Brodido Returns!",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Mercedes Moné vs. Hazuki steals the show and the Owen Hart Tournament, Will Ospreay and Swerve...",
-      "link": "https://prowrestling.net/site/2026/06/18/pruetts-pause-10-thoughts-on-aew-dynamite-mercedes-mone-vs-hazuki-steals-the-show-and-the-owen-hart-tournament-will-ospreay-and-swerve-strickland-chat-intensely-brodido-returns/",
-      "t": "1d",
-      "dt": "2026-06-18T20:15:03+00:00"
     }
   ]
 }

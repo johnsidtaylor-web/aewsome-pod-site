@@ -1,30 +1,70 @@
 {
-  "updated": "2026-06-20T22:21:47.852146+00:00",
+  "updated": "2026-06-21T00:20:23.787170+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (1 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 6/20/26 Review | COLLISION COURSE (Live 10:15pm ET)",
+      "p": "TONIGHT 10:15PM ET — Kate from MTL & Ray Williams review #AEWCollision featuring Athena vs Maya World in the last Owen Cup Semifinal. The post AEW Collision 6/20/26 Review | COLLISION COURSE (Live...",
+      "link": "https://www.postwrestling.com/2026/06/20/aew-collision-6-20-26-review-collision-course-live-1015pm-et/",
+      "t": "5m",
+      "dt": "2026-06-21T00:15:00+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Jim Ross Announces He’s Been Hospitalized For 22 Days",
-      "p": "An update directly from Jim Ross. Taking to his social media, All Elite Wrestling commentator and WWE Hall of Famer Jim Ross shared that he’s been hospitalized in Norman, Oklahoma, for 22 days....",
-      "link": "https://www.fightful.com/wrestling-news/jim-ross-announces-hes-been-hospitalized-for-22-days/",
+      "h": "AEW Collision Results (6/20/2026): Athena vs. Maya World, Místico, Kris Statlander, The Elite, Hurt Syndicate, More",
+      "p": "Results for the June 20, 2026, edition of AEW Collision from the Smart Financial Centre in Sugar Land, Texas. On June 20, 2026, All Elite Wrestling hosted a new episode of AEW Collision on TNT &...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-results-6-20-2026-athena-vs-maya-world-mistico-kris-statlander-the-elite-hurt-syndicate-more/",
       "t": "1h",
-      "dt": "2026-06-20T20:33:19+00:00"
+      "dt": "2026-06-20T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision live results: Athena vs. Maya World",
+      "p": "AEW Collision takes place tonight. The show was taped on Wednesday, the same night as Dynamite, from the Smart Financial Centre in Sugar Land, Texas. The final semifinal match in the women’s Owen...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-live-results-athena-vs-maya-world/",
+      "t": "1h",
+      "dt": "2026-06-20T23:05:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Results - 6/20/2026: Women's Owen Semi-Final, Survival Of The Fittest Qualifier, More",
+      "p": "Athena will face Maya World to determine who goes to Forbidden Door. Kris Statlander will take on Mina Shirakawa in the SotF qualifying match.",
+      "link": "https://www.wrestlinginc.com/2198387/aew-collision-results-june-20-2026-womens-owen-semi-final-survival-fittest-qualifier-more/",
+      "t": "1h",
+      "dt": "2026-06-20T23:04:47+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Cash Wheeler Explains Why He Was Not At AEW Grand Slam Mexico 2025: “I Had The Wrong Passport & Got Held Hostage For 18 Hours Or So”",
+      "p": "The reason why Cash Wheeler was not at Grand Slam Mexico. It was in June 2025 that All Elite Wrestling presented a show at Arena México titled Grand Slam Mexico. The opening match of the card was...",
+      "link": "https://www.fightful.com/wrestling-news/cash-wheeler-explains-why-he-was-not-at-aew-grand-slam-mexico-2025-i-had-the-wrong-passport-got-held-hostage-for-18-hours-or-so/",
+      "t": "1h",
+      "dt": "2026-06-20T22:48:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Cash Wheeler Thinks FTR’s Latest AEW World Tag Title Run Will Likely Be Their Last",
+      "p": "FTR are three-time AEW Tag Team Champions. There have been three occasions throughout FTR’s time in All Elite Wrestling that they’ve captured that company’s World Tag Team Championship. That third...",
+      "link": "https://www.fightful.com/wrestling-news/cash-wheeler-thinks-ftrs-latest-aew-world-tag-title-run-will-likely-be-their-last/",
+      "t": "1h",
+      "dt": "2026-06-20T22:35:41+00:00"
     },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 6/20 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner ask, has the Forbidden Door gimmick worn out? (100 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review last Wednesday’s Dynamite from Sugar Land, Tex. They review Mercedes...",
       "link": "https://www.pwtorch.com/site/2026/06/20/free-podcast-6-20-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-ask-has-the-forbidden-door-gimmick-worn-out-100-min/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-06-20T18:00:45+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "CM Punk announced for MMA commentary return next week",
       "p": "CM Punk is returning to MMA commentary next week. Cage Fury Fighting Championships announced that Punk will be back on the broadcast team for CFFC 156, which takes place at Hard Rock Casino...",
       "link": "https://www.f4wonline.com/news/wwe/cm-punk-announced-for-mma-commentary-return-next-week/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-06-20T15:57:07+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Shota Umino says he will defend IWGP Global Title against PAC at Forbidden Door",
       "p": "Shota Umino has accepted PAC’s challenge for a match at Forbidden Door, with the IWGP Global Heavyweight Championship set to be defended. The post Shota Umino says he will defend IWGP Global Title...",
       "link": "https://www.postwrestling.com/2026/06/20/shota-umino-says-he-will-defend-iwgp-global-title-against-pac-at-forbidden-door/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-06-20T15:30:02+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Matt Hardy Believes CM Punk-AEW Relationship Could Be Repaired",
       "p": "Matt Hardy believes CM Punk could one day return to AEW, while also discussing the missed potential of a feud against the Young Bucks.",
       "link": "https://www.wrestlinginc.com/2194663/aew-matt-hardy-cm-punk-relationship-repaired/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-06-20T15:00:00+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "Don Callis Family member attacks former stablemate at Arena Mexico",
       "p": "A current Don Callis Family member teamed with a recently ousted member of the group on Friday night in Arena Mexico. Despite being kicked out of the Don Callis Family at Double or Nothing last...",
       "link": "https://www.f4wonline.com/news/other-wrestling/don-callis-family-member-attacks-former-stablemate-at-arena-mexico/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-06-20T14:36:39+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Sareee set for first match since missing AEW Owen Hart tournament",
       "p": "Sareee is returning to the ring. She announced on Saturday that she will take part in a show for the Marvelous promotion on Sunday, June 21 at Fukuoka Nishitetsu Hall. Sareee will team with Takumi...",
       "link": "https://www.f4wonline.com/news/aew/sareee-set-for-first-match-since-missing-aew-owen-hart-tournament/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-06-20T14:09:54+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Thekla crashes STARDOM event in Tokyo, attacks company president",
-      "p": "AEW Women’s World Champion Thekla made a surprise appearance at STARDOM’s The Conversion 2026, attacking company president Taro Okada before being stopped by Starlight Kid. The post Thekla crashes...",
-      "link": "https://www.postwrestling.com/2026/06/20/thekla-crashes-stardom-event-in-tokyo-attacks-company-president/",
-      "t": "8h",
-      "dt": "2026-06-20T13:49:26+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP 2006 BACK ISSUE – Pro Wrestling Torch #919 (June 18, 2006): In-depth coverage of ECW relaunch, backstage ECW relaunch news, ROH Best in the World DVD roundtable reviews, Bruno Sammartino Torch interview",
-      "p": "SUMMARY of #919 cover-dated June 18, 2006: This issue includes a cover story on the first ECW on Sci Fi rating including historical perspective of how debut wrestling shows have done over the...",
-      "link": "https://www.pwtorch.com/site/2026/06/20/vip-2006-back-issue-pro-wrestling-torch-919-june-18-2006-in-depth-coverage-of-ecw-relaunch-backstage-ecw-relaunch-news-roh-best-in-the-world-dvd-roundtable-reviews-bruno-sammartino-t/",
-      "t": "9h",
-      "dt": "2026-06-20T13:00:32+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "IWGP Global champion responds to challenge for AEW x NJPW Forbidden Door",
-      "p": "The IWGP Global Heavyweight Championship looks to be on the line at Forbidden Door. PAC’s video challenging champion Shota Umino for the June 28 pay-per-view was shown on Saturday at Yuji Nagata...",
-      "link": "https://www.f4wonline.com/news/aew/iwgp-global-champion-responds-to-challenge-for-aew-x-njpw-forbidden-door/",
-      "t": "10h",
-      "dt": "2026-06-20T12:21:23+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Thekla makes surprise appearance at Stardom The Conversion 2026",
-      "p": "Thekla’s rivalry against her former promotion continued on Saturday. The AEW Women’s World Champion made a surprise appearance at Stardom The Conversion 2026 on June 20. Following the third match...",
-      "link": "https://www.f4wonline.com/news/aew/thekla-makes-surprise-appearance-at-stardom-the-conversion-2026/",
-      "t": "10h",
-      "dt": "2026-06-20T11:44:13+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Owen Hart Cup tournament semifinal match and more set for Saturday",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Owen Hart Cup tournament semifinal match and more set for Saturday appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/20/aew-collision-lineup-owen-hart-cup-tournament-semifinal-match-and-more-set-for-saturday-2/",
-      "t": "11h",
-      "dt": "2026-06-20T11:00:08+00:00"
     }
   ]
 }

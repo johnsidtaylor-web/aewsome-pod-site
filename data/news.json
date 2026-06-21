@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-21T00:20:23.787170+00:00",
+  "updated": "2026-06-21T06:17:29.848654+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "POST Wrestling",
-      "h": "AEW Collision 6/20/26 Review | COLLISION COURSE (Live 10:15pm ET)",
-      "p": "TONIGHT 10:15PM ET — Kate from MTL & Ray Williams review #AEWCollision featuring Athena vs Maya World in the last Owen Cup Semifinal. The post AEW Collision 6/20/26 Review | COLLISION COURSE (Live...",
-      "link": "https://www.postwrestling.com/2026/06/20/aew-collision-6-20-26-review-collision-course-live-1015pm-et/",
-      "t": "5m",
-      "dt": "2026-06-21T00:15:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Results (6/20/2026): Athena vs. Maya World, Místico, Kris Statlander, The Elite, Hurt Syndicate, More",
-      "p": "Results for the June 20, 2026, edition of AEW Collision from the Smart Financial Centre in Sugar Land, Texas. On June 20, 2026, All Elite Wrestling hosted a new episode of AEW Collision on TNT &...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-results-6-20-2026-athena-vs-maya-world-mistico-kris-statlander-the-elite-hurt-syndicate-more/",
-      "t": "1h",
-      "dt": "2026-06-20T23:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision live results: Athena vs. Maya World",
-      "p": "AEW Collision takes place tonight. The show was taped on Wednesday, the same night as Dynamite, from the Smart Financial Centre in Sugar Land, Texas. The final semifinal match in the women’s Owen...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-live-results-athena-vs-maya-world/",
-      "t": "1h",
-      "dt": "2026-06-20T23:05:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Collision Results - 6/20/2026: Women's Owen Semi-Final, Survival Of The Fittest Qualifier, More",
-      "p": "Athena will face Maya World to determine who goes to Forbidden Door. Kris Statlander will take on Mina Shirakawa in the SotF qualifying match.",
-      "link": "https://www.wrestlinginc.com/2198387/aew-collision-results-june-20-2026-womens-owen-semi-final-survival-fittest-qualifier-more/",
-      "t": "1h",
-      "dt": "2026-06-20T23:04:47+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Cash Wheeler Explains Why He Was Not At AEW Grand Slam Mexico 2025: “I Had The Wrong Passport & Got Held Hostage For 18 Hours Or So”",
-      "p": "The reason why Cash Wheeler was not at Grand Slam Mexico. It was in June 2025 that All Elite Wrestling presented a show at Arena México titled Grand Slam Mexico. The opening match of the card was...",
-      "link": "https://www.fightful.com/wrestling-news/cash-wheeler-explains-why-he-was-not-at-aew-grand-slam-mexico-2025-i-had-the-wrong-passport-got-held-hostage-for-18-hours-or-so/",
-      "t": "1h",
-      "dt": "2026-06-20T22:48:13+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Cash Wheeler Thinks FTR’s Latest AEW World Tag Title Run Will Likely Be Their Last",
-      "p": "FTR are three-time AEW Tag Team Champions. There have been three occasions throughout FTR’s time in All Elite Wrestling that they’ve captured that company’s World Tag Team Championship. That third...",
-      "link": "https://www.fightful.com/wrestling-news/cash-wheeler-thinks-ftrs-latest-aew-world-tag-title-run-will-likely-be-their-last/",
-      "t": "1h",
-      "dt": "2026-06-20T22:35:41+00:00"
-    },
-    {
       "src": "PWTorch",
-      "h": "FREE PODCAST 6/20 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner ask, has the Forbidden Door gimmick worn out? (100 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review last Wednesday’s Dynamite from Sugar Land, Tex. They review Mercedes...",
-      "link": "https://www.pwtorch.com/site/2026/06/20/free-podcast-6-20-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-ask-has-the-forbidden-door-gimmick-worn-out-100-min/",
-      "t": "6h",
-      "dt": "2026-06-20T18:00:45+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "CM Punk announced for MMA commentary return next week",
-      "p": "CM Punk is returning to MMA commentary next week. Cage Fury Fighting Championships announced that Punk will be back on the broadcast team for CFFC 156, which takes place at Hard Rock Casino...",
-      "link": "https://www.f4wonline.com/news/wwe/cm-punk-announced-for-mma-commentary-return-next-week/",
-      "t": "8h",
-      "dt": "2026-06-20T15:57:07+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Shota Umino says he will defend IWGP Global Title against PAC at Forbidden Door",
-      "p": "Shota Umino has accepted PAC’s challenge for a match at Forbidden Door, with the IWGP Global Heavyweight Championship set to be defended. The post Shota Umino says he will defend IWGP Global Title...",
-      "link": "https://www.postwrestling.com/2026/06/20/shota-umino-says-he-will-defend-iwgp-global-title-against-pac-at-forbidden-door/",
-      "t": "8h",
-      "dt": "2026-06-20T15:30:02+00:00"
+      "h": "AEW COLLISION RESULTS (6/20): Athena vs. Maya World in tournament match, Mistico vs. Dante Martin, Statlander vs. Mina in a qualifying match, The Young Bucks in action, and more",
+      "p": "AEW COLLISION REPORT JUNE 20, 2026 (recorded 6/17) SUGAR LAND, TEX. AT SMART FINANCIAL CENTRE AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Excalibur & Tony...",
+      "link": "https://www.pwtorch.com/site/2026/06/21/aew-collision-results-6-20-athena-vs-maya-world-in-tournament-match-mistico-vs-dante-martin-statlander-vs-mina-in-a-qualifying-match-the-young-bucks-in-action-and-more/",
+      "t": "1h",
+      "dt": "2026-06-21T05:15:36+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Matt Hardy Believes CM Punk-AEW Relationship Could Be Repaired",
-      "p": "Matt Hardy believes CM Punk could one day return to AEW, while also discussing the missed potential of a feud against the Young Bucks.",
-      "link": "https://www.wrestlinginc.com/2194663/aew-matt-hardy-cm-punk-relationship-repaired/",
-      "t": "9h",
-      "dt": "2026-06-20T15:00:00+00:00"
+      "h": "Kris Statlander Details Tattoo Directly Related To AEW Blood & Guts Match",
+      "p": "AEW star Kris Statlander details the tattoo she recently got on her back, which is related to an infamous spot from the first Women's Blood & Guts match",
+      "link": "https://www.wrestlinginc.com/2195825/aew-blood-guts-kris-statlander-tattoo-nails-scars/",
+      "t": "2h",
+      "dt": "2026-06-21T03:59:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision results (6/20): Murphy’s review of Athena vs. Maya World in an Owen Hart Cup tournament semifinal match, Mina Shirakawa vs. Kris Statlander in a Survival of the Fittest qualifier",
+      "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (6/20): Murphy’s review of Athena vs. Maya World in an Owen Hart Cup tournament semifinal match, Mina Shirakawa vs. Kris...",
+      "link": "https://prowrestling.net/site/2026/06/20/aew-collision-results-6-20-murphys-review-of-athena-vs-maya-world-in-an-owen-hart-cup-tournament-semifinal-match-mina-shirakawa-vs-kris-statlander-in-a-survival-of-the-fittest-qualifier/",
+      "t": "2h",
+      "dt": "2026-06-21T03:57:19+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tommaso Ciampa Vs. Jericho Set For AEW Dynamite Beach Break",
+      "p": "Tommaso Ciampa vs. Jericho one-on-one match announced. On the 6/20 AEW Collision, Tommaso Ciampa and Jericho had a face-to-face interview segment. Ciampa said he had been waiting to see this...",
+      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-vs-jericho-set-for-aew-dynamite-beach-break/",
+      "t": "2h",
+      "dt": "2026-06-21T03:17:48+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 6/20/26 Results: Maya World to face Moné in Owen Hart tournament final, Jericho bloodied by Ciampa, Matt Sydal returns",
+      "p": "Maya World secured a huge victory over Athena to advance to the Owen Hart Foundation tournament final on the June 20 episode of AEW Collision. The post AEW Collision 6/20/26 Results: Maya World to...",
+      "link": "https://www.postwrestling.com/2026/06/20/aew-collision-6-20-26-results-maya-world-to-face-mone-in-owen-hart-tournament-final-jericho-bloodied-by-ciampa-matt-sydal-returns/",
+      "t": "3h",
+      "dt": "2026-06-21T03:03:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jack Perry Vs. Zack Sabre Jr., AEW International Title Match, Survival Of The Fittest Qualifier & More Set For 6/24 AEW Dynamite",
+      "p": "Jack Perry vs. Zack Sabre Jr. and more matches have been added to the upcoming AEW Dynamite. On the 6/20 AEW Collision, several matches were announced for next week’s Dynamite. Earlier in the...",
+      "link": "https://www.fightful.com/wrestling-news/jack-perry-vs-zack-sabre-jr-aew-international-title-match-survival-of-the-fittest-qualifier-more-set-for-6-24-aew-dynamite/",
+      "t": "3h",
+      "dt": "2026-06-21T03:00:30+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Don Callis Family member attacks former stablemate at Arena Mexico",
-      "p": "A current Don Callis Family member teamed with a recently ousted member of the group on Friday night in Arena Mexico. Despite being kicked out of the Don Callis Family at Double or Nothing last...",
-      "link": "https://www.f4wonline.com/news/other-wrestling/don-callis-family-member-attacks-former-stablemate-at-arena-mexico/",
-      "t": "9h",
-      "dt": "2026-06-20T14:36:39+00:00"
+      "h": "Young Bucks, Mistico part of AEW x NJPW Forbidden Door card additions",
+      "p": "Former AEW World & IWGP Tag Team Champions The Young Bucks will be in action at next Sunday’s AEW x NJPW Forbidden Door pay-per-view. Announced during Saturday’s Collision, Matt & Nick Jackson...",
+      "link": "https://www.f4wonline.com/news/aew/young-bucks-mistico-added-aew-forbidden-door-2026/",
+      "t": "3h",
+      "dt": "2026-06-21T02:58:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Divine Dominion Vs. Thunder Rosa & Olympia AEW Women’s World Tag Team Title Match Set For AEW Forbidden Door Buy In",
+      "p": "The Divine Dominion (Megan Bayne and Lena Kross) vs. Thunder Rosa and Olympia set for AEW Forbidden Door 2026. On the 6/20 AEW Collision, Thunder Rosa challenged the AEW Women’s Tag Team Champions...",
+      "link": "https://www.fightful.com/wrestling-news/divine-dominion-vs-thunder-rosa-olympia-aew-womens-tag-team-title-match-set-for-aew-forbidden-door-buy-in/",
+      "t": "3h",
+      "dt": "2026-06-21T02:44:51+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Sareee set for first match since missing AEW Owen Hart tournament",
-      "p": "Sareee is returning to the ring. She announced on Saturday that she will take part in a show for the Marvelous promotion on Sunday, June 21 at Fukuoka Nishitetsu Hall. Sareee will team with Takumi...",
-      "link": "https://www.f4wonline.com/news/aew/sareee-set-for-first-match-since-missing-aew-owen-hart-tournament/",
-      "t": "10h",
-      "dt": "2026-06-20T14:09:54+00:00"
+      "h": "Finals set in AEW women’s Owen Hart Foundation tournament",
+      "p": "In the wake of recent family tragedy, the feel good story of Maya World continued on Saturday’s AEW Collision in the semifinals of the Owen Hart Foundation tournament. In an upset win, World...",
+      "link": "https://www.f4wonline.com/news/aew/athena-maya-world-aew-women-owen-hart-tournament/",
+      "t": "3h",
+      "dt": "2026-06-21T02:39:30+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 6/20/26 Review | COLLISION COURSE",
+      "p": "Kate from MTL & Ray Williams review AEW Collision featuring Athena vs Maya World in the last Owen Cup Semifinal. The post AEW Collision 6/20/26 Review | COLLISION COURSE appeared first on POST...",
+      "link": "https://www.postwrestling.com/2026/06/20/aew-collision-6-20-26-review-collision-course-live-1015pm-et/",
+      "t": "3h",
+      "dt": "2026-06-21T02:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Multiple AEW, NJPW, and CMLL talents reportedly unaware of their Forbidden Door plans",
+      "p": "AEW x NJPW Forbidden Door PPV is just a few days away, and Fightful Select has reported a major update on talent plans for the show. The Forbidden Door PPV is scheduled to take place on June 28,...",
+      "link": "https://www.f4wonline.com/news/aew/multiple-aew-njpw-and-cmll-talents-reportedly-unaware-of-their-forbidden-door-plans/",
+      "t": "3h",
+      "dt": "2026-06-21T02:25:54+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "International title match, Zack Sabre Jr., Mistico part of updated AEW Dynamite lineup",
+      "p": "Multiple matches are set for the next AEW Dynamite. TMDK will be in action just days before Forbidden Door next Sunday. Zack Sabre Jr., who defeated Adam Priest on Saturday, will next wrestle Jack...",
+      "link": "https://www.f4wonline.com/news/aew/international-title-match-zack-sabre-jr-mistico-part-of-updated-aew-dynamite-lineup/",
+      "t": "3h",
+      "dt": "2026-06-21T02:23:31+00:00"
     }
   ]
 }

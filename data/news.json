@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-22T12:24:23.159168+00:00",
+  "updated": "2026-06-22T17:47:38.436855+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
-    "PWTorch": "ok (6 AEW items)",
+    "PWTorch": "ok (5 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
@@ -12,100 +12,100 @@
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Forbidden Door 2026 ticket sales update",
-      "p": "AEW Forbidden Door 2026 is set to take place on Sunday, June 28th from the SAP Center in San Jose, California. The latest ticket sales for the show have now been confirmed by WrestleTix ahead of...",
-      "link": "https://www.f4wonline.com/news/aew/aew-forbidden-door-2026-ticket-sales-update-06-22-2026/",
-      "t": "54m",
-      "dt": "2026-06-22T11:29:36+00:00"
+      "src": "Wrestling Inc",
+      "h": "Bobby Cruise Expected WWE To Buy ROH",
+      "p": "Bobby Cruise has been through a couple of sales of ROH as \"The Voice of Ring of Honor\" more than 20 years.",
+      "link": "https://www.wrestlinginc.com/2199116/bobby-cruise-expected-wwe-buy-roh/",
+      "t": "21m",
+      "dt": "2026-06-22T17:25:52+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Title Changes On This Day in Wrestling (June 22nd)",
-      "p": "There haven’t been a ton of major title changes on June 22nd throughout the years, with the biggest being the likes of Michael Elgin winning the ROH Title in 2014, Senshi getting the X Division...",
-      "link": "https://www.f4wonline.com/news/other-wrestling/title-changes-on-this-day-pro-wrestling-june-22nd-nwa-wwf-wwe-tna-roh-nxt-uk-ghc-noah/",
-      "t": "3h",
-      "dt": "2026-06-22T09:23:38+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/21 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: AEW Dynamite Roundtable Review of latest Friday Night Dynamite plus preview of Saturday’s Special Dynamite with Omega vs. Jungle Boy (108 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (6-23-2021), PWTorch editor Wade Keller sets the table with some talk about AEW’s schedule and...",
-      "link": "https://www.pwtorch.com/site/2026/06/21/free-podcast-6-21-wkpwp-aew-dynamite-post-show-5-yrs-ago-aew-dynamite-roundtable-review-of-latest-friday-night-dynamite-plus-preview-of-saturdays-special-dynamite-with-om/",
-      "t": "7h",
-      "dt": "2026-06-22T04:34:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Champion issues tag team challenge for AEW x NJPW Forbidden Door",
-      "p": "A challenge has been thrown out by a NJPW wrestler. HENARE, who recently won the IWGP Tag Team titles with Great-O-Khan, issued the challenge on social media Sunday. “O-Khan and I are ready for...",
-      "link": "https://www.f4wonline.com/news/aew/champion-issues-tag-team-challenge-for-aew-x-njpw-forbidden-door/",
-      "t": "8h",
-      "dt": "2026-06-22T03:43:10+00:00"
+      "h": "Swerve Strickland explains why he trusts organic creative process in AEW",
+      "p": "Swerve Strickland discussed his continued evolution as a performer in AEW, and what could lead to potential changes in the future. Strickland talked about his wrestling evolution and raising the...",
+      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-explains-why-he-trusts-organic-creative-process-in-aew/",
+      "t": "38m",
+      "dt": "2026-06-22T17:08:57+00:00"
     },
     {
       "src": "Fightful",
-      "h": "WWE, AEW, TNA, NJPW Wrestler Injury Report List: Expected Returns, Inactives | Fightful",
-      "p": "Fightful.com will keep a running injury report and inactive list and update each accordingly. You can also see our updated contract expiration list at this link. WWE RAW Bronson Reed: Reed...",
-      "link": "https://www.fightful.com/wrestling-news/wwe-impact-njpw-roh-injury-report-expected-returns-more/",
-      "t": "10h",
-      "dt": "2026-06-22T02:09:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (6/20/26): Maya World shocks Athena, Juice strikes gold in his segment, Statlander keeps building momentum",
-      "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS MAYA WORLD...",
-      "link": "https://www.pwtorch.com/site/2026/06/21/aew-collision-hits-misses-6-20-26-maya-world-shocks-athena-juice-strikes-gold-in-his-segment-statlander-keeps-building-momentum/",
-      "t": "10h",
-      "dt": "2026-06-22T01:53:06+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "NWA Podcast: PredictionPalooza!!! | June 2026",
-      "p": "The NWA Podcast is joined by Brandon Thurston to break down WWE/AEW TV ratings and top draws so far in 2026. Plus, predictions for WWE NOC, NXT GAB, AEW Forbidden Door, and TNA Slammiversary. The...",
-      "link": "https://www.postwrestling.com/2026/06/21/nwa-podcast-predictionpalooza-june-2026/",
-      "t": "10h",
-      "dt": "2026-06-22T01:38:35+00:00"
+      "h": "Ryan Clancy Reacts To MJF Insult: ‘I Found It Very Ironic That Someone Who Flew Across The World To Get Hair Transplant Would Mention Somebody Else’s Looks’",
+      "p": "Ryan Clancy comments on the MJF insult. Earlier in March, MJF commented on Ryan Clancy during an interview with Undisputed. Regarding facing Clancy in a wrestling match, the AEW World Champion...",
+      "link": "https://www.fightful.com/wrestling-news/ryan-clancy-reacts-to-mjf-insult-i-found-it-very-ironic-that-someone-who-flew-across-the-world-to-get-hair-transplant-would-mention-somebody-elses-looks/",
+      "t": "47m",
+      "dt": "2026-06-22T17:00:00+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Shota Umino Thinks AEW Looks Down On IWGP, Wants To Correct Course",
-      "p": "Ahead of AEW x NJPW Forbidden Door, IWGP Heavyweight Champion Yota Tsuji suggested boycotting the event given how AEW had treated the champion over the years, noting that the title had been...",
-      "link": "https://www.fightful.com/wrestling-news/shota-umino-thinks-aew-looks-down-on-iwgp-wants-to-correct-course/",
-      "t": "12h",
-      "dt": "2026-06-21T23:49:24+00:00"
+      "h": "Swerve Strickland Says He’s Never Had A Spot Turned Down By Tony Khan: There’s Been Times We Haven’t Asked Permission",
+      "p": "Swerve Strickland says he’s never had a spot turned down in AEW, noting that there have been instances where he hasn’t asked permission. Throughout his All Elite Wrestling career, Swerve has been...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-says-hes-never-had-a-spot-turned-down-by-tony-khan-theres-been-times-we-havent-asked-permission/",
+      "t": "55m",
+      "dt": "2026-06-22T16:52:24+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Bobby Cruise Looks Back On His Start In ROH",
-      "p": "Bobby Cruise looks back at his start in Ring of Honor, and reveals that it was not without controversy, as he replaced a former ECW name to get the job",
-      "link": "https://www.wrestlinginc.com/2197277/bobby-cruise-looks-back-start-roh/",
-      "t": "15h",
-      "dt": "2026-06-21T21:00:00+00:00"
+      "h": "Shota Umino Says IWGP Global Title Is Looked Down Upon In AEW",
+      "p": "NJPW star Shota Umino wants to put eyes on the company's prominence overseas when he defends his IWGP Global Heavyweight Championship at Forbidden Door.",
+      "link": "https://www.wrestlinginc.com/2199035/njpw-aew-iwgp-global-championship-shota-umino-looked-down-upon/",
+      "t": "59m",
+      "dt": "2026-06-22T16:48:06+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland On Will Ospreay: We’ve Been Friends For Over 10 Years, He’s Grown As A Man In The Past Year",
+      "p": "Swerve Strickland addresses his AEW x NJPW Forbidden Door opponent, noting that he has grown as a man in the past year. Swerve and Ospreay go back several years, and have met in an AEW ring...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-on-will-ospreay-weve-been-friends-for-over-10-years-hes-grown-as-a-man-in-the-past-year/",
+      "t": "1h",
+      "dt": "2026-06-22T16:30:30+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Bully Ray Says He’d Beat The Sh*t Out Of Jon Moxley",
+      "p": "Bully Ray shares thoughts about the Death Riders and Jon Moxley. While on Busted Open, Bully Ray began speaking about the Death Riders and Jon Moxley. He made the argument that the faction has not...",
+      "link": "https://www.fightful.com/wrestling-news/bully-ray-says-hed-beat-the-sht-out-of-jon-moxley/",
+      "t": "1h",
+      "dt": "2026-06-22T16:19:22+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Private Party Injured In Same Match",
-      "p": "Call it a cawinkadink, but it appears AEW's Private Party members are both out with the same injuries during the same match, according to reports.",
-      "link": "https://www.wrestlinginc.com/2198477/aew-private-party-injured-same-match/",
-      "t": "16h",
-      "dt": "2026-06-21T19:30:15+00:00"
+      "h": "AEW World Champion MJF Offers Update On Knee Ahead Of Forbidden Door 2026",
+      "p": "AEW World Champion MJF gave an update on his hyperextended knee ahead of AEW x NJPW Forbidden Door this weekend.",
+      "link": "https://www.wrestlinginc.com/2198960/aew-forbidden-door-2026-mjf-update-knee/",
+      "t": "1h",
+      "dt": "2026-06-22T16:12:57+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland: Even I Don’t Know What Me Evolving Looks Like",
+      "p": "Swerve Strickland says that even he doesn’t know what evolving looks like for him, noting that talent need to live in the moment. Strickland has been a major part of All Elite Wrestling for...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-even-i-dont-know-what-me-evolving-looks-like/",
+      "t": "1h",
+      "dt": "2026-06-22T16:07:20+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jim Ross Offers Health Update: 'Don't Count Me Out Just Yet'",
+      "p": "AEW announcer Jim Ross offers a health date after revealing he's been in the hospital, while Dave Meltzer also confirms that Ross is on the mend",
+      "link": "https://www.wrestlinginc.com/2198905/aew-jim-ross-health-update-dont-count-out/",
+      "t": "1h",
+      "dt": "2026-06-22T15:48:41+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Report On AEW's Creative Plans For Toni Storm Prior To Extended Absence",
+      "p": "\"Timeless\" Toni Storm last competed in AEW at Revolution in March. She was taken out and left bloody on the following episode of \"Dynamite\".",
+      "link": "https://www.wrestlinginc.com/2198877/aew-all-in-toni-storm-thekla-creative-plans-extended-absence-backstage-report/",
+      "t": "2h",
+      "dt": "2026-06-22T15:32:31+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW x NJPW Forbidden Door 2026 betting odds released",
-      "p": "Betting odds are now available for six matches scheduled for AEW x NJPW Forbidden Door. The pay-per-view is scheduled for Sunday, June 28 from the SAP Center in San Jose, California. The betting...",
-      "link": "https://www.f4wonline.com/news/aew/aew-x-njpw-forbidden-door-2026-betting-odds-released/",
-      "t": "16h",
-      "dt": "2026-06-21T19:28:07+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Bully Ray: 'The Death Riders Have Not Helped AEW In Any Way, Shape Or Form'",
-      "p": "Bully Ray has some harsh words for AEW's Death Riders.",
-      "link": "https://www.wrestlinginc.com/2198476/aew-bully-ray-death-riders-jon-moxley-not-helped-any-way-shape-form/",
-      "t": "16h",
-      "dt": "2026-06-21T19:27:55+00:00"
+      "h": "Kevin Nash reacts to praise from ‘super talented’ AEW champion MJF",
+      "p": "They’re from different eras, but MJF and Kevin Nash have a mutual respect for each other and the impact each has had on the wrestling industry. MJF, the current AEW World Champion, praised Nash...",
+      "link": "https://www.f4wonline.com/news/aew/kevin-nash-reacts-praise-aew-mjf/",
+      "t": "2h",
+      "dt": "2026-06-22T14:49:10+00:00"
     }
   ]
 }

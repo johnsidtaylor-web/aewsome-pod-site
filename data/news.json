@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-23T08:38:35.115035+00:00",
+  "updated": "2026-06-23T12:14:43.128810+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (5 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -13,10 +13,34 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "Paul Heyman calls WWE’s handling of AEW star a ‘tremendously wasted opportunity’",
+      "p": "Paul Heyman believes WWE squandered Cesaro’s (aka Claudio Castagnoli) potential. He emphasized that the company failed to capitalize on his unique strengths and missed the chance to position him...",
+      "link": "https://www.f4wonline.com/news/paul-heyman-calls-wwes-handling-of-aew-star-a-tremendously-wasted-opportunity/",
+      "t": "9m",
+      "dt": "2026-06-23T12:05:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH TV taping spoilers from Jacksonville",
+      "p": "On Monday night, ROH was back at WJCT Studios in Jacksonville for its next round of Honor Club tapings. Here are the full results: – Amira Soul defeated Sofia Sivan – Bishop Kaun defeated Royce...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-tv-taping-spoilers-from-jacksonville-3/",
+      "t": "1h",
+      "dt": "2026-06-23T10:53:30+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite ticket sales for Rio Rancho tracking way below 2025 event",
+      "p": "AEW Dynamite takes place this week from the Rio Rancho Events Center, Rio Rancho, and the latest update from WrestleTix isn’t exactly fantastic reading for the company. As of writing, 2,048...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-rio-rancho-tracking-way-below-2025-event/",
+      "t": "2h",
+      "dt": "2026-06-23T09:26:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "WOR: Joe Doering, Mick Foley, Bully vs. Barnett, ratings, RAW",
       "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including Joe Doering being moved to hospice care, Mick Foley and AEW, Bully Ray vs. Josh Barnett, the...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-joe-doering-mick-foley-bully-vs-barnett-ratings-raw/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-23T07:31:21+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Former AEW tag team champions appear at Supergirl premiere",
       "p": "Making a dramatic entrance is a crucial part of being a professional wrestlers. Red carpet photo ops are basically Hollywood’s version of pro wrestling entrances. So why aren’t there more...",
       "link": "https://www.f4wonline.com/news/aew/former-aew-tag-team-champions-appear-at-supergirl-premiere/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-06-23T02:01:27+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Deonna Purrazzo Bout Stopped At ROH Tapings",
       "p": "Deonna Purrazzo seemingly suffered an injury at the ROH TV tapings. Mr Jacob Cohen noted that Purrazzo faced Steph De Lander at the ROH TV tapings in Jacksonville, FL on June 22. The match was...",
       "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-bout-stopped-at-roh-tapings/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-06-23T01:21:11+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Spoiler: Former WWE LFG Star Makes ROH Debut At 6/22 Taping",
       "p": "A former WWE LFG name has debuted for Ring Of Honor. ROH hosted their latest set of television tapings in Orlando on Monday, June 22. The opening match of the tapings was a singles contest between...",
       "link": "https://www.fightful.com/wrestling-news/spoiler-former-wwe-lfg-star-makes-roh-debut-at-6-22-taping/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-06-23T01:07:27+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Deonna Purrazzo reportedly injured at ROH tapings",
       "p": "Breaking news out of Orlando tonight: One of the champions in Ring of Honor was reportedly injured during a match at the tapings tonight in Jacksonville. Deonna Purrazzo, the reigning and...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/deonna-purrazzo-reportedly-injured-at-roh-tapings/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-06-23T01:06:58+00:00"
     },
     {
@@ -56,56 +80,32 @@
       "h": "AEW Dynamite (6/17) Draws Over 660,000 Viewers On Cable TV",
       "p": "AEW Dynamite viewership and ratings information for the June 17 episode. Wrestleonomics reports that AEW Dynamite on June 17 drew 665,000 viewers on TBS. This number is up from the 542,000 viewers...",
       "link": "https://www.fightful.com/wrestling-news/aew-dynamite-6-17-draws-over-660000-viewers-on-cable-tv/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-06-23T00:42:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "MJF & Mark Briscoe’s teams to speak on AEW Dynamite",
-      "p": "Both Forbidden Door teams will speak this Wednesday. AEW announced on Monday that MJF’s team (MJF, Kazuchika Okada, Kevin Knight, Andrade El Idolo, Kyle Fletcher, and Jake Doyle) will speak this...",
-      "link": "https://www.f4wonline.com/news/aew/mjf-mark-briscoes-teams-to-speak-on-aew-dynamite/",
-      "t": "8h",
-      "dt": "2026-06-23T00:30:12+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite rating: Did the numbers bounce back without the NBA Finals as competition?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: Did the numbers bounce back without the NBA Finals as competition? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/22/aew-dynamite-rating-did-the-numbers-bounce-back-without-the-nba-finals-as-competition/",
-      "t": "8h",
+      "t": "12h",
       "dt": "2026-06-23T00:11:58+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ratings up against World Cup coverage",
-      "p": "Last week’s episode of AEW Dynamite averaged 665,000 viewers on TBS, up 22.7% from the previous week. It’s the second largest audience for the show since April 1st. Dynamite averaged a 0.12 rating...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-up-against-world-cup-coverage/",
-      "t": "8h",
-      "dt": "2026-06-23T00:09:07+00:00"
+      "src": "Wrestling Inc",
+      "h": "Josh Barnett Challenges Bully Ray To A Fight After Comments About AEW's Jon Moxley",
+      "p": "Former Bloodsport promoter Josh Barnett isn't having Bully Ray's comments about AEW star Jon Moxley, and challenges Bully to face him in a legitimate fight",
+      "link": "https://www.wrestlinginc.com/2199370/josh-barnett-bully-ray-jon-moxley-challenges-fight/",
+      "t": "15h",
+      "dt": "2026-06-22T20:57:39+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Team MJF And Team Briscoe To Speak On 6/24 AEW Dynamite",
-      "p": "Team MJF will be present on Wednesday’s AEW Dynamite. All Elite Wrestling announced that Team MJF, which consists of MJF and the Don Callis Family (Andrade El Idolo, Jake Doyle, Kazuchika Okada,...",
-      "link": "https://www.fightful.com/wrestling-news/team-mjf-to-speak-on-6-24-aew-dynamite/",
-      "t": "8h",
-      "dt": "2026-06-22T23:45:10+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: AEW Dynamite ratings & notes, more on Mick Foley",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-dynamite-ratings-notes-more-on-mick-foley/",
-      "t": "8h",
-      "dt": "2026-06-22T23:44:11+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Swerve Strickland Says AEW-NJPW Relationship Is ‘In An Interesting Place Right Now’",
-      "p": "Swerve Strickland discusses the current relationship between AEW and NJPW. As we rapidly approach this year’s Forbidden Door event, there is a ton of discussion surrounding the current state of...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-aew-njpw-312350/",
-      "t": "9h",
-      "dt": "2026-06-22T23:09:47+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW Star MJF Wishes There Were More Wrestlers Like Lio Rush",
+      "p": "MJF praises Lio Rush for his work ethic and wants other professional wrestlers to follow in his footsteps.",
+      "link": "https://www.wrestlinginc.com/2199258/aew-mjf-lio-rush-wishes-more-wrestlers-like/",
+      "t": "16h",
+      "dt": "2026-06-22T19:20:36+00:00"
     }
   ]
 }

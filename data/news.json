@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T14:52:37.997361+00:00",
+  "updated": "2026-06-24T17:16:54.668163+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (5 AEW items)",
@@ -8,104 +8,104 @@
     "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (2 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (6/24): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, JUNE 24, 2026 Where: RIO RANCHO, N.M. AT RIO RANCHO EVENTS CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,102 tickets had...",
+      "link": "https://www.pwtorch.com/site/2026/06/24/aew-dynamite-preview-6-24-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "37m",
+      "dt": "2026-06-24T16:39:06+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Thekla States That She Respects Yota Tsuji For His Comments About AEW x NJPW Forbidden Door Event",
-      "p": "Yota Tsuji receives props from Thekla. After Yota Tsuji regained the IWGP Heavyweight Championship at NJPW Dominion, he spoke to the press and expressed that he was leaning towards skipping the...",
-      "link": "https://www.fightful.com/wrestling-news/thekla-states-that-she-respects-yota-tsuji-for-his-comments-about-aew-x-njpw-forbidden-door-event/",
-      "t": "22m",
-      "dt": "2026-06-24T14:30:00+00:00"
+      "h": "Thekla: I’m Looking Forward To Facing Persephone One On One At Some Point",
+      "p": "Thekla speaks on looking forward to potentially facing Persephone one on one at some point after their previous clash in CMLL. Since signing with All Elite Wrestling last year, Thekla has clashed...",
+      "link": "https://www.fightful.com/wrestling-news/thekla-im-looking-forward-to-facing-persephone-one-on-one-at-some-point/",
+      "t": "42m",
+      "dt": "2026-06-24T16:34:41+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Report On Mick Foley's AEW Schedule, Forbidden Door Status",
+      "p": "Mick Foley might be \"All Elite,\" but his own personal schedule will prevent him from appearing at AEW x NJPW Forbidden Door 2026.",
+      "link": "https://www.wrestlinginc.com/2200750/aew-forbidden-door-2026-mick-foley-status-schedule/",
+      "t": "47m",
+      "dt": "2026-06-24T16:29:04+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "The Blade discusses post-AEW plans after departure",
+      "p": "The Blade (Jesse Guilmette) reflected on his AEW run and favorite matches that stood out following his exit from the promotion. He revisited working with The Young Bucks, FTR and wrestling Sting...",
+      "link": "https://www.f4wonline.com/news/aew/the-blade-discusses-post-aew-plans-after-departure/",
+      "t": "1h",
+      "dt": "2026-06-24T16:13:16+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Thekla: Tony Khan Does Not Have To Fear Any Attacks From Me… For Now",
+      "p": "Thekla says Tony Khan does not have to fear any attacks from her for now, while speaking about her creative with All Elite Wrestling. Prior to leaving STARDOM, Thekla would notably attack STARDOM...",
+      "link": "https://www.fightful.com/wrestling-news/thekla-tony-khan-does-not-have-to-fear-any-attacks-from-me-for-now/",
+      "t": "1h",
+      "dt": "2026-06-24T16:12:36+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "POLL: How do you feel about Will Ospreay being AEW’s centerpiece babyface act?",
+      "p": "How do you feel about Will Ospreay being AEW’s centerpiece babyface act? Grade A: He’s fantastic. Lean in on his strengths Grade B: He’s a solid, marketable choice for the brand Grade C: Okay, but...",
+      "link": "https://www.pwtorch.com/site/2026/06/24/poll-how-do-you-feel-about-will-ospreay-being-aews-centerpiece-babyface-act/",
+      "t": "1h",
+      "dt": "2026-06-24T16:06:22+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW Collision Ratings Report: Update on 2026 so far compared to 2025, plus comparisons of viewership between Collision and Dynamite",
+      "p": "The June 13 episode of AEW Collision on TNT averaged 364,000 viewers, compared to 496,000 the prior week and the 360,000 the week before that, all episodes that aired in the usual Saturday...",
+      "link": "https://www.pwtorch.com/site/2026/06/24/aew-collision-ratings-report-update-on-2026-so-far-compared-to-2025-plus-comparisons-of-viewership-between-collision-and-dynamite/",
+      "t": "1h",
+      "dt": "2026-06-24T16:00:36+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Thekla: Every Time I See Taro Okada, He Evokes Feelings Of Aggression In Me",
+      "p": "Thekla speaks on getting the opportunity to beat down Taro Okada once again, evoking feelings of aggression in her. Prior to signing with AEW last year, Thekla was a member of the STARDOM roster,...",
+      "link": "https://www.fightful.com/wrestling-news/thekla-every-time-i-see-taro-okada-he-evokes-feelings-of-aggression-in-me/",
+      "t": "1h",
+      "dt": "2026-06-24T15:52:38+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW enters into tequila partnership ahead of Forbidden Door",
+      "p": "Ahead of Forbidden Door, AEW has entered into a new brand partnership centered around the event. It was announced today that Dos Azul Tequila has been named the “official tequila partner” of the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-enters-into-tequila-partnership-ahead-of-forbidden-door/",
+      "t": "1h",
+      "dt": "2026-06-24T15:49:27+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "The Blade Reflects On AEW Run, Says He’s Excited To Be Doing Indie Shows Again",
+      "p": "The Blade looks back on his time with AEW. ‘The Butcher’ Andy Williams and The Blade joined All Elite Wrestling in 2019 and were aligned with current TNA talent Allie a.k.a. The Bunny. Fast...",
+      "link": "https://www.fightful.com/wrestling-news/the-blade-reflects-on-aew-run-says-hes-excited-to-be-doing-indie-shows-again/",
+      "t": "1h",
+      "dt": "2026-06-24T15:26:11+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Announces Partnership With Dios Azul Tequila",
+      "p": "Dios Azul Tequila is the official tequila partner of Forbidden Door. There was an announcement pushed out from All Elite Wrestling to unveil their partnership with Dios Azul Tequila. The brand has...",
+      "link": "https://www.fightful.com/wrestling-news/aew-announces-partnership-with-dios-azul-tequila/",
+      "t": "2h",
+      "dt": "2026-06-24T15:13:07+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Claudio Castagnoli Thinks AEW Will Be Able To Make A 'Permanent Climb' In Popularity",
       "p": "Claudio Castagnoli is confident that AEW can continue to grow following its recent upswing, and recently explained the reasons behind that growth.",
       "link": "https://www.wrestlinginc.com/2200422/aew-claudio-castagnoli-permanent-climb-popularity/",
-      "t": "22m",
-      "dt": "2026-06-24T14:30:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: AEW International Title match tops the final episode before Forbidden Door",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW International Title match tops the final episode before Forbidden Door appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/24/aew-dynamite-preview-aew-international-title-match-tops-the-final-episode-before-forbidden-door-2/",
-      "t": "52m",
-      "dt": "2026-06-24T14:00:04+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Thekla Says Title Of Her Next Art Book Is ‘Stiff B*tches’",
-      "p": "Thekla is putting out another art book. The reigning AEW Women’s World Champion, Thekla, is an artist, and some of her work can be found on her ‘Toxic Spider Muscle Club’ website. During an...",
-      "link": "https://www.fightful.com/wrestling-news/thekla-says-title-of-her-next-art-book-is-stiff-btches/",
-      "t": "52m",
-      "dt": "2026-06-24T14:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mark Briscoe On Why He’s Still Considered An Underdog: I Think It’s Just Because I’m Like A Natural Little Brother",
-      "p": "Mark Briscoe answers why he thinks he’s still considered an underdog, believing it’s his natural little brother personality. Since beginning his career in All Elite Wrestling, Mark has been a...",
-      "link": "https://www.fightful.com/wrestling-news/mark-briscoe-on-why-hes-still-considered-an-underdog-i-think-its-just-because-im-like-a-natural-little-brother/",
-      "t": "1h",
-      "dt": "2026-06-24T13:51:53+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mark Briscoe: I Trust Konosuke Takeshita, If He Wants To Come And Babysit My Children, I’ll Let Him",
-      "p": "Mark Briscoe says that he trusts Konosuke Takeshita so much ahead of AEW x NJPW Forbidden Door that he would allow him to babysit. At AEW x NJPW Forbidden Door this weekend, a 12 man tag team...",
-      "link": "https://www.fightful.com/wrestling-news/mark-briscoe-i-trust-konosuke-takeshita-if-he-wants-to-come-and-babysit-my-children-ill-let-him/",
-      "t": "1h",
-      "dt": "2026-06-24T13:31:49+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Thekla Wanted To Be First Female Member Of Don Callis Family, Explains How Callis Influenced Her Work In Japan",
-      "p": "Thekla stated that the D.C.F. was a group she saw herself fitting into. Going into AEW x NJPW Forbidden Door on June 28th, the current AEW Women’s World Champion, Thekla, returned to TMZ’s Inside...",
-      "link": "https://www.fightful.com/wrestling-news/thekla-wanted-to-be-first-female-member-of-don-callis-family-explains-how-callis-influenced-her-work-in-japan/",
-      "t": "1h",
-      "dt": "2026-06-24T13:30:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite, WWE Evolve, AEW Collision taping and WWE in Sheffield (reports needed), last week’s Dynamite and Collision grades, Adam Pearce, Rey Horus, Jessamyn Duke, Chris Benoit",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, WWE Evolve, AEW Collision taping and WWE in Sheffield (reports needed), last week’s Dynamite and Collision grades, Adam Pearce,...",
-      "link": "https://prowrestling.net/site/2026/06/24/aew-dynamite-wwe-evolve-aew-collision-taping-and-wwe-in-sheffield-reports-needed-last-weeks-dynamite-and-collision-grades-adam-pearce-rey-horus-jessamyn-duke-chris-benoit/",
       "t": "2h",
-      "dt": "2026-06-24T12:00:45+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite and Collision ticket sales update ahead of tonight’s broadcast",
-      "p": "AEW Dynamite takes place this week from the Rio Rancho Events Center, Rio Rancho, and the latest update from WrestleTix shows where they sit on the day of the show. As of writing, 2,066 tickets...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-collision-ticket-sales-update-tonight-broadcast-06-24-2026/",
-      "t": "5h",
-      "dt": "2026-06-24T08:56:16+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (06-24-2026)",
-      "p": "Tonight’s episode of AEW Dynamite takes place from the Rio Rancho Events Center in Rio Rancho with the usual start time of 8 pm Eastern and 5pm Pacific. AEW Dynamite start time tonight Here are...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-06-24-2026/",
-      "t": "7h",
-      "dt": "2026-06-24T07:37:18+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (06-24-2026)",
-      "p": "Tonight’s episode of AEW Dynamite takes place from the Rio Rancho Events Center in Rio Rancho, and several matches and segments have already been confirmed for the combined Dynamite/Collision...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-06-24-2026/",
-      "t": "7h",
-      "dt": "2026-06-24T07:28:36+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW Dynamite Ratings Report (6/17): Viewership and key demo rating data, 2026 full viewership data, comparison to prior years",
-      "p": "Last Wednesday night’s (6/17) episode of AEW Dynamite on TBS averaged 665,000 viewers. The latest ten week average was 630,000. The ten weeks before that was 673,000. The average through 24 weeks...",
-      "link": "https://www.pwtorch.com/site/2026/06/24/aew-dynamite-ratings-report-6-17-viewership-and-key-demo-rating-data-2026-full-viewership-data-comparison-to-prior-years/",
-      "t": "9h",
-      "dt": "2026-06-24T05:07:11+00:00"
+      "dt": "2026-06-24T14:30:00+00:00"
     }
   ]
 }

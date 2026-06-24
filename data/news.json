@@ -1,38 +1,86 @@
 {
-  "updated": "2026-06-24T21:43:11.201572+00:00",
+  "updated": "2026-06-24T23:20:54.252825+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE RESULTS (6/24): Keller’s report on final Forbidden Door build including Ospreay vs. ELP, Perry vs. SZJ, Bucks v s. TMDK, Swerve vs. Garcia",
+      "p": "AEW DYNAMITE REPORT JUNE 24, 2026 RIO RANCHO, N.M. AT RIO RANCHO EVENTS CENTER AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring...",
+      "link": "https://www.pwtorch.com/site/2026/06/24/aew-dynamite-results-6-24-kellers-report-on-final-forbidden-door-build-including-ospreay-vs-elp-perry-vs-szj-bucks-v-s-tmdk-swerve-vs-garcia/",
+      "t": "11m",
+      "dt": "2026-06-24T23:09:42+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite live results: Konosuke Takeshita vs. Ricochet, Swerve vs. Garcia",
+      "p": "AEW Dynamite is live tonight from the Rio Rancho Event Center in Rio Rancho, New Mexico. Eight matches are advertised for the show, including two Survival of the Fittest qualifiers and an AEW...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-konosuke-takeshita-vs-ricochet-swerve-vs-garcia/",
+      "t": "15m",
+      "dt": "2026-06-24T23:05:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Results 6/24 - TBS Championship Survival Of The Fittest Qualifiers & More",
+      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on June 24, 2026, with two TBS Championship Survival of the Fittest qualifer matches!",
+      "link": "https://www.wrestlinginc.com/2200355/aew-dynamite-june-24-tbs-championship-survival-of-the-fittest-qualifers-more/",
+      "t": "20m",
+      "dt": "2026-06-24T23:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay: Match With Ricochet Changed How People Wrestle",
+      "p": "At NJPW Best of the Super Juniors in 2016, Will Ospreay and Ricochet competed in one of the most viral matches of all time. Clips from that match circulated throughout social media and became the...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-match-with-ricochet-changed-how-people-wrestle/",
+      "t": "1h",
+      "dt": "2026-06-24T22:19:08+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW FEUD TRACKER: Barber is back with his look at the feuds heading into Forbidden Door including Mercedes vs. Maya World, Swerve vs. Hangman",
+      "p": "INTRO I went on a much-needed vacation and then took a week to catch up, but fear not loyal readers, I’m back. Just in time too as Forbidden Door is this weekend. Things have coalesced [...]",
+      "link": "https://www.pwtorch.com/site/2026/06/24/aew-feud-tracker-barber-is-back-with-his-look-at-the-feuds-heading-into-forbidden-door-including-mercedes-vs-maya-world-swerve-vs-hangman/",
+      "t": "1h",
+      "dt": "2026-06-24T22:02:43+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Mark Davis to make another AEW National title defense in RevPro",
+      "p": "Coming off a successful defense over the weekend, Mark Davis is ready to put his AEW National Championship on the line in the United Kingdom again. Revolution Pro Wrestling has announced that...",
+      "link": "https://www.f4wonline.com/news/aew/mark-davis-aew-national-title-man-like-dereiss-revpro/",
+      "t": "1h",
+      "dt": "2026-06-24T21:58:10+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay: Vader Admitted He Didn’t Realize How Good I Was, Said He Was Going To Talk To Vince McMahon About Me",
+      "p": "In 2016, Vader gave his opinion on Will Ospreay vs. Ricochet from Best of Super Juniors, saying, “Blantant acrobatics,no story,is there anything done in this video that relates to winning u could...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-vader-admitted-he-didnt-realize-how-good-i-was-said-he-was-going-to-talk-to-vince-mcmahon-about-me/",
+      "t": "1h",
+      "dt": "2026-06-24T21:44:00+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Mark Davis To Defend AEW National Title At RevPro On June 27",
       "p": "Mark Davis is set for another AEW National Title defense. Revolution Pro Wrestling announced that Mark Davis will defend his AEW National Title against Man Like Dereiss at RevPro British J-Cup on...",
       "link": "https://www.fightful.com/wrestling-news/mark-davis-to-defend-aew-national-title-at-revpro-on-june-27/",
-      "t": "13m",
+      "t": "1h",
       "dt": "2026-06-24T21:30:02+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Names Maya World As Most Underrated Talent In AEW",
-      "p": "Tony Khan has high praise for Maya World. Maya has taken the AEW world by storm in recent weeks, defeating Skye Blue and Athena in the Owen Hart Foundation Women’s Tournament to make it to the...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-names-maya-world-as-most-underrated-talent-in-aew/",
-      "t": "37m",
-      "dt": "2026-06-24T21:05:28+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "POST NEWS: Fireball angle on NXT, Ospreay & Ricochet reflect on BOSJ 2016 match",
       "p": "John Pollock covers the news, including Will Ospreay and Ricochet reflecting on their Best of the Super Juniors match ten years later. Available for Double Double & Espresso members at...",
       "link": "https://www.postwrestling.com/2026/06/24/post-news-fireball-angle-on-nxt-ospreay-ricochet-reflect-on-bosj-2016-match/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-06-24T20:21:15+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "AEW Collision to air on Thursdays twice in July, more preemptions possibly coming",
       "p": "The latest lookahead for AEW programming on TNT, TBS and HBO Max has revealed that Collision will go head-to-head with TNA Impact twice in the month of July and possibly at least once a month...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-airing-thursdays-july-tnt-boxing/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-24T19:49:09+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "AEW Forbidden Door lineup: The card for Sunday’s pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door lineup: The card for Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/24/aew-forbidden-door-lineup-the-card-for-sundays-pay-per-view-event-3/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-24T18:15:23+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "Eric Bischoff: Road Dogg Was 'Out Of Place' In WWE But Could Benefit AEW Or TNA",
       "p": "Eric Bischoff believes that Road Dogg was \"out of place\" during his stint in WWE creative, but believes that both AEW or TNA could benefit from bringing him in",
       "link": "https://www.wrestlinginc.com/2200858/wwe-aew-tna-eric-bischoff-road-dogg-out-place-benefit/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-24T17:55:29+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE's Paul Heyman Reflects On How Tony Khan & AEW Have Changed The Wrestling Business",
-      "p": "Paul Heyman has opened up about his opinions on AEW and Tony Khan, as well as how much the wrestling business has changed with AEW in it.",
-      "link": "https://www.wrestlinginc.com/2200830/wwe-paul-heyman-tony-khan-aew-changed-wrestling/",
-      "t": "4h",
-      "dt": "2026-06-24T17:38:32+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE PREVIEW (6/24): Announced matches, location, ticket sales, how to watch",
-      "p": "When: WEDNESDAY, JUNE 24, 2026 Where: RIO RANCHO, N.M. AT RIO RANCHO EVENTS CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,102 tickets had...",
-      "link": "https://www.pwtorch.com/site/2026/06/24/aew-dynamite-preview-6-24-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "5h",
-      "dt": "2026-06-24T16:39:06+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Report On Mick Foley's AEW Schedule, Forbidden Door Status",
-      "p": "Mick Foley might be \"All Elite,\" but his own personal schedule will prevent him from appearing at AEW x NJPW Forbidden Door 2026.",
-      "link": "https://www.wrestlinginc.com/2200750/aew-forbidden-door-2026-mick-foley-status-schedule/",
-      "t": "5h",
-      "dt": "2026-06-24T16:29:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "The Blade discusses post-AEW plans after departure",
-      "p": "The Blade (Jesse Guilmette) reflected on his AEW run and favorite matches that stood out following his exit from the promotion. He revisited working with The Young Bucks, FTR and wrestling Sting...",
-      "link": "https://www.f4wonline.com/news/aew/the-blade-discusses-post-aew-plans-after-departure/",
-      "t": "5h",
-      "dt": "2026-06-24T16:13:16+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "POLL: How do you feel about Will Ospreay being AEW’s centerpiece babyface act?",
-      "p": "How do you feel about Will Ospreay being AEW’s centerpiece babyface act? Grade A: He’s fantastic. Lean in on his strengths Grade B: He’s a solid, marketable choice for the brand Grade C: Okay, but...",
-      "link": "https://www.pwtorch.com/site/2026/06/24/poll-how-do-you-feel-about-will-ospreay-being-aews-centerpiece-babyface-act/",
-      "t": "5h",
-      "dt": "2026-06-24T16:06:22+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW Collision Ratings Report: Update on 2026 so far compared to 2025, plus comparisons of viewership between Collision and Dynamite",
-      "p": "The June 13 episode of AEW Collision on TNT averaged 364,000 viewers, compared to 496,000 the prior week and the 360,000 the week before that, all episodes that aired in the usual Saturday...",
-      "link": "https://www.pwtorch.com/site/2026/06/24/aew-collision-ratings-report-update-on-2026-so-far-compared-to-2025-plus-comparisons-of-viewership-between-collision-and-dynamite/",
-      "t": "5h",
-      "dt": "2026-06-24T16:00:36+00:00"
     }
   ]
 }

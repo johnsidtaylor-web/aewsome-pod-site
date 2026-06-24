@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-24T20:04:33.381875+00:00",
+  "updated": "2026-06-24T21:43:11.201572+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (1 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (5 AEW items)"
@@ -13,50 +13,50 @@
   "items": [
     {
       "src": "Fightful",
-      "h": "AEW On HBO Max Schedule Announced For July",
-      "p": "Warner Bros Discovery has announced the content schedule for HBO Max in July, which includes All Elite Wrestling programming. Collision will air twice on Thursdays during the month. First on July...",
-      "link": "https://www.fightful.com/wrestling-news/all-elite-wrestling-on-hbo-max-schedule-announced-for-july/",
-      "t": "6m",
-      "dt": "2026-06-24T19:58:21+00:00"
+      "h": "Mark Davis To Defend AEW National Title At RevPro On June 27",
+      "p": "Mark Davis is set for another AEW National Title defense. Revolution Pro Wrestling announced that Mark Davis will defend his AEW National Title against Man Like Dereiss at RevPro British J-Cup on...",
+      "link": "https://www.fightful.com/wrestling-news/mark-davis-to-defend-aew-national-title-at-revpro-on-june-27/",
+      "t": "13m",
+      "dt": "2026-06-24T21:30:02+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Names Maya World As Most Underrated Talent In AEW",
+      "p": "Tony Khan has high praise for Maya World. Maya has taken the AEW world by storm in recent weeks, defeating Skye Blue and Athena in the Owen Hart Foundation Women’s Tournament to make it to the...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-names-maya-world-as-most-underrated-talent-in-aew/",
+      "t": "37m",
+      "dt": "2026-06-24T21:05:28+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: Fireball angle on NXT, Ospreay & Ricochet reflect on BOSJ 2016 match",
+      "p": "John Pollock covers the news, including Will Ospreay and Ricochet reflecting on their Best of the Super Juniors match ten years later. Available for Double Double & Espresso members at...",
+      "link": "https://www.postwrestling.com/2026/06/24/post-news-fireball-angle-on-nxt-ospreay-ricochet-reflect-on-bosj-2016-match/",
+      "t": "1h",
+      "dt": "2026-06-24T20:21:15+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Collision to air on Thursdays twice in July, more preemptions possibly coming",
       "p": "The latest lookahead for AEW programming on TNT, TBS and HBO Max has revealed that Collision will go head-to-head with TNA Impact twice in the month of July and possibly at least once a month...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-airing-thursdays-july-tnt-boxing/",
-      "t": "15m",
+      "t": "1h",
       "dt": "2026-06-24T19:49:09+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Bandido Says He’s Ready To Be ‘Disrespectful’ In Match With Jon Moxley At AEW x NJPW Forbidden Door",
-      "p": "Bandido isn’t going down without a fight. AEW x NJPW Forbidden Door is set to feature a first time match, as Jon Moxley will defend the AEW Continental Championship against Bandido. Moxley...",
-      "link": "https://www.fightful.com/wrestling-news/bandido-jon-moxley-312686/",
-      "t": "29m",
-      "dt": "2026-06-24T19:35:14+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Forbidden Door lineup: The card for Sunday’s pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door lineup: The card for Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/24/aew-forbidden-door-lineup-the-card-for-sundays-pay-per-view-event-3/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-24T18:15:23+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Thekla: I Think I May Have Finally Found My Wrestling Home In AEW",
-      "p": "Thekla says that she may have finally found her wrestling home with All Elite Wrestling after around a year with the company. Since signing with AEW in 2025, the Austrian born pro wrestler has...",
-      "link": "https://www.fightful.com/wrestling-news/thekla-i-think-i-may-have-finally-found-my-wrestling-home-in-aew/",
-      "t": "2h",
-      "dt": "2026-06-24T17:59:34+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Eric Bischoff: Road Dogg Was 'Out Of Place' In WWE But Could Benefit AEW Or TNA",
       "p": "Eric Bischoff believes that Road Dogg was \"out of place\" during his stint in WWE creative, but believes that both AEW or TNA could benefit from bringing him in",
       "link": "https://www.wrestlinginc.com/2200858/wwe-aew-tna-eric-bischoff-road-dogg-out-place-benefit/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-06-24T17:55:29+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "WWE's Paul Heyman Reflects On How Tony Khan & AEW Have Changed The Wrestling Business",
       "p": "Paul Heyman has opened up about his opinions on AEW and Tony Khan, as well as how much the wrestling business has changed with AEW in it.",
       "link": "https://www.wrestlinginc.com/2200830/wwe-paul-heyman-tony-khan-aew-changed-wrestling/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-24T17:38:32+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "AEW DYNAMITE PREVIEW (6/24): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, JUNE 24, 2026 Where: RIO RANCHO, N.M. AT RIO RANCHO EVENTS CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,102 tickets had...",
       "link": "https://www.pwtorch.com/site/2026/06/24/aew-dynamite-preview-6-24-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-24T16:39:06+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "Backstage Report On Mick Foley's AEW Schedule, Forbidden Door Status",
       "p": "Mick Foley might be \"All Elite,\" but his own personal schedule will prevent him from appearing at AEW x NJPW Forbidden Door 2026.",
       "link": "https://www.wrestlinginc.com/2200750/aew-forbidden-door-2026-mick-foley-status-schedule/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-24T16:29:04+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "The Blade discusses post-AEW plans after departure",
       "p": "The Blade (Jesse Guilmette) reflected on his AEW run and favorite matches that stood out following his exit from the promotion. He revisited working with The Young Bucks, FTR and wrestling Sting...",
       "link": "https://www.f4wonline.com/news/aew/the-blade-discusses-post-aew-plans-after-departure/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-24T16:13:16+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "POLL: How do you feel about Will Ospreay being AEW’s centerpiece babyface act?",
       "p": "How do you feel about Will Ospreay being AEW’s centerpiece babyface act? Grade A: He’s fantastic. Lean in on his strengths Grade B: He’s a solid, marketable choice for the brand Grade C: Okay, but...",
       "link": "https://www.pwtorch.com/site/2026/06/24/poll-how-do-you-feel-about-will-ospreay-being-aews-centerpiece-babyface-act/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-24T16:06:22+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW Collision Ratings Report: Update on 2026 so far compared to 2025, plus comparisons of viewership between Collision and Dynamite",
       "p": "The June 13 episode of AEW Collision on TNT averaged 364,000 viewers, compared to 496,000 the prior week and the 360,000 the week before that, all episodes that aired in the usual Saturday...",
       "link": "https://www.pwtorch.com/site/2026/06/24/aew-collision-ratings-report-update-on-2026-so-far-compared-to-2025-plus-comparisons-of-viewership-between-collision-and-dynamite/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-06-24T16:00:36+00:00"
     }
   ]

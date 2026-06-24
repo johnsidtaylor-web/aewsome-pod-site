@@ -1,30 +1,46 @@
 {
-  "updated": "2026-06-24T00:09:58.906338+00:00",
+  "updated": "2026-06-24T04:33:18.628069+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
-    "PWTorch": "ok (5 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "PWTorch": "ok (6 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
+    "Wrestling Inc": "ok (2 AEW items)",
+    "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Sammy Guevara & Beast Mortos Defending ROH Tag Titles Against Místico & Máscara Dorada At CMLL’s 6/26 Event",
-      "p": "La Facción Ingobernable (Sammy Guevara & The Beast Mortos) is heading to CMLL. CMLL will be back at Arena México on June 26th, and the show will be headlined by an ROH World Tag Team Championship...",
-      "link": "https://www.fightful.com/wrestling-news/sammy-guevara-beast-mortos-defending-roh-tag-titles-against-mistico-mascara-dorada-at-cmlls-6-26-event/",
-      "t": "0m",
-      "dt": "2026-06-24T00:09:34+00:00"
+      "src": "Wrestling Observer",
+      "h": "Thekla proud of she & Gunther representing Austria in wrestling",
+      "p": "AEW Women’s World Champion Thekla recently noted how happy she is to see herself and WWE’s Gunther represent Austria in pro wrestling. While Europe has a big indie pro-wrestling scene, Austria is...",
+      "link": "https://www.f4wonline.com/news/aew/thekla-says-shes-proud-of-her-and-gunther-representing-austria-in-pro-wrestling/",
+      "t": "3m",
+      "dt": "2026-06-24T04:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Thekla says she has ‘respect’ for Yota Tsuji’s comments regarding AEW",
+      "p": "AEW Women’s World Champion Thekla has addressed Yota Tsuji’s comments on All Elite Wrestling. Earlier this year, during an interview with Tokyo Sports, Tsuji addressed the upcoming AEW x NJPW...",
+      "link": "https://www.f4wonline.com/news/aew/thekla-says-she-has-respect-for-yota-tsujis-comments-regarding-aew/",
+      "t": "2h",
+      "dt": "2026-06-24T02:18:24+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 6/23 – Everything with Rich & Wade: Should AEW retire the Forbidden Door? What did we learn from Heyman’s interview? Who will win QOTR and KOTR? Is TNA Slammiversary delivering? More (68 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: What stood out in Paul Heyman’s media interview that came out this...",
+      "link": "https://www.pwtorch.com/site/2026/06/23/vip-podcast-6-23-everything-with-rich-wade-should-aew-retire-the-forbidden-door-what-did-we-learn-from-heymans-interview-who-will-win-qotr-and-kotr-is-tna-slammiversary-delivering-more-68/",
+      "t": "2h",
+      "dt": "2026-06-24T01:59:05+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Swerve Strickland Says He 'Never Got Told No' During Bloody AEW Feud",
       "p": "AEW star Swerve Strickland reveals that neither he nor \"Hangman\" Adam Page \"never got told no\" during the memorable, bloody AEW rivalry years earlier",
       "link": "https://www.wrestlinginc.com/2200224/swerve-strickland-never-told-no-bloody-aew-feud-hangman-page/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-06-23T21:14:02+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Deonna Purrazzo confirms injury sustained at ROH TV tapings",
       "p": "Deonna Purrazzo was injured on Monday during the Ring of Honor tapings. The post Deonna Purrazzo confirms injury sustained at ROH TV tapings appeared first on POST Wrestling | Podcasts, News,...",
       "link": "https://www.postwrestling.com/2026/06/23/deonna-purrazzo-confirms-injury-sustained-at-roh-tv-tapings/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-06-23T19:51:23+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Tony Khan names new four pillars of AEW",
       "p": "Tony Khan considers Thekla, Kevin Knight, Kyle Fletcher, and Mercedes Mone to be four of the most valuable additions AEW has made over the years. In an interview with radio station Q93, Khan was...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-names-new-four-pillars-of-aew/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-06-23T19:09:23+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Deonna Purrazzo on crutches after injury at ROH tapings",
       "p": "After suffering an injury at Monday night’s Ring of Honor tapings, Deonna Purrazzo is on crutches and has her right leg in a walking boot. Purrazzo was injured while making an ROH Women’s Pure...",
       "link": "https://www.f4wonline.com/news/aew/deonna-purrazzo-on-crutches-after-injury-at-roh-tapings/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-06-23T18:17:09+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "ROH Title Defense Ends Early After Deonna Purrazzo Suffers Apparent Injury",
       "p": "An X user who attended Ring of Honor's latest HonorClub tapings suggests that an ROH Title defense ended early after Deonna Purrazzo suffered an injury",
       "link": "https://www.wrestlinginc.com/2199995/roh-ring-honor-deonna-purrazzo-title-defense-ends-early-apparent-injury/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-06-23T17:57:14+00:00"
     },
     {
@@ -64,48 +80,32 @@
       "h": "Kyle Fletcher on returning AEW match: ‘Didn’t feel like I was at the top of my game yet’",
       "p": "Kyle Fletcher addressed his first AEW match since his injury in March, admitting slight ring rust. In the latest episode of his vlog, Protolog, Fletcher gave a glimpse behind-the-scenes after his...",
       "link": "https://www.f4wonline.com/news/kyle-fletcher-on-returning-aew-match-didnt-feel-like-i-was-at-the-top-of-my-game-yet/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-06-23T17:03:58+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Eddie Kingston Had Cops Called On Him During Knicks Celebration",
-      "p": "AEW and ROH star Eddie Kingston is a diehard New York Knicks fan. He shared the story of getting the cops called on him when he was celebrating a big win.",
-      "link": "https://www.wrestlinginc.com/2199925/aew-eddie-kingston-cops-called-knicks-celebration/",
-      "t": "7h",
-      "dt": "2026-06-23T17:01:20+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report: 6/17/2026",
-      "p": "\"AEW Dynamite's\" ratings improve after posting one of its lowest viewership figures of the year.",
-      "link": "https://www.wrestlinginc.com/2199890/aew-dynamite-viewership-ratings-june-17-2026/",
-      "t": "7h",
-      "dt": "2026-06-23T16:27:36+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Eric Bischoff Blames Lack Of WWE Crossover For TNA Not Surpassing AEW In Popularity",
-      "p": "Eric Bischoff blames the lack of crossover between WWE and TNA as the reason why TNA has been unable to surpass AEW in popularity as #2 promotion",
-      "link": "https://www.wrestlinginc.com/2199889/wwe-aew-tna-eric-bischoff-blames-lack-crossover-not-surpassing-popularity/",
-      "t": "7h",
-      "dt": "2026-06-23T16:27:15+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Paul Heyman ‘absolutely’ loves that AEW exists",
       "p": "Paul Heyman loves the fact that AEW exists and wouldn’t mind if there were even more promotions out there pushing WWE to be the best that it can be. During his appearance on Insight with Chris Van...",
       "link": "https://www.f4wonline.com/news/wwe/paul-heyman-absolutely-loves-that-aew-exists/",
-      "t": "8h",
+      "t": "12h",
       "dt": "2026-06-23T16:07:21+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Bully Ray Vents Frustration On AEW Creative Direction: 'It's Groundhog Day'",
-      "p": "Bully Ray takes aim at AEW's creative direction, venting his frustrations on a storyline that he feels proves its \"Groundhog Day\" for the promotion",
-      "link": "https://www.wrestlinginc.com/2199798/aew-bully-ray-creative-direction-groundhog-day/",
-      "t": "8h",
-      "dt": "2026-06-23T15:13:39+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite rating: Did the numbers bounce back without the NBA Finals as competition?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: Did the numbers bounce back without the NBA Finals as competition? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/22/aew-dynamite-rating-did-the-numbers-bounce-back-without-the-nba-finals-as-competition/",
+      "t": "1d",
+      "dt": "2026-06-23T00:11:58+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: AEW International Title match tops the final episode before Forbidden Door",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW International Title match tops the final episode before Forbidden Door appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/22/aew-dynamite-preview-aew-international-title-match-tops-the-final-episode-before-forbidden-door/",
+      "t": "1d",
+      "dt": "2026-06-22T13:15:05+00:00"
     }
   ]
 }

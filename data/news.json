@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T08:30:44.116411+00:00",
+  "updated": "2026-06-25T11:49:09.409637+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
@@ -13,10 +13,26 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "AEW Forbidden Door 2026 ticket sales update just days out from show",
+      "p": "AEW Forbidden Door 2026 is set to take place this weekend (on Sunday, June 28th) from the SAP Center in San Jose, California. The latest ticket sales for the show have now been confirmed by...",
+      "link": "https://www.f4wonline.com/news/aew/aew-forbidden-door-2026-ticket-sales-update-06-25-2026/",
+      "t": "3h",
+      "dt": "2026-06-25T08:43:57+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOR: Dynamite, NXT, huge weekend preview, new TNA belt",
+      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including an update on the G-1 tournament, some notes on the WBD sale, TNA debuting a new women’s TV...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-dynamite-nxt-huge-weekend-preview-new-tna-belt/",
+      "t": "3h",
+      "dt": "2026-06-25T08:41:11+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "AEW Collision Forbidden Door go-home show spoilers",
       "p": "The following are spoilers for this Saturday’s AEW Collision from the Rio Rancho Events Center in Rio Rancho, New Mexico, taped after Wednesday, June 24, 2026, Dynamite. The upcoming episode is...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-forbidden-door-go-home-show-spoilers/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-06-25T06:36:14+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "FREE PODCAST 6/24 – WKPWP after Dynamite: Keller & JB evaluate whether AEW effectively sold Forbidden Door, some frustrations with presentation, some unexpected standout performances (143 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Jerud “JB from Detroit” Buhagiar to review AEW Dynamite with chat, caller, and email interactions throughout. They...",
       "link": "https://www.pwtorch.com/site/2026/06/25/free-podcast-6-24-wkpwp-after-dynamite-keller-jb-evaluate-whether-aew-effectively-sold-forbidden-door-some-frustrations-with-presentation-some-unexpected-standout-performances-143-min/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-25T06:17:22+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "06/24 Powell’s AEW Dynamite audio review: Konosuke Takeshita vs. Ricochet for the AEW International Title, Will Ospreay vs. El Phantasmo, Zack Sabre Jr. vs. Jack Perry",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 06/24 Powell’s AEW Dynamite audio review: Konosuke Takeshita vs. Ricochet for the AEW International Title, Will Ospreay vs. El Phantasmo, Zack...",
       "link": "https://prowrestling.net/site/2026/06/25/06-24-powells-aew-dynamite-audio-review-konosuke-takeshita-vs-ricochet-for-the-aew-international-title-will-ospreay-vs-el-phantasmo-zack-sabre-jr-vs-jack-perry/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-25T06:11:02+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "VIP PODCAST 6/24 – WKH – AEW Dynamite: Forbidden Door hype, MJF and Andrade tension builds, Takeshita vs. Ricochet, Perry vs. ZSJ, more (21 min.)",
       "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the June 24 episode of AEW Dynamite start to finish including Konosuke Takeshita vs. Ricochet for the...",
       "link": "https://www.pwtorch.com/site/2026/06/25/vip-podcast-6-24-wkh-aew-dynamite-forbidden-door-hype-mjf-and-andrade-tension-builds-takeshita-vs-ricochet-perry-vs-zsj-more-21-min/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-25T06:05:08+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW Dynamite - 6/24/2026: 3 Things We Hated And 3 We Loved",
       "p": "The best and the worst from the last AEW Dynamite before Forbidden Door.",
       "link": "https://www.wrestlinginc.com/2201239/aew-dynamite-june-24-2026-3-things-hated-loved/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-25T03:22:28+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Will Ospreay addresses falling into bucket on AEW Dynamite: ‘You gotta laugh’",
       "p": "While Will Ospreay is typically in control of his body while in the ring, that wasn’t exactly the case backstage on Wednesday’s AEW Dynamite. In the show’s opening segment, Ospreay was with the...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-bucket-fall-aew-dynamite/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-25T03:06:20+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW Collision (6/20) Viewership Declines, Demo Rating Increases On Cable TV",
       "p": "AEW Collision viewership information for June 20. Programming Insider reports that AEW Collision drew 350,000 viewers on TNT on June 20. This number is down from the 365,000 viewers the show drew...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-6-20-viewership-declines-demo-rating-increases-on-cable-tv/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-06-25T03:03:34+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Current AEW Collision lineup for Forbidden Door go-home show",
       "p": "With Forbidden Door coming up this Sunday, the majority of the lineup for this Saturday’s go-home edition of AEW Collision was revealed during Wednesday’s Dynamite. The headliner will see Mercedes...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-lineup-forbidden-door-go-home-show/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-06-25T02:48:40+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Jersey Shore star Jenni ‘JWoww’ Farley marries former AEW wrestler",
       "p": "Jersey Shore star Jenni ‘JWoww’ Farley has officially tied the knot with former AEW wrestler Zack Clayton. In a surprise wedding hosted on Wednesday, June 24, 2026, Farley married professional...",
       "link": "https://www.f4wonline.com/news/aew/jersey-shore-star-jenni-jwoww-farley-marries-former-aew-wrestler/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-06-25T02:45:20+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Forbidden Door Go-Home: AEW Dynamite 6/24/26 Review | RAD",
       "p": "John & Wai review AEW Dynamite w/ Takeshita vs Ricochet, Swerve vs Garcia, Ospreay vs ELP. XL: G1 lineups, NXT recap, Dustin Poirier, TNA/SmackDown previews, and Forbidden Door picks. The post...",
       "link": "https://www.postwrestling.com/2026/06/24/aew-dynamite-6-24-26-review-rad-live-1035pm-et/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-06-25T02:35:38+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Owen Hart Finals preview tag, TNT title bout among matches booked for 6/27 AEW Collision",
-      "p": "Just 24 hours before they meet at Forbidden Door, Mercedes Moné and Maya World will face off in a tag match on AEW Collision. The post Owen Hart Finals preview tag, TNT title bout among matches...",
-      "link": "https://www.postwrestling.com/2026/06/24/owen-hart-finals-preview-tag-tnt-title-bout-among-matches-booked-for-6-27-aew-collision/",
-      "t": "5h",
-      "dt": "2026-06-25T02:33:44+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Konosuke Takeshita Retains AEW International Title In Dynamite Main Event",
-      "p": "Konosuke Takeshita retained the AEW International Championship in the main event of \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2201229/konosuke-takeshita-retains-aew-international-title-dynamite-main-event/",
-      "t": "6h",
-      "dt": "2026-06-25T02:29:44+00:00"
     }
   ]
 }

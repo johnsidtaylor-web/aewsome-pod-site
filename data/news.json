@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-24T23:20:54.252825+00:00",
+  "updated": "2026-06-25T04:22:06.920552+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
-    "ProWrestling.net": "ok (5 AEW items)"
+    "Wrestling Inc": "ok (6 AEW items)",
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE RESULTS (6/24): Keller’s report on final Forbidden Door build including Ospreay vs. ELP, Perry vs. SZJ, Bucks v s. TMDK, Swerve vs. Garcia",
-      "p": "AEW DYNAMITE REPORT JUNE 24, 2026 RIO RANCHO, N.M. AT RIO RANCHO EVENTS CENTER AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring...",
-      "link": "https://www.pwtorch.com/site/2026/06/24/aew-dynamite-results-6-24-kellers-report-on-final-forbidden-door-build-including-ospreay-vs-elp-perry-vs-szj-bucks-v-s-tmdk-swerve-vs-garcia/",
-      "t": "11m",
-      "dt": "2026-06-24T23:09:42+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite live results: Konosuke Takeshita vs. Ricochet, Swerve vs. Garcia",
-      "p": "AEW Dynamite is live tonight from the Rio Rancho Event Center in Rio Rancho, New Mexico. Eight matches are advertised for the show, including two Survival of the Fittest qualifiers and an AEW...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-konosuke-takeshita-vs-ricochet-swerve-vs-garcia/",
-      "t": "15m",
-      "dt": "2026-06-24T23:05:00+00:00"
-    },
-    {
       "src": "Wrestling Inc",
-      "h": "AEW Dynamite Results 6/24 - TBS Championship Survival Of The Fittest Qualifiers & More",
-      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on June 24, 2026, with two TBS Championship Survival of the Fittest qualifer matches!",
-      "link": "https://www.wrestlinginc.com/2200355/aew-dynamite-june-24-tbs-championship-survival-of-the-fittest-qualifers-more/",
-      "t": "20m",
-      "dt": "2026-06-24T23:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay: Match With Ricochet Changed How People Wrestle",
-      "p": "At NJPW Best of the Super Juniors in 2016, Will Ospreay and Ricochet competed in one of the most viral matches of all time. Clips from that match circulated throughout social media and became the...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-match-with-ricochet-changed-how-people-wrestle/",
-      "t": "1h",
-      "dt": "2026-06-24T22:19:08+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW FEUD TRACKER: Barber is back with his look at the feuds heading into Forbidden Door including Mercedes vs. Maya World, Swerve vs. Hangman",
-      "p": "INTRO I went on a much-needed vacation and then took a week to catch up, but fear not loyal readers, I’m back. Just in time too as Forbidden Door is this weekend. Things have coalesced [...]",
-      "link": "https://www.pwtorch.com/site/2026/06/24/aew-feud-tracker-barber-is-back-with-his-look-at-the-feuds-heading-into-forbidden-door-including-mercedes-vs-maya-world-swerve-vs-hangman/",
-      "t": "1h",
-      "dt": "2026-06-24T22:02:43+00:00"
+      "h": "AEW Dynamite - 6/24/2026: 3 Things We Hated And 3 We Loved",
+      "p": "The best and the worst from the last AEW Dynamite before Forbidden Door.",
+      "link": "https://www.wrestlinginc.com/2201239/aew-dynamite-june-24-2026-3-things-hated-loved/",
+      "t": "59m",
+      "dt": "2026-06-25T03:22:28+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Mark Davis to make another AEW National title defense in RevPro",
-      "p": "Coming off a successful defense over the weekend, Mark Davis is ready to put his AEW National Championship on the line in the United Kingdom again. Revolution Pro Wrestling has announced that...",
-      "link": "https://www.f4wonline.com/news/aew/mark-davis-aew-national-title-man-like-dereiss-revpro/",
+      "h": "Will Ospreay addresses falling into bucket on AEW Dynamite: ‘You gotta laugh’",
+      "p": "While Will Ospreay is typically in control of his body while in the ring, that wasn’t exactly the case backstage on Wednesday’s AEW Dynamite. In the show’s opening segment, Ospreay was with the...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-bucket-fall-aew-dynamite/",
       "t": "1h",
-      "dt": "2026-06-24T21:58:10+00:00"
+      "dt": "2026-06-25T03:06:20+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Will Ospreay: Vader Admitted He Didn’t Realize How Good I Was, Said He Was Going To Talk To Vince McMahon About Me",
-      "p": "In 2016, Vader gave his opinion on Will Ospreay vs. Ricochet from Best of Super Juniors, saying, “Blantant acrobatics,no story,is there anything done in this video that relates to winning u could...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-vader-admitted-he-didnt-realize-how-good-i-was-said-he-was-going-to-talk-to-vince-mcmahon-about-me/",
+      "h": "AEW Collision (6/20) Viewership Declines, Demo Rating Increases On Cable TV",
+      "p": "AEW Collision viewership information for June 20. Programming Insider reports that AEW Collision drew 350,000 viewers on TNT on June 20. This number is down from the 365,000 viewers the show drew...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-6-20-viewership-declines-demo-rating-increases-on-cable-tv/",
       "t": "1h",
-      "dt": "2026-06-24T21:44:00+00:00"
+      "dt": "2026-06-25T03:03:34+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Mark Davis To Defend AEW National Title At RevPro On June 27",
-      "p": "Mark Davis is set for another AEW National Title defense. Revolution Pro Wrestling announced that Mark Davis will defend his AEW National Title against Man Like Dereiss at RevPro British J-Cup on...",
-      "link": "https://www.fightful.com/wrestling-news/mark-davis-to-defend-aew-national-title-at-revpro-on-june-27/",
+      "src": "Wrestling Observer",
+      "h": "Current AEW Collision lineup for Forbidden Door go-home show",
+      "p": "With Forbidden Door coming up this Sunday, the majority of the lineup for this Saturday’s go-home edition of AEW Collision was revealed during Wednesday’s Dynamite. The headliner will see Mercedes...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-lineup-forbidden-door-go-home-show/",
       "t": "1h",
-      "dt": "2026-06-24T21:30:02+00:00"
+      "dt": "2026-06-25T02:48:40+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jersey Shore star Jenni ‘JWoww’ Farley marries former AEW wrestler",
+      "p": "Jersey Shore star Jenni ‘JWoww’ Farley has officially tied the knot with former AEW wrestler Zack Clayton. In a surprise wedding hosted on Wednesday, June 24, 2026, Farley married professional...",
+      "link": "https://www.f4wonline.com/news/aew/jersey-shore-star-jenni-jwoww-farley-marries-former-aew-wrestler/",
+      "t": "1h",
+      "dt": "2026-06-25T02:45:20+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "POST NEWS: Fireball angle on NXT, Ospreay & Ricochet reflect on BOSJ 2016 match",
-      "p": "John Pollock covers the news, including Will Ospreay and Ricochet reflecting on their Best of the Super Juniors match ten years later. Available for Double Double & Espresso members at...",
-      "link": "https://www.postwrestling.com/2026/06/24/post-news-fireball-angle-on-nxt-ospreay-ricochet-reflect-on-bosj-2016-match/",
-      "t": "2h",
-      "dt": "2026-06-24T20:21:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision to air on Thursdays twice in July, more preemptions possibly coming",
-      "p": "The latest lookahead for AEW programming on TNT, TBS and HBO Max has revealed that Collision will go head-to-head with TNA Impact twice in the month of July and possibly at least once a month...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-airing-thursdays-july-tnt-boxing/",
-      "t": "3h",
-      "dt": "2026-06-24T19:49:09+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Forbidden Door lineup: The card for Sunday’s pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door lineup: The card for Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/24/aew-forbidden-door-lineup-the-card-for-sundays-pay-per-view-event-3/",
-      "t": "5h",
-      "dt": "2026-06-24T18:15:23+00:00"
+      "h": "Owen Hart Finals preview tag, TNT title bout among matches booked for 6/27 AEW Collision",
+      "p": "Just 24 hours before they meet at Forbidden Door, Mercedes Moné and Maya World will face off in a tag match on AEW Collision. The post Owen Hart Finals preview tag, TNT title bout among matches...",
+      "link": "https://www.postwrestling.com/2026/06/24/owen-hart-finals-preview-tag-tnt-title-bout-among-matches-booked-for-6-27-aew-collision/",
+      "t": "1h",
+      "dt": "2026-06-25T02:33:44+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Eric Bischoff: Road Dogg Was 'Out Of Place' In WWE But Could Benefit AEW Or TNA",
-      "p": "Eric Bischoff believes that Road Dogg was \"out of place\" during his stint in WWE creative, but believes that both AEW or TNA could benefit from bringing him in",
-      "link": "https://www.wrestlinginc.com/2200858/wwe-aew-tna-eric-bischoff-road-dogg-out-place-benefit/",
-      "t": "5h",
-      "dt": "2026-06-24T17:55:29+00:00"
+      "h": "Konosuke Takeshita Retains AEW International Title In Dynamite Main Event",
+      "p": "Konosuke Takeshita retained the AEW International Championship in the main event of \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2201229/konosuke-takeshita-retains-aew-international-title-dynamite-main-event/",
+      "t": "1h",
+      "dt": "2026-06-25T02:29:44+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "TNT Championship Match, CMLL Women’s World Title Bout, More Set For 6/27 AEW Collision",
+      "p": "Here’s what’s on tap for Saturday’s episode of AEW Collision. The show will feature a women’s tag match, as Athena and Mercedes Mone will face the duo of Maya World and Hyan. This match will take...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-saturday-312775/",
+      "t": "2h",
+      "dt": "2026-06-25T02:08:04+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Two More Women Heading To AEW TBS Title Survival Of The Fittest Match",
+      "p": "Two more competitors for the TBS Championship Survival of the Fittest Match next week were determined on \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2201225/two-more-women-heading-aew-tbs-title-survival-fittest-match/",
+      "t": "2h",
+      "dt": "2026-06-25T02:06:37+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite 6/24 Results: Konosuke Takeshita defends International title against Ricochet on Forbidden Door go-home show",
+      "p": "AEW International Champion Konosuke Takeshita closed out a busy edition of Dynamite with a successful showing against Ricochet. The post AEW Dynamite 6/24 Results: Konosuke Takeshita defends...",
+      "link": "https://www.postwrestling.com/2026/06/24/aew-dynamite-6-24-live-results-takeshita-defends-against-ricochet-more-on-forbidden-door-go-home-show/",
+      "t": "2h",
+      "dt": "2026-06-25T02:00:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Two new qualifiers advance to first-ever AEW Survival of the Fittest match",
+      "p": "Harley Cameron and Queen Aminata are now part of next Wednesday’s first-ever Survival of the Fittest match in AEW history with the winner becoming the new TBS Champion. On Wednesday’s Dynamite,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-survival-of-the-fittest-match-tbs-title-update/",
+      "t": "2h",
+      "dt": "2026-06-25T01:55:58+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star to debut for Maple Leaf Pro this summer",
+      "p": "Andrade El Idolo is heading north of the border in August. Scott D’Amore’s Maple Leaf Pro Wrestling announced on Wednesday that the AEW star will be making his promotional debut on August 7 and 8...",
+      "link": "https://www.f4wonline.com/news/aew/andrade-maple-leaf-pro-debut-august/",
+      "t": "2h",
+      "dt": "2026-06-25T01:52:47+00:00"
     }
   ]
 }

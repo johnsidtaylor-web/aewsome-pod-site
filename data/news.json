@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T09:50:13.937376+00:00",
+  "updated": "2026-06-26T12:25:51.393994+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: AEW opens the Forbidden Door, King & Queen of the Ring wraps up, Slammiversary & more!",
+      "p": "A preview of this weekend's top wrestling events on TV & streaming, including shows from AEW, WWE, TNA, CMLL, GCW and more. The post Weekend TV Guide: AEW opens the Forbidden Door, King & Queen of...",
+      "link": "https://www.postwrestling.com/2026/06/26/weekend-tv-guide-aew-opens-the-forbidden-door-king-queen-of-the-ring-wraps-up-slammiversary-more/",
+      "t": "25m",
+      "dt": "2026-06-26T12:00:01+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kenny Omega feels confident AEW World Championship picture is stronger than ever",
+      "p": "Kenny Omega is interested in throwing his hat in the ring for another AEW World Championship opportunity. Additionally, he feels the roster is stacked with impressive prospects capable of holding...",
+      "link": "https://www.f4wonline.com/news/kenny-omega-feels-confident-aew-world-championship-picture-is-stronger-than-ever/",
+      "t": "36m",
+      "dt": "2026-06-26T11:49:03+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Fight Game: Night of Champions & Forbidden Door Previews",
       "p": "John LaRocca and I return with a brand-new Fight Game to discuss some of the most topical things going on in pro wrestling this week. You can also watch full video of the show below. We gave out...",
       "link": "https://www.f4wonline.com/podcasts/fight-game-night-of-champions-forbidden-door-previews/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-26T07:18:05+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Adam Copeland opens up on his infamous promo segment with Ricky Starks",
       "p": "A few years ago, during an episode of AEW Collision, Adam Copeland and Ricky Saints (known as Ricky Starks in AEW) had a heated promo segment. Shortly after, the internet was filled with rumors...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-opens-up-on-his-infamous-promo-segment-with-ricky-starks/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-06-26T05:45:00+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Tony Khan says NJPW sale is “something to keep an eye on”",
       "p": "AEW CEO and booker Tony Khan says the sale of NJPW from Bushiroad to TV Asahi and Cyber Agent is “something to keep an eye on. ”Well, it is a very interesting transaction,” said Khan [...]",
       "link": "https://www.pwtorch.com/site/2026/06/25/tony-khan-says-njpw-sale-is-something-to-keep-an-eye-on/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-06-26T04:50:29+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Tony Khan Names Four 'New Pillars' Of AEW Ahead Of Forbidden Door 2026",
       "p": "Everyone has their own set of AEW Pillars, but who does Tony Khan think are the new \"Four Pillars of AEW?\"",
       "link": "https://www.wrestlinginc.com/2202193/tony-khan-four-new-pillars-aew-forbidden-door-2026/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-06-26T03:29:50+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Adam Copeland says it was a ‘shame’ Vince McMahon didn’t understand what Rhea Ripley and Damian Priest had",
       "p": "AEW’s Adam Copeland, aka Edge, has opened up about the formation of The Judgment Day with Rhea Ripley and Damian Priest. Long before The Judgment Day were the arrogant and loudmouth villains of...",
       "link": "https://www.f4wonline.com/news/wwe/adam-copeland-says-it-was-a-shame-vince-mcmahon-didnt-understand-what-rhea-ripley-and-damian-priest-had/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-06-26T03:28:37+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Final Survival of the Fittest qualifier added to AEW Forbidden Door pre-show",
       "p": "Sunday’s AEW x NJPW Forbidden Door card has grown by one match. Announced by Tony Khan on Thursday, the final Survival of the Fittest qualifying match will take place on the Buy In pre-show. The...",
       "link": "https://www.f4wonline.com/news/aew/skye-blue-maika-aew-forbidden-door-buy-in/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-06-26T02:51:26+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "ROH Global Wars Cincinnati (6/25): Deonna Purrazzo, Syuri Compete",
       "p": "Ring of Honor Wrestling aired the second part of ROH Global Wars Cincinnati on June 25 from the Andrew J Brady Music Center in Cincinnati, OH. The event aired on HonorClub. Full results are below...",
       "link": "https://www.fightful.com/wrestling-news/roh-global-wars-cincinnati-6-25-deonna-purrazzo-syuri-compete/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-06-26T02:22:33+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "AEW Trios Title Bout Added To 6/27 AEW Collision",
       "p": "The AEW Trios Titles will be on the line on AEW Collision. All Elite Wrestling announced that The Conglomeraton (Orange Cassidy, Kyle O’Reilly, & Roderick Strong) will defend the Trios Titles...",
       "link": "https://www.fightful.com/wrestling-news/aew-trios-title-bout-added-to-6-27-aew-collision/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-06-26T02:01:44+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Skye Blue To Face Maika In TBS Title Qualifier At AEW x NJPW Forbidden Door Buy In",
       "p": "A new match has been added to AEW x NJPW Forbidden Door Buy In. Tony Khan announced that Skye Blue will face Maika in the final AEW TBS Title Survival of the Fittest Qualifier. #ForbiddenDoor BUY...",
       "link": "https://www.fightful.com/wrestling-news/skye-blue-to-face-maika-in-tbs-title-qualifier-at-aew-x-njpw-forbidden-door-buy-in/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-06-26T01:52:22+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Adam Copeland Says Exchange With Ricky Saints Was ‘Like 1000 Promos In The Attitude Era’",
       "p": "On the October 14, 2023 episode of AEW Collision, Adam Copeland and Ricky Starks (Ricky Saints in WWE) got into a promo exchange that seemed to get a little heated. Copeland said that Starks took...",
       "link": "https://www.fightful.com/wrestling-news/adam-copeland-says-exchange-with-ricky-saints-was-like-1000-promos-in-the-attitude-era/",
-      "t": "8h",
+      "t": "11h",
       "dt": "2026-06-26T00:54:07+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Bam Margera Says AEW Star Darby Allin Is Getting Married",
-      "p": "He's climbed Mount Everest, he's been hit by a bus, and now his friend Bam Margera has confirmed that AEW star Darby Allin is indeed getting married.",
-      "link": "https://www.wrestlinginc.com/2202170/aew-darby-allin-bam-margera-married/",
-      "t": "9h",
-      "dt": "2026-06-26T00:39:23+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH TV live results: Billie Starkz vs. Syuri, Queen Aminata vs. HANAKO",
-      "p": "Ring of Honor is back on HonorClub tonight with week two of Global Wars Cincinnati. Matches scheduled for tonight’s show include Deonna Purrazzo defending the ROH Women’s Pure Championship against...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-billie-starkz-vs-syuri-queen-aminata-vs-hanako/",
-      "t": "10h",
-      "dt": "2026-06-25T23:05:00+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T15:30:44.540788+00:00",
+  "updated": "2026-06-26T18:02:48.881346+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -7,16 +7,88 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Mark Briscoe Says He’s A Big Fan Of Lio Rush, Could See Him Fitting In The Conglomeration",
+      "p": "Mark Briscoe has high praise for Lio Rush. With his Blackheart character, Lio Rush is currently in the midst of a special moment for his career. This includes his huge feat at ROH Global Wars...",
+      "link": "https://www.fightful.com/wrestling-news/mark-briscoe-lio-rush-312974/",
+      "t": "2m",
+      "dt": "2026-06-26T18:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "The IInspiration Set For Forbidden Door Live Chat, Satoshi Kojima Reflects On CM Punk Bout, More | Fight Size",
+      "p": "Here’s your fight size update for Friday, June 26, 2026. – The IInspiration will be hosting a live chat for the Forbidden Door pay-per-view: The IInspiration will be hosting the live PPV fan chat...",
+      "link": "https://www.fightful.com/wrestling-news/the-iinspiration-set-for-forbidden-door-live-chat-satoshi-kojima-reflects-on-cm-punk-bout-more-fight-size/",
+      "t": "2m",
+      "dt": "2026-06-26T18:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW FORBIDDEN DOOR PREVIEW: JB’s Preview & Predictions for Ospreay vs. Strickland, Mercedes vs. Maya World, MJF & Callis Family vs. Team Briscoe, Copeland & Cage vs. The Dogs, more",
+      "p": "ZERO HOUR CARD Skye Blue vs. Maika (Stardom) – TBS Championship Survival of the Fittest Qualifier Match Preview: Skye Blue has been deeply intertwined with AEW Women’s Champion, Thekla, and Julia...",
+      "link": "https://www.pwtorch.com/site/2026/06/26/aew-forbidden-door-preview-jbs-preview-predictions-for-ospreay-vs-strickland-mercedes-vs-maya-world-mjf-callis-family-vs-team-briscoe-copeland-cage-vs-the-dogs-more/",
+      "t": "12m",
+      "dt": "2026-06-26T17:50:02+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Commentator Jim Ross Announces He's Being Discharged From The Hospital Next Week",
+      "p": "AEW's senior advisor and commentator Jim Ross to return home from his 22 day hospital stay next week.",
+      "link": "https://www.wrestlinginc.com/2202674/aew-jim-ross-discharged-hospital/",
+      "t": "14m",
+      "dt": "2026-06-26T17:48:26+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Says Jack Perry Will Remain In AEW Amid Contract Rumors",
+      "p": "\"Jungle\" Jack Perry's contract status has been up in the air for the last couple of weeks even as continues to compete on TV.",
+      "link": "https://www.wrestlinginc.com/2202645/aew-tony-khan-jack-perry-remain-contract-rumors/",
+      "t": "35m",
+      "dt": "2026-06-26T17:27:46+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Scorpio Sky AEW contract update | Exclusive",
+      "p": "Scorpio Sky, one of the original members of the AEW roster when the promotion launched in 2019, has his contract coming up soon. In the new issue of the Wrestling Observer Newsletter, Dave Meltzer...",
+      "link": "https://www.f4wonline.com/news/aew/scorpio-sky-aew-contract-update-exclusive/",
+      "t": "39m",
+      "dt": "2026-06-26T17:23:09+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Mark Briscoe Initially Thought He'd Never Wrestle Again After His Brother Died",
+      "p": "AEW star Mark Briscoe doubted whether he would ever wrestle again following the tragic death of his brother in an automobile collision.",
+      "link": "https://www.wrestlinginc.com/2202610/aew-mark-briscoe-never-wrestle-again-brother-jay-died/",
+      "t": "1h",
+      "dt": "2026-06-26T17:01:20+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan Comments On Recent Rise Of Maya World Ahead Of Forbidden Door",
+      "p": "Ahead of Maya World's tournament finals clash at Forbidden Door, AEW CEO Tony Khan comments on her rapid rise through the company.",
+      "link": "https://www.wrestlinginc.com/2202590/aew-tony-khan-maya-world-forbidden-door/",
+      "t": "1h",
+      "dt": "2026-06-26T16:44:54+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan On Forbidden Door Visa Issues: 'It's Been A Massive Challenge'",
+      "p": "The fifth AEW x NJPW Forbidden Door will take place on Sunday, June 28 and features talent from STARDOM and CMLL.",
+      "link": "https://www.wrestlinginc.com/2202514/aew-forbidden-door-2026-tony-khan-visa-issues-massive-challenge/",
+      "t": "2h",
+      "dt": "2026-06-26T15:51:21+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "ROH on HonorClub results (6/25): Global Wars with Mark Davis vs. Ace Austin for the AEW National Championship, Deonna Purrazzo vs. Olympia for the ROH Women’s Pure Championship",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (6/25): Global Wars with Mark Davis vs. Ace Austin for the AEW National Championship, Deonna Purrazzo vs. Olympia for...",
       "link": "https://prowrestling.net/site/2026/06/26/roh-on-honorclub-results-6-25-global-wars-with-mark-davis-vs-ace-austin-for-the-aew-national-championship-deonna-purrazzo-vs-olympia-for-the-roh-womens-pure-championship/",
-      "t": "30m",
+      "t": "3h",
       "dt": "2026-06-26T15:00:09+00:00"
     },
     {
@@ -24,7 +96,7 @@
       "h": "June 29, 2026 Observer Newsletter: Huge weekend preview with four shows, NJPW G1 lineups & schedule",
       "p": "Dave Meltzer is back with another packed Wrestling Observer Newsletter. He does full previews of this weekend’s four shows that includes AEW x NJPW Forbidden Door, WWE Night of Champions, TNA...",
       "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/june-29-2026-observer-newsletter-weekend-wrestling-preview-wwe-aew-aaa-nxt/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-06-26T12:37:48+00:00"
     },
     {
@@ -32,80 +104,8 @@
       "h": "Weekend TV Guide: AEW opens the Forbidden Door, King & Queen of the Ring wraps up, Slammiversary & more!",
       "p": "A preview of this weekend's top wrestling events on TV & streaming, including shows from AEW, WWE, TNA, CMLL, GCW and more. The post Weekend TV Guide: AEW opens the Forbidden Door, King & Queen of...",
       "link": "https://www.postwrestling.com/2026/06/26/weekend-tv-guide-aew-opens-the-forbidden-door-king-queen-of-the-ring-wraps-up-slammiversary-more/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-06-26T12:00:01+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kenny Omega feels confident AEW World Championship picture is stronger than ever",
-      "p": "Kenny Omega is interested in throwing his hat in the ring for another AEW World Championship opportunity. Additionally, he feels the roster is stacked with impressive prospects capable of holding...",
-      "link": "https://www.f4wonline.com/news/kenny-omega-feels-confident-aew-world-championship-picture-is-stronger-than-ever/",
-      "t": "3h",
-      "dt": "2026-06-26T11:49:03+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Fight Game: Night of Champions & Forbidden Door Previews",
-      "p": "John LaRocca and I return with a brand-new Fight Game to discuss some of the most topical things going on in pro wrestling this week. You can also watch full video of the show below. We gave out...",
-      "link": "https://www.f4wonline.com/podcasts/fight-game-night-of-champions-forbidden-door-previews/",
-      "t": "8h",
-      "dt": "2026-06-26T07:18:05+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Adam Copeland opens up on his infamous promo segment with Ricky Starks",
-      "p": "A few years ago, during an episode of AEW Collision, Adam Copeland and Ricky Saints (known as Ricky Starks in AEW) had a heated promo segment. Shortly after, the internet was filled with rumors...",
-      "link": "https://www.f4wonline.com/news/aew/adam-copeland-opens-up-on-his-infamous-promo-segment-with-ricky-starks/",
-      "t": "9h",
-      "dt": "2026-06-26T05:45:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "Tony Khan says NJPW sale is “something to keep an eye on”",
-      "p": "AEW CEO and booker Tony Khan says the sale of NJPW from Bushiroad to TV Asahi and Cyber Agent is “something to keep an eye on. ”Well, it is a very interesting transaction,” said Khan [...]",
-      "link": "https://www.pwtorch.com/site/2026/06/25/tony-khan-says-njpw-sale-is-something-to-keep-an-eye-on/",
-      "t": "10h",
-      "dt": "2026-06-26T04:50:29+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Names Four 'New Pillars' Of AEW Ahead Of Forbidden Door 2026",
-      "p": "Everyone has their own set of AEW Pillars, but who does Tony Khan think are the new \"Four Pillars of AEW?\"",
-      "link": "https://www.wrestlinginc.com/2202193/tony-khan-four-new-pillars-aew-forbidden-door-2026/",
-      "t": "12h",
-      "dt": "2026-06-26T03:29:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Adam Copeland says it was a ‘shame’ Vince McMahon didn’t understand what Rhea Ripley and Damian Priest had",
-      "p": "AEW’s Adam Copeland, aka Edge, has opened up about the formation of The Judgment Day with Rhea Ripley and Damian Priest. Long before The Judgment Day were the arrogant and loudmouth villains of...",
-      "link": "https://www.f4wonline.com/news/wwe/adam-copeland-says-it-was-a-shame-vince-mcmahon-didnt-understand-what-rhea-ripley-and-damian-priest-had/",
-      "t": "12h",
-      "dt": "2026-06-26T03:28:37+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Final Survival of the Fittest qualifier added to AEW Forbidden Door pre-show",
-      "p": "Sunday’s AEW x NJPW Forbidden Door card has grown by one match. Announced by Tony Khan on Thursday, the final Survival of the Fittest qualifying match will take place on the Buy In pre-show. The...",
-      "link": "https://www.f4wonline.com/news/aew/skye-blue-maika-aew-forbidden-door-buy-in/",
-      "t": "12h",
-      "dt": "2026-06-26T02:51:26+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH Global Wars Cincinnati (6/25): Deonna Purrazzo, Syuri Compete",
-      "p": "Ring of Honor Wrestling aired the second part of ROH Global Wars Cincinnati on June 25 from the Andrew J Brady Music Center in Cincinnati, OH. The event aired on HonorClub. Full results are below...",
-      "link": "https://www.fightful.com/wrestling-news/roh-global-wars-cincinnati-6-25-deonna-purrazzo-syuri-compete/",
-      "t": "13h",
-      "dt": "2026-06-26T02:22:33+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Trios Title Bout Added To 6/27 AEW Collision",
-      "p": "The AEW Trios Titles will be on the line on AEW Collision. All Elite Wrestling announced that The Conglomeraton (Orange Cassidy, Kyle O’Reilly, & Roderick Strong) will defend the Trios Titles...",
-      "link": "https://www.fightful.com/wrestling-news/aew-trios-title-bout-added-to-6-27-aew-collision/",
-      "t": "13h",
-      "dt": "2026-06-26T02:01:44+00:00"
     }
   ]
 }

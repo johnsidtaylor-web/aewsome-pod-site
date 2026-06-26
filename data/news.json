@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-25T22:44:23.849500+00:00",
+  "updated": "2026-06-26T00:22:20.472686+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "ROH TV live results: Billie Starkz vs. Syuri, Queen Aminata vs. HANAKO",
+      "p": "Ring of Honor is back on HonorClub tonight with week two of Global Wars Cincinnati. Matches scheduled for tonight’s show include Deonna Purrazzo defending the ROH Women’s Pure Championship against...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-billie-starkz-vs-syuri-queen-aminata-vs-hanako/",
+      "t": "1h",
+      "dt": "2026-06-25T23:05:00+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "VIP PODCAST 6/25 – Radican Worldwide: Interview with Maya World – Getting signed by AEW, working with her mentor Athena, inspirational run through Owen Hart Foundation Tournament after passing of brother, more (22 min.)",
       "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is joined by AEW wrestler “The It Girl” Maya World for a new Radican Worldwide interview ahead of AEW’s Forbidden Door PPV on June 28, available on...",
       "link": "https://www.pwtorch.com/site/2026/06/25/vip-podcast-6-25-radican-worldwide-interview-with-maya-world-getting-signed-by-aew-working-with-her-mentor-athena-inspirational-run-though-owen-hart-foundation-tournament-after-passing/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-25T21:10:26+00:00"
     },
     {
@@ -24,23 +32,15 @@
       "h": "Daily Update: WWE notes, MyAEW, Mike Santana",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-wwe-notes-myaew-mike-santana/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-25T20:54:35+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Says Promoters Have Inquired About Streaming Their All In Weekend Shows On MyAEW",
-      "p": "Promotions have reached out about getting their All In weekend shows on AEW’s streaming service. Going into AEW x NJPW Forbidden Door, Tony Khan hosted the pre-event media call. One of the...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-promoters-have-inquired-about-streaming-their-all-in-weekend-shows-on-myaew/",
-      "t": "2h",
-      "dt": "2026-06-25T20:29:21+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Tony Khan says recent NJPW ownership change ‘something to keep an eye on’",
       "p": "With NJPW as a key part of this weekend’s Forbidden Door pay-per-view, AEW head Tony Khan was asked about his thoughts on the recent ownership change with his longtime partner. In a surprise move...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-comments-njpw-ownership-change/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-25T20:08:08+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "WOL: Huge weekend lines-ups and predictions, Dynamite, Jack Perry",
       "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including a full line-up for all the big shows this weekend and thoughts on many of the important...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-huge-weekend-lines-ups-and-predictions-dynamite-jack-perry/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-25T20:06:13+00:00"
     },
     {
@@ -56,7 +56,7 @@
       "h": "Forbidden Door media call with Tony Khan: visa renewals, MyAEW additions, Puerto Rico and potential TNA purchase",
       "p": "Tony Khan discussed a variety of topics at the Forbidden Door media call, including potential MyAEW additions and a TNA purchase. The post Forbidden Door media call with Tony Khan: visa renewals,...",
       "link": "https://www.postwrestling.com/2026/06/25/forbidden-door-media-call-with-tony-khan-visa-renewals-myaew-additions-puerto-rico-and-potential-tna-purchase/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-25T20:05:37+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "Update on visa issues causing ‘massive challenge’ for AEW x NJPW Forbidden Door",
       "p": "Visa issues have impacted the booking for AEW x NJPW Forbidden Door. On Thursday’s Forbidden Door media call, Tony Khan stated that visa issues have been a “massive challenge for this event.” He...",
       "link": "https://www.f4wonline.com/news/aew/update-on-visa-issues-causing-massive-challenge-for-aew-x-njpw-forbidden-door/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-25T19:53:04+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Tony Khan media call notes & audio: World Cup, Sareee, MyAEW growth, free agent surprises",
       "p": "Tony Khan hit on a few different topics during Thursday’s pre-AEW x NJPW Forbidden Door media call including his interest in buying TNA Wrestling, the growing roster of content on MyAEW, the...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-media-call-notes-audio-world-cup-sareee-myaew/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-06-25T19:37:29+00:00"
     },
     {
@@ -80,32 +80,32 @@
       "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Konosuke Takeshita vs. Ricochet for the International Championship, final hype for AEW Forbidden Door, Will Ospreay and Swerve Strickland stare each other down",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Konosuke Takeshita vs. Ricochet for the International Championship, final hype for AEW...",
       "link": "https://prowrestling.net/site/2026/06/25/pruetts-pause-10-thoughts-on-aew-dynamite-konosuke-takeshita-vs-ricochet-for-the-international-championship-final-hype-for-aew-forbidden-door-will-ospreay-and-swerve-strickland-stare-ea/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-06-25T19:27:28+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Update on Jack Perry’s AEW contract status | Exclusive",
-      "p": "An update is available on Jack Perry’s AEW contract status. Our own Bryan Alvarez reports that Perry still had not re-signed with AEW as of Thursday morning. “As of this morning, Jack Perry still...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-jack-perrys-aew-contract-status-exclusive/",
-      "t": "3h",
-      "dt": "2026-06-25T19:18:22+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW X NJPW Forbidden Door 2026: Draws & Duds",
+      "p": "From Kenny Omega vs. Zack Sabre Jr. to Swerve Strickland vs. Will Ospreay, here are WINC's biggest draws and biggest duds for AEW x NJPW Forbidden Door 2026!",
+      "link": "https://www.wrestlinginc.com/2201785/aew-x-njpw-forbidden-door-2026-draws-duds-omega-zsj-swerve-ospreay/",
+      "t": "6h",
+      "dt": "2026-06-25T17:53:33+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Tony Khan Says He Has No Interest In Purchasing TNA For $40 Million",
-      "p": "Rumors have circulated that TNA Wrestling could soon be for sale, with sports business analyst Blake Avignon reporting, “Anthem’s Len Asper has set a $30M floor for a potential sale of TNA, with...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-he-has-no-interest-in-purchasing-tna-for-40-million/",
-      "t": "3h",
-      "dt": "2026-06-25T19:13:55+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW media call report: Tony Khan takes media questions heading into the AEW Forbidden Door pay-per-view",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW media call report: Tony Khan takes media questions heading into the AEW Forbidden Door pay-per-view appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/25/aew-media-call-report-tony-khan-takes-media-questions-heading-into-the-aew-forbidden-door-pay-per-view/",
+      "t": "6h",
+      "dt": "2026-06-25T17:40:46+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Mark Briscoe: I’ve Never Had A Hatred For A Man Like I Have For MJF",
-      "p": "Mark Briscoe isn’t shying away about his hatred from MJF. Briscoe and Friedman will meet in the ring again at Forbidden Door, as they’ll both captain teams in a 6 vs. 6 steel cage tag match. If he...",
-      "link": "https://www.fightful.com/wrestling-news/mark-briscoe-mjf-312859/",
-      "t": "3h",
-      "dt": "2026-06-25T19:00:00+00:00"
+      "src": "Wrestling Inc",
+      "h": "Update Regarding Jack Perry's AEW Status",
+      "p": "Jack Perry wrestled Zack Sabre, Jr. on this week's \"Dynamite\" amidst his unknown contract status.",
+      "link": "https://www.wrestlinginc.com/2201713/update-regarding-jack-perry-aew-status/",
+      "t": "7h",
+      "dt": "2026-06-25T17:05:27+00:00"
     }
   ]
 }

@@ -1,22 +1,54 @@
 {
-  "updated": "2026-06-27T16:18:46.801557+00:00",
+  "updated": "2026-06-27T18:17:14.505486+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 6/27 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner preview AEW Forbidden Door (100 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review the final hype towards Sunday’s Forbidden Door PPV in San Jose, CA....",
+      "link": "https://www.pwtorch.com/site/2026/06/27/free-podcast-6-27-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-preview-aew-forbidden-door-100-min/",
+      "t": "17m",
+      "dt": "2026-06-27T18:00:01+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Forbidden Door 2026 Main Card Start Times: US, UK, Australia and more",
+      "p": "AEW Forbidden Door 2026 is set to take place this weekend (on Sunday, June 28th) from the SAP Center in San Jose, California. Several big matches have been confirmed for the card, including Swerve...",
+      "link": "https://www.f4wonline.com/event-guides/aew-forbidden-door-2026-main-card-start-times-us-uk-australia/",
+      "t": "1h",
+      "dt": "2026-06-27T17:11:46+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "MJF Says AEW Locker Room Is In Harmony But Sometimes 'S**t Gets Competitive'",
+      "p": "AEW Men's World Champion MJF says that the AEW locker room is currently in harmony, though he admits that sometimes \"s**t gets competitive\" with fellow stars",
+      "link": "https://www.wrestlinginc.com/2199431/aew-mjf-locker-room-harmony-competitive/",
+      "t": "1h",
+      "dt": "2026-06-27T17:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Psycho Circus To Call Out Pagano, Galeno vs. Mecha Wolf Added To 6/27 AAA On FOX",
+      "p": "Psycho Circus wants answers from Pagano. The June 27th episode of Lucha Libre AAA on FOX is going to feature NXT Women’s Champion Lola Vice defending her title against La Hiedra. On 6/28, Vice is...",
+      "link": "https://www.fightful.com/wrestling-news/psycho-circus-to-call-out-pagano-galeno-vs-mecha-wolf-added-to-6-27-aaa-on-fox/",
+      "t": "1h",
+      "dt": "2026-06-27T16:45:21+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Mark Briscoe Says Gimmick Matches Are ‘An Easy Night Of Work’ For Him",
       "p": "Mark Briscoe professes his love for gimmick matches. Since its inception, AEW has always been home to some of the best stipulation matches in all of wrestling. This includes reoccurring match...",
       "link": "https://www.fightful.com/wrestling-news/mark-briscoe-gimmick-312977/",
-      "t": "18m",
+      "t": "2h",
       "dt": "2026-06-27T16:00:00+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Shawn Dean Recalls Bringing Je'Von Evans To AEW Prior To WWE Career",
       "p": "Before joining WWE, wrestler Je'Von Evans took part in several dark matches for AEW, including a memorable moment with Satnam Singh.",
       "link": "https://www.wrestlinginc.com/2199257/aew-wwe-shawn-dean-jevon-evans-recalls-bringing/",
-      "t": "18m",
+      "t": "2h",
       "dt": "2026-06-27T16:00:00+00:00"
     },
     {
@@ -32,39 +64,15 @@
       "h": "Adam Copeland: 95% Of The Matches I Want Are Still Out There",
       "p": "Adam Copeland still has a lot to check off his bucket list. For the past year, Copeland has been involved in the tag team division with Christian Cage, winning the AEW Tag Team Titles with his...",
       "link": "https://www.fightful.com/wrestling-news/adam-copeland-95-of-the-matches-i-want-are-still-out-there/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-27T15:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay Comments On His Fall On This Week’s Edition Of AEW Dynamite",
-      "p": "Will Ospreay comments on his fall on this week’s edition of AEW Dynamite and what was going through his head at the time. On this past week’s edition of AEW Dynamite prior to the Death Riders...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-comments-on-his-fall-on-this-weeks-edition-of-aew-dynamite/",
-      "t": "1h",
-      "dt": "2026-06-27T14:58:56+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay Names The Two Most Memorable Moments Of His AEW Career So Far",
-      "p": "Will Ospreay has named a pair of the most memorable moments of his AEW career so far, including a bout and an entrance. Throughout his run in All Elite Wrestling so far, Ospreay has wrestled some...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-names-the-two-most-memorable-moments-of-his-aew-career-so-far/",
-      "t": "1h",
-      "dt": "2026-06-27T14:34:50+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay On Alex Windsor: I Found A Good Girl, Thank God, One That Can Take A Joke",
-      "p": "Will Ospreay discusses how Alex Windsor helps with his anxiety when the pressure of being a performer gets to him. For the past several years, it has been well known that Ospreay and Windsor have...",
-      "link": "https://www.fightful.com/uncategorized/will-ospreay-on-alex-windsor-i-found-a-good-girl-thank-god-one-that-can-take-a-joke/",
-      "t": "2h",
-      "dt": "2026-06-27T14:13:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Thunder Rosa Compares Working In The United States & Mexico",
       "p": "AEW wrestler Thunder Rosa has drawn parallels between wrestling in Mexico and the United States, discussing how tricky it is to balance the two.",
       "link": "https://www.wrestlinginc.com/2198645/aew-thunder-rosa-united-states-mexico-compares-working/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-27T13:30:00+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW Collision lineup: Tonight’s Forbidden Door go-home show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Tonight’s Forbidden Door go-home show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/27/aew-collision-lineup-tonights-forbidden-door-go-home-show/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-06-27T11:00:08+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW X NJPW Forbidden Door Predictions: Wrestling Inc. Picks The Winners",
       "p": "AEW x NJPW Forbidden Door is officially on the horizon, and as always, the Wrestling Inc. staff is here to predict the winners of every match!",
       "link": "https://www.wrestlinginc.com/2203087/aew-x-njpw-forbidden-door-2026-predictions-winners/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-06-27T11:00:00+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "ROH Tag Team titles change hands at CMLL Viernes Espectacular",
       "p": "New ROH Tag Team Champions have been crowned. Sammy Guevara and The Beast Mortos lost the titles in the main event of CMLL’s Friday night event in Mexico City to Mistico & Mascara Dorada. The...",
       "link": "https://www.f4wonline.com/news/mexico/roh-tag-team-titles-change-hands-at-cmll-viernes-espectacular/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-06-27T06:31:40+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW Dynamite rating: How did the final episode before Forbidden Door perform?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the final episode before Forbidden Door perform? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/27/aew-dynamite-rating-how-did-the-final-episode-before-forbidden-door-perform/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-06-27T06:06:23+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report, 6/24/2026",
-      "p": "The final episode of \"AEW Dynamite\" before Forbidden Door was full of action, but it did take a hit in the TV ratings on a very competitive night.",
-      "link": "https://www.wrestlinginc.com/2203095/aew-dynamite-viewership-ratings-report-june-24-2026/",
-      "t": "13h",
-      "dt": "2026-06-27T02:45:14+00:00"
     }
   ]
 }

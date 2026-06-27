@@ -1,22 +1,62 @@
 {
-  "updated": "2026-06-27T10:21:37.978289+00:00",
+  "updated": "2026-06-27T12:17:47.976934+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "FAILED (HTTP Error 502: Bad Gateway)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Maya World: When I First Started on the Indies, My Goal Was to Make Everybody Know My Name. Thank God, It Was Tony Khan Who Noticed Me",
+      "p": "Maya World says that initially her main goal was to make everyone remember her name. Last year, Maya World and Hyan got signed to AEW after filling in for Nixon Newell and Miranda Alize against...",
+      "link": "https://www.fightful.com/wrestling-news/maya-world-when-i-first-started-on-the-indies-my-goal-was-to-make-everybody-know-my-name-thank-god-it-was-tony-khan-who-noticed-me/",
+      "t": "2m",
+      "dt": "2026-06-27T12:15:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Maya World Calls AEW Forbidden Door Owen Hart Cup Final With Mercedes Mone A Mission For Her Late Brother",
+      "p": "Maya World says she’s on a mission to win against Mercedes Mone for her brother. At AEW Forbidden Door 2026, Maya World will step into the ring against Mercedes Mone in the Women’s Owen Hart Cup...",
+      "link": "https://www.fightful.com/wrestling-news/maya-world-calls-aew-forbidden-door-owen-hart-cup-final-with-mercedes-mone-a-mission-for-her-late-brother/",
+      "t": "17m",
+      "dt": "2026-06-27T12:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision Preview, Start Time, How To Watch, Location (6/27)",
+      "p": "Viewing information and lineup for AEW Collision on June 27, 2026 AEW Collision (June 27, 2026) Venue: Rio Rancho Arena City: Rio Rancho, NM Time: 8 pm ET Channel: TNT, HBO Max Lineup Athena &...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-6-27/",
+      "t": "17m",
+      "dt": "2026-06-27T12:00:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: Tonight’s Forbidden Door go-home show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Tonight’s Forbidden Door go-home show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/27/aew-collision-lineup-tonights-forbidden-door-go-home-show/",
+      "t": "1h",
+      "dt": "2026-06-27T11:00:08+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW X NJPW Forbidden Door Predictions: Wrestling Inc. Picks The Winners",
+      "p": "AEW x NJPW Forbidden Door is officially on the horizon, and as always, the Wrestling Inc. staff is here to predict the winners of every match!",
+      "link": "https://www.wrestlinginc.com/2203087/aew-x-njpw-forbidden-door-2026-predictions-winners/",
+      "t": "1h",
+      "dt": "2026-06-27T11:00:00+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "ROH Tag Team titles change hands at CMLL Viernes Espectacular",
       "p": "New ROH Tag Team Champions have been crowned. Sammy Guevara and The Beast Mortos lost the titles in the main event of CMLL’s Friday night event in Mexico City to Mistico & Mascara Dorada. The...",
       "link": "https://www.f4wonline.com/news/mexico/roh-tag-team-titles-change-hands-at-cmll-viernes-espectacular/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-27T06:31:40+00:00"
     },
     {
@@ -24,15 +64,23 @@
       "h": "AEW Dynamite rating: How did the final episode before Forbidden Door perform?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the final episode before Forbidden Door perform? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/27/aew-dynamite-rating-how-did-the-final-episode-before-forbidden-door-perform/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-06-27T06:06:23+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mistico & Máscara Dorada Capture ROH World Tag Team Titles At 6/26 CMLL Show",
+      "p": "Mistico and Mascara Dorada captured the titles. At CMLL’s June 26th show at Arena Mexico, the duo of Mistico and Mascara Dorada challenged Sammy Guevara and The Beast Mortos for the ROH World Tag...",
+      "link": "https://www.fightful.com/wrestling-news/mistico-mascara-dorada-capture-roh-world-tag-team-titles-at-6-26-cmll-show/",
+      "t": "7h",
+      "dt": "2026-06-27T04:59:14+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW Dynamite Viewership & Ratings Report, 6/24/2026",
       "p": "The final episode of \"AEW Dynamite\" before Forbidden Door was full of action, but it did take a hit in the TV ratings on a very competitive night.",
       "link": "https://www.wrestlinginc.com/2203095/aew-dynamite-viewership-ratings-report-june-24-2026/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-06-27T02:45:14+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "AEW Dynamite ratings down against World Cup coverage",
       "p": "Wednesday night’s episode of AEW Dynamite averaged 616,000 viewers on TBS, down 7.4% from the previous week. It’s the second lowest audience for the show since May 20th. Dynamite averaged a 0.10...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-down-against-world-cup-coverage/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-06-27T01:35:18+00:00"
     },
     {
@@ -48,64 +96,16 @@
       "h": "GCW’s Brett Lauderdale confirms discussions with AEW",
       "p": "Game Changer Wrestling has been putting up shows on Triller TV since 2018. But with Triller suffering financial and operational woes, however, might they be looking for a new online home? A report...",
       "link": "https://www.f4wonline.com/news/indies/gcws-brett-lauderdale-confirms-discussions-with-aew/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-06-27T00:58:09+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "GCW Held Discussions With AEW About Potentially Joining MyAEW In The Future",
-      "p": "GCW has had talks with AEW about joining MyAEW. Since the platform’s launch in May, many indie promotions have partnered with them. Not only will fans find AEW shows there, but also from PRODUCE,...",
-      "link": "https://www.fightful.com/wrestling-news/gcw-held-discussions-with-aew-about-potentially-joining-myaew-in-the-future/",
-      "t": "9h",
-      "dt": "2026-06-27T00:48:51+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "WOR: Huge AEW & WWE weekend preview, Ali/Inoki Q&A",
       "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
       "link": "https://www.f4wonline.com/podcasts/wor-huge-aew-wwe-weekend-preview-ali-inoki-qa/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-06-26T23:46:18+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "EXCLUSIVE: Maya World says “It meant so much” to main event ROH Supercard of Honor PPV in Women’s Survial of the Fittest match",
-      "p": "Maya World’s current inspirational run of to the finals of the Owen Hart Foundation tournament after the tragic passing of her brother earlier this month didn’t happen overnight. She has shown...",
-      "link": "https://www.pwtorch.com/site/2026/06/26/exclusive-maya-world-says-it-meant-so-much-to-main-event-roh-supercard-of-honor-ppv-in-womens-survial-of-the-fittest-match/",
-      "t": "13h",
-      "dt": "2026-06-26T20:27:27+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "06/26 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Forbidden Door",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 06/26 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Forbidden Door appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/26/06-26-prowrestling-net-free-podcast-aew-media-call-with-tony-khan-before-aew-forbidden-door/",
-      "t": "14h",
-      "dt": "2026-06-26T19:50:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "TNA, AEW, Josh Alexander pay tribute to Joe Doering",
-      "p": "TNA Wrestling is mourning the loss of Joe Doering, who passed away at 44 years old this morning following a courageous fight against brain cancer. Doering battled brain cancer three times during...",
-      "link": "https://www.f4wonline.com/news/tna-wrestling/tna-aew-josh-alexander-pay-tribute-to-joe-doering/",
-      "t": "15h",
-      "dt": "2026-06-26T19:18:41+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kenny Omega Previews AEW X NJPW Forbidden Door Match Against Zack Sabre Jr.",
-      "p": "Ahead of their Forbidden Door clash, Kenny Omega extends praise to fellow former IWGP Heavyweight Champion Zack Sabre Jr.",
-      "link": "https://www.wrestlinginc.com/2202821/aew-njpw-forbidden-door-2026-kenny-omega-zack-sabre-jr-previews/",
-      "t": "15h",
-      "dt": "2026-06-26T19:08:17+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/26 – PWTorch Dailycast – PWTorch ‘90s Pastcast: Moynahan & McDonald discuss PWTorch Newsletter #393 (6-22-96) including WCW Great American Bash, Dick Murdoch dies at 49, Rey Misterio debuts, Nash and Hall attack Bischoff, more (178 min.)",
-      "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: Reviews of AEW Collision and Dynamite...",
-      "link": "https://www.pwtorch.com/site/2026/06/26/free-podcast-6-26-pwtorch-dailycast-pwtorch-90s-pastcast-moynahan-mcdonald-discuss-pwtorch-newsletter-393-6-22-96-including-wcw-great-american-bash-dick-murdoch-die/",
-      "t": "15h",
-      "dt": "2026-06-26T19:00:29+00:00"
     }
   ]
 }

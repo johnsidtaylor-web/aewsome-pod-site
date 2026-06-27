@@ -1,30 +1,70 @@
 {
-  "updated": "2026-06-26T23:22:14.246626+00:00",
+  "updated": "2026-06-27T04:14:50.032491+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Viewership & Ratings Report, 6/24/2026",
+      "p": "The final episode of \"AEW Dynamite\" before Forbidden Door was full of action, but it did take a hit in the TV ratings on a very competitive night.",
+      "link": "https://www.wrestlinginc.com/2203095/aew-dynamite-viewership-ratings-report-june-24-2026/",
+      "t": "1h",
+      "dt": "2026-06-27T02:45:14+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite ratings down against World Cup coverage",
+      "p": "Wednesday night’s episode of AEW Dynamite averaged 616,000 viewers on TBS, down 7.4% from the previous week. It’s the second lowest audience for the show since May 20th. Dynamite averaged a 0.10...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-down-against-world-cup-coverage/",
+      "t": "2h",
+      "dt": "2026-06-27T01:35:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "GCW’s Brett Lauderdale confirms discussions with AEW",
+      "p": "Game Changer Wrestling has been putting up shows on Triller TV since 2018. But with Triller suffering financial and operational woes, however, might they be looking for a new online home? A report...",
+      "link": "https://www.f4wonline.com/news/indies/gcws-brett-lauderdale-confirms-discussions-with-aew/",
+      "t": "3h",
+      "dt": "2026-06-27T00:58:09+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Will Ospreay On Competing At AEW All In 2023: I Was Shitting My Pants",
-      "p": "Will Ospreay looks back on All In. AEW All In 2023 was the biggest show in company history as the event drew over 80,000 fans at Wembley Stadium. It was a homecoming for Ospreay as he wrestled in...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-on-competing-at-aew-all-in-2023-i-was-shitting-my-pants/",
-      "t": "2m",
-      "dt": "2026-06-26T23:19:59+00:00"
+      "h": "GCW Held Discussions With AEW About Potentially Joining MyAEW In The Future",
+      "p": "GCW has had talks with AEW about joining MyAEW. Since the platform’s launch in May, many indie promotions have partnered with them. Not only will fans find AEW shows there, but also from PRODUCE,...",
+      "link": "https://www.fightful.com/wrestling-news/gcw-held-discussions-with-aew-about-potentially-joining-myaew-in-the-future/",
+      "t": "3h",
+      "dt": "2026-06-27T00:48:51+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite (6/24) Viewership Declines On Cable TV",
+      "p": "AEW Dynamite viewership and ratings information for the June 24 episode. Dave Meltzer of the Wrestling Observer reports that AEW Dynamite on June 24 drew 616,000 viewers on TBS. This number is...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-6-24-viewership-declines-on-cable-tv/",
+      "t": "4h",
+      "dt": "2026-06-27T00:01:12+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOR: Huge AEW & WWE weekend preview, Ali/Inoki Q&A",
+      "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
+      "link": "https://www.f4wonline.com/podcasts/wor-huge-aew-wwe-weekend-preview-ali-inoki-qa/",
+      "t": "4h",
+      "dt": "2026-06-26T23:46:18+00:00"
     },
     {
       "src": "PWTorch",
       "h": "EXCLUSIVE: Maya World says “It meant so much” to main event ROH Supercard of Honor PPV in Women’s Survial of the Fittest match",
       "p": "Maya World’s current inspirational run of to the finals of the Owen Hart Foundation tournament after the tragic passing of her brother earlier this month didn’t happen overnight. She has shown...",
       "link": "https://www.pwtorch.com/site/2026/06/26/exclusive-maya-world-says-it-meant-so-much-to-main-event-roh-supercard-of-honor-ppv-in-womens-survial-of-the-fittest-match/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-06-26T20:27:27+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "06/26 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Forbidden Door",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 06/26 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Forbidden Door appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/26/06-26-prowrestling-net-free-podcast-aew-media-call-with-tony-khan-before-aew-forbidden-door/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-06-26T19:50:17+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "TNA, AEW, Josh Alexander pay tribute to Joe Doering",
       "p": "TNA Wrestling is mourning the loss of Joe Doering, who passed away at 44 years old this morning following a courageous fight against brain cancer. Doering battled brain cancer three times during...",
       "link": "https://www.f4wonline.com/news/tna-wrestling/tna-aew-josh-alexander-pay-tribute-to-joe-doering/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-06-26T19:18:41+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Kenny Omega Previews AEW X NJPW Forbidden Door Match Against Zack Sabre Jr.",
       "p": "Ahead of their Forbidden Door clash, Kenny Omega extends praise to fellow former IWGP Heavyweight Champion Zack Sabre Jr.",
       "link": "https://www.wrestlinginc.com/2202821/aew-njpw-forbidden-door-2026-kenny-omega-zack-sabre-jr-previews/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-26T19:08:17+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "FREE PODCAST 6/26 – PWTorch Dailycast – PWTorch ‘90s Pastcast: Moynahan & McDonald discuss PWTorch Newsletter #393 (6-22-96) including WCW Great American Bash, Dick Murdoch dies at 49, Rey Misterio debuts, Nash and Hall attack Bischoff, more (178 min.)",
       "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: Reviews of AEW Collision and Dynamite...",
       "link": "https://www.pwtorch.com/site/2026/06/26/free-podcast-6-26-pwtorch-dailycast-pwtorch-90s-pastcast-moynahan-mcdonald-discuss-pwtorch-newsletter-393-6-22-96-including-wcw-great-american-bash-dick-murdoch-die/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-26T19:00:29+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Report: “Panel only” data for WWE & AEW programming show major discrepancies with current method",
       "p": "Television viewership for professional wrestling continues to be a quagmire under the Big Data + Panel and changes in Nielsen’s tabulation over the past year. The post Report: “Panel only” data...",
       "link": "https://www.postwrestling.com/2026/06/26/report-panel-only-data-for-wwe-aew-programming-show-major-discrepancies-with-current-method/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-06-26T18:45:36+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW FORBIDDEN DOOR PREVIEW: JB’s Preview & Predictions for Ospreay vs. Strickland, Mercedes vs. Maya World, MJF & Callis Family vs. Team Briscoe, Copeland & Cage vs. The Dogs, more",
-      "p": "ZERO HOUR CARD Skye Blue vs. Maika (Stardom) – TBS Championship Survival of the Fittest Qualifier Match Preview: Skye Blue has been deeply intertwined with AEW Women’s Champion, Thekla, and Julia...",
-      "link": "https://www.pwtorch.com/site/2026/06/26/aew-forbidden-door-preview-jbs-preview-predictions-for-ospreay-vs-strickland-mercedes-vs-maya-world-mjf-callis-family-vs-team-briscoe-copeland-cage-vs-the-dogs-more/",
-      "t": "5h",
-      "dt": "2026-06-26T17:50:02+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Commentator Jim Ross Announces He's Being Discharged From The Hospital Next Week",
-      "p": "AEW's senior advisor and commentator Jim Ross to return home from his 22 day hospital stay next week.",
-      "link": "https://www.wrestlinginc.com/2202674/aew-jim-ross-discharged-hospital/",
-      "t": "5h",
-      "dt": "2026-06-26T17:48:26+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Says Jack Perry Will Remain In AEW Amid Contract Rumors",
-      "p": "\"Jungle\" Jack Perry's contract status has been up in the air for the last couple of weeks even as continues to compete on TV.",
-      "link": "https://www.wrestlinginc.com/2202645/aew-tony-khan-jack-perry-remain-contract-rumors/",
-      "t": "5h",
-      "dt": "2026-06-26T17:27:46+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Scorpio Sky AEW contract update | Exclusive",
-      "p": "Scorpio Sky, one of the original members of the AEW roster when the promotion launched in 2019, has his contract coming up soon. In the new issue of the Wrestling Observer Newsletter, Dave Meltzer...",
-      "link": "https://www.f4wonline.com/news/aew/scorpio-sky-aew-contract-update-exclusive/",
-      "t": "5h",
-      "dt": "2026-06-26T17:23:09+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Mark Briscoe Initially Thought He'd Never Wrestle Again After His Brother Died",
-      "p": "AEW star Mark Briscoe doubted whether he would ever wrestle again following the tragic death of his brother in an automobile collision.",
-      "link": "https://www.wrestlinginc.com/2202610/aew-mark-briscoe-never-wrestle-again-brother-jay-died/",
-      "t": "6h",
-      "dt": "2026-06-26T17:01:20+00:00"
     }
   ]
 }

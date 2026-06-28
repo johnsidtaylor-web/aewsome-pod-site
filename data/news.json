@@ -1,22 +1,54 @@
 {
-  "updated": "2026-06-28T15:40:35.266244+00:00",
+  "updated": "2026-06-28T17:34:26.600772+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
+      "h": "Mark Briscoe: Promising Title Shots Is A Boneheaded Move On MJF’s Part, He Doesn’t Know When To Keep His Mouth Shut",
+      "p": "Mark Briscoe is fired up for Forbidden Door. The pay-per-view will be headlined by a 12-man tag team match… inside of a steel cage. Mark Briscoe, Orange Cassidy, Roderick Strong, Kyle O’Reilly,...",
+      "link": "https://www.fightful.com/wrestling-news/mark-briscoe-mjf-312980/",
+      "t": "34m",
+      "dt": "2026-06-28T17:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Claudio Castagnoli Explains Why The Death Riders Aren't Recruiting",
+      "p": "AEW's Death Riders aren't scouting for new talent, according to Claudio Castagnoli, but the door remains open for others to join the faction.",
+      "link": "https://www.wrestlinginc.com/2201521/aew-claudio-castagnoli-death-riders-arent-recruiting/",
+      "t": "34m",
+      "dt": "2026-06-28T17:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Darby Allin Gets Married",
+      "p": "Darby Allin is a married man. Darby Allin was married to his now-wife Sara over the weekend, just days before AEW x NJPW Forbidden Door. Brody King, Alicia Atout, Swerve Strickland, Bam Margera,...",
+      "link": "https://www.fightful.com/wrestling-news/darby-allin-gets-married/",
+      "t": "1h",
+      "dt": "2026-06-28T16:20:14+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "In 2026, the Forbidden Door concept just isn’t so forbidden anymore | Opinion",
+      "p": "There once was a time in wrestling when crossovers just didn’t happen. I know…wild. In the big promotions, wrestlers wrestled where they were contracted and that was that, save for a few rare...",
+      "link": "https://www.f4wonline.com/news/aew/aew-njpw-forbidden-door-concept-not-forbidden-anymore-opinion/",
+      "t": "1h",
+      "dt": "2026-06-28T16:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Mick Foley: I Don’t Believe I Have Ever Met Someone As Driven To Be The Best As Mercedes Mone",
       "p": "Mick Foley doesn’t believe he has ever met someone as driven to be the best as Mercedes Mone throughout his time in the wrestling industry. Mone is once again in the finals of the Owen Hart Cup...",
       "link": "https://www.fightful.com/wrestling-news/mick-foley-i-dont-believe-i-have-ever-met-someone-as-driven-to-be-the-best-as-mercedes-mone/",
-      "t": "10m",
+      "t": "2h",
       "dt": "2026-06-28T15:30:00+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW x NJPW Forbidden Door updated betting odds released",
       "p": "Updated betting odds are available for AEW x NJPW Forbidden Door. Today’s pay-per-view is set for SAP Center in San Jose, California. The betting odds below are courtesy of BetOnline. Jon Moxley...",
       "link": "https://www.f4wonline.com/news/aew/aew-x-njpw-forbidden-door-updated-betting-odds-released/",
-      "t": "17m",
+      "t": "2h",
       "dt": "2026-06-28T15:22:44+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Swerve Strickland Says Will Ospreay’s Potential AEW All In Story Sounds Like ‘Scorsese Himself Has Written It’",
       "p": "Swerve Strickland previews his upcoming match with Will Ospreay at AEW x NJPW Forbidden Door later tonight. At the event later tonight, the Owen Hart Cup will host it’s final matches in both the...",
       "link": "https://www.fightful.com/wrestling-news/swerve-strickland-says-will-ospreays-potential-aew-all-in-story-sounds-like-scorsese-himself-has-written-it/",
-      "t": "30m",
+      "t": "2h",
       "dt": "2026-06-28T15:10:12+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Maya World Reacts To Praise From Tony Khan, Says It Let’s Her Know That She’s Doing Everything Right",
       "p": "Maya World discusses the comments from the AEW President. One of the matches on the bill for AEW x NJPW Forbidden Door 2026 is the finals of the Women’s Owen Hart Cup tournament. It’ll see Maya...",
       "link": "https://www.fightful.com/wrestling-news/maya-world-reacts-to-praise-from-tony-khan-says-it-lets-her-know-that-shes-doing-everything-right/",
-      "t": "40m",
+      "t": "2h",
       "dt": "2026-06-28T15:00:11+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "AEW x NJPW Forbidden Door preview & predictions: A Ring of Endless Light",
       "p": "There is a version of this conversation, and a full column really, that is purely in memoriam — mourning for what Forbidden Door used to be, for the electric novelty of that first time, for the...",
       "link": "https://www.f4wonline.com/news/aew/aew-x-njpw-forbidden-door-2026-preview-predictions/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-28T13:44:54+00:00"
     },
     {
@@ -56,15 +88,15 @@
       "h": "Murphy’s Blog: AEW Forbidden Door predictions – Who will win the Owen Hart Cup tournaments to earn world championship matches at All In?",
       "p": "By Don Murphy, ProWrestling.net Contributor... The post Murphy’s Blog: AEW Forbidden Door predictions – Who will win the Owen Hart Cup tournaments to earn world championship matches at All In?...",
       "link": "https://prowrestling.net/site/2026/06/28/murphys-blog-aew-forbidden-door-predictions-who-will-win-the-owen-hart-cup-tournaments-to-earn-world-championship-matches-at-all-in/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-28T13:00:02+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW x NJPW Forbidden Door ticket sales update ahead of today’s show in San Jose",
-      "p": "An update is available regarding how many tickets have been distributed to today’s AEW x NJPW Forbidden Door pay-per-view. The show is set for SAP Center in San Jose, California. According to a...",
+      "p": "Update: WrestleTix provided an update at 12 p.m. Eastern, noting that the event now has 8,538 tickets distributed, up 35 tickets from this morning. Original: An update is available regarding how...",
       "link": "https://www.f4wonline.com/news/aew/aew-x-njpw-forbidden-door-ticket-sales-update-ahead-of-todays-show-in-san-jose/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-28T12:50:54+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "AEW Forbidden Door lineup (live coverage tonight): The card for tonight’s pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door lineup (live coverage tonight): The card for tonight’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/28/aew-forbidden-door-lineup-live-coverage-tonight-the-card-for-tonights-pay-per-view-event-2/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-06-28T11:20:29+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: WWE Night of Champions review, CM Punk, G1, Forbidden Door preview",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about as we break down the WWE Night of Champions PPV and discuss possible SummerSlam matches, CM Punk, the...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-night-of-champions-cm-punk-g-1-forbidden-door/",
-      "t": "7h",
-      "dt": "2026-06-28T07:54:13+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay addresses infamous post-marriage Alex Windsor promo on AEW Dynamite",
-      "p": "Will Ospreay found himself in hot water on social media following his post-marriage Alex Windsor promo on AEW Dynamite. On the June 17 edition of AEW Dynamite, Ospreay spoke with Tony Schiavone,...",
-      "link": "https://www.f4wonline.com/news/aew/will-ospreay-addresses-infamous-post-marriage-alex-windsor-promo-on-aew-dynamite/",
-      "t": "9h",
-      "dt": "2026-06-28T06:30:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION RESULTS (6/27): Mercedes & Athena vs. Hyan & Maya World, Conglomeration defend trios titles, Kevin Knight vs. Dezmond Xavier for the TNT title, Persephone vs. Billie Starkz, and more",
-      "p": "AEW COLLISION REPORT JUNE 27, 2026 (recorded 6/24) RIO RANCHO, N.M. AT RIO RANCHO EVENTS CENTER AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Excalibur &...",
-      "link": "https://www.pwtorch.com/site/2026/06/27/aew-collision-results-6-27-mercedes-athena-vs-hyan-maya-world-conglomeration-defend-trios-titles-kevin-knight-vs-dezmond-xavier-for-the-tnt-title-persephone-vs-billie-starkz-and/",
-      "t": "11h",
-      "dt": "2026-06-28T03:44:04+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "06/27 Powell’s AEW Collision audio review: Mercedes Mone and Athena vs. Maya World and Hyan, Kevin Knight vs. Dezmond Xavier for the TNT Title, The Conglomeration vs. The Opps for the AEW Trios Titles",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 06/27 Powell’s AEW Collision audio review: Mercedes Mone and Athena vs. Maya World and Hyan, Kevin Knight vs. Dezmond Xavier for the TNT Title,...",
-      "link": "https://prowrestling.net/site/2026/06/27/06-27-powells-aew-collision-audio-review-mercedes-mone-and-athena-vs-maya-world-and-hyan-kevin-knight-vs-dezmond-xavier-for-the-tnt-title-the-conglomeration-vs-the-opps-for-the-aew-trios-title/",
-      "t": "12h",
-      "dt": "2026-06-28T03:35:26+00:00"
     }
   ]
 }

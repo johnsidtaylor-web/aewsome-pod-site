@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-27T23:17:55.738951+00:00",
+  "updated": "2026-06-28T04:47:42.777365+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "AEW COLLISION RESULTS (6/27): Mercedes & Athena vs. Hyan & Maya World, Conglomeration defend trios titles, Kevin Knight vs. Dezmond Xavier for the TNT title, Persephone vs. Billie Starkz, and more",
+      "p": "AEW COLLISION REPORT JUNE 27, 2026 (recorded 6/24) RIO RANCHO, N.M. AT RIO RANCHO EVENTS CENTER AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Excalibur &...",
+      "link": "https://www.pwtorch.com/site/2026/06/27/aew-collision-results-6-27-mercedes-athena-vs-hyan-maya-world-conglomeration-defend-trios-titles-kevin-knight-vs-dezmond-xavier-for-the-tnt-title-persephone-vs-billie-starkz-and/",
+      "t": "1h",
+      "dt": "2026-06-28T03:44:04+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "06/27 Powell’s AEW Collision audio review: Mercedes Mone and Athena vs. Maya World and Hyan, Kevin Knight vs. Dezmond Xavier for the TNT Title, The Conglomeration vs. The Opps for the AEW Trios Titles",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 06/27 Powell’s AEW Collision audio review: Mercedes Mone and Athena vs. Maya World and Hyan, Kevin Knight vs. Dezmond Xavier for the TNT Title,...",
+      "link": "https://prowrestling.net/site/2026/06/27/06-27-powells-aew-collision-audio-review-mercedes-mone-and-athena-vs-maya-world-and-hyan-kevin-knight-vs-dezmond-xavier-for-the-tnt-title-the-conglomeration-vs-the-opps-for-the-aew-trios-title/",
+      "t": "1h",
+      "dt": "2026-06-28T03:35:26+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 6/27 – WKPWP Tony Khan Media Q&A and Interview Classic with Justin Credible on Punk’s UFC 203 fight, Roman’s suspension, the Draft, Orton, more (134 min.)",
+      "p": "SHOW SUMMARY: In this week’s Interview Classic podcasts, we jump back to ten years ago this week (6-23-2016) when PWTorch editor Wade Keller talked live with former WWE/ECW star “Justin Credible”...",
+      "link": "https://www.pwtorch.com/site/2026/06/27/free-podcast-6-27-wkpwp-tony-khan-media-qa-and-interview-classic-with-justin-credible-on-punks-ufc-203-fight-romans-suspension-the-draft-orton-more-134-min/",
+      "t": "1h",
+      "dt": "2026-06-28T03:00:05+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 27/6/26 Results: Moné builds momentum ahead of Forbidden Door, Multiple titles defended",
+      "p": "Mercedes Moné and Athena defeated Maya World and Hyan on the final stop before AEW Forbidden Door. The post AEW Collision 27/6/26 Results: Moné builds momentum ahead of Forbidden Door, Multiple...",
+      "link": "https://www.postwrestling.com/2026/06/27/aew-collision-27-6-26-results-mone-builds-momentum-ahead-of-forbidden-door-multiple-titles-defended/",
+      "t": "1h",
+      "dt": "2026-06-28T02:53:56+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay reveals his two favorite AEW moments",
+      "p": "A part of the AEW roster since 2022, Will Ospreay saw himself become a full-time member of the roster in 2023 when he signed a multi-year deal with the promotion. Now, a few years later, he has...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-reveals-his-two-favorite-aew-moments/",
+      "t": "2h",
+      "dt": "2026-06-28T02:34:44+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 6/27/26 Review | COLLISION COURSE",
+      "p": "Kate from Montreal & Jey Lacey review the final AEW Collision before Forbidden Door. Featuring Mercedes Moné & Athena vs. Hyan & Maya World. The post AEW Collision 6/27/26 Review | COLLISION...",
+      "link": "https://www.postwrestling.com/2026/06/27/aew-collision-6-27-26-review-collision-course-live-1015pm-et/",
+      "t": "2h",
+      "dt": "2026-06-28T02:15:46+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Willow Nightingale training vignette airs during AEW Collision",
+      "p": "Willow Nightingale is preparing for her return. A short vignette aired during AEW Collision showing Nightingale working out and doing drills in the ring. She said at one point, she let her dream...",
+      "link": "https://www.f4wonline.com/news/aew/willow-nightingale-training-vignette-airs-during-aew-collision/",
+      "t": "2h",
+      "dt": "2026-06-28T02:01:27+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "EXCLUSIVE: Maya World details process of finding out she was going to be in the Owen Hart Foundation Tournament",
+      "p": "AEW wrestler Maya World’s brother, Jatwane, was killed in a traffic accident earlier this month. With the AEW TV tapings and ROH TV tapings set to take place a short time after the tragic death [...]",
+      "link": "https://www.pwtorch.com/site/2026/06/27/exclusive-maya-world-details-process-of-finding-out-she-was-going-to-be-in-the-owen-hart-foundation-tournament/",
+      "t": "4h",
+      "dt": "2026-06-28T00:14:18+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision results (6/27): Powell’s live review of Kevin Knight vs. Dezmond Xavier for the TNT Title, Mercedes Mone and Athena vs. Maya World and Hyan, Forbidden Door go-home show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision results (6/27): Powell’s live review of Kevin Knight vs. Dezmond Xavier for the TNT Title, Mercedes Mone and Athena vs. Maya...",
+      "link": "https://prowrestling.net/site/2026/06/27/aew-collision-results-6-27-powells-live-review-of-kevin-knight-vs-dezmond-xavier-for-the-tnt-title-mercedes-mone-and-athena-vs-maya-world-and-hyan-forbidden-door-go-home-show/",
+      "t": "5h",
+      "dt": "2026-06-27T23:30:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision live results: Forbidden Door go-home show",
+      "p": "The final stop before Sunday’s Forbidden Door has arrived with tonight’s AEW Collision from Rio Rancho, New Mexico. The main event is a preview of the women’s Owen Hart Foundation tournament...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-forbidden-door-go-home-show-3/",
+      "t": "5h",
+      "dt": "2026-06-27T23:30:00+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW Collision 6/27 Results - Three Titles On The Line, Mone & Athena Vs. Hyan & World",
       "p": "This is Wrestling Inc.'s live coverage of \"AEW Collision,\" the last show before AEW x NJPW Forbidden Door emanating from Rio Rancho, New Mexico.",
       "link": "https://www.wrestlinginc.com/2203255/aew-collision-june-27-results/",
-      "t": "17m",
+      "t": "5h",
       "dt": "2026-06-27T23:00:39+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Watch: WWE Night of Champions Post-Show: June 27, 2026",
-      "p": "Superstars reacts to all of the fallout from WWE Night of Champions! The post Watch: WWE Night of Champions Post-Show: June 27, 2026 appeared first on Fightful | WWE News, AEW News, Pro Wrestling...",
-      "link": "https://www.fightful.com/wrestling-news/watch-wwe-night-of-champions-post-show-june-27-2026/",
-      "t": "3h",
-      "dt": "2026-06-27T20:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Forbidden Door 2026 live stream: how to watch",
       "p": "AEW Forbidden Door 2026 is set to take place this weekend (on Sunday, June 28th) from the SAP Center in San Jose, California. Several big matches have been confirmed for the card, including Swerve...",
       "link": "https://www.f4wonline.com/event-guides/aew-forbidden-door-2026-live-stream-how-to-watch/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-06-27T19:36:38+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's MJF Recalls Meeting Cody Rhodes At Indie Show Booked By Ethan Page",
-      "p": "According to AEW's MJF, the first time he met Cody Rhodes, the WWE star was spreading a mischievous rumor.",
-      "link": "https://www.wrestlinginc.com/2199857/aew-mjf-cody-rhodes-ethan-page-meeting-indie-show/",
-      "t": "3h",
-      "dt": "2026-06-27T19:30:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/27 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner preview AEW Forbidden Door (100 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review the final hype towards Sunday’s Forbidden Door PPV in San Jose, CA....",
-      "link": "https://www.pwtorch.com/site/2026/06/27/free-podcast-6-27-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-preview-aew-forbidden-door-100-min/",
-      "t": "5h",
-      "dt": "2026-06-27T18:00:01+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Forbidden Door 2026 Main Card Start Times: US, UK, Australia and more",
-      "p": "AEW Forbidden Door 2026 is set to take place this weekend (on Sunday, June 28th) from the SAP Center in San Jose, California. Several big matches have been confirmed for the card, including Swerve...",
-      "link": "https://www.f4wonline.com/event-guides/aew-forbidden-door-2026-main-card-start-times-us-uk-australia/",
-      "t": "6h",
-      "dt": "2026-06-27T17:11:46+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "MJF Says AEW Locker Room Is In Harmony But Sometimes 'S**t Gets Competitive'",
-      "p": "AEW Men's World Champion MJF says that the AEW locker room is currently in harmony, though he admits that sometimes \"s**t gets competitive\" with fellow stars",
-      "link": "https://www.wrestlinginc.com/2199431/aew-mjf-locker-room-harmony-competitive/",
-      "t": "6h",
-      "dt": "2026-06-27T17:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Tonight’s Forbidden Door go-home show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Tonight’s Forbidden Door go-home show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/27/aew-collision-lineup-tonights-forbidden-door-go-home-show/",
-      "t": "12h",
-      "dt": "2026-06-27T11:00:08+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH Tag Team titles change hands at CMLL Viernes Espectacular",
-      "p": "New ROH Tag Team Champions have been crowned. Sammy Guevara and The Beast Mortos lost the titles in the main event of CMLL’s Friday night event in Mexico City to Mistico & Mascara Dorada. The...",
-      "link": "https://www.f4wonline.com/news/mexico/roh-tag-team-titles-change-hands-at-cmll-viernes-espectacular/",
-      "t": "16h",
-      "dt": "2026-06-27T06:31:40+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating: How did the final episode before Forbidden Door perform?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the final episode before Forbidden Door perform? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/27/aew-dynamite-rating-how-did-the-final-episode-before-forbidden-door-perform/",
-      "t": "17h",
-      "dt": "2026-06-27T06:06:23+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ratings down against World Cup coverage",
-      "p": "Wednesday night’s episode of AEW Dynamite averaged 616,000 viewers on TBS, down 7.4% from the previous week. It’s the second lowest audience for the show since May 20th. Dynamite averaged a 0.10...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-down-against-world-cup-coverage/",
-      "t": "21h",
-      "dt": "2026-06-27T01:35:18+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "GCW’s Brett Lauderdale confirms discussions with AEW",
-      "p": "Game Changer Wrestling has been putting up shows on Triller TV since 2018. But with Triller suffering financial and operational woes, however, might they be looking for a new online home? A report...",
-      "link": "https://www.f4wonline.com/news/indies/gcws-brett-lauderdale-confirms-discussions-with-aew/",
-      "t": "22h",
-      "dt": "2026-06-27T00:58:09+00:00"
     }
   ]
 }

@@ -1,22 +1,62 @@
 {
-  "updated": "2026-06-28T17:34:26.600772+00:00",
+  "updated": "2026-06-28T19:44:03.505055+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW's Thekla Shares Thoughts On WWE Star & Fellow Austrian GUNTHER",
+      "p": "Thekla offers her opinion being recognized as one of the top Austrian stars in professional wrestling next to GUNTHER.",
+      "link": "https://www.wrestlinginc.com/2201783/aew-wwe-thekla-gunther-thoughts-fellow-austrian/",
+      "t": "14m",
+      "dt": "2026-06-28T19:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay: I’ve Got Another 5 Years Of My Natural Athleticism Before I Have To Tone It Down In The Ring",
+      "p": "Will Ospreay says he’s got 5 years of his natural athleticism left before he’ll have to tone down his style of wrestling. At AEW Revolution earlier this year, Will Ospreay made his return after...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-ive-got-another-5-years-of-my-natural-athleticism-before-i-have-to-tone-it-down-in-the-ring/",
+      "t": "27m",
+      "dt": "2026-06-28T19:16:51+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW’s Darby Allin gets married ahead one day ahead of Forbidden Door steel cage match",
+      "p": "Former AEW World Champion Darby Allin got married this weekend, one day before competing in a steel cage match at AEW x NJPW Forbidden Door. The post AEW’s Darby Allin gets married ahead one day...",
+      "link": "https://www.postwrestling.com/2026/06/28/aews-darby-allin-gets-married-ahead-one-day-ahead-of-forbidden-door-steel-cage-match/",
+      "t": "1h",
+      "dt": "2026-06-28T18:42:49+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "Maya World says “I’d be really excited” if she had been told six months ago she would be facing Mercedes Mone at the AEW Forbidden Door PPV",
+      "p": "Maya World said she would have been really excited if you had told her six months ago she would be facing her idol, Mercedes Mone, in the finals of the Owen Hart Foundation Cup Tournament [...]",
+      "link": "https://www.pwtorch.com/site/2026/06/28/maya-world-says-id-be-really-excited-if-she-had-been-told-six-months-ago-she-would-be-facing-mercedes-mone-at-the-aew-forbidden-door-ppv/",
+      "t": "1h",
+      "dt": "2026-06-28T18:23:07+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 6/28 – PWTorch Dailycast – Best of PWTorch Livecast: 5 Yrs Ago – WNIA with Parks & Heydorn talk 10th Anniversary of CM Punk Pipe Bomb promo, Omega vs. Jungle Boy, plus Mike McMahon talks AEW (188 min.)",
+      "p": "SHOW SUMMARY: First, in the Wrestling Night in America portion, PWTorch columnist Greg Parks was joined by PWTorch assistant editor Zack Heydorn for a wide-ranging discussion with callers and...",
+      "link": "https://www.pwtorch.com/site/2026/06/28/free-podcast-6-28-pwtorch-dailycast-best-of-pwtorch-livecast-5-yrs-ago-wnia-with-parks-heydorn-talk-10th-anniversary-of-cm-punk-pipe-bomb-promo-omega-vs-jungle-boy-plus-mik/",
+      "t": "1h",
+      "dt": "2026-06-28T17:49:06+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Mark Briscoe: Promising Title Shots Is A Boneheaded Move On MJF’s Part, He Doesn’t Know When To Keep His Mouth Shut",
       "p": "Mark Briscoe is fired up for Forbidden Door. The pay-per-view will be headlined by a 12-man tag team match… inside of a steel cage. Mark Briscoe, Orange Cassidy, Roderick Strong, Kyle O’Reilly,...",
       "link": "https://www.fightful.com/wrestling-news/mark-briscoe-mjf-312980/",
-      "t": "34m",
+      "t": "2h",
       "dt": "2026-06-28T17:00:00+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "AEW's Claudio Castagnoli Explains Why The Death Riders Aren't Recruiting",
       "p": "AEW's Death Riders aren't scouting for new talent, according to Claudio Castagnoli, but the door remains open for others to join the faction.",
       "link": "https://www.wrestlinginc.com/2201521/aew-claudio-castagnoli-death-riders-arent-recruiting/",
-      "t": "34m",
+      "t": "2h",
       "dt": "2026-06-28T17:00:00+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Darby Allin Gets Married",
       "p": "Darby Allin is a married man. Darby Allin was married to his now-wife Sara over the weekend, just days before AEW x NJPW Forbidden Door. Brody King, Alicia Atout, Swerve Strickland, Bam Margera,...",
       "link": "https://www.fightful.com/wrestling-news/darby-allin-gets-married/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-28T16:20:14+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "In 2026, the Forbidden Door concept just isn’t so forbidden anymore | Opinion",
       "p": "There once was a time in wrestling when crossovers just didn’t happen. I know…wild. In the big promotions, wrestlers wrestled where they were contracted and that was that, save for a few rare...",
       "link": "https://www.f4wonline.com/news/aew/aew-njpw-forbidden-door-concept-not-forbidden-anymore-opinion/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-28T16:00:00+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Mick Foley: I Don’t Believe I Have Ever Met Someone As Driven To Be The Best As Mercedes Mone",
       "p": "Mick Foley doesn’t believe he has ever met someone as driven to be the best as Mercedes Mone throughout his time in the wrestling industry. Mone is once again in the finals of the Owen Hart Cup...",
       "link": "https://www.fightful.com/wrestling-news/mick-foley-i-dont-believe-i-have-ever-met-someone-as-driven-to-be-the-best-as-mercedes-mone/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-28T15:30:00+00:00"
     },
     {
@@ -56,56 +96,16 @@
       "h": "AEW x NJPW Forbidden Door updated betting odds released",
       "p": "Updated betting odds are available for AEW x NJPW Forbidden Door. Today’s pay-per-view is set for SAP Center in San Jose, California. The betting odds below are courtesy of BetOnline. Jon Moxley...",
       "link": "https://www.f4wonline.com/news/aew/aew-x-njpw-forbidden-door-updated-betting-odds-released/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-28T15:22:44+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Swerve Strickland Says Will Ospreay’s Potential AEW All In Story Sounds Like ‘Scorsese Himself Has Written It’",
-      "p": "Swerve Strickland previews his upcoming match with Will Ospreay at AEW x NJPW Forbidden Door later tonight. At the event later tonight, the Owen Hart Cup will host it’s final matches in both the...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-says-will-ospreays-potential-aew-all-in-story-sounds-like-scorsese-himself-has-written-it/",
-      "t": "2h",
-      "dt": "2026-06-28T15:10:12+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Maya World Reacts To Praise From Tony Khan, Says It Let’s Her Know That She’s Doing Everything Right",
-      "p": "Maya World discusses the comments from the AEW President. One of the matches on the bill for AEW x NJPW Forbidden Door 2026 is the finals of the Women’s Owen Hart Cup tournament. It’ll see Maya...",
-      "link": "https://www.fightful.com/wrestling-news/maya-world-reacts-to-praise-from-tony-khan-says-it-lets-her-know-that-shes-doing-everything-right/",
-      "t": "2h",
-      "dt": "2026-06-28T15:00:11+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW x NJPW Forbidden Door preview & predictions: A Ring of Endless Light",
       "p": "There is a version of this conversation, and a full column really, that is purely in memoriam — mourning for what Forbidden Door used to be, for the electric novelty of that first time, for the...",
       "link": "https://www.f4wonline.com/news/aew/aew-x-njpw-forbidden-door-2026-preview-predictions/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-28T13:44:54+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Murphy’s Blog: AEW Forbidden Door predictions – Who will win the Owen Hart Cup tournaments to earn world championship matches at All In?",
-      "p": "By Don Murphy, ProWrestling.net Contributor... The post Murphy’s Blog: AEW Forbidden Door predictions – Who will win the Owen Hart Cup tournaments to earn world championship matches at All In?...",
-      "link": "https://prowrestling.net/site/2026/06/28/murphys-blog-aew-forbidden-door-predictions-who-will-win-the-owen-hart-cup-tournaments-to-earn-world-championship-matches-at-all-in/",
-      "t": "4h",
-      "dt": "2026-06-28T13:00:02+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW x NJPW Forbidden Door ticket sales update ahead of today’s show in San Jose",
-      "p": "Update: WrestleTix provided an update at 12 p.m. Eastern, noting that the event now has 8,538 tickets distributed, up 35 tickets from this morning. Original: An update is available regarding how...",
-      "link": "https://www.f4wonline.com/news/aew/aew-x-njpw-forbidden-door-ticket-sales-update-ahead-of-todays-show-in-san-jose/",
-      "t": "4h",
-      "dt": "2026-06-28T12:50:54+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Forbidden Door lineup (live coverage tonight): The card for tonight’s pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door lineup (live coverage tonight): The card for tonight’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/28/aew-forbidden-door-lineup-live-coverage-tonight-the-card-for-tonights-pay-per-view-event-2/",
-      "t": "6h",
-      "dt": "2026-06-28T11:20:29+00:00"
     }
   ]
 }

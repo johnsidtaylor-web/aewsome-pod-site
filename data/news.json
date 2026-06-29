@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-29T17:47:35.594868+00:00",
+  "updated": "2026-06-29T20:14:29.527258+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Deonna Purrazzo shares encouraging update after ROH injury",
+      "p": "One week after suffering an injury at a Ring of Honor television taping, Deonna Purrazzo shared an encouraging update with fans on social media. The ROH Women’s Pure Champion was injured while...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/deonna-purrazzo-shares-encouraging-update-after-roh-injury/",
+      "t": "8m",
+      "dt": "2026-06-29T20:05:44+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Offers Update On Switchblade Jay White Following AEW Return",
+      "p": "AEW President Tony Khan provides encouraging news on Jay White's in-ring status after surprise Forbidden Door return.",
+      "link": "https://www.wrestlinginc.com/2204400/aew-tony-khan-switchblade-jay-white-update-return/",
+      "t": "18m",
+      "dt": "2026-06-29T19:56:27+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Expects This Match To Become A 'Staple' Of AEW X NJPW Forbidden Door",
+      "p": "Dave Meltzer believes AEW's new stipulation will become a yearly tradition at Forbidden Door.",
+      "link": "https://www.wrestlinginc.com/2204348/aew-x-njpw-forbidden-door-2026-dave-meltzer-deaths-door-cage-match-staple/",
+      "t": "56m",
+      "dt": "2026-06-29T19:17:42+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Pruett’s Pause: 10 Thoughts on AEW Forbidden Door – Will Ospreay earns his Wembley Stadium main event, Mercedes Moné and Maya World impress, Circle Cage, and more in-preson thoughts",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Forbidden Door – Will Ospreay earns his Wembley Stadium main event, Mercedes Moné and Maya World impress,...",
+      "link": "https://prowrestling.net/site/2026/06/29/pruetts-pause-10-thoughts-on-aew-forbidden-door-will-ospreay-earns-his-wembley-stadium-main-event-mercedes-mone-and-maya-world-impress-circle-cage-and-more-in-preson-thoughts/",
+      "t": "1h",
+      "dt": "2026-06-29T18:49:31+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Mercedes Mone posts teaser for AEW match against WWE’s Bayley",
+      "p": "On social media today, Mercedes Mone posted an interesting teaser for a match that, at least as it stands right now, is not contractually possible. Mone — who won the Owen Hart Foundation women’s...",
+      "link": "https://www.f4wonline.com/news/aew/mercedes-mone-teaser-aew-match-wwes-bayley/",
+      "t": "1h",
+      "dt": "2026-06-29T18:19:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 6/29 – PWTorch Dailycast – Wrestling Night in America – AEW Forbidden Door post-show: Zilem & JB discuss Will Ospreay and Mercedes Moné winning Owen Hart Cup tournaments, Kenny Omega vs. Zack Sabre Jr., more (130 min.)",
+      "p": "SHOW SUMMARY: Brian Zilem and Jerud Buhagiar (JB) break down a wild AEW Forbidden Door PPV. Will Ospreay and Mercedes Moné captured the Owen Hart Cup tournaments to earn World Championship matches...",
+      "link": "https://www.pwtorch.com/site/2026/06/29/free-podcast-6-29-pwtorch-dailycast-wrestling-night-in-america-aew-forbidden-door-post-show-zilem-jb-discuss-will-ospreay-and-mercedes-mone-winning-owen-hart-cup-tournaments-kenny-omega-vs/",
+      "t": "2h",
+      "dt": "2026-06-29T18:05:46+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "AEW COLLISION HITS & MISSES (6/27/26): AEW doubles down on Maya World, Kevin Knight keeps the TNT Championship thriving, Thekla continues to stand out",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS AEW IS FULLY...",
       "link": "https://www.pwtorch.com/site/2026/06/29/aew-collision-hits-misses-6-27-26-aew-doubles-down-on-maya-world-kevin-knight-keeps-the-tnt-championship-thriving-thekla-continues-to-stand-out/",
-      "t": "24m",
+      "t": "2h",
       "dt": "2026-06-29T17:23:18+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Speedball Mike Bailey: I Don’t Hate Kevin Knight, There’s A Part Of Me That Understands Why He’s Doing What He’s Doing",
       "p": "Speedball Mike Bailey comments on the status of their feelings regarding his former tag team partner Kevin Knight. Following AEW Double Or Nothing, JetSpeed would split as a team thanks to Kevin...",
       "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-i-dont-hate-kevin-knight-theres-a-part-of-me-that-understands-why-hes-doing-what-hes-doing/",
-      "t": "25m",
+      "t": "2h",
       "dt": "2026-06-29T17:21:36+00:00"
     },
     {
@@ -32,23 +80,15 @@
       "h": "Backstage Update On Scorpio Sky's AEW Contract Status",
       "p": "Scorpio Sky is an AEW Original who recently returned to TV on \"Collision\" in a backstage segment with SKYFLIGHT and Matt Sydal.",
       "link": "https://www.wrestlinginc.com/2204114/aew-scorpio-sky-backstage-update-contract/",
-      "t": "50m",
+      "t": "3h",
       "dt": "2026-06-29T16:57:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Starlight Kid Says AEW Forbidden Door Was ‘The Beginning Of The Story’ With Thekla",
-      "p": "Starlight Kid says that AEW x NJPW Forbidden Door was just ‘The Beginning Of The Story’ with AEW Women’s World Champion Thekla. At the crossover pay-per-view, the STARDOM roster member would face...",
-      "link": "https://www.fightful.com/wrestling-news/starlight-kid-says-aew-forbidden-door-was-the-beginning-of-the-story-with-thekla/",
-      "t": "56m",
-      "dt": "2026-06-29T16:51:24+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Mark Briscoe to challenge MJF for AEW World Championship on 7/1 Dynamite",
       "p": "Mark Briscoe will cash in his title opportunity against AEW World Champion MJF on this Wednesday's Dynamite. The post Mark Briscoe to challenge MJF for AEW World Championship on 7/1 Dynamite...",
       "link": "https://www.postwrestling.com/2026/06/29/mark-briscoe-to-challenge-mjf-for-aew-world-championship-on-7-1-dynamite/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-29T16:45:34+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "WWE announces doubleheader of events to going head-to-head with AEW All In: London",
       "p": "Programming from AAA and NXT will run at the same time as AEW's All In: London card from Wembley Stadium. The post WWE announces doubleheader of events to going head-to-head with AEW All In:...",
       "link": "https://www.postwrestling.com/2026/06/29/wwe-announces-doubleheader-of-events-to-going-head-to-head-with-aew-all-in-london/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-29T16:34:08+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Mick Foley further addresses possibility of having AEW match",
       "p": "Though he’s open to the possibility, it doesn’t sound like a return to the ring is particularly imminent for Mick Foley. Foley, after signing with AEW, left the door open for one more match while...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-aew-one-more-match-possibility/",
-      "t": "1h",
-      "dt": "2026-06-29T15:51:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Full AEW Roster",
-      "p": "Fightful has the most up-to-date All Elite Wrestling roster! Men’s, Women’s, Tag-Teams, Backstage Roles, and more! Below are announced and confirmed signings, people working with the AEW brand...",
-      "link": "https://www.fightful.com/wrestling-news/updated-all-elite-roster/",
-      "t": "2h",
-      "dt": "2026-06-29T15:46:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "WWE, AEW, TNA, NJPW Wrestler Injury Report List: Expected Returns, Inactives | Fightful",
-      "p": "Fightful.com will keep a running injury report and inactive list and update each accordingly. You can also see our updated contract expiration list at this link. WWE RAW Bronson Reed: Reed...",
-      "link": "https://www.fightful.com/wrestling-news/wwe-impact-njpw-roh-injury-report-expected-returns-more/",
-      "t": "2h",
-      "dt": "2026-06-29T15:44:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kenny Omega Explains Motivation For Pursuing Second AEW World Title Reign",
-      "p": "Kenny Omega challenged for the AEW Men's World Championship at Revolution and came up short, but that doesn't mean he's done with the title scene.",
-      "link": "https://www.wrestlinginc.com/2203899/aew-kenny-omega-motivation-pursuing-second-world-title-reign/",
-      "t": "2h",
-      "dt": "2026-06-29T15:25:38+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan Says He'd Be Interested In Buying TNA For 'The Right Price'",
-      "p": "AEW owner Tony Khan has addressed reports that TNA could be up for sale, admitting he would be interested in buying it, but not at the rumored price.",
-      "link": "https://www.wrestlinginc.com/2203521/aew-tna-tony-khan-interested-buying-right-price/",
-      "t": "3h",
-      "dt": "2026-06-29T14:30:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: AEW World Championship match, and a new TBS Champion to be crowned on the Forbidden Door fallout show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship match, and a new TBS Champion to be crowned on the Forbidden Door fallout show appeared first on...",
-      "link": "https://prowrestling.net/site/2026/06/29/aew-dynamite-preview-aew-world-championship-match-and-a-new-tbs-champion-to-be-crowned-on-the-forbidden-door-fallout-show/",
       "t": "4h",
-      "dt": "2026-06-29T13:15:46+00:00"
+      "dt": "2026-06-29T15:51:00+00:00"
     }
   ]
 }

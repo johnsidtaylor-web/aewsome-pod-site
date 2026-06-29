@@ -1,111 +1,111 @@
 {
-  "updated": "2026-06-28T23:17:02.381252+00:00",
+  "updated": "2026-06-29T04:57:32.658668+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Will Ospreay Wins 2026 Owen Hart Foundation Men’s Tournament, Will Challenge For AEW Title At AEW All In",
+      "p": "Will Ospreay is headed to Wembley. Will Ospreay won the 2026 Owen Hart Foundation Men’s Tournament, defeating Swerve Strickland in the finals. The finish saw Ospreay hit the Death Rider, followed...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-wins-2026-owen-hart-foundation-mens-tournament-will-challenge-for-aew-title-at-aew-all-in/",
+      "t": "2m",
+      "dt": "2026-06-29T04:55:10+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF Vs. Mark Briscoe AEW World Championship Match Set For 7/1 AEW Dynamite",
+      "p": "MJF vs. Mark Briscoe for the AEW World Championship has been added to the upcoming AEW Dynamite. At AEW x NJPW Forbidden Door, Team Briscoe defeated Team MJF with assistance from Andrade. As per...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-vs-mark-briscoe-aew-world-championship-match-set-for-7-1-aew-dynamite/",
+      "t": "9m",
+      "dt": "2026-06-29T04:47:37+00:00"
+    },
+    {
       "src": "ProWrestling.net",
-      "h": "AEW Forbidden Door results: Powell’s live review of Will Ospreay vs. Swerve Strickland, Mercedes Mone vs. Maya World in the Owen Hart Cup finals, 12-man cage match, Kenny Omega vs. Zack Sabre Jr.",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Forbidden Door results: Powell’s live review of Will Ospreay vs. Swerve Strickland, Mercedes Mone vs. Maya World in the Owen Hart Cup...",
-      "link": "https://prowrestling.net/site/2026/06/28/aew-forbidden-door-results-powells-live-review-of-will-ospreay-vs-swerve-strickland-mercedes-mone-vs-maya-world-in-the-owen-hart-cup-finals-12-man-cage-match-kenny-omega-vs-zack-sabre-jr/",
-      "t": "26m",
-      "dt": "2026-06-28T22:50:35+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Watch: AEW x NJPW Forbidden Door: The Buy In Pre Show 7pm ET / 4pm PT Sunday, June 26, 2026",
-      "p": "AEW x NJPW Forbidden Door: The Buy In Pre Show 7pm ET / 4pm PT Sunday, June 26, 2026 The post Watch: AEW x NJPW Forbidden Door: The Buy In Pre Show 7pm ET / 4pm PT Sunday, June 26, 2026 appeared...",
-      "link": "https://www.fightful.com/wrestling-news/watch-aew-x-njpw-forbidden-door-the-buy-in-pre-show-7pm-et-4pm-pt-sunday-june-26-2026/",
-      "t": "55m",
-      "dt": "2026-06-28T22:21:51+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Forbidden Door Results (6/28/2026): Team Briscoe vs. Team MJF, Mercedes Moné, Will Ospreay, Shingo Takagi, Místico, More",
-      "p": "Full results for the June 28, 2026, edition of AEW Forbidden Door on TBS live from the SAP Center in San Jose, California. On June 17, 2026, All Elite Wrestling hosted a new episode of Dynamite on...",
-      "link": "https://www.fightful.com/wrestling-news/aew-forbidden-door-results-6-28-2026-team-briscoe-vs-team-mjf-mercedes-mone-will-ospreay-shingo-takagi-mistico-more/",
-      "t": "1h",
-      "dt": "2026-06-28T22:15:00+00:00"
+      "h": "AEW Forbidden Door Polls: Vote for the best match and grade the overall show",
+      "p": "AEW Forbidden Door Poll: Vote... The post AEW Forbidden Door Polls: Vote for the best match and grade the overall show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/06/28/aew-forbidden-door-polls-vote-for-the-best-match-and-grade-the-overall-show-3/",
+      "t": "17m",
+      "dt": "2026-06-29T04:40:08+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW X NJPW Forbidden Door 2026 Results - Five Titles On The Line, Owen Hart Cup Finals",
-      "p": "Welcome to Wrestling Inc.'s live results coverage for AEW x NJPW Forbidden Door which comes to you from the SAP Center in San Jose, California on June 28, 2026!",
-      "link": "https://www.wrestlinginc.com/2203043/aew-x-njpw-forbidden-door-2026-results/",
-      "t": "1h",
-      "dt": "2026-06-28T22:00:00+00:00"
+      "h": "Mark Briscoe & Friends Overcome Team MJF In Steel Cage At AEW X NJPW Forbidden Door",
+      "p": "Mark Briscoe is next in line for a world title shot as his team defeated MJF and The Don Callis Family at AEW x NJPW Forbidden Door 2026.",
+      "link": "https://www.wrestlinginc.com/2203460/aew-x-njpw-forbidden-door-2026-mark-briscoe-mjf-friends-overcome-steel-cage/",
+      "t": "39m",
+      "dt": "2026-06-29T04:17:32+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Will Ospreay: Mark Davis Could Be An Amazing World Champion If Given The Tools And Necessary Story To Get There",
-      "p": "Will Ospreay says Mark Davis could be an amazing world champion in AEW. Earlier in June, Will Ospreay defeated Mark Davis to advance in the Owen Hart Cup. Davis is part of The Don Callis Family on...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-mark-davis-could-be-an-amazing-world-champion-if-given-the-tools-and-necessary-story-to-get-there/",
-      "t": "1h",
-      "dt": "2026-06-28T21:46:24+00:00"
+      "h": "Andrade Turns On MJF, Helps Team Briscoe Win Steel Cage Match At AEW x NJPW Forbidden Door 2026",
+      "p": "Team Briscoe wins their steel cage match. The penultimate match at AEW x NJPW Forbidden Door featured Team DCMJF (MJF, Kevin Knight, Kyle Fletcher, Jake Doyle, Kazuchika Okada, and Andrade El...",
+      "link": "https://www.fightful.com/wrestling-news/andrade-turns-on-mjf-helps-team-briscoe-win-steel-cage-match-at-aew-x-njpw-forbidden-door-2026/",
+      "t": "43m",
+      "dt": "2026-06-29T04:13:33+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW x NJPW Forbidden Door live results: Swerve vs. Ospreay, Mone vs. World",
-      "p": "AEW x NJPW Forbidden Door takes place today from SAP Center in San Jose. Eleven matches are scheduled between the main show and the Buy-In. There will be a 12-person steel cage match featuring MJF...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-x-njpw-forbidden-door-live-results-swerve-vs-ospreay-mone-vs-world/",
-      "t": "1h",
-      "dt": "2026-06-28T21:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW X NJPW Forbidden Door 2026 Full & Final Card",
-      "p": "San Jose, California has opened the door, but what can the fans on the west coast expect from AEW x NJPW Forbidden Door 2026?",
-      "link": "https://www.wrestlinginc.com/2203286/aew-x-njpw-forbidden-door-2026-full-final-card-matches/",
-      "t": "3h",
-      "dt": "2026-06-28T20:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Thekla Shares Thoughts On WWE Star & Fellow Austrian GUNTHER",
-      "p": "Thekla offers her opinion being recognized as one of the top Austrian stars in professional wrestling next to GUNTHER.",
-      "link": "https://www.wrestlinginc.com/2201783/aew-wwe-thekla-gunther-thoughts-fellow-austrian/",
-      "t": "3h",
-      "dt": "2026-06-28T19:30:00+00:00"
+      "h": "Death’s Door cage match result, big face turn at AEW x NJPW Forbidden Door",
+      "p": "AEW World Champion MJF has his next title challenger(s) following Sunday’s 12-man steel cage match at Sunday’s AEW x NJPW Forbidden Door. Team Briscoe won the violent and bloody match that was in...",
+      "link": "https://www.f4wonline.com/news/aew/12-man-deaths-door-cage-match-result-andrade-aew-forbidden-door/",
+      "t": "45m",
+      "dt": "2026-06-29T04:11:58+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "AEW’s Darby Allin gets married one day ahead of Forbidden Door steel cage match",
-      "p": "Former AEW World Champion Darby Allin got married this weekend, one day before competing in a steel cage match at AEW x NJPW Forbidden Door. The post AEW’s Darby Allin gets married one day ahead...",
-      "link": "https://www.postwrestling.com/2026/06/28/aews-darby-allin-gets-married-ahead-one-day-ahead-of-forbidden-door-steel-cage-match/",
-      "t": "4h",
-      "dt": "2026-06-28T18:42:49+00:00"
+      "h": "Andrade sabotages Team DCMJF in Forbidden Door cage match, Mark Briscoe earns AEW world title shot",
+      "p": "Mark Briscoe says he will challenge MJF for the AEW World Championship on this Wednesday's Dynamite. The post Andrade sabotages Team DCMJF in Forbidden Door cage match, Mark Briscoe earns AEW...",
+      "link": "https://www.postwrestling.com/2026/06/29/andrade-sabotages-team-dcmjf-in-forbidden-door-cage-match-mark-briscoe-earns-aew-world-title-shot/",
+      "t": "45m",
+      "dt": "2026-06-29T04:11:30+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Watch: AEW x NJPW Forbidden Door Post Show Media Scrum",
+      "p": "Watch: AEW x NJPW Forbidden Door Post Show Media Scrum The post Watch: AEW x NJPW Forbidden Door Post Show Media Scrum appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
+      "link": "https://www.fightful.com/wrestling-news/watch-aew-x-njpw-forbidden-door-post-show-media-scrum-2/",
+      "t": "46m",
+      "dt": "2026-06-29T04:11:24+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "Maya World says “I’d be really excited” if she had been told six months ago she would be facing Mercedes Mone at the AEW Forbidden Door PPV",
-      "p": "Maya World said she would have been really excited if you had told her six months ago she would be facing her idol, Mercedes Mone, in the finals of the Owen Hart Foundation Cup Tournament [...]",
-      "link": "https://www.pwtorch.com/site/2026/06/28/maya-world-says-id-be-really-excited-if-she-had-been-told-six-months-ago-she-would-be-facing-mercedes-mone-at-the-aew-forbidden-door-ppv/",
-      "t": "4h",
-      "dt": "2026-06-28T18:23:07+00:00"
+      "h": "FREE PODCAST 6/28 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Omega’s AEW Title defense against Jungle Boy, Konnan’s odd promo opposite Tully Blanchard, AEW’s dysfunctional announce team (133 min.)",
+      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (6-26-2021), PWTorch editor Wade Keller was joined by Eric Krol, a former Pro Wrestling Torch...",
+      "link": "https://www.pwtorch.com/site/2026/06/28/free-podcast-6-28-wkpwp-aew-dynamite-post-show-5-yrs-ago-omegas-aew-title-defense-against-jungle-boy-konnans-odd-promo-opposite-tully-blanchard-aews-dysfunctional-announce/",
+      "t": "56m",
+      "dt": "2026-06-29T04:00:59+00:00"
     },
     {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/28 – PWTorch Dailycast – Best of PWTorch Livecast: 5 Yrs Ago – WNIA with Parks & Heydorn talk 10th Anniversary of CM Punk Pipe Bomb promo, Omega vs. Jungle Boy, plus Mike McMahon talks AEW (188 min.)",
-      "p": "SHOW SUMMARY: First, in the Wrestling Night in America portion, PWTorch columnist Greg Parks was joined by PWTorch assistant editor Zack Heydorn for a wide-ranging discussion with callers and...",
-      "link": "https://www.pwtorch.com/site/2026/06/28/free-podcast-6-28-pwtorch-dailycast-best-of-pwtorch-livecast-5-yrs-ago-wnia-with-parks-heydorn-talk-10th-anniversary-of-cm-punk-pipe-bomb-promo-omega-vs-jungle-boy-plus-mik/",
-      "t": "5h",
-      "dt": "2026-06-28T17:49:06+00:00"
+      "src": "Fightful",
+      "h": "Kyle O’Reilly Smashes An NES Into Kyle Fletcher’s Head At AEW x NJPW Forbidden Door",
+      "p": "Kyle O’Reilly broke out the classics at AEW x NJPW Forbidden Door. In the 12-man steel cage match, O’Reilly and Mark Briscoe introduced an NES into the match, and used it as a weapon against the...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-oreilly-smashes-an-nes-into-kyle-fletchers-head-at-aew-x-njpw-forbidden-door/",
+      "t": "1h",
+      "dt": "2026-06-29T03:43:14+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Mercedes Moné wins 2026 Women’s Owen Hart Foundation Tournament",
+      "p": "Mercedes Moné beat Maya World on Sunday night, earning her a world title shot at All In later this summer. The post Mercedes Moné wins 2026 Women’s Owen Hart Foundation Tournament appeared first...",
+      "link": "https://www.postwrestling.com/2026/06/28/mercedes-mone-wins-2026-womens-owen-hart-foundation-tournament/",
+      "t": "1h",
+      "dt": "2026-06-29T03:28:59+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Claudio Castagnoli Explains Why The Death Riders Aren't Recruiting",
-      "p": "AEW's Death Riders aren't scouting for new talent, according to Claudio Castagnoli, but the door remains open for others to join the faction.",
-      "link": "https://www.wrestlinginc.com/2201521/aew-claudio-castagnoli-death-riders-arent-recruiting/",
-      "t": "6h",
-      "dt": "2026-06-28T17:00:00+00:00"
+      "h": "Mercedes Mone Wins Second Consecutive Owen Hart Cup At AEW X NJPW Forbidden Door 2026",
+      "p": "Mercedes Mone won the Women's Owen Hart Cup for the second consecutive year during AEW x NJPW Forbidden Door.",
+      "link": "https://www.wrestlinginc.com/2203449/aew-x-njpw-forbidden-door-2026-mercedes-mone-wins-second-consecutive-owen-hart-cup/",
+      "t": "1h",
+      "dt": "2026-06-29T03:25:30+00:00"
     }
   ]
 }

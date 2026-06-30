@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T13:15:04.400635+00:00",
+  "updated": "2026-06-30T15:42:20.393322+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -7,48 +7,80 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Brian Cage Says He’ll Be Bringing ‘Body Guy Championship’ To AEW Every Week",
+      "p": "Brian Cage plans to bring the title with him every week. A new interview with Brian Cage was rolled out by Chris Van Vliet. Cage spoke about the Body Guy Championship that he’s trying to...",
+      "link": "https://www.fightful.com/wrestling-news/brian-cage-says-hell-be-bringing-body-guy-championship-to-aew-every-week/",
+      "t": "4m",
+      "dt": "2026-06-30T15:37:34+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "WWE's Nattie Responds To Forbidden Door Tribute From AEW Star",
+      "p": "The Owen Hart Foundation Cup finals took place at Forbidden Door and Natalya weighed in on a tribute from the tournament.",
+      "link": "https://www.wrestlinginc.com/2204978/wwe-aew-x-njpw-forbidden-door-2026-nattie-natalya-neidhart-mercedes-mone-tribute-gear/",
+      "t": "6m",
+      "dt": "2026-06-30T15:35:50+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Steven Spielberg told Brian Cage he’d love to come to AEW show",
+      "p": "When they were working on “Disclosure Day,” Steven Spielberg told Brian Cage that he’d be interested in coming to an AEW show in the future. The legendary director released his latest film this...",
+      "link": "https://www.f4wonline.com/news/aew/steven-spielberg-told-brian-cage-love-to-come-aew-show/",
+      "t": "20m",
+      "dt": "2026-06-30T15:21:39+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW files for ‘Death’s Door’ trademark",
+      "p": "AEW has applied to trademark the stipulation name of one of the top matches at Forbidden Door 2026. Sunday’s pay-per-view saw Team Briscoe defeat Team DCMJF in what was billed as a “Death’s Door”...",
+      "link": "https://www.f4wonline.com/news/aew/aew-files-for-deaths-door-trademark/",
+      "t": "1h",
+      "dt": "2026-06-30T13:44:43+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Original plan for several NJPW wrestlers for AEW Forbidden Door",
+      "p": "Prior to last Sunday’s Forbidden Door pay-per-view, AEW head Tony Khan mentioned that injuries and visa issues affected the availability of several wrestlers that were supposed to be on the show....",
+      "link": "https://www.f4wonline.com/news/aew/callum-newman-misses-aew-njpw-forbidden-door-2026/",
+      "t": "2h",
+      "dt": "2026-06-30T13:41:51+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Andrade El Idolo: I Will Work For The AEW World Title As Long As Necessary",
+      "p": "Andrade El Idolo talks potentially winning the AEW World Title, noting that he will work for the title as long as necessary. At AEW x NJPW Forbidden Door this past weekend, Andrade would feature...",
+      "link": "https://www.fightful.com/wrestling-news/andrade-el-idolo-i-will-work-for-the-aew-world-title-as-long-as-necessary/",
+      "t": "2h",
+      "dt": "2026-06-30T13:36:18+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Thekla Hoped To Join Prominent AEW Faction Before Signing With The Company",
       "p": "AEW Women's World Champion Thekla reveals that she hoped to join one of AEW's most prominent heel factions before she signed with the promotion",
       "link": "https://www.wrestlinginc.com/2203940/aew-thekla-don-callis-family-hoped-join-prominent-faction-before-signing/",
-      "t": "15m",
+      "t": "2h",
       "dt": "2026-06-30T13:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Files To Trademark ‘Death’s Door’",
-      "p": "AEW has filed to trademark ‘Death’s Door’ in the wake of the steel cage variant being used at AEW x NJPW Forbidden Door. At AEW x NJPW Forbidden Door on June 28th, a 12 man steel cage tag team...",
-      "link": "https://www.fightful.com/wrestling-news/aew-files-to-trademark-deaths-door/",
-      "t": "58m",
-      "dt": "2026-06-30T12:15:57+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW star explains why he rejected WWE’s interest",
       "p": "Brian Cage discussed why he chose to stay with AEW despite notable interest from WWE when his contract with the former expired. He cited the stability, creative freedom, and long-term security he...",
       "link": "https://www.f4wonline.com/news/aew-star-explains-why-he-rejected-wwes-interest/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-30T11:52:08+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "PRODUCE Volume 1: The Octopus Results (6/29)",
-      "p": "PRODUCE Wrestling held its PRODUCE Volume 1: The Octopus event on June 29 from Pioneerworks in Brooklyn, NY. The event aired on MyAEW. Full results are below. PRODUCE Volume 1: The Octopus Results...",
-      "link": "https://www.fightful.com/wrestling-news/produce-volume-1-the-octopus-results-6-29/",
-      "t": "9h",
-      "dt": "2026-06-30T03:42:22+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW announcer Jim Ross’ hospital stay almost over",
       "p": "It has been a trying 12 months for Jim Ross, but the Hall of Fame announcer shared some good news on Monday evening. For undisclosed reasons, Ross has been in an Oklahoma hospital since May 29....",
       "link": "https://www.f4wonline.com/news/aew/aew-announcer-jim-ross-hospital-stay-almost-over/",
-      "t": "10h",
+      "t": "13h",
       "dt": "2026-06-30T02:24:39+00:00"
     },
     {
@@ -56,31 +88,15 @@
       "h": "AEW announces MJF-Mark Briscoe title match will open Dynamite",
       "p": "Mark Briscoe has been waiting a long time for an AEW World Championship match against MJF. And now that he has earned one, he wants it as soon as possible. Briscoe won a guaranteed championship...",
       "link": "https://www.f4wonline.com/news/aew/aew-announces-mjf-mark-briscoe-title-match-will-open-dynamite/",
-      "t": "11h",
-      "dt": "2026-06-30T01:48:23+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Alvarez’s AEW x NJPW Forbidden Door review & ratings for subscribers",
-      "p": "Bryan Alvarez has posted his full thoughts from Sunday’s AEW x NJPW Forbidden Door including his match ratings for the main card. Click here to read (sub needed)",
-      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-x-njpw-forbidden-door-review-ratings/",
-      "t": "11h",
-      "dt": "2026-06-30T01:17:39+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Dave Meltzer on international WWE NOC & GAB Netflix viewers, recent AEW & TNA ratings for subscribers",
-      "p": "Dave Meltzer has posted some new info on international Netflix viewing numbers for WWE Night of Champions and NXT Great American Bash in addition to recent AEW & TNA ratings. Click here to read...",
-      "link": "https://www.f4wonline.com/news/wwe/dave-meltzer-international-wwe-netflix-viewers-aew-nxt/",
       "t": "13h",
-      "dt": "2026-06-29T23:28:46+00:00"
+      "dt": "2026-06-30T01:48:23+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Will Ospreay Explains Why AEW Feud Against Swerve Strickland Has Been 'Very Personal'",
       "p": "Will Ospreay opens up about his feud with Swerve Strickland, following their match at AEW Forbidden Door.",
       "link": "https://www.wrestlinginc.com/2204588/aew-will-ospreay-swerve-strickland-very-personal-feud/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-06-29T23:01:55+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Mercedes Mone Teases WWE Tag Team Partner Bayley Joining Her In AEW",
       "p": "Women's Owen Hart Cup winner Mercedes Mone teases her former WWE rival and tag team championship partner Bayley joining her in AEW later this year",
       "link": "https://www.wrestlinginc.com/2204557/aew-wwe-mercedes-mone-sasha-banks-bayley-teases-joining/",
-      "t": "15h",
-      "dt": "2026-06-29T22:14:38+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW X NJPW Forbidden Door - 6/28/2026: Biggest Winners & Losers",
-      "p": "We close the door on AEW x NJPW Forbidden Door with the biggest winners and the biggest losers.",
-      "link": "https://www.wrestlinginc.com/2204542/aew-njpw-forbidden-door-june-28-2026-biggest-winners-losers-opinion-review/",
-      "t": "15h",
-      "dt": "2026-06-29T21:52:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Deonna Purrazzo shares encouraging update after ROH injury",
-      "p": "One week after suffering an injury at a Ring of Honor television taping, Deonna Purrazzo shared an encouraging update with fans on social media. The ROH Women’s Pure Champion was injured while...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/deonna-purrazzo-shares-encouraging-update-after-roh-injury/",
       "t": "17h",
-      "dt": "2026-06-29T20:05:44+00:00"
+      "dt": "2026-06-29T22:14:38+00:00"
     }
   ]
 }

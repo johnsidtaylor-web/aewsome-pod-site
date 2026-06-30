@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-30T18:12:22.616863+00:00",
+  "updated": "2026-06-30T20:18:32.458747+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "Brian Cage on how he and Lance Archer landed cameo roles in Steven Spielberg’s “Disclosure Day” film, how close he came to signing with WWE before signing an AEW contract extension",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Brian Cage on how he and Lance Archer landed cameo roles in Steven Spielberg’s “Disclosure Day” film, how close he came to signing with WWE...",
+      "link": "https://prowrestling.net/site/2026/06/30/brian-cage-on-how-he-and-lance-archer-landed-cameo-roles-in-steven-spielbergs-disclosure-day-film-how-close-he-came-to-signing-with-wwe-before-signing-an-aew-contract-extension/",
+      "t": "4m",
+      "dt": "2026-06-30T20:14:20+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Brett Lauderdale Provides Update On GCW/Triller, Reveals Talks With MyAEW",
+      "p": "Brett Lauderdale discusses GCW’s current standing in the world of streaming. GCW has been a cornerstone of FITE/Triller for over half a decade at this point. Still, there are many questions...",
+      "link": "https://www.fightful.com/wrestling-news/brett-lauderdale-gcw-myaew-313780/",
+      "t": "18m",
+      "dt": "2026-06-30T20:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Big Bill Leaving AEW, Set To Return To WWE",
+      "p": "Details on the future of Big Bill. Fightful Select reports, “Big Bill/Big Cass is leaving AEW and rejoining WWE.” Full details are available for subscribers. Bill is aligned with Bryan Keith as...",
+      "link": "https://www.fightful.com/wrestling-news/big-bill-leaving-aew-set-to-return-to-wwe/",
+      "t": "54m",
+      "dt": "2026-06-30T19:23:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Brian Cage Would Like To Participate In 2026 AEW Continental Classic",
+      "p": "Brian Cage is aiming to compete in the Continental Classic. There’s an interview with Brian Cage that was pushed out by Chris Van Vliet. As Cage was speaking about what he was looking to...",
+      "link": "https://www.fightful.com/wrestling-news/brian-cage-would-like-to-participate-in-2026-aew-continental-classic/",
+      "t": "57m",
+      "dt": "2026-06-30T19:20:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Report: AEW wrestler gives notice, returning to WWE for tag team reunion",
+      "p": "After weeks of speculation, Enzo & Cass are reportedly officially set to be reunited in WWE. Fightful Select reports that Big Bill, whose deal is coming up over the next week, has given notice to...",
+      "link": "https://www.f4wonline.com/news/aew/big-bill-gives-notice-aew-set-for-wwe-return/",
+      "t": "1h",
+      "dt": "2026-06-30T19:15:13+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Reveals NJPW Names Who Were Supposed To Be On The AEW Forbidden Door Card",
+      "p": "Visa issues and injuries can cause issues for any show, but particularly for an event featuring talent from various promotions.",
+      "link": "https://www.wrestlinginc.com/2205250/dave-meltzer-aew-njpw-forbidden-door-ishii-callum-newman-gabe-kidd/",
+      "t": "1h",
+      "dt": "2026-06-30T18:26:51+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Biggest Winners And Losers Of The Week — 6/30/2026",
       "p": "After a weekend that saw four major events take place, from Slammiversary to Forbidden Door, here are your WINC winners and losers for the week of 6/30/26!",
       "link": "https://www.wrestlinginc.com/2205197/biggest-winners-losers-week-june-30-2026/",
-      "t": "16m",
+      "t": "2h",
       "dt": "2026-06-30T17:55:43+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Will Ospreay Says ‘A Weight Lifted’ At AEW x NJPW Forbidden Door, Notes ‘A Much Heavier Weight Will Be On His Shoulders’ Until AEW All In",
       "p": "Will Ospreay talks about a weight lifting off his shoulders at AEW x NJPW Forbidden Door, noting he will carry a heavier one until All In. Over the course of the last several months, Ospreay has...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-a-weight-lifted-at-aew-x-njpw-forbidden-door-notes-a-much-heavier-weight-will-be-on-his-shoulders-until-aew-all-in/",
-      "t": "17m",
+      "t": "2h",
       "dt": "2026-06-30T17:54:52+00:00"
     },
     {
@@ -32,23 +80,15 @@
       "h": "Tony Khan Comments On WWE Running Two Shows Against AEW All In",
       "p": "During AEW x NJPW: Forbidden Door, WWE announced two shows for August 30 when AEW ALL IN will also be taking place.",
       "link": "https://www.wrestlinginc.com/2205114/aew-all-in-wwe-tony-khan-comments-two-shows-running-against/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-30T17:08:01+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Brett Lauderdale Provides Update On GCW/Triller, Reveals Talks With MyAEW",
-      "p": "Brett Lauderdale discusses GCW’s current standing in the world of streaming. GCW has been a cornerstone of FITE/Triller for over half a decade at this point. Still, there are many questions...",
-      "link": "https://www.fightful.com/wrestling-news/brett-lauderdale-gcw-myaew-313780/",
-      "t": "1h",
-      "dt": "2026-06-30T17:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Tony Khan Reacts To NJPW Star Yota Tsuji Calling For AEW Boycott",
       "p": "AEW owner Tony Khan reacts to New Japan Pro Wrestling star, and IWGP Champion, Yota Tsuji calling upon his NJPW co-workers to boycott AEW shows",
       "link": "https://www.wrestlinginc.com/2205082/aew-njpw-tony-khan-yota-tsuji-reacts-boycott/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-30T16:44:49+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "WWE's Nattie Responds To Forbidden Door Tribute From AEW Star",
       "p": "The Owen Hart Foundation Cup finals took place at Forbidden Door and Natalya weighed in on a tribute from the tournament.",
       "link": "https://www.wrestlinginc.com/2204978/wwe-aew-x-njpw-forbidden-door-2026-nattie-natalya-neidhart-mercedes-mone-tribute-gear/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-30T15:35:50+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Steven Spielberg told Brian Cage he’d love to come to AEW show",
       "p": "When they were working on “Disclosure Day,” Steven Spielberg told Brian Cage that he’d be interested in coming to an AEW show in the future. The legendary director released his latest film this...",
       "link": "https://www.f4wonline.com/news/aew/steven-spielberg-told-brian-cage-love-to-come-aew-show/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-30T15:21:39+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW files for ‘Death’s Door’ trademark",
-      "p": "AEW has applied to trademark the stipulation name of one of the top matches at Forbidden Door 2026. Sunday’s pay-per-view saw Team Briscoe defeat Team DCMJF in what was billed as a “Death’s Door”...",
-      "link": "https://www.f4wonline.com/news/aew/aew-files-for-deaths-door-trademark/",
-      "t": "4h",
-      "dt": "2026-06-30T13:44:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Original plan for several NJPW wrestlers for AEW Forbidden Door",
-      "p": "Prior to last Sunday’s Forbidden Door pay-per-view, AEW head Tony Khan mentioned that injuries and visa issues affected the availability of several wrestlers that were supposed to be on the show....",
-      "link": "https://www.f4wonline.com/news/aew/callum-newman-misses-aew-njpw-forbidden-door-2026/",
-      "t": "4h",
-      "dt": "2026-06-30T13:41:51+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Thekla Hoped To Join Prominent AEW Faction Before Signing With The Company",
-      "p": "AEW Women's World Champion Thekla reveals that she hoped to join one of AEW's most prominent heel factions before she signed with the promotion",
-      "link": "https://www.wrestlinginc.com/2203940/aew-thekla-don-callis-family-hoped-join-prominent-faction-before-signing/",
-      "t": "5h",
-      "dt": "2026-06-30T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star explains why he rejected WWE’s interest",
-      "p": "Brian Cage discussed why he chose to stay with AEW despite notable interest from WWE when his contract with the former expired. He cited the stability, creative freedom, and long-term security he...",
-      "link": "https://www.f4wonline.com/news/aew-star-explains-why-he-rejected-wwes-interest/",
-      "t": "6h",
-      "dt": "2026-06-30T11:52:08+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW announcer Jim Ross’ hospital stay almost over",
-      "p": "It has been a trying 12 months for Jim Ross, but the Hall of Fame announcer shared some good news on Monday evening. For undisclosed reasons, Ross has been in an Oklahoma hospital since May 29....",
-      "link": "https://www.f4wonline.com/news/aew/aew-announcer-jim-ross-hospital-stay-almost-over/",
-      "t": "15h",
-      "dt": "2026-06-30T02:24:39+00:00"
     }
   ]
 }

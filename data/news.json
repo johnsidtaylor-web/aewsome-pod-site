@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-29T23:14:59.049513+00:00",
+  "updated": "2026-06-30T01:25:17.041930+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Bryan Alvarez’s AEW x NJPW Forbidden Door review & ratings for subscribers",
+      "p": "Bryan Alvarez has posted his full thoughts from Sunday’s AEW x NJPW Forbidden Door including his match ratings for the main card. Click here to read (sub needed)",
+      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-x-njpw-forbidden-door-review-ratings/",
+      "t": "7m",
+      "dt": "2026-06-30T01:17:39+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Dave Meltzer on international WWE NOC & GAB Netflix viewers, recent AEW & TNA ratings for subscribers",
+      "p": "Dave Meltzer has posted some new info on international Netflix viewing numbers for WWE Night of Champions and NXT Great American Bash in addition to recent AEW & TNA ratings. Click here to read...",
+      "link": "https://www.f4wonline.com/news/wwe/dave-meltzer-international-wwe-netflix-viewers-aew-nxt/",
+      "t": "1h",
+      "dt": "2026-06-29T23:28:46+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Will Ospreay Explains Why AEW Feud Against Swerve Strickland Has Been 'Very Personal'",
       "p": "Will Ospreay opens up about his feud with Swerve Strickland, following their match at AEW Forbidden Door.",
       "link": "https://www.wrestlinginc.com/2204588/aew-will-ospreay-swerve-strickland-very-personal-feud/",
-      "t": "13m",
+      "t": "2h",
       "dt": "2026-06-29T23:01:55+00:00"
     },
     {
@@ -24,15 +40,23 @@
       "h": "Mercedes Mone Teases WrestleDream Match Against Bayley",
       "p": "Mercedes Mone is causing a stir online. One day after winning the 2026 Owen Hart Foundation Women’s Tournament, Mercedes was on her Instagram Stories to tease a showdown at WrestleDream in...",
       "link": "https://www.fightful.com/wrestling-news/mercedes-mone-teases-wrestledream-match-against-bayley/",
-      "t": "42m",
+      "t": "2h",
       "dt": "2026-06-29T22:32:15+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Watch: PRODUCE Vol. 1 Pre-Show",
+      "p": "Watch: PRODUCE Vol. 1 Pre-Show Join us for a full 1 hour of action before we go LIVE on MyAEW! The post Watch: PRODUCE Vol. 1 Pre-Show appeared first on Fightful | WWE News, AEW News, Pro...",
+      "link": "https://www.fightful.com/wrestling-news/watch-produce-vol-1-pre-show/",
+      "t": "2h",
+      "dt": "2026-06-29T22:30:02+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Mercedes Mone Teases WWE Tag Team Partner Bayley Joining Her In AEW",
       "p": "Women's Owen Hart Cup winner Mercedes Mone teases her former WWE rival and tag team championship partner Bayley joining her in AEW later this year",
       "link": "https://www.wrestlinginc.com/2204557/aew-wwe-mercedes-mone-sasha-banks-bayley-teases-joining/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-29T22:14:38+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW X NJPW Forbidden Door - 6/28/2026: Biggest Winners & Losers",
       "p": "We close the door on AEW x NJPW Forbidden Door with the biggest winners and the biggest losers.",
       "link": "https://www.wrestlinginc.com/2204542/aew-njpw-forbidden-door-june-28-2026-biggest-winners-losers-opinion-review/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-29T21:52:00+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Deonna Purrazzo shares encouraging update after ROH injury",
       "p": "One week after suffering an injury at a Ring of Honor television taping, Deonna Purrazzo shared an encouraging update with fans on social media. The ROH Women’s Pure Champion was injured while...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/deonna-purrazzo-shares-encouraging-update-after-roh-injury/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-29T20:05:44+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Tony Khan Offers Update On Switchblade Jay White Following AEW Return",
       "p": "AEW President Tony Khan provides encouraging news on Jay White's in-ring status after surprise Forbidden Door return.",
       "link": "https://www.wrestlinginc.com/2204400/aew-tony-khan-switchblade-jay-white-update-return/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-06-29T19:56:27+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Dave Meltzer Expects This Match To Become A 'Staple' Of AEW X NJPW Forbidden Door",
       "p": "Dave Meltzer believes AEW's new stipulation will become a yearly tradition at Forbidden Door.",
       "link": "https://www.wrestlinginc.com/2204348/aew-x-njpw-forbidden-door-2026-dave-meltzer-deaths-door-cage-match-staple/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-06-29T19:17:42+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "Pruett’s Pause: 10 Thoughts on AEW Forbidden Door – Will Ospreay earns his Wembley Stadium main event, Mercedes Moné and Maya World impress, Circle Cage, and more in-preson thoughts",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Forbidden Door – Will Ospreay earns his Wembley Stadium main event, Mercedes Moné and Maya World impress,...",
       "link": "https://prowrestling.net/site/2026/06/29/pruetts-pause-10-thoughts-on-aew-forbidden-door-will-ospreay-earns-his-wembley-stadium-main-event-mercedes-mone-and-maya-world-impress-circle-cage-and-more-in-preson-thoughts/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-06-29T18:49:31+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "Mercedes Mone posts teaser for AEW match against WWE’s Bayley",
       "p": "On social media today, Mercedes Mone posted an interesting teaser for a match that, at least as it stands right now, is not contractually possible. Mone — who won the Owen Hart Foundation women’s...",
       "link": "https://www.f4wonline.com/news/aew/mercedes-mone-teaser-aew-match-wwes-bayley/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-06-29T18:19:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 6/29 – PWTorch Dailycast – Wrestling Night in America – AEW Forbidden Door post-show: Zilem & JB discuss Will Ospreay and Mercedes Moné winning Owen Hart Cup tournaments, Kenny Omega vs. Zack Sabre Jr., more (130 min.)",
-      "p": "SHOW SUMMARY: Brian Zilem and Jerud Buhagiar (JB) break down a wild AEW Forbidden Door PPV. Will Ospreay and Mercedes Moné captured the Owen Hart Cup tournaments to earn World Championship matches...",
-      "link": "https://www.pwtorch.com/site/2026/06/29/free-podcast-6-29-pwtorch-dailycast-wrestling-night-in-america-aew-forbidden-door-post-show-zilem-jb-discuss-will-ospreay-and-mercedes-mone-winning-owen-hart-cup-tournaments-kenny-omega-vs/",
-      "t": "5h",
-      "dt": "2026-06-29T18:05:46+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (6/27/26): AEW doubles down on Maya World, Kevin Knight keeps the TNT Championship thriving, Thekla continues to stand out",
-      "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS AEW IS FULLY...",
-      "link": "https://www.pwtorch.com/site/2026/06/29/aew-collision-hits-misses-6-27-26-aew-doubles-down-on-maya-world-kevin-knight-keeps-the-tnt-championship-thriving-thekla-continues-to-stand-out/",
-      "t": "5h",
-      "dt": "2026-06-29T17:23:18+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Update On Scorpio Sky's AEW Contract Status",
-      "p": "Scorpio Sky is an AEW Original who recently returned to TV on \"Collision\" in a backstage segment with SKYFLIGHT and Matt Sydal.",
-      "link": "https://www.wrestlinginc.com/2204114/aew-scorpio-sky-backstage-update-contract/",
-      "t": "6h",
-      "dt": "2026-06-29T16:57:22+00:00"
     }
   ]
 }

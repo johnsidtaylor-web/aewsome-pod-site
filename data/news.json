@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-30T20:18:32.458747+00:00",
+  "updated": "2026-06-30T22:38:05.653657+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,43 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "AEW Redemption To Start At 7 PM ET",
+      "p": "A change for AEW Redemption. Tony Khan announced that AEW Redemption will start at 7 PM ET as opposed to the usual 8 PM ET start time for pay-per-views. The Buy-In will start at 6 PM ET. The event...",
+      "link": "https://www.fightful.com/wrestling-news/aew-redemption-to-start-at-7-pm-et/",
+      "t": "6m",
+      "dt": "2026-06-30T22:31:57+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: Paige, Will Ospreay, WWE & New York Mets",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-paige-will-ospreay-wwe-new-york-mets/",
+      "t": "9m",
+      "dt": "2026-06-30T22:28:51+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Big Bill reportedly gives notice to AEW ahead of expected WWE return",
+      "p": "Big Bill has reportedly given notice to AEW and is expected to return to WWE soon. The post Big Bill reportedly gives notice to AEW ahead of expected WWE return appeared first on POST Wrestling |...",
+      "link": "https://www.postwrestling.com/2026/06/30/big-bill-reportedly-gives-notice-to-aew-ahead-of-expected-wwe-return/",
+      "t": "48m",
+      "dt": "2026-06-30T21:49:33+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Big Bill Reportedly Gives Notice To AEW, Expected To Land In WWE Alongside Enzo Amore",
+      "p": "Big Bill has reportedly given notice to AEW, signaling his departure from the promotion, with the expectation he'll return to WWE alongside Enzo Amore",
+      "link": "https://www.wrestlinginc.com/2205453/big-bill-gives-notice-aew-wwe-enzo-amore/",
+      "t": "1h",
+      "dt": "2026-06-30T21:02:25+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "Brian Cage on how he and Lance Archer landed cameo roles in Steven Spielberg’s “Disclosure Day” film, how close he came to signing with WWE before signing an AEW contract extension",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Brian Cage on how he and Lance Archer landed cameo roles in Steven Spielberg’s “Disclosure Day” film, how close he came to signing with WWE...",
       "link": "https://prowrestling.net/site/2026/06/30/brian-cage-on-how-he-and-lance-archer-landed-cameo-roles-in-steven-spielbergs-disclosure-day-film-how-close-he-came-to-signing-with-wwe-before-signing-an-aew-contract-extension/",
-      "t": "4m",
+      "t": "2h",
       "dt": "2026-06-30T20:14:20+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Brett Lauderdale Provides Update On GCW/Triller, Reveals Talks With MyAEW",
       "p": "Brett Lauderdale discusses GCW’s current standing in the world of streaming. GCW has been a cornerstone of FITE/Triller for over half a decade at this point. Still, there are many questions...",
       "link": "https://www.fightful.com/wrestling-news/brett-lauderdale-gcw-myaew-313780/",
-      "t": "18m",
+      "t": "2h",
       "dt": "2026-06-30T20:00:00+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Big Bill Leaving AEW, Set To Return To WWE",
       "p": "Details on the future of Big Bill. Fightful Select reports, “Big Bill/Big Cass is leaving AEW and rejoining WWE.” Full details are available for subscribers. Bill is aligned with Bryan Keith as...",
       "link": "https://www.fightful.com/wrestling-news/big-bill-leaving-aew-set-to-return-to-wwe/",
-      "t": "54m",
+      "t": "3h",
       "dt": "2026-06-30T19:23:43+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Brian Cage Would Like To Participate In 2026 AEW Continental Classic",
       "p": "Brian Cage is aiming to compete in the Continental Classic. There’s an interview with Brian Cage that was pushed out by Chris Van Vliet. As Cage was speaking about what he was looking to...",
       "link": "https://www.fightful.com/wrestling-news/brian-cage-would-like-to-participate-in-2026-aew-continental-classic/",
-      "t": "57m",
+      "t": "3h",
       "dt": "2026-06-30T19:20:51+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Report: AEW wrestler gives notice, returning to WWE for tag team reunion",
       "p": "After weeks of speculation, Enzo & Cass are reportedly officially set to be reunited in WWE. Fightful Select reports that Big Bill, whose deal is coming up over the next week, has given notice to...",
       "link": "https://www.f4wonline.com/news/aew/big-bill-gives-notice-aew-set-for-wwe-return/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-06-30T19:15:13+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Dave Meltzer Reveals NJPW Names Who Were Supposed To Be On The AEW Forbidden Door Card",
       "p": "Visa issues and injuries can cause issues for any show, but particularly for an event featuring talent from various promotions.",
       "link": "https://www.wrestlinginc.com/2205250/dave-meltzer-aew-njpw-forbidden-door-ishii-callum-newman-gabe-kidd/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-06-30T18:26:51+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "Biggest Winners And Losers Of The Week — 6/30/2026",
       "p": "After a weekend that saw four major events take place, from Slammiversary to Forbidden Door, here are your WINC winners and losers for the week of 6/30/26!",
       "link": "https://www.wrestlinginc.com/2205197/biggest-winners-losers-week-june-30-2026/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-30T17:55:43+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Will Ospreay Says ‘A Weight Lifted’ At AEW x NJPW Forbidden Door, Notes ‘A Much Heavier Weight Will Be On His Shoulders’ Until AEW All In",
       "p": "Will Ospreay talks about a weight lifting off his shoulders at AEW x NJPW Forbidden Door, noting he will carry a heavier one until All In. Over the course of the last several months, Ospreay has...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-a-weight-lifted-at-aew-x-njpw-forbidden-door-notes-a-much-heavier-weight-will-be-on-his-shoulders-until-aew-all-in/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-06-30T17:54:52+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Comments On WWE Running Two Shows Against AEW All In",
-      "p": "During AEW x NJPW: Forbidden Door, WWE announced two shows for August 30 when AEW ALL IN will also be taking place.",
-      "link": "https://www.wrestlinginc.com/2205114/aew-all-in-wwe-tony-khan-comments-two-shows-running-against/",
-      "t": "3h",
-      "dt": "2026-06-30T17:08:01+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Reacts To NJPW Star Yota Tsuji Calling For AEW Boycott",
-      "p": "AEW owner Tony Khan reacts to New Japan Pro Wrestling star, and IWGP Champion, Yota Tsuji calling upon his NJPW co-workers to boycott AEW shows",
-      "link": "https://www.wrestlinginc.com/2205082/aew-njpw-tony-khan-yota-tsuji-reacts-boycott/",
-      "t": "3h",
-      "dt": "2026-06-30T16:44:49+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE's Nattie Responds To Forbidden Door Tribute From AEW Star",
-      "p": "The Owen Hart Foundation Cup finals took place at Forbidden Door and Natalya weighed in on a tribute from the tournament.",
-      "link": "https://www.wrestlinginc.com/2204978/wwe-aew-x-njpw-forbidden-door-2026-nattie-natalya-neidhart-mercedes-mone-tribute-gear/",
-      "t": "4h",
-      "dt": "2026-06-30T15:35:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Steven Spielberg told Brian Cage he’d love to come to AEW show",
-      "p": "When they were working on “Disclosure Day,” Steven Spielberg told Brian Cage that he’d be interested in coming to an AEW show in the future. The legendary director released his latest film this...",
-      "link": "https://www.f4wonline.com/news/aew/steven-spielberg-told-brian-cage-love-to-come-aew-show/",
-      "t": "4h",
-      "dt": "2026-06-30T15:21:39+00:00"
     }
   ]
 }

@@ -1,22 +1,54 @@
 {
-  "updated": "2026-07-01T10:10:30.730494+00:00",
+  "updated": "2026-07-01T12:46:21.046746+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Chris Jericho Reveals He Has A Role In A Series Produced By Michael B Jordan",
+      "p": "Chris Jericho has more upcoming gigs. During his time away from AEW, Jericho continued to work with his band Fozzy, and he landed a couple of acting gigs, including in “Margo’s Go Money Troubles.”...",
+      "link": "https://www.fightful.com/wrestling-news/chris-jericho-reveals-he-has-a-role-in-a-series-produced-by-michael-b-jordan/",
+      "t": "35m",
+      "dt": "2026-07-01T12:11:07+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite, AEW Collision and TNA Impact tapings (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Tom Magee, Carmella DeCesare, Harold Sakata, Abismo Negro",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, AEW Collision and TNA Impact tapings (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Tom Magee, Carmella...",
+      "link": "https://prowrestling.net/site/2026/07/01/aew-dynamite-aew-collision-and-tna-impact-tapings-reports-needed-wwe-evolve-last-weeks-dynamite-and-collision-grades-tom-magee-carmella-decesare-harold-sakata-abismo-negro/",
+      "t": "45m",
+      "dt": "2026-07-01T12:00:57+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (7/1)",
+      "p": "Viewing information and lineup for AEW Dynamite on July 1, 2026. AEW Dynamite (July 1, 2026) Venue: Viejas Arena City: San Diego, CA Time: 8pm ET Channel: TBS, Max Lineup AEW World Championship:...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-7-1/",
+      "t": "46m",
+      "dt": "2026-07-01T12:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Chris Jericho Says AEW Return Was Months In The Making",
+      "p": "After nearly a year off television, Chris Jericho returned to AEW on the April 1 episode of Dynamite. His contract reportedly expired at the end of 2025, but he ended up signing a multi-year deal...",
+      "link": "https://www.fightful.com/wrestling-news/chris-jericho-says-aew-return-was-months-in-the-making/",
+      "t": "46m",
+      "dt": "2026-07-01T11:59:47+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite Start Time Tonight (07-01-2026)",
       "p": "AEW Dynamite is set to take place tonight from the Viejas Arena in San Diego, California at the usual start time of 8pm Eastern and 7pm Central. MJF will be defending his AEW World Championship in...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-07-01-2026/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-01T07:09:35+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW Dynamite Preview: Confirmed matches and segments (07-01-2026)",
       "p": "AEW Dynamite is set to take place tonight from the Viejas Arena in San Diego, California, and several matches and segments have already been confirmed for the broadcast. MJF will be defending his...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-07-01-2026/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-01T06:59:33+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "AEW RISING AND FADING STARS: Thekla shines against Starlight Kid, Will Ospreay with momentum headed into All In, The Dogs upstaged",
       "p": "Welcome everyone! As you read this I have a question. Should this be the last Forbidden Door PPV? Personally, I feel like it should be. There is no door anymore. That said, they gave me [...]",
       "link": "https://www.pwtorch.com/site/2026/06/30/aew-rising-and-fading-stars-thekla-shines-against-starlight-kid-will-ospreay-with-momentum-headed-into-all-in-the-dogs-upstaged/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-07-01T04:52:25+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Yota Tsuji invites Tony Khan to NJPW G1 Climax opening night in Chicago",
       "p": "IWGP Heavyweight Champion Yota Tsuji has invited Tony Khan to NJPW G1 Climax. Earlier this year, Tsuji had opened up and suggested boycotting the AEW x NJPW Forbidden Door PPV. Tsuji was not in...",
       "link": "https://www.f4wonline.com/news/new-japan/yota-tsuji-invites-tony-khan-to-njpw-g1-climax-opening-night-in-chicago/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-07-01T02:32:26+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
       "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
       "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-07-01T02:28:13+00:00"
     },
     {
@@ -56,56 +88,24 @@
       "h": "Mercedes Mone On When She’ll Return To WWE: When They Induct Me Into The Hall of Fame",
       "p": "Mercedes Mone is only going back to WWE if she’s Hall of Fame bound. Mercedes took time out of her day to respond to a fan on Instagram who asked, “When will you return to WWE” She replied, “when...",
       "link": "https://www.fightful.com/wrestling-news/mercedes-mone-on-when-shell-return-to-wwe-when-they-induct-me-into-the-hall-of-fame/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-07-01T02:12:29+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Yota Tsuji Invites Tony Khan To NJPW Event In Chicago And For A Round Of Golf",
-      "p": "Ahead of AEW x NJPW Forbidden Door, IWGP Heavyweight Champion Yota Tsuji suggested boycotting the event given how AEW had treated the champion over the years, noting that the title had been...",
-      "link": "https://www.fightful.com/wrestling-news/yota-tsuji-invites-tony-khan-to-njpw-event-in-chicago-and-for-a-round-of-golf/",
-      "t": "8h",
-      "dt": "2026-07-01T01:37:21+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Tony Khan On NJPW Changing Ownership: 'Something To Keep An Eye On'",
       "p": "Tony Khan doesn't feel the relationship between AEW and NJPW has changed since the ownership changes that took place earlier this year.",
       "link": "https://www.wrestlinginc.com/2204902/aew-njpw-tony-khan-changing-ownership-something-keep-eye-on/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-07-01T01:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MJF Complimenting Alicia Atout Becomes A Meme",
-      "p": "MJF doesn’t say many nice things about people, but he does have a lot of love for his wife Alicia Atout. In an interview with Chris Van Vliet, MJF noted that Alicia has a giant ass (compliment),...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-complimenting-alicia-atout-becomes-a-meme/",
-      "t": "9h",
-      "dt": "2026-07-01T00:48:58+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision (6/27) Viewership Declines On Cable TV Ahead Of Forbidden Door",
-      "p": "AEW Collision viewership information for June 27. Wrestlenomics reports that AEW Collision drew 332,000 viewers on TNT on June 27. This number is down from the 350,000 viewers the show drew June...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-6-27-viewership-declines-on-cable-tv-ahead-of-forbidden-door/",
-      "t": "9h",
-      "dt": "2026-07-01T00:24:57+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision rating: How did the Forbidden Door go-home show and countdown special perform?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did the Forbidden Door go-home show and countdown special perform? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/30/aew-collision-rating-how-did-the-forbidden-door-go-home-show-and-countdown-special-perform/",
-      "t": "10h",
+      "t": "13h",
       "dt": "2026-06-30T23:18:17+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Tony Khan announces 7pm ET start for AEW Redemption pay-per-view",
-      "p": "AEW Redemption will begin one hour earlier than the company’s recent evening pay-per-views. The post Tony Khan announces 7pm ET start for AEW Redemption pay-per-view appeared first on POST...",
-      "link": "https://www.postwrestling.com/2026/06/30/tony-khan-announces-7pm-et-start-for-aew-redemption-pay-per-view/",
-      "t": "10h",
-      "dt": "2026-06-30T23:15:36+00:00"
     }
   ]
 }

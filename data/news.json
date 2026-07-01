@@ -1,22 +1,78 @@
 {
-  "updated": "2026-07-01T15:48:53.910300+00:00",
+  "updated": "2026-07-01T18:15:18.821987+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Will Ospreay Wants To Face AZM In An Intergender Bout: She’s My Favorite Wrestler",
+      "p": "Will Ospeay wants to face off with AZM in an intergender bout, noting that she is her favorite wrestler. AEW just hosted their Forbidden Door event alongside their partners STARDOM, New Japan Pro...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-wants-to-face-azm-in-an-intergender-bout-shes-my-favorite-wrestler/",
+      "t": "14m",
+      "dt": "2026-07-01T18:00:30+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay Says He ‘Kind Of Enjoys’ Travelling Back And Forth From US For AEW Events",
+      "p": "Will Ospreay speaks on the travel aspect of his All Elite Wrestling career, where he travels back and forth from the UK to make his appearances. Since the beginning of his AEW career, Ospreay has...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-he-kind-of-enjoys-travelling-back-and-forth-from-us-for-aew-events/",
+      "t": "35m",
+      "dt": "2026-07-01T17:39:52+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Mick Foley confirms expiration of WWE legends deal, teases new AEW merch",
+      "p": "Mick Foley, who joined AEW in May, confirmed on Wednesday that his final deal with WWE has come to an end. The post Mick Foley confirms expiration of WWE legends deal, teases new AEW merch...",
+      "link": "https://www.postwrestling.com/2026/07/01/mick-foley-confirms-expiration-of-wwe-legends-deal/",
+      "t": "1h",
+      "dt": "2026-07-01T16:55:24+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (7/1): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, JULY 1, 2026 Where: SAN DIEGO, CALIF. AT VIEJAS ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,322 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/07/01/aew-dynamite-preview-7-1-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "1h",
+      "dt": "2026-07-01T16:48:08+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Ratings & Viewership Report: 6/27/2026",
+      "p": "\"AEW Collision\" records one of its lowest viewership totals of the year for this past Saturday's episode.",
+      "link": "https://www.wrestlinginc.com/2206049/aew-collision-ratings-viewership-report-june-27-2026/",
+      "t": "1h",
+      "dt": "2026-07-01T16:27:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision ratings down for Forbidden Door go-home show",
+      "p": "This past Saturday’s AEW Collision on TNT — the go-home edition before Sunday’s Forbidden Door — averaged 332,000 viewers, down 5.1% from the previous week, with a 0.04 rating in the 18-49 demo,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-down-forbidden-door-go-home-show/",
+      "t": "2h",
+      "dt": "2026-07-01T16:05:48+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Where would a new fan best start with wrestling? The answer surprised even me | Opinion",
+      "p": "I was recently posed with the eternal question from a new wrestling fan: Where do I start? With AEW, WWE, AAA, TNA and NXT all having readily accessible shows on streaming and TV, it’s actually...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/where-do-new-fans-start-pro-wrestling-opinion-column/",
+      "t": "2h",
+      "dt": "2026-07-01T15:54:53+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Darby Allin rules out AEW match with Mick Foley, wants to team with him",
       "p": "A potential match between Darby Allin and Mick Foley in AEW appears to be off the table. Earlier this week, Foley named Darby as a potential dream opponent if he was to come out of retirement...",
       "link": "https://www.f4wonline.com/news/aew/darby-allin-rules-out-aew-match-with-mick-foley-wants-to-team-with-him/",
-      "t": "9m",
+      "t": "2h",
       "dt": "2026-07-01T15:39:04+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "AEW Dynamite ticket update for tonight’s show in San Diego",
       "p": "An update is available regarding how many tickets have been distributed to Wednesday’s AEW show in San Diego. AEW will present a live episode of Dynamite and tape an episode of Collision tonight...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-update-for-tonights-show-in-san-diego/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-01T14:22:35+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "AEW Dynamite preview: AEW World Championship match, new TBS Champion to be crowned",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship match, new TBS Champion to be crowned appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/01/aew-dynamite-preview-aew-world-championship-match-new-tbs-champion-to-be-crowned/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-01T14:00:40+00:00"
     },
     {
@@ -40,7 +96,7 @@
       "h": "AEW's Tony Khan Announces Change In Start Time For Upcoming Redemption PPV",
       "p": "AEW CEO Tony Khan has revealed that the next pay-per-view, the inaugural Redemption event, will begin an hour earlier than previous pay-per-views.",
       "link": "https://www.wrestlinginc.com/2205649/aew-tony-khan-redemption-ppv-change-start-time/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-01T14:00:00+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "Chris Jericho reveals role in Michael B. Jordan-produced series",
       "p": "Chris Jericho continues to expand his acting resume in addition to his AEW return this year. He revealed landing a role in Michael B. Jordan’s new series. During his interaction on Close Up with...",
       "link": "https://www.f4wonline.com/news/chris-jericho-reveals-role-in-michael-b-jordan-produced-series/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-01T13:21:39+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Jericho says AEW return ‘helped me reimagine what a babyface Jericho was like’",
-      "p": "Chris Jericho introduced AEW fans to his new moniker ‘Jericho’ upon his comeback nearly two months ago. Jericho discussed his AEW return in April after being away for a year on Close Up with Renee...",
-      "link": "https://www.f4wonline.com/news/chris-jericho-says-aew-return-helped-me-reimagine-what-a-babyface-jericho-was-like/",
-      "t": "2h",
-      "dt": "2026-07-01T12:53:03+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite, AEW Collision and TNA Impact tapings (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Tom Magee, Carmella DeCesare, Harold Sakata, Abismo Negro",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, AEW Collision and TNA Impact tapings (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Tom Magee, Carmella...",
-      "link": "https://prowrestling.net/site/2026/07/01/aew-dynamite-aew-collision-and-tna-impact-tapings-reports-needed-wwe-evolve-last-weeks-dynamite-and-collision-grades-tom-magee-carmella-decesare-harold-sakata-abismo-negro/",
-      "t": "3h",
-      "dt": "2026-07-01T12:00:57+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (07-01-2026)",
-      "p": "AEW Dynamite is set to take place tonight from the Viejas Arena in San Diego, California at the usual start time of 8pm Eastern and 7pm Central. MJF will be defending his AEW World Championship in...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-07-01-2026/",
-      "t": "8h",
-      "dt": "2026-07-01T07:09:35+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (07-01-2026)",
-      "p": "AEW Dynamite is set to take place tonight from the Viejas Arena in San Diego, California, and several matches and segments have already been confirmed for the broadcast. MJF will be defending his...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-07-01-2026/",
-      "t": "8h",
-      "dt": "2026-07-01T06:59:33+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: Thekla shines against Starlight Kid, Will Ospreay with momentum headed into All In, The Dogs upstaged",
-      "p": "Welcome everyone! As you read this I have a question. Should this be the last Forbidden Door PPV? Personally, I feel like it should be. There is no door anymore. That said, they gave me [...]",
-      "link": "https://www.pwtorch.com/site/2026/06/30/aew-rising-and-fading-stars-thekla-shines-against-starlight-kid-will-ospreay-with-momentum-headed-into-all-in-the-dogs-upstaged/",
-      "t": "10h",
-      "dt": "2026-07-01T04:52:25+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan On NJPW Changing Ownership: 'Something To Keep An Eye On'",
-      "p": "Tony Khan doesn't feel the relationship between AEW and NJPW has changed since the ownership changes that took place earlier this year.",
-      "link": "https://www.wrestlinginc.com/2204902/aew-njpw-tony-khan-changing-ownership-something-keep-eye-on/",
-      "t": "14h",
-      "dt": "2026-07-01T01:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision rating: How did the Forbidden Door go-home show and countdown special perform?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did the Forbidden Door go-home show and countdown special perform? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/06/30/aew-collision-rating-how-did-the-forbidden-door-go-home-show-and-countdown-special-perform/",
-      "t": "16h",
-      "dt": "2026-06-30T23:18:17+00:00"
     }
   ]
 }

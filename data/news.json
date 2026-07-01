@@ -1,22 +1,86 @@
 {
-  "updated": "2026-07-01T00:19:40.787355+00:00",
+  "updated": "2026-07-01T05:53:32.298059+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Thekla shines against Starlight Kid, Will Ospreay with momentum headed into All In, The Dogs upstaged",
+      "p": "Welcome everyone! As you read this I have a question. Should this be the last Forbidden Door PPV? Personally, I feel like it should be. There is no door anymore. That said, they gave me [...]",
+      "link": "https://www.pwtorch.com/site/2026/06/30/aew-rising-and-fading-stars-thekla-shines-against-starlight-kid-will-ospreay-with-momentum-headed-into-all-in-the-dogs-upstaged/",
+      "t": "1h",
+      "dt": "2026-07-01T04:52:25+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Yota Tsuji invites Tony Khan to NJPW G1 Climax opening night in Chicago",
+      "p": "IWGP Heavyweight Champion Yota Tsuji has invited Tony Khan to NJPW G1 Climax. Earlier this year, Tsuji had opened up and suggested boycotting the AEW x NJPW Forbidden Door PPV. Tsuji was not in...",
+      "link": "https://www.f4wonline.com/news/new-japan/yota-tsuji-invites-tony-khan-to-njpw-g1-climax-opening-night-in-chicago/",
+      "t": "3h",
+      "dt": "2026-07-01T02:32:26+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
+      "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
+      "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
+      "t": "3h",
+      "dt": "2026-07-01T02:28:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mercedes Mone On When She’ll Return To WWE: When They Induct Me Into The Hall of Fame",
+      "p": "Mercedes Mone is only going back to WWE if she’s Hall of Fame bound. Mercedes took time out of her day to respond to a fan on Instagram who asked, “When will you return to WWE” She replied, “when...",
+      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-on-when-shell-return-to-wwe-when-they-induct-me-into-the-hall-of-fame/",
+      "t": "3h",
+      "dt": "2026-07-01T02:12:29+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Yota Tsuji Invites Tony Khan To NJPW Event In Chicago And For A Round Of Golf",
+      "p": "Ahead of AEW x NJPW Forbidden Door, IWGP Heavyweight Champion Yota Tsuji suggested boycotting the event given how AEW had treated the champion over the years, noting that the title had been...",
+      "link": "https://www.fightful.com/wrestling-news/yota-tsuji-invites-tony-khan-to-njpw-event-in-chicago-and-for-a-round-of-golf/",
+      "t": "4h",
+      "dt": "2026-07-01T01:37:21+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan On NJPW Changing Ownership: 'Something To Keep An Eye On'",
+      "p": "Tony Khan doesn't feel the relationship between AEW and NJPW has changed since the ownership changes that took place earlier this year.",
+      "link": "https://www.wrestlinginc.com/2204902/aew-njpw-tony-khan-changing-ownership-something-keep-eye-on/",
+      "t": "4h",
+      "dt": "2026-07-01T01:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF Complimenting Alicia Atout Becomes A Meme",
+      "p": "MJF doesn’t say many nice things about people, but he does have a lot of love for his wife Alicia Atout. In an interview with Chris Van Vliet, MJF noted that Alicia has a giant ass (compliment),...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-complimenting-alicia-atout-becomes-a-meme/",
+      "t": "5h",
+      "dt": "2026-07-01T00:48:58+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision (6/27) Viewership Declines On Cable TV Ahead Of Forbidden Door",
+      "p": "AEW Collision viewership information for June 27. Wrestlenomics reports that AEW Collision drew 332,000 viewers on TNT on June 27. This number is down from the 350,000 viewers the show drew June...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-6-27-viewership-declines-on-cable-tv-ahead-of-forbidden-door/",
+      "t": "5h",
+      "dt": "2026-07-01T00:24:57+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision rating: How did the Forbidden Door go-home show and countdown special perform?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did the Forbidden Door go-home show and countdown special perform? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/30/aew-collision-rating-how-did-the-forbidden-door-go-home-show-and-countdown-special-perform/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-06-30T23:18:17+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "Tony Khan announces 7pm ET start for AEW Redemption pay-per-view",
       "p": "AEW Redemption will begin one hour earlier than the company’s recent evening pay-per-views. The post Tony Khan announces 7pm ET start for AEW Redemption pay-per-view appeared first on POST...",
       "link": "https://www.postwrestling.com/2026/06/30/tony-khan-announces-7pm-et-start-for-aew-redemption-pay-per-view/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-06-30T23:15:36+00:00"
     },
     {
@@ -32,80 +96,16 @@
       "h": "Tony Khan announces new start time for AEW Redemption",
       "p": "AEW Redemption is starting a bit earlier. Khan revealed on social media that AEW’s next pay-per-view will start at 7 pm Eastern, one hour earlier than usual. The one-hour Buy In pre-show will...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-announces-new-start-time-for-aew-redemption/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-06-30T22:38:35+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Redemption To Start At 7 PM ET",
-      "p": "A change for AEW Redemption. Tony Khan announced that AEW Redemption will start at 7 PM ET as opposed to the usual 8 PM ET start time for pay-per-views. The Buy-In will start at 6 PM ET. The event...",
-      "link": "https://www.fightful.com/wrestling-news/aew-redemption-to-start-at-7-pm-et/",
-      "t": "1h",
-      "dt": "2026-06-30T22:31:57+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Daily Update: Paige, Will Ospreay, WWE & New York Mets",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-paige-will-ospreay-wwe-new-york-mets/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-06-30T22:28:51+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Big Bill reportedly gives notice to AEW ahead of expected WWE return",
-      "p": "Big Bill has reportedly given notice to AEW and is expected to return to WWE soon. The post Big Bill reportedly gives notice to AEW ahead of expected WWE return appeared first on POST Wrestling |...",
-      "link": "https://www.postwrestling.com/2026/06/30/big-bill-reportedly-gives-notice-to-aew-ahead-of-expected-wwe-return/",
-      "t": "2h",
-      "dt": "2026-06-30T21:49:33+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Big Bill Reportedly Gives Notice To AEW, Expected To Land In WWE Alongside Enzo Amore",
-      "p": "Big Bill has reportedly given notice to AEW, signaling his departure from the promotion, with the expectation he'll return to WWE alongside Enzo Amore",
-      "link": "https://www.wrestlinginc.com/2205453/big-bill-gives-notice-aew-wwe-enzo-amore/",
-      "t": "3h",
-      "dt": "2026-06-30T21:02:25+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Brian Cage on how he and Lance Archer landed cameo roles in Steven Spielberg’s “Disclosure Day” film, how close he came to signing with WWE before signing an AEW contract extension",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Brian Cage on how he and Lance Archer landed cameo roles in Steven Spielberg’s “Disclosure Day” film, how close he came to signing with WWE...",
-      "link": "https://prowrestling.net/site/2026/06/30/brian-cage-on-how-he-and-lance-archer-landed-cameo-roles-in-steven-spielbergs-disclosure-day-film-how-close-he-came-to-signing-with-wwe-before-signing-an-aew-contract-extension/",
-      "t": "4h",
-      "dt": "2026-06-30T20:14:20+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Brett Lauderdale Provides Update On GCW/Triller, Reveals Talks With MyAEW",
-      "p": "Brett Lauderdale discusses GCW’s current standing in the world of streaming. GCW has been a cornerstone of FITE/Triller for over half a decade at this point. Still, there are many questions...",
-      "link": "https://www.fightful.com/wrestling-news/brett-lauderdale-gcw-myaew-313780/",
-      "t": "4h",
-      "dt": "2026-06-30T20:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Big Bill Leaving AEW, Set To Return To WWE",
-      "p": "Details on the future of Big Bill. Fightful Select reports, “Big Bill/Big Cass is leaving AEW and rejoining WWE.” Full details are available for subscribers. Bill is aligned with Bryan Keith as...",
-      "link": "https://www.fightful.com/wrestling-news/big-bill-leaving-aew-set-to-return-to-wwe/",
-      "t": "4h",
-      "dt": "2026-06-30T19:23:43+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Brian Cage Would Like To Participate In 2026 AEW Continental Classic",
-      "p": "Brian Cage is aiming to compete in the Continental Classic. There’s an interview with Brian Cage that was pushed out by Chris Van Vliet. As Cage was speaking about what he was looking to...",
-      "link": "https://www.fightful.com/wrestling-news/brian-cage-would-like-to-participate-in-2026-aew-continental-classic/",
-      "t": "4h",
-      "dt": "2026-06-30T19:20:51+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Report: AEW wrestler gives notice, returning to WWE for tag team reunion",
-      "p": "After weeks of speculation, Enzo & Cass are reportedly officially set to be reunited in WWE. Fightful Select reports that Big Bill, whose deal is coming up over the next week, has given notice to...",
-      "link": "https://www.f4wonline.com/news/aew/big-bill-gives-notice-aew-set-for-wwe-return/",
-      "t": "5h",
-      "dt": "2026-06-30T19:15:13+00:00"
     }
   ]
 }

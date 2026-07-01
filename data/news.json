@@ -1,38 +1,78 @@
 {
-  "updated": "2026-07-01T18:15:18.821987+00:00",
+  "updated": "2026-07-01T20:16:10.757783+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
-      "h": "Will Ospreay Wants To Face AZM In An Intergender Bout: She’s My Favorite Wrestler",
-      "p": "Will Ospeay wants to face off with AZM in an intergender bout, noting that she is her favorite wrestler. AEW just hosted their Forbidden Door event alongside their partners STARDOM, New Japan Pro...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-wants-to-face-azm-in-an-intergender-bout-shes-my-favorite-wrestler/",
-      "t": "14m",
-      "dt": "2026-07-01T18:00:30+00:00"
+      "h": "Hiroshi Tanahashi Says He Had A ‘Very Productive’ Conversation With Tony Khan About AEW-NJPW Future",
+      "p": "NJPW President Hiroshi Tanahashi made a surprise appearance at AEW x NJPW Forbidden Door, backing off Jon Moxley as he confronted Shota Umino. Speaking to Pep S. Caro of Planeta Wrestling, Hiroshi...",
+      "link": "https://www.fightful.com/wrestling-news/hiroshi-tanahashi-says-he-had-a-very-productive-conversation-with-tony-khan-about-aew-njpw-future/",
+      "t": "12m",
+      "dt": "2026-07-01T20:03:42+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Mick Foley Announces End Of WWE Legends Deal, Says Farewell To Company",
+      "p": "AEW's Mick Foley announced the official end of his WWE Legends deal in a video posted to Instagram on Wednesday.",
+      "link": "https://www.wrestlinginc.com/2206323/aew-wwe-mick-foley-announces-end-legends-deal-bids-farewell/",
+      "t": "21m",
+      "dt": "2026-07-01T19:54:41+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Hiroshi Tanahashi on G1 night one in Chicago, ‘very productive’ talk with Tony Khan",
+      "p": "By holding the opening night of this year’s G1 Climax in the United States, NJPW President Hiroshi Tanahashi is hoping to get more eyes on the emerging stars in the promotion. G1 Climax 36 kicks...",
+      "link": "https://www.f4wonline.com/news/new-japan/hiroshi-tanahashi-g1-chicago-tony-khan-conversation/",
+      "t": "38m",
+      "dt": "2026-07-01T19:37:44+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Will Ospreay Says He ‘Kind Of Enjoys’ Travelling Back And Forth From US For AEW Events",
-      "p": "Will Ospreay speaks on the travel aspect of his All Elite Wrestling career, where he travels back and forth from the UK to make his appearances. Since the beginning of his AEW career, Ospreay has...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-he-kind-of-enjoys-travelling-back-and-forth-from-us-for-aew-events/",
-      "t": "35m",
-      "dt": "2026-07-01T17:39:52+00:00"
+      "h": "Bad Dude Tito Says He Found Out About Kenny Omega Match The Night Before It Was Taped",
+      "p": "Bad Dude Tito discusses his match with Kenny Omega. Tito and Omega faced off on the June 11 episode of AEW Collision, just days before Omega’s match with Zack Sabre Jr. at AEW x NJPW Forbidden...",
+      "link": "https://www.fightful.com/wrestling-news/bad-dude-tito-kenny-omega-314046/",
+      "t": "1h",
+      "dt": "2026-07-01T19:10:48+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "NJPW Champ Yota Tsuji Comments Further On AEW Issues, Invites Tony Khan To Play Golf",
+      "p": "NJPW star and IWGP World Heavyweight Champion Yota Tsuji comments again on his issues with AEW, but suggests its thawing by inviting Tony Khan to play golf",
+      "link": "https://www.wrestlinginc.com/2206212/njpw-aew-yota-tsuji-tony-khan-further-issues-invites-play-golf/",
+      "t": "1h",
+      "dt": "2026-07-01T18:34:55+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "McGuire’s Monthlies: Sami Zayn’s big WWE Championship win, AEW Forbidden Door, and a weekend packed to the brim with pro wrestling",
+      "p": "By Colin McGuire, ProWrestling.net Staffer... The post McGuire’s Monthlies: Sami Zayn’s big WWE Championship win, AEW Forbidden Door, and a weekend packed to the brim with pro wrestling appeared...",
+      "link": "https://prowrestling.net/site/2026/07/01/mcguires-monthlies-sami-zayns-big-wwe-championship-win-aew-forbidden-door-and-a-weekend-packed-to-the-brim-with-pro-wrestling/",
+      "t": "1h",
+      "dt": "2026-07-01T18:30:26+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay Wants To Face AZM In An Intergender Bout: She’s My Favorite Wrestler",
+      "p": "Will Ospeay wants to face off with AZM in an intergender bout, noting that she is her favorite wrestler. AEW just hosted their Forbidden Door event alongside their partners STARDOM, New Japan Pro...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-wants-to-face-azm-in-an-intergender-bout-shes-my-favorite-wrestler/",
+      "t": "2h",
+      "dt": "2026-07-01T18:00:30+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Mick Foley confirms expiration of WWE legends deal, teases new AEW merch",
       "p": "Mick Foley, who joined AEW in May, confirmed on Wednesday that his final deal with WWE has come to an end. The post Mick Foley confirms expiration of WWE legends deal, teases new AEW merch...",
       "link": "https://www.postwrestling.com/2026/07/01/mick-foley-confirms-expiration-of-wwe-legends-deal/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-01T16:55:24+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "AEW DYNAMITE PREVIEW (7/1): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, JULY 1, 2026 Where: SAN DIEGO, CALIF. AT VIEJAS ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,322 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/07/01/aew-dynamite-preview-7-1-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-01T16:48:08+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "AEW Collision Ratings & Viewership Report: 6/27/2026",
       "p": "\"AEW Collision\" records one of its lowest viewership totals of the year for this past Saturday's episode.",
       "link": "https://www.wrestlinginc.com/2206049/aew-collision-ratings-viewership-report-june-27-2026/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-01T16:27:18+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW Collision ratings down for Forbidden Door go-home show",
       "p": "This past Saturday’s AEW Collision on TNT — the go-home edition before Sunday’s Forbidden Door — averaged 332,000 viewers, down 5.1% from the previous week, with a 0.04 rating in the 18-49 demo,...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-down-forbidden-door-go-home-show/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-01T16:05:48+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Where would a new fan best start with wrestling? The answer surprised even me | Opinion",
       "p": "I was recently posed with the eternal question from a new wrestling fan: Where do I start? With AEW, WWE, AAA, TNA and NXT all having readily accessible shows on streaming and TV, it’s actually...",
       "link": "https://www.f4wonline.com/news/other-wrestling/where-do-new-fans-start-pro-wrestling-opinion-column/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-01T15:54:53+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Darby Allin rules out AEW match with Mick Foley, wants to team with him",
-      "p": "A potential match between Darby Allin and Mick Foley in AEW appears to be off the table. Earlier this week, Foley named Darby as a potential dream opponent if he was to come out of retirement...",
-      "link": "https://www.f4wonline.com/news/aew/darby-allin-rules-out-aew-match-with-mick-foley-wants-to-team-with-him/",
-      "t": "2h",
-      "dt": "2026-07-01T15:39:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ticket update for tonight’s show in San Diego",
-      "p": "An update is available regarding how many tickets have been distributed to Wednesday’s AEW show in San Diego. AEW will present a live episode of Dynamite and tape an episode of Collision tonight...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-update-for-tonights-show-in-san-diego/",
-      "t": "3h",
-      "dt": "2026-07-01T14:22:35+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: AEW World Championship match, new TBS Champion to be crowned",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship match, new TBS Champion to be crowned appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/01/aew-dynamite-preview-aew-world-championship-match-new-tbs-champion-to-be-crowned/",
-      "t": "4h",
-      "dt": "2026-07-01T14:00:40+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan Announces Change In Start Time For Upcoming Redemption PPV",
-      "p": "AEW CEO Tony Khan has revealed that the next pay-per-view, the inaugural Redemption event, will begin an hour earlier than previous pay-per-views.",
-      "link": "https://www.wrestlinginc.com/2205649/aew-tony-khan-redemption-ppv-change-start-time/",
-      "t": "4h",
-      "dt": "2026-07-01T14:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Jericho reveals role in Michael B. Jordan-produced series",
-      "p": "Chris Jericho continues to expand his acting resume in addition to his AEW return this year. He revealed landing a role in Michael B. Jordan’s new series. During his interaction on Close Up with...",
-      "link": "https://www.f4wonline.com/news/chris-jericho-reveals-role-in-michael-b-jordan-produced-series/",
-      "t": "4h",
-      "dt": "2026-07-01T13:21:39+00:00"
     }
   ]
 }

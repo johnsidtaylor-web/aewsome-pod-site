@@ -1,54 +1,78 @@
 {
-  "updated": "2026-07-01T12:46:21.046746+00:00",
+  "updated": "2026-07-01T15:48:53.910300+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Chris Jericho Reveals He Has A Role In A Series Produced By Michael B Jordan",
-      "p": "Chris Jericho has more upcoming gigs. During his time away from AEW, Jericho continued to work with his band Fozzy, and he landed a couple of acting gigs, including in “Margo’s Go Money Troubles.”...",
-      "link": "https://www.fightful.com/wrestling-news/chris-jericho-reveals-he-has-a-role-in-a-series-produced-by-michael-b-jordan/",
-      "t": "35m",
-      "dt": "2026-07-01T12:11:07+00:00"
+      "src": "Wrestling Observer",
+      "h": "Darby Allin rules out AEW match with Mick Foley, wants to team with him",
+      "p": "A potential match between Darby Allin and Mick Foley in AEW appears to be off the table. Earlier this week, Foley named Darby as a potential dream opponent if he was to come out of retirement...",
+      "link": "https://www.f4wonline.com/news/aew/darby-allin-rules-out-aew-match-with-mick-foley-wants-to-team-with-him/",
+      "t": "9m",
+      "dt": "2026-07-01T15:39:04+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite ticket update for tonight’s show in San Diego",
+      "p": "An update is available regarding how many tickets have been distributed to Wednesday’s AEW show in San Diego. AEW will present a live episode of Dynamite and tape an episode of Collision tonight...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-update-for-tonights-show-in-san-diego/",
+      "t": "1h",
+      "dt": "2026-07-01T14:22:35+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: AEW World Championship match, new TBS Champion to be crowned",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship match, new TBS Champion to be crowned appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/01/aew-dynamite-preview-aew-world-championship-match-new-tbs-champion-to-be-crowned/",
+      "t": "1h",
+      "dt": "2026-07-01T14:00:40+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan Announces Change In Start Time For Upcoming Redemption PPV",
+      "p": "AEW CEO Tony Khan has revealed that the next pay-per-view, the inaugural Redemption event, will begin an hour earlier than previous pay-per-views.",
+      "link": "https://www.wrestlinginc.com/2205649/aew-tony-khan-redemption-ppv-change-start-time/",
+      "t": "1h",
+      "dt": "2026-07-01T14:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Chris Jericho reveals role in Michael B. Jordan-produced series",
+      "p": "Chris Jericho continues to expand his acting resume in addition to his AEW return this year. He revealed landing a role in Michael B. Jordan’s new series. During his interaction on Close Up with...",
+      "link": "https://www.f4wonline.com/news/chris-jericho-reveals-role-in-michael-b-jordan-produced-series/",
+      "t": "2h",
+      "dt": "2026-07-01T13:21:39+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Chris Jericho says AEW return ‘helped me reimagine what a babyface Jericho was like’",
+      "p": "Chris Jericho introduced AEW fans to his new moniker ‘Jericho’ upon his comeback nearly two months ago. Jericho discussed his AEW return in April after being away for a year on Close Up with Renee...",
+      "link": "https://www.f4wonline.com/news/chris-jericho-says-aew-return-helped-me-reimagine-what-a-babyface-jericho-was-like/",
+      "t": "2h",
+      "dt": "2026-07-01T12:53:03+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite, AEW Collision and TNA Impact tapings (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Tom Magee, Carmella DeCesare, Harold Sakata, Abismo Negro",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, AEW Collision and TNA Impact tapings (reports needed), WWE Evolve, last week’s Dynamite and Collision grades, Tom Magee, Carmella...",
       "link": "https://prowrestling.net/site/2026/07/01/aew-dynamite-aew-collision-and-tna-impact-tapings-reports-needed-wwe-evolve-last-weeks-dynamite-and-collision-grades-tom-magee-carmella-decesare-harold-sakata-abismo-negro/",
-      "t": "45m",
+      "t": "3h",
       "dt": "2026-07-01T12:00:57+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (7/1)",
-      "p": "Viewing information and lineup for AEW Dynamite on July 1, 2026. AEW Dynamite (July 1, 2026) Venue: Viejas Arena City: San Diego, CA Time: 8pm ET Channel: TBS, Max Lineup AEW World Championship:...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-7-1/",
-      "t": "46m",
-      "dt": "2026-07-01T12:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Chris Jericho Says AEW Return Was Months In The Making",
-      "p": "After nearly a year off television, Chris Jericho returned to AEW on the April 1 episode of Dynamite. His contract reportedly expired at the end of 2025, but he ended up signing a multi-year deal...",
-      "link": "https://www.fightful.com/wrestling-news/chris-jericho-says-aew-return-was-months-in-the-making/",
-      "t": "46m",
-      "dt": "2026-07-01T11:59:47+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite Start Time Tonight (07-01-2026)",
       "p": "AEW Dynamite is set to take place tonight from the Viejas Arena in San Diego, California at the usual start time of 8pm Eastern and 7pm Central. MJF will be defending his AEW World Championship in...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-07-01-2026/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-01T07:09:35+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "AEW Dynamite Preview: Confirmed matches and segments (07-01-2026)",
       "p": "AEW Dynamite is set to take place tonight from the Viejas Arena in San Diego, California, and several matches and segments have already been confirmed for the broadcast. MJF will be defending his...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-07-01-2026/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-01T06:59:33+00:00"
     },
     {
@@ -64,39 +88,15 @@
       "h": "AEW RISING AND FADING STARS: Thekla shines against Starlight Kid, Will Ospreay with momentum headed into All In, The Dogs upstaged",
       "p": "Welcome everyone! As you read this I have a question. Should this be the last Forbidden Door PPV? Personally, I feel like it should be. There is no door anymore. That said, they gave me [...]",
       "link": "https://www.pwtorch.com/site/2026/06/30/aew-rising-and-fading-stars-thekla-shines-against-starlight-kid-will-ospreay-with-momentum-headed-into-all-in-the-dogs-upstaged/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-07-01T04:52:25+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Yota Tsuji invites Tony Khan to NJPW G1 Climax opening night in Chicago",
-      "p": "IWGP Heavyweight Champion Yota Tsuji has invited Tony Khan to NJPW G1 Climax. Earlier this year, Tsuji had opened up and suggested boycotting the AEW x NJPW Forbidden Door PPV. Tsuji was not in...",
-      "link": "https://www.f4wonline.com/news/new-japan/yota-tsuji-invites-tony-khan-to-njpw-g1-climax-opening-night-in-chicago/",
-      "t": "10h",
-      "dt": "2026-07-01T02:32:26+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
-      "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
-      "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
-      "t": "10h",
-      "dt": "2026-07-01T02:28:13+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mercedes Mone On When She’ll Return To WWE: When They Induct Me Into The Hall of Fame",
-      "p": "Mercedes Mone is only going back to WWE if she’s Hall of Fame bound. Mercedes took time out of her day to respond to a fan on Instagram who asked, “When will you return to WWE” She replied, “when...",
-      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-on-when-shell-return-to-wwe-when-they-induct-me-into-the-hall-of-fame/",
-      "t": "10h",
-      "dt": "2026-07-01T02:12:29+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Tony Khan On NJPW Changing Ownership: 'Something To Keep An Eye On'",
       "p": "Tony Khan doesn't feel the relationship between AEW and NJPW has changed since the ownership changes that took place earlier this year.",
       "link": "https://www.wrestlinginc.com/2204902/aew-njpw-tony-khan-changing-ownership-something-keep-eye-on/",
-      "t": "11h",
+      "t": "14h",
       "dt": "2026-07-01T01:00:00+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW Collision rating: How did the Forbidden Door go-home show and countdown special perform?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did the Forbidden Door go-home show and countdown special perform? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/06/30/aew-collision-rating-how-did-the-forbidden-door-go-home-show-and-countdown-special-perform/",
-      "t": "13h",
+      "t": "16h",
       "dt": "2026-06-30T23:18:17+00:00"
     }
   ]

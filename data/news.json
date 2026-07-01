@@ -1,30 +1,54 @@
 {
-  "updated": "2026-07-01T20:16:10.757783+00:00",
+  "updated": "2026-07-01T22:39:01.067360+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: AEW World Championship match, new TBS Champion to be crowned",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship match, new TBS Champion to be crowned appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/01/aew-dynamite-preview-aew-world-championship-match-new-tbs-champion-to-be-crowned/",
+      "t": "43m",
+      "dt": "2026-07-01T21:55:40+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Hiroshi Tanahashi Says He Had A ‘Very Productive’ Conversation With Tony Khan About AEW-NJPW Future",
-      "p": "NJPW President Hiroshi Tanahashi made a surprise appearance at AEW x NJPW Forbidden Door, backing off Jon Moxley as he confronted Shota Umino. Speaking to Pep S. Caro of Planeta Wrestling, Hiroshi...",
-      "link": "https://www.fightful.com/wrestling-news/hiroshi-tanahashi-says-he-had-a-very-productive-conversation-with-tony-khan-about-aew-njpw-future/",
-      "t": "12m",
-      "dt": "2026-07-01T20:03:42+00:00"
+      "h": "Kevin Knight vs. Lio Rush Set For 7/1 AEW Dynamite",
+      "p": "The TNT Title will be on the line on AEW Dynamite. All Elite Wrestling announced that Kevin Knight will defend his TNT Title against Lio Rush on the July 1 episode of Dynamite. Rush is the...",
+      "link": "https://www.fightful.com/wrestling-news/kevin-knight-vs-lio-rush-set-for-7-1-aew-dynamite/",
+      "t": "49m",
+      "dt": "2026-07-01T21:49:12+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "San Diego Mayor Honors AEW Star By Declaring July 1 'Thunder Rosa Day,' Rosa Responds",
+      "p": "July 1 was declared \"Thunder Rosa Day\" in San Diego by the city's mayor, ahead of \"AEW Dynamite\" airing from the city on Wednesday.",
+      "link": "https://www.wrestlinginc.com/2206423/aew-thunder-rosa-san-diego-mayor-july-1/",
+      "t": "50m",
+      "dt": "2026-07-01T21:48:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "City of San Diego honors AEW star ahead of Dynamite",
+      "p": "July 1, 2026 is Thunder Rosa Day in the city of San Diego. San Diego Mayor Todd Gloria honored the former AEW Women’s World Champion on Wednesday, proclaiming that Rosa embodies “San Diego’s grit,...",
+      "link": "https://www.f4wonline.com/news/aew/city-of-san-diego-honors-aew-star-ahead-of-dynamite/",
+      "t": "1h",
+      "dt": "2026-07-01T21:18:47+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Mick Foley Announces End Of WWE Legends Deal, Says Farewell To Company",
       "p": "AEW's Mick Foley announced the official end of his WWE Legends deal in a video posted to Instagram on Wednesday.",
       "link": "https://www.wrestlinginc.com/2206323/aew-wwe-mick-foley-announces-end-legends-deal-bids-farewell/",
-      "t": "21m",
+      "t": "2h",
       "dt": "2026-07-01T19:54:41+00:00"
     },
     {
@@ -32,23 +56,15 @@
       "h": "Hiroshi Tanahashi on G1 night one in Chicago, ‘very productive’ talk with Tony Khan",
       "p": "By holding the opening night of this year’s G1 Climax in the United States, NJPW President Hiroshi Tanahashi is hoping to get more eyes on the emerging stars in the promotion. G1 Climax 36 kicks...",
       "link": "https://www.f4wonline.com/news/new-japan/hiroshi-tanahashi-g1-chicago-tony-khan-conversation/",
-      "t": "38m",
+      "t": "3h",
       "dt": "2026-07-01T19:37:44+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Bad Dude Tito Says He Found Out About Kenny Omega Match The Night Before It Was Taped",
-      "p": "Bad Dude Tito discusses his match with Kenny Omega. Tito and Omega faced off on the June 11 episode of AEW Collision, just days before Omega’s match with Zack Sabre Jr. at AEW x NJPW Forbidden...",
-      "link": "https://www.fightful.com/wrestling-news/bad-dude-tito-kenny-omega-314046/",
-      "t": "1h",
-      "dt": "2026-07-01T19:10:48+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "NJPW Champ Yota Tsuji Comments Further On AEW Issues, Invites Tony Khan To Play Golf",
       "p": "NJPW star and IWGP World Heavyweight Champion Yota Tsuji comments again on his issues with AEW, but suggests its thawing by inviting Tony Khan to play golf",
       "link": "https://www.wrestlinginc.com/2206212/njpw-aew-yota-tsuji-tony-khan-further-issues-invites-play-golf/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-01T18:34:55+00:00"
     },
     {
@@ -56,23 +72,15 @@
       "h": "McGuire’s Monthlies: Sami Zayn’s big WWE Championship win, AEW Forbidden Door, and a weekend packed to the brim with pro wrestling",
       "p": "By Colin McGuire, ProWrestling.net Staffer... The post McGuire’s Monthlies: Sami Zayn’s big WWE Championship win, AEW Forbidden Door, and a weekend packed to the brim with pro wrestling appeared...",
       "link": "https://prowrestling.net/site/2026/07/01/mcguires-monthlies-sami-zayns-big-wwe-championship-win-aew-forbidden-door-and-a-weekend-packed-to-the-brim-with-pro-wrestling/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-01T18:30:26+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay Wants To Face AZM In An Intergender Bout: She’s My Favorite Wrestler",
-      "p": "Will Ospeay wants to face off with AZM in an intergender bout, noting that she is her favorite wrestler. AEW just hosted their Forbidden Door event alongside their partners STARDOM, New Japan Pro...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-wants-to-face-azm-in-an-intergender-bout-shes-my-favorite-wrestler/",
-      "t": "2h",
-      "dt": "2026-07-01T18:00:30+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Mick Foley confirms expiration of WWE legends deal, teases new AEW merch",
       "p": "Mick Foley, who joined AEW in May, confirmed on Wednesday that his final deal with WWE has come to an end. The post Mick Foley confirms expiration of WWE legends deal, teases new AEW merch...",
       "link": "https://www.postwrestling.com/2026/07/01/mick-foley-confirms-expiration-of-wwe-legends-deal/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-01T16:55:24+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW DYNAMITE PREVIEW (7/1): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, JULY 1, 2026 Where: SAN DIEGO, CALIF. AT VIEJAS ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,322 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/07/01/aew-dynamite-preview-7-1-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-01T16:48:08+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW Collision Ratings & Viewership Report: 6/27/2026",
       "p": "\"AEW Collision\" records one of its lowest viewership totals of the year for this past Saturday's episode.",
       "link": "https://www.wrestlinginc.com/2206049/aew-collision-ratings-viewership-report-june-27-2026/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-07-01T16:27:18+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW Collision ratings down for Forbidden Door go-home show",
       "p": "This past Saturday’s AEW Collision on TNT — the go-home edition before Sunday’s Forbidden Door — averaged 332,000 viewers, down 5.1% from the previous week, with a 0.04 rating in the 18-49 demo,...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-down-forbidden-door-go-home-show/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-01T16:05:48+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Where would a new fan best start with wrestling? The answer surprised even me | Opinion",
-      "p": "I was recently posed with the eternal question from a new wrestling fan: Where do I start? With AEW, WWE, AAA, TNA and NXT all having readily accessible shows on streaming and TV, it’s actually...",
-      "link": "https://www.f4wonline.com/news/other-wrestling/where-do-new-fans-start-pro-wrestling-opinion-column/",
-      "t": "4h",
-      "dt": "2026-07-01T15:54:53+00:00"
     }
   ]
 }

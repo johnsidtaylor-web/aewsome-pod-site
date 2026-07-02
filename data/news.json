@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-02T14:27:09.316755+00:00",
+  "updated": "2026-07-02T17:00:36.579734+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,67 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "PAC, DOUKI and Austin Aries among first names in CMLL Grand Prix",
+      "p": "AEW's PAC, NJPW's DOUKI and MLW's Austin Aires were among the first names in this year's CMLL Grand Prix on Aug. 7. The post PAC, DOUKI and Austin Aries among first names in CMLL Grand Prix...",
+      "link": "https://www.postwrestling.com/2026/07/02/pac-douki-and-austin-aries-among-first-names-in-cmll-grand-prix/",
+      "t": "13m",
+      "dt": "2026-07-02T16:46:50+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Powell’s AEW Dynamite Hit List: Thoughts on MJF vs. Mark Briscoe for the AEW World Championship, the build to next week’s AEW World Championship match, the new TBS Champion",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on MJF vs. Mark Briscoe for the AEW World Championship, the build to next week’s AEW World...",
+      "link": "https://prowrestling.net/site/2026/07/02/powells-aew-dynamite-hit-list-thoughts-on-mjf-vs-mark-briscoe-for-the-aew-world-championship-the-build-to-next-weeks-aew-world-championship-match-the-new-tbs-champion/",
+      "t": "35m",
+      "dt": "2026-07-02T16:24:45+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Original plan for World title match at AEW Redemption",
+      "p": "The upcoming AEW World title match between MJF and Kenny Omega wasn’t originally scheduled to take place on this Wednesday’s Beach Break edition of Dynamite. On the post-Dynamite edition of...",
+      "link": "https://www.f4wonline.com/news/aew/kenny-omega-mjf-aew-redemption-change/",
+      "t": "43m",
+      "dt": "2026-07-02T16:16:40+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Star Adam Copeland Offers An Update On Retirement Plans",
+      "p": "AEW's Adam Copeland has discussed his retirement while also naming several singles stars and tag teams he still wants to face in the promotion.",
+      "link": "https://www.wrestlinginc.com/2206556/aew-adam-copeland-update-retirement-plans-july-2026/",
+      "t": "1h",
+      "dt": "2026-07-02T15:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Former AEW World Champion Rumored To Return Soon",
+      "p": "The former AEW World Champion in question has been MIA for several months, but with several big shows in the next few weeks, they seem primed for a return.",
+      "link": "https://www.wrestlinginc.com/2206797/aew-hangman-adam-page-world-champion-rumored-return/",
+      "t": "1h",
+      "dt": "2026-07-02T15:09:42+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Will Ospreay Reflects On Journey To AEW All In Main Event At Wembley Stadium",
+      "p": "Will Ospreay will wrestle in the main event of AEW All In London 2026, and it's no surprise that the man himself sees that show as his crowning achievement.",
+      "link": "https://www.wrestlinginc.com/2206782/aew-all-in-2026-wembley-stadium-will-ospreay-journey/",
+      "t": "2h",
+      "dt": "2026-07-02T14:59:21+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Anthony Bowens Wants AEW To Do A Series Of Ballpark Shows For MLB",
+      "p": "Anthony Bowens pushes for more crossover in AEW. On Friday, July 10, AEW will host their Brawl In The Ballpark event following the conclusion of the Twins vs. Angels game at Target Field in...",
+      "link": "https://www.fightful.com/wrestling-news/anthony-bowens-wants-aew-to-do-a-series-of-ballpark-shows-for-mlb/",
+      "t": "2h",
+      "dt": "2026-07-02T14:48:15+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Mick Foley Names Darby Allin As Desired AEW Opponent, Allin Responds",
       "p": "WWE Hall of Famer Mick Foley has named Darby Allin as his dream opponent, but Allin isn't keen on wrestling the hardcore legend in AEW.",
       "link": "https://www.wrestlinginc.com/2206533/aew-darby-allin-mick-foley-desired-opponent-responds/",
-      "t": "27m",
+      "t": "3h",
       "dt": "2026-07-02T14:00:00+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "Roderick Strong praises Triple H and Shawn Michaels",
       "p": "AEW star and former NXT performer Roderick Strong recently praised Triple H and Shawn Michaels for their help during his time in WWE. Speaking on the What Happened When podcast, Strong noted how...",
       "link": "https://www.f4wonline.com/news/wwe/roderick-strong-triple-h-shawn-michaels-wwe-nxt-aew/",
-      "t": "27m",
+      "t": "3h",
       "dt": "2026-07-02T13:59:52+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "AEW Collision lineup: The card for tonight’s 2.5-hour show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for tonight’s 2.5-hour show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/02/aew-collision-lineup-the-card-for-tonights-2-5-hour-show/",
-      "t": "56m",
+      "t": "3h",
       "dt": "2026-07-02T13:30:18+00:00"
     },
     {
@@ -40,7 +96,7 @@
       "h": "AEW Collision Spoilers For 7/2 (Taped On 7/1)",
       "p": "All Elite Wrestling taped the July 2 episode of AEW Collision on July 1 from San Diego, CA. Full spoilers (courtesy of Wrestling Observer) are below. AEW Collision Spoilers For 7/2 (Taped On 7/1)...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-spoilers-for-7-2-taped-on-7-1/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-02T13:16:46+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "AEW Dynamite preview: AEW World Championship headlines the Beach Break card",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship headlines the Beach Break card appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/02/aew-dynamite-preview-aew-world-championship-headlines-the-beach-break-card/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-02T13:00:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tiger Mask IV Cites Visa Issues As Reason He Was Not Able To Wrestle ‘Dynamite Kid’ Tommy Billington At GCW/JCW Show",
-      "p": "The reason why the match between Tiger Mask and Tommy Billington did not happen in early 2026. Game Changer Wrestling and Jersey Championship Wrestling presented the Jersey J Cup in February 2026....",
-      "link": "https://www.fightful.com/wrestling-news/tiger-mask-iv-cites-visa-issues-as-reason-he-was-not-able-to-wrestle-dynamite-kid-tommy-billington-at-gcw-jcw-show/",
-      "t": "1h",
-      "dt": "2026-07-02T12:43:29+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Will Ospreay Says He Is 'Blessed' To Wrestle Again After Neck Injury",
-      "p": "Will Ospreay expresses gratitude for being able to step back inside the ring after suffering a career-threatening injury last year.",
-      "link": "https://www.wrestlinginc.com/2204923/aew-will-ospreay-blessed-wrestled-after-neck-injury/",
-      "t": "1h",
-      "dt": "2026-07-02T12:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Preview, Start Time, How To Watch, Location (7/2)",
-      "p": "Viewing information and lineup for AEW Collision on July 2, 2026 AEW Collision (July 2, 2026) Venue: Viejas Arena City: San Diego, CA Time: 8 pm ET Channel: TNT, HBO Max Lineup Brian Cage vs....",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-7-2/",
-      "t": "2h",
-      "dt": "2026-07-02T12:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite July 1, 2026 stats, match times and more",
-      "p": "AEW Dynamite and this week had four matches with a ring time of around 54:00. The longest match on the card was the AEW World Title match at 18:25, which saw MJF defend his title against Mark...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-july-1-2026-stats-match-times-average-age/",
-      "t": "5h",
-      "dt": "2026-07-02T09:20:40+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: McMahon voicemails on WWE sale, Dynamite, WWE pulling talent",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the Vince McMahon voicemails that Brandon Thurston got access too and what it tells us about...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-mcmahon-voicemails-on-wwe-sale-dynamite-wwe-pulling-talent/",
-      "t": "5h",
-      "dt": "2026-07-02T08:59:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kyle Fletcher injury update following AEW Collision taping | Exclusive",
-      "p": "Former TNT Champion Kyle Fletcher was feared to have sustained an injury at the AEW Collision taping, but such is not the case. During the latest taping for this Thursday’s July 2, 2026 taping of...",
-      "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-injury-update-following-aew-collision-taping-exclusive/",
-      "t": "6h",
-      "dt": "2026-07-02T07:53:24+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 7/1 – WKH – AEW Dynamite: MJF vs. Briscoe, Omega makes big decision, Survival of Fittest, Ospreay-Mox dynamic expands, more (26 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the July 1 episode of AEW Dynamite start to finish including MJF vs. Mark Briscoe for the AEW World...",
-      "link": "https://www.pwtorch.com/site/2026/07/02/vip-podcast-7-1-wkh-aew-dynamite-mjf-vs-briscoe-omega-makes-big-decision-survival-of-fittest-ospreay-mox-dynamic-expands-more-26-min/",
-      "t": "8h",
-      "dt": "2026-07-02T06:11:29+00:00"
     }
   ]
 }

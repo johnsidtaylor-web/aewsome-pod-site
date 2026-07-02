@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T05:08:59.440608+00:00",
+  "updated": "2026-07-02T08:23:58.240969+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
@@ -12,11 +12,43 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Kyle Fletcher injury update following AEW Collision taping | Exclusive",
+      "p": "Former TNT Champion Kyle Fletcher was feared to have sustained an injury at the AEW Collision taping, but such is not the case. During the latest taping for this Thursday’s July 2, 2026 taping of...",
+      "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-injury-update-following-aew-collision-taping-exclusive/",
+      "t": "30m",
+      "dt": "2026-07-02T07:53:24+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 7/1 – WKH – AEW Dynamite: MJF vs. Briscoe, Omega makes big decision, Survival of Fittest, Ospreay-Mox dynamic expands, more (26 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the July 1 episode of AEW Dynamite start to finish including MJF vs. Mark Briscoe for the AEW World...",
+      "link": "https://www.pwtorch.com/site/2026/07/02/vip-podcast-7-1-wkh-aew-dynamite-mjf-vs-briscoe-omega-makes-big-decision-survival-of-fittest-ospreay-mox-dynamic-expands-more-26-min/",
+      "t": "2h",
+      "dt": "2026-07-02T06:11:29+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 7/1 – WKPWP after Dynamite: Keller & Lilly discuss Omega’s huge gamble and how they pulled it off, plus Lio Rush, Mox-Ospreay, more (116 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Darrin Lilly review AEW Dynamite with chat, caller, and email interactions throughout. They started with analysis of the...",
+      "link": "https://www.pwtorch.com/site/2026/07/02/free-podcast-7-1-wkpwp-after-dynamite-keller-lilly-discuss-omegas-huge-gamble-and-how-they-pulled-it-off-plus-lio-rush-mox-ospreay-more-116-min/",
+      "t": "2h",
+      "dt": "2026-07-02T05:58:40+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision spoilers from San Diego",
+      "p": "The following are spoilers for this Thursday’s AEW Collision from Viejas Arena at Aztec Bowl on the campus of San Diego State University in San Diego, California. The following episode was taped...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-spoilers-from-san-diego/",
+      "t": "3h",
+      "dt": "2026-07-02T05:11:59+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "07/01 Barnett’s AEW Dynamite audio review: MJF vs. Mark Briscoe for the AEW World Championship, Survival of the Fittest match for the vacant TBS Championship",
       "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 07/01 Barnett’s AEW Dynamite audio review: MJF vs. Mark Briscoe for the AEW World Championship, Survival of the Fittest match for the vacant...",
       "link": "https://prowrestling.net/site/2026/07/01/07-01-barnetts-aew-dynamite-audio-review-mjf-vs-mark-briscoe-for-the-aew-world-championship-survival-of-the-fittest-match-for-the-vacant-tbs-championship/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-02T03:57:56+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW Dynamite 7/1/2026: 3 Things We Hated & 3 Things We Loved",
       "p": "On a night that revolved around MJF's world championship, here are three things we hated and three things we loved about the 7/1/26 episode of \"AEW Dynamite!\"",
       "link": "https://www.wrestlinginc.com/2206515/aew-dynamite-july-1-2026-hated-loved-opinion-review/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-02T03:34:12+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "International title match, Women’s Casino Gauntlet set for next AEW Dynamite",
       "p": "While next Wednesday’s Beach Break edition of AEW Dynamite will feature a high profile World title match, it will also feature another grudge match with a title on the line. Announced during...",
       "link": "https://www.f4wonline.com/news/aew/international-title-match-womens-casino-gauntlet-next-aew-dynamite/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-07-02T03:13:30+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "NJPW & Stardom wrestlers, Jay White in-ring return part of full AEW Collision lineup",
       "p": "The Forbidden Door will stay open for another day as part of a special Thursday edition of AEW Collision. Several NJPW and Stardom wrestlers will be in action on the show, just three days after...",
       "link": "https://www.f4wonline.com/news/aew/njpw-stardom-wrestlers-jay-white-in-ring-return-aew-collision-lineup/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-02T02:43:27+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "MJF defends against Kenny Omega, Takeshita wagers title against Fletcher & more confirmed for AEW Dynamite: Beach Break 2026",
       "p": "Two title matchups and a high-stakes #1 contenders bout have been added to next week's Beach Break edition of AEW Dynamite. The post MJF defends against Kenny Omega, Takeshita wagers title against...",
       "link": "https://www.postwrestling.com/2026/07/01/mjf-defends-against-kenny-omega-takeshita-wagers-title-against-fletcher-more-confirmed-for-aew-dynamite-beach-break-2026/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-02T02:42:28+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Omega Makes a Decision: AEW Dynamite 7/1/26 Review | RAD",
       "p": "John Pollock and Wai Ting review AEW Dynamite as Omega makes a big choice, MJF defends vs. Briscoe, and a new TBS champ is crowned. XL: Vince-Ari audio released, NJPW sale, NXT GAB ratings, TNA...",
       "link": "https://www.postwrestling.com/2026/07/01/aew-dynamite-7-1-26-review-rad-live-1035pm-et/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-02T02:35:11+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "Jay White in-ring return, NJPW & STARDOM cameos set for special Thursday night AEW Collision",
       "p": "Nine matches have been booked for a special Thursday night edition of AEW Collision, including the in-ring return of Jay White. The post Jay White in-ring return, NJPW & STARDOM cameos set for...",
       "link": "https://www.postwrestling.com/2026/07/01/jay-white-in-ring-return-njpw-stardom-cameos-set-for-special-thursday-night-aew-collision/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-02T02:30:59+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Nine Matches Set For 7/2 AEW Collision",
       "p": "Here’s what’s on tap for Thursday’s episode of AEW Collision. There will be no shortage of singles matches on the show, as Brian Cage will face Andrade and Kyle Fletcher will take on ELP. In the...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-314112/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-02T02:28:44+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW World title match with major stipulation set for next week’s Dynamite",
-      "p": "The third match in the unofficial trilogy between AEW World Champion MJF and former champion Kenny Omega will take place as part of next Wednesday’s Beach Break edition of Dynamite and with a...",
-      "link": "https://www.f4wonline.com/news/aew/kenny-omega-mjf-3-aew-dynamite-beach-break/",
-      "t": "2h",
-      "dt": "2026-07-02T02:21:18+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW World Championship Match With Big Stipulation Set For AEW Dynamite Beach Break",
-      "p": "Kenny Omega is putting it all on the line at AEW Dynamite Beach Break. This week’s episode of Dynamite kicked off with a big match for the AEW World Championship, as MJF defended the title against...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-kenny-omega-aew-dynamite/",
-      "t": "2h",
-      "dt": "2026-07-02T02:16:56+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Hikaru Shida Wins Survival Of The Fittest, Claims Vacant AEW TBS Title On Dynamite",
-      "p": "Hikaru Shida is the new TBS Champion after winning the Survival of the Fittest match on \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2206504/aew-dynamite-hikaru-shida-survival-of-the-fittest-vacant-tbs-title/",
-      "t": "2h",
-      "dt": "2026-07-02T02:11:14+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Hikaru Shida Wins TBS Championship On AEW Dynamite",
-      "p": "Hikaru Shida is the new TBS Champion. This week’s episode of AEW Dynamite was capped off with a Survival Of The Fittest match for the vacant TBS Championship. Harley Cameron, Queen Aminata,...",
-      "link": "https://www.fightful.com/wrestling-news/hikaru-shida-aew-314102/",
-      "t": "3h",
-      "dt": "2026-07-02T02:07:34+00:00"
     }
   ]
 }

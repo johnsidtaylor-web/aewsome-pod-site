@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-03T00:18:10.853285+00:00",
+  "updated": "2026-07-03T04:55:00.861101+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,19 +12,91 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision results (7/2): Murphy’s live review of The Rascalz vs. Bandido, Mistico, and Mascara Dorada, Andrade El Idolo vs. Brian Cage, Kyle Fletcher vs. El Phantasmo",
+      "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (7/2): Murphy’s live review of The Rascalz vs. Bandido, Mistico, and Mascara Dorada, Andrade El Idolo vs. Brian Cage, Kyle...",
+      "link": "https://prowrestling.net/site/2026/07/02/aew-collision-results-7-2-murphys-live-review-of-the-rascalz-vs-bandido-mistico-and-mascara-dorada-andrade-el-idolo-vs-brian-cage-kyle-fletcher-vs-el-phantasmo/",
+      "t": "47m",
+      "dt": "2026-07-03T04:07:46+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "AEW Collision Results (7/2): Andrade, Kyle Fletcher, Jay White, Adam Copeland Compete",
-      "p": "AEW aired the latest episode of AEW Collision on July 2 from Viejas Arena in San Diego, CA. The event aired on TNT and HBO Max. Full results are below. AEW Collision Results (7/2) You can find...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-results-7-2-andrade-kyle-fletcher-jay-white-adam-copeland-compete/",
-      "t": "42m",
-      "dt": "2026-07-02T23:35:52+00:00"
+      "h": "ROH Title Match Set For 7/11 AEW Collision",
+      "p": "The ROH World Title will be on the line on the July 11 episode of AEW Collision when Bandido defends against Katsuyori Shibata. Opps leader HOOK made the announcement during Thusday’s Collision....",
+      "link": "https://www.fightful.com/wrestling-news/roh-title-match-set-for-7-11-aew-collision/",
+      "t": "1h",
+      "dt": "2026-07-03T02:55:38+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Former AEW wrestler Kiera Hogan ‘can’t wait to get back’ to wrestling",
+      "p": "Former AEW wrestler Kiera Hogan has opened up about her wrestling return intentions. After months away from in-ring action, Hogan recently made herself available for in-ring work by taking...",
+      "link": "https://www.f4wonline.com/news/aew/former-aew-wrestler-kiera-hogan-cant-wait-to-get-back-to-wrestling/",
+      "t": "2h",
+      "dt": "2026-07-03T02:49:17+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Athena And Maya World To Enter One And Two In Women’s Casino Gauntlet At AEW Dynamite Beach Break",
+      "p": "The first two entrants are set for the Women’s Casino Gauntlet at AEW Dynamite Beach Break on Wednesday. On AEW Collision, Athena earned the number one spot in the women’s casino gauntlet by...",
+      "link": "https://www.fightful.com/wrestling-news/athena-and-maya-world-to-enter-one-and-two-in-womens-casino-gauntlet-at-aew-dynamite-beach-break/",
+      "t": "2h",
+      "dt": "2026-07-03T02:47:48+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 7/2/26 Review | COLLISION COURSE",
+      "p": "Kate frm MTL & Ray Williams review a 2.5-hour Thursday AEW Collision feat. Casino Gauntlet qualifiers, Cage vs Andrade, Fletcher vs ELP, Death Riders vs Unbound, Cope with Bang Bang Gang, and a...",
+      "link": "https://www.postwrestling.com/2026/07/02/aew-collision-7-2-26-review-collision-course-live-1045pm/",
+      "t": "2h",
+      "dt": "2026-07-03T02:45:45+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH World title match set for next AEW Collision",
+      "p": "ROH World Champion Bandido will put his title on the line on next Saturday’s live edition of AEW Collision. Announced during Thursday’s Collision, Katsuyori Shibata of The Opps — via de facto team...",
+      "link": "https://www.f4wonline.com/news/aew/bandido-katsuyori-shibata-aew-collision-roh-title/",
+      "t": "2h",
+      "dt": "2026-07-03T02:25:30+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Matt Sydal joins Skyflight on AEW Collision",
+      "p": "Matt Sydal is now a part of Skyflight in AEW. Last month, on the June 20, 2026 episode of AEW Collision, Matt Sydal made his televised AEW return in a backstage segment with Skyflight. His...",
+      "link": "https://www.f4wonline.com/news/aew/matt-sydal-joins-skyflight-on-aew-collision/",
+      "t": "2h",
+      "dt": "2026-07-03T02:11:37+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "First two spots in Women’s Casino Gauntlet official for AEW Dynamite",
+      "p": "This Wednesday’s Women’s Casino Gauntlet match to determine the next challenger to AEW Women’s World Champion Thekla has its first two participants. In a pair of matches that aired on Thursday’s...",
+      "link": "https://www.f4wonline.com/news/aew/athena-maya-world-womens-casino-gauntlet-dynamite/",
+      "t": "2h",
+      "dt": "2026-07-03T02:08:54+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "The Conglomeration Announce Injuries To Mark Briscoe",
+      "p": "An update on Mark Briscoe. Speaking on AEW Collision, Orange Cassidy and Kyle O’Reilly informed fans that due to injuries suffered on AEW Dynamite, they weren’t sure when they would see Mark...",
+      "link": "https://www.fightful.com/wrestling-news/the-conglomeration-announce-injuries-to-mark-briscoe/",
+      "t": "3h",
+      "dt": "2026-07-03T01:13:09+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Elaborates On Motivation For Launching MyAEW Streaming Platform",
+      "p": "AEW owner Tony Khan elaborates on his motivation for launching the MyAEW streaming service, and whether he wants to add video libraries to the service",
+      "link": "https://www.wrestlinginc.com/2204953/aew-myaew-tony-khan-motivation-launching-streaming-platform/",
+      "t": "3h",
+      "dt": "2026-07-03T01:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Collision live results: Andrade vs. Brian Cage, Kyle Fletcher vs. ELP",
       "p": "AEW Collision airs tonight from San Diego. This week’s show was taped on Wednesday after Dynamite and airs on Thursday. Matches scheduled for the show include Andrade El Idolo vs. Brian Cage, Kyle...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-andrade-vs-brian-cage-kyle-fletcher-vs-elp/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-07-02T23:05:00+00:00"
     },
     {
@@ -32,80 +104,8 @@
       "h": "AEW Collision Results - 7/2/2026: Casino Gauntlet Qualifiers, More",
       "p": "There will be a Casino Gauntlet match to determine Thekla's next opponent for the AEW Women's World Championship. The first two spots will be determined tonight",
       "link": "https://www.wrestlinginc.com/2207186/aew-collision-results-july-2-2026-casino-gauntlet-qualifiers-more/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-07-02T23:00:00+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: Sami Zayn reacts to title win, Blurring of Breakker on Netflix & Beach Break",
-      "p": "John Pollock covers the news, including Sami Zayn reflecting on his win, more on WWE’s blurring of blood, and MJF vs. Omega at Beach Break. The post POST NEWS: Sami Zayn reacts to title win,...",
-      "link": "https://www.postwrestling.com/2026/07/02/post-news-sami-zayn-reacts-to-title-win-blurring-of-breakker-on-netflix-beach-break/",
-      "t": "3h",
-      "dt": "2026-07-02T20:40:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: Dynamite recap, Collision line-up, PRODUCE, Fletcher, more!",
-      "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including AEW Dynamite, the never-ending Collision show that airs TONIGHT, PRODUCE Wrestling and...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-dynamite-recap-collision-line-up-produce-fletcher-more/",
-      "t": "4h",
-      "dt": "2026-07-02T20:03:31+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – MJF defends the AEW Men’s World Championship against Mark Briscoe, Kenny Omega puts his future on the line, and more in-person thoughts",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – MJF defends the AEW Men’s World Championship against Mark Briscoe, Kenny Omega puts his future...",
-      "link": "https://prowrestling.net/site/2026/07/02/pruetts-pause-10-thoughts-on-aew-dynamite-mjf-defends-the-aew-mens-world-championship-against-mark-briscoe-kenny-omega-puts-his-future-on-the-line-and-more-in-person-thoughts/",
-      "t": "4h",
-      "dt": "2026-07-02T19:39:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE HOFer Booker T Shouts Out AEW Star After Her Performance At Forbidden Door",
-      "p": "Booker T praises one of AEW's most promising young stars following her match at Forbidden Door.",
-      "link": "https://www.wrestlinginc.com/2207070/wwe-booker-t-aew-maya-world-forbidden-door/",
-      "t": "6h",
-      "dt": "2026-07-02T18:05:28+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW, NJPW, MLW representatives among first names set for CMLL Grand Prix",
-      "p": "Representatives from AEW, NJPW, and MLW are among the first names set for the 2026 edition of CMLL’s International Grand Prix. On CMLL Informa this week, it was announced that PAC (representing...",
-      "link": "https://www.f4wonline.com/news/mexico/aew-njpw-mlw-representatives-set-cmll-grand-prix-2026/",
-      "t": "6h",
-      "dt": "2026-07-02T17:51:21+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "PAC, DOUKI and Austin Aries among first names in CMLL Grand Prix",
-      "p": "AEW's PAC, NJPW's DOUKI and MLW's Austin Aries were among the first names in this year's CMLL Grand Prix on Aug. 7. The post PAC, DOUKI and Austin Aries among first names in CMLL Grand Prix...",
-      "link": "https://www.postwrestling.com/2026/07/02/pac-douki-and-austin-aries-among-first-names-in-cmll-grand-prix/",
-      "t": "7h",
-      "dt": "2026-07-02T16:46:50+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Thoughts on MJF vs. Mark Briscoe for the AEW World Championship, the build to next week’s AEW World Championship match, the new TBS Champion",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on MJF vs. Mark Briscoe for the AEW World Championship, the build to next week’s AEW World...",
-      "link": "https://prowrestling.net/site/2026/07/02/powells-aew-dynamite-hit-list-thoughts-on-mjf-vs-mark-briscoe-for-the-aew-world-championship-the-build-to-next-weeks-aew-world-championship-match-the-new-tbs-champion/",
-      "t": "7h",
-      "dt": "2026-07-02T16:24:45+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Original plan for World title match at AEW Redemption",
-      "p": "The upcoming AEW World title match between MJF and Kenny Omega wasn’t originally scheduled to take place on this Wednesday’s Beach Break edition of Dynamite. On the post-Dynamite edition of...",
-      "link": "https://www.f4wonline.com/news/aew/kenny-omega-mjf-aew-redemption-change/",
-      "t": "8h",
-      "dt": "2026-07-02T16:16:40+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Star Adam Copeland Offers An Update On Retirement Plans",
-      "p": "AEW's Adam Copeland has discussed his retirement while also naming several singles stars and tag teams he still wants to face in the promotion.",
-      "link": "https://www.wrestlinginc.com/2206556/aew-adam-copeland-update-retirement-plans-july-2026/",
-      "t": "8h",
-      "dt": "2026-07-02T15:30:00+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T14:30:05.847322+00:00",
+  "updated": "2026-07-03T16:44:14.522829+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -7,16 +7,56 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: ROH Tag Team Title match from Arena Mexico headlines tonight’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: ROH Tag Team Title match from Arena Mexico headlines tonight’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/03/roh-on-honorclub-lineup-roh-tag-team-title-match-from-arena-mexico-headlines-tonights-show/",
+      "t": "1h",
+      "dt": "2026-07-03T15:30:55+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Details Friendship With Taylor Swift",
+      "p": "Jeff Jarrett cleared up some information regarding the story of Taylor Swift's role in the lives of his daughters in an interview with Chris Van Vliet.",
+      "link": "https://www.wrestlinginc.com/2207656/aew-jeff-jarrett-details-friendship-taylor-swift/",
+      "t": "1h",
+      "dt": "2026-07-03T15:24:46+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kenny Omega Says His Forbidden Door Gear Was Inspired By The Gear He Wore Against Bryan Danielson In 2021",
+      "p": "Kenny Omega reveals the inspiration for his Forbidden Door gear. Omega was able to knock off Zack Sabre Jr in a prestige singles affair at the most recent Forbidden Door pay-per-view event. The...",
+      "link": "https://www.fightful.com/wrestling-news/kenny-omega-forbidden-door-314324/",
+      "t": "1h",
+      "dt": "2026-07-03T14:53:15+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "07/03 Pruett’s AEW Collision audio review: The Rascalz vs. Bandido, Mistico, and Mascara Dorada, Andrade El Idolo vs. Brian Cage, Kyle Fletcher vs. El Phantasmo",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 07/03 Pruett’s AEW Collision audio review: The Rascalz vs. Bandido, Mistico, and Mascara Dorada, Andrade El Idolo vs. Brian Cage, Kyle...",
+      "link": "https://prowrestling.net/site/2026/07/03/07-03-pruetts-aew-collision-audio-review-the-rascalz-vs-bandido-mistico-and-mascara-dorada-andrade-el-idolo-vs-brian-cage-kyle-fletcher-vs-el-phantasmo/",
+      "t": "2h",
+      "dt": "2026-07-03T14:41:19+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Young Bucks Don’t Know When Hangman Page Is Coming Back, ‘He’s Loving Planting His Flowers’",
+      "p": "The Young Bucks comment on the status of ‘Hangman’ Adam Page. Page last appeared for AEW in March, when he was defeated by MJF in a Texas Deathmatch for the AEW World Championship. In a recent...",
+      "link": "https://www.fightful.com/wrestling-news/young-bucks-dont-know-when-hangman-page-is-coming-back-hes-loving-planting-his-flowers/",
+      "t": "2h",
+      "dt": "2026-07-03T14:36:03+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "First Two Entrants For Upcoming Casino Gauntlet Match Determined On AEW Collision",
       "p": "The first two spots in the upcoming Women's Casino Gauntlet match have officially been claimed following Thursday's episode of \"AEW Collision.\"",
       "link": "https://www.wrestlinginc.com/2207616/aew-collision-dynamite-athena-maya-world-first-two-entrants-casino-gauntlet/",
-      "t": "12m",
+      "t": "2h",
       "dt": "2026-07-03T14:17:58+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "July 6, 2026 Observer Newsletter: AEW Forbidden Door, WWE Night of Champions & TNA Slammiversary reviews & ratings",
       "p": "The latest Wrestling Observer Newsletter from Dave Meltzer has been posted with a lot to get into. Dave leads off with a look at the voicemails from both Vince McMahon and Ari Emanuel released in...",
       "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/july-6-2026-observer-newsletter-aew-forbidden-door-wwe-night-of-champions-tna-slammiversary-reviews-ratings/",
-      "t": "53m",
+      "t": "3h",
       "dt": "2026-07-03T13:36:39+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "AEW Collision lineup: ROH World Championship set for next weekend’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: ROH World Championship set for next weekend’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/03/aew-collision-lineup-roh-world-championship-set-for-next-weekends-show/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-03T13:00:21+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Shota Umino hoping to defend NJPW Global title against AEW opponents",
       "p": "When it comes to potential challengers for his IWGP Global Heavyweight Championship, Shota Umino has several AEW names in mind. Umino retained the belt over PAC at Forbidden Door and is now slated...",
       "link": "https://www.f4wonline.com/news/new-japan/shota-umino-names-aew-dream-opponents/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-03T12:56:23+00:00"
     },
     {
@@ -48,23 +88,15 @@
       "h": "AEW's Will Ospreay Hopes UK Indie Gets Involved In Future Forbidden Door Events",
       "p": "Will Ospreay feels that independent wrestling talent from the United Kingdom and Europe should be featured at Forbidden Door in years to come.",
       "link": "https://www.wrestlinginc.com/2205066/aew-njpw-forbidden-door-revpro-will-ospreay-hopes-uk-indie-involved/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-03T12:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Maya World Reflects On Match Against Mercedes Moné At Forbidden Door, Thinks She’ll Be Chasing That Feeling For Remainder Of Her Career",
-      "p": "Maya World reflects on the highlight match. The 2026 installment of AEW x NJPW Forbidden Door featured the finals of the men’s and women’s Owen Hart Cup tournament. On the women’s side, Mercedes...",
-      "link": "https://www.fightful.com/wrestling-news/maya-world-reflects-on-match-against-mercedes-mone-at-forbidden-door-thinks-shell-be-chasing-that-feeling-for-remainder-of-her-career/",
-      "t": "3h",
-      "dt": "2026-07-03T11:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite Beach Break Ticket Sales update for MJF vs Kenny Omega main event",
       "p": "AEW Dynamite Beach Break 2026 is set to take place next week on Wednesday, July 8 from The BayCare Sound in Clearwater Beach, FL. According to the latest update from WrestleTix, 2,360 tickets have...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-beach-break-ticket-sales-update-mjf-vs-kenny-omega-main-event/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-03T10:28:55+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Fight Game: AEW Forbidden Door live thoughts, Oba Femi vs. Brock Lesnar III",
       "p": "John LaRocca and I return with a brand-new Fight Game to discuss some of the most topical things going on in pro wrestling this week. You can also watch full video of the show below. We gave out...",
       "link": "https://www.f4wonline.com/podcasts/fight-game-aew-forbidden-door-live-thoughts-oba-femi-vs-brock-lesnar-iii/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-07-03T07:24:53+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Collision 7/2 Results: Athena & Maya World earn early spots in Casino Gauntlet match, Fletcher beats ELP in main event",
-      "p": "Athena and Maya World will get Wednesday's Casino Gauntlet match started at AEW Dynamite: Beach Break. The post AEW Collision 7/2 Results: Athena & Maya World earn early spots in Casino Gauntlet...",
-      "link": "https://www.postwrestling.com/2026/07/03/aew-collision-7-2-results-athena-maya-world-earn-early-spots-in-casino-gauntlet-match-fletcher-beats-elp-in-main-event/",
-      "t": "8h",
-      "dt": "2026-07-03T06:14:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Former AEW wrestler agrees that WWE needs to push Jordynne Grace",
-      "p": "Former AEW wrestler Kiera Hogan recently heaped praise on Jordynne Grace and agreed with the belief that WWE needs to push her. In a recent interview with Hitting The Turnbuckle Podcast, Hogan...",
-      "link": "https://www.f4wonline.com/news/wwe/former-aew-wrestler-agrees-that-wwe-needs-to-push-jordynne-grace/",
-      "t": "9h",
-      "dt": "2026-07-03T05:25:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION RESULTS (7/2): Fletcher vs. ELP, Julia Hart vs. Maya World and Athena vs. Rina in qualifying matches, Jay White returns to the ring with The Bang Bang Gang, Andrade vs. Brian Cage, Death Riders in action",
-      "p": "AEW COLLISION REPORT JULY 2, 2026 (recorded 7/1) SAN DIEGO, CALIF. AT VIEJAS ARENA AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Excalibur & Tony Schiavone...",
-      "link": "https://www.pwtorch.com/site/2026/07/03/aew-collision-results-7-2-fletcher-vs-elp-julia-hart-vs-maya-world-and-athena-vs-rina-in-qualifying-matches-jay-white-returns-to-the-ring-with-the-bang-bang-gang-andrade-vs-brian-cage-death/",
-      "t": "9h",
-      "dt": "2026-07-03T05:13:26+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision results (7/2): Murphy’s live review of The Rascalz vs. Bandido, Mistico, and Mascara Dorada, Andrade El Idolo vs. Brian Cage, Kyle Fletcher vs. El Phantasmo",
-      "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (7/2): Murphy’s live review of The Rascalz vs. Bandido, Mistico, and Mascara Dorada, Andrade El Idolo vs. Brian Cage, Kyle...",
-      "link": "https://prowrestling.net/site/2026/07/02/aew-collision-results-7-2-murphys-live-review-of-the-rascalz-vs-bandido-mistico-and-mascara-dorada-andrade-el-idolo-vs-brian-cage-kyle-fletcher-vs-el-phantasmo/",
-      "t": "10h",
-      "dt": "2026-07-03T04:07:46+00:00"
     }
   ]
 }

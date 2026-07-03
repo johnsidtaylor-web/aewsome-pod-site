@@ -1,22 +1,54 @@
 {
-  "updated": "2026-07-03T20:21:57.285108+00:00",
+  "updated": "2026-07-03T22:15:07.657087+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Schiavone Praises Skills Of Road Dogg & Tommy Dreamer",
+      "p": "AEW commentator Tony Schiavone praised the creative skills of both Road Dogg and Tommy Dreamer, following one joining and the other departing TNA.",
+      "link": "https://www.wrestlinginc.com/2207869/aew-tna-tony-schiavone-road-dogg-brian-james-tommy-dreamer-praises-skills/",
+      "t": "3m",
+      "dt": "2026-07-03T22:11:59+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "DDP Says He’d Step Into A WWE Or AEW Ring To Hit A Diamond Cutter, Just To Hear The Crowd Pop",
+      "p": "DDP is open to using the Diamond Cutter in WWE or AEW for a major pop. Diamond Dallas Page hasn’t been active in the wrestling ring for a long time now. He’s had a few matches here and there, but...",
+      "link": "https://www.fightful.com/wrestling-news/ddp-says-hed-step-into-a-wwe-or-aew-ring-to-hit-a-diamond-cutter-just-to-hear-the-crowd-pop/",
+      "t": "1h",
+      "dt": "2026-07-03T21:05:03+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Shayna Baszler Announced For RevPro Women’s Grand Prix",
+      "p": "Shayna Baszler is set to make her RevPro debut. Revolution Pro Wrestling announced that the former NXT Women’s Champion will be part of the eight-woman women’s grand prix set for July 25. The...",
+      "link": "https://www.fightful.com/wrestling-news/shayna-baszler-announced-for-revpro-womens-grand-prix/",
+      "t": "1h",
+      "dt": "2026-07-03T20:58:43+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Details On WWE ID Talent Pulled From Indie Show Streaming On MyAEW",
+      "p": "More details were revealed after multiple WWE ID talent were pulled from an independent show set to stream on MyAEW.",
+      "link": "https://www.wrestlinginc.com/2207837/wwe-id-aew-myaew-produce-talent-pulled-indie-show-details/",
+      "t": "1h",
+      "dt": "2026-07-03T20:22:24+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "IWGP Hvt. Champion Yota Tsuji invites AEW COO Tony Khan to first night of G1 Climax 36 in Chicago",
       "p": "IWGP Hvt. Champion Yota Tsuji has changed his mind about his feelings about AEW. Earlier this year during an interview with Tokyo Sports, Tsuji suggested boycotting the AEW x NJPW Forbidden Door...",
       "link": "https://www.pwtorch.com/site/2026/07/03/iwgp-hvt-champion-yota-tsuji-invites-aew-coo-tony-khan-to-first-night-of-g1-climax-36-in-chicago/",
-      "t": "6m",
+      "t": "1h",
       "dt": "2026-07-03T20:15:29+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Arn Anderson: Tony Khan is a ‘class act,’ treats AEW talent really well",
       "p": "Arn Anderson holds no ill will toward AEW or Tony Khan after his departure from the company in 2024. On the June Q&A edition of his Arn Show podcast, the legendary Four Horsemen member was asked...",
       "link": "https://www.f4wonline.com/news/aew/arn-anderson-praises-aew-boss-tony-khan/",
-      "t": "7m",
+      "t": "2h",
       "dt": "2026-07-03T20:14:07+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Powell’s Bonus Blog – AEW Collision thoughts on a long Thursday night episode, a giant title belt, a faction adding a new member",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s Bonus Blog – AEW Collision thoughts on a long Thursday night episode, a giant title belt, a faction adding a new member appeared first...",
       "link": "https://prowrestling.net/site/2026/07/03/powells-bonus-blog-aew-collision-thoughts-on-a-long-thursday-night-episode-a-giant-title-belt-a-faction-adding-a-new-member/",
-      "t": "54m",
+      "t": "2h",
       "dt": "2026-07-03T19:27:43+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Mark Briscoe AEW injury update | Exclusive",
       "p": "Further details on the situation are not known yet, but AEW star Mark Briscoe is dealing with a legitimate injury. Briscoe got an AEW World Championship shot on Dynamite this Wednesday but fell...",
       "link": "https://www.f4wonline.com/news/aew/mark-briscoe-aew-injury-update-exclusive/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-03T19:07:33+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Details On The Long Term Plan For MJF Vs. Kenny Omega AEW World Title Match",
       "p": "MJF vs. Kenny Omega had been in the works for months. On the 7/8 AEW Dynamite Beach Break, MJF will defend his AEW World Championship against Kenny Omega. If Omega loses this bout, he’ll never be...",
       "link": "https://www.fightful.com/wrestling-news/details-on-the-long-term-plan-for-mjf-vs-kenny-omega-aew-world-title-match/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-03T19:00:07+00:00"
     },
     {
@@ -56,31 +88,15 @@
       "h": "AEW Star Says Mark Briscoe Will Miss Time Following Dynamite Loss To MJF",
       "p": "Following his loss to MJF on \"AEW Dynamite,\" The Conglomeration believe Mark Briscoe will be out of action for some time.",
       "link": "https://www.wrestlinginc.com/2207785/aew-collision-dynamite-mark-briscoe-orange-cassidy-mjf-miss-time-loss/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-03T18:27:38+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Brett Lauderdale: AEW Has Always Been Gracious And Generous To GCW",
-      "p": "Brett Lauderdale comments on GCW’s relationship with AEW. AEW has always been gracious when it comes to letting their talent wrestle on the indie scene. One of the biggest examples of this is Jon...",
-      "link": "https://www.fightful.com/wrestling-news/brett-lauderdale-gcw-313856/",
-      "t": "2h",
-      "dt": "2026-07-03T18:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW x The Shirt Farm Collab, TNA iMPACT Highlights, More | Fight Size",
-      "p": "Here is your fight size update for Friday, July 3, 2026. – AEW has announced a limited run of merchandise with The Shirt Farm: Now Available! @aew x The Shirt Farm Collection just dropped on...",
-      "link": "https://www.fightful.com/wrestling-news/aew-tna-fight-size-314346/",
-      "t": "2h",
-      "dt": "2026-07-03T18:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "07/03 Dot Net Weekly audio show: Barnett and Powell on Sami Zayn winning the WWE Championship, WWE running shows opposite AEW events, Mike Santana, Eric Young, AEW Dynamite",
       "p": "By Jake Barnett (@jakebarnett) and... The post 07/03 Dot Net Weekly audio show: Barnett and Powell on Sami Zayn winning the WWE Championship, WWE running shows opposite AEW events, Mike Santana,...",
       "link": "https://prowrestling.net/site/2026/07/03/07-03-dot-net-weekly-audio-show-barnett-and-powell-on-sami-zayn-winning-the-wwe-championship-wwe-running-shows-opposite-aew-events-mike-santana-eric-young-aew-dynamite/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-03T17:45:11+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "ROH on HonorClub lineup: ROH Tag Team Title match from Arena Mexico headlines tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: ROH Tag Team Title match from Arena Mexico headlines tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/03/roh-on-honorclub-lineup-roh-tag-team-title-match-from-arena-mexico-headlines-tonights-show/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-03T15:30:55+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jeff Jarrett Details Friendship With Taylor Swift",
-      "p": "Jeff Jarrett cleared up some information regarding the story of Taylor Swift's role in the lives of his daughters in an interview with Chris Van Vliet.",
-      "link": "https://www.wrestlinginc.com/2207656/aew-jeff-jarrett-details-friendship-taylor-swift/",
-      "t": "4h",
-      "dt": "2026-07-03T15:24:46+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "07/03 Pruett’s AEW Collision audio review: The Rascalz vs. Bandido, Mistico, and Mascara Dorada, Andrade El Idolo vs. Brian Cage, Kyle Fletcher vs. El Phantasmo",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 07/03 Pruett’s AEW Collision audio review: The Rascalz vs. Bandido, Mistico, and Mascara Dorada, Andrade El Idolo vs. Brian Cage, Kyle...",
-      "link": "https://prowrestling.net/site/2026/07/03/07-03-pruetts-aew-collision-audio-review-the-rascalz-vs-bandido-mistico-and-mascara-dorada-andrade-el-idolo-vs-brian-cage-kyle-fletcher-vs-el-phantasmo/",
-      "t": "5h",
-      "dt": "2026-07-03T14:41:19+00:00"
     }
   ]
 }

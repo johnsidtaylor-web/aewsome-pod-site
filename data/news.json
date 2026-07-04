@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T13:55:45.315202+00:00",
+  "updated": "2026-07-04T15:20:55.467019+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -7,16 +7,56 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Calls Relationship With Former TNA Exec 'Strained'",
+      "p": "nder Jeff Jarrett has discussed his relationship with a former TNA executive, how the two butted heads, and the current state of their relationship",
+      "link": "https://www.wrestlinginc.com/2207930/aew-jeff-jarrett-calls-relationship-tna-dixie-carter-strained/",
+      "t": "5m",
+      "dt": "2026-07-04T15:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Star Ricochet Recalls Being Told He 'Ruined Wrestling' After Will Ospreay Match",
+      "p": "AEW star Ricochet recalls being told, in jest, by a current WWE tag team that he had \"ruined wrestling\" following his 2016 match with Will Ospreay",
+      "link": "https://www.wrestlinginc.com/2205954/aew-njpw-ricochet-will-ospreay-ruined-wrestling-after-match/",
+      "t": "20m",
+      "dt": "2026-07-04T15:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "WWE Hall Of Famer Kevin Nash Recalls MJF Promo That Won Him Over",
+      "p": "Kevin Nash is a big fan of AEW's MJF, with the WWE Hall of Famer recalling a memorable promo that won him over.",
+      "link": "https://www.wrestlinginc.com/2205317/wwe-aew-kevin-nash-mjf-promo-won-over/",
+      "t": "50m",
+      "dt": "2026-07-04T14:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF Says He Will Drink Fan’s Tears ‘Like A Fine Wine’ After Defeating Kenny Omega On Wednesday’s AEW Dynamite",
+      "p": "MJF discusses his upcoming AEW World Championship match with Kenny Omega on this coming week’s AEW Dynamite. On this past week’s edition of AEW Dynamite, a blockbuster AEW World Championship match...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-says-he-will-drink-fans-tears-like-a-fine-wine-after-defeating-kenny-omega-on-wednesdays-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-07-04T14:16:58+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Young Bucks Says Injured AEW Stars Are Taking It 'Step By Step",
+      "p": "AEW duo The Young Bucks have discussed the status of two stars who have been sidelined with injuries: Adam Cole and Kota Ibushi.",
+      "link": "https://www.wrestlinginc.com/2207928/young-bucks-aew-adam-cole-kota-ibushi-step/",
+      "t": "1h",
+      "dt": "2026-07-04T14:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "HOFer Jeff Jarrett 'Hates' Speculation Around Potential Sami Zayn WWE Title Loss",
       "p": "AEW's Jeff Jarrett has hit out at those calling Sami Zayn a transitional champion while also praising the new Undisputed WWE Champion's abilities.",
       "link": "https://www.wrestlinginc.com/2207922/hofer-jeff-jarrett-hates-speculation-sami-zayn-title-loss/",
-      "t": "40m",
+      "t": "2h",
       "dt": "2026-07-04T13:15:00+00:00"
     },
     {
@@ -24,23 +64,15 @@
       "h": "ROH on HonorClub results (7/3): Sammy Guevara and The Beast Mortos vs. “El Sky Team” Mistico and Mascara Dorada for the ROH Tag Team Titles from Arena Mexico",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (7/3): Sammy Guevara and The Beast Mortos vs. “El Sky Team” Mistico and Mascara Dorada for the ROH Tag Team Titles...",
       "link": "https://prowrestling.net/site/2026/07/04/roh-on-honorclub-results-7-3-sammy-guevara-and-the-beast-mortos-vs-el-sky-team-mistico-and-mascara-dorada-for-the-roh-tag-team-titles-from-arena-mexico/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-04T11:00:38+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Results (7/3): ROH Tag Title Match Headlines",
-      "p": "Ring of Honor aired the latest episode of ROH TV on July 3. The event aired on HonorClub. Full results are below. ROH TV Results (7/3) HOOK def. Nick Comoroto BEEF & The Premier Athletes (Ariya...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-7-3-roh-tag-title-match-headlines/",
-      "t": "11h",
-      "dt": "2026-07-04T02:28:57+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "WOR: AEW’s main event scene, Forbidden Door live, Oba Femi",
       "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
       "link": "https://www.f4wonline.com/podcasts/wor-aews-main-event-scene-forbidden-door-live-oba-femi/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-07-04T02:05:10+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Daily Update: CMLL breaks record, Trey Miguel, Mercedes Mone & Maya World",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-cmll-breaks-record-trey-miguel-mercedes-mone-maya-world/",
-      "t": "13h",
+      "t": "14h",
       "dt": "2026-07-04T00:24:20+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "ROH TV live results: Mistico & Mascara Dorada vs. Sammy Guevara & The Beast Mortos",
       "p": "Ring of Honor presents a special Friday night episode of ROH TV this week. The ROH World Tag Team title match from last Friday’s Arena Mexico show is set to air on tonight’s episode, with Sammy...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-mistico-mascara-dorada-vs-sammy-guevara-the-beast-mortos/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-07-03T23:05:00+00:00"
     },
     {
@@ -64,48 +96,16 @@
       "h": "AEW's Tony Schiavone Praises Skills Of Road Dogg & Tommy Dreamer",
       "p": "AEW commentator Tony Schiavone praised the creative skills of both Road Dogg and Tommy Dreamer, following one joining and the other departing TNA.",
       "link": "https://www.wrestlinginc.com/2207869/aew-tna-tony-schiavone-road-dogg-brian-james-tommy-dreamer-praises-skills/",
-      "t": "15h",
-      "dt": "2026-07-03T22:11:59+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Details On WWE ID Talent Pulled From Indie Show Streaming On MyAEW",
-      "p": "More details were revealed after multiple WWE ID talent were pulled from an independent show set to stream on MyAEW.",
-      "link": "https://www.wrestlinginc.com/2207837/wwe-id-aew-myaew-produce-talent-pulled-indie-show-details/",
       "t": "17h",
-      "dt": "2026-07-03T20:22:24+00:00"
+      "dt": "2026-07-03T22:11:59+00:00"
     },
     {
       "src": "PWTorch",
       "h": "IWGP Hvt. Champion Yota Tsuji invites AEW COO Tony Khan to first night of G1 Climax 36 in Chicago",
       "p": "IWGP Hvt. Champion Yota Tsuji has changed his mind about his feelings about AEW. Earlier this year during an interview with Tokyo Sports, Tsuji suggested boycotting the AEW x NJPW Forbidden Door...",
       "link": "https://www.pwtorch.com/site/2026/07/03/iwgp-hvt-champion-yota-tsuji-invites-aew-coo-tony-khan-to-first-night-of-g1-climax-36-in-chicago/",
-      "t": "17h",
+      "t": "19h",
       "dt": "2026-07-03T20:15:29+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Arn Anderson: Tony Khan is a ‘class act,’ treats AEW talent really well",
-      "p": "Arn Anderson holds no ill will toward AEW or Tony Khan after his departure from the company in 2024. On the June Q&A edition of his Arn Show podcast, the legendary Four Horsemen member was asked...",
-      "link": "https://www.f4wonline.com/news/aew/arn-anderson-praises-aew-boss-tony-khan/",
-      "t": "17h",
-      "dt": "2026-07-03T20:14:07+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s Bonus Blog – AEW Collision thoughts on a long Thursday night episode, a giant title belt, a faction adding a new member",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s Bonus Blog – AEW Collision thoughts on a long Thursday night episode, a giant title belt, a faction adding a new member appeared first...",
-      "link": "https://prowrestling.net/site/2026/07/03/powells-bonus-blog-aew-collision-thoughts-on-a-long-thursday-night-episode-a-giant-title-belt-a-faction-adding-a-new-member/",
-      "t": "18h",
-      "dt": "2026-07-03T19:27:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mark Briscoe AEW injury update | Exclusive",
-      "p": "Further details on the situation are not known yet, but AEW star Mark Briscoe is dealing with a legitimate injury. Briscoe got an AEW World Championship shot on Dynamite this Wednesday but fell...",
-      "link": "https://www.f4wonline.com/news/aew/mark-briscoe-aew-injury-update-exclusive/",
-      "t": "18h",
-      "dt": "2026-07-03T19:07:33+00:00"
     }
   ]
 }

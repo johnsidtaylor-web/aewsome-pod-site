@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-05T23:16:03.268068+00:00",
+  "updated": "2026-07-06T04:36:56.682658+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,10 +13,18 @@
   "items": [
     {
       "src": "PWTorch",
+      "h": "FREE PODCAST 7/5 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller & Dehnel react to return to live crowd, Malakai Black’s debut, on-site correspondent off-air happenings, live callers (174 min.)",
+      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (7-5-2021), PWTorch editor Wade Keller is joined by Joel Dehnel from PWTorch.com to discuss AEW...",
+      "link": "https://www.pwtorch.com/site/2026/07/05/free-podcast-7-5-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-dehnel-react-to-return-to-live-crowd-malakai-blacks-debut-on-site-correspondent-off-air-happenings-liv/",
+      "t": "36m",
+      "dt": "2026-07-06T04:00:41+00:00"
+    },
+    {
+      "src": "PWTorch",
       "h": "AEW COLLISION HITS & MISSES (7/2/26): AEW doubles down on Maya World, Jay White returns in style, and Rina makes a lasting first impression",
       "p": "To help add context, my “Hits” are ordered from best to worst. This week’s Collision focused less on major surprises and more on strengthening the stories AEW is counting on heading into...",
       "link": "https://www.pwtorch.com/site/2026/07/05/aew-collision-hits-misses-7-2-26-aew-doubles-down-on-maya-world-jay-white-returns-in-style-and-rina-makes-a-lasting-first-impression/",
-      "t": "28m",
+      "t": "5h",
       "dt": "2026-07-05T22:47:20+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "RevPro Live In London 109 Results (7/5): Bandido, Kay Lee Ray Compete",
       "p": "Revolution Pro Wrestling held its RevPro Live in London 109 event on July 5 from Porchester Hall in London, England. The event aired on RevProOnDemand. Full results are below. RevPro Live In...",
       "link": "https://www.fightful.com/wrestling-news/revpro-live-in-london-109-results-7-5-bandido-kay-lee-ray-compete/",
-      "t": "49m",
+      "t": "6h",
       "dt": "2026-07-05T22:26:10+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "MJF Calls Out Sheamus On Social Media: ‘Bring That Smoke O’Shaunessy’",
       "p": "MJF is calling out Sheamus on social media. Fightful Select recently reported that Sheamus is set to leave WWE as his contract with the company is expiring. After this news was made public, AEW...",
       "link": "https://www.fightful.com/wrestling-news/mjf-calls-out-sheamus-on-social-media-bring-that-smoke-oshaunessy/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-07-05T21:19:46+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Will Ospreay Identifies His Standout Moments In AEW",
       "p": "Former International Champion Will Ospreay pinpoints his two most standout moments from his AEW run so far.",
       "link": "https://www.wrestlinginc.com/2207721/aew-will-ospreay-standout-moments/",
-      "t": "2h",
+      "t": "8h",
       "dt": "2026-07-05T20:30:00+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Ex-WWE Wrestler Enzo Amore Opens Up About Friendship With Departing AEW Star Big Bill",
       "p": "Former WWE star Enzo Amore describes the relationship he has with AEW's Big Bill (Big Cass) today.",
       "link": "https://www.wrestlinginc.com/2207703/wwe-enzo-amore-friendship-aew-big-bill/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-07-05T20:00:00+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW's Tony Schiavone On Sami Zayn WWE Title Win: 'Why Not?'",
       "p": "AEW broadcaster Tony Schiavone weighs in on Sami Zayn's surprise Undisputed WWE Title win at Night of Champions.",
       "link": "https://www.wrestlinginc.com/2208086/aew-tony-schiavone-sami-zayn-wwe-title-win-why-not/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-07-05T17:40:48+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Will Ospreay Understands Criticism Over Viral Ricochet Match But Wouldn't Change It",
       "p": "There are little things that Will Ospreay would change about his classic NJPW match with Ricochet, but wouldn't change the match itself.",
       "link": "https://www.wrestlinginc.com/2207668/aew-njpw-will-ospreay-ricochet-understands-criticism-viral-match-wouldnt-change/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-07-05T17:30:00+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Volador Jr. Beats Former ROH Star For CMLL World Historic Middleweight Title",
       "p": "The reign of a former ROH star is no more as Volador Jr. is the brand new CMLL World Historic Middleweight Champion.",
       "link": "https://www.wrestlinginc.com/2208072/volador-jr-former-roh-star-flip-gordon-cmll-world-historic-middleweight-title/",
-      "t": "6h",
+      "t": "12h",
       "dt": "2026-07-05T16:33:15+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Will Ospreay hopes people notice Skye Blue’s efforts",
       "p": "Will Ospreay has praised AEW’s Skye Blue for the efforts she has put into her wrestling. While signed to AEW since 2021, Skye Blue has also appeared for multiple independent promotions during this...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-hopes-people-notice-skye-blues-efforts/",
-      "t": "20h",
+      "t": "1d",
       "dt": "2026-07-05T03:03:36+00:00"
     },
     {
@@ -98,14 +106,6 @@
       "link": "https://www.f4wonline.com/news/aew/update-on-aew-x-njpw-forbidden-door-pay-per-view-buys/",
       "t": "1d",
       "dt": "2026-07-04T18:05:27+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 7/4 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner discuss Omega vs. MJF stipulations, Ospreay joins Death Riders, FD review, more (93 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review AEW Dynamite and Collision from San Diego, CA. They discuss the...",
-      "link": "https://www.pwtorch.com/site/2026/07/04/free-podcast-7-4-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-discuss-omega-vs-mjf-stipulations-ospreay-joins-death-riders-fd-review-more-93-min/",
-      "t": "1d",
-      "dt": "2026-07-04T18:00:21+00:00"
     }
   ]
 }

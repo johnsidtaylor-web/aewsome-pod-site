@@ -1,22 +1,46 @@
 {
-  "updated": "2026-07-06T09:09:42.438457+00:00",
+  "updated": "2026-07-06T12:57:44.632545+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (4 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Allie Discusses Two-Year Break From Wrestling, Decision To Sign With TNA",
+      "p": "Former AEW star Allie is back in TNA, following a hiatus from wrestling.",
+      "link": "https://www.wrestlinginc.com/2207912/tna-allie-two-year-breaking-decision-sign/",
+      "t": "27m",
+      "dt": "2026-07-06T12:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW All In 2026 Ticket Sales update for Wembley Stadium event",
+      "p": "AEW All In London 2026 takes place on Sunday, August 30th from Wembley Stadium in London, England. According to the latest update from WrestleTix, 26,915 tickets have been distributed for the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-ticket-sales-update-wembley-stadium-event-07-06-2026/",
+      "t": "2h",
+      "dt": "2026-07-06T10:39:28+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Beach Break 2026 Ticket Sales update",
+      "p": "AEW Dynamite Beach Break 2026 is set to take place this week from The BayCare Sound in Clearwater Beach, FL. According to the latest report from WrestleTix, 2,602 tickets have been distributed for...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-beach-break-2026-ticket-sales-update-07-06-2026/",
+      "t": "3h",
+      "dt": "2026-07-06T09:31:04+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 7/5 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller & Dehnel react to return to live crowd, Malakai Black’s debut, on-site correspondent off-air happenings, live callers (174 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (7-5-2021), PWTorch editor Wade Keller is joined by Joel Dehnel from PWTorch.com to discuss AEW...",
       "link": "https://www.pwtorch.com/site/2026/07/05/free-podcast-7-5-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-dehnel-react-to-return-to-live-crowd-malakai-blacks-debut-on-site-correspondent-off-air-happenings-liv/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-06T04:00:41+00:00"
     },
     {
@@ -24,31 +48,15 @@
       "h": "AEW COLLISION HITS & MISSES (7/2/26): AEW doubles down on Maya World, Jay White returns in style, and Rina makes a lasting first impression",
       "p": "To help add context, my “Hits” are ordered from best to worst. This week’s Collision focused less on major surprises and more on strengthening the stories AEW is counting on heading into...",
       "link": "https://www.pwtorch.com/site/2026/07/05/aew-collision-hits-misses-7-2-26-aew-doubles-down-on-maya-world-jay-white-returns-in-style-and-rina-makes-a-lasting-first-impression/",
-      "t": "10h",
+      "t": "14h",
       "dt": "2026-07-05T22:47:20+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "RevPro Live In London 109 Results (7/5): Bandido, Kay Lee Ray Compete",
-      "p": "Revolution Pro Wrestling held its RevPro Live in London 109 event on July 5 from Porchester Hall in London, England. The event aired on RevProOnDemand. Full results are below. RevPro Live In...",
-      "link": "https://www.fightful.com/wrestling-news/revpro-live-in-london-109-results-7-5-bandido-kay-lee-ray-compete/",
-      "t": "10h",
-      "dt": "2026-07-05T22:26:10+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MJF Calls Out Sheamus On Social Media: ‘Bring That Smoke O’Shaunessy’",
-      "p": "MJF is calling out Sheamus on social media. Fightful Select recently reported that Sheamus is set to leave WWE as his contract with the company is expiring. After this news was made public, AEW...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-calls-out-sheamus-on-social-media-bring-that-smoke-oshaunessy/",
-      "t": "11h",
-      "dt": "2026-07-05T21:19:46+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Will Ospreay Identifies His Standout Moments In AEW",
       "p": "Former International Champion Will Ospreay pinpoints his two most standout moments from his AEW run so far.",
       "link": "https://www.wrestlinginc.com/2207721/aew-will-ospreay-standout-moments/",
-      "t": "12h",
+      "t": "16h",
       "dt": "2026-07-05T20:30:00+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Ex-WWE Wrestler Enzo Amore Opens Up About Friendship With Departing AEW Star Big Bill",
       "p": "Former WWE star Enzo Amore describes the relationship he has with AEW's Big Bill (Big Cass) today.",
       "link": "https://www.wrestlinginc.com/2207703/wwe-enzo-amore-friendship-aew-big-bill/",
-      "t": "13h",
+      "t": "16h",
       "dt": "2026-07-05T20:00:00+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "AEW's Tony Schiavone On Sami Zayn WWE Title Win: 'Why Not?'",
       "p": "AEW broadcaster Tony Schiavone weighs in on Sami Zayn's surprise Undisputed WWE Title win at Night of Champions.",
       "link": "https://www.wrestlinginc.com/2208086/aew-tony-schiavone-sami-zayn-wwe-title-win-why-not/",
-      "t": "15h",
+      "t": "19h",
       "dt": "2026-07-05T17:40:48+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Will Ospreay Understands Criticism Over Viral Ricochet Match But Wouldn't Change It",
       "p": "There are little things that Will Ospreay would change about his classic NJPW match with Ricochet, but wouldn't change the match itself.",
       "link": "https://www.wrestlinginc.com/2207668/aew-njpw-will-ospreay-ricochet-understands-criticism-viral-match-wouldnt-change/",
-      "t": "15h",
+      "t": "19h",
       "dt": "2026-07-05T17:30:00+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Volador Jr. Beats Former ROH Star For CMLL World Historic Middleweight Title",
       "p": "The reign of a former ROH star is no more as Volador Jr. is the brand new CMLL World Historic Middleweight Champion.",
       "link": "https://www.wrestlinginc.com/2208072/volador-jr-former-roh-star-flip-gordon-cmll-world-historic-middleweight-title/",
-      "t": "16h",
+      "t": "20h",
       "dt": "2026-07-05T16:33:15+00:00"
     },
     {
@@ -98,14 +106,6 @@
       "link": "https://www.f4wonline.com/news/aew/every-will-ospreay-match-ranked-5-stars-dave-meltzer/",
       "t": "1d",
       "dt": "2026-07-04T19:24:46+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on AEW x NJPW Forbidden Door pay-per-view buys",
-      "p": "An update is available on how AEW x NJPW Forbidden Door has performed on pay-per-view. In the July 6, 2026 edition of the Wrestling Observer Newsletter, Dave Meltzer wrote that he does not...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-aew-x-njpw-forbidden-door-pay-per-view-buys/",
-      "t": "1d",
-      "dt": "2026-07-04T18:05:27+00:00"
     }
   ]
 }

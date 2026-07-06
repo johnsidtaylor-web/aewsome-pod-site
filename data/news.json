@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-06T20:59:11.601809+00:00",
+  "updated": "2026-07-06T22:35:45.423674+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Flip Gordon Calls 2020 ROH Roster ‘Underrated,’ Says He Isn’t Surprised Bandido, Rush, Willow Nightingale Are Thriving",
+      "p": "Flip Gordon says he isn’t surprised stars such as Bandido, Rush, and Willow Nightingale are thriving in wrestling today. Before signing with CMLL in 2023, Flip Gordon also worked for Ring of...",
+      "link": "https://www.fightful.com/wrestling-news/flip-gordon-calls-2020-roh-roster-underrated-says-he-isnt-surprised-bandido-rush-willow-nightingale-are-thriving/",
+      "t": "35m",
+      "dt": "2026-07-06T22:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Ciampa and Jericho should be embarrassed, Keny Omega has become like a good old-ish country song",
+      "p": "Welcome everyone! It felt like AEW sure did not care about Forbidden Door and was ready to put it in the rear view mirror. Maybe that should tell TK something because I think a chunk [...]",
+      "link": "https://www.pwtorch.com/site/2026/07/06/aew-rising-and-fading-stars-ciampa-and-jericho-should-be-embarrassed-keny-omega-has-become-like-a-good-old-ish-country-song/",
+      "t": "1h",
+      "dt": "2026-07-06T21:19:44+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "PARKS’S TAKE: Lio Rush is somehow, someway, maybe making his gimmick work in AEW, isn’t he?",
       "p": "It’s hard to believe that one of the biggest pops on TV and at the Forbidden Door pay-per-view was for Lio Rush’s new Gollum-like character. In some ways, this character is everything AEW isn’t....",
       "link": "https://www.pwtorch.com/site/2026/07/06/parkss-take-lio-rush-is-somehow-someway-maybe-making-his-gimmick-work-in-aew-isnt-he/",
-      "t": "7m",
+      "t": "1h",
       "dt": "2026-07-06T20:51:28+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Tony Khan Confirms Callum Newman Was Supposed To Be Part Of AEW x NJPW Forbidden Door",
       "p": "Callum Newman and Tomohiro Ishii were originally scheduled for Forbidden Door. AEW x NJPW Forbidden Door underwent a number of changes due to injuries, including two NJPW wrestlers who were unable...",
       "link": "https://www.fightful.com/wrestling-news/tony-khan-confirms-callum-newman-was-supposed-to-be-part-of-aew-x-njpw-forbidden-door/",
-      "t": "38m",
+      "t": "2h",
       "dt": "2026-07-06T20:21:04+00:00"
     },
     {
@@ -32,23 +48,15 @@
       "h": "POST NEWS: AEW All Out, Road to G1 Climax review & Brie Bella on match length",
       "p": "John Pollock covers the news from Monday, including the All Out announcement, Road to G1 Climax review, and Brie Bella on her match length. The post POST NEWS: AEW All Out, Road to G1 Climax...",
       "link": "https://www.postwrestling.com/2026/07/06/post-news-aew-all-out-road-to-g1-climax-review-brie-bella-on-match-length/",
-      "t": "52m",
+      "t": "2h",
       "dt": "2026-07-06T20:06:46+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Says Hangman Page Presented ‘Never Challenging For World Title’ Stipulation, Admits He Had Reservations",
-      "p": "At AEW Revolution, Hangman Page put his future on the line as he took on MJF for the AEW World Title in a Texas Deathmatch. If Hangman lost, he could never challenge fr the AEW World Title again....",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-hangman-page-presented-never-challenging-for-world-title-stipulation-admits-he-had-reservations/",
-      "t": "1h",
-      "dt": "2026-07-06T19:52:29+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW All Out pay-per-view date and location announced",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out pay-per-view date and location announced appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/06/aew-all-out-pay-per-view-date-and-location-announced/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-06T19:45:51+00:00"
     },
     {
@@ -56,23 +64,15 @@
       "h": "Tony Khan on Cody Rhodes vowing never to challenge for AEW title: “It was Cody’s idea and I did have some reservations”",
       "p": "Tony Khan spoke with Q101’s Case Lowe about the origin of the stipulation, first used by Cody Rhodes in 2019 when challenging Chris Jericho. The post Tony Khan on Cody Rhodes vowing never to...",
       "link": "https://www.postwrestling.com/2026/07/06/tony-khan-on-cody-rhodes-vowing-never-to-challenge-for-aew-title-it-was-codys-idea-and-i-did-have-some-reservations/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-06T18:41:04+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Says He Wanted Knockout Brothers And Aaron Wolf For Forbidden Door",
-      "p": "Fans criticized AEW x NJPW Forbidden Door for its lack of NJPW talent, noting that there were no New Japan Pro-Wrestling wrestlers in the top matches on the show. The highest profile NJPW match...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-he-wanted-knockout-brothers-and-aaron-wolf-for-forbidden-door/",
-      "t": "2h",
-      "dt": "2026-07-06T18:07:20+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Tony Khan names three NJPW wrestlers he’d like to see make AEW debut",
       "p": "Tony Khan has a few specific NJPW names in mind that he’d like to see make their AEW debuts. While speaking with Q101 Radio in Chicago, Khan said he’s “very interested” in bringing NJPW rookie...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-three-njpw-wrestlers-wants-aew-debut/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-06T17:36:32+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "AEW Announces Date & Location For All Out 2026",
       "p": "AEW will follow a busy summer of big shows with their annual ALL OUT pay-per-view this fall.",
       "link": "https://www.wrestlinginc.com/2208801/aew-all-out-2026-date-location-chicago-illinois-now-arena-september-26/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-06T17:09:20+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "AEW returning to NOW Arena for All Out in September",
       "p": "AEW is returning to Illinois for All Out this September. The post AEW returning to NOW Arena for All Out in September appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT NJPW.",
       "link": "https://www.postwrestling.com/2026/07/06/aew-returning-to-now-arena-for-all-out-in-september/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-06T17:00:42+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "Bully Ray Says AEW Dynamite Backstage Segment Was Among The Best He's Ever Seen",
       "p": "Hall of Famer Bully Ray says this segment on last week's \"AEW Dynamite\" was the best he has ever seen.",
       "link": "https://www.wrestlinginc.com/2208786/aew-dynamite-bully-ray-will-ospreay-jon-moxley-death-riders-backstage-segment-best-ever-seen/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-06T16:58:18+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW All Out 2026 heading back to Chicago area",
       "p": "This September, AEW is bringing its All Out pay-per-view back to the Chicago area. Tony Khan announced today that AEW All Out 2026 will take place from NOW Arena in Hoffman Estates, Illinois on...",
       "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-heading-back-to-chicago-area/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-06T16:35:19+00:00"
     }
   ]

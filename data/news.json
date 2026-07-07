@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-07T17:25:21.289876+00:00",
+  "updated": "2026-07-07T20:11:49.760375+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,43 +12,83 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Tony Khan: Cody Rhodes Felt Strongly About Never Challenging For AEW World Title Again, I Had Reservations",
+      "p": "In the lead-up to AEW Full Gear 2019, Cody Rhodes put his future on the line, stating that if he could not beat Chris Jericho, he would never challenge for the AEW World Title again. Cody did not...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-cody-rhodes-felt-strongly-about-never-challenging-for-aew-world-title-again-i-had-reservations/",
+      "t": "16m",
+      "dt": "2026-07-07T19:55:19+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW CEO Tony Khan Confirms NJPW's Callum Newman Was Supposed To Work Forbidden Door",
+      "p": "AEW CEO Tony Khan confirms that New Japan Pro Wrestling star Callum Newman, along with his United Empire stablemates, were supposed to work Forbidden Door",
+      "link": "https://www.wrestlinginc.com/2209921/aew-tony-khan-njpw-callum-newman-forbidden-door/",
+      "t": "1h",
+      "dt": "2026-07-07T18:56:54+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Gabe Kidd Wins Title In NJPW, Spits In President Hiroshi Tanahashi's Face",
+      "p": "Gabe Kidd has gold around his waist in NJPW once again, and he even spat in Hiroshi Tanahashi's face while doing it.",
+      "link": "https://www.wrestlinginc.com/2209885/aew-njpw-iwgp-global-heavyweight-championship-gabe-kidd-shota-umino-hiroshi-tanahashi-wins-spits-face/",
+      "t": "1h",
+      "dt": "2026-07-07T18:36:58+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan Explains Rationale Behind Spacing Out All In And All Out PPVs In 2026",
+      "p": "AEW ALL OUT is returning to Chicago in late September instead of running the traditional Labor Day weekend it had for several years.",
+      "link": "https://www.wrestlinginc.com/2209881/aew-tony-khan-all-in-out-ppvs-spacing-2026/",
+      "t": "1h",
+      "dt": "2026-07-07T18:34:09+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star takes subtle dig at CM Punk’s Undisputed WWE Title victory",
+      "p": "MJF appeared to take a subtle jab at CM Punk’s Undisputed WWE Title win in a deleted social media post. Many X users shared a screenshot of MJF’s now deleted Instagram story of Hulk Hogan’s WWE...",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-takes-subtle-dig-at-cm-punks-undisputed-wwe-title-victory/",
+      "t": "2h",
+      "dt": "2026-07-07T17:54:44+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "‘Watch AEW’ channel added to new streaming service",
+      "p": "AEW has added a new way for fans to watch its free “Watch AEW” channel. The promotion sent out an announcement today stating that Watch AEW is now available on The Roku Channel, a free streaming...",
+      "link": "https://www.f4wonline.com/news/aew/watch-aew-channel-added-to-new-streaming-service/",
+      "t": "2h",
+      "dt": "2026-07-07T17:50:32+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Update On Jack Perry's AEW Contract Status As Current Deal Nears Expiration",
+      "p": "\"Jungle\" Jack Perry hasn't wrestled on AEW television since the June 24 episode of \"Dynamite\". He's been in contract negotiations for several weeks.",
+      "link": "https://www.wrestlinginc.com/2209803/jack-perry-aew-contract-status-deal-nears-expiration/",
+      "t": "2h",
+      "dt": "2026-07-07T17:38:34+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "WBD, AEW, and Twitch teaming up for AEW’s Beach Break",
       "p": "By Jason Powell, ProWrestling.net Editor... The post WBD, AEW, and Twitch teaming up for AEW’s Beach Break appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/07/wbd-aew-and-twitch-teaming-up-for-aews-beach-break/",
-      "t": "22m",
+      "t": "3h",
       "dt": "2026-07-07T17:02:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW FAST Channel Officially Launches On Roku",
-      "p": "The AEW FAST Channel has officially launched on Roku. From All Elite Wrestling: WatchAEW FAST Channel Now Available on The Roku Channel Roku Latest Streaming Platform To Carry WatchAEW FAST...",
-      "link": "https://www.fightful.com/wrestling-news/aew-fast-channel-officially-launches-on-roku/",
-      "t": "41m",
-      "dt": "2026-07-07T16:44:04+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW & WBD Partnering With Twitch For Dynamite Beach Break Livestreams",
       "p": "AEW and Warner Brothers Discovery announce they have partnered with internet streamer Twitch for livestreams before and during AEW Dynamite: Beach Break",
       "link": "https://www.wrestlinginc.com/2209699/aew-dynamite-beach-break-warner-bros-discovery-wbd-twitch-partnering-livestreams/",
-      "t": "51m",
+      "t": "3h",
       "dt": "2026-07-07T16:34:01+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Jeff Jarrett Comments On His Absence From The Ring In AEW",
-      "p": "Jeff Jarrett comments on his absence from AEW in-ring action. As of publish time, Jarrett hasn’t wrestled for the promotion since January 2025, when he was defeated by Claudio Castagnoli in a...",
-      "link": "https://www.fightful.com/wrestling-news/jeff-jarrett-aew-314888/",
-      "t": "54m",
-      "dt": "2026-07-07T16:30:32+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW’s fast channel now available on The Roku Channel",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW’s fast channel now available on The Roku Channel appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/07/aews-fast-channel-now-available-on-the-roku-channel/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-07T16:23:14+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW partnering with Twitch for exclusive Beach Break pre-show",
       "p": "AEW and Warner Bros. Discovery are partnering up with Twitch for an exclusive Beach Break pre-show. Prior to this Wednesday’s Beach Break edition of Dynamite from Clearwater, Florida, there will...",
       "link": "https://www.f4wonline.com/news/aew/aew-partnering-with-twitch-for-exclusive-beach-break-pre-show/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-07T15:22:23+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Maya World Has Eyes On ROH Champion",
       "p": "Maya World has been on a tear in the ring after suffering a huge loss outside of it. She has a new goal after AEW's Owen Hart Foundation Cup tournament.",
       "link": "https://www.wrestlinginc.com/2209583/maya-world-eyes-roh-champion-athena/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-07T15:05:59+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jack Perry AEW contract update | Exclusive",
-      "p": "With his contract coming up soon, Jack Perry has not signed a new deal with AEW yet. Our Bryan Alvarez reports that, as of today, Perry still has not re-signed with AEW. His deal is up “very...",
-      "link": "https://www.f4wonline.com/news/aew/jack-perry-aew-contract-update-exclusive/",
-      "t": "2h",
-      "dt": "2026-07-07T15:05:10+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Chris Jericho's Father Helped Hide Him For Surprise AEW Return",
-      "p": "Chris Jericho has detailed the great lengths he went to in order to keep his AEW return a surprise, with his father also playing a role.",
-      "link": "https://www.wrestlinginc.com/2209367/chris-jericho-father-helped-hide-surprise-aew-return/",
-      "t": "2h",
-      "dt": "2026-07-07T15:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Brian Cage Details Goals In And Out Of AEW",
-      "p": "Brian Cage could be considered an AEW veteran at this point, but \"The Machine\" still has goals and aspirations for his AEW career.",
-      "link": "https://www.wrestlinginc.com/2208026/brian-cage-details-goals-in-out-aew/",
-      "t": "4h",
-      "dt": "2026-07-07T12:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Beach Break 2026 Ticket Sales update with MJF vs Kenny Omega in the main event",
-      "p": "AEW Dynamite Beach Break 2026 is set to take place tomorrow night from The BayCare Sound in Clearwater Beach, FL. According to the latest report from WrestleTix, 2,686 tickets have been...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-beach-break-2026-ticket-sales-update-07-07-2026/",
-      "t": "6h",
-      "dt": "2026-07-07T10:26:11+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan explains the boost in AEW world title matches on free TV",
-      "p": "In prior years, the All Elite Wrestling World Championship was defended mostly on pay per views. This year, there have been a lot more matches on free television shows. Why the change? AEW CEO...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-explains-the-boost-in-aew-world-title-matches-on-free-tv/",
-      "t": "14h",
-      "dt": "2026-07-07T03:07:17+00:00"
     }
   ]
 }

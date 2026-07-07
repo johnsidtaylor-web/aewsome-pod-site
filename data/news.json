@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-07T12:08:33.117008+00:00",
+  "updated": "2026-07-07T15:11:46.980275+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "WBD, AEW And Twitch Announce Creator Collaboration For AEW Dynamite Beach Break",
+      "p": "AEW, WBD and Twitch are teaming up for Dynamite Beach Break. From All Elite Wrestling: WBD, AEW and Twitch Team Up for First-of-Its-Kind Creator Experience at AEW Dynamite: Beach Break this...",
+      "link": "https://www.fightful.com/wrestling-news/wbd-aew-and-twitch-announce-creator-collaboration-for-aew-dynamite-beach-break/",
+      "t": "4m",
+      "dt": "2026-07-07T15:07:37+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Maya World Has Eyes On ROH Champion",
+      "p": "Maya World has been on a tear in the ring after suffering a huge loss outside of it. She has a new goal after AEW's Owen Hart Foundation Cup tournament.",
+      "link": "https://www.wrestlinginc.com/2209583/maya-world-eyes-roh-champion-athena/",
+      "t": "5m",
+      "dt": "2026-07-07T15:05:59+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jack Perry AEW contract update | Exclusive",
+      "p": "With his contract coming up soon, Jack Perry has not signed a new deal with AEW yet. Our Bryan Alvarez reports that, as of today, Perry still has not re-signed with AEW. His deal is up “very...",
+      "link": "https://www.f4wonline.com/news/aew/jack-perry-aew-contract-update-exclusive/",
+      "t": "6m",
+      "dt": "2026-07-07T15:05:10+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Chris Jericho's Father Helped Hide Him For Surprise AEW Return",
+      "p": "Chris Jericho has detailed the great lengths he went to in order to keep his AEW return a surprise, with his father also playing a role.",
+      "link": "https://www.wrestlinginc.com/2209367/chris-jericho-father-helped-hide-surprise-aew-return/",
+      "t": "11m",
+      "dt": "2026-07-07T15:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Stu Grayson Still Believes Dark Order Could Be The Bullet Club Of AEW",
+      "p": "Stu Grayson discusses Dark Order and working with Brodie Lee as part of the faction, also noting that the stable could be on Bullet Club’s level. Dark Order is a faction that has depth in the...",
+      "link": "https://www.fightful.com/wrestling-news/stu-grayson-still-believes-dark-order-could-be-the-bullet-club-of-aew/",
+      "t": "1h",
+      "dt": "2026-07-07T13:47:37+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Brian Cage Details Goals In And Out Of AEW",
+      "p": "Brian Cage could be considered an AEW veteran at this point, but \"The Machine\" still has goals and aspirations for his AEW career.",
+      "link": "https://www.wrestlinginc.com/2208026/brian-cage-details-goals-in-out-aew/",
+      "t": "2h",
+      "dt": "2026-07-07T12:30:00+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite Beach Break 2026 Ticket Sales update with MJF vs Kenny Omega in the main event",
       "p": "AEW Dynamite Beach Break 2026 is set to take place tomorrow night from The BayCare Sound in Clearwater Beach, FL. According to the latest report from WrestleTix, 2,686 tickets have been...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-beach-break-2026-ticket-sales-update-07-07-2026/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-07T10:26:11+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Tony Khan explains the boost in AEW world title matches on free TV",
       "p": "In prior years, the All Elite Wrestling World Championship was defended mostly on pay per views. This year, there have been a lot more matches on free television shows. Why the change? AEW CEO...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-explains-the-boost-in-aew-world-title-matches-on-free-tv/",
-      "t": "9h",
+      "t": "12h",
       "dt": "2026-07-07T03:07:17+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "Further details emerge on Sheamus’ WWE contract status, potential AEW interest",
       "p": "News broke on Sunday that Sheamus was preparing to leave WWE after nearly 20 years with the company and on Monday, more is being learned about the details of his contract, when his departure might...",
       "link": "https://www.f4wonline.com/news/wwe/sheamus-wwe-contract-details-aew-interest/",
-      "t": "9h",
+      "t": "13h",
       "dt": "2026-07-07T02:10:45+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "WWE HOFer Diamond Dallas Page Says AEW Champion Takes Things 'Too Far' Sometimes",
       "p": "WWE Hall of Famer Diamond Dallas Page is a fan of a current AEW champion, but he thinks they do go too far sometimes.",
       "link": "https://www.wrestlinginc.com/2208025/diamond-dallas-aew-champion-mjf-too-far/",
-      "t": "11h",
+      "t": "14h",
       "dt": "2026-07-07T01:00:00+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "AEW Dynamite Viewership & Ratings Report, 7/1/2026",
       "p": "\"AEW Dynamite\" saw a slight increase in viewership for its July 1 episode, the show featuring fall-out from AEW x NJPW Forbidden Door.",
       "link": "https://www.wrestlinginc.com/2209252/aew-dynamite-viewership-ratings-report-july-1-2026/",
-      "t": "11h",
+      "t": "14h",
       "dt": "2026-07-07T00:44:58+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "AEW Dynamite viewership up & 18-49 rating down for Forbidden Door fallout show",
       "p": "This past Wednesday’s AEW Dynamite averaged 634,000 viewers on TBS, up 2.9% from the previous week. It’s the second largest audience for the show since June 3rd. Dynamite averaged a 0.09 rating in...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-viewership-up-18-49-rating-down/",
-      "t": "11h",
-      "dt": "2026-07-07T00:29:18+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating: How did the Forbidden Door fallout show hold up against Team USA’s match in the FIFA World Cup?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the Forbidden Door fallout show hold up against Team USA’s match in the FIFA World Cup? appeared first on Pro...",
-      "link": "https://prowrestling.net/site/2026/07/06/aew-dynamite-rating-how-did-the-forbidden-door-fallout-show-hold-up-against-team-usas-match-in-the-fifa-world-cup/",
-      "t": "12h",
-      "dt": "2026-07-06T23:20:10+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Star Darby Allin Shares Closer Look At 'Sketchy' Forbidden Door Moment",
-      "p": "Darby Allin recently shared a video to Instagram of a brutal spot at AEW x NJPW Forbidden Door that he called \"sketchy.\"",
-      "link": "https://www.wrestlinginc.com/2209228/aew-x-njpw-forbidden-door-2026-darby-allin-closer-look-sketchy-moment/",
-      "t": "12h",
-      "dt": "2026-07-06T23:13:36+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Biggest Winners And Losers Of The Week — 7/6/2026",
-      "p": "From new AEW TBS Champion Hikaru Shida to newly-unemployed Sheamus, here are your WINC winners and losers for the week of 7/6/2026!",
-      "link": "https://www.wrestlinginc.com/2209203/biggest-winners-losers-week-july-6-2026/",
-      "t": "13h",
-      "dt": "2026-07-06T22:41:33+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: Ciampa and Jericho should be embarrassed, Keny Omega has become like a good old-ish country song",
-      "p": "Welcome everyone! It felt like AEW sure did not care about Forbidden Door and was ready to put it in the rear view mirror. Maybe that should tell TK something because I think a chunk [...]",
-      "link": "https://www.pwtorch.com/site/2026/07/06/aew-rising-and-fading-stars-ciampa-and-jericho-should-be-embarrassed-keny-omega-has-become-like-a-good-old-ish-country-song/",
       "t": "14h",
-      "dt": "2026-07-06T21:19:44+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "PARKS’S TAKE: Lio Rush is somehow, someway, maybe making his gimmick work in AEW, isn’t he?",
-      "p": "It’s hard to believe that one of the biggest pops on TV and at the Forbidden Door pay-per-view was for Lio Rush’s new Gollum-like character. In some ways, this character is everything AEW isn’t....",
-      "link": "https://www.pwtorch.com/site/2026/07/06/parkss-take-lio-rush-is-somehow-someway-maybe-making-his-gimmick-work-in-aew-isnt-he/",
-      "t": "15h",
-      "dt": "2026-07-06T20:51:28+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: AEW All Out, Road to G1 Climax review & Brie Bella on match length",
-      "p": "John Pollock covers the news from Monday, including the All Out announcement, Road to G1 Climax review, and Brie Bella on her match length. The post POST NEWS: AEW All Out, Road to G1 Climax...",
-      "link": "https://www.postwrestling.com/2026/07/06/post-news-aew-all-out-road-to-g1-climax-review-brie-bella-on-match-length/",
-      "t": "16h",
-      "dt": "2026-07-06T20:06:46+00:00"
+      "dt": "2026-07-07T00:29:18+00:00"
     }
   ]
 }

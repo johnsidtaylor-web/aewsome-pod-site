@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T20:36:49.731146+00:00",
+  "updated": "2026-07-08T22:15:48.224631+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -7,16 +7,56 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "AEW FEUD TRACKER: Andrade has enough of Don Callis Family, Owen Cup Finals recap, Thekla continues to rise, Ciampa-Jericho",
+      "p": "Tonight is Beach Break which has turned into one of the biggest Dynamites of the year. Two huge title matches. A Casino Gauntlet match. It’s time to grab a cold beverage of your choice because [...]",
+      "link": "https://www.pwtorch.com/site/2026/07/08/aew-feud-tracker-andrade-has-enough-of-don-callis-family-owen-cup-finals-recap-thekla-continues-to-rise/",
+      "t": "4m",
+      "dt": "2026-07-08T22:11:16+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Schiavone Comments On Sami Zayn Losing WWE Championship To CM Punk On Raw",
+      "p": "AEW announcer Tony Schiavone comments on Sami Zayn losing the WWE Championship to CM Punk on Raw, and why he feels Zayn's title reign was so short",
+      "link": "https://www.wrestlinginc.com/2211076/aew-tony-schiavone-sami-zayn-cm-punk-wwe-championship-raw/",
+      "t": "12m",
+      "dt": "2026-07-08T22:02:46+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jacques Rougeau Says AEW Will Pay Tribute To His Family At AEW Redemption",
+      "p": "The Rougeau family will be honored at AEW Redemption. Speaking with Bill Apter, Jacques Rougeau said that AEW will honor his family when the company comes to Montreal. “AEW is coming to do a...",
+      "link": "https://www.fightful.com/wrestling-news/jacques-rougeau-says-aew-will-pay-tribute-to-his-family-at-aew-redemption/",
+      "t": "34m",
+      "dt": "2026-07-08T21:41:02+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Schiavone Recalls Being On Commentary For Hulk Hogan's WCW Heel Turn",
+      "p": "AEW announcer Tony Schiavone recalls being on commentary for Hulk Hogan's WCW heel turn, and again explains that his famous line from the show was adlibbed",
+      "link": "https://www.wrestlinginc.com/2211035/aew-tony-schiavone-commentary-hulk-hogan-wcw-heel-turn/",
+      "t": "56m",
+      "dt": "2026-07-08T21:19:05+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW All In 2026 ticket update for Wembley Stadium",
+      "p": "An update is available regarding how many tickets have been distributed for AEW All In 2026. According to WrestleTix, 28,107 tickets have been distributed for the event as of Wednesday afternoon....",
+      "link": "https://www.f4wonline.com/uncategorized/aew-all-in-2026-ticket-update-for-wembley-stadium/",
+      "t": "1h",
+      "dt": "2026-07-08T20:44:27+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Why Nic Nemeth Wants To See A Non-Finish In Upcoming AEW Dynamite World Title Match",
       "p": "Nic Nemeth explained on \"Busted Open Radio\" just why he wants to see an upcoming \"AEW Dynamite\" title match end in a non-finish.",
       "link": "https://www.wrestlinginc.com/2210949/nic-nemeth-non-finish-aew-dynamite-world-title-kenny-omega-mjf/",
-      "t": "22m",
+      "t": "2h",
       "dt": "2026-07-08T20:13:48+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "AEW to honor legendary wrestling family at Redemption in Montreal",
       "p": "The Rougeau family will be honored when AEW Redemption takes place in Montreal, Quebec, Canada. During an interview with Bill Apter published on Wednesday, Jacques Rougeau said that he received a...",
       "link": "https://www.f4wonline.com/news/aew/aew-to-honor-legendary-wrestling-family-at-redemption-in-montreal/",
-      "t": "51m",
+      "t": "2h",
       "dt": "2026-07-08T19:44:59+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "DSOTR's Evan Husney Did Not Expect To Work With AEW's Tony Khan",
       "p": "Tony Khan will feature in the next episode of \"Dark Side of the Ring,\" and the show's co-creator was surprised the AEW President was willing to appear.",
       "link": "https://www.wrestlinginc.com/2210906/dsotr-evan-husney-not-expect-aew-tony-khan/",
-      "t": "58m",
+      "t": "2h",
       "dt": "2026-07-08T19:38:00+00:00"
     },
     {
@@ -40,23 +80,15 @@
       "h": "PRODUCE Volume 2: Taigastyle Full Lineup",
       "p": "PRODUCE Wrestling has announced the full lineup for Volume 2: Taigastyle, which is curated by Lee Moriarty. The event will take place on July 16 and air on MyAEW. The full lineup is below. PRODUCE...",
       "link": "https://www.fightful.com/wrestling-news/produce-volume-2-taigastyle-full-lineup/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-08T19:07:46+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Brett Lauderdale: AEW Appreciated Marko Stunt As A Wrestler, But I Think They Looked At Him More As A Character",
-      "p": "Brett Lauderdale is glad to have Marko Stunt back in GCW. After spending three years away from the company, Stunt made his return to GCW at Joey Janela’s Spring Break X back in April. He tagged...",
-      "link": "https://www.fightful.com/wrestling-news/brett-lauderdale-marko-stunt-aew-313893/",
-      "t": "2h",
-      "dt": "2026-07-08T18:00:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW DYNAMITE PREVIEW (7/8): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, JULY 8, 2026 Where: CLEARWATER, FLA. AT THE BAYCARE SOUND How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,983 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/07/08/aew-dynamite-preview-7-8-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-08T17:05:19+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "AEW Collision Viewership & Ratings Report: 7/2/2026",
       "p": "With \"AEW Collision\" moved to a Thursday night slot to avoid clashing with the Fourth of July, the show took a hit in the TV ratings.",
       "link": "https://www.wrestlinginc.com/2210622/aew-collision-viewership-ratings-report-july-2-2026/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-08T16:40:01+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Paul Wight Teases In-Ring Appearance On AEW Dynamite Beach Break: 'It's A Big Secret'",
       "p": "AEW's Paul Wight teases an in-ring appearance on the upcoming AEW Dynamite: Beach Break episode, saying that whatever he's doing is \"a big secret\"",
       "link": "https://www.wrestlinginc.com/2210607/aew-dynamite-beach-break-paul-wight-teases-in-ring-appearance-big-secret/",
-      "t": "4h",
-      "dt": "2026-07-08T16:27:39+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Absent star confirmed for AEW Dynamite this week",
-      "p": "Paul Wight confirmed his appearance for the upcoming edition of AEW Dynamite. In an interview with Good Day Live on 10 Tampa Bay News, Wight promoted the upcoming edition of AEW Dynamite teasing...",
-      "link": "https://www.f4wonline.com/news/aew/absent-star-confirmed-for-aew-dynamite-this-week/",
-      "t": "4h",
-      "dt": "2026-07-08T15:52:12+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Judge Rules AEW Can't Fully Seal Wrestler Contracts As Part Of Ryan Nemeth Dispute",
-      "p": "A magistrate judge rules that AEW cannot fully seal wrestler contracts as part of the Ryan Nemeth dispute, but can refile them with some redactions",
-      "link": "https://www.wrestlinginc.com/2210522/judge-aew-fully-seal-wrestler-contracts-ryan-nemeth-dispute/",
       "t": "5h",
-      "dt": "2026-07-08T15:05:48+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: AEW World Championship headlines tonight’s Beach Break card",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship headlines tonight’s Beach Break card appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/08/aew-dynamite-preview-aew-world-championship-headlines-tonights-beach-break-card/",
-      "t": "6h",
-      "dt": "2026-07-08T14:00:47+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite Beach Break, last week’s Dynamite and Collision grades, Thunderbolt Patterson, Luke Hawx, Ludwig Kaiser",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite Beach Break, last week’s Dynamite and Collision grades, Thunderbolt Patterson, Luke Hawx, Ludwig Kaiser appeared first on Pro...",
-      "link": "https://prowrestling.net/site/2026/07/08/aew-dynamite-beach-break-last-weeks-dynamite-and-collision-grades-thunderbolt-patterson-luke-hawx-ludwig-kaiser/",
-      "t": "8h",
-      "dt": "2026-07-08T12:00:36+00:00"
+      "dt": "2026-07-08T16:27:39+00:00"
     }
   ]
 }

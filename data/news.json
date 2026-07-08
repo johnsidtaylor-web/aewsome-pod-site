@@ -1,22 +1,70 @@
 {
-  "updated": "2026-07-08T11:56:20.298402+00:00",
+  "updated": "2026-07-08T14:39:04.331026+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (0 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "MJF: Other Top Guys In This Industry Aren’t As Good As I Am Bell To Bell, So They Can’t Handle It",
+      "p": "MJF believes that other top guys in the wrestling industry can’t handle how good he is bell to bell in terms of his wrestling ability. For the past several years, MJF has been one of the top names...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-other-top-guys-in-this-industry-arent-as-good-as-i-am-bell-to-bell-so-they-cant-handle-it/",
+      "t": "8m",
+      "dt": "2026-07-08T14:30:22+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: AEW World Championship headlines tonight’s Beach Break card",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship headlines tonight’s Beach Break card appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/08/aew-dynamite-preview-aew-world-championship-headlines-tonights-beach-break-card/",
+      "t": "38m",
+      "dt": "2026-07-08T14:00:47+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Paul Wight Says He Is ‘Going To Be In The Ring Doing Something’ On 7/8 AEW Dynamite",
+      "p": "Paul Wight says he is going to be in the ring on tonight’s edition of AEW Dynamite, teasing that it’s a ‘big secret’ what he will be doing. Over the course of the past several years, Wight has...",
+      "link": "https://www.fightful.com/wrestling-news/paul-wight-says-he-is-going-to-be-in-the-ring-doing-something-on-7-8-aew-dynamite/",
+      "t": "48m",
+      "dt": "2026-07-08T13:50:14+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Likes Putting Big Matches On AEW TV For The Fans Who Can’t Afford Every PPV",
+      "p": "AEW has delivered more AEW Title matches on Dynamite than ever before this year, with Darby Allin and MJF each making multiple title defenses in the first six-plus months on TV. That trend will...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-likes-putting-big-matches-on-aew-tv-for-the-fans-who-cant-afford-every-ppv/",
+      "t": "1h",
+      "dt": "2026-07-08T13:36:55+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite Beach Break, last week’s Dynamite and Collision grades, Thunderbolt Patterson, Luke Hawx, Ludwig Kaiser",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite Beach Break, last week’s Dynamite and Collision grades, Thunderbolt Patterson, Luke Hawx, Ludwig Kaiser appeared first on Pro...",
+      "link": "https://prowrestling.net/site/2026/07/08/aew-dynamite-beach-break-last-weeks-dynamite-and-collision-grades-thunderbolt-patterson-luke-hawx-ludwig-kaiser/",
+      "t": "2h",
+      "dt": "2026-07-08T12:00:36+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Beach Break Preview, Start Time, How To Watch, Location (7/8)",
+      "p": "Viewing information and lineup for AEW Dynamite Beach Break on July 8, 2026. AEW Dynamite (July 8, 2026) Venue: The BayCare Sound City: Clearwater, FL Time: 8pm ET Channel: TBS, Max Lineup Chris...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-beach-break-preview-start-time-how-to-watch-location-7-8/",
+      "t": "2h",
+      "dt": "2026-07-08T12:00:00+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite Beach Break 2026 Ticket Sales for tonight slightly down on YTD average",
       "p": "AEW Dynamite Beach Break 2026 is set to take place tomorrow night from The BayCare Sound in Clearwater Beach, FL. According to the latest report from WrestleTix, 2,927 tickets have been...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-beach-break-2026-ticket-sales-update-tonight-07-08-2026/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-08T07:37:16+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "AEW Dynamite Start Time Tonight (07-08-2026)",
       "p": "Tonight’s (Wednesday, July 8, 2026) episode of AEW Dynamite starts live at 8:00 p.m. ET on TBS, with a simulcast on HBO Max. The show runs in its usual two-hour block through to around 10 p.m. ET....",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-07-08-2026/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-08T07:28:36+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "AEW Dynamite Preview: Beach Break 2026 (07-08-2026)",
       "p": "Tonight’s episode of AEW Dynamite takes place from The BayCare Sound, Clearwater Beach, FL, and several matches and segments have already been confirmed for the broadcast. The broadcast will be...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-beach-break-2026-07-08-2026/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-08T07:18:23+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "ROH tag title match announced for upcoming CMLL event",
       "p": "The ROH Tag Team Championship is set to be defended at an upcoming CMLL show in Mexico. El Sky Team (Mistico & Mascara Dorada) have been announced to make their first ROH Tag Team Championship...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-tag-title-match-announced-for-upcoming-cmll-event/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-08T05:44:25+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Tony Khan had ‘reservations’ about Cody Rhodes’ AEW World title stipulation",
       "p": "Tony Khan recently addressed his “reservations” regarding Cody Rhodes’ AEW World title stipulation. This week on Wednesday’s edition of AEW Dynamite, Kenny Omega is scheduled to face MJF in a...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-had-reservations-about-cody-rhodes-aew-world-title-stipulation/",
-      "t": "8h",
+      "t": "11h",
       "dt": "2026-07-08T03:37:17+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "07/07 Wade Keller Pro Wrestling Podcast: Powell and Keller on CM Punk winning the WWE Championship, Sami Zayn’s brief reign, MJF vs. Kenny Omega for the AEW World Championship",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 07/07 Wade Keller Pro Wrestling Podcast: Powell and Keller on CM Punk winning the WWE Championship, Sami Zayn’s brief reign, MJF vs. Kenny...",
       "link": "https://prowrestling.net/site/2026/07/07/07-07-wade-keller-pro-wrestling-podcast-powell-and-keller-on-cm-punk-winning-the-wwe-championship-sami-zayns-brief-reign-mjf-vs-kenny-omega-for-the-aew-world-championship/",
-      "t": "8h",
+      "t": "11h",
       "dt": "2026-07-08T03:11:02+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 7/7 – Radican Worldwide: Interview with Chris Charlton – Thoughts on NJPW rebuild, working relationship between NJPW and AEW, rising talent in NJPW, G1 Climax 36, more (43 min.)",
-      "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is joined by NJPW English announcer Chris Charlton for a new Radican Worldwide interview ahead of NJPW’s return to the U.S. for G1 Climax 36 Night 1 in...",
-      "link": "https://www.pwtorch.com/site/2026/07/07/vip-podcast-7-7-radican-worldwide-interview-with-chris-charlton-thoughts-on-njpw-rebuild-working-relationship-between-njpw-and-aew-rising-talent-in-njpw-g1-climax-36-more-43-min/",
-      "t": "8h",
-      "dt": "2026-07-08T02:58:47+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 7/7 – Everything with Rich & Wade: Punk, Aldis, Sheamus, Oba-Heyman, Rollins, MJF-Omega, Lio Rush, NWO (93 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Reaction to CM Punk beating Sami Zayn, and what’s next for him...",
-      "link": "https://www.pwtorch.com/site/2026/07/07/vip-podcast-7-7-everything-with-rich-wade-punk-aldis-sheamus-oba-heyman-rollins-mjf-omega-lio-rush-nwo-93-min/",
-      "t": "9h",
-      "dt": "2026-07-08T02:38:53+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision viewership down, 18-49 rating up for Thursday night show",
-      "p": "Last week’s episode of AEW Collision, airing on Thursday instead of it’s usual Saturday time slot, averaged 310,000 viewers on TNT, down 6.6% from the previous Saturday. It’s the lowest audience...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-viewership-down-18-49-rating-up-for-thursday-night-show/",
-      "t": "9h",
-      "dt": "2026-07-08T02:29:13+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH Tag Team Title Bout, More Announced For 7/10 CMLL Event",
-      "p": "El Sky Team (Mistico & Mascara Dorada) are set to make their first ROH Tag Team Title defense. CMLL announced that Sky Team will face Hermanos Chávez (Angel de Oro & Niebla Roja) at Arena Mexico...",
-      "link": "https://www.fightful.com/wrestling-news/mistico-roh-tag-team-title-bout-more-announced-for-7-10-cmll-event/",
-      "t": "9h",
-      "dt": "2026-07-08T02:27:57+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Judge Rules AEW Can’t Fully Seal Contracts In Ryan Nemeth Arbitration",
-      "p": "A ruling has been made on All Elite Wrestling (AEW) and its motion to seal the three contracts of Ryan Nemeth in their ongoing arbitration case. Brandon Thurston of Wrestlenomics opposed the...",
-      "link": "https://www.fightful.com/wrestling-news/judge-rules-aew-cant-fully-seal-contracts-in-ryan-nemeth-arbitration/",
-      "t": "10h",
-      "dt": "2026-07-08T01:28:28+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision (7/2) Draws 310,000 Viewers On Cable TV",
-      "p": "AEW Collision viewership information for July 2. Wrestlenomics reports that AEW Collision drew 310,000 viewers on TNT on Thursday, July 2. This number is down from the 332,000 viewers the show...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-7-2-draws-310000-viewers-on-cable-tv/",
-      "t": "12h",
-      "dt": "2026-07-07T23:43:05+00:00"
     }
   ]
 }

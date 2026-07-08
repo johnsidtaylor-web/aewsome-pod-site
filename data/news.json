@@ -1,62 +1,70 @@
 {
-  "updated": "2026-07-08T18:41:55.561828+00:00",
+  "updated": "2026-07-08T20:36:49.731146+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Why Nic Nemeth Wants To See A Non-Finish In Upcoming AEW Dynamite World Title Match",
+      "p": "Nic Nemeth explained on \"Busted Open Radio\" just why he wants to see an upcoming \"AEW Dynamite\" title match end in a non-finish.",
+      "link": "https://www.wrestlinginc.com/2210949/nic-nemeth-non-finish-aew-dynamite-world-title-kenny-omega-mjf/",
+      "t": "22m",
+      "dt": "2026-07-08T20:13:48+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW to honor legendary wrestling family at Redemption in Montreal",
+      "p": "The Rougeau family will be honored when AEW Redemption takes place in Montreal, Quebec, Canada. During an interview with Bill Apter published on Wednesday, Jacques Rougeau said that he received a...",
+      "link": "https://www.f4wonline.com/news/aew/aew-to-honor-legendary-wrestling-family-at-redemption-in-montreal/",
+      "t": "51m",
+      "dt": "2026-07-08T19:44:59+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "DSOTR's Evan Husney Did Not Expect To Work With AEW's Tony Khan",
+      "p": "Tony Khan will feature in the next episode of \"Dark Side of the Ring,\" and the show's co-creator was surprised the AEW President was willing to appear.",
+      "link": "https://www.wrestlinginc.com/2210906/dsotr-evan-husney-not-expect-aew-tony-khan/",
+      "t": "58m",
+      "dt": "2026-07-08T19:38:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "PRODUCE Volume 2: Taigastyle Full Lineup",
+      "p": "PRODUCE Wrestling has announced the full lineup for Volume 2: Taigastyle, which is curated by Lee Moriarty. The event will take place on July 16 and air on MyAEW. The full lineup is below. PRODUCE...",
+      "link": "https://www.fightful.com/wrestling-news/produce-volume-2-taigastyle-full-lineup/",
+      "t": "1h",
+      "dt": "2026-07-08T19:07:46+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Brett Lauderdale: AEW Appreciated Marko Stunt As A Wrestler, But I Think They Looked At Him More As A Character",
       "p": "Brett Lauderdale is glad to have Marko Stunt back in GCW. After spending three years away from the company, Stunt made his return to GCW at Joey Janela’s Spring Break X back in April. He tagged...",
       "link": "https://www.fightful.com/wrestling-news/brett-lauderdale-marko-stunt-aew-313893/",
-      "t": "41m",
+      "t": "2h",
       "dt": "2026-07-08T18:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Paul Wight Comments On Re-Signing With AEW: It Helps When Your Boss Likes You",
-      "p": "Paul Wight addresses re-signing with All Elite Wrestling, noting that it ‘helps when your boss like you.’ Wight signed a new deal with AEW earlier this year, extending his time in the promotion as...",
-      "link": "https://www.fightful.com/wrestling-news/paul-wight-comments-on-re-signing-with-aew-it-helps-when-your-boss-likes-you/",
-      "t": "1h",
-      "dt": "2026-07-08T17:35:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Paul Wight Says Satnam Singh Is A Talent Not Being Used To The Highest Capacity",
-      "p": "Paul Wight discusses Satnam Singh and other talent that he sees as some of the top breakout talents in All Elite Wrestling. AEW is a promotion that prides itself on the young talent that is...",
-      "link": "https://www.fightful.com/wrestling-news/paul-wight-says-satnam-singh-is-a-talent-not-being-used-to-the-highest-capacity/",
-      "t": "1h",
-      "dt": "2026-07-08T17:15:05+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW DYNAMITE PREVIEW (7/8): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, JULY 8, 2026 Where: CLEARWATER, FLA. AT THE BAYCARE SOUND How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,983 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/07/08/aew-dynamite-preview-7-8-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-08T17:05:19+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Paul Wight Says The Biggest Reason He Signed With AEW Was Being Able To Still Compete",
-      "p": "Paul Wight discusses the biggest reason why he decided to sign with All Elite Wrestling, noting that he still wanted to compete in the ring. Since signing with All Elite Wrestling, Wight has...",
-      "link": "https://www.fightful.com/wrestling-news/paul-wight-says-the-biggest-reason-he-signed-with-aew-was-being-able-to-still-compete/",
-      "t": "1h",
-      "dt": "2026-07-08T16:51:33+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW Collision Viewership & Ratings Report: 7/2/2026",
       "p": "With \"AEW Collision\" moved to a Thursday night slot to avoid clashing with the Fourth of July, the show took a hit in the TV ratings.",
       "link": "https://www.wrestlinginc.com/2210622/aew-collision-viewership-ratings-report-july-2-2026/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-08T16:40:01+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Paul Wight Teases In-Ring Appearance On AEW Dynamite Beach Break: 'It's A Big Secret'",
       "p": "AEW's Paul Wight teases an in-ring appearance on the upcoming AEW Dynamite: Beach Break episode, saying that whatever he's doing is \"a big secret\"",
       "link": "https://www.wrestlinginc.com/2210607/aew-dynamite-beach-break-paul-wight-teases-in-ring-appearance-big-secret/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-08T16:27:39+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Absent star confirmed for AEW Dynamite this week",
       "p": "Paul Wight confirmed his appearance for the upcoming edition of AEW Dynamite. In an interview with Good Day Live on 10 Tampa Bay News, Wight promoted the upcoming edition of AEW Dynamite teasing...",
       "link": "https://www.f4wonline.com/news/aew/absent-star-confirmed-for-aew-dynamite-this-week/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-08T15:52:12+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Judge Rules AEW Can't Fully Seal Wrestler Contracts As Part Of Ryan Nemeth Dispute",
       "p": "A magistrate judge rules that AEW cannot fully seal wrestler contracts as part of the Ryan Nemeth dispute, but can refile them with some redactions",
       "link": "https://www.wrestlinginc.com/2210522/judge-aew-fully-seal-wrestler-contracts-ryan-nemeth-dispute/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-08T15:05:48+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW Dynamite preview: AEW World Championship headlines tonight’s Beach Break card",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship headlines tonight’s Beach Break card appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/08/aew-dynamite-preview-aew-world-championship-headlines-tonights-beach-break-card/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-08T14:00:47+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW Dynamite Beach Break, last week’s Dynamite and Collision grades, Thunderbolt Patterson, Luke Hawx, Ludwig Kaiser",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite Beach Break, last week’s Dynamite and Collision grades, Thunderbolt Patterson, Luke Hawx, Ludwig Kaiser appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/07/08/aew-dynamite-beach-break-last-weeks-dynamite-and-collision-grades-thunderbolt-patterson-luke-hawx-ludwig-kaiser/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-08T12:00:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Beach Break 2026 Ticket Sales for tonight slightly down on YTD average",
-      "p": "AEW Dynamite Beach Break 2026 is set to take place tomorrow night from The BayCare Sound in Clearwater Beach, FL. According to the latest report from WrestleTix, 2,927 tickets have been...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-beach-break-2026-ticket-sales-update-tonight-07-08-2026/",
-      "t": "11h",
-      "dt": "2026-07-08T07:37:16+00:00"
     }
   ]
 }

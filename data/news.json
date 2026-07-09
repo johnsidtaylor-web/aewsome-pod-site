@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-09T12:14:45.806839+00:00",
+  "updated": "2026-07-09T15:34:08.448893+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "CM Punk in AEW: Part 2 – ALL OUT 2021 vs Darby Allin and Team Taz feud | Column",
-      "p": "This was previously part of a book I had written and released on CM Punk’s initial run in All Elite Wrestling, covering August 2021 until May 2022. I’ll be uploading it here sporadically, adapted...",
-      "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-2-all-out-2021-vs-darby-allin-team-taz-feud-column/",
-      "t": "12m",
-      "dt": "2026-07-09T12:02:12+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kenny Omega Reacts To AEW World Title Win: “We Finished The Race”",
-      "p": "Kenny Omega is back on top of the mountain. Closing out the July 8th episode of AEW Dynamite was MJF defending the AEW World Championship against Kenny Omega. The stipulation was that if Omega...",
-      "link": "https://www.fightful.com/wrestling-news/kenny-omega-reacts-to-aew-world-title-win-we-finished-the-race/",
-      "t": "16m",
-      "dt": "2026-07-09T11:58:08+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW Redemption lineup: First title match set for AEW’s newest pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: First title match set for AEW’s newest pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/09/aew-redemption-lineup-first-title-match-set-for-aews-newest-pay-per-view-event/",
+      "t": "3m",
+      "dt": "2026-07-09T15:30:14+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "CM Punk in AEW: Part 1 – The AEW Rampage Debut | Column",
-      "p": "This was previously part of a book I had written and released on CM Punk’s first year in All Elite Wrestling, covering August 2021 until May 2022. I’ll be uploading it here sporadically, adapted...",
-      "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-1-aew-rampage-debut/",
-      "t": "2h",
-      "dt": "2026-07-09T09:43:21+00:00"
+      "h": "AEW wrestler among new CMLL Grand Prix additions",
+      "p": "Another AEW name has been confirmed for the 2026 men’s edition of CMLL’s International Grand Prix. The Team World vs. Team Mexico cibernetico match is set to be held at Arena Mexico on Friday,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-wrestler-among-new-cmll-grand-prix-additions/",
+      "t": "20m",
+      "dt": "2026-07-09T15:14:02+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "WOR: Omega title win, Wembley, TNA Dark Side, Conor, more",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including Kenny Omega’s title win, the full Dynamite recap and what Wembley is looking like, tons of...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-omega-title-win-wembley-tna-dark-side-conor-more/",
-      "t": "4h",
-      "dt": "2026-07-09T07:59:12+00:00"
+      "h": "AEW adds two title matches to Collision lineup",
+      "p": "AEW has added two title matches to the lineup for Collision. Saturday’s episode will take place live from the Berglund Center in Roanoke, Virginia. On Thursday, AEW confirmed that Mike Bailey will...",
+      "link": "https://www.f4wonline.com/news/aew/aew-adds-two-title-matches-to-collision-lineup/",
+      "t": "45m",
+      "dt": "2026-07-09T14:48:09+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Dynamite July 8, 2026 stats, match times and more",
-      "p": "AEW Dynamite this week had five matches on the live broadcast that went 1:21:50. The longest match was the AEW World Title match between Kenny Omega and MJF at 24:10. The shortest was the Death...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-july-8-2026-stats-match-times-average-age/",
-      "t": "4h",
-      "dt": "2026-07-09T07:53:29+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 7/8 – WKH – AEW Dynamite: MJF vs. Omega for AEW World Title, Takeshita vs. Fletcher for International Title, Casino Gauntlet, Jericho vs. Ciampa, Foley (32 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the July 8 episode of AEW Dynamite start to finish including MJF vs. Kenny Omega for AEW World Title,...",
-      "link": "https://www.pwtorch.com/site/2026/07/09/vip-podcast-7-8-wkh-aew-dynamite-mjf-vs-omega-for-aew-world-title-takeshita-vs-fletcher-for-international-title-casino-gauntlet-jericho-vs-ciampa-foley-32-min/",
-      "t": "5h",
-      "dt": "2026-07-09T06:34:01+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 7/8 – WKPWP after Dynamite: Keller & Kuester talk Omega’s AEW Title win over MJF, Jack Perry, Brawling Birds vignette, Mick Foley, more (134 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Dan Kuester review AEW Dynamite with chat, caller, and email interactions throughout. They started with analysis of the...",
-      "link": "https://www.pwtorch.com/site/2026/07/09/free-podcast-7-8-wkpwp-after-dynamite-keller-kuester-talk-omegas-aew-title-win-over-mjf-jack-perry-brawling-birds-vignette-mick-foley-more-134-min/",
-      "t": "6h",
-      "dt": "2026-07-09T06:07:12+00:00"
+      "h": "Mick Foley congratulates Kenny Omega on AEW World title win",
+      "p": "Mick Foley was in the building for AEW Beach Break last night — and he had big praise for the main event World Championship match between MJF and Kenny Omega. After debuting at Double or Nothing...",
+      "link": "https://www.f4wonline.com/news/aew/mick-foley-congratulates-kenny-omega-aew-world-title/",
+      "t": "52m",
+      "dt": "2026-07-09T14:41:10+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Dynamite Beach Break - 7/8/2026: 3 Things We Hated And 3 We Loved",
-      "p": "The best and the worst of the beach-themed special episode of AEW Dynamite.",
-      "link": "https://www.wrestlinginc.com/2211168/aew-dynamite-beach-break-july-8-2026-hated-loved-opinion-review/",
-      "t": "6h",
-      "dt": "2026-07-09T05:39:32+00:00"
+      "h": "Kenny Omega Thanks Fans Following AEW Title Win",
+      "p": "Kenny Omega shares his appreciation for the AEW faithful on social media following his world title win on Wednesday.",
+      "link": "https://www.wrestlinginc.com/2211371/kenny-omega-thanks-fans-aew-title-win/",
+      "t": "1h",
+      "dt": "2026-07-09T14:23:23+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "07/08 Barnett’s AEW Dynamite audio review: Beach Break with MJF vs. Kenny Omega for the AEW World Championship, Konosuke Takeshita vs. Kyle Fletcher for the AEW International Title",
-      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 07/08 Barnett’s AEW Dynamite audio review: Beach Break with MJF vs. Kenny Omega for the AEW World Championship, Konosuke Takeshita vs. Kyle...",
-      "link": "https://prowrestling.net/site/2026/07/08/07-08-barnetts-aew-dynamite-audio-review-beach-break-with-mjf-vs-kenny-omega-for-the-aew-world-championship-konosuke-takeshita-vs-kyle-fletcher-for-the-aew-international-title/",
-      "t": "7h",
-      "dt": "2026-07-09T04:47:03+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 7/8 – WKPWP Mailbag Flashback: (7-8-2021) Hangman-Dark Order, Malakai Black debut, true heels in 2021, Cena-Rock, more + 2011 Flagship Flashback (135 min.)",
-      "p": "SHOW SUMMARY: In a special Mailbag episode of the Wade Keller Pro Wrestling Podcast from five years ago (7-8-2021) PWTorch editor Wade Keller reads and responds to new Mailbag questions on...",
-      "link": "https://www.pwtorch.com/site/2026/07/08/free-podcast-7-8-wkpwp-mailbag-flashback-7-8-2021-hangman-dark-order-malakai-black-debut-true-heels-in-2021-cena-rock-more-2011-flagship-flashback-135-min/",
-      "t": "9h",
-      "dt": "2026-07-09T03:00:54+00:00"
+      "src": "Fightful",
+      "h": "Jeff Jarrett Says ‘Creative Plans Changed’ Regarding His Retirement Run",
+      "p": "In January 2025, Jeff Jarrett announced he had re-signed with AEW and said that he was going on one last run, hoping to win the AEW Championship. Jarrett lost to Claudio Castagnoli on the January...",
+      "link": "https://www.fightful.com/wrestling-news/jeff-jarrett-says-creative-plans-changed-regarding-his-retirement-run/",
+      "t": "1h",
+      "dt": "2026-07-09T14:23:01+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "AEW announces re-signing of Jack Perry",
-      "p": "Jack Perry has officially re-signed with AEW, it was confirmed during Wednesday's episode of Dynamite. The post AEW announces re-signing of Jack Perry appeared first on POST Wrestling | Podcasts,...",
-      "link": "https://www.postwrestling.com/2026/07/08/aew-announces-re-signing-of-jack-perry/",
-      "t": "9h",
-      "dt": "2026-07-09T02:50:27+00:00"
+      "h": "Paul Wight makes in-ring appearance during AEW Dynamite: Beach Break dark match",
+      "p": "Paul Wight delivered one of his echoing chops to Blake Christian as part of a post-match segment at Wednesday's AEW Dynamite event. The post Paul Wight makes in-ring appearance during AEW...",
+      "link": "https://www.postwrestling.com/2026/07/09/paul-wight-makes-in-ring-appearance-during-aew-dynamite-beach-break-dark-match/",
+      "t": "1h",
+      "dt": "2026-07-09T14:15:20+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Mark Davis in-ring return among three title matches booked for 7/11 AEW Collision",
+      "p": "Back following visa issues, Mark Davis will defend his AEW National Championship against Speedball Bailey on Collision. The post Mark Davis in-ring return among three title matches booked for 7/11...",
+      "link": "https://www.postwrestling.com/2026/07/09/mark-davis-in-ring-return-among-three-title-matches-booked-for-7-11-aew-collision/",
+      "t": "1h",
+      "dt": "2026-07-09T13:58:44+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mina Shirakawa Learns ‘Motorboating’ In English Thanks To Thekla",
+      "p": "Thekla was on commentary for the women’s casino gauntlet on AEW Dynamite Beach Break, and she was 100% Thekla. As Mina Shirakawa was in the ring, “The Toxic Spider,” said that wrestling Mina is...",
+      "link": "https://www.fightful.com/wrestling-news/mina-shirakawa-learns-motorboating-in-english-thanks-to-thekla/",
+      "t": "1h",
+      "dt": "2026-07-09T13:48:11+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: ROH Championship match headlines tonight’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: ROH Championship match headlines tonight’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/09/roh-on-honorclub-lineup-roh-championship-match-headlines-tonights-show/",
+      "t": "1h",
+      "dt": "2026-07-09T13:40:12+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Two Title Bouts Added To 7/11 AEW Collision",
+      "p": "Two title matches are official for AEW Collision. All Elite Wrestling confirmed that Hikaru Shida will make the first defense of her TBS Championship against Harley Cameron on the July 11 episode...",
+      "link": "https://www.fightful.com/wrestling-news/two-title-bouts-added-to-7-11-aew-collision/",
+      "t": "1h",
+      "dt": "2026-07-09T13:37:45+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Mark Davis returning on AEW Collision after visa issues",
-      "p": "After missing AEW action for nearly a month, Mark Davis will be back in action this Saturday in the United States. The Australian had been out since-early June due to visa issues, according to...",
-      "link": "https://www.f4wonline.com/news/aew/mark-davis-aew-return-visa-issues-collision/",
-      "t": "9h",
-      "dt": "2026-07-09T02:45:18+00:00"
+      "h": "Bryan Alvarez’s AEW Dynamite July 8, 2026 report for subscribers",
+      "p": "Bryan Alvarez’s report on this week’s edition of AEW Dynamite is now available for subscribers.",
+      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-july-8-2026-report-for-subscribers/",
+      "t": "2h",
+      "dt": "2026-07-09T13:21:37+00:00"
     }
   ]
 }

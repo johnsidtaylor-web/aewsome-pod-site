@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-09T00:19:40.047312+00:00",
+  "updated": "2026-07-09T05:04:25.535724+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "POST Wrestling",
-      "h": "AEW Dynamite Beach Break 2026 Live Results: MJF vs. Omega, Takeshita vs. Fletcher",
-      "p": "Follow POST Wrestling's live coverage of AEW Dynamite: Beach Break 2026 as it happens this evening! The post AEW Dynamite Beach Break 2026 Live Results: MJF vs. Omega, Takeshita vs. Fletcher...",
-      "link": "https://www.postwrestling.com/2026/07/08/aew-dynamite-beach-break-2026-live-results-mjf-vs-omega-takeshita-vs-fletcher/",
-      "t": "20m",
-      "dt": "2026-07-08T23:59:24+00:00"
+      "src": "ProWrestling.net",
+      "h": "07/08 Barnett’s AEW Dynamite audio review: Beach Break with MJF vs. Kenny Omega for the AEW World Championship, Konosuke Takeshita vs. Kyle Fletcher for the AEW International Title",
+      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 07/08 Barnett’s AEW Dynamite audio review: Beach Break with MJF vs. Kenny Omega for the AEW World Championship, Konosuke Takeshita vs. Kyle...",
+      "link": "https://prowrestling.net/site/2026/07/08/07-08-barnetts-aew-dynamite-audio-review-beach-break-with-mjf-vs-kenny-omega-for-the-aew-world-championship-konosuke-takeshita-vs-kyle-fletcher-for-the-aew-international-title/",
+      "t": "17m",
+      "dt": "2026-07-09T04:47:03+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "AEW DYNAMITE RESULTS (7/8): Keller’s report on MJF vs. Omega for the AEW World Title, Takeshita vs. Fletcher for AEW International Title, Women’s Casino Battle Royal, Ciampa vs. Jericho",
-      "p": "AEW DYNAMITE REPORT JULY 8, 2026 CLEARWATER, FLA. AT THE BAYCARE SOUND AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Nigel McGuinness Ring...",
-      "link": "https://www.pwtorch.com/site/2026/07/08/aew-dynamite-results-7-8-kellers-report-on-mjf-vs-omega-for-the-aew-world-title-takeshita-vs-fletcher-for-aew-international-title-womens-casino-battle-royal-ciampa-vs-jericho/",
-      "t": "31m",
-      "dt": "2026-07-08T23:48:34+00:00"
+      "h": "FREE PODCAST 7/8 – WKPWP Mailbag Flashback: (7-8-2021) Hangman-Dark Order, Malakai Black debut, true heels in 2021, Cena-Rock, more + 2011 Flagship Flashback (135 min.)",
+      "p": "SHOW SUMMARY: In a special Mailbag episode of the Wade Keller Pro Wrestling Podcast from five years ago (7-8-2021) PWTorch editor Wade Keller reads and responds to new Mailbag questions on...",
+      "link": "https://www.pwtorch.com/site/2026/07/08/free-podcast-7-8-wkpwp-mailbag-flashback-7-8-2021-hangman-dark-order-malakai-black-debut-true-heels-in-2021-cena-rock-more-2011-flagship-flashback-135-min/",
+      "t": "2h",
+      "dt": "2026-07-09T03:00:54+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "AEW All In London ticket movement following 50% off sale this week",
-      "p": "AEW saw a bit of movement regarding All In London ticket sales this week because of a two-day sale offer. The post AEW All In London ticket movement following 50% off sale this week appeared first...",
-      "link": "https://www.postwrestling.com/2026/07/08/aew-all-in-london-ticket-movement-following-50-off-sale-this-week/",
-      "t": "38m",
-      "dt": "2026-07-08T23:41:21+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite results (7/8): Barnett’s review of MJF vs. Kenny Omega for the AEW World Championship, Konosuke Takeshita vs. Kyle Fletcher for the AEW International Championship",
-      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post AEW Dynamite results (7/8): Barnett’s review of MJF vs. Kenny Omega for the AEW World Championship, Konosuke Takeshita vs. Kyle Fletcher for...",
-      "link": "https://prowrestling.net/site/2026/07/08/aew-dynamite-results-7-8-barnetts-review-of-mjf-vs-kenny-omega-for-the-aew-world-championship-konosuke-takeshita-vs-kyle-fletcher-for-the-aew-international-championship/",
-      "t": "49m",
-      "dt": "2026-07-08T23:30:32+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Beach Break Results (7/8/2026): MJF vs. Kenny Omega, Takeshita vs. Fletcher, Ciampa, Athena, More",
-      "p": "Full results for the July 8, 2026, edition of AEW Dynamite Beach Break on TBS live from the BayCare Sound in Clearwater, Florida. On July 8, 2026, All Elite Wrestling hosted a new episode of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-beach-break-results-7-8-2026-mjf-vs-kenny-omega-takeshita-vs-fletcher-ciampa-athena-more/",
-      "t": "1h",
-      "dt": "2026-07-08T23:15:00+00:00"
+      "h": "AEW announces re-signing of Jack Perry",
+      "p": "Jack Perry has officially re-signed with AEW, it was confirmed during Wednesday's episode of Dynamite. The post AEW announces re-signing of Jack Perry appeared first on POST Wrestling | Podcasts,...",
+      "link": "https://www.postwrestling.com/2026/07/08/aew-announces-re-signing-of-jack-perry/",
+      "t": "2h",
+      "dt": "2026-07-09T02:50:27+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Dynamite Beach Break live results: MJF vs. Kenny Omega",
-      "p": "AEW Dynamite Beach Break takes place tonight from The BayCare Sound in Clearwater Beach, Florida. Two title matches, a Casino Gauntlet match, and a big-time grudge match are scheduled for the...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-beach-break-live-results-mjf-vs-kenny-omega/",
-      "t": "1h",
-      "dt": "2026-07-08T23:05:00+00:00"
+      "h": "Mark Davis returning on AEW Collision after visa issues",
+      "p": "After missing AEW action for nearly a month, Mark Davis will be back in action this Saturday in the United States. The Australian had been out since-early June due to visa issues, according to...",
+      "link": "https://www.f4wonline.com/news/aew/mark-davis-aew-return-visa-issues-collision/",
+      "t": "2h",
+      "dt": "2026-07-09T02:45:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Mick Foley makes first TBS appearance in 32 years on AEW Dynamite",
+      "p": "Mick Foley made his first TBS appearance in 32 years on AEW Dynamite. WWE legend Foley returned to AEW on the July 8, 2026, episode of Dynamite Beach Break. Dynamite airs on TBS, and this marked...",
+      "link": "https://www.f4wonline.com/news/aew/mick-foley-makes-first-tbs-appearance-in-32-years-on-aew-dynamite/",
+      "t": "2h",
+      "dt": "2026-07-09T02:31:14+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Dynamite Summer Blockbuster Results 7/8 - Two Titles On The Line & More",
-      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" Summer Blockbuster 2026, with the AEW World and International Championships both up for grabs!",
-      "link": "https://www.wrestlinginc.com/2210254/aew-dynamite-summer-blockbuster-july-8-two-titles-on-line-more/",
-      "t": "1h",
-      "dt": "2026-07-08T23:00:00+00:00"
+      "h": "Kenny Omega Wins AEW World Title With Help From Will Ospreay",
+      "p": "For the first time since 2021, Kenny Omega is the AEW World Champion after defeating MJF on the Beach Break edition of \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2211145/kenny-omega-wins-aew-world-title-help-will-ospreay/",
+      "t": "2h",
+      "dt": "2026-07-09T02:29:15+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Queen Aminata Says Injury Time Will Be Added To Her Contract, Which Expires February 2027",
-      "p": "Queen Aminata gives an update on her status with AEW. In her latest vlog, Aminata commented on her current contractual status, saying, “I signed with AEW three years ago, almost three years. I’m...",
-      "link": "https://www.fightful.com/wrestling-news/queen-aminata-says-injury-time-will-be-added-to-her-contract-which-expires-february-2027/",
-      "t": "1h",
-      "dt": "2026-07-08T22:38:14+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: AEW World Championship headlines tonight’s Beach Break card",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: AEW World Championship headlines tonight’s Beach Break card appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/08/aew-dynamite-preview-aew-world-championship-headlines-tonights-beach-break-card/",
-      "t": "1h",
-      "dt": "2026-07-08T22:30:47+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW FEUD TRACKER: Andrade has enough of Don Callis Family, Owen Cup Finals recap, Thekla continues to rise, Ciampa-Jericho",
-      "p": "Tonight is Beach Break which has turned into one of the biggest Dynamites of the year. Two huge title matches. A Casino Gauntlet match. It’s time to grab a cold beverage of your choice because [...]",
-      "link": "https://www.pwtorch.com/site/2026/07/08/aew-feud-tracker-andrade-has-enough-of-don-callis-family-owen-cup-finals-recap-thekla-continues-to-rise/",
+      "h": "Kenny Omega Defeats MJF To Win AEW World Championship On AEW Dynamite Beach Break",
+      "p": "Kenny Omega is the new AEW World Champion. This week’s episode of AEW Dynamite was headlined by one of the company’s biggest TV matches of all time, as MJF defended the AEW World Championship...",
+      "link": "https://www.fightful.com/wrestling-news/kenny-omega-mjf-aew-world-title-315159/",
       "t": "2h",
-      "dt": "2026-07-08T22:11:16+00:00"
+      "dt": "2026-07-09T02:24:21+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "MJF vs. Kenny Omega World title match result from AEW Dynamite, All In main event set",
+      "p": "For the second time in his career and for the first time since November 2021, Kenny Omega can call himself AEW World Champion. In the main event of Wednesday’s Beach Break edition of Dynamite,...",
+      "link": "https://www.f4wonline.com/news/aew/kenny-omega-new-aew-world-champion-mjf-dynamite/",
+      "t": "2h",
+      "dt": "2026-07-09T02:22:48+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Willow Nightingale To Face Mizuki At TJPW SUMMER SUN PRINCESS",
+      "p": "Willow Nightingale is headed back to TJPW. Tokyo Joshi Pro announced that Willow will face Mizuki on July 18 at Summer Sun Princess. 7月18日(土)後楽園ホール『SUMMER SUN PRINCESS '26』に、AEWより\"The Babe with...",
+      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-to-face-mizuki-at-tjpw-summer-sun-princess/",
+      "t": "2h",
+      "dt": "2026-07-09T02:17:25+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Paul Wight gets in the ring before AEW Dynamite Beach Break",
+      "p": "After months of physical absence, Paul Wight appeared before the July 8 edition of AEW Dynamite Beach Break and got physical. Before the July 8, 2026 edition of AEW Dynamite Beach Break started...",
+      "link": "https://www.f4wonline.com/news/aew/paul-wight-gets-in-the-ring-before-aew-dynamite-beach-break/",
+      "t": "2h",
+      "dt": "2026-07-09T02:16:58+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jack Perry officially re-signs AEW contract",
+      "p": "After more than a month of speculation, one of the original “four pillars” of AEW will be sticking around the company for a while longer. Revealed on Wednesday’s Beach Break edition of AEW...",
+      "link": "https://www.f4wonline.com/news/aew/jack-perry-officially-re-signs-aew-contract/",
+      "t": "2h",
+      "dt": "2026-07-09T02:07:10+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Tony Schiavone Comments On Sami Zayn Losing WWE Championship To CM Punk On Raw",
-      "p": "AEW announcer Tony Schiavone comments on Sami Zayn losing the WWE Championship to CM Punk on Raw, and why he feels Zayn's title reign was so short",
-      "link": "https://www.wrestlinginc.com/2211076/aew-tony-schiavone-sami-zayn-cm-punk-wwe-championship-raw/",
-      "t": "2h",
-      "dt": "2026-07-08T22:02:46+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Schiavone Recalls Being On Commentary For Hulk Hogan's WCW Heel Turn",
-      "p": "AEW announcer Tony Schiavone recalls being on commentary for Hulk Hogan's WCW heel turn, and again explains that his famous line from the show was adlibbed",
-      "link": "https://www.wrestlinginc.com/2211035/aew-tony-schiavone-commentary-hulk-hogan-wcw-heel-turn/",
+      "h": "'Jungle' Jack Perry Makes AEW Status Clear On Beach Break",
+      "p": "\"Jungle\" Jack Perry put an end to speculation over his future during \"AEW Dynamite: Beach Break.\"",
+      "link": "https://www.wrestlinginc.com/2211141/jungle-jack-perry-aew-status-beach-break/",
       "t": "3h",
-      "dt": "2026-07-08T21:19:05+00:00"
+      "dt": "2026-07-09T02:01:09+00:00"
     }
   ]
 }

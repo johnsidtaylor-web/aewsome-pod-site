@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-09T15:34:08.448893+00:00",
+  "updated": "2026-07-09T18:07:03.817257+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,83 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Billy Gunn: You Love Giving 100% To Tony Khan Because He Gives 100%",
+      "p": "Billy Gunn has been with AEW since the start in 2019, working in a backstage coaching role and appearing as an in-ring talent. On television, Gunn was notably aligned with his sons Austin Gunn &...",
+      "link": "https://www.fightful.com/wrestling-news/billy-gunn-you-love-giving-100-to-tony-khan-because-he-gives-100/",
+      "t": "8m",
+      "dt": "2026-07-09T17:58:30+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Speedball Mike Bailey Reflects On Losing Friends To DCF",
+      "p": "As the Don Callis Family expands, they leave a lot of wrestlers behind their wake. Speedball Mike Bailey has lost a couple of friends to the DCF.",
+      "link": "https://www.wrestlinginc.com/2211645/aew-speedball-mike-bailey-reflects-losing-friends-dcf/",
+      "t": "18m",
+      "dt": "2026-07-09T17:48:13+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Powell’s AEW Dynamite Hit List: Thoughts on the Beach Break episode featuring the crowning of two new champions, the Casino Gauntlet, the unique setting",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the Beach Break episode featuring the crowning of two new champions, the Casino Gauntlet, the...",
+      "link": "https://prowrestling.net/site/2026/07/09/powells-aew-dynamite-hit-list-thoughts-on-the-beach-break-episode-featuring-the-crowning-of-two-new-champions-the-casino-gauntlet-the-unique-setting/",
+      "t": "46m",
+      "dt": "2026-07-09T17:20:58+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW confirms Andrade El Idolo match for next week’s Dynamite",
+      "p": "AEW has officially confirmed a match for next week’s edition of Dynamite. Andrade El Idolo vs. Jake Doyle of the Don Callis Family is now scheduled for the show. The match was set up on last...",
+      "link": "https://www.f4wonline.com/news/aew/aew-confirms-andrade-el-idolo-match-for-next-weeks-dynamite/",
+      "t": "1h",
+      "dt": "2026-07-09T16:54:27+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Report Details Backstage Reaction To Outdoor AEW Dynamite Taping: People Were 'Miserable'",
+      "p": "Despite many fans' enjoyment of the Beach Break edition of \"AEW Dynamite,\" the heat in Clearwater, Florida was too much for some people to cope with.",
+      "link": "https://www.wrestlinginc.com/2211548/aew-dynamite-beach-break-backstage-reaction-outdoor-taping-miserable/",
+      "t": "1h",
+      "dt": "2026-07-09T16:41:04+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Andrade El Idolo vs. Jake Doyle Set For 7/15 AEW Dynamite",
+      "p": "Andrade El Idolo begins his quest for gold on AEW Dynamite. All Elite Wrestling announced that Andrade will face Don Callis Family member Jake Doyle on the July 15 episode of AEW Dynamite. If...",
+      "link": "https://www.fightful.com/wrestling-news/andrade-el-idolo-vs-jake-doyle-set-for-7-15-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-07-09T16:36:27+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW All In lineup: Current world championship matches for the Wembley Stadium show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In lineup: Current world championship matches for the Wembley Stadium show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/09/aew-all-in-lineup-current-world-championship-matches-for-the-wembley-stadium-show/",
+      "t": "1h",
+      "dt": "2026-07-09T16:15:02+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE HITS & MISSES (7/8): MJF vs. Omega, the build for the AEW World Title match, Fletcher vs. Takeshita, Knight’s odd line, Thekla’s commentary, Willow’s pop",
+      "p": "Expectations were high for this episode of Dynamite which was promoted like a mini-PPV on free TV. Did it live up to the hype? HITS JERICHO VS. CIAMPA This was a hard-hitting grudge match that [...]",
+      "link": "https://www.pwtorch.com/site/2026/07/09/aew-dynamite-hits-misses-7-8-mjf-vs-omega-the-build-for-the-aew-world-title-match-fletcher-vs-takeshita-knights-odd-line-theklas-commentary-willows-pop/",
+      "t": "1h",
+      "dt": "2026-07-09T16:12:17+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Addresses TNA Sale Rumors, Whether He'd Buy The Company",
+      "p": "AEW star and TNA co-founder Jeff Jarrett addressed the rumors of TNA's sale and whether or not he'd buy the company.",
+      "link": "https://www.wrestlinginc.com/2211496/aew-jeff-jarrett-tna-sale-rumors-buy-company/",
+      "t": "2h",
+      "dt": "2026-07-09T15:58:27+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW Redemption lineup: First title match set for AEW’s newest pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: First title match set for AEW’s newest pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/09/aew-redemption-lineup-first-title-match-set-for-aews-newest-pay-per-view-event/",
-      "t": "3m",
+      "t": "2h",
       "dt": "2026-07-09T15:30:14+00:00"
     },
     {
@@ -24,7 +96,7 @@
       "h": "AEW wrestler among new CMLL Grand Prix additions",
       "p": "Another AEW name has been confirmed for the 2026 men’s edition of CMLL’s International Grand Prix. The Team World vs. Team Mexico cibernetico match is set to be held at Arena Mexico on Friday,...",
       "link": "https://www.f4wonline.com/news/aew/aew-wrestler-among-new-cmll-grand-prix-additions/",
-      "t": "20m",
+      "t": "2h",
       "dt": "2026-07-09T15:14:02+00:00"
     },
     {
@@ -32,80 +104,8 @@
       "h": "AEW adds two title matches to Collision lineup",
       "p": "AEW has added two title matches to the lineup for Collision. Saturday’s episode will take place live from the Berglund Center in Roanoke, Virginia. On Thursday, AEW confirmed that Mike Bailey will...",
       "link": "https://www.f4wonline.com/news/aew/aew-adds-two-title-matches-to-collision-lineup/",
-      "t": "45m",
+      "t": "3h",
       "dt": "2026-07-09T14:48:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mick Foley congratulates Kenny Omega on AEW World title win",
-      "p": "Mick Foley was in the building for AEW Beach Break last night — and he had big praise for the main event World Championship match between MJF and Kenny Omega. After debuting at Double or Nothing...",
-      "link": "https://www.f4wonline.com/news/aew/mick-foley-congratulates-kenny-omega-aew-world-title/",
-      "t": "52m",
-      "dt": "2026-07-09T14:41:10+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kenny Omega Thanks Fans Following AEW Title Win",
-      "p": "Kenny Omega shares his appreciation for the AEW faithful on social media following his world title win on Wednesday.",
-      "link": "https://www.wrestlinginc.com/2211371/kenny-omega-thanks-fans-aew-title-win/",
-      "t": "1h",
-      "dt": "2026-07-09T14:23:23+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Jeff Jarrett Says ‘Creative Plans Changed’ Regarding His Retirement Run",
-      "p": "In January 2025, Jeff Jarrett announced he had re-signed with AEW and said that he was going on one last run, hoping to win the AEW Championship. Jarrett lost to Claudio Castagnoli on the January...",
-      "link": "https://www.fightful.com/wrestling-news/jeff-jarrett-says-creative-plans-changed-regarding-his-retirement-run/",
-      "t": "1h",
-      "dt": "2026-07-09T14:23:01+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Paul Wight makes in-ring appearance during AEW Dynamite: Beach Break dark match",
-      "p": "Paul Wight delivered one of his echoing chops to Blake Christian as part of a post-match segment at Wednesday's AEW Dynamite event. The post Paul Wight makes in-ring appearance during AEW...",
-      "link": "https://www.postwrestling.com/2026/07/09/paul-wight-makes-in-ring-appearance-during-aew-dynamite-beach-break-dark-match/",
-      "t": "1h",
-      "dt": "2026-07-09T14:15:20+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Mark Davis in-ring return among three title matches booked for 7/11 AEW Collision",
-      "p": "Back following visa issues, Mark Davis will defend his AEW National Championship against Speedball Bailey on Collision. The post Mark Davis in-ring return among three title matches booked for 7/11...",
-      "link": "https://www.postwrestling.com/2026/07/09/mark-davis-in-ring-return-among-three-title-matches-booked-for-7-11-aew-collision/",
-      "t": "1h",
-      "dt": "2026-07-09T13:58:44+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mina Shirakawa Learns ‘Motorboating’ In English Thanks To Thekla",
-      "p": "Thekla was on commentary for the women’s casino gauntlet on AEW Dynamite Beach Break, and she was 100% Thekla. As Mina Shirakawa was in the ring, “The Toxic Spider,” said that wrestling Mina is...",
-      "link": "https://www.fightful.com/wrestling-news/mina-shirakawa-learns-motorboating-in-english-thanks-to-thekla/",
-      "t": "1h",
-      "dt": "2026-07-09T13:48:11+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub lineup: ROH Championship match headlines tonight’s show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: ROH Championship match headlines tonight’s show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/09/roh-on-honorclub-lineup-roh-championship-match-headlines-tonights-show/",
-      "t": "1h",
-      "dt": "2026-07-09T13:40:12+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Two Title Bouts Added To 7/11 AEW Collision",
-      "p": "Two title matches are official for AEW Collision. All Elite Wrestling confirmed that Hikaru Shida will make the first defense of her TBS Championship against Harley Cameron on the July 11 episode...",
-      "link": "https://www.fightful.com/wrestling-news/two-title-bouts-added-to-7-11-aew-collision/",
-      "t": "1h",
-      "dt": "2026-07-09T13:37:45+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Alvarez’s AEW Dynamite July 8, 2026 report for subscribers",
-      "p": "Bryan Alvarez’s report on this week’s edition of AEW Dynamite is now available for subscribers.",
-      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-july-8-2026-report-for-subscribers/",
-      "t": "2h",
-      "dt": "2026-07-09T13:21:37+00:00"
     }
   ]
 }

@@ -1,22 +1,54 @@
 {
-  "updated": "2026-07-09T23:35:14.949242+00:00",
+  "updated": "2026-07-10T04:11:44.490997+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "ROH TV Results (7/9): Bandido Defends ROH Title",
+      "p": "Ring of Honor Wrestling aired the latest episode of ROH TV on July 9. The event aired on HonorClub. Full results are below. ROH TV Results (7/9) Bang Bang Gang (Juice Robinson & Ace Austin) def....",
+      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-7-9-bandido-defends-roh-title/",
+      "t": "1h",
+      "dt": "2026-07-10T02:57:02+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
+      "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
+      "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
+      "t": "1h",
+      "dt": "2026-07-10T02:20:22+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 7/9 – The Fix w/Todd & Wade (pt. 1 of 2): Sami-Punk, MJF-Omega, Sheamus’s future, Conor McGregor media coverage, NJPW, NXT, more (93 min.)",
+      "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: A look at the Sheamus-WWE contract...",
+      "link": "https://www.pwtorch.com/site/2026/07/09/vip-podcast-7-9-the-fix-w-todd-wade-pt-1-of-2-sami-punk-mjf-omega-sheamuss-future-conor-mcgregor-media-coverage-njpw-nxt-more-93-min/",
+      "t": "2h",
+      "dt": "2026-07-10T01:25:13+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Contract Challenge, NJPW G1 Kickoff, Conor McGregor | Pollock & Thurston",
+      "p": "John Pollock and Brandon Thurston cover the challenge to unseal AEW contracts, Conor McGregor’s return, and NJPW's kickoff of the G1 Climax. The post AEW Contract Challenge, NJPW G1 Kickoff, Conor...",
+      "link": "https://www.postwrestling.com/2026/07/09/aew-contract-challenge-all-out-njpw-g1-kickoff-pollock-thurston-live-at-830-p-m-et/",
+      "t": "4h",
+      "dt": "2026-07-09T23:45:26+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "ROH TV live results: Bandido defends World title vs. Bryan Keith",
       "p": "Ring of Honor returns to HonorClub tonight. The only match announced for this week’s episode as of this writing is an ROH World Championship bout, with Bandido defending his title against Bryan...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-bandido-defends-world-title-vs-bryan-keith/",
-      "t": "30m",
+      "t": "5h",
       "dt": "2026-07-09T23:05:00+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "07/09 Dot Net Weekly audio show: Barnett and Powell on the AEW and WWE world title changes heading into major events, Sheamus, Dark Side of the Ring on TNA, AEW Dynamite",
       "p": "By Jake Barnett (@jakebarnett) and... The post 07/09 Dot Net Weekly audio show: Barnett and Powell on the AEW and WWE world title changes heading into major events, Sheamus, Dark Side of the Ring...",
       "link": "https://prowrestling.net/site/2026/07/09/07-09-dot-net-weekly-audio-show-barnett-and-powell-on-the-aew-and-wwe-world-title-changes-heading-into-major-events-sheamus-dark-side-of-the-ring-on-tna-aew-dynamite/",
-      "t": "45m",
+      "t": "5h",
       "dt": "2026-07-09T22:49:35+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "WWE Had Little To No Internal Discussion About Pursuing Jack Perry If He Entered Free Agency",
       "p": "A note about Jack Perry staying with AEW. The July 8th episode of AEW Dynamite: Beach Break featured a vignette to announce that Jack Perry re-signed with All Elite Wrestling. WrestleVotes on...",
       "link": "https://www.fightful.com/wrestling-news/wwe-had-little-to-no-internal-discussion-about-pursuing-jack-perry-if-he-entered-free-agency/",
-      "t": "55m",
+      "t": "5h",
       "dt": "2026-07-09T22:39:18+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Karen Jarrett: Tony Khan Goes Above And Beyond To Compensate Talent",
       "p": "Karen Jarrett shares her thoughts on Tony Khan. In the new season of Dark Side of the Ring, Karen Jarrett does not hold back when it comes to her thoughts on Dixie Carter, saying how she tried to...",
       "link": "https://www.fightful.com/wrestling-news/karen-jarrett-tony-khan-goes-above-and-beyond-to-compensate-talent/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-07-09T22:28:23+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "AEW's Jeff Jarrett Reflects On Sharing His Story With DSOTR",
       "p": "AEW's Jeff Jarrett explains how sharing his story on \"Dark Side of the Ring\" has helped his personal self-healing journey.",
       "link": "https://www.wrestlinginc.com/2211905/aew-jeff-jarrett-dsotr-sharing-story/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-07-09T21:18:00+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "POST NEWS: Kenny Omega captures AEW gold, Conor McGregor steroid report",
       "p": "Jack Wannan covers the news from Thursday, including Kenny Omega winning the AEW World Championship and a follow-up report on Conor McGregor. The post POST NEWS: Kenny Omega captures AEW gold,...",
       "link": "https://www.postwrestling.com/2026/07/09/post-news-kenny-omega-captures-aew-gold-conor-mcgregor-steroid-report/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-07-09T20:26:12+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "WOL: Dynamite, new AEW Champion, Wembley, tons more",
       "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including last night’s Dynamite, the Wembley booking and what we’ve got for top matches, Willow...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-dynamite-new-aew-champion-wembley-tons-more/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-07-09T20:04:39+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "AEW's Jeff Jarrett Describes Trying To Get Dixie Carter To Participate In DSOTR Doc",
       "p": "AEW's Jeff Jarrett describes trying to get former TNA President Dixie Carter to participate in Dark Side of the Ring's documentary on Jarrett and TNA",
       "link": "https://www.wrestlinginc.com/2211762/aew-jeff-jarrett-dixie-carter-dark-side-of-the-ring-tna/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-07-09T19:13:49+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "07/09 PW Boom (Episode 416): Zack Heydorn’s in-person take on CM Punk winning the WWE Championship and fan reaction to Oba Femi, plus Kenny Omega’s AEW World Championship win, Dark Side on TNA",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 07/09 PW Boom (Episode 416): Zack Heydorn’s in-person take on CM Punk winning the WWE Championship and fan reaction to Oba Femi, plus Kenny...",
-      "link": "https://prowrestling.net/site/2026/07/09/07-09-pw-boom-episode-416-zack-heydorns-in-person-take-on-cm-punk-winning-the-wwe-championship-and-fan-reaction-to-oba-femi-plus-kenny-omegas-aew-world-championship-win-dark-side-on-tna/",
-      "t": "4h",
-      "dt": "2026-07-09T19:06:23+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Maya World Says She'll Be 'Chasing' Feeling Of AEW Forbidden Door Match",
-      "p": "Maya World has been on an ascent in AEW since competing in the Owen Hart Cup Foundation tournament as a last minute replacement for Sareee.",
-      "link": "https://www.wrestlinginc.com/2211711/maya-world-chasing-aew-forbidden-door-match-mercedes-mone/",
-      "t": "5h",
-      "dt": "2026-07-09T18:30:28+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Speedball Mike Bailey Reflects On Losing Friends To DCF",
-      "p": "As the Don Callis Family expands, they leave a lot of wrestlers behind their wake. Speedball Mike Bailey has lost a couple of friends to the DCF.",
-      "link": "https://www.wrestlinginc.com/2211645/aew-speedball-mike-bailey-reflects-losing-friends-dcf/",
-      "t": "5h",
-      "dt": "2026-07-09T17:48:13+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Thoughts on the Beach Break episode featuring the crowning of two new champions, the Casino Gauntlet, the unique setting",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the Beach Break episode featuring the crowning of two new champions, the Casino Gauntlet, the...",
-      "link": "https://prowrestling.net/site/2026/07/09/powells-aew-dynamite-hit-list-thoughts-on-the-beach-break-episode-featuring-the-crowning-of-two-new-champions-the-casino-gauntlet-the-unique-setting/",
-      "t": "6h",
-      "dt": "2026-07-09T17:20:58+00:00"
     }
   ]
 }

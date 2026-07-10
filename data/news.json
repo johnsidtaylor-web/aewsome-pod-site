@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-10T14:49:24.883963+00:00",
+  "updated": "2026-07-10T17:05:51.236212+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "AEW All In London moves approximately 2,700 tickets after sale and Omega title win",
+      "p": "The combination of a sale and the announcement of the main event led to AEW seeing its biggest movement of tickets for All In since the initial on-sale. The post AEW All In London moves...",
+      "link": "https://www.postwrestling.com/2026/07/10/aew-all-in-london-moves-approximately-2700-tickets-after-sale-and-omega-title-win/",
+      "t": "26m",
+      "dt": "2026-07-10T16:39:16+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Maple Leaf Pro Wrestling added to MyAEW",
+      "p": "Maple Leaf Pro Wrestling is the latest addition to the MyAEW streaming service as it gears up for its television premiere in Canada next week. The post Maple Leaf Pro Wrestling added to MyAEW...",
+      "link": "https://www.postwrestling.com/2026/07/10/maple-leaf-pro-wrestling-added-to-myaew/",
+      "t": "49m",
+      "dt": "2026-07-10T16:16:25+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub results (7/9): Bandido vs. Bryan Keith for the ROH Championship, Grizzled Young Veterans vs. Ace Austin and Juice Robinson, Mance Warner vs. Matt Menard",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (7/9): Bandido vs. Bryan Keith for the ROH Championship, Grizzled Young Veterans vs. Ace Austin and Juice Robinson,...",
+      "link": "https://prowrestling.net/site/2026/07/10/roh-on-honorclub-results-7-9-bandido-vs-bryan-keith-for-the-roh-championship-grizzled-young-veterans-vs-ace-austin-and-juice-robinson-mance-warner-vs-matt-menard/",
+      "t": "1h",
+      "dt": "2026-07-10T15:45:52+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Maple Leaf Pro Weekly Show Set To Stream On MyAEW",
+      "p": "Maple Leaf Pro Wrestling's new weekly show is set to join the growing lineup of content on the MyAEW streaming platform.",
+      "link": "https://www.wrestlinginc.com/2212333/aew-myaew-mlp-maple-leaf-pro-weekly-show-stream/",
+      "t": "1h",
+      "dt": "2026-07-10T15:45:11+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage News On Whether WWE Had Interest In Jack Perry Prior To His AEW Re-Signing",
+      "p": "A new report has claimed that WWE had no interest in signing Jack Perry before he re-signed with AEW.",
+      "link": "https://www.wrestlinginc.com/2212315/wwe-jack-perry-interest-aew-re-signing/",
+      "t": "1h",
+      "dt": "2026-07-10T15:28:15+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Maple Leaf Pro Wrestling joins MyAEW",
+      "p": "All Elite Wrestling’s MyAEW streaming platform has gotten one of its biggest additions yet. It was announced today that Scott D’Amore’s Maple Leaf Pro Wrestling has joined MyAEW and will be airing...",
+      "link": "https://www.f4wonline.com/news/aew/maple-leaf-pro-wrestling-joins-myaew/",
+      "t": "2h",
+      "dt": "2026-07-10T14:54:23+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "July 13, 2026 Observer Newsletter: Kenny Omega & CM Punk win World titles, Conor McGregor returns to UFC, Tiger Mask retires",
       "p": "Dave Meltzer has posted the latest issue of the Wrestling Observer Newsletter at the close of a very busy week. It was a week that saw Kenny Omega win the AEW World title two days after CM Punk...",
       "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/won-kenny-omega-cm-punk-tiger-mask-dark-side-conor-mcgregor/",
-      "t": "18m",
+      "t": "2h",
       "dt": "2026-07-10T14:30:59+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "MLP Mayhem To Stream On MyAEW",
       "p": "Maple Leaf Pro Wrestling’s MLP Mayhem is coming to MyAEW. New episodes will stream every Thursday. From AEW: Maple Leaf Pro Wrestling’s Mayhem To Debut On MyAEW Streaming Service Beginning July 16...",
       "link": "https://www.fightful.com/wrestling-news/mlp-mayhem-to-stream-on-myaew/",
-      "t": "33m",
+      "t": "2h",
       "dt": "2026-07-10T14:16:09+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "Former AEW Star Allie 'Thrilled' With Return To TNA",
       "p": "TNA Wrestling's Allie has discussed her return to the promotion and how pleased she is to be back, speaking glowingly about her peers.",
       "link": "https://www.wrestlinginc.com/2212137/former-aew-star-allie-thrilled-return-tna/",
-      "t": "49m",
+      "t": "3h",
       "dt": "2026-07-10T14:00:00+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "CM Punk in AEW: Part 3 – AEW Rampage run and the start of the Eddie Kingston feud | Column",
       "p": "This was previously part of a book I had written and released on CM Punk’s debut to first AEW Title win in All Elite Wrestling, covering August 2021 until May 2022. I’ll be uploading it here...",
       "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-3-aew-rampage-run-start-eddie-kingston-feud-column/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-10T10:48:03+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Matt Hardy talks Sheamus potentially going to AEW: “It’s [All Elite] got a huge bloated roster that doesn’t use everybody”",
       "p": "TNA Tag Team Champion Matt Hardy recently discussed Sheamus leaving WWE and where the Irish star could potentially end up next. Speaking on The Extreme Life of Matt Hardy podcast, Hardy suggested...",
       "link": "https://www.f4wonline.com/news/wwe/matt-hardy-sheamus-wwe-tna-aew-release/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-10T10:35:44+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "AEW Dynamite Beach Break 2026 final ticket count confirmed",
       "p": "This week’s episode of AEW Dynamite was the Beach Break 2026 special, which took place from The BayCare Sound in Clearwater Beach, FL. WrestleTix have now confirmed the final count for the show,...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-beach-break-2026-final-ticket-count-confirmed/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-10T09:05:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW All In 2026 Ticket Sales update following 50% off sale announcement",
-      "p": "AEW All In 2026 is set to take place on Sunday, August 30 from Wembley Stadium in London, England. According to the latest report from WrestleTix, 29,127 tickets have been distributed for the...",
-      "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-ticket-sales-update-50-off-sale-announcement/",
-      "t": "6h",
-      "dt": "2026-07-10T07:52:40+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Karen Jarrett on Tony Khan: “That man gets so much sh*t online that he does not deserve”",
-      "p": "Karen Jarrett recently discussed AEW/Tony Khan following the release of the TNA Dark Side of the Ring episodes (Parts 1 and 2). Speaking on Jeff Jarrett’s My World podcast, Karen claimed that Khan...",
-      "link": "https://www.f4wonline.com/news/aew/karen-jarrett-tony-khan-tna-aew-online/",
-      "t": "7h",
-      "dt": "2026-07-10T07:30:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Results (7/9): Bandido Defends ROH Title",
-      "p": "Ring of Honor Wrestling aired the latest episode of ROH TV on July 9. The event aired on HonorClub. Full results are below. ROH TV Results (7/9) Bang Bang Gang (Juice Robinson & Ace Austin) def....",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-7-9-bandido-defends-roh-title/",
-      "t": "11h",
-      "dt": "2026-07-10T02:57:02+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 7/9 – The Fix w/Todd & Wade (pt. 1 of 2): Sami-Punk, MJF-Omega, Sheamus’s future, Conor McGregor media coverage, NJPW, NXT, more (93 min.)",
-      "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: A look at the Sheamus-WWE contract...",
-      "link": "https://www.pwtorch.com/site/2026/07/09/vip-podcast-7-9-the-fix-w-todd-wade-pt-1-of-2-sami-punk-mjf-omega-sheamuss-future-conor-mcgregor-media-coverage-njpw-nxt-more-93-min/",
-      "t": "13h",
-      "dt": "2026-07-10T01:25:13+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Contract Challenge, NJPW G1 Kickoff, Conor McGregor | Pollock & Thurston",
-      "p": "John Pollock and Brandon Thurston cover the challenge to unseal AEW contracts, Conor McGregor’s return, and NJPW's kickoff of the G1 Climax. The post AEW Contract Challenge, NJPW G1 Kickoff, Conor...",
-      "link": "https://www.postwrestling.com/2026/07/09/aew-contract-challenge-all-out-njpw-g1-kickoff-pollock-thurston-live-at-830-p-m-et/",
-      "t": "15h",
-      "dt": "2026-07-09T23:45:26+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "07/09 Dot Net Weekly audio show: Barnett and Powell on the AEW and WWE world title changes heading into major events, Sheamus, Dark Side of the Ring on TNA, AEW Dynamite",
-      "p": "By Jake Barnett (@jakebarnett) and... The post 07/09 Dot Net Weekly audio show: Barnett and Powell on the AEW and WWE world title changes heading into major events, Sheamus, Dark Side of the Ring...",
-      "link": "https://prowrestling.net/site/2026/07/09/07-09-dot-net-weekly-audio-show-barnett-and-powell-on-the-aew-and-wwe-world-title-changes-heading-into-major-events-sheamus-dark-side-of-the-ring-on-tna-aew-dynamite/",
-      "t": "15h",
-      "dt": "2026-07-09T22:49:35+00:00"
     }
   ]
 }

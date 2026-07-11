@@ -1,22 +1,46 @@
 {
-  "updated": "2026-07-11T12:03:07.316629+00:00",
+  "updated": "2026-07-11T13:50:45.754035+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision ticket distribution update for tonight’s show in Roanoke",
+      "p": "An update is available regarding how many tickets have been distributed for tonight’s live episode of AEW Collision. The show is set for the Berglund Coliseum in Roanoke, Virginia. According to a...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-update-for-tonights-show-in-roanoke/",
+      "t": "34m",
+      "dt": "2026-07-11T13:15:55+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Update on AEW’s decision to move Kenny Omega vs. MJF to Beach Break",
+      "p": "An update is available regarding why AEW moved a planned pay-per-view match between Kenny Omega and MJF to Wednesday’s Beach Break episode of Dynamite. Omega defeated MJF for the AEW World...",
+      "link": "https://www.f4wonline.com/news/aew/update-on-aews-decision-to-move-kenny-omega-vs-mjf-to-beach-break/",
+      "t": "1h",
+      "dt": "2026-07-11T12:34:29+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's MVP Looks Back On Historic Match With WWE HOFer Ric Flair",
+      "p": "AEW star MVP looks back on his historic match against WWE Hall of Famer Ric Flair at the 2008 Royal Rumble, a match where Flair's career was on the line",
+      "link": "https://www.wrestlinginc.com/2208906/aew-mvp-looks-back-historic-match-wwe-hofer-ric-flair/",
+      "t": "1h",
+      "dt": "2026-07-11T12:30:00+00:00"
+    },
     {
       "src": "Fightful",
       "h": "AEW Collision Preview, Start Time, How To Watch, Location (7/11)",
       "p": "Viewing information and lineup for AEW Collision on July 11, 2026 AEW Collision (July 11, 2026) Venue: Berglund Center City: Roanoke, VA Time: 8 pm ET Channel: TNT, HBO Max Lineup ROH World...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-7-11/",
-      "t": "2m",
+      "t": "1h",
       "dt": "2026-07-11T12:00:00+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "AEW Brawl In The Ballpark Results (7/10)",
       "p": "All Elite Wrestling held its AEW Brawl in the Ballpark event on July 10 from Target Field in Minneapolis, MN. Full results (courtesy of Fightful’s Rob Wilkins) are below AEW Brawl In The Ballpark...",
       "link": "https://www.fightful.com/wrestling-news/aew-brawl-in-the-ballpark-results-7-10/",
-      "t": "52m",
+      "t": "2h",
       "dt": "2026-07-11T11:10:30+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "AEW Collision lineup: Hangman Page’s return, championship matches set for tonight’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Hangman Page’s return, championship matches set for tonight’s live show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/11/aew-collision-lineup-hangman-pages-return-championship-matches-set-for-tonights-live-show/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-11T11:00:25+00:00"
     },
     {
@@ -40,23 +64,15 @@
       "h": "Hangman Page’s return announced for AEW Collision",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Hangman Page’s return announced for AEW Collision appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/10/hangman-pages-return-announced-for-aew-collision/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-07-11T02:47:54+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Hangman Adam Page Returns On 7/11 AEW Collision",
-      "p": "Hangman Adam Page will kick off this week’s AEW Collision. At AEW Revolution, Hangman Adam Page lost the AEW World Title to MJF. He disappeared from the company following this match. On social...",
-      "link": "https://www.fightful.com/wrestling-news/hangman-adam-page-returns-on-7-11-aew-collision/",
-      "t": "9h",
-      "dt": "2026-07-11T02:32:22+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Hangman Page returns to AEW programming on live edition of Collision",
       "p": "Tony Khan announced that Page will kick off Saturday’s live episode from Roanoke, Virginia. The post Hangman Page returns to AEW programming on live edition of Collision appeared first on POST...",
       "link": "https://www.postwrestling.com/2026/07/10/hangman-page-returns-to-aew-programming-on-live-edition-of-collision/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-07-11T02:24:03+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Hangman Page returning after nearly four month absence on AEW Collision",
       "p": "AEW Collision is known more for compelling wrestling matches than newsworthy segments. This week, however, may be an exception. During a live stream on social media, AEW CEO Tony Khan announced...",
       "link": "https://www.f4wonline.com/news/aew/hangman-page-appearance-shida-vs-cameron-announced-for-collision/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-07-11T02:17:49+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "AEW re-signs trio of original talent",
       "p": "It has been seven years since the birth of All Elite Wrestling. And today news broke that the company had re-signed three wrestlers who had been there since the beginning. According to a report at...",
       "link": "https://www.f4wonline.com/news/aew/aew-re-signs-trio-of-original-talent/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-07-11T01:54:03+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Daily Update: AEW Dynamite ratings & a look at this weekend’s shows",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-dynamite-ratings-a-look-at-this-weekends-shows/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-07-11T01:37:04+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "AEW Dynamite Viewership & Ratings Report, 7/8/2026",
       "p": "Kenny Omega's AEW World Championship win helped \"AEW Dynamite\" to its highest average viewership in nearly two years.",
       "link": "https://www.wrestlinginc.com/2212837/aew-dynamite-viewership-ratings-report-july-8-2026/",
-      "t": "10h",
-      "dt": "2026-07-11T01:20:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: Kenny Omega & CM Punk, TNA Dark Side of the Ring",
-      "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
-      "link": "https://www.f4wonline.com/podcasts/wor-kenny-omega-cm-punk-tna-dark-side-of-the-ring/",
-      "t": "11h",
-      "dt": "2026-07-11T00:54:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Beach Break ratings up with no sports competition",
-      "p": "Wednesday night’s episode of AEW Dynamite averaged 773,000 viewers on TBS, up 21.9% from the previous week. It’s the largest audience for the show since July 24, 2024 which was before the show was...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-beach-break-ratings-up-with-no-sports-competition/",
       "t": "12h",
-      "dt": "2026-07-10T23:42:16+00:00"
+      "dt": "2026-07-11T01:20:15+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T19:22:31.539947+00:00",
+  "updated": "2026-07-12T21:04:29.813344+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Talks TKO-Netflix Deal, Sheamus Departing WWE",
+      "p": "AEW star and TNA co-founder Jeff Jarrett spoke about TKO Group Holding's current deal with Netflix, as well as the recent departure of Sheamus from the company.",
+      "link": "https://www.wrestlinginc.com/2212642/aew-jeff-jarrett-tko-netflix-sheamus-wwe/",
+      "t": "1h",
+      "dt": "2026-07-12T20:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Roderick Strong Credits AEW Roster For 'Making Each Other Better'",
+      "p": "World Trios Champion Roderick Strong peals the curtain back on the current state of the All Elite Wrestling roster.",
+      "link": "https://www.wrestlinginc.com/2213134/roderick-strong-credits-aew-roster-making-each-other-better/",
+      "t": "1h",
+      "dt": "2026-07-12T19:49:58+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Daily Update: UFC 329 fallout & Hangman Page’s AEW Collision return",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-ufc-329-fallout-hangman-pages-aew-collision-return/",
-      "t": "10m",
+      "t": "1h",
       "dt": "2026-07-12T19:11:48+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Tommy Dreamer Makes Case For Adding MJF To AEW All In Main Event",
       "p": "Wrestling veteran Tommy Dreamer believes MJF should remain within title contention, arguing he should be featured in the main event at All In: London in August.",
       "link": "https://www.wrestlinginc.com/2213127/aew-all-in-mjf-tommy-dreamer-kenny-omega-will-ospreay-case-adding-main-event/",
-      "t": "12m",
+      "t": "1h",
       "dt": "2026-07-12T19:10:10+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Tommy Dreamer Believes Surprising AEW Figure Could Benefit From Mick Foley's Arrival",
       "p": "With Mick Foley now appearing on AEW programming, Tommy Dreamer believes he could draw a lot of money working against one figure in particular.",
       "link": "https://www.wrestlinginc.com/2212580/aew-tommy-dreamer-mick-foley-don-callis-surprising-benefit-arrival/",
-      "t": "22m",
+      "t": "2h",
       "dt": "2026-07-12T19:00:00+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Jim Ross Wants Kenny Omega To Have A Long Run As AEW World Champ After Dynamite Win",
       "p": "AEW commentator Jim Ross believes Kenny Omega should have a long and prosperous run after becoming the two-time world champion this past Wednesday.",
       "link": "https://www.wrestlinginc.com/2213081/aew-jim-ross-kenny-omega-long-run-world-champion-dynamite-will-ospreay-all-in/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-12T18:02:28+00:00"
     },
     {
@@ -48,39 +64,23 @@
       "h": "HOFer Jake Roberts Bemoans Lack Of Characters In WWE And AEW",
       "p": "WWE HOFer Jake Roberts is underwhelmed with the characters in wrestling, across the board.",
       "link": "https://www.wrestlinginc.com/2211716/hofer-jake-roberts-lack-characters-wwe-aew/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-12T15:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jim Ross Gives Health Update After Hospital Release, Talks Upcoming Brain Surgery",
-      "p": "AEW commentator Jim Ross opens up about his condition following his release from the hospital as well as his upcoming brain surgery.",
-      "link": "https://www.wrestlinginc.com/2213046/aew-jim-ross-health-update-hospital-release-brain-surgery/",
-      "t": "3h",
-      "dt": "2026-07-12T15:29:47+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW Collision 7/11 Results: Hangman targets new gold, Willow speaks, Mark Davis retains",
       "p": "Hangman Page returned to AEW television on Saturday to confirm his vow to never challenge for the World Championship, shifting his focus to the promotion's other singles titles. The post AEW...",
       "link": "https://www.postwrestling.com/2026/07/12/aew-collision-11-7-26-results-hangman-targets-new-gold-willow-speaks-mark-davis-retains/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-12T13:00:08+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Reflects On AEW World Title Stipulation Requested By Cody Rhodes, Adam Page",
-      "p": "AEW President Tony Khan has confirmed that both Cody Rhodes and Adam Page requested the stipulation banning them from challenging for the company's world title.",
-      "link": "https://www.wrestlinginc.com/2210859/tony-khan-aew-world-title-cody-rhodes-hangman-adam-page/",
-      "t": "6h",
-      "dt": "2026-07-12T13:00:00+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW to honor Rougeau wrestling dynasty during Redemption Buy-In",
       "p": "AEW is to celebrate 80 years of the Rougeau wrestling family dynasty during its Redemption pre-show in Montreal. The post AEW to honor Rougeau wrestling dynasty during Redemption Buy-In appeared...",
       "link": "https://www.postwrestling.com/2026/07/12/aew-to-honor-rougeau-wrestling-dynasty-during-redemption-buy-in/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-07-12T12:00:39+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "NJPW G1 CLIMAX 36 RESULTS – NIGHT 1 (7/11) – Results of Takeshita vs. Tsuji, Oiwa vs. Oleg, Uemura vs. Newman, ZSJ vs. Umino, more",
       "p": "NJPW G1 CLIMAX 36: NIGHT 1 REPORT JULY 11, 2026 HOFFMAN ESTATES, ILLINOIS AT NOW ARENA AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentator: Chris Charlton, Walker...",
       "link": "https://www.pwtorch.com/site/2026/07/12/njpw-g1-climax-36-results-night-1-7-11-results-of-takeshita-vs-tsuji-oiwa-vs-oleg-uemura-vs-newman-zsj-vs-umino-more/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-07-12T10:31:30+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "07/12 Pruett’s AEW Collision audio review: Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley Cameron for the TBS Title, Mark Davis vs. Mike Bailey for the AEW National Title",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 07/12 Pruett’s AEW Collision audio review: Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley Cameron for the TBS...",
       "link": "https://prowrestling.net/site/2026/07/12/07-12-pruetts-aew-collision-audio-review-bandido-vs-katsuyori-shibata-for-the-roh-title-hikaru-shida-vs-harley-cameron-for-the-tbs-title-mark-davis-vs-mike-bailey-for-the-aew-national-tit/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-07-12T06:32:45+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "NJPW “G1 Climax 36” results (7/11): Vetter’s in-person review of opening night, featuring Konosuke Takeshita vs. Yota Tsuji, Boltin Oleg vs. Ryohei Oiwa, and Shota Umino vs. Zack Sabre Jr.",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/11): Vetter’s in-person review of opening night, featuring Konosuke Takeshita vs. Yota Tsuji, Boltin Oleg...",
       "link": "https://prowrestling.net/site/2026/07/12/njpw-g1-climax-36-results-7-11-vetters-in-person-review-of-opening-night-featuring-konosuke-takeshita-vs-yota-tsuji-boltin-oleg-vs-ryohei-oiwa-and-shota-umino-vs-zack-sabre-jr/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-07-12T06:24:35+00:00"
     }
   ]

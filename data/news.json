@@ -1,22 +1,30 @@
 {
-  "updated": "2026-07-12T13:53:27.561729+00:00",
+  "updated": "2026-07-12T15:14:10.600629+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Maya World Says To Her, ‘AEW Is The Biggest Wrestling Company In The World’",
+      "p": "Maya World discusses what in her opinion, it takes to make in the world of professional wrestling while calling AEW the biggest company in the world. Over the course of the past several months,...",
+      "link": "https://www.fightful.com/wrestling-news/maya-world-says-to-her-aew-is-the-biggest-wrestling-company-in-the-world/",
+      "t": "58m",
+      "dt": "2026-07-12T14:15:16+00:00"
+    },
     {
       "src": "POST Wrestling",
       "h": "AEW Collision 7/11 Results: Hangman targets new gold, Willow speaks, Mark Davis retains",
       "p": "Hangman Page returned to AEW television on Saturday to confirm his vow to never challenge for the World Championship, shifting his focus to the promotion's other singles titles. The post AEW...",
       "link": "https://www.postwrestling.com/2026/07/12/aew-collision-11-7-26-results-hangman-targets-new-gold-willow-speaks-mark-davis-retains/",
-      "t": "53m",
+      "t": "2h",
       "dt": "2026-07-12T13:00:08+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Tony Khan Reflects On AEW World Title Stipulation Requested By Cody Rhodes, Adam Page",
       "p": "AEW President Tony Khan has confirmed that both Cody Rhodes and Adam Page requested the stipulation banning them from challenging for the company's world title.",
       "link": "https://www.wrestlinginc.com/2210859/tony-khan-aew-world-title-cody-rhodes-hangman-adam-page/",
-      "t": "53m",
+      "t": "2h",
       "dt": "2026-07-12T13:00:00+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW to honor Rougeau wrestling dynasty during Redemption Buy-In",
       "p": "AEW is to celebrate 80 years of the Rougeau wrestling family dynasty during its Redemption pre-show in Montreal. The post AEW to honor Rougeau wrestling dynasty during Redemption Buy-In appeared...",
       "link": "https://www.postwrestling.com/2026/07/12/aew-to-honor-rougeau-wrestling-dynasty-during-redemption-buy-in/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-12T12:00:39+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "NJPW G1 CLIMAX 36 RESULTS – NIGHT 1 (7/11) – Results of Takeshita vs. Tsuji, Oiwa vs. Oleg, Uemura vs. Newman, ZSJ vs. Umino, more",
       "p": "NJPW G1 CLIMAX 36: NIGHT 1 REPORT JULY 11, 2026 HOFFMAN ESTATES, ILLINOIS AT NOW ARENA AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentator: Chris Charlton, Walker...",
       "link": "https://www.pwtorch.com/site/2026/07/12/njpw-g1-climax-36-results-night-1-7-11-results-of-takeshita-vs-tsuji-oiwa-vs-oleg-uemura-vs-newman-zsj-vs-umino-more/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-12T10:31:30+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "07/12 Pruett’s AEW Collision audio review: Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley Cameron for the TBS Title, Mark Davis vs. Mike Bailey for the AEW National Title",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 07/12 Pruett’s AEW Collision audio review: Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley Cameron for the TBS...",
       "link": "https://prowrestling.net/site/2026/07/12/07-12-pruetts-aew-collision-audio-review-bandido-vs-katsuyori-shibata-for-the-roh-title-hikaru-shida-vs-harley-cameron-for-the-tbs-title-mark-davis-vs-mike-bailey-for-the-aew-national-tit/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-07-12T06:32:45+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "NJPW “G1 Climax 36” results (7/11): Vetter’s in-person review of opening night, featuring Konosuke Takeshita vs. Yota Tsuji, Boltin Oleg vs. Ryohei Oiwa, and Shota Umino vs. Zack Sabre Jr.",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/11): Vetter’s in-person review of opening night, featuring Konosuke Takeshita vs. Yota Tsuji, Boltin Oleg...",
       "link": "https://prowrestling.net/site/2026/07/12/njpw-g1-climax-36-results-7-11-vetters-in-person-review-of-opening-night-featuring-konosuke-takeshita-vs-yota-tsuji-boltin-oleg-vs-ryohei-oiwa-and-shota-umino-vs-zack-sabre-jr/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-07-12T06:24:35+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Rougeau wrestling dynasty celebration confirmed for AEW Redemption Buy In",
       "p": "AEW has announced a Rougeau wrestling dynasty celebration for the upcoming Redemption Buy In. Earlier this year, in May 2026, AEW announced the Redemption PPV for Montreal on July 26, 2026. While...",
       "link": "https://www.f4wonline.com/news/aew/rougeau-wrestling-dynasty-celebration-confirmed-for-aew-redemption-buy-in/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-07-12T04:58:46+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW COLLISION RESULTS (7/11): Hangman returns, Davis vs. Speedball for the National title, Shida defends TBS title against Harley, Bandido vs. Shibata, Death Riders in action, and more",
       "p": "AEW COLLISION REPORT JULY 11, 2026 ROANOKE, VA. AT BERGLUND COLISEUM AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel McGuinness Ring...",
       "link": "https://www.pwtorch.com/site/2026/07/11/aew-collision-results-7-11-davis-vs-speedball-for-the-national-title-shida-defends-tbs-title-against-harley-hangman-returns-bandido-vs-shibata-death-riders-in-action-and-more/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-07-12T03:43:58+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW Collision results (7/11): Murphy’s review of Hangman Page’s return, Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley Cameron for the TBS Title",
       "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (7/11): Murphy’s review of Hangman Page’s return, Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley...",
       "link": "https://prowrestling.net/site/2026/07/11/aew-collision-results-7-11-murphys-review-of-hangman-pages-return-bandido-vs-katsuyori-shibata-for-the-roh-title-hikaru-shida-vs-harley-cameron-for-the-tbs-title/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-07-12T03:30:11+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "NJPW G1 Climax 36 Night 1 Results: Yota Tsuji defeats Konosuke Takeshita, Aaron Wolf wins in tournament debut",
       "p": "Yota Tsuji defeated defending tournament winner Konosuke Takeshita as the G1 Climax 36 began Saturday at NOW Arena in Hoffman Estates, Illinois. The post NJPW G1 Climax 36 Night 1 Results: Yota...",
       "link": "https://www.postwrestling.com/2026/07/11/njpw-g1-climax-36-night-1-results-yota-tsuji-defeats-konosuke-takeshita-aaron-wolf-wins-in-tournament-debut/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-07-12T03:25:55+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Trios match, Kenny Omega celebration part of next week’s AEW Dynamite",
       "p": "AEW has announced a few new segments for next week’s Dynamite episode on July 15, 2026. Earlier this week, Kenny Omega defeated MJF to crown himself the brand new AEW World Champion. A few days...",
       "link": "https://www.f4wonline.com/news/aew/trios-match-kenny-omega-celebration-part-of-next-weeks-aew-dynamite/",
-      "t": "11h",
+      "t": "12h",
       "dt": "2026-07-12T02:50:03+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Scorpio Sky says ‘it’s hard’ not wrestling regularly in AEW",
-      "p": "Despite being part of the AEW roster since 2019, Scorpio Sky has not wrestled regularly on All Elite television recently. The 43-year-old member of SOcal Uncensored recently opened up on the...",
-      "link": "https://www.f4wonline.com/news/aew/scorpio-sky-says-its-hard-not-wrestling-regularly-in-aew/",
-      "t": "11h",
-      "dt": "2026-07-12T02:20:38+00:00"
     }
   ]
 }

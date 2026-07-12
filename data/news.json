@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T03:53:30.932002+00:00",
+  "updated": "2026-07-12T06:44:41.514655+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "07/12 Pruett’s AEW Collision audio review: Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley Cameron for the TBS Title, Mark Davis vs. Mike Bailey for the AEW National Title",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 07/12 Pruett’s AEW Collision audio review: Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley Cameron for the TBS...",
+      "link": "https://prowrestling.net/site/2026/07/12/07-12-pruetts-aew-collision-audio-review-bandido-vs-katsuyori-shibata-for-the-roh-title-hikaru-shida-vs-harley-cameron-for-the-tbs-title-mark-davis-vs-mike-bailey-for-the-aew-national-tit/",
+      "t": "11m",
+      "dt": "2026-07-12T06:32:45+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "NJPW “G1 Climax 36” results (7/11): Vetter’s in-person review of opening night, featuring Konosuke Takeshita vs. Yota Tsuji, Boltin Oleg vs. Ryohei Oiwa, and Shota Umino vs. Zack Sabre Jr.",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/11): Vetter’s in-person review of opening night, featuring Konosuke Takeshita vs. Yota Tsuji, Boltin Oleg...",
+      "link": "https://prowrestling.net/site/2026/07/12/njpw-g1-climax-36-results-7-11-vetters-in-person-review-of-opening-night-featuring-konosuke-takeshita-vs-yota-tsuji-boltin-oleg-vs-ryohei-oiwa-and-shota-umino-vs-zack-sabre-jr/",
+      "t": "20m",
+      "dt": "2026-07-12T06:24:35+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Rougeau wrestling dynasty celebration confirmed for AEW Redemption Buy In",
+      "p": "AEW has announced a Rougeau wrestling dynasty celebration for the upcoming Redemption Buy In. Earlier this year, in May 2026, AEW announced the Redemption PPV for Montreal on July 26, 2026. While...",
+      "link": "https://www.f4wonline.com/news/aew/rougeau-wrestling-dynasty-celebration-confirmed-for-aew-redemption-buy-in/",
+      "t": "1h",
+      "dt": "2026-07-12T04:58:46+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "AEW COLLISION RESULTS (7/11): Hangman returns, Davis vs. Speedball for the National title, Shida defends TBS title against Harley, Bandido vs. Shibata, Death Riders in action, and more",
       "p": "AEW COLLISION REPORT JULY 11, 2026 ROANOKE, VA. AT BERGLUND COLISEUM AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel McGuinness Ring...",
       "link": "https://www.pwtorch.com/site/2026/07/11/aew-collision-results-7-11-davis-vs-speedball-for-the-national-title-shida-defends-tbs-title-against-harley-hangman-returns-bandido-vs-shibata-death-riders-in-action-and-more/",
-      "t": "9m",
+      "t": "3h",
       "dt": "2026-07-12T03:43:58+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "AEW Collision results (7/11): Murphy’s review of Hangman Page’s return, Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley Cameron for the TBS Title",
       "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (7/11): Murphy’s review of Hangman Page’s return, Bandido vs. Katsuyori Shibata for the ROH Title, Hikaru Shida vs. Harley...",
       "link": "https://prowrestling.net/site/2026/07/11/aew-collision-results-7-11-murphys-review-of-hangman-pages-return-bandido-vs-katsuyori-shibata-for-the-roh-title-hikaru-shida-vs-harley-cameron-for-the-tbs-title/",
-      "t": "23m",
+      "t": "3h",
       "dt": "2026-07-12T03:30:11+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "NJPW G1 Climax 36 Night 1 Results: Yota Tsuji defeats Konosuke Takeshita, Aaron Wolf wins in tournament debut",
       "p": "Yota Tsuji defeated defending tournament winner Konosuke Takeshita as the G1 Climax 36 began Saturday at NOW Arena in Hoffman Estates, Illinois. The post NJPW G1 Climax 36 Night 1 Results: Yota...",
       "link": "https://www.postwrestling.com/2026/07/11/njpw-g1-climax-36-night-1-results-yota-tsuji-defeats-konosuke-takeshita-aaron-wolf-wins-in-tournament-debut/",
-      "t": "27m",
+      "t": "3h",
       "dt": "2026-07-12T03:25:55+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Trios match, Kenny Omega celebration part of next week’s AEW Dynamite",
       "p": "AEW has announced a few new segments for next week’s Dynamite episode on July 15, 2026. Earlier this week, Kenny Omega defeated MJF to crown himself the brand new AEW World Champion. A few days...",
       "link": "https://www.f4wonline.com/news/aew/trios-match-kenny-omega-celebration-part-of-next-weeks-aew-dynamite/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-12T02:50:03+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "AEW To Celebrate 80 Years Of The Rougeau Wrestling Family During AEW Redemption Buy In",
       "p": "Earlier in May, AEW announced the inaugural Redemption pay-per-view for Montreal on July 26. So far, only one match has been announced for the show, and it’s the AEW Women’s World Championship...",
       "link": "https://www.fightful.com/wrestling-news/aew-to-celebrate-80-years-of-the-rougeau-wrestling-family-during-aew-redemption-buy-in/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-12T02:32:05+00:00"
     },
     {
@@ -56,15 +80,23 @@
       "h": "Scorpio Sky says ‘it’s hard’ not wrestling regularly in AEW",
       "p": "Despite being part of the AEW roster since 2019, Scorpio Sky has not wrestled regularly on All Elite television recently. The 43-year-old member of SOcal Uncensored recently opened up on the...",
       "link": "https://www.f4wonline.com/news/aew/scorpio-sky-says-its-hard-not-wrestling-regularly-in-aew/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-12T02:20:38+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Hangman Returns: AEW Collision 7/11/26 Review | COLLISION COURSE",
+      "p": "Kate from Montreal & John Kleinchester review this week's AEW Collision featuring three championship bouts and the return of Hangman Page. The post Hangman Returns: AEW Collision 7/11/26 Review |...",
+      "link": "https://www.postwrestling.com/2026/07/11/hangman-returns-aew-collision-7-11-26-review-collision-course-live-1015pm-et/",
+      "t": "4h",
+      "dt": "2026-07-12T02:15:04+00:00"
     },
     {
       "src": "Fightful",
       "h": "Kenny Omega AEW World Title Celebration Added To 7/15 AEW Dynamite",
       "p": "Kenny Omega segment announced for upcoming AEW Dynamite. During the 7/8 AEW Dynamite, Kenny Omega defeated MJF for the AEW World Championship. This was Omega’s first world title win in AEW since...",
       "link": "https://www.fightful.com/wrestling-news/kenny-omega-aew-world-title-celebration-added-to-7-15-aew-dynamite/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-12T01:39:20+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Hangman Page confirms he’ll never challenge for AEW World title again",
       "p": "Hangman Page has made it clear what his future goals are. After being gone from the promotion since March, Page returned at the start of Saturday’s AEW Collision in his home state of Virginia. He...",
       "link": "https://www.f4wonline.com/news/aew/hangman-page-reaffirms-hell-never-challenge-for-aew-world-title-again/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-12T00:54:52+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Hangman Page returns on Collision, vows to never challenge for the AEW World Championship",
-      "p": "Hangman Adam Page returned to AEW programming on Saturday night to set his sights on the other championships he can fight for. The post Hangman Page returns on Collision, vows to never challenge...",
-      "link": "https://www.postwrestling.com/2026/07/11/hangman-page-returns-on-collision-vows-to-never-challenge-for-the-aew-world-championship/",
-      "t": "3h",
-      "dt": "2026-07-12T00:35:11+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Hangman Returns: AEW Collision 7/11/26 Review | COLLISION COURSE (Live 10:15pm ET)",
-      "p": "TONIGHT 10:15PM ET — Kate from Montreal & John Kleinchester review this week's #AEWCollision featuring the return of Hangman Page and three championship bouts. The post Hangman Returns: AEW...",
-      "link": "https://www.postwrestling.com/2026/07/11/hangman-returns-aew-collision-7-11-26-review-collision-course-live-1015pm-et/",
-      "t": "3h",
-      "dt": "2026-07-12T00:15:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision live results: Hangman Page returns",
-      "p": "AEW Collision is live tonight from Roanoke, Virginia. Former AEW World Champion Hangman Adam Page is scheduled to kick off the show. It will be his first appearance in AEW since losing to MJF at...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-hangman-page-returns/",
-      "t": "4h",
-      "dt": "2026-07-11T23:05:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Collision Results 7/11 - Three Titles On The Line, Hangman Adam Page Returns",
-      "p": "This is Wrestling Inc.'s live coverage of \"AEW Collision\" emanating from the Berglund Center in Roanoke, Virginia.",
-      "link": "https://www.wrestlinginc.com/2212977/aew-collision-july-11-2026-results/",
-      "t": "4h",
-      "dt": "2026-07-11T23:00:00+00:00"
     }
   ]
 }

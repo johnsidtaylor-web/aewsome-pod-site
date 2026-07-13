@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-13T07:34:54.306220+00:00",
+  "updated": "2026-07-13T11:27:16.889723+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW name does not want Will Ospreay beating Kenny Omega at All Out",
+      "p": "Jim Ross recently spoke on his Grilling JR podcast about Kenny Omega, where he labelled ‘The Cleaner’ as the best in-ring performer in the world right now. Speaking about Omega’s recent AEW World...",
+      "link": "https://www.f4wonline.com/news/aew/jim-ross-will-ospreay-kenny-omega-all-out-2026/",
+      "t": "39m",
+      "dt": "2026-07-13T10:47:49+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Ticket Sales update for this week at MGM Music Hall",
+      "p": "AEW Dynamite takes place this week from the MGM Music Hall at Fenway, Boston, Mass. According to the latest report from WrestleTix, 2,628 tickets have been distributed for the show thus far, which...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-mgm-music-hall/",
+      "t": "1h",
+      "dt": "2026-07-13T10:15:24+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Report on backstage reaction to MJF vs Kenny Omega from AEW Beach Break",
+      "p": "MJF vs Kenny Omega for the AEW Championship took place last week during the Beach Break 2026 episode of AEW Dynamite. Omega would win the match and the title, setting up the main event for AEW’s...",
+      "link": "https://www.f4wonline.com/news/aew/report-backstage-reaction-mjf-vs-kenny-omega-aew-beach-break-2026/",
+      "t": "1h",
+      "dt": "2026-07-13T09:32:07+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "FREE PODCAST 7/12 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Darby vs. Ethan in Coffin Match, Omega-Hangman exchange, Christian vs. Matt Hardy, more (160 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (7-14-2021), PWTorch assistant editor Zack Heydorn guest hosts for Wade Keller and is joined by...",
       "link": "https://www.pwtorch.com/site/2026/07/12/free-podcast-7-12-wkpwp-aew-dynamite-post-show-5-yrs-ago-darby-vs-ethan-in-coffin-match-omega-hangman-exchange-christian-vs-matt-hardy-more-160-min/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-07-13T04:00:35+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Report: Update on when Jack Perry signed new AEW contract",
       "p": "When Jack Perry signed his AEW contract, he really did sign it. Fightful Select reported on Sunday that Perry signed his new deal with AEW during the segment that aired on Wednesday’s Dynamite....",
       "link": "https://www.f4wonline.com/news/aew/report-update-on-when-jack-perry-signed-new-aew-contract/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-07-13T01:38:17+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "AJ Styles On Whether Kenny Omega Will Ever Come To WWE: Why? He’s Put His Heart And Soul Into AEW",
       "p": "AJ Styles shares his thoughts on whether we’ll see Kenny Omega in WWE. Kenny Omega recently won his second AEW World Championship after defeating MJF during AEW Dynamite Beach Break. He’s now...",
       "link": "https://www.fightful.com/wrestling-news/aj-styles-on-whether-kenny-omega-will-ever-come-to-wwe-why-would-you-hes-put-his-heart-and-soul-into-aew/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-07-13T01:33:55+00:00"
     },
     {
@@ -40,23 +64,15 @@
       "h": "Jack Perry Actually Signed Contract On AEW Dynamite",
       "p": "Details on Jack Perry re-signing with AEW. Fightful Select reports, “Jack Perry actually signed his AEW contract on the AEW Dynamite segment, Fightful Select has learned. He had not re-signed...",
       "link": "https://www.fightful.com/uncategorized/jack-perry-actually-signed-contract-on-aew-dynamite/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-07-13T00:41:19+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kenny Omega Winning AEW Title Had Been Planned For Months",
-      "p": "Details on Kenny Omega winning the AEW World Title. Fightful Select reports, “There was a talking point that AEW did their title change on TV to “steal thunder” from CM Punk’s title win. It was...",
-      "link": "https://www.fightful.com/wrestling-news/kenny-omega-winning-aew-title-had-been-planned-for-months/",
-      "t": "8h",
-      "dt": "2026-07-12T23:27:58+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Kyle Fletcher opens up regarding recent dehyrdation issues",
       "p": "Kyle Fletcher is opening up about his recent injury scare. Two weeks ago during a Collision taping in San Diego, Fletcher appeared to struggle during a match against ELP. Afterwards, he was seen...",
       "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-opens-up-regarding-recent-dehyrdation-issues/",
-      "t": "8h",
+      "t": "12h",
       "dt": "2026-07-12T23:08:30+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "G1 Climax 36 Contest: Night 1 Results",
       "p": "Contest standings after night 1 headlined by Yota Tsuji vs. Konosuke Takeshita. The post G1 Climax 36 Contest: Night 1 Results appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW...",
       "link": "https://www.postwrestling.com/2026/07/12/g1-climax-36-contest-night-1-results/",
-      "t": "9h",
+      "t": "13h",
       "dt": "2026-07-12T21:56:54+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "AEW's Jeff Jarrett Talks TKO-Netflix Deal, Sheamus Departing WWE",
       "p": "AEW star and TNA co-founder Jeff Jarrett spoke about TKO Group Holding's current deal with Netflix, as well as the recent departure of Sheamus from the company.",
       "link": "https://www.wrestlinginc.com/2212642/aew-jeff-jarrett-tko-netflix-sheamus-wwe/",
-      "t": "11h",
+      "t": "15h",
       "dt": "2026-07-12T20:00:00+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Roderick Strong Credits AEW Roster For 'Making Each Other Better'",
       "p": "World Trios Champion Roderick Strong peals the curtain back on the current state of the All Elite Wrestling roster.",
       "link": "https://www.wrestlinginc.com/2213134/roderick-strong-credits-aew-roster-making-each-other-better/",
-      "t": "11h",
+      "t": "15h",
       "dt": "2026-07-12T19:49:58+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Daily Update: UFC 329 fallout & Hangman Page’s AEW Collision return",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-ufc-329-fallout-hangman-pages-aew-collision-return/",
-      "t": "12h",
+      "t": "16h",
       "dt": "2026-07-12T19:11:48+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tommy Dreamer Makes Case For Adding MJF To AEW All In Main Event",
-      "p": "Wrestling veteran Tommy Dreamer believes MJF should remain within title contention, arguing he should be featured in the main event at All In: London in August.",
-      "link": "https://www.wrestlinginc.com/2213127/aew-all-in-mjf-tommy-dreamer-kenny-omega-will-ospreay-case-adding-main-event/",
-      "t": "12h",
-      "dt": "2026-07-12T19:10:10+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tommy Dreamer Believes Surprising AEW Figure Could Benefit From Mick Foley's Arrival",
-      "p": "With Mick Foley now appearing on AEW programming, Tommy Dreamer believes he could draw a lot of money working against one figure in particular.",
-      "link": "https://www.wrestlinginc.com/2212580/aew-tommy-dreamer-mick-foley-don-callis-surprising-benefit-arrival/",
-      "t": "12h",
-      "dt": "2026-07-12T19:00:00+00:00"
     }
   ]
 }

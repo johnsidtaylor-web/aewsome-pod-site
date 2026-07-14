@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T03:30:23.857143+00:00",
+  "updated": "2026-07-14T06:22:49.256848+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -7,7 +7,7 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
@@ -16,7 +16,7 @@
       "h": "Will Ospreay on leaving New Japan: ‘I was just over the office’",
       "p": "Will Ospreay spent nearly a decade blossoming into Stardom in New Japan Pro Wrestling. He left in 2024 to join All Elite Wrestling, but now he’s saying the new opportunity wasn’t his only reason...",
       "link": "https://www.f4wonline.com/news/japan/will-ospreay-on-leaving-new-japan-i-was-just-over-the-office/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-14T01:15:05+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "Biggest Winners And Losers Of The Week — 7/13/2026",
       "p": "After a week that saw two world title changes on free TV, from Kenny Omega to Sami Zayn, here are your WINC winners and losers for the week of 7/13/2026!",
       "link": "https://www.wrestlinginc.com/2214293/biggest-winners-losers-week-july-13-2026/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-13T22:43:11+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "Dave Meltzer: Omega vs. MJF title change brings largest audience in years",
       "p": "Dave Meltzer has a new premium article up on the site for subscribers looking at the AEW Dynamite Beach Break ratings.",
       "link": "https://www.f4wonline.com/news/aew/dave-meltzer-omega-vs-mjf-title-change-brings-largest-audience-in-years/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-13T22:22:29+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "AEW Full Gear date and location announced",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Full Gear date and location announced appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/13/aew-full-gear-date-and-location-announced-2/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-07-13T21:04:18+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "POST NEWS: Survivor Series & Full Gear announced, Weekend Recap",
       "p": "Jack Wannan covers the news from Monday, including a recap of the weekend, big event announcements from WWE and AEW, Club WWE news & more. The post POST NEWS: Survivor Series & Full Gear...",
       "link": "https://www.postwrestling.com/2026/07/13/post-news-survivor-series-full-gear-announced-weekend-recap/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-07-13T20:35:38+00:00"
     },
     {
@@ -56,7 +56,7 @@
       "h": "Backstage Report On Jack Perry Signing His AEW Contract On Dynamite",
       "p": "After weeks of speculation, \"Jungle\" Jack Perry re-signed with AEW. He is an AEW Original and has been with the company for seven years.",
       "link": "https://www.wrestlinginc.com/2213928/aew-dynamite-jack-perry-signing-contract-backstage-report/",
-      "t": "9h",
+      "t": "12h",
       "dt": "2026-07-13T17:52:33+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "Jim Ross Comments On Ex-WWE Star Sheamus Possibly Coming To AEW, Re-Forming Tag Team",
       "p": "Jim Ross believes that Sheamus would be a great addition to AEW's roster, especially if he reunites with his former WWE tag team partner.",
       "link": "https://www.wrestlinginc.com/2213897/jim-ross-sheamus-aew-wwe-claudio-castagnoli-the-bar/",
-      "t": "9h",
+      "t": "12h",
       "dt": "2026-07-13T17:39:56+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "AEW Announces Date & Location Of Full Gear 2026",
       "p": "AEW announces the date and location for Full Gear 2026, revealing the promotion will be returning to the same state they held Double or Nothing 2025",
       "link": "https://www.wrestlinginc.com/2213879/aew-full-gear-2026-november-phoenix-arizona/",
-      "t": "9h",
+      "t": "12h",
       "dt": "2026-07-13T17:31:18+00:00"
     },
     {
@@ -80,23 +80,15 @@
       "h": "AEW COLLISION HITS & MISSES (7/11): Hangman returns, Shida retains the TBS Title, Davis vs. Mike Bailey for the National Championship",
       "p": "To help add context, my “Hits” are ordered from best to worst. This week’s Collision wasn’t built around shocking twists or major surprises. Instead, AEW used the show to strengthen its biggest...",
       "link": "https://www.pwtorch.com/site/2026/07/13/aew-collision-hits-misses-7-11-hangman-returns-shida-retains-the-tbs-title-davis-vs-mike-bailey-for-the-national-championship/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-07-13T17:22:57+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Additional Details On Decision To Have Kenny Omega Win AEW Title From MJF On Dynamite",
-      "p": "Kenny Omega won the AEW Men's World Championship for the second time when he defeated MJF on AEW \"Dynamite: Beach Break\".",
-      "link": "https://www.wrestlinginc.com/2213790/aew-dynamite-kenny-omega-mjf-decision-win-title-additional-details/",
-      "t": "10h",
-      "dt": "2026-07-13T16:52:56+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW Full Gear announced for Phoenix, Arizona on November 14",
       "p": "Phoenix, Arizona will receive its first-ever AEW PPV this fall when Full Gear heads to the Mortgage Matchup Center. The post AEW Full Gear announced for Phoenix, Arizona on November 14 appeared...",
       "link": "https://www.postwrestling.com/2026/07/13/aew-full-gear-announced-for-phoenix-arizona-on-november-14/",
-      "t": "10h",
+      "t": "13h",
       "dt": "2026-07-13T16:46:25+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "AEW reveals Full Gear 2026 date and location",
       "p": "Another piece of AEW’s 2026 pay-per-view schedule has been revealed with the promotion heading west for Full Gear. Full Gear 2026 will be held in Phoenix, Arizona at the Mortgage Matchup Center on...",
       "link": "https://www.f4wonline.com/uncategorized/aew-reveals-full-gear-2026-date-and-location/",
-      "t": "10h",
+      "t": "13h",
       "dt": "2026-07-13T16:33:17+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay discusses special AEW All In entrance plans and Wembley Stadium main event",
+      "p": "Will Ospreay opened up about his journey to becoming a popular name in wrestling, his upcoming AEW World Championship opportunity, and why fans shouldn’t expect an Assassin’s Creed-inspired...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-discusses-special-aew-all-in-entrance-plans-and-wembley-stadium-main-event/",
+      "t": "16h",
+      "dt": "2026-07-13T14:18:52+00:00"
     }
   ]
 }

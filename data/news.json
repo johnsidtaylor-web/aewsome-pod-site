@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T22:12:31.001090+00:00",
+  "updated": "2026-07-15T23:11:54.001479+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
@@ -13,10 +13,50 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "AEW Dynamite live results: Kenny Omega championship celebration",
+      "p": "AEW Dynamite is live tonight from the MGM Music Hall in Boston, Massachusetts. Scheduled for the show, new AEW World Champion Kenny Omega will hold a championship celebration. Omega defeated MJF...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-kenny-omega-championship-celebration/",
+      "t": "6m",
+      "dt": "2026-07-15T23:05:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Results 7/15 - Andrade El Idolo Faces Jake Doyle, Six Woman Tag Match",
+      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on July 15, 2026, with a singles match between Andrade El Idolo and The Don Calls Family's Jake Doyle!",
+      "link": "https://www.wrestlinginc.com/2215366/aew-dynamite-july-15-andrade-el-idolo-jake-doyle-six-woman-tag-match/",
+      "t": "11m",
+      "dt": "2026-07-15T23:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Scott D’Amore: When Don Callis & I Took Over IMPACT/TNA, I Tried To Bring Mike Tenay Back",
+      "p": "Scott D’Amore wanted Mike Tenay back at the commentary booth. As the debut of MLP Mayhem on TSN inches closer, the promotion’s owner, Scott D’Amore, made the media rounds. One of his stops was The...",
+      "link": "https://www.fightful.com/wrestling-news/scott-damore-when-don-callis-i-took-over-impact-tna-i-tried-to-bring-mike-tenay-back/",
+      "t": "34m",
+      "dt": "2026-07-15T22:37:22+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Report On MJF's AEW Schedule Following World Title Loss",
+      "p": "Following his loss to Kenny Omega last week on \"AEW Dynamite,\" MJF could be taking some time off.",
+      "link": "https://www.wrestlinginc.com/2216231/aew-mjf-schedule-world-title-loss-time-off-tv/",
+      "t": "35m",
+      "dt": "2026-07-15T22:36:44+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Scott D’Amore Believes Mauro Ranallo Is Indisputably The Best Combat Sports Announcer In History",
+      "p": "High praise for Mauro Ranallo. The debut of Maple Leaf Pro Wrestling’s ‘Mayhem’ show on TSN is on July 15th. The commentary team for the show will be Mauro Ranallo and Don Callis. The promotion’s...",
+      "link": "https://www.fightful.com/wrestling-news/scott-damore-believes-mauro-ranallo-is-indisputably-the-best-combat-sports-announcer-in-history/",
+      "t": "48m",
+      "dt": "2026-07-15T22:23:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "Adam Copeland and Christian Cage to defend AEW Tag Team titles on Dynamite",
       "p": "The AEW World Tag Team titles will be on the line tonight in Boston. In a video posted by AEW just hours before the show is set to begin, Adam Copeland and Christian Cage announced that they will...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-and-christian-cage-to-defend-aew-tag-team-titles-on-dynamite/",
-      "t": "36m",
+      "t": "1h",
       "dt": "2026-07-15T21:36:02+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "AEW Tag Team Title Bout Added To 7/15 AEW Dynamite",
       "p": "The AEW Tag Team Titles will be on the line on the July 15 episode of AEW Dynamite. All Elite Wrestling announced that Cage & Cope (Adam Copeland & Christian Cage) will defend the Tag Team Titles...",
       "link": "https://www.fightful.com/wrestling-news/aew-tag-team-title-bout-added-to-7-15-aew-dynamite/",
-      "t": "38m",
+      "t": "1h",
       "dt": "2026-07-15T21:33:58+00:00"
     },
     {
@@ -32,23 +72,15 @@
       "h": "Backstage Update On AEW World Title Match Planned For Redemption Pay-Per-View",
       "p": "A new report indicated that AEW World Champion Kenny Omega could be defending his gold against a fast-rising star at AEW Redemption.",
       "link": "https://www.wrestlinginc.com/2216130/aew-redemption-2026-kenny-omega-kevin-knight-backstage-update-world-title-match/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-15T20:44:48+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MJF Is Expected To Be Factored Into AEW All In Plans",
-      "p": "An update on MJF. Fightful Select has an update on three-time AEW World Champion MJF, whose latest title reign ended at AEW Dynamite: Beach Break, where he was defeated by Kenny Omega. MJF may be...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-is-expected-to-be-factored-into-aew-all-in-plans/",
-      "t": "1h",
-      "dt": "2026-07-15T20:19:04+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Update on planned AEW Redemption main event | Exclusive",
       "p": "Kevin Knight could be challenging for the AEW World Championship later this month. According to our own Bryan Alvarez, the plan as of a few days ago was for Kenny Omega to defend the title against...",
       "link": "https://www.f4wonline.com/news/aew/update-on-planned-aew-redemption-main-event-exclusive/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-15T19:39:34+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Update on MJF’s AEW status following World title loss",
       "p": "MJF could be off AEW programming for a period of time. Fightful Select reported on Wednesday that, when asking about plans for MJF at the upcoming Redemption pay-per-view in Montreal, it was...",
       "link": "https://www.f4wonline.com/news/aew/update-on-mjfs-aew-status-following-world-title-loss/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-15T19:21:58+00:00"
     },
     {
@@ -64,16 +96,8 @@
       "h": "AEW DYNAMITE PREVIEW (7/15): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, JULY 15, 2026 Where: BOSTON, MASS. AT MGM MUSIC HALL How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,862 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/07/15/aew-dynamite-preview-7-15-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-15T18:49:05+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Don Callis On A Potential Return To The Ring: I Don’t Want To Say There’s No Amount Of Money Because There’s Always An Amount Of Money",
-      "p": "Don Callis comments on a potential return to the ring. Callis hasn’t wrestled since 2019, when he teamed with Sweet And Tasty (Bobby Schink & Travis Cole) to take on the trio of Chris Stevens,...",
-      "link": "https://www.fightful.com/wrestling-news/don-callis-on-a-potential-return-to-the-ring-i-dont-want-to-say-theres-no-amount-of-money-because-theres-always-an-amount-of-money/",
-      "t": "3h",
-      "dt": "2026-07-15T18:43:32+00:00"
     },
     {
       "src": "Wrestling Observer",
@@ -82,30 +106,6 @@
       "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-6-mjf-feud-january-2022-column/",
       "t": "4h",
       "dt": "2026-07-15T18:11:54+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Triangle Of Madness Appear On STARDOM Livestream To Lay Out Title Challenge",
-      "p": "The Triangle of Madness aren't finished with their antics against STARDOM as the AEW faction are challenging for gold in Japan this Saturday.",
-      "link": "https://www.wrestlinginc.com/2215888/aew-stardom-thekla-skye-blue-julia-hart-triangle-madness-title-challenge/",
-      "t": "4h",
-      "dt": "2026-07-15T17:44:48+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW on-screen name believes Tony Khan should be in WON Hall of Fame",
-      "p": "AEW backstage interviewer Alex Marvez recently appeared on Tony Schiavone’s What Happened When podcast, and one of the topics they discussed wa All Elite Wrestling’s owner, Tony Khan. Marvez, who...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-won-hall-of-fame-alex-marvez/",
-      "t": "5h",
-      "dt": "2026-07-15T16:22:15+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Report On Career Status Of AEW Star Keith Lee",
-      "p": "AEW star Keith Lee hasn't appeared onscreen in several years, and a new backstage report indicates that many believe he may be retired.",
-      "link": "https://www.wrestlinginc.com/2215760/aew-keith-lee-backstage-report-career-retired/",
-      "t": "6h",
-      "dt": "2026-07-15T16:01:17+00:00"
     }
   ]
 }

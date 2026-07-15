@@ -1,22 +1,70 @@
 {
-  "updated": "2026-07-15T14:06:46.883688+00:00",
+  "updated": "2026-07-15T15:47:31.542622+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Hikaru Shida Was Content To Retire Before Competing At First AEW All In, Felt She Could Do More Following The Event",
+      "p": "Hikaru Shida notes that she felt content with retiring before competing at her first AEW All In event, but felt she could do more after. Shida would compete a the first All In event in 2023, where...",
+      "link": "https://www.fightful.com/wrestling-news/hikaru-shida-was-content-to-retire-before-competing-at-first-aew-all-in-felt-she-could-do-more-following-the-event/",
+      "t": "9m",
+      "dt": "2026-07-15T15:38:13+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tommaso Ciampa teases ‘big plans’ for Psycho Killer gimmick in AEW",
+      "p": "Tommaso Ciampa is teasing that there are some “big plans” for his Psycho Killer gimmick in AEW. During an interview with Justin Barasso of The Undisputed published on Wednesday, Ciampa spoke about...",
+      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-teases-big-plans-for-psycho-killer-gimmick-in-aew/",
+      "t": "22m",
+      "dt": "2026-07-15T15:24:31+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage News On Major AEW Creative Plans For TNT Champion Kevin Knight",
+      "p": "AEW have big plans for the current AEW TNT Champion Kevin Knight, but could \"Jet 2 Belts\" become a reality?",
+      "link": "https://www.wrestlinginc.com/2215673/aew-creative-plans-tnt-champion-kevin-knight-world-title/",
+      "t": "37m",
+      "dt": "2026-07-15T15:09:35+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "WWE Hall Of Famer JBL Says Upcoming AEW All In World Title Match Will Be 'Fantastic'",
+      "p": "WWE legend JBL has discussed the upcoming AEW World Championship match between Kenny Omega and Will Ospreay and expects it to be a great one.",
+      "link": "https://www.wrestlinginc.com/2215451/wwe-hall-of-fame-jbl-aew-all-in-world-title-fantastic-kenny-omega-will-ospreay/",
+      "t": "47m",
+      "dt": "2026-07-15T15:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Hikaru Shida Wants To Wrestle For CMLL Again And At An AEW Show In Japan",
+      "p": "Hikaru Shida wants to wrestle for CMLL once again after a long time away, as well as at a potential AEW show in Japan in the future. Shida is no stranger to competing in CMLL, having wrestled for...",
+      "link": "https://www.fightful.com/wrestling-news/hikaru-shida-wants-to-wrestle-for-cmll-again-and-at-an-aew-show-in-japan/",
+      "t": "1h",
+      "dt": "2026-07-15T14:22:25+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW’s Thekla, Julia Hart, and Skye Blue invade STARDOM live stream",
+      "p": "The rivalry between Thekla and her former promotion continued in a big way on Wednesday. During STARDOM’s press conference for its 5 Star GP tournament, Triangle of Madness members Skye Blue,...",
+      "link": "https://www.f4wonline.com/news/aew/aews-thekla-julia-hart-and-skye-blue-invade-stardom-live-stream/",
+      "t": "1h",
+      "dt": "2026-07-15T14:19:27+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite preview: Kenny Omega’s AEW World Championship celebration and more advertised for tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Kenny Omega’s AEW World Championship celebration and more advertised for tonight’s show appeared first on Pro Wrestling...",
       "link": "https://prowrestling.net/site/2026/07/15/aew-dynamite-preview-kenny-omegas-aew-world-championship-celebration-and-more-advertised-for-tonights-show/",
-      "t": "6m",
+      "t": "1h",
       "dt": "2026-07-15T14:00:28+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "AEW's Jim Ross Comments On Issues With Jeff Jarrett Following New DSOTR Episodes",
       "p": "Jim Ross has reflected on his past issues with fellow AEW star Jeff Jarrett, particularly his displeasure over Jarrett's WWE exit in 1999.",
       "link": "https://www.wrestlinginc.com/2215416/aew-jim-ross-jeff-jarrett-dark-side-of-the-ring/",
-      "t": "6m",
+      "t": "1h",
       "dt": "2026-07-15T14:00:00+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "Chris Jericho On Kyle Fletcher: You Work With Him, And There’s Something About This Guy That’s Going To Take Him To The Next Level",
       "p": "Chris Jericho says that there is something about Kyle Fletcher that’s going to take him to the next level in All Elite Wrestling. In All Elite Wrestling, there are many talents that are young and...",
       "link": "https://www.fightful.com/wrestling-news/chris-jericho-on-kyle-fletcher-you-work-with-him-and-theres-something-about-this-guy-thats-going-to-take-him-to-the-next-level/",
-      "t": "18m",
+      "t": "1h",
       "dt": "2026-07-15T13:48:09+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "Hikaru Shida shares her ‘big, big, big dream’ for AEW",
       "p": "Hikaru Shida’s biggest dream is for AEW to hold a standalone event in Japan. While appearing on AEW Close Up with Renee Paquette, Shida — the current TBS Champion — addressed the goals she still...",
       "link": "https://www.f4wonline.com/news/aew/hikaru-shida-hopes-aew-holds-show-in-japan/",
-      "t": "22m",
+      "t": "2h",
       "dt": "2026-07-15T13:44:30+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Billy Gunn details backstage responsibilities in Maple Leaf Pro Wrestling",
       "p": "While continuing to compete in AEW, Billy Gunn also contributes backstage for the promotion and Maple Leaf Pro Wrestling. With a career spanning 37 years, the veteran brings extensive industry...",
       "link": "https://www.f4wonline.com/news/aew/billy-gunn-details-backstage-responsibilities-in-maple-leaf-pro-wrestling/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-15T13:03:08+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "AEW Dynamite, last week’s Dynamite and Collision grades, Jesse Ventura, Boogeyman, Cherry, BxB Hulk, Heath Slater, Anna Jay",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, last week’s Dynamite and Collision grades, Jesse Ventura, Boogeyman, Cherry, BxB Hulk, Heath Slater, Anna Jay appeared first on...",
       "link": "https://prowrestling.net/site/2026/07/15/aew-dynamite-last-weeks-dynamite-and-collision-grades-jesse-ventura-boogeyman-cherry-bxb-hulk-heath-slater-anna-jay/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-15T12:00:48+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (7/15)",
-      "p": "Viewing information and lineup for AEW Dynamite on July 15, 2026. AEW Dynamite (July 15, 2026) Venue: MGM Music Hall City: Boston, MA Time: 8pm ET Channel: TBS, Max Lineup Kenny Omega’s AEW World...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-7-15/",
-      "t": "2h",
-      "dt": "2026-07-15T12:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ticket sales update for this tonight’s show (07-15-2026)",
-      "p": "AEW Dynamite takes place this week from the MGM Music Hall at Fenway, Boston, Mass. According to the latest report from WrestleTix, 2,822 tickets have been distributed for the show thus far, which...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-tonight-show-07-15-2026/",
-      "t": "6h",
-      "dt": "2026-07-15T07:59:46+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (07-15-2026)",
-      "p": "Tonight’s episode of AEW Dynamite takes place from the MGM Music Hall at Fenway in Boston, Mass from 8pm Eastern/5pm Pacific. The two confirmed matches for tonight’s show are Mercedes Mone, Megan...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-07-15-2026/",
-      "t": "6h",
-      "dt": "2026-07-15T07:21:06+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (07-15-2026)",
-      "p": "Tonight’s episode of AEW Dynamite takes place from the MGM Music Hall at Fenway in Boston, Mass and several matches and segments have been confirmed for the broadcast. The two confirmed matches...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-07-15-2026/",
-      "t": "6h",
-      "dt": "2026-07-15T07:08:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Report: Current AEW champion being discussed for future world title match",
-      "p": "There are reportedly big plans in place for AEW TNT Champion Kevin Knight. A couple of months ago, AEW TNT Champion Kevin Knight turned heel and joined the Don Callis family. A part of the faction...",
-      "link": "https://www.f4wonline.com/news/aew/report-current-aew-champion-being-discussed-for-future-world-title-match/",
-      "t": "11h",
-      "dt": "2026-07-15T02:46:23+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE's Big E Explains Why He Has Respect For AEW Star Lio Rush",
-      "p": "Retired WWE star Big E has praised his former colleague and current AEW star Lio Rush for experimenting with his character and trying new things.",
-      "link": "https://www.wrestlinginc.com/2213362/wwe-aew-big-e-lio-rush-respect/",
-      "t": "13h",
-      "dt": "2026-07-15T01:00:00+00:00"
     }
   ]
 }

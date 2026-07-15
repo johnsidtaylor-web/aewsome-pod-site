@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-15T03:30:09.127758+00:00",
+  "updated": "2026-07-15T06:25:53.328016+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
-    "PWTorch": "FAILED (HTTP Error 503: Service Unavailable)",
+    "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
@@ -16,7 +16,7 @@
       "h": "Report: Current AEW champion being discussed for future world title match",
       "p": "There are reportedly big plans in place for AEW TNT Champion Kevin Knight. A couple of months ago, AEW TNT Champion Kevin Knight turned heel and joined the Don Callis family. A part of the faction...",
       "link": "https://www.f4wonline.com/news/aew/report-current-aew-champion-being-discussed-for-future-world-title-match/",
-      "t": "43m",
+      "t": "3h",
       "dt": "2026-07-15T02:46:23+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "Tommaso Ciampa says leaked WWE departure report was ‘the best thing that ever happened to me’",
       "p": "Earlier this year, Tommaso Ciampa parted ways with WWE to make his AEW debut. Shortly after making his AEW debut, Ciampa became the TNT Champion. However, within a span of just 11 days, he lost...",
       "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-says-leaked-wwe-departure-report-was-the-best-thing-that-ever-happened-to-me/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-15T02:30:02+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "AEW Collision viewership up big despite UFC 329 & World Cup competition",
       "p": "Saturday night was alright for AEW Collision to be back on its normal night. This past Saturday’s live episode averaged 405,000 viewers on TNT, up 31.9% from the previous week’s Thursday airing,...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-world-cup-ufc-329/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-15T01:23:22+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "WWE's Big E Explains Why He Has Respect For AEW Star Lio Rush",
       "p": "Retired WWE star Big E has praised his former colleague and current AEW star Lio Rush for experimenting with his character and trying new things.",
       "link": "https://www.wrestlinginc.com/2213362/wwe-aew-big-e-lio-rush-respect/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-15T01:00:00+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "AEW Collision (7/11) Draws 409,000 Viewers In Return To Saturday",
       "p": "AEW Collision viewership information for July 11. Wrestlenomics reports that AEW Collision drew 409,000 viewers on TNT on Saturday, July 11. This number is up from the 310,000 viewers the show...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-7-11-draws-409000-viewers-in-return-to-saturday/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-15T00:33:39+00:00"
     },
     {
@@ -56,7 +56,7 @@
       "h": "AEW Collision rating: How did Saturday’s live show with three title matches perform?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did Saturday’s live show with three title matches perform? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/14/aew-collision-rating-how-did-saturdays-live-show-with-three-title-matches-perform/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-14T23:20:03+00:00"
     },
     {
@@ -64,23 +64,15 @@
       "h": "Injured AEW Star Buddy Matthews Teases Major Health Update",
       "p": "AEW star Buddy Matthews, who has been on the shelf with injury for over a year, teased a major health update on social media.",
       "link": "https://www.wrestlinginc.com/2215310/aew-buddy-matthews-injured-health-update-cleared-to-return/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-14T23:08:54+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kevin Knight Discussed For Future AEW World Title Bout",
-      "p": "Details on Kevin Knight at the AEW World Title. Fightful Select reports, “Sources in AEW claimed that Kevin Knight had been discussed for an upcoming AEW World Championship, and as of now, AEW...",
-      "link": "https://www.fightful.com/wrestling-news/kevin-knight-discussed-for-future-aew-world-title-bout/",
-      "t": "5h",
-      "dt": "2026-07-14T22:23:09+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "WWE's Mia Yim Confirms She And AEW Star Keith Lee Are Divorced",
       "p": "WWE star Mia Yim (also known as Michin) confirmed her divorce from AEW's Keith Lee in a series of social media comments.",
       "link": "https://www.wrestlinginc.com/2215282/wwe-mia-yim-aew-keith-lee-divorced/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-14T22:12:44+00:00"
     },
     {
@@ -88,7 +80,7 @@
       "h": "Keith Lee update amid long AEW absence",
       "p": "There’s no definitive word on Keith Lee’s status, but, within the industry, it’s believed that he might have already wrestled his last match. Lee, 41, remains under contract with AEW but has not...",
       "link": "https://www.f4wonline.com/news/aew/keith-lee-possibly-retired-from-aew/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-14T22:08:06+00:00"
     },
     {
@@ -96,7 +88,7 @@
       "h": "POST NEWS: AEW sues over Queen of the Ring, Jalen Brunson at SNME, & CM Punk’s advice",
       "p": "John Pollock covers the news from Tuesday, including AEW suing over unpaid fees, Jalen Brunson at SNME, and advice from CM Punk. The post POST NEWS: AEW sues over Queen of the Ring, Jalen Brunson...",
       "link": "https://www.postwrestling.com/2026/07/14/post-news-aew-sues-over-queen-of-the-ring-jalen-brunson-at-snme-cm-punks-advice/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-14T21:57:52+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "Reality of Wrestling “Platinum Revolution Rising” results: Vetter’s review of AJ Francis, Danny Limelight, and Max Castellanos vs. Niko Vance, Zilla Fatu, and Big Luther",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post Reality of Wrestling “Platinum Revolution Rising” results: Vetter’s review of AJ Francis, Danny Limelight, and Max Castellanos vs. Niko...",
       "link": "https://prowrestling.net/site/2026/07/14/reality-of-wrestling-platinum-revolution-rising-results-vetters-review-of-aj-francis-danny-limelight-and-max-castellanos-vs-niko-vance-zilla-fatu-and-big-luther/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-07-14T21:10:12+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Buddy Matthews hints at being cleared for AEW return",
+      "p": "After a long injury absence, it sounds like AEW wrestler Buddy Matthews is finally cleared to get back in the ring. Matthews made an Instagram post today hinting that he’s been cleared to start...",
+      "link": "https://www.f4wonline.com/news/aew/buddy-matthews-hints-at-being-cleared-for-aew-return/",
+      "t": "10h",
+      "dt": "2026-07-14T20:08:50+00:00"
     }
   ]
 }

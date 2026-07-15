@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T23:10:18.456837+00:00",
+  "updated": "2026-07-15T00:03:37.052026+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -7,16 +7,24 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Injured AEW Star Buddy Matthews Teases Major Health Update",
+      "p": "AEW star Buddy Matthews, who has been on the shelf with injury for over a year, teased a major health update on social media.",
+      "link": "https://www.wrestlinginc.com/2215310/aew-buddy-matthews-injured-health-update-cleared-to-return/",
+      "t": "54m",
+      "dt": "2026-07-14T23:08:54+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Kevin Knight Discussed For Future AEW World Title Bout",
       "p": "Details on Kevin Knight at the AEW World Title. Fightful Select reports, “Sources in AEW claimed that Kevin Knight had been discussed for an upcoming AEW World Championship, and as of now, AEW...",
       "link": "https://www.fightful.com/wrestling-news/kevin-knight-discussed-for-future-aew-world-title-bout/",
-      "t": "47m",
+      "t": "1h",
       "dt": "2026-07-14T22:23:09+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "WWE's Mia Yim Confirms She And AEW Star Keith Lee Are Divorced",
       "p": "WWE star Mia Yim (also known as Michin) confirmed her divorce from AEW's Keith Lee in a series of social media comments.",
       "link": "https://www.wrestlinginc.com/2215282/wwe-mia-yim-aew-keith-lee-divorced/",
-      "t": "57m",
+      "t": "1h",
       "dt": "2026-07-14T22:12:44+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "POST NEWS: AEW sues over Queen of the Ring, Jalen Brunson at SNME, & CM Punk’s advice",
       "p": "John Pollock covers the news from Tuesday, including AEW suing over unpaid fees, Jalen Brunson at SNME, and advice from CM Punk. The post POST NEWS: AEW sues over Queen of the Ring, Jalen Brunson...",
       "link": "https://www.postwrestling.com/2026/07/14/post-news-aew-sues-over-queen-of-the-ring-jalen-brunson-at-snme-cm-punks-advice/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-14T21:57:52+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Will Ospreay ‘real passionate’ about helping women’s wrestling in non-AEW role",
       "p": "Will Ospreay has become “real passionate” about women’s wrestling and helping out indie talent through his role outside of AEW. In addition to his in-ring career for AEW, Ospreay helps book Pro...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-real-passionate-about-helping-womens-wrestling/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-14T19:30:38+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "CM Punk in AEW: Part 5 – The MJF feud begins in late 2021 | Column",
       "p": "This was previously part of a book I had written and released on CM Punk’s initial debut in All Elite Wrestling to winning his first World Championship, covering August 2021 until May 2022. I’ll...",
       "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-5-mjf-feud-begins-late-2021-column/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-14T19:25:50+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Mia Yim confirms divorce from Keith Lee",
       "p": "WWE-AEW couple Mia Yim and Keith Lee are no longer together with Yim confirming their divorce on social media. Yim, whose real name is Stephanie Bell and wrestles for WWE as Michin, disclosed the...",
       "link": "https://www.f4wonline.com/news/wwe/mia-yim-confirms-divorce-from-keith-lee/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-14T18:16:13+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW Suing Production Company Behind Queen Of The Ring Film",
       "p": "\"Queen of the Ring\" told the story of Mildred Burke and featured AEW's Toni Storm, Britt Baker, and Kamille. The movie was promoted by AEW in several key ways.",
       "link": "https://www.wrestlinginc.com/2214969/aew-suing-production-company-queen-of-the-ring-film/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-07-14T17:57:26+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Sammy Guevara addresses infrequent AEW TV appearances",
-      "p": "He’s not featured on AEW programming as often as he used to be, but Sammy Guevara is ready to compete whenever he does get the call to come to TV. After being one of the original four young...",
-      "link": "https://www.f4wonline.com/news/aew/sammy-guevara-addresses-infrequent-aew-tv-appearances/",
-      "t": "5h",
-      "dt": "2026-07-14T17:49:54+00:00"
     }
   ]
 }

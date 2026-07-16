@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T23:11:54.001479+00:00",
+  "updated": "2026-07-16T00:08:54.040680+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE RESULTS (7/15): Keller’s report on Kenny Omega’s AEW World Title celebration, Willow & Maya World & Hyan vs. Mercedes & Divine Dominion, Andrade vs. Jake Doyle",
+      "p": "AEW DYNAMITE REPORT JULY 15, 2026 BOSTON, MASS. AT MGM MUSIC HALL AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring Announcer: Justin...",
+      "link": "https://www.pwtorch.com/site/2026/07/15/aew-dynamite-results-7-15-kellers-report-on-kenny-omegas-aew-world-title-celebration-willow-maya-world-hyan-vs-mercedes-divine-dominion-andrade-vs-jake-doyle/",
+      "t": "23m",
+      "dt": "2026-07-15T23:45:51+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite results (7/15): Barnett’s review of Kenny Omega’s AEW World Championship celebration, Mercedes Mone, Megan Bayne, and Lena Kross vs. Willow Nightingale, Maya World, and Hyan",
+      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post AEW Dynamite results (7/15): Barnett’s review of Kenny Omega’s AEW World Championship celebration, Mercedes Mone, Megan Bayne, and Lena...",
+      "link": "https://prowrestling.net/site/2026/07/15/aew-dynamite-results-7-15-barnetts-review-of-kenny-omegas-aew-world-championship-celebration-mercedes-mone-megan-bayne-and-lena-kross-vs-willow-nightingale-maya-world-and-hyan/",
+      "t": "38m",
+      "dt": "2026-07-15T23:30:37+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Results (7/15/2026): Kenny Omega Celebration, AEW Tag Title Match, Mercedes Moné, More",
+      "p": "Full results for the July 15, 2026, edition of AEW Dynamite on TBS live from the MGM Music Hall in Boston, Massachusetts. On July 15, 2026, All Elite Wrestling hosted a new episode of Dynamite on...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-7-15-2026-kenny-omega-celebration-aew-tag-title-match-mercedes-mone-more/",
+      "t": "53m",
+      "dt": "2026-07-15T23:15:00+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite live results: Kenny Omega championship celebration",
       "p": "AEW Dynamite is live tonight from the MGM Music Hall in Boston, Massachusetts. Scheduled for the show, new AEW World Champion Kenny Omega will hold a championship celebration. Omega defeated MJF...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-kenny-omega-championship-celebration/",
-      "t": "6m",
+      "t": "1h",
       "dt": "2026-07-15T23:05:00+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "AEW Dynamite Results 7/15 - Andrade El Idolo Faces Jake Doyle, Six Woman Tag Match",
       "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on July 15, 2026, with a singles match between Andrade El Idolo and The Don Calls Family's Jake Doyle!",
       "link": "https://www.wrestlinginc.com/2215366/aew-dynamite-july-15-andrade-el-idolo-jake-doyle-six-woman-tag-match/",
-      "t": "11m",
+      "t": "1h",
       "dt": "2026-07-15T23:00:00+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Scott D’Amore: When Don Callis & I Took Over IMPACT/TNA, I Tried To Bring Mike Tenay Back",
       "p": "Scott D’Amore wanted Mike Tenay back at the commentary booth. As the debut of MLP Mayhem on TSN inches closer, the promotion’s owner, Scott D’Amore, made the media rounds. One of his stops was The...",
       "link": "https://www.fightful.com/wrestling-news/scott-damore-when-don-callis-i-took-over-impact-tna-i-tried-to-bring-mike-tenay-back/",
-      "t": "34m",
+      "t": "1h",
       "dt": "2026-07-15T22:37:22+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Backstage Report On MJF's AEW Schedule Following World Title Loss",
       "p": "Following his loss to Kenny Omega last week on \"AEW Dynamite,\" MJF could be taking some time off.",
       "link": "https://www.wrestlinginc.com/2216231/aew-mjf-schedule-world-title-loss-time-off-tv/",
-      "t": "35m",
+      "t": "1h",
       "dt": "2026-07-15T22:36:44+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Scott D’Amore Believes Mauro Ranallo Is Indisputably The Best Combat Sports Announcer In History",
       "p": "High praise for Mauro Ranallo. The debut of Maple Leaf Pro Wrestling’s ‘Mayhem’ show on TSN is on July 15th. The commentary team for the show will be Mauro Ranallo and Don Callis. The promotion’s...",
       "link": "https://www.fightful.com/wrestling-news/scott-damore-believes-mauro-ranallo-is-indisputably-the-best-combat-sports-announcer-in-history/",
-      "t": "48m",
+      "t": "1h",
       "dt": "2026-07-15T22:23:07+00:00"
     },
     {
@@ -56,23 +80,15 @@
       "h": "Adam Copeland and Christian Cage to defend AEW Tag Team titles on Dynamite",
       "p": "The AEW World Tag Team titles will be on the line tonight in Boston. In a video posted by AEW just hours before the show is set to begin, Adam Copeland and Christian Cage announced that they will...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-and-christian-cage-to-defend-aew-tag-team-titles-on-dynamite/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-15T21:36:02+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Tag Team Title Bout Added To 7/15 AEW Dynamite",
-      "p": "The AEW Tag Team Titles will be on the line on the July 15 episode of AEW Dynamite. All Elite Wrestling announced that Cage & Cope (Adam Copeland & Christian Cage) will defend the Tag Team Titles...",
-      "link": "https://www.fightful.com/wrestling-news/aew-tag-team-title-bout-added-to-7-15-aew-dynamite/",
-      "t": "1h",
-      "dt": "2026-07-15T21:33:58+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Backstage Update On AEW World Title Match Planned For Redemption Pay-Per-View",
       "p": "A new report indicated that AEW World Champion Kenny Omega could be defending his gold against a fast-rising star at AEW Redemption.",
       "link": "https://www.wrestlinginc.com/2216130/aew-redemption-2026-kenny-omega-kevin-knight-backstage-update-world-title-match/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-15T20:44:48+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Update on planned AEW Redemption main event | Exclusive",
       "p": "Kevin Knight could be challenging for the AEW World Championship later this month. According to our own Bryan Alvarez, the plan as of a few days ago was for Kenny Omega to defend the title against...",
       "link": "https://www.f4wonline.com/news/aew/update-on-planned-aew-redemption-main-event-exclusive/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-15T19:39:34+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Update on MJF’s AEW status following World title loss",
       "p": "MJF could be off AEW programming for a period of time. Fightful Select reported on Wednesday that, when asking about plans for MJF at the upcoming Redemption pay-per-view in Montreal, it was...",
       "link": "https://www.f4wonline.com/news/aew/update-on-mjfs-aew-status-following-world-title-loss/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-15T19:21:58+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE PREVIEW (7/15): Announced matches, location, ticket sales, how to watch",
-      "p": "When: WEDNESDAY, JULY 15, 2026 Where: BOSTON, MASS. AT MGM MUSIC HALL How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,862 tickets had been...",
-      "link": "https://www.pwtorch.com/site/2026/07/15/aew-dynamite-preview-7-15-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "4h",
-      "dt": "2026-07-15T18:49:05+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "CM Punk in AEW: Part 6 – The MJF feud in January 2022 | Column",
-      "p": "This was previously part of a book I had written and released on CM Punk’s debut to first world title win in All Elite Wrestling, covering August 2021 until May 2022. I’ll be uploading it here...",
-      "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-6-mjf-feud-january-2022-column/",
-      "t": "4h",
-      "dt": "2026-07-15T18:11:54+00:00"
     }
   ]
 }

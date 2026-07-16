@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-16T16:39:54.868720+00:00",
+  "updated": "2026-07-16T18:18:18.212996+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega setting up two AEW World Championship matches, needlessly long matches, Chris Jericho bringing back The Painmaker",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega setting up two AEW World Championship matches, needlessly long matches, Chris Jericho...",
+      "link": "https://prowrestling.net/site/2026/07/16/powells-aew-dynamite-hit-list-thoughts-on-kenny-omega-setting-up-two-aew-world-championship-matches-needlessly-long-matches-chris-jericho-bringing-back-the-painmaker/",
+      "t": "17m",
+      "dt": "2026-07-16T18:00:55+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE HITS & MISSES (7/15): Omega-Ospreay-Knight, The Painmaker is back, Andrade rising popularity, lack of hype for women’s main event, Copeland & Christian vs. Yuta & Garcia",
+      "p": "HITS COPELAND & CHRISTIAN VS. YUTA & GARCIA This was a fun opener with a hot crowd in Boston setting the tone for the show. The fans loved Copeland & Christian and were behind pretty [...]",
+      "link": "https://www.pwtorch.com/site/2026/07/16/aew-dynamite-hits-misses-7-15-omega-ospreay-knight-the-painmaker-is-back-andrade-rising-popularity-lack-of-hype-for-womens-main-event-copeland-christian-vs-yuta-garcia/",
+      "t": "27m",
+      "dt": "2026-07-16T17:51:14+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Bandido Defending ROH World Championship At wXw Germany’s August 15th Show",
+      "p": "Bandido will be defending the ROH World Title in Germany. The wXw Germany promotion pushed out the announcement that at their August 15th show titled Shortcut to the Top, Bandido will be defending...",
+      "link": "https://www.fightful.com/wrestling-news/bandido-defending-roh-world-championship-at-wxw-germanys-august-15th-show/",
+      "t": "35m",
+      "dt": "2026-07-16T17:42:13+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 7/15 – Everything with Rich & Wade: Omega as AEW Champ, Jarrett plays Dark Side producers into telling slanted version of TNA, Seth-Reigns, Thekla, Big Cass, Santana, Micro-Dramas (64 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Kenny Omega as AEW Champion and Will Ospreay as his challenger Seth...",
+      "link": "https://www.pwtorch.com/site/2026/07/16/vip-podcast-7-15-everything-with-rich-wade-omega-as-aew-champ-jarrett-plays-dark-side-producers-into-telling-slanted-version-of-tna-seth-reigns-thekla-big-cass-santana-micro-dramas-64-min/",
+      "t": "1h",
+      "dt": "2026-07-16T17:05:02+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Don Callis: Kenny Omega Has Had The Best Six Months Of Anyone In Wrestling",
+      "p": "Don Callis changes his tune on Kenny Omega. Since ditching the ‘Best Bout Machine’ back in 2023, Don Callis has been very critical of Kenny Omega and his decisions in the world of pro wrestling....",
+      "link": "https://www.fightful.com/wrestling-news/don-callis-kenny-omega-has-had-the-best-six-months-of-anyone-in-wrestling/",
+      "t": "1h",
+      "dt": "2026-07-16T17:00:00+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "WWE/AAA Worlds Collide Set For Day Of AEW PPV, Both In Chicagoland",
       "p": "Worlds Collide is officially scheduled to take place on the same day as one of AEW's longest-running pay-per-views in September.",
       "link": "https://www.wrestlinginc.com/2216698/wwe-aaa-worlds-collide-set-aew-all-out-chicagoland/",
-      "t": "17m",
+      "t": "1h",
       "dt": "2026-07-16T16:22:21+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "Dave Meltzer Explains What AEW Stands To Gain From WBD-Paramount Deal",
       "p": "On an edition of \"Wrestling Observer Radio,\" Dave Meltzer explained what AEW stands to gain from the pending Warner Bros. Discovery-Paramount deal.",
       "link": "https://www.wrestlinginc.com/2216696/aew-warner-bros-discovery-wbd-paramount-dave-meltzer-stands-gain/",
-      "t": "18m",
+      "t": "1h",
       "dt": "2026-07-16T16:21:08+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "CM Punk in AEW: Part 7 – The MJF feud in February 2022 | Column",
       "p": "This was previously part of a book I had written and released on CM Punk’s debut to initial title win in All Elite Wrestling, covering August 2021 until May 2022. I’ll be uploading it here...",
       "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-7-mjf-feud-february-2022-column/",
-      "t": "21m",
+      "t": "1h",
       "dt": "2026-07-16T16:18:28+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "AEW Redemption lineup: The latest card for AEW’s newest pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: The latest card for AEW’s newest pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/16/aew-redemption-lineup-the-latest-card-for-aews-newest-pay-per-view-event/",
-      "t": "38m",
+      "t": "2h",
       "dt": "2026-07-16T16:01:27+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "AEW Collision Viewership & Ratings Report: 7/11/2026",
       "p": "AEW Collision saw average viewership grow by a big margin, while the key demographic ratings stayed steady from the previous week.",
       "link": "https://www.wrestlinginc.com/2216391/aew-collision-viewership-ratings-july-11-2026/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-16T15:30:00+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "More AEW names added as CMLL finalizes Grand Prix lineup",
       "p": "A few more names from AEW have been added to the 2026 edition of CMLL’s International Grand Prix. The men’s Grand Prix is set to be held at Arena Mexico on Friday, August 7. It will pit 11...",
       "link": "https://www.f4wonline.com/news/aew/more-aew-names-added-as-cmll-finalizes-grand-prix-lineup/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-16T15:23:48+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "AEW's Will Ospreay Recalls Receiving Offer From WWE To Wrestle In 2016 Tournament",
       "p": "In 2016, Will Ospreay was one of independent wrestling's hottest talents and he caught the eye of several promotions, including the WWE.",
       "link": "https://www.wrestlinginc.com/2216621/aew-wwe-will-ospreay-cruiserweight-classic-offer-wrestle-tournament-2016/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-16T15:23:41+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Worlds Collide with WWE and AAA wrestlers running against AEW All Out, 14 total live event dates announced",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Worlds Collide with WWE and AAA wrestlers running against AEW All Out, 14 total live event dates announced appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/16/worlds-collide-with-wwe-and-aaa-wrestlers-running-against-aew-all-out-14-total-live-event-dates-announced/",
-      "t": "1h",
-      "dt": "2026-07-16T15:13:09+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "WWE announces Worlds Collide in Chicago, head-to-head with AEW All Out",
-      "p": "WWE announced dates for 14 shows, including Worlds Collide, which will be in Chicago on Sept. 26, which will be head-to-head with AEW All Out. The post WWE announces Worlds Collide in Chicago,...",
-      "link": "https://www.postwrestling.com/2026/07/16/wwe-announces-worlds-collide-in-chicago-head-to-head-with-aew-all-out/",
-      "t": "1h",
-      "dt": "2026-07-16T14:51:41+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Cope & Cage Lay Out Challenge For AEW Redemption Title Defense, Match Made Official",
-      "p": "Adam Copeland and Christian Cage challenge the Death Riders to a match for the tag team titles following \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2216567/aew-redemption-2026-cope-cage-adam-copeland-christian-claudio-castagnoli-pac-challenge-title-defense-official/",
-      "t": "1h",
-      "dt": "2026-07-16T14:49:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "WWE x AAA Worlds Collide Announced For September 26 In Chicago, Same Day As AEW All Out",
-      "p": "WWE has announced new live events, including AAA Worlds Collide on Saturday, September 26. Worlds Collide will take place at the Allstate Arena in Chicago, IL. AEW All Out is scheduled for...",
-      "link": "https://www.fightful.com/wrestling-news/wwe-x-aaa-worlds-collide-announced-for-september-26-in-chicago-same-day-as-aew-all-out/",
-      "t": "2h",
-      "dt": "2026-07-16T14:36:16+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WWE AAA Worlds Collide announced for same day & same city as AEW All Out",
-      "p": "WWE is continuing to use their promotions to counter AEW, escalating things a bit by now running in the same city. Revealed and somewhat buried in a release on upcoming Raw and SmackDown fall...",
-      "link": "https://www.f4wonline.com/news/wwe/wwe-aaa-worlds-collide-aew-all-out-head-to-head/",
-      "t": "2h",
-      "dt": "2026-07-16T14:34:32+00:00"
     }
   ]
 }

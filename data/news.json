@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T03:33:44.113325+00:00",
+  "updated": "2026-07-16T06:29:38.362252+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (5 AEW items)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 7/15 – WKPWP after Dynamite: Keller & Adams discuss Omega-Ospreay segment with Knight, intriguing lines from Moxley, questionable main event (130 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch contributor Chris Adams review AEW Dynamite with chat, caller, and email interactions throughout. They start with analysis of the...",
+      "link": "https://www.pwtorch.com/site/2026/07/16/free-podcast-7-15-wkpwp-after-dynamite-keller-adams-discuss-omega-ospreay-segment-with-knight-intriguing-lines-from-moxley-questionable-main-event-130-min/",
+      "t": "33m",
+      "dt": "2026-07-16T05:56:11+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 7/15 – WKH – AEW Dynamite: Omega celebrates AEW Title win, Ospreay and Knight interact with Omega, Copeland & Christian vs. Yuta & Garcia, Darby vs. Cage, more (20 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the July 15 episode of AEW Dynamite start to finish including the Kenny Omega celebration with Will...",
+      "link": "https://www.pwtorch.com/site/2026/07/16/vip-podcast-7-15-wkh-aew-dynamite-omega-celebrates-aew-title-win-ospreay-and-knight-interact-with-omega-copeland-christian-vs-yuta-garcia-darby-vs-cage-more-20-min/",
+      "t": "48m",
+      "dt": "2026-07-16T05:41:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "07/15 Barnett’s AEW Dynamite audio review: Kenny Omega’s AEW World Championship celebration, Mercedes Mone, Megan Bayne, and Lena Kross vs. Willow Nightingale, Maya World, and Hyan",
+      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 07/15 Barnett’s AEW Dynamite audio review: Kenny Omega’s AEW World Championship celebration, Mercedes Mone, Megan Bayne, and Lena Kross vs....",
+      "link": "https://prowrestling.net/site/2026/07/15/07-15-barnetts-aew-dynamite-audio-review-kenny-omegas-aew-world-championship-celebration-mercedes-mone-megan-bayne-and-lena-kross-vs-willow-nightingale-maya-world-and-hyan/",
+      "t": "2h",
+      "dt": "2026-07-16T04:14:05+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite 7/15/2026: 3 Things We Hated & 3 Things We Loved",
+      "p": "On a night that saw four new matches added to Redemption, here are three things we hated and three things we loved about the 7/15/26 episode of \"AEW Dynamite!\"",
+      "link": "https://www.wrestlinginc.com/2216327/aew-dynamite-july-15-2026-hated-loved-opinion-review/",
+      "t": "2h",
+      "dt": "2026-07-16T03:45:28+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Omega Celebration: AEW Dynamite 7/15/26 Review | RAD",
+      "p": "John Pollock & Wai Ting review AEW Dynamite featuring Omega’s celebration, Andrade vs. Doyle. XL Edition: Shota Umino, NXT, AEW lawsuit, and previews for MLP Mayhem and TNA Impact. The post Omega...",
+      "link": "https://www.postwrestling.com/2026/07/15/aew-dynamite-7-15-26-review-rad-live-1035pm-et/",
+      "t": "2h",
+      "dt": "2026-07-16T03:35:58+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Three matches announced for AEW Collision",
       "p": "Three matches, including a TBS Championship bout, have been announced for this week’s AEW Collision. This week’s AEW Collision is set to tape on July 16, 2026, at the MGM Music Hall in Boston, MA....",
       "link": "https://www.f4wonline.com/news/aew/three-matches-announced-for-aew-collision-2/",
-      "t": "26m",
+      "t": "3h",
       "dt": "2026-07-16T03:07:11+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "FREE PODCAST 7/15 – WKPWP Flagship from 5 Yrs Ago: Keller & Parks reflect on Paul Orndorff’s career, Bobby Lashley angle on Raw, what could spark NXT, ROH title change (132 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Flagship Flashback edition of the Wade Keller Pro Wrestling Podcast with PWTorch columnist Greg Parks. They begin with thoughts on Bobby...",
       "link": "https://www.pwtorch.com/site/2026/07/15/free-podcast-7-15-wkpwp-flagship-from-5-yrs-ago-keller-parks-reflect-on-paul-orndorffs-career-bobby-lashley-angle-on-raw-what-could-spark-nxt-roh-title-change-132-min/",
-      "t": "33m",
+      "t": "3h",
       "dt": "2026-07-16T03:00:00+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Kenny Omega, Jon Moxley and Will Ospreay to team on next AEW Dynamite",
       "p": "A star-studded trios match has been announced for next week’s AEW Dynamite. Just days before Kenny Omega defends his AEW World Championship against Kevin Knight at AEW Redemption and weeks before...",
       "link": "https://www.f4wonline.com/news/aew/kenny-omega-jon-moxley-and-will-ospreay-to-team-on-next-aew-dynamite/",
-      "t": "40m",
+      "t": "3h",
       "dt": "2026-07-16T02:53:37+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Shida vs. Aminata booked for Collision, Darby to challenge Knight for TNT title on next week’s Dynamite",
       "p": "The TBS and TNT titles will both be on the line over the next week of AEW TV, it was confirmed on Wednesday night. The post Shida vs. Aminata booked for Collision, Darby to challenge Knight for...",
       "link": "https://www.postwrestling.com/2026/07/15/shida-vs-aminata-booked-for-collision-darby-to-challenge-knight-for-tnt-title-on-next-weeks-dynamite/",
-      "t": "49m",
+      "t": "3h",
       "dt": "2026-07-16T02:44:03+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Kenny Omega vs. Kevin Knight, Fletcher vs. Bandido among new 4 matches confirmed for AEW Redemption",
       "p": "AEW’s first-ever Redemption pay-per-view is taking shape. Four new matchups were mentioned for the July 26 event on Wednesday night’s episode of Dynamite. A total The post Kenny Omega vs. Kevin...",
       "link": "https://www.postwrestling.com/2026/07/15/kenny-omega-vs-kevin-knight-fletcher-vs-bandido-among-new-4-matches-confirmed-for-aew-redemption/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-16T02:27:53+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "TNT Championship Match, Omega/Ospreay/Moxley Trios Bout Set For 7/22 AEW Dynamite",
       "p": "Here’s what’s on tap for the July 22 episode of AEW Dynamite. First, the TNT Championship will be up for grabs, as Kevin Knight will defend the title against Darby Allin. Also, a huge trios bout...",
       "link": "https://www.fightful.com/wrestling-news/aew-dynamite-omega-death-riders-tnt-316422/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-16T02:26:47+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "First time ever International title match set for AEW Redemption",
       "p": "AEW International Champion Kyle Fletcher will put his title on the line against Bandido in a first time ever match at next weekend’s Redemption pay-per-view. Fletcher issued the challenge during...",
       "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-bandido-aew-redemption-2026/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-16T02:26:31+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kyle Fletcher International Title Defense Added To AEW Redemption Card On Dynamite",
-      "p": "Kyle Fletcher will defend his International Championship at Redemption following events from \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2216319/aew-dynamite-redemption-kyle-fletcher-international-title-defense-bandido/",
-      "t": "1h",
-      "dt": "2026-07-16T02:25:12+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Dynamite Results: Kenny Omega Championship celebration, Women’s Trios match",
-      "p": "AEW Dynamite featured Kenny Omega's Championship celebration and Mercedes Moné & Divine Dominion vs. Willow Nightingale, Maya World & Hyan. The post AEW Dynamite Results: Kenny Omega Championship...",
-      "link": "https://www.postwrestling.com/2026/07/15/aew-dynamite-live-results-kenny-omega-championship-celebration-womens-trios-match/",
-      "t": "1h",
-      "dt": "2026-07-16T02:24:26+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "TBS Championship Bout, Jack Perry vs. Nick Wayne, More Set For 7/18 AEW Collision",
-      "p": "Here’s what’s on tap for Saturday’s episode of AEW Collision. First, the TBS Championship will be on the line, as Hikaru Shida defends the belt against Queen Aminata. Also, Jack Perry will be in...",
-      "link": "https://www.fightful.com/wrestling-news/tbs-championship-aew-collision-316421/",
-      "t": "1h",
-      "dt": "2026-07-16T02:23:23+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW International Championship Bout Set For AEW Redemption",
-      "p": "Another title match has been added to AEW Redemption. Following a brief backstage scuffle on this week’s episode of AEW Dynamite, Kyle Fletcher and Bandido will go one-on-one at the Redemption...",
-      "link": "https://www.fightful.com/wrestling-news/aew-redemption-title-match-316430/",
-      "t": "1h",
-      "dt": "2026-07-16T02:07:44+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Jericho bringing back old character for AEW Redemption",
-      "p": "The “Painmaker” is returning to AEW. In a new match made during Wednesday’s Dynamite, Chris Jericho is bringing back his anything goes Painmaker character for a rematch against Tommaso Ciampa at...",
-      "link": "https://www.f4wonline.com/news/aew/chris-jericho-tommaso-ciampa-painmaker-aew-redemption/",
-      "t": "1h",
-      "dt": "2026-07-16T02:03:34+00:00"
     }
   ]
 }

@@ -1,22 +1,46 @@
 {
-  "updated": "2026-07-16T20:10:01.540224+00:00",
+  "updated": "2026-07-16T21:13:51.584876+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: Worlds End vs. All Out, MCMG tease signing & MLP Mayhem review",
+      "p": "John Pollock covers Thursday's news: WWE running head-to-head with AEW All Out, MCMG drops a video tease, and a review of MLP Mayhem. The post POST NEWS: Worlds End vs. All Out, MCMG tease signing...",
+      "link": "https://www.postwrestling.com/2026/07/16/post-news-worlds-end-vs-all-out-mcmg-tease-signing-mlp-mayhem-review/",
+      "t": "13m",
+      "dt": "2026-07-16T20:59:57+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "RANK AEW’S TOP 15 MALE WRESTLERS: Create your top 15 list of AEW’s top stars including MJF, Ospreay, Swerve, Darby, Hangman, Omega",
+      "p": "Loading… Check out the latest episode of the Wade Keller Pro Wrestling Post-show covering the latest episode of Dynamite: CLICK HERE (or search “Wade Keller” on Spotify, Apple Podcasts, or any...",
+      "link": "https://www.pwtorch.com/site/2026/07/16/rank-aews-top-ten-male-wrestlers-create-your-top-ten-list-of-aews-top-stars-including-mjf-ospreay-swerve-darby-hangman-omega/",
+      "t": "30m",
+      "dt": "2026-07-16T20:43:09+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tommaso Ciampa Teases 'Big Plans' For AEW All In 2026",
+      "p": "Tommaso Ciampa is excited for AEW Redemption, All In, and beyond.",
+      "link": "https://www.wrestlinginc.com/2217023/aew-all-in-2026-tommaso-ciampa-teases-big-plans/",
+      "t": "58m",
+      "dt": "2026-07-16T20:15:37+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Former TNA World Champion reportedly working backstage at recent AEW shows",
       "p": "Sami Callihan has reportedly been working backstage at recent AEW events. Callihan was released by TNA last month as part of what the promotion referred to as a “workforce reduction.” According to...",
       "link": "https://www.f4wonline.com/news/aew/former-tna-world-champion-reportedly-working-backstage-at-recent-aew-shows/",
-      "t": "2m",
+      "t": "1h",
       "dt": "2026-07-16T20:07:03+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "WOL: AEW vs. WWE again, Dynamite recap, more",
       "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including all the news in wrestling, more on Ludwig Kaiser, another AEW head-to-head battle with...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-aew-vs-wwe-again-dynamite-recap-more/",
-      "t": "6m",
+      "t": "1h",
       "dt": "2026-07-16T20:03:16+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Liv Morgan’s ‘Trouble’ Passes 1M Streams On Spotify, AEW Dynamite Highlights, More | Fight Size",
       "p": "Here is your fight size update for Thursday, July 16, 2026. – Liv Morgan’s song ‘Trouble’ has passed a big milestone: Over one million streams on @Spotify 🙏 TROUBLE TROUBLE 🤭...",
       "link": "https://www.fightful.com/wrestling-news/liv-morgans-trouble-passes-1m-streams-on-spotify-aew-dynamite-highlights-more-fight-size/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-16T19:00:00+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW's Chris Jericho Sees Himself As A Classic Rock Band",
       "p": "Chris Jericho feels that fans should appreciate him despite no longer being in his prime, similar to the classic rock bands who still perform today.",
       "link": "https://www.wrestlinginc.com/2216869/aew-chris-jericho-classic-rock-band-rolling-stones/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-16T18:22:33+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega setting up two AEW World Championship matches, needlessly long matches, Chris Jericho bringing back The Painmaker",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega setting up two AEW World Championship matches, needlessly long matches, Chris Jericho...",
       "link": "https://prowrestling.net/site/2026/07/16/powells-aew-dynamite-hit-list-thoughts-on-kenny-omega-setting-up-two-aew-world-championship-matches-needlessly-long-matches-chris-jericho-bringing-back-the-painmaker/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-16T18:00:55+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "AEW DYNAMITE HITS & MISSES (7/15): Omega-Ospreay-Knight, The Painmaker is back, Andrade rising popularity, lack of hype for women’s main event, Copeland & Christian vs. Yuta & Garcia",
       "p": "HITS COPELAND & CHRISTIAN VS. YUTA & GARCIA This was a fun opener with a hot crowd in Boston setting the tone for the show. The fans loved Copeland & Christian and were behind pretty [...]",
       "link": "https://www.pwtorch.com/site/2026/07/16/aew-dynamite-hits-misses-7-15-omega-ospreay-knight-the-painmaker-is-back-andrade-rising-popularity-lack-of-hype-for-womens-main-event-copeland-christian-vs-yuta-garcia/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-16T17:51:14+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "VIP PODCAST 7/15 – Everything with Rich & Wade: Omega as AEW Champ, Jarrett plays Dark Side producers into telling slanted version of TNA, Seth-Reigns, Thekla, Big Cass, Santana, Micro-Dramas (64 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Kenny Omega as AEW Champion and Will Ospreay as his challenger Seth...",
       "link": "https://www.pwtorch.com/site/2026/07/16/vip-podcast-7-15-everything-with-rich-wade-omega-as-aew-champ-jarrett-plays-dark-side-producers-into-telling-slanted-version-of-tna-seth-reigns-thekla-big-cass-santana-micro-dramas-64-min/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-16T17:05:02+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "WWE/AAA Worlds Collide Set For Day Of AEW PPV, Both In Chicagoland",
       "p": "Worlds Collide is officially scheduled to take place on the same day as one of AEW's longest-running pay-per-views in September.",
       "link": "https://www.wrestlinginc.com/2216698/wwe-aaa-worlds-collide-set-aew-all-out-chicagoland/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-16T16:22:21+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "Dave Meltzer Explains What AEW Stands To Gain From WBD-Paramount Deal",
       "p": "On an edition of \"Wrestling Observer Radio,\" Dave Meltzer explained what AEW stands to gain from the pending Warner Bros. Discovery-Paramount deal.",
       "link": "https://www.wrestlinginc.com/2216696/aew-warner-bros-discovery-wbd-paramount-dave-meltzer-stands-gain/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-16T16:21:08+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "CM Punk in AEW: Part 7 – The MJF feud in February 2022 | Column",
-      "p": "This was previously part of a book I had written and released on CM Punk’s debut to initial title win in All Elite Wrestling, covering August 2021 until May 2022. I’ll be uploading it here...",
-      "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-7-mjf-feud-february-2022-column/",
-      "t": "3h",
-      "dt": "2026-07-16T16:18:28+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Redemption lineup: The latest card for AEW’s newest pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: The latest card for AEW’s newest pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/16/aew-redemption-lineup-the-latest-card-for-aews-newest-pay-per-view-event/",
-      "t": "4h",
-      "dt": "2026-07-16T16:01:27+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Collision Viewership & Ratings Report: 7/11/2026",
-      "p": "AEW Collision saw average viewership grow by a big margin, while the key demographic ratings stayed steady from the previous week.",
-      "link": "https://www.wrestlinginc.com/2216391/aew-collision-viewership-ratings-july-11-2026/",
-      "t": "4h",
-      "dt": "2026-07-16T15:30:00+00:00"
     }
   ]
 }

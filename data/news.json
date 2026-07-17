@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T00:11:40.920836+00:00",
+  "updated": "2026-07-17T03:35:25.298913+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Kevin Knight To Defend AEW TNT Title On 7/18 AEW Collision",
+      "p": "Kevin Knight will defend his AEW TNT Title against AR Fox on the July 18 episode of AEW Collision. The bout was announced during Thursday’s ROH TV. Knight is set to defend his AEW TNT Title...",
+      "link": "https://www.fightful.com/wrestling-news/kevin-knight-to-defend-aew-tnt-title-on-7-18-aew-collision/",
+      "t": "1h",
+      "dt": "2026-07-17T02:34:30+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay match, two new title defenses added to AEW Collision lineup",
+      "p": "With AEW Collision being taped in Boston at the time of this writing, the promotion announced several new matches for the broadcast this Saturday. Will Ospreay will continue his run toward an AEW...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-match-tnt-title-defense-aew-collision/",
+      "t": "1h",
+      "dt": "2026-07-17T02:32:46+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "ROH live results: Lio Rush vs. Lee Johnson TV title match",
       "p": "Ring of Honor is back on HonorClub tonight. Matches booked for the show include Athena and Billie Starkz teaming against Viva Van and Lacey Lane. Shane Taylor Promotions’ Shane Taylor, Shawn Dean,...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-live-results-lio-rush-vs-lee-johnson-tv-title-match/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-16T23:05:00+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "UFC Sets Record Gate Without A Leg To Stand On | Pollock & Thurston (Live at 8:30 p.m. ET)",
       "p": "LIVE at 8:30 p.m. ET: John Pollock and Brandon Thurston cover TNA’s history and Dark Side, Thurston’s challenge, and WWE goes head-to-head with AEW in Chicago. The post UFC Sets Record Gate...",
       "link": "https://www.postwrestling.com/2026/07/16/ufc-sets-record-gate-without-a-leg-to-stand-on-pollock-thurston-live-at-830-p-m-et/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-16T22:56:30+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Report: Sami Callihan Worked Backstage At Recent AEW Tapings",
       "p": "Sami Callihan has found a new role. Cassidy Haynes of Bodyslam reports Sami Callihan “has been working backstage the last three weeks for AEW’s Dynamite Tapings in Clearwater, Florida, Roanoke,...",
       "link": "https://www.fightful.com/wrestling-news/report-sami-callihan-worked-backstage-at-recent-aew-tapings/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-07-16T22:12:57+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "POST NEWS: Worlds End vs. All Out, MCMG tease signing & MLP Mayhem review",
       "p": "John Pollock covers Thursday's news: WWE running head-to-head with AEW All Out, MCMG drops a video tease, and a review of MLP Mayhem. The post POST NEWS: Worlds End vs. All Out, MCMG tease signing...",
       "link": "https://www.postwrestling.com/2026/07/16/post-news-worlds-end-vs-all-out-mcmg-tease-signing-mlp-mayhem-review/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-07-16T20:59:57+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "RANK AEW’S TOP 15 MALE WRESTLERS: Create your top 15 list of AEW’s top stars including MJF, Ospreay, Swerve, Darby, Hangman, Omega",
       "p": "Loading… Check out the latest episode of the Wade Keller Pro Wrestling Post-show covering the latest episode of Dynamite: CLICK HERE (or search “Wade Keller” on Spotify, Apple Podcasts, or any...",
       "link": "https://www.pwtorch.com/site/2026/07/16/rank-aews-top-ten-male-wrestlers-create-your-top-ten-list-of-aews-top-stars-including-mjf-ospreay-swerve-darby-hangman-omega/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-07-16T20:43:09+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Tommaso Ciampa Teases 'Big Plans' For AEW All In 2026",
       "p": "Tommaso Ciampa is excited for AEW Redemption, All In, and beyond.",
       "link": "https://www.wrestlinginc.com/2217023/aew-all-in-2026-tommaso-ciampa-teases-big-plans/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-07-16T20:15:37+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Former TNA World Champion reportedly working backstage at recent AEW shows",
       "p": "Sami Callihan has reportedly been working backstage at recent AEW events. Callihan was released by TNA last month as part of what the promotion referred to as a “workforce reduction.” According to...",
       "link": "https://www.f4wonline.com/news/aew/former-tna-world-champion-reportedly-working-backstage-at-recent-aew-shows/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-16T20:07:03+00:00"
     },
     {
@@ -72,23 +88,15 @@
       "h": "WOL: AEW vs. WWE again, Dynamite recap, more",
       "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including all the news in wrestling, more on Ludwig Kaiser, another AEW head-to-head battle with...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-aew-vs-wwe-again-dynamite-recap-more/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-16T20:03:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Liv Morgan’s ‘Trouble’ Passes 1M Streams On Spotify, AEW Dynamite Highlights, More | Fight Size",
-      "p": "Here is your fight size update for Thursday, July 16, 2026. – Liv Morgan’s song ‘Trouble’ has passed a big milestone: Over one million streams on @Spotify 🙏 TROUBLE TROUBLE 🤭...",
-      "link": "https://www.fightful.com/wrestling-news/liv-morgans-trouble-passes-1m-streams-on-spotify-aew-dynamite-highlights-more-fight-size/",
-      "t": "5h",
-      "dt": "2026-07-16T19:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Chris Jericho Sees Himself As A Classic Rock Band",
       "p": "Chris Jericho feels that fans should appreciate him despite no longer being in his prime, similar to the classic rock bands who still perform today.",
       "link": "https://www.wrestlinginc.com/2216869/aew-chris-jericho-classic-rock-band-rolling-stones/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-07-16T18:22:33+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega setting up two AEW World Championship matches, needlessly long matches, Chris Jericho bringing back The Painmaker",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega setting up two AEW World Championship matches, needlessly long matches, Chris Jericho...",
       "link": "https://prowrestling.net/site/2026/07/16/powells-aew-dynamite-hit-list-thoughts-on-kenny-omega-setting-up-two-aew-world-championship-matches-needlessly-long-matches-chris-jericho-bringing-back-the-painmaker/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-07-16T18:00:55+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE HITS & MISSES (7/15): Omega-Ospreay-Knight, The Painmaker is back, Andrade rising popularity, lack of hype for women’s main event, Copeland & Christian vs. Yuta & Garcia",
-      "p": "HITS COPELAND & CHRISTIAN VS. YUTA & GARCIA This was a fun opener with a hot crowd in Boston setting the tone for the show. The fans loved Copeland & Christian and were behind pretty [...]",
-      "link": "https://www.pwtorch.com/site/2026/07/16/aew-dynamite-hits-misses-7-15-omega-ospreay-knight-the-painmaker-is-back-andrade-rising-popularity-lack-of-hype-for-womens-main-event-copeland-christian-vs-yuta-garcia/",
-      "t": "6h",
-      "dt": "2026-07-16T17:51:14+00:00"
     }
   ]
 }

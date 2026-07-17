@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-17T17:23:06.300133+00:00",
+  "updated": "2026-07-17T19:30:38.182565+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -13,10 +13,34 @@
   "items": [
     {
       "src": "Fightful",
+      "h": "AEW Kept AEW Redemption Plans Close To The Vest Until The Day Matches Were Announced",
+      "p": "AEW was reportedly tight-lipped about many of their AEW Redemption plans. The show is set to take place on July 26 at the Bell Centre in Montreal, Quebec. Multiple matches were announced for the...",
+      "link": "https://www.fightful.com/wrestling-news/aew-kept-aew-redemption-plans-secret-until-the-day-matches-were-announced/",
+      "t": "1h",
+      "dt": "2026-07-17T18:25:13+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Kyle Fletcher Talks Winning International Title In 'Ridiculous' Humidity",
+      "p": "Kyle Fletcher has documented the day we won the AEW International Championship, and his battle against the humidity in Clearwater, Florida.",
+      "link": "https://www.wrestlinginc.com/2217720/aew-kyle-fletcher-talks-winning-international-title-ridiculous-humidity/",
+      "t": "1h",
+      "dt": "2026-07-17T18:13:08+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Will Ospreay Elaborates On Decision To Leave NJPW For AEW",
+      "p": "Will Ospreay left NJPW after eight years for several reasons. He was able to keep his ties to the company when he joined AEW at Full Gear 2023.",
+      "link": "https://www.wrestlinginc.com/2217703/aew-njpw-will-ospreay-elaborates-decision-leave/",
+      "t": "1h",
+      "dt": "2026-07-17T17:57:30+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Don Callis Praises Scott D’Amore, ‘I Think He’s A Great Partner To Have’",
       "p": "Don Callis has high praise for Scott D’Amore. Callis and D’Amore have maintained a personal and professional relationship for decades at this point. Currently, the duo work together in D’Amore’s...",
       "link": "https://www.fightful.com/wrestling-news/don-callis-scott-damore-316311/",
-      "t": "22m",
+      "t": "2h",
       "dt": "2026-07-17T17:00:00+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Britt Baker supports AEW partner Rebel with ALS Ice Bucket Challenge",
       "p": "Britt Baker put out a video celebrating her AEW partner Rebel on Friday amid Rebel’s battle against ALS. After the trend went viral on social media in the 2010s, the ALS Ice Bucket Challenge has...",
       "link": "https://www.f4wonline.com/news/aew/britt-baker-supports-aew-rebel-als-ice-bucket-challenge/",
-      "t": "41m",
+      "t": "2h",
       "dt": "2026-07-17T16:41:43+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Spoiler Report For AEW Collision: 7/18/2026",
       "p": "With this week's edition of \"AEW Collision\" being pre-taped in Boston, spoilers on the show's events and results have emerged.",
       "link": "https://www.wrestlinginc.com/2217609/aew-collision-july-18-2026-spoiler-report/",
-      "t": "45m",
+      "t": "2h",
       "dt": "2026-07-17T16:38:03+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Britt Baker Posts Ice Bucket Challenge Video In Support Of Former AEW Manager Rebel",
       "p": "The Ice Bucket Challenge has returned thanks to former NFL player, Chris Johnson. The challenge has reached the wrestling community in support of AEW's Rebel.",
       "link": "https://www.wrestlinginc.com/2217596/aew-britt-baker-rebel-tanea-als-ice-bucket-challenge-video-support-manager/",
-      "t": "56m",
+      "t": "3h",
       "dt": "2026-07-17T16:26:41+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "ROH on HonorClub results (7/16): Lio Rush vs. Lee Johnson for the ROH TV Title, Místico and Mascara Dorada vs. Ángel de Oro and Niebla Roja for the ROH Tag Team Titles",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (7/16): Lio Rush vs. Lee Johnson for the ROH TV Title, Místico and Mascara Dorada vs. Ángel de Oro and Niebla Roja for...",
       "link": "https://prowrestling.net/site/2026/07/17/roh-on-honorclub-results-7-16-lio-rush-vs-lee-johnson-for-the-roh-tv-title-mistico-and-mascara-dorada-vs-angel-de-oro-and-niebla-roja-for-the-roh-tag-team-titles/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-17T15:00:26+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "AEW Tag Team Championship match added to Redemption pay-per-view",
       "p": "An AEW Tag Team Championship match has been added to the Redemption pay-per-view in Montreal next weekend. The post AEW Tag Team Championship match added to Redemption pay-per-view appeared first...",
       "link": "https://www.postwrestling.com/2026/07/17/aew-tag-team-championship-match-added-to-redemption-pay-per-view/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-17T14:36:43+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "New title match confirmed for AEW Redemption",
       "p": "A World Tag Team title defense is now official for next weekend’s AEW Redemption. In a social post late Thursday night, AEW confirmed that Adam Copeland & Christian Cage will defend the titles...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-christian-cage-pac-claudio-castagnoli-aew-redemption/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-07-17T13:27:43+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "Ethan Page Once Received Email From WWE Saying He'd Never Be Hired",
       "p": "Former AEW star Ethan Page has recalled his reaction after being told by WWE that he would never be signed by the promotion.",
       "link": "https://www.wrestlinginc.com/2217257/wwe-ethan-page-received-email-never-hired/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-17T13:00:00+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW wrestler to miss weekend Japan booking due to flight issues",
       "p": "Willow Nightingale won’t be able to make her scheduled trip to Japan this weekend to compete for Tokyo Joshi Pro Wrestling. Saturday’s Summer Sun Princess was supposed to feature a match between...",
       "link": "https://www.f4wonline.com/news/aew/aew-wrestler-to-miss-weekend-japan-booking-due-to-flight-issues/",
-      "t": "4h",
-      "dt": "2026-07-17T12:42:38+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Dustin Rhodes outlines ambitions amid year-long AEW absence: ‘I don’t think it’s too late for me’",
-      "p": "Dustin Rhodes has outlined his ambitions during his time away from AEW after being sidelined for nearly a year. He took to Instagram expressing that becoming World Champion is still on his agenda....",
-      "link": "https://www.f4wonline.com/news/aew/dustin-rhodes-outlines-ambitions-amid-year-long-aew-absence-i-dont-think-its-too-late-for-me/",
-      "t": "4h",
-      "dt": "2026-07-17T12:40:17+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Weekend TV Guide: Tournament action runs through Japan, WWE heads to MSG & more!",
-      "p": "This weekend's top pro wrestling events on TV & streaming, including shows from WWE, AEW, NJPW, STARDOM, TJPW and more! The post Weekend TV Guide: Tournament action runs through Japan, WWE heads...",
-      "link": "https://www.postwrestling.com/2026/07/17/weekend-tv-guide-tournament-action-runs-through-japan-wwe-heads-to-msg-more/",
-      "t": "5h",
-      "dt": "2026-07-17T12:00:42+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW wrestler confirmed for All In weekend indie show",
-      "p": "Pro Wrestling EVE has announced that Marina Shafir will be competing on the August 28th EVE x The World 2. This event is unofficially part of All In Weekend, which also featured Rev Pro from...",
-      "link": "https://www.f4wonline.com/news/aew/marina-shafir-aew-all-in-weekend-pro-wrestling-eve/",
       "t": "6h",
-      "dt": "2026-07-17T11:00:00+00:00"
+      "dt": "2026-07-17T12:42:38+00:00"
     }
   ]
 }

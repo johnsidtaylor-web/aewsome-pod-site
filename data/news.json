@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-18T00:06:40.771637+00:00",
+  "updated": "2026-07-18T03:28:18.224772+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "POST Wrestling",
-      "h": "AEW Collision 7/18/26 Review (Live 10:15pm ET)",
-      "p": "TONIGHT 10:15PM ET — Ray Williams joins Kate from Montreal to talk about this week’s #AEWCollision, featuring Hikaru Shida vs Queen Aminata for the TBS Championship. The post AEW Collision 7/18/26...",
-      "link": "https://www.postwrestling.com/2026/07/17/aew-collision-7-18-26-review/",
-      "t": "21m",
-      "dt": "2026-07-17T23:45:24+00:00"
+      "src": "Fightful",
+      "h": "AEW Dynamite (7/15) Draws Nearly 800,000 Viewers On Cable TV",
+      "p": "AEW Dynamite viewership and ratings information for the July 15 episode. Wrestlenomics reports that AEW Dynamite on July 15 drew 786,000 viewers on TBS. This number is up from the 773,000 viewers...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-7-15-draws-nearly-800000-viewers-on-cable-tv/",
+      "t": "37m",
+      "dt": "2026-07-18T02:50:16+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Speedball Mike Bailey Targeting Champions In AEW's DCF",
       "p": "\"Speedball\" Mike Bailey contemplated in his latest \"SpeedVlog\" if he should target all the champions within the Don Callis Family.",
       "link": "https://www.wrestlinginc.com/2217979/speedball-mike-bailey-tageting-champions-aew/",
-      "t": "38m",
+      "t": "3h",
       "dt": "2026-07-17T23:28:35+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "AEW Dynamite scores highest ratings of 2026",
       "p": "Wednesday night’s episode of AEW Dynamite averaged 786,000 viewers on TBS, up 1.7% from the previous week. It ties the largest audience for the show since July 17, 2024. Dynamite averaged a 0.15...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-scores-highest-ratings-of-2026/",
-      "t": "48m",
+      "t": "4h",
       "dt": "2026-07-17T23:17:53+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "AEW needs to find a more cohesive road to All In | Opinion",
       "p": "I’ve knocked WWE over the last few weeks for having a safe and boring summer creatively. Same people at the top rehashing storylines from decades ago. But AEW also seems to be struggling...",
       "link": "https://www.f4wonline.com/news/aew/aew-needs-to-find-a-more-cohesive-road-to-all-in-opinion/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-17T23:00:00+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "07/17 Dot Net Weekly audio show: Barnett and Powell on WWE running against another AEW PPV, Mike Santana, Jake Hager, Dark Side on TNA, WWE SNME predictions",
       "p": "By Jake Barnett (@jakebarnett) and... The post 07/17 Dot Net Weekly audio show: Barnett and Powell on WWE running against another AEW PPV, Mike Santana, Jake Hager, Dark Side on TNA, WWE SNME...",
       "link": "https://prowrestling.net/site/2026/07/17/07-17-dot-net-weekly-audio-show-barnett-and-powell-on-wwe-running-against-another-aew-ppv-mike-santana-jake-hager-dark-side-on-tna-wwe-snme-predictions/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-17T22:52:06+00:00"
     },
     {
@@ -56,7 +56,7 @@
       "h": "Former ROH owner Cary Silkin attends WWE live event in Allentown, Pennsylvania",
       "p": "Former Ring of Honor owner Cary Silkin was a guest at WWE’s live event in Allentown, Pennsylvania, on Thursday. The post Former ROH owner Cary Silkin attends WWE live event in Allentown,...",
       "link": "https://www.postwrestling.com/2026/07/17/former-roh-owner-cary-silkin-attends-wwe-live-event-in-allentown-pennsylvania/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-17T22:33:32+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "AEW Dynamite rating: Did the show build on the improved numbers drawn by the Beach Break edition?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: Did the show build on the improved numbers drawn by the Beach Break edition? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/17/aew-dynamite-rating-did-the-show-build-on-the-improved-numbers-drawn-by-the-beach-break-edition/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-07-17T22:10:54+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Former WWE tag team confirmed for PROGRESS Wrestling tour",
       "p": "Former WWE tag team MxM (Mansoor and Mason Madden) have been confirmed for the upcoming PROGRESS Wrestling Odyssey Tour. The duo are currently signed to AEW, having made their Ring of Honor debut...",
       "link": "https://www.f4wonline.com/news/other-wrestling/progress-wrestling-odyssey-tour-mxm-announced-mansoor-mason-madden/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-17T19:42:55+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "AEW star Darby Allin surprises fan with special needs",
       "p": "Before he competes for indie promotion 1FW tonight, AEW star Darby Allin helped bring some joy to a fan with special needs. 11Alive News in Georgia produced a story on Allin surprising a huge...",
       "link": "https://www.f4wonline.com/news/aew/aew-star-darby-allin-surprises-fan-with-special-needs/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-17T19:38:28+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "AEW's Kyle Fletcher Talks Winning International Title In 'Ridiculous' Humidity",
       "p": "Kyle Fletcher has documented the day we won the AEW International Championship, and his battle against the humidity in Clearwater, Florida.",
       "link": "https://www.wrestlinginc.com/2217720/aew-kyle-fletcher-talks-winning-international-title-ridiculous-humidity/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-07-17T18:13:08+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "Will Ospreay Elaborates On Decision To Leave NJPW For AEW",
       "p": "Will Ospreay left NJPW after eight years for several reasons. He was able to keep his ties to the company when he joined AEW at Full Gear 2023.",
       "link": "https://www.wrestlinginc.com/2217703/aew-njpw-will-ospreay-elaborates-decision-leave/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-07-17T17:57:30+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Britt Baker supports AEW partner Rebel with ALS Ice Bucket Challenge",
       "p": "Britt Baker put out a video celebrating her AEW partner Rebel on Friday amid Rebel’s battle against ALS. After the trend went viral on social media in the 2010s, the ALS Ice Bucket Challenge has...",
       "link": "https://www.f4wonline.com/news/aew/britt-baker-supports-aew-rebel-als-ice-bucket-challenge/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-07-17T16:41:43+00:00"
     }
   ]

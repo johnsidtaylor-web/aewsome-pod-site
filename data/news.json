@@ -1,22 +1,54 @@
 {
-  "updated": "2026-07-18T19:22:59.483268+00:00",
+  "updated": "2026-07-18T21:04:05.345104+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Says He’d Love To Have Bryan Danielson On AEW Commentary All The Time, But Danielson Is Beat Up",
+      "p": "Tony Khan provides an update on Bryan Danielson. The last time that Bryan Danielson did commentary for All Elite Wrestling was in April 2026 at Dynamite: Spring BreakThru. Danielson’s name came up...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-hed-love-to-have-bryan-danielson-on-aew-commentary-all-the-time-but-danielson-is-beat-up/",
+      "t": "2m",
+      "dt": "2026-07-18T21:01:19+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite on-site report: A lively crowd elevated an otherwise uneven show, Tony Khan’s appearance, ROH six-man tag match",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite on-site report: A lively crowd elevated an otherwise uneven show, Tony Khan’s appearance, ROH six-man tag match appeared first on...",
+      "link": "https://prowrestling.net/site/2026/07/18/aew-dynamite-on-site-report-a-lively-crowd-elevated-an-otherwise-uneven-show-tony-khans-appearance-roh-six-man-tag-match/",
+      "t": "14m",
+      "dt": "2026-07-18T20:49:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Steve Maclin Says He’d Love To Work In ROH",
+      "p": "Steve Maclin says he’d love to go to Ring of Honor. Maclin departed TNA Wrestling on June 7. He later signed a multi-fight deal with PRODUCE, but has yet to sign a long-term deal with any major...",
+      "link": "https://www.fightful.com/wrestling-news/steve-maclin-says-hed-love-to-work-in-roh/",
+      "t": "57m",
+      "dt": "2026-07-18T20:06:53+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Don Callis: Mauro Ranallo’s Commentary Prep Is So Impressive, He Makes My Job Easy",
+      "p": "Don Callis loves working with Mauro Ranallo. Callis and Ranallo have been on the call for the majority of Maple Leaf Pro events since the promotion returned in 2024. As it turns out, ‘The...",
+      "link": "https://www.fightful.com/wrestling-news/don-callis-mauro-316314/",
+      "t": "1h",
+      "dt": "2026-07-18T20:00:00+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Sammy Guevara On AEW Absence: 'Not My Call'",
       "p": "Former three-time TNT Champion Sammy Guevara comments on not being showcased on AEW programming as often as of late, whether he knows how soon he'll return.",
       "link": "https://www.wrestlinginc.com/2218124/aew-sammy-guevara-absence-not-my-call/",
-      "t": "36m",
+      "t": "2h",
       "dt": "2026-07-18T18:46:19+00:00"
     },
     {
@@ -24,23 +56,15 @@
       "h": "FREE PODCAST 7/18 – PWTorch Dailycast – All Elite Conversation Club: Dehnel’s in-person report from AEW Brawl in the Ballpark and NJPW G1 Climax Night 1 + Nick Barbati discusses WWE’s rising stars and how he would handle their creative direction, more (102 min.)",
       "p": "SHOW SUMMARY: In this special edition of All Elite Conversation Club, PWTorch contributor Joel Dehnel gives his in-person report for AEW Brawl in the Ballpark in Minneapolis, Minn. and New Japan...",
       "link": "https://www.pwtorch.com/site/2026/07/18/free-podcast-7-18-pwtorch-dailycast-all-elite-conversation-club-dehnels-in-person-report-from-aew-brawl-in-the-ballpark-and-njpw-g1-climax-night-1-nick-barbati-discusse/",
-      "t": "39m",
+      "t": "2h",
       "dt": "2026-07-18T18:43:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Deonna Purrazzo Says She’s Working On Getting Medically Cleared",
-      "p": "Deonna Purrazzo is working towards a return. It was back in June that ROH Women’s Pure Champion Deonna Purrazzo was in action at a Ring of Honor taping, but her match had to be stopped due to an...",
-      "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-says-shes-working-on-getting-medically-cleared/",
-      "t": "1h",
-      "dt": "2026-07-18T18:01:25+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "Limitless Wrestling “Crunch Time” results (7/17): Vetter’s review of Donovan Dijak and Starstruck vs. Jordan Oliver, Alec Price, and Leedz Lewis, Lio Rush vs. 23 Hazard for the ROH TV Title",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post Limitless Wrestling “Crunch Time” results (7/17): Vetter’s review of Donovan Dijak and Starstruck vs. Jordan Oliver, Alec Price, and Leedz...",
       "link": "https://prowrestling.net/site/2026/07/18/limitless-wrestling-crunch-time-results-7-17-vetters-review-of-donovan-dijak-and-starstruck-vs-jordan-oliver-alec-price-and-leedz-lewis-lio-rush-vs-23-hazard-for-the-roh-tv-title/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-18T17:05:46+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "NJPW “G1 Climax 36” results (7/18): Vetter’s review of Ryohei Oiwa vs. Shingo Takagi, Drilla Moloney vs. Gabe Kidd, Konosuke Takeshita vs. Jake Lee, Yuto-Ice vs. Boltin Oleg",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/18): Vetter’s review of Ryohei Oiwa vs. Shingo Takagi, Drilla Moloney vs. Gabe Kidd, Konosuke Takeshita vs....",
       "link": "https://prowrestling.net/site/2026/07/18/njpw-g1-climax-36-results-7-18-vetters-review-of-ryohei-oiwa-vs-shingo-takagi-drilla-moloney-vs-gabe-kidd-konosuke-takeshita-vs-jake-lee-yuto-ice-vs-boltin-oleg/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-18T16:30:02+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "AEW’s Triangle of Madness wins Artist of Stardom Championships",
       "p": "Thekla, Julia Hart and Skye Blue captured the Artist of Stardom Championship on Saturday during the opening night of the 5 Star Grand Prix. The post AEW’s Triangle of Madness wins Artist of...",
       "link": "https://www.postwrestling.com/2026/07/18/aews-triangle-of-madness-wins-artist-of-stardom-championships/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-07-18T14:13:24+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "AEW’s Thekla, Julia Hart & Skye Blue win Artist of Stardom Championship",
       "p": "The Triangle of Madness have won the Artist of Stardom Championship. Thekla, Julia Hart, and Skye Blue defeated Ami Sohrei, Hina, and Lady C on Saturday, July 18, during the opening night of...",
       "link": "https://www.f4wonline.com/news/aew/aews-thekla-julia-hart-skye-blue-win-artist-of-stardom-championship/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-18T12:33:54+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW Collision lineup: TBS and TNT title matches top tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: TBS and TNT title matches top tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/18/aew-collision-lineup-tbs-and-tnt-title-matches-top-tonights-show/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-07-18T11:00:25+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW Dynamite Viewership & Ratings Report, 7/15/2026",
       "p": "It was another successful week for \"AEW Dynamite\" in the TV ratings as the July 15 episode managed to top the Beach Break special.",
       "link": "https://www.wrestlinginc.com/2218062/aew-dynamite-viewership-ratings-report-july-15-2026/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-07-18T03:29:22+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Speedball Mike Bailey Targeting Champions In AEW's DCF",
-      "p": "\"Speedball\" Mike Bailey contemplated in his latest \"SpeedVlog\" if he should target all the champions within the Don Callis Family.",
-      "link": "https://www.wrestlinginc.com/2217979/speedball-mike-bailey-tageting-champions-aew/",
-      "t": "19h",
-      "dt": "2026-07-17T23:28:35+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite scores highest ratings of 2026",
-      "p": "Wednesday night’s episode of AEW Dynamite averaged 786,000 viewers on TBS, up 1.7% from the previous week. It ties the largest audience for the show since July 17, 2024. Dynamite averaged a 0.15...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-scores-highest-ratings-of-2026/",
-      "t": "20h",
-      "dt": "2026-07-17T23:17:53+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW needs to find a more cohesive road to All In | Opinion",
-      "p": "I’ve knocked WWE over the last few weeks for having a safe and boring summer creatively. Same people at the top rehashing storylines from decades ago. But AEW also seems to be struggling...",
-      "link": "https://www.f4wonline.com/news/aew/aew-needs-to-find-a-more-cohesive-road-to-all-in-opinion/",
-      "t": "20h",
-      "dt": "2026-07-17T23:00:00+00:00"
     }
   ]
 }

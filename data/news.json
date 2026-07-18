@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T12:02:38.203578+00:00",
+  "updated": "2026-07-18T13:45:37.954830+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -7,16 +7,32 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW’s Thekla, Julia Hart & Skye Blue win Artist of Stardom Championship",
+      "p": "The Triangle of Madness have won the Artist of Stardom Championship. Thekla, Julia Hart, and Skye Blue defeated Ami Sohrei, Hina, and Lady C on Saturday, July 18, during the opening night of...",
+      "link": "https://www.f4wonline.com/news/aew/aews-thekla-julia-hart-skye-blue-win-artist-of-stardom-championship/",
+      "t": "1h",
+      "dt": "2026-07-18T12:33:54+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW’s Triangle Of Madness Capture Artist Of STARDOM Championship",
+      "p": "Triangle of Madness captures the Trios Titles. World Wonder Ring STARDOM’s 5 STAR Grand Prix tournament kicked off on July 18th, and the semi-main event of the show was a non-tournament match for...",
+      "link": "https://www.fightful.com/wrestling-news/aews-triangle-of-madness-capture-artist-of-stardom-championship/",
+      "t": "1h",
+      "dt": "2026-07-18T12:18:14+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision lineup: TBS and TNT title matches top tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: TBS and TNT title matches top tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/18/aew-collision-lineup-tbs-and-tnt-title-matches-top-tonights-show/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-18T11:00:25+00:00"
     },
     {
@@ -24,23 +40,15 @@
       "h": "AEW Dynamite Viewership & Ratings Report, 7/15/2026",
       "p": "It was another successful week for \"AEW Dynamite\" in the TV ratings as the July 15 episode managed to top the Beach Break special.",
       "link": "https://www.wrestlinginc.com/2218062/aew-dynamite-viewership-ratings-report-july-15-2026/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-07-18T03:29:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite (7/15) Draws Nearly 800,000 Viewers On Cable TV",
-      "p": "AEW Dynamite viewership and ratings information for the July 15 episode. Wrestlenomics reports that AEW Dynamite on July 15 drew 786,000 viewers on TBS. This number is up from the 773,000 viewers...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-7-15-draws-nearly-800000-viewers-on-cable-tv/",
-      "t": "9h",
-      "dt": "2026-07-18T02:50:16+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Speedball Mike Bailey Targeting Champions In AEW's DCF",
       "p": "\"Speedball\" Mike Bailey contemplated in his latest \"SpeedVlog\" if he should target all the champions within the Don Callis Family.",
       "link": "https://www.wrestlinginc.com/2217979/speedball-mike-bailey-tageting-champions-aew/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-07-17T23:28:35+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW Dynamite scores highest ratings of 2026",
       "p": "Wednesday night’s episode of AEW Dynamite averaged 786,000 viewers on TBS, up 1.7% from the previous week. It ties the largest audience for the show since July 17, 2024. Dynamite averaged a 0.15...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-scores-highest-ratings-of-2026/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-07-17T23:17:53+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW needs to find a more cohesive road to All In | Opinion",
       "p": "I’ve knocked WWE over the last few weeks for having a safe and boring summer creatively. Same people at the top rehashing storylines from decades ago. But AEW also seems to be struggling...",
       "link": "https://www.f4wonline.com/news/aew/aew-needs-to-find-a-more-cohesive-road-to-all-in-opinion/",
-      "t": "13h",
+      "t": "14h",
       "dt": "2026-07-17T23:00:00+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "07/17 Dot Net Weekly audio show: Barnett and Powell on WWE running against another AEW PPV, Mike Santana, Jake Hager, Dark Side on TNA, WWE SNME predictions",
       "p": "By Jake Barnett (@jakebarnett) and... The post 07/17 Dot Net Weekly audio show: Barnett and Powell on WWE running against another AEW PPV, Mike Santana, Jake Hager, Dark Side on TNA, WWE SNME...",
       "link": "https://prowrestling.net/site/2026/07/17/07-17-dot-net-weekly-audio-show-barnett-and-powell-on-wwe-running-against-another-aew-ppv-mike-santana-jake-hager-dark-side-on-tna-wwe-snme-predictions/",
-      "t": "13h",
+      "t": "14h",
       "dt": "2026-07-17T22:52:06+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Former ROH owner Cary Silkin attends WWE live event in Allentown, Pennsylvania",
       "p": "Former Ring of Honor owner Cary Silkin was a guest at WWE’s live event in Allentown, Pennsylvania, on Thursday. The post Former ROH owner Cary Silkin attends WWE live event in Allentown,...",
       "link": "https://www.postwrestling.com/2026/07/17/former-roh-owner-cary-silkin-attends-wwe-live-event-in-allentown-pennsylvania/",
-      "t": "13h",
+      "t": "15h",
       "dt": "2026-07-17T22:33:32+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW Dynamite rating: Did the show build on the improved numbers drawn by the Beach Break edition?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: Did the show build on the improved numbers drawn by the Beach Break edition? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/17/aew-dynamite-rating-did-the-show-build-on-the-improved-numbers-drawn-by-the-beach-break-edition/",
-      "t": "13h",
+      "t": "15h",
       "dt": "2026-07-17T22:10:54+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "Former WWE tag team confirmed for PROGRESS Wrestling tour",
       "p": "Former WWE tag team MxM (Mansoor and Mason Madden) have been confirmed for the upcoming PROGRESS Wrestling Odyssey Tour. The duo are currently signed to AEW, having made their Ring of Honor debut...",
       "link": "https://www.f4wonline.com/news/other-wrestling/progress-wrestling-odyssey-tour-mxm-announced-mansoor-mason-madden/",
-      "t": "16h",
+      "t": "18h",
       "dt": "2026-07-17T19:42:55+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW star Darby Allin surprises fan with special needs",
       "p": "Before he competes for indie promotion 1FW tonight, AEW star Darby Allin helped bring some joy to a fan with special needs. 11Alive News in Georgia produced a story on Allin surprising a huge...",
       "link": "https://www.f4wonline.com/news/aew/aew-star-darby-allin-surprises-fan-with-special-needs/",
-      "t": "16h",
+      "t": "18h",
       "dt": "2026-07-17T19:38:28+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kyle Fletcher Talks Winning International Title In 'Ridiculous' Humidity",
-      "p": "Kyle Fletcher has documented the day we won the AEW International Championship, and his battle against the humidity in Clearwater, Florida.",
-      "link": "https://www.wrestlinginc.com/2217720/aew-kyle-fletcher-talks-winning-international-title-ridiculous-humidity/",
-      "t": "17h",
-      "dt": "2026-07-17T18:13:08+00:00"
     }
   ]
 }

@@ -1,22 +1,30 @@
 {
-  "updated": "2026-07-19T16:09:44.889697+00:00",
+  "updated": "2026-07-19T17:13:32.087649+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Young Bucks Make Major Challenge For AEW Redemption",
+      "p": "The Young Bucks have issued an all-star tag team challenge for AEW Redemption next Sunday.",
+      "link": "https://www.wrestlinginc.com/2218234/young-bucks-major-challenge-aew-redemption/",
+      "t": "33m",
+      "dt": "2026-07-19T16:40:11+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "AEW congratulates champion for setting title defense record on Collision",
       "p": "AEW has congratulated Kevin Knight for setting a new record for successful defenses of the TNT Championship in a single title reign. AEW wrote: “Congratulations to “The Jet” @Jet2Flyy for holding...",
       "link": "https://www.f4wonline.com/news/aew/aew-congratulates-champion-for-setting-title-defense-record-on-collision/",
-      "t": "6m",
+      "t": "1h",
       "dt": "2026-07-19T16:02:42+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Athena Surpasses Roman Reigns’ Modern Day Record As Longest Reigning World Champion In The United States",
       "p": "Athena has surpassed Roman Reigns’ modern day record as the longest reigning world champion in the United States, at 1,317 days. The Ring Of Honor Women’s World Champion would capture the title at...",
       "link": "https://www.fightful.com/wrestling-news/athena-surpasses-roman-reigns-modern-day-record-as-longest-reigning-world-champion-in-the-united-states/",
-      "t": "33m",
+      "t": "1h",
       "dt": "2026-07-19T15:36:34+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Maya World Earns AEW TBS Title Shot",
       "p": "An intense encounter on \"AEW Collision\" has resulted in a future TBS Championship opportunity for Maya World.",
       "link": "https://www.wrestlinginc.com/2218225/maya-world-earns-aw-tbs-title-shot/",
-      "t": "42m",
+      "t": "1h",
       "dt": "2026-07-19T15:27:09+00:00"
     },
     {
@@ -40,39 +48,23 @@
       "h": "Fire Trucks Showed Up To Darby Allin’s House Thinking It Blew Up",
       "p": "Darby Allin filmed a vignette for AEW Collision where he set a car on fire as a warning to Kevin Knight. Spray-painted on the car were the words “Kevin needs to be humbled.” On Instagram, Allin...",
       "link": "https://www.fightful.com/wrestling-news/fire-trucks-showed-up-to-darby-allin-house-thinking-it-blew-up/",
-      "t": "45m",
-      "dt": "2026-07-19T15:23:47+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Claudio Castagnoli: The Ultimate Mission Statement For The Death Riders Is To Make AEW A Wrestling Utopia",
-      "p": "Claudio Castagnoli noted that the ultimate mission statement for The Death Riders is to make AEW ‘a wrestling utopia.’ The Death Riders have been a prominent faction in AEW in the past couple of...",
-      "link": "https://www.fightful.com/wrestling-news/claudio-castagnoli-the-ultimate-mission-statement-for-the-death-riders-is-to-make-aew-a-wrestling-utopia/",
       "t": "1h",
-      "dt": "2026-07-19T15:02:08+00:00"
+      "dt": "2026-07-19T15:23:47+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AJ Styles Doesn't Believe AEW's Kenny Omega Will Ever Work In WWE",
       "p": "Retired star AJ Styles has discussed why his former Bullet Club stablemate Kenny Omega is unlikely to leave AEW for WWE anytime soon.",
       "link": "https://www.wrestlinginc.com/2217250/aew-wwe-aj-styles-kenny-omega-doesnt-believe-work/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-19T15:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Claudio Castagnoli Says Will Ospreay In The Death Riders Was Never About Changing Him: ‘He Was Already Great’",
-      "p": "Claudio Castagnoli says Will Ospreay in The Death Riders was never about changing him, noting that he was ‘already great.’ Over the course of the past several months since Ospreay lost to Jon...",
-      "link": "https://www.fightful.com/wrestling-news/claudio-castagnoli-says-will-ospreay-in-the-death-riders-was-never-about-changing-him-he-was-already-great/",
-      "t": "1h",
-      "dt": "2026-07-19T14:41:11+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Bully Ray Says Former WWE Star Has Become 'Background Noise' In AEW",
       "p": "According to Bully Ray on \"Busted Open Radio,\" one former WWE star has failed to make a long-lasting impact in AEW despite being regularly featured on TV.",
       "link": "https://www.wrestlinginc.com/2217176/wwe-aew-bully-ray-claudio-castagnoli-background-noise/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-19T14:30:00+00:00"
     },
     {
@@ -80,7 +72,7 @@
       "h": "Tommaso Ciampa Adds Extreme Stipulation To AEW Redemption Match",
       "p": "The upcoming match between Tommaso Ciampa and \"Painmaker\" Chris Jericho at AEW Redemption just got more extreme.",
       "link": "https://www.wrestlinginc.com/2218219/tommaso-ciampa-adds-extreme-stipulation-aew-redemption-chris-jericho/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-19T14:18:28+00:00"
     },
     {
@@ -88,7 +80,7 @@
       "h": "Tony Khan says Bryan Danielson is too ‘beat up’ to be on commentary regularly",
       "p": "Since losing to Jon Moxley at AEW WrestleDream 2024, Bryan Danielson has not been in a televised match, although he has maintained appearances doing commentary. Despite his frequent presence on...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-says-bryan-danielson-is-too-beat-up-to-be-on-commentary-regularly/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-07-19T11:00:00+00:00"
     },
     {
@@ -96,7 +88,7 @@
       "h": "07/19 Powell’s AEW Collision audio review: Hikaru Shida vs. Queen Aminata for the TBS Championship, Kevin Knight vs. AR Fox for the TNT Championship",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 07/19 Powell’s AEW Collision audio review: Hikaru Shida vs. Queen Aminata for the TBS Championship, Kevin Knight vs. AR Fox for the TNT...",
       "link": "https://prowrestling.net/site/2026/07/19/07-19-powells-aew-collision-audio-review-hikaru-shida-vs-queen-aminata-for-the-tbs-championship-kevin-knight-vs-ar-fox-for-the-tnt-championship/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-07-19T08:38:58+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "Tony Khan reveals if he’ll accept custom WWE title belt for Jacksonville Jaguars",
       "p": "Tony Khan has opened up on whether he’ll accept a custom WWE Championship for his Jacksonville Jaguars. Khan joined the Jacksonville Jaguars in July 2012 and currently serves as the Chief Football...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-reveals-if-hell-accept-custom-wwe-title-belt-for-jacksonville-jaguars/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-07-19T05:45:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision results (7/18): Murphy’s review of Hikaru Shida vs. Queen Aminata for the TBS Championship, Kevin Knight vs. AR Fox for the TNT Championship",
+      "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (7/18): Murphy’s review of Hikaru Shida vs. Queen Aminata for the TBS Championship, Kevin Knight vs. AR Fox for the TNT...",
+      "link": "https://prowrestling.net/site/2026/07/19/aew-collision-results-7-18-murphys-review-of-hikaru-shida-vs-queen-aminata-for-the-tbs-championship-kevin-knight-vs-ar-fox-for-the-tnt-championship/",
+      "t": "12h",
+      "dt": "2026-07-19T05:01:39+00:00"
     }
   ]
 }

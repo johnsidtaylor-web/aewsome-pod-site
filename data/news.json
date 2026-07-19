@@ -1,22 +1,78 @@
 {
-  "updated": "2026-07-19T00:07:25.259721+00:00",
+  "updated": "2026-07-19T03:50:00.127305+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (1 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "AEW COLLISION RESULTS (7/18): Shida vs. Aminata for the TBS title, Bandido defends the ROH title, Kevin Knight vs. AR Fox for the TNT title, Jack Perry vs. Nick Wayne, Will Ospreay in action, and more",
+      "p": "AEW COLLISION REPORT JULY 18, 2026 (recorded 7/16) BOSTON, MASS. AT MGM MUSIC HALL AIRED ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Paul Wight Ring...",
+      "link": "https://www.pwtorch.com/site/2026/07/18/aew-collision-results-7-18-shida-vs-aminata-for-the-tbs-title-bandido-defends-the-roh-title-kevin-knight-vs-ar-fox-for-the-tnt-title-jack-perry-vs-nick-wayne-will-ospreay-in-action-and-more/",
+      "t": "12m",
+      "dt": "2026-07-19T03:37:33+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 7/18 Results: TBS Title match added to Redemption, three titles defended",
+      "p": "Hikaru Shida defeated Queen Aminata on AEW Collision to retain the TBS Championship before Maya World intervened to set up a title clash at Redemption. The post AEW Collision 7/18 Results: TBS...",
+      "link": "https://www.postwrestling.com/2026/07/18/aew-collision-7-18-results-tbs-title-match-added-to-redemption-three-titles-defended/",
+      "t": "29m",
+      "dt": "2026-07-19T03:20:46+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Women’s Tag Team Title Bout, More Added To 7/22 AEW Dynamite",
+      "p": "More additions to the July 22 episode of AEW Dynamite. All Elite Wrestling announced that Divine Dominion (Megan Bayne & Lena Kross) will defend the AEW Women’s Tag Team Titles against Sisters of...",
+      "link": "https://www.fightful.com/wrestling-news/aew-womens-tag-team-title-bout-more-added-to-7-22-aew-dynamite/",
+      "t": "39m",
+      "dt": "2026-07-19T03:10:15+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "No DQ title match announced for next AEW Dynamite",
+      "p": "Megan Bayne and Lena Kross will defend their AEW Women’s World Tag Team titles in a no DQ match on next week’s AEW Dynamite. On the July 18 AEW Collision, Julia Hart and Skye Blue of the Triangle...",
+      "link": "https://www.f4wonline.com/news/aew/no-dq-title-match-announced-for-next-weeks-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-07-19T02:14:55+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Stipulation added to Tommaso Ciampa vs. Chris Jericho AEW Redemption match",
+      "p": "Chris Jericho vs. Tommaso Ciampa at the upcoming AEW Redemption will now be a no holds barred match. On the July 18 episode of AEW Collision, Ciampa faced Myron Reed and following his victory, he...",
+      "link": "https://www.f4wonline.com/news/aew/stipulation-added-to-tommaso-ciampa-vs-chris-jericho-aew-redemption-match/",
+      "t": "1h",
+      "dt": "2026-07-19T01:52:49+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "New matches announced for AEW Redemption",
+      "p": "Will Ospreay is now set to be a part of a high profile tag team match at AEW Redemption. On the July 18 episode of AEW Collision, the promotion announced that Jon Moxley and Ospreay will team up...",
+      "link": "https://www.f4wonline.com/news/aew/new-will-ospreay-tag-team-match-announced-for-aew-redemption/",
+      "t": "2h",
+      "dt": "2026-07-19T01:33:34+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Young Bucks to face Jon Moxley and Will Ospreay at AEW Redemption",
+      "p": "The Young Bucks will face Jon Moxley and Will Ospreay in a tag team match at AEW Redemption. The post Young Bucks to face Jon Moxley and Will Ospreay at AEW Redemption appeared first on POST...",
+      "link": "https://www.postwrestling.com/2026/07/18/young-bucks-to-face-jon-moxley-and-will-ospreay-at-aew-redemption/",
+      "t": "2h",
+      "dt": "2026-07-19T01:13:39+00:00"
+    },
     {
       "src": "POST Wrestling",
       "h": "AEW Collision 7/18/26 Review (Live 10:15pm ET)",
       "p": "Ray Williams joins Kate from Montreal to talk about this week’s AEW Collision, featuring Hikaru Shida vs Queen Aminata for the TBS title. The post AEW Collision 7/18/26 Review (Live 10:15pm ET)...",
       "link": "https://www.postwrestling.com/2026/07/18/aew-collision-7-18-26-review-live-1015pm-et-2/",
-      "t": "22m",
+      "t": "4h",
       "dt": "2026-07-18T23:45:23+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "AEW Collision live results: Hikaru Shida vs. Queen Aminata, Kevin Knight vs. AR Fox",
       "p": "AEW Collision is on the air tonight. The show was taped on Thursday from the MGM Music Hall in Boston. Three title matches are scheduled for the show, including TBS Champion Hikaru Shida defending...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-hikaru-shida-vs-queen-aminata-kevin-knight-vs-ar-fox/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-18T23:05:00+00:00"
     },
     {
@@ -32,80 +88,24 @@
       "h": "AEW Collision Results 7/18 - Three Titles On The Line, Will Ospreay & Athena In Action",
       "p": "The TBS Championship, TNT Championship, and ROH Men's World Championship will all be defend on tonight's AEW \"Collision\".",
       "link": "https://www.wrestlinginc.com/2218144/aew-collision-july-18-results/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-18T22:52:31+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Shares That AEW Rampage Name Was Inspired By Rampage Wrestling Simulator Game",
-      "p": "The Rampage name was inspired by a simulator game. Guest appearing on Jeremy Lambert’s 24-hour In The Weeds charity stream was AEW/ROH President Tony Khan. During the hour-long conversation, Khan...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-shares-that-aew-rampage-name-was-inspired-by-rampage-wrestling-simulator-game/",
-      "t": "2h",
-      "dt": "2026-07-18T21:38:51+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Provides Update On Possibility Of Blake Christian Using Jack Harlow’s ‘Lovin On Me’ Song",
-      "p": "An update on the possibility of Blake Christian using the song. Nine-year wrestler Blake Christian put out a video montage of himself with the cover song being ‘Lovin On Me’ by Jack Harlow. The...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-provides-update-on-possibility-of-blake-christian-using-jack-harlows-lovin-on-me-song/",
-      "t": "2h",
-      "dt": "2026-07-18T21:28:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Comments On If He Would Accept Custom WWE Title Belt For NFL Jacksonville Jaguars",
-      "p": "One of the questions asked of Tony Khan had to do with the Jags and WWE. When a sports team wins a championship, WWE sends the team a custom championship belt. NFL Jacksonville Jaguars executive...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-comments-on-if-he-would-accept-custom-wwe-title-belt-for-nfl-jacksonville-jaguars/",
-      "t": "2h",
-      "dt": "2026-07-18T21:15:46+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Says He’d Love To Have Bryan Danielson On AEW Commentary All The Time, But Danielson Is Beat Up",
-      "p": "Tony Khan provides an update on Bryan Danielson. The last time that Bryan Danielson did commentary for All Elite Wrestling was in April 2026 at Dynamite: Spring BreakThru. Danielson’s name came up...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-hed-love-to-have-bryan-danielson-on-aew-commentary-all-the-time-but-danielson-is-beat-up/",
-      "t": "3h",
-      "dt": "2026-07-18T21:01:19+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite on-site report: A lively crowd elevated an otherwise uneven show, Tony Khan’s appearance, ROH six-man tag match",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite on-site report: A lively crowd elevated an otherwise uneven show, Tony Khan’s appearance, ROH six-man tag match appeared first on...",
       "link": "https://prowrestling.net/site/2026/07/18/aew-dynamite-on-site-report-a-lively-crowd-elevated-an-otherwise-uneven-show-tony-khans-appearance-roh-six-man-tag-match/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-07-18T20:49:43+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Steve Maclin Says He’d Love To Work In ROH",
-      "p": "Steve Maclin says he’d love to go to Ring of Honor. Maclin departed TNA Wrestling on June 7. He later signed a multi-fight deal with PRODUCE, but has yet to sign a long-term deal with any major...",
-      "link": "https://www.fightful.com/wrestling-news/steve-maclin-says-hed-love-to-work-in-roh/",
-      "t": "4h",
-      "dt": "2026-07-18T20:06:53+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Sammy Guevara On AEW Absence: 'Not My Call'",
       "p": "Former three-time TNT Champion Sammy Guevara comments on not being showcased on AEW programming as often as of late, whether he knows how soon he'll return.",
       "link": "https://www.wrestlinginc.com/2218124/aew-sammy-guevara-absence-not-my-call/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-07-18T18:46:19+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 7/18 – PWTorch Dailycast – All Elite Conversation Club: Dehnel’s in-person report from AEW Brawl in the Ballpark and NJPW G1 Climax Night 1 + Nick Barbati discusses WWE’s rising stars and how he would handle their creative direction, more (102 min.)",
-      "p": "SHOW SUMMARY: In this special edition of All Elite Conversation Club, PWTorch contributor Joel Dehnel gives his in-person report for AEW Brawl in the Ballpark in Minneapolis, Minn. and New Japan...",
-      "link": "https://www.pwtorch.com/site/2026/07/18/free-podcast-7-18-pwtorch-dailycast-all-elite-conversation-club-dehnels-in-person-report-from-aew-brawl-in-the-ballpark-and-njpw-g1-climax-night-1-nick-barbati-discusse/",
-      "t": "5h",
-      "dt": "2026-07-18T18:43:42+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Limitless Wrestling “Crunch Time” results (7/17): Vetter’s review of Donovan Dijak and Starstruck vs. Jordan Oliver, Alec Price, and Leedz Lewis, Lio Rush vs. 23 Hazard for the ROH TV Title",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post Limitless Wrestling “Crunch Time” results (7/17): Vetter’s review of Donovan Dijak and Starstruck vs. Jordan Oliver, Alec Price, and Leedz...",
-      "link": "https://prowrestling.net/site/2026/07/18/limitless-wrestling-crunch-time-results-7-17-vetters-review-of-donovan-dijak-and-starstruck-vs-jordan-oliver-alec-price-and-leedz-lewis-lio-rush-vs-23-hazard-for-the-roh-tv-title/",
-      "t": "7h",
-      "dt": "2026-07-18T17:05:46+00:00"
     }
   ]
 }

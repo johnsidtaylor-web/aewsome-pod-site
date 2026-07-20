@@ -1,22 +1,30 @@
 {
-  "updated": "2026-07-19T23:08:21.234818+00:00",
+  "updated": "2026-07-20T00:09:26.402727+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "NWA Podcast: Redemption Song | July 2026 (LIVE TONIGHT)",
+      "p": "LIVE TONIGHT — The NWA Podcast recaps Saturday Night's Main Event, share predictions for AEW Redemption featuring Kenny Omega vs. Kevin Knight, and discuss Dark Side of the Ring’s episodes on Jeff...",
+      "link": "https://www.postwrestling.com/2026/07/19/nwa-podcast-redemption-song-june-2026-live-tonight/",
+      "t": "4m",
+      "dt": "2026-07-20T00:05:20+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Don Callis: I’ve Been Super Impressed With Chris Jericho Since He’s Been Back, He’s In Phenomenal Shape",
       "p": "Don Callis is impressed with Chris Jericho’s current run. After spending an entire year away from the wrestling business, Jericho made his return to AEW back in April and started a program with...",
       "link": "https://www.fightful.com/wrestling-news/don-callis-ive-been-super-impressed-with-chris-jericho-since-hes-been-back-hes-in-phenomenal-shape/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-19T20:00:00+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "VIP PODCAST 7/19 – Radican Worldwide: Punk explains absence from WWE, G1 Climax 26 Night 1 review + Rich Fann discussing top 15 male wrestlers that Tony Khan should prioritize pushing and promoting (56 min.)",
       "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is back with another blockbuster edition of Radican Worldwide. The show begins with Radican breaking down the top news stories of the week including...",
       "link": "https://www.pwtorch.com/site/2026/07/19/vip-podcast-7-19-radican-worldwide-punk-explains-absence-from-wwe-g1-climax-26-night-1-review-rich-fann-discussing-top-15-male-wrestlers-that-tony-khan-should-prioritize-pushing-and-prom/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-19T19:04:58+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW COLLISION HITS & MISSES (7/18): Mercedes promo lacking substance, Knight retains against AR Fox, Ospreay shines in a showcase match, Perry and Nick Wayne deliver",
       "p": "To help add context, my “Hits” are ordered from best to worst. Collision wasn’t built around lengthy matches or shocking twists this week. Instead, AEW made efficient use of its television time by...",
       "link": "https://www.pwtorch.com/site/2026/07/19/aew-collision-hits-misses-7-18-mercedes-promo-lacking-substance-knight-retains-against-ar-fox-ospreay-shines-in-a-showcase-match-perry-and-nick-wayne-deliver/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-19T18:08:47+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Young Bucks Make Major Challenge For AEW Redemption",
       "p": "The Young Bucks have issued an all-star tag team challenge for AEW Redemption next Sunday.",
       "link": "https://www.wrestlinginc.com/2218234/young-bucks-major-challenge-aew-redemption/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-07-19T16:40:11+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW congratulates champion for setting title defense record on Collision",
       "p": "AEW has congratulated Kevin Knight for setting a new record for successful defenses of the TNT Championship in a single title reign. AEW wrote: “Congratulations to “The Jet” @Jet2Flyy for holding...",
       "link": "https://www.f4wonline.com/news/aew/aew-congratulates-champion-for-setting-title-defense-record-on-collision/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-07-19T16:02:42+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Maya World Earns AEW TBS Title Shot",
       "p": "An intense encounter on \"AEW Collision\" has resulted in a future TBS Championship opportunity for Maya World.",
       "link": "https://www.wrestlinginc.com/2218225/maya-world-earns-aw-tbs-title-shot/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-07-19T15:27:09+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "AJ Styles Doesn't Believe AEW's Kenny Omega Will Ever Work In WWE",
       "p": "Retired star AJ Styles has discussed why his former Bullet Club stablemate Kenny Omega is unlikely to leave AEW for WWE anytime soon.",
       "link": "https://www.wrestlinginc.com/2217250/aew-wwe-aj-styles-kenny-omega-doesnt-believe-work/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-07-19T15:00:00+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Bully Ray Says Former WWE Star Has Become 'Background Noise' In AEW",
       "p": "According to Bully Ray on \"Busted Open Radio,\" one former WWE star has failed to make a long-lasting impact in AEW despite being regularly featured on TV.",
       "link": "https://www.wrestlinginc.com/2217176/wwe-aew-bully-ray-claudio-castagnoli-background-noise/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-07-19T14:30:00+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Tommaso Ciampa Adds Extreme Stipulation To AEW Redemption Match",
       "p": "The upcoming match between Tommaso Ciampa and \"Painmaker\" Chris Jericho at AEW Redemption just got more extreme.",
       "link": "https://www.wrestlinginc.com/2218219/tommaso-ciampa-adds-extreme-stipulation-aew-redemption-chris-jericho/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-07-19T14:18:28+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "Tony Khan says Bryan Danielson is too ‘beat up’ to be on commentary regularly",
       "p": "Since losing to Jon Moxley at AEW WrestleDream 2024, Bryan Danielson has not been in a televised match, although he has maintained appearances doing commentary. Despite his frequent presence on...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-says-bryan-danielson-is-too-beat-up-to-be-on-commentary-regularly/",
-      "t": "12h",
+      "t": "13h",
       "dt": "2026-07-19T11:00:00+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "07/19 Powell’s AEW Collision audio review: Hikaru Shida vs. Queen Aminata for the TBS Championship, Kevin Knight vs. AR Fox for the TNT Championship",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 07/19 Powell’s AEW Collision audio review: Hikaru Shida vs. Queen Aminata for the TBS Championship, Kevin Knight vs. AR Fox for the TNT...",
       "link": "https://prowrestling.net/site/2026/07/19/07-19-powells-aew-collision-audio-review-hikaru-shida-vs-queen-aminata-for-the-tbs-championship-kevin-knight-vs-ar-fox-for-the-tnt-championship/",
-      "t": "14h",
+      "t": "15h",
       "dt": "2026-07-19T08:38:58+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan reveals if he’ll accept custom WWE title belt for Jacksonville Jaguars",
-      "p": "Tony Khan has opened up on whether he’ll accept a custom WWE Championship for his Jacksonville Jaguars. Khan joined the Jacksonville Jaguars in July 2012 and currently serves as the Chief Football...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-reveals-if-hell-accept-custom-wwe-title-belt-for-jacksonville-jaguars/",
-      "t": "17h",
-      "dt": "2026-07-19T05:45:00+00:00"
     }
   ]
 }

@@ -1,22 +1,38 @@
 {
-  "updated": "2026-07-20T11:11:00.610033+00:00",
+  "updated": "2026-07-20T13:15:55.636306+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Tommaso Ciampa Says AEW World Title Match With Darby Allin Was His ‘Love Letter To Pro Wrestling’",
+      "p": "Tommaso Ciampa says that his AEW World Title match with Darby Allin earlier this year was his love letter to professional wrestling. On the April 22nd edition of AEW Dynamite, Ciampa would take on...",
+      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-says-aew-world-title-match-with-darby-allin-was-his-love-letter-to-pro-wrestling/",
+      "t": "1h",
+      "dt": "2026-07-20T12:02:14+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "CM Punk in AEW: Part 9 – April and May 2022 and the build to Double or Nothing | Column",
+      "p": "This was previously part of a book I had written and released on CM Punk’s run from debut to first AEW Championship win in All Elite Wrestling, covering August 2021 until May 2022. I’ll be...",
+      "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-9-april-may-2022-build-double-or-nothing-column/",
+      "t": "1h",
+      "dt": "2026-07-20T11:21:04+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Eric Bischoff talks WWE counter-programming AEW with AAA Worlds Collide",
       "p": "Former WCW President Eric Bischoff recently discussed WWE “counter-programming” AEW with AAA World’s Collide on Saturday, September 26, 2026, at Allstate Arena in Rosemont, Illinois. AEW All Out...",
       "link": "https://www.f4wonline.com/news/wwe/eric-bischoff-aaa-worlds-collide-aew-all-out-2026-counter-programming/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-20T09:37:50+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW wrestler to challenge for CMLL title later this month",
       "p": "An AEW star is challenging for one of CMLL’s titles. Thunder Rosa won a number one contender’s match Sunday night in Arena Mexico, defeating Reyna Isis, Keyra, Garra Negra, Sanely, Skadi, Hera,...",
       "link": "https://www.f4wonline.com/news/aew/aew-wrestler-to-challenge-for-cmll-title-on-friday/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-07-20T04:02:47+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "NWA Podcast: Redemption Song | July 2026 (LIVE TONIGHT)",
       "p": "LIVE TONIGHT — The NWA Podcast recaps Saturday Night's Main Event, share predictions for AEW Redemption featuring Kenny Omega vs. Kevin Knight, and discuss Dark Side of the Ring’s episodes on Jeff...",
       "link": "https://www.postwrestling.com/2026/07/19/nwa-podcast-redemption-song-june-2026-live-tonight/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-07-20T00:05:20+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "VIP PODCAST 7/19 – Radican Worldwide: Punk explains absence from WWE, G1 Climax 26 Night 1 review + Rich Fann discussing top 15 male wrestlers that Tony Khan should prioritize pushing and promoting (56 min.)",
       "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is back with another blockbuster edition of Radican Worldwide. The show begins with Radican breaking down the top news stories of the week including...",
       "link": "https://www.pwtorch.com/site/2026/07/19/vip-podcast-7-19-radican-worldwide-punk-explains-absence-from-wwe-g1-climax-26-night-1-review-rich-fann-discussing-top-15-male-wrestlers-that-tony-khan-should-prioritize-pushing-and-prom/",
-      "t": "16h",
+      "t": "18h",
       "dt": "2026-07-19T19:04:58+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW COLLISION HITS & MISSES (7/18): Mercedes promo lacking substance, Knight retains against AR Fox, Ospreay shines in a showcase match, Perry and Nick Wayne deliver",
       "p": "To help add context, my “Hits” are ordered from best to worst. Collision wasn’t built around lengthy matches or shocking twists this week. Instead, AEW made efficient use of its television time by...",
       "link": "https://www.pwtorch.com/site/2026/07/19/aew-collision-hits-misses-7-18-mercedes-promo-lacking-substance-knight-retains-against-ar-fox-ospreay-shines-in-a-showcase-match-perry-and-nick-wayne-deliver/",
-      "t": "17h",
+      "t": "19h",
       "dt": "2026-07-19T18:08:47+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Young Bucks Make Major Challenge For AEW Redemption",
       "p": "The Young Bucks have issued an all-star tag team challenge for AEW Redemption next Sunday.",
       "link": "https://www.wrestlinginc.com/2218234/young-bucks-major-challenge-aew-redemption/",
-      "t": "18h",
+      "t": "20h",
       "dt": "2026-07-19T16:40:11+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW congratulates champion for setting title defense record on Collision",
       "p": "AEW has congratulated Kevin Knight for setting a new record for successful defenses of the TNT Championship in a single title reign. AEW wrote: “Congratulations to “The Jet” @Jet2Flyy for holding...",
       "link": "https://www.f4wonline.com/news/aew/aew-congratulates-champion-for-setting-title-defense-record-on-collision/",
-      "t": "19h",
+      "t": "21h",
       "dt": "2026-07-19T16:02:42+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Maya World Earns AEW TBS Title Shot",
       "p": "An intense encounter on \"AEW Collision\" has resulted in a future TBS Championship opportunity for Maya World.",
       "link": "https://www.wrestlinginc.com/2218225/maya-world-earns-aw-tbs-title-shot/",
-      "t": "19h",
+      "t": "21h",
       "dt": "2026-07-19T15:27:09+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "AJ Styles Doesn't Believe AEW's Kenny Omega Will Ever Work In WWE",
       "p": "Retired star AJ Styles has discussed why his former Bullet Club stablemate Kenny Omega is unlikely to leave AEW for WWE anytime soon.",
       "link": "https://www.wrestlinginc.com/2217250/aew-wwe-aj-styles-kenny-omega-doesnt-believe-work/",
-      "t": "20h",
+      "t": "22h",
       "dt": "2026-07-19T15:00:00+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Bully Ray Says Former WWE Star Has Become 'Background Noise' In AEW",
       "p": "According to Bully Ray on \"Busted Open Radio,\" one former WWE star has failed to make a long-lasting impact in AEW despite being regularly featured on TV.",
       "link": "https://www.wrestlinginc.com/2217176/wwe-aew-bully-ray-claudio-castagnoli-background-noise/",
-      "t": "20h",
+      "t": "22h",
       "dt": "2026-07-19T14:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tommaso Ciampa Adds Extreme Stipulation To AEW Redemption Match",
-      "p": "The upcoming match between Tommaso Ciampa and \"Painmaker\" Chris Jericho at AEW Redemption just got more extreme.",
-      "link": "https://www.wrestlinginc.com/2218219/tommaso-ciampa-adds-extreme-stipulation-aew-redemption-chris-jericho/",
-      "t": "20h",
-      "dt": "2026-07-19T14:18:28+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan says Bryan Danielson is too ‘beat up’ to be on commentary regularly",
-      "p": "Since losing to Jon Moxley at AEW WrestleDream 2024, Bryan Danielson has not been in a televised match, although he has maintained appearances doing commentary. Despite his frequent presence on...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-says-bryan-danielson-is-too-beat-up-to-be-on-commentary-regularly/",
-      "t": "1d",
-      "dt": "2026-07-19T11:00:00+00:00"
     }
   ]
 }

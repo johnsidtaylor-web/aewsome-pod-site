@@ -1,30 +1,78 @@
 {
-  "updated": "2026-07-20T16:00:26.428569+00:00",
+  "updated": "2026-07-20T18:17:16.011634+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (1 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Paramount Buyout Of AEW Media Partner WBD Put On Hold By Judge",
+      "p": "Paramount's buyout of AEW media partner Warner Brothers Discovery has hit a snag, after a judge put a temporary hold on the merger on Monday",
+      "link": "https://www.wrestlinginc.com/2218992/aew-paramount-wbd-warner-bros-discovery-buyout-hold-judge/",
+      "t": "5m",
+      "dt": "2026-07-20T18:12:05+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Paige: I Had A Great Time At AEW, But My Heart Wasn’t In It… I’m A WWE Girl",
-      "p": "Paige stated that she has all love for AEW. Before coming back to WWE at WrestleMania 42, Paige had spent the last several years of her career with All Elite Wrestling. She commented on her time...",
-      "link": "https://www.fightful.com/wrestling-news/paige-i-had-a-great-time-at-aew-but-my-heart-wasnt-in-it-im-a-wwe-girl/",
-      "t": "45m",
-      "dt": "2026-07-20T15:15:10+00:00"
+      "h": "Don Callis: Fans Dressing Like Me Is Disturbing",
+      "p": "Don Callis wants you to stop dressing like him. In recent months, a number of fans have showed up to AEW events in full Don Callis cosplay. If a camera happens to catch it, these instances will...",
+      "link": "https://www.fightful.com/wrestling-news/don-callis-dressing-316338/",
+      "t": "17m",
+      "dt": "2026-07-20T18:00:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Paramount’s deal to acquire AEW partner Warner Bros. Discovery temporarily on hold",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Paramount’s deal to acquire AEW partner Warner Bros. Discovery temporarily on hold appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/20/paramounts-deal-to-acquire-aew-partner-warner-bros-discovery-temporarily-on-hold/",
+      "t": "19m",
+      "dt": "2026-07-20T17:57:56+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Speedball Mike Bailey Says It’s ‘Kind Of A Bummer’ They Haven’t Found Their Way Onto AEW Redemption Yet",
+      "p": "Speedball Mike Bailey says that it’s ‘kind of a bummer’ that they haven’t found their way onto AEW Redemption yet. AEW Redemption is currently set to take place from Montreal, Canada on July 26th,...",
+      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-says-its-kind-of-a-bummer-they-havent-found-their-way-onto-aew-redemption-yet/",
+      "t": "36m",
+      "dt": "2026-07-20T17:40:23+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Redemption lineup: The card for Sunday’s pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: The card for Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/20/aew-redemption-lineup-the-card-for-sundays-pay-per-view-event/",
+      "t": "1h",
+      "dt": "2026-07-20T16:27:38+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Tommaso Ciampa reflects on AEW title match with Darby Allin: ‘It was my love letter to pro wrestling’",
+      "p": "Tommaso Ciampa reflected on his title showdown against Darby Allin from earlier this year, calling it his \"love letter\" to wrestling. The post Tommaso Ciampa reflects on AEW title match with Darby...",
+      "link": "https://www.postwrestling.com/2026/07/20/tommaso-ciampa-reflects-on-aew-title-match-with-darby-allin-it-was-my-love-letter-to-pro-wrestling/",
+      "t": "1h",
+      "dt": "2026-07-20T16:22:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Bella Twins Tease Teaming With AJ Lee & Paige Against Bayley & Three Partners At WWE Survivor Series: WarGames, Bayley Says No One Could Take Mercedes Moné’s Place",
+      "p": "The team of AJ Lee, Paige, and The Bella Twins. The 2026 WWE Survivor Series: WarGames event is taking place on November 28th at Daikin Park in Houston, Texas. WWE Hall of Famers The Bella Twins...",
+      "link": "https://www.fightful.com/wrestling-news/bella-twins-tease-teaming-with-aj-lee-paige-against-bayley-three-partners-at-wwe-survivor-series-wargames-bayley-says-no-one-could-take-mercedes-mones-place/",
+      "t": "1h",
+      "dt": "2026-07-20T16:19:41+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "POST SCHEDULE: G1 Climax Podcasts, Redemption, Dark Side & “Regime Change” book review",
       "p": "POST'S G1 Climax podcasts continue, review of Joe vs. Necro Butcher on Dark Side, AEW Redemption, Wellness Policy, and Book Club is back. The post POST SCHEDULE: G1 Climax Podcasts, Redemption,...",
       "link": "https://www.postwrestling.com/2026/07/20/post-schedule-g1-climax-podcasts-redemption-dark-side-regime-change-book-review/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-20T14:30:36+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "WWE star reveals why AEW never felt like home: ‘I gave my neck for this company’",
       "p": "Paige opened up about her AEW tenure citing that she always felt like a WWE girl at heart. She appreciated Tony Khan and the promotion for the opportunities provided during her three year tenure...",
       "link": "https://www.f4wonline.com/news/wwe-star-reveals-why-aew-never-felt-like-home-i-gave-my-neck-for-this-company/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-07-20T14:15:46+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "Former WWE & AEW Star Jake Hager Comments On Power Slap Knockout",
       "p": "Jake Hager has discussed his recent Power Slap knockout and why he believes he's the perfect fit for the sport.",
       "link": "https://www.wrestlinginc.com/2218386/wwe-aew-jake-hager-power-slap-knockout-comments/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-20T13:30:00+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "AEW Dynamite preview: Title matches set for the final episode before Redemption",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Title matches set for the final episode before Redemption appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/20/aew-dynamite-preview-title-matches-set-for-the-final-episode-before-redemption/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-20T13:15:37+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "CM Punk in AEW: Part 9 – April and May 2022 and the build to Double or Nothing | Column",
       "p": "This was previously part of a book I had written and released on CM Punk’s run from debut to first AEW Championship win in All Elite Wrestling, covering August 2021 until May 2022. I’ll be...",
       "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-9-april-may-2022-build-double-or-nothing-column/",
-      "t": "4h",
-      "dt": "2026-07-20T11:21:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Eric Bischoff talks WWE counter-programming AEW with AAA Worlds Collide",
-      "p": "Former WCW President Eric Bischoff recently discussed WWE “counter-programming” AEW with AAA World’s Collide on Saturday, September 26, 2026, at Allstate Arena in Rosemont, Illinois. AEW All Out...",
-      "link": "https://www.f4wonline.com/news/wwe/eric-bischoff-aaa-worlds-collide-aew-all-out-2026-counter-programming/",
       "t": "6h",
-      "dt": "2026-07-20T09:37:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW wrestler to challenge for CMLL title later this month",
-      "p": "An AEW star is challenging for one of CMLL’s titles. Thunder Rosa won a number one contender’s match Sunday night in Arena Mexico, defeating Reyna Isis, Keyra, Garra Negra, Sanely, Skadi, Hera,...",
-      "link": "https://www.f4wonline.com/news/aew/aew-wrestler-to-challenge-for-cmll-title-on-friday/",
-      "t": "11h",
-      "dt": "2026-07-20T04:02:47+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "NWA Podcast: Redemption Song | July 2026 (LIVE TONIGHT)",
-      "p": "LIVE TONIGHT — The NWA Podcast recaps Saturday Night's Main Event, share predictions for AEW Redemption featuring Kenny Omega vs. Kevin Knight, and discuss Dark Side of the Ring’s episodes on Jeff...",
-      "link": "https://www.postwrestling.com/2026/07/19/nwa-podcast-redemption-song-june-2026-live-tonight/",
-      "t": "15h",
-      "dt": "2026-07-20T00:05:20+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 7/19 – Radican Worldwide: Punk explains absence from WWE, G1 Climax 26 Night 1 review + Rich Fann discussing top 15 male wrestlers that Tony Khan should prioritize pushing and promoting (56 min.)",
-      "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is back with another blockbuster edition of Radican Worldwide. The show begins with Radican breaking down the top news stories of the week including...",
-      "link": "https://www.pwtorch.com/site/2026/07/19/vip-podcast-7-19-radican-worldwide-punk-explains-absence-from-wwe-g1-climax-26-night-1-review-rich-fann-discussing-top-15-male-wrestlers-that-tony-khan-should-prioritize-pushing-and-prom/",
-      "t": "20h",
-      "dt": "2026-07-19T19:04:58+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (7/18): Mercedes promo lacking substance, Knight retains against AR Fox, Ospreay shines in a showcase match, Perry and Nick Wayne deliver",
-      "p": "To help add context, my “Hits” are ordered from best to worst. Collision wasn’t built around lengthy matches or shocking twists this week. Instead, AEW made efficient use of its television time by...",
-      "link": "https://www.pwtorch.com/site/2026/07/19/aew-collision-hits-misses-7-18-mercedes-promo-lacking-substance-knight-retains-against-ar-fox-ospreay-shines-in-a-showcase-match-perry-and-nick-wayne-deliver/",
-      "t": "21h",
-      "dt": "2026-07-19T18:08:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW congratulates champion for setting title defense record on Collision",
-      "p": "AEW has congratulated Kevin Knight for setting a new record for successful defenses of the TNT Championship in a single title reign. AEW wrote: “Congratulations to “The Jet” @Jet2Flyy for holding...",
-      "link": "https://www.f4wonline.com/news/aew/aew-congratulates-champion-for-setting-title-defense-record-on-collision/",
-      "t": "23h",
-      "dt": "2026-07-19T16:02:42+00:00"
+      "dt": "2026-07-20T11:21:04+00:00"
     }
   ]
 }

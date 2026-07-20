@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T20:39:04.408437+00:00",
+  "updated": "2026-07-20T22:11:52.967634+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
@@ -7,16 +7,56 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Tony Khan: Steven Borden Is Going To Be A Tremendous Wrestler",
+      "p": "Sting’s son Steven Borden got bitten by the wrestling bug after his appearance as Wolfpac Sting at AEW Revolution 2024, which was Sting’s retirement match. Steven has wrestled a handful of...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-steven-borden-is-going-to-be-a-tremendous-wrestler/",
+      "t": "27m",
+      "dt": "2026-07-20T21:44:42+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Reports: Sami Callihan working with AEW on a ‘trial basis’",
+      "p": "Former TNA wrestler and producer Sami Callihan has reportedly helped out with AEW in recent weeks. The post Reports: Sami Callihan working with AEW on a ‘trial basis’ appeared first on POST...",
+      "link": "https://www.postwrestling.com/2026/07/20/reports-sami-callihan-working-with-aew-on-a-trial-basis/",
+      "t": "31m",
+      "dt": "2026-07-20T21:40:37+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Paige says her heart was never in AEW, recalls her surprise return and winning the WWE Women’s Tag Team Titles with Brie Bella",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Paige says her heart was never in AEW, recalls her surprise return and winning the WWE Women’s Tag Team Titles with Brie Bella appeared first...",
+      "link": "https://prowrestling.net/site/2026/07/20/paige-says-her-heart-was-never-in-aew-recalls-her-surprise-return-and-winning-the-wwe-womens-tag-team-titles-with-brie-bella/",
+      "t": "46m",
+      "dt": "2026-07-20T21:25:49+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan thinks Sting’s son Steven is going to be a ‘tremendous wrestler’",
+      "p": "Tony Khan believes Sting’s son Steven Borden has a bright future in professional wrestling. After debuting in October 2025, Borden is now nine months into his wrestling career. He regularly...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-thinks-stings-son-steven-is-going-to-be-a-tremendous-wrestler/",
+      "t": "1h",
+      "dt": "2026-07-20T21:02:09+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan: The Pandemic Leveled The Odds Between AEW And WWE",
+      "p": "While most of the world shut down during the pandemic, wrestling continued, not missing a week. WWE continued at the Performance Center in Orlando before moving into the ThunderDome, while AEW...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-the-pandemic-leveled-the-odds-between-aew-and-wwe/",
+      "t": "1h",
+      "dt": "2026-07-20T20:51:20+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Tony Khan: AEW is doing best viewership ‘in a long time,’ if not ever",
       "p": "Tony Khan believes AEW’s viewership could be at an all-time high. We’ve recently seen AEW Dynamite draw some of its best TV ratings in a while, with last week’s show doing Dynamite’s best...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-aew-is-doing-best-viewership-in-a-long-time-if-not-ever/",
-      "t": "1m",
+      "t": "1h",
       "dt": "2026-07-20T20:37:58+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "Sami Callihan Working Backstage On A Trial Basis In AEW",
       "p": "Sami Callihan is working on a trial basis in AEW. Back on July 16, Bodyslam issued a report on Sami Callihan, revealing that he has been working backstage in AEW. The outlet also noted that it...",
       "link": "https://www.fightful.com/wrestling-news/sami-callihan-working-backstage-on-a-trial-basis-in-aew/",
-      "t": "39m",
+      "t": "2h",
       "dt": "2026-07-20T19:59:03+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Preliminary Contact Between Steve Maclin And AEW",
       "p": "Details on Steve Maclin and AEW. Fightful Select reports, “Regarding Steve Maclin, @FightfulSelect was told there has been at least preliminary contact between him and AEW, but we can’t confirm a...",
       "link": "https://www.fightful.com/wrestling-news/preliminary-contact-between-steve-maclin-and-aew/",
-      "t": "42m",
+      "t": "2h",
       "dt": "2026-07-20T19:56:33+00:00"
     },
     {
@@ -40,72 +80,32 @@
       "h": "AEW TBS Champ Hikaru Shida Looks Ahead To All In & Future Goals",
       "p": "AEW TBS Champion Hikaru Shida looks ahead to AEW All In next month, while also discussing some of her future goals beyond AEW's marquee event",
       "link": "https://www.wrestlinginc.com/2219153/aew-all-in-hikaru-shida-tbs-champ-future-goals/",
-      "t": "54m",
+      "t": "2h",
       "dt": "2026-07-20T19:44:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan thinks Sting’s son Steven is going to be a ‘tremendous wrestler’",
-      "p": "Tony Khan believes Sting’s son Steven Borden has a bright future in professional wrestling. After debuting in October 2025, Borden is now nine months into his wrestling career. He regularly...",
-      "link": "https://www.f4wonline.com/uncategorized/tony-khan-thinks-stings-son-steven-is-going-to-be-a-tremendous-wrestler/",
-      "t": "1h",
-      "dt": "2026-07-20T19:35:46+00:00"
     },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 7/20 – PWTorch Dailycast – Worse or Better (Episode 13.5 – Lackluster Summer Blockbusters): Josh is joined by Adam Kidd to assess the performance of WWE and AEW over the last year (91 min.)",
       "p": "SHOW SUMMARY: In this PWTorch Dailycast series titled “Worse or Better,” Josh White and Stephanie Chase discuss one aspect of today’s pro wrestling scene and compare it to a previous era or eras...",
       "link": "https://www.pwtorch.com/site/2026/07/20/free-podcast-7-20-pwtorch-dailycast-worse-or-better-episode-13-5-lackluster-summer-blockbusters-josh-is-joined-by-adam-kidd-to-assess-the-performance-of-wwe-and-aew-over-the-l/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-20T18:48:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mike Tyson Told Megha Parekh She Might Be The Toughest Person In AEW",
-      "p": "Mike Tyson paid a high compliment to Megha Parekh. Megha Parekh is the Executive Vice President & Chief Legal Officer of the Jacksonville Jaguars, who also worked with AEW as the Chief Legal...",
-      "link": "https://www.fightful.com/wrestling-news/mike-tyson-told-megha-parekh-she-might-be-the-toughest-person-in-aew/",
-      "t": "2h",
-      "dt": "2026-07-20T18:18:04+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Paramount Buyout Of AEW Media Partner WBD Put On Hold By Judge",
       "p": "Paramount's buyout of AEW media partner Warner Brothers Discovery has hit a snag, after a judge put a temporary hold on the merger on Monday",
       "link": "https://www.wrestlinginc.com/2218992/aew-paramount-wbd-warner-bros-discovery-buyout-hold-judge/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-20T18:12:05+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Don Callis: Fans Dressing Like Me Is Disturbing",
-      "p": "Don Callis wants you to stop dressing like him. In recent months, a number of fans have showed up to AEW events in full Don Callis cosplay. If a camera happens to catch it, these instances will...",
-      "link": "https://www.fightful.com/wrestling-news/don-callis-dressing-316338/",
-      "t": "2h",
-      "dt": "2026-07-20T18:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "Paramount’s deal to acquire AEW partner Warner Bros. Discovery temporarily on hold",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Paramount’s deal to acquire AEW partner Warner Bros. Discovery temporarily on hold appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/20/paramounts-deal-to-acquire-aew-partner-warner-bros-discovery-temporarily-on-hold/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-20T17:57:56+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Redemption lineup: The card for Sunday’s pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: The card for Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/20/aew-redemption-lineup-the-card-for-sundays-pay-per-view-event/",
-      "t": "4h",
-      "dt": "2026-07-20T16:27:38+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Tommaso Ciampa reflects on AEW title match with Darby Allin: ‘It was my love letter to pro wrestling’",
-      "p": "Tommaso Ciampa reflected on his title showdown against Darby Allin from earlier this year, calling it his \"love letter\" to wrestling. The post Tommaso Ciampa reflects on AEW title match with Darby...",
-      "link": "https://www.postwrestling.com/2026/07/20/tommaso-ciampa-reflects-on-aew-title-match-with-darby-allin-it-was-my-love-letter-to-pro-wrestling/",
-      "t": "4h",
-      "dt": "2026-07-20T16:22:13+00:00"
     }
   ]
 }

@@ -1,22 +1,54 @@
 {
-  "updated": "2026-07-21T14:18:57.101977+00:00",
+  "updated": "2026-07-21T16:40:13.957521+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "NJPW “G1 Climax 36” results (7/21): Vetter’s review of Shingo Takagi vs. Boltin Oleg, Yota Tsuji vs. Sanada, Konosuke Takeshita vs. Yuto-Ice, Ryohei Oiwa vs. Great-O-Khan, Hirooki Goto vs. Jake Lee",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/21): Vetter’s review of Shingo Takagi vs. Boltin Oleg, Yota Tsuji vs. Sanada, Konosuke Takeshita vs....",
+      "link": "https://prowrestling.net/site/2026/07/21/njpw-g1-climax-36-results-7-21-vetters-review-of-shingo-takagi-vs-boltin-oleg-yota-tsuji-vs-sanada-konosuke-takeshita-vs-yuto-ice-ryohei-oiwa-vs-great-o-khan-hirooki-goto-vs-jake-lee/",
+      "t": "39m",
+      "dt": "2026-07-21T16:00:32+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mark Davis On His Reaction To Kyle Fletcher Going Bald: It Was A Very Powerful Moment",
+      "p": "Mark Davis comments on his reaction to Kyle Fletcher going the bald route on AEW television to stave off comparisons with Will Ospreay. On the October 23rd, 2024 edition of AEW Dynamite, Kyle...",
+      "link": "https://www.fightful.com/wrestling-news/mark-davis-on-his-reaction-to-kyle-fletcher-going-bald-it-was-a-very-powerful-moment/",
+      "t": "54m",
+      "dt": "2026-07-21T15:45:37+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Tony Khan on Double or Nothing PPV: “The biggest one we’ve ever done yet on HBO Max”",
+      "p": "AEW president Tony Khan sees nothing but positives regarding Paramount’s pending merger with WBD, citing the promotion’s recent track record on pay-per-view. The post Tony Khan on Double or...",
+      "link": "https://www.postwrestling.com/2026/07/21/tony-khan-on-double-or-nothing-ppv-the-biggest-one-weve-ever-done-yet-on-hbo-max/",
+      "t": "55m",
+      "dt": "2026-07-21T15:44:33+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Young Bucks: Kenny Omega’s AEW World title win was ‘truly inspiring’",
+      "p": "For The Young Bucks, seeing their friend Kenny Omega become AEW World Champion again was an inspiring moment. Omega began his second AEW World Championship reign on July 8 when he defeated MJF at...",
+      "link": "https://www.f4wonline.com/news/aew/young-bucks-kenny-omega-aew-title-win-truly-inspiring/",
+      "t": "1h",
+      "dt": "2026-07-21T14:48:08+00:00"
+    },
     {
       "src": "Fightful",
       "h": "ROH TV Spoilers (Taped On 7/20)",
       "p": "Ring of Honor taped matches from upcoming episodes of ROH TV on July 20 from WTJC Studios in Jacksonville, FL. Full spoilers (courtesy of Wrestling Observer) are below. ROH TV Spoilers (Taped On...",
       "link": "https://www.fightful.com/wrestling-news/roh-tv-spoilers-taped-on-7-20/",
-      "t": "8m",
+      "t": "2h",
       "dt": "2026-07-21T14:10:20+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Matt Hardy Believes AEW Dynamite Match Should've Been More One-Sided",
       "p": "Former AEW star Matt Hardy thinks that the duo of Will Ospreay and Jon Moxley should have looked stronger in a recent tag team match on Dynamite.",
       "link": "https://www.wrestlinginc.com/2219457/matt-hardy-believes-aew-dynamite-match-shouldve-been-more-one-sided/",
-      "t": "48m",
+      "t": "3h",
       "dt": "2026-07-21T13:30:00+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "ROH TV taping spoilers from Jacksonville",
       "p": "More than 30 matches took place when Ring of Honor returned to WJCT Studios in Jacksonville on Monday night for another round of television tapings. The bouts will air on HonorClub in the coming...",
       "link": "https://www.f4wonline.com/news/aew/roh-tv-taping-spoilers-from-jacksonville-4/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-21T11:45:45+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Paramount, WBD merger on hold due to temporary restraining order",
       "p": "The future home of AEW being confirmed will have to wait a bit longer. On Monday, a California judge granted a temporary restraining order brought by U.S. state attorneys general last week in a...",
       "link": "https://www.f4wonline.com/news/aew/paramount-wbd-merger-on-hold-due-to-temporary-restraining-order/",
-      "t": "12h",
+      "t": "15h",
       "dt": "2026-07-21T01:37:49+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "AEW’s Daniel Garcia to compete in Germany’s wXw next month",
       "p": "Daniel Garcia doesn’t wrestle very often outside of AEW these days. Next month, however, fans in Germany will get to see him live and in person. Westside Extreme Wrestling (wXw) announced on...",
       "link": "https://www.f4wonline.com/news/indies/aews-daniel-garcia-to-compete-in-germanys-wxw-next-month/",
-      "t": "12h",
+      "t": "15h",
       "dt": "2026-07-21T01:30:46+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "AEW Star Will Ospreay Recalls Winning Top NJPW Title During Pandemic",
       "p": "Will Ospreay recalls the bittersweet nature of his IWGP World Heavyweight Championship win at the 2021 Sakura Genesis event.",
       "link": "https://www.wrestlinginc.com/2217785/aew-njpw-will-ospreay-iwgp-championship-top-title-pandemic/",
-      "t": "13h",
+      "t": "15h",
       "dt": "2026-07-21T01:00:00+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "WWE’s Brie Bella updates Bryan Danielson’s AEW status",
       "p": "Bryan Danielson hasn’t wrestled a real match in almost two years now. That sounds like retirement, but then, Danielson has already come back from retirement once before. Could he try another...",
       "link": "https://www.f4wonline.com/news/aew/wwes-brie-bella-updates-bryan-danielsons-aew-status/",
-      "t": "13h",
+      "t": "15h",
       "dt": "2026-07-21T00:56:22+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Reports: Sami Callihan working with AEW on a ‘trial basis’",
       "p": "Former TNA wrestler and producer Sami Callihan has reportedly helped out with AEW in recent weeks. The post Reports: Sami Callihan working with AEW on a ‘trial basis’ appeared first on POST...",
       "link": "https://www.postwrestling.com/2026/07/20/reports-sami-callihan-working-with-aew-on-a-trial-basis/",
-      "t": "16h",
-      "dt": "2026-07-20T21:40:37+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Paige says her heart was never in AEW, recalls her surprise return and winning the WWE Women’s Tag Team Titles with Brie Bella",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Paige says her heart was never in AEW, recalls her surprise return and winning the WWE Women’s Tag Team Titles with Brie Bella appeared first...",
-      "link": "https://prowrestling.net/site/2026/07/20/paige-says-her-heart-was-never-in-aew-recalls-her-surprise-return-and-winning-the-wwe-womens-tag-team-titles-with-brie-bella/",
-      "t": "16h",
-      "dt": "2026-07-20T21:25:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan thinks Sting’s son Steven is going to be a ‘tremendous wrestler’",
-      "p": "Tony Khan believes Sting’s son Steven Borden has a bright future in professional wrestling. After debuting in October 2025, Borden is now nine months into his wrestling career. He regularly...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-thinks-stings-son-steven-is-going-to-be-a-tremendous-wrestler/",
-      "t": "17h",
-      "dt": "2026-07-20T21:02:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan: AEW is doing best viewership ‘in a long time,’ if not ever",
-      "p": "Tony Khan believes AEW’s viewership could be at an all-time high. We’ve recently seen AEW Dynamite draw some of its best TV ratings in a while, with last week’s show doing Dynamite’s best...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-aew-is-doing-best-viewership-in-a-long-time-if-not-ever/",
-      "t": "17h",
-      "dt": "2026-07-20T20:37:58+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW TBS Champ Hikaru Shida Looks Ahead To All In & Future Goals",
-      "p": "AEW TBS Champion Hikaru Shida looks ahead to AEW All In next month, while also discussing some of her future goals beyond AEW's marquee event",
-      "link": "https://www.wrestlinginc.com/2219153/aew-all-in-hikaru-shida-tbs-champ-future-goals/",
       "t": "18h",
-      "dt": "2026-07-20T19:44:49+00:00"
+      "dt": "2026-07-20T21:40:37+00:00"
     }
   ]
 }

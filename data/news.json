@@ -1,22 +1,70 @@
 {
-  "updated": "2026-07-22T16:42:41.247729+00:00",
+  "updated": "2026-07-22T18:20:14.478378+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Matt Jackson: I Think The Young Bucks vs Adam Copeland And Christian Is One Of The Few, Final Big Money Tag Matches On The Table",
+      "p": "Matt Jackson discusses the possibility of The Young Bucks taking on Adam Copleand and Christian Cage in the near future. The Young Bucks have been AEW World Tag Team Champions on three different...",
+      "link": "https://www.fightful.com/wrestling-news/matt-jackson-i-think-the-young-bucks-vs-adam-copeland-and-christian-is-one-of-the-few-final-big-money-tag-matches-on-the-table/",
+      "t": "28m",
+      "dt": "2026-07-22T17:51:28+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan addresses potential AEW Hall of Fame, whether ROH version will return",
+      "p": "While nothing sounds imminent, Tony Khan is interested in the idea of establishing an AEW Hall of Fame. The AEW boss spoke with the Battleground Podcast ahead of AEW Redemption and was asked about...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-addresses-potential-aew-hall-of-fame/",
+      "t": "30m",
+      "dt": "2026-07-22T17:49:35+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Matt Jackson Reflects On The 15 Year Anniversary Of The Young Bucks’ TNA Release",
+      "p": "Matt Jackson looks back on the 15 year anniversary of he and his brother Nick being granted their release from TNA and betting on themselves. The Young Bucks are one of the most polarizing tag...",
+      "link": "https://www.fightful.com/wrestling-news/matt-jackson-reflects-on-the-15-year-anniversary-of-the-young-bucks-tna-release/",
+      "t": "49m",
+      "dt": "2026-07-22T17:30:45+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Announces Welcome To Wembley Fan Fest Taking Place Before All In 2026",
+      "p": "AEW announces the \"Welcome to Wembley\" fan fest, taking place at Wembley's Great Hall on the Friday and Saturday before AEW All In takes place",
+      "link": "https://www.wrestlinginc.com/2220920/aew-all-in-2026-welcome-wembley-fan-fest-announcement/",
+      "t": "1h",
+      "dt": "2026-07-22T17:14:07+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Matt Jackson: Kenny Omega Creates An Atmosphere That No Other Wrestler Can",
+      "p": "Matt Jackson comments on Kenny Omega’s recent AEW World Championship victory, noting that no one can create the atmosphere like he does. At AEW Dynamite: Beach Break, Omega would recapture the AEW...",
+      "link": "https://www.fightful.com/wrestling-news/matt-jackson-kenny-omega-creates-an-atmosphere-that-no-other-wrestler-can/",
+      "t": "1h",
+      "dt": "2026-07-22T17:10:28+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Don Callis: The Don Callis Family Is A Star Factory, We’ll See How Andrade Does Without Someone In His Corner",
+      "p": "Don Callis believes in his family. Since forming the faction, Callis has taken stars like Kyle Fletcher, Kazuchika Okada, and Josh Alexander under his wing. Even with the group’s recent departures...",
+      "link": "https://www.fightful.com/wrestling-news/don-callis-star-factory-316459/",
+      "t": "1h",
+      "dt": "2026-07-22T17:00:00+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW announces “Welcome to Wembley” fan experience for All In weekend",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW announces “Welcome to Wembley” fan experience for All In weekend appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/22/aew-announces-welcome-to-wembley-fan-experience-for-all-in-weekend/",
-      "t": "13m",
+      "t": "1h",
       "dt": "2026-07-22T16:29:36+00:00"
     },
     {
@@ -24,23 +72,15 @@
       "h": "Tony Khan comments on WWE running Chicago same day as All Out: ‘I welcome it’",
       "p": "Both WWE and AEW will be bringing events to Chicago this September. Tony Khan isn't bothered about the head-to-head battle. The post Tony Khan comments on WWE running Chicago same day as All Out:...",
       "link": "https://www.postwrestling.com/2026/07/22/tony-khan-comments-on-wwe-running-chicago-same-day-as-all-out-i-welcome-it/",
-      "t": "14m",
+      "t": "1h",
       "dt": "2026-07-22T16:27:59+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mark Davis: There’s Honestly A Litany Of People Who I Would Love To Step In The Ring With Now I’m Finding My Footing As A Singles Wrestler",
-      "p": "Mark Davis comments on what AEW wrestlers he’d like to step into the ring with now he has found his footing as a singles wrestler. Over the course of the past several months, Davis has established...",
-      "link": "https://www.fightful.com/wrestling-news/mark-davis-theres-honestly-a-litany-of-people-who-i-would-love-to-step-in-the-ring-with-now-im-finding-my-footing-as-a-singles-wrestler/",
-      "t": "19m",
-      "dt": "2026-07-22T16:23:11+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW DYNAMITE PREVIEW (7/22): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, JULY 22, 2026 Where: NASHVILLE, TENN. AT THE PINNACLE How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 1,250 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/07/22/aew-dynamite-preview-7-22-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "20m",
+      "t": "1h",
       "dt": "2026-07-22T16:21:59+00:00"
     },
     {
@@ -48,64 +88,24 @@
       "h": "Tony Khan reacts to WWE counterprogramming AEW All Out",
       "p": "Tony Khan isn’t all that surprised that September’s AEW All Out pay-per-view has competition from WWE. September 26 will have both AEW and WWE in the Chicago area, with AEW presenting All Out 2026...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-reacts-to-wwe-counterprogramming-aew-all-out/",
-      "t": "39m",
+      "t": "2h",
       "dt": "2026-07-22T16:03:25+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mark Davis On Partnership With Jake Doyle: I Think There’s An Avenue To Take That Wherever We Want To",
-      "p": "Mark Davis comments on his partnership with Jake Doyle and where it can go in the future if AEW chooses to pursue it. On the May 27th edition of AEW Dynamite, Doyle would return to AEW television...",
-      "link": "https://www.fightful.com/wrestling-news/mark-davis-on-partnership-with-jake-doyle-i-think-theres-an-avenue-to-take-that-wherever-we-want-to/",
-      "t": "39m",
-      "dt": "2026-07-22T16:02:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Addresses Potential Return Of ROH Hall Of Fame, Thinks Athena Has ‘Excellent Case’ To Be Inducted",
-      "p": "An update on the ROH Hall of Fame. Before AEW President Tony Khan acquired Ring of Honor, the previous regime had rolled out their first-ever ROH Hall of Fame class. The inductees are listed as...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-addresses-potential-return-of-roh-hall-of-fame-thinks-athena-has-excellent-case-to-be-inducted/",
-      "t": "1h",
-      "dt": "2026-07-22T15:18:28+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Tony Khan expects Mick Foley to be a ‘more regular’ presence in AEW going forward",
       "p": "We haven’t seen too much of Mick Foley since he signed with AEW, but Tony Khan expects the Hardcore Legend to be around more often going forward. The 61-year-old Foley debuted for AEW at Double or...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-expects-mick-foley-to-be-a-more-regular-presence-in-aew-going-forward/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-22T15:14:53+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Announces All In: Welcome To Wembley Fan Experience",
-      "p": "A new fan experience is coming to AEW All In. All Elite Wrestling announced the All In Fan Experience for Friday, August 28 and Saturday, August 29. From AEW: AEW All In: Welcome To Wembley Fan...",
-      "link": "https://www.fightful.com/wrestling-news/aew-announces-all-in-welcome-to-wembley-fan-experience/",
-      "t": "1h",
-      "dt": "2026-07-22T15:10:19+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "ROH Special Episode results (7/21): Mark Davis vs. Dezmond Xavier for the AEW National Championship, The Outrunners, Alec Price, and Jordan Oliver vs. Premier Athletes and The Swirl",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH Special Episode results (7/21): Mark Davis vs. Dezmond Xavier for the AEW National Championship, The Outrunners, Alec Price, and Jordan...",
       "link": "https://prowrestling.net/site/2026/07/22/roh-special-episode-results-7-21-mark-davis-vs-dezmond-xavier-for-the-aew-national-championship-the-outrunners-alec-price-and-jordan-oliver-vs-premier-athletes-and-the-swirl/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-22T15:02:37+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Collision Ratings & Viewership Report: 7/18/2026",
-      "p": "AEW Collision's key demographic rating increased, but the show's average viewership fell below the 400,000 mark.",
-      "link": "https://www.wrestlinginc.com/2220527/aew-collision-ratings-viewership-report-july-18-2026/",
-      "t": "1h",
-      "dt": "2026-07-22T15:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Reacts To WWE x AAA Worlds Collide Being Scheduled For Same Day & Market As AEW All Out: “It’s The, Frankly, Predatory Nature Of Scheduling Of Events”",
-      "p": "Tony Khan further addresses the counterprogramming. On August 30th, All Elite Wrestling will present All In at Wembley Stadium in London, England. WWE went on to announce that on that same day,...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-reacts-to-wwe-x-aaa-worlds-collide-being-scheduled-for-same-day-market-as-aew-all-out-its-the-frankly-predatory-nature-of-scheduling-of-events/",
-      "t": "1h",
-      "dt": "2026-07-22T14:56:56+00:00"
     }
   ]
 }

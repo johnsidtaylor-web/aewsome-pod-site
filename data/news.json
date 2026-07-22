@@ -1,22 +1,46 @@
 {
-  "updated": "2026-07-22T18:20:14.478378+00:00",
+  "updated": "2026-07-22T20:19:33.962044+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Jim Ross gives update on potential AEW return date",
+      "p": "Jim Ross is optimistic that he’ll be back on AEW commentary sooner rather than later. On the episode of his Grilling JR podcast that will be publicly released tomorrow, Ross noted that — despite...",
+      "link": "https://www.f4wonline.com/news/aew/jim-ross-gives-update-on-potential-aew-return-date/",
+      "t": "11m",
+      "dt": "2026-07-22T20:07:50+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Redemption lineup: The card for Sunday’s pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: The card for Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/22/aew-redemption-lineup-the-card-for-sundays-pay-per-view-event-2/",
+      "t": "1h",
+      "dt": "2026-07-22T19:10:17+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Believes Recent Episode Of AEW Dynamite Will Be Talked About For Years",
+      "p": "AEW President Tony Khan claims that fans will remember Beach Break two decades from now.",
+      "link": "https://www.wrestlinginc.com/2221075/aew-dynamite-beach-break-2026-tony-khan-talked-about-years/",
+      "t": "1h",
+      "dt": "2026-07-22T19:01:03+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Matt Jackson: I Think The Young Bucks vs Adam Copeland And Christian Is One Of The Few, Final Big Money Tag Matches On The Table",
       "p": "Matt Jackson discusses the possibility of The Young Bucks taking on Adam Copleand and Christian Cage in the near future. The Young Bucks have been AEW World Tag Team Champions on three different...",
       "link": "https://www.fightful.com/wrestling-news/matt-jackson-i-think-the-young-bucks-vs-adam-copeland-and-christian-is-one-of-the-few-final-big-money-tag-matches-on-the-table/",
-      "t": "28m",
+      "t": "2h",
       "dt": "2026-07-22T17:51:28+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Tony Khan addresses potential AEW Hall of Fame, whether ROH version will return",
       "p": "While nothing sounds imminent, Tony Khan is interested in the idea of establishing an AEW Hall of Fame. The AEW boss spoke with the Battleground Podcast ahead of AEW Redemption and was asked about...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-addresses-potential-aew-hall-of-fame/",
-      "t": "30m",
+      "t": "2h",
       "dt": "2026-07-22T17:49:35+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Matt Jackson Reflects On The 15 Year Anniversary Of The Young Bucks’ TNA Release",
       "p": "Matt Jackson looks back on the 15 year anniversary of he and his brother Nick being granted their release from TNA and betting on themselves. The Young Bucks are one of the most polarizing tag...",
       "link": "https://www.fightful.com/wrestling-news/matt-jackson-reflects-on-the-15-year-anniversary-of-the-young-bucks-tna-release/",
-      "t": "49m",
+      "t": "2h",
       "dt": "2026-07-22T17:30:45+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW Announces Welcome To Wembley Fan Fest Taking Place Before All In 2026",
       "p": "AEW announces the \"Welcome to Wembley\" fan fest, taking place at Wembley's Great Hall on the Friday and Saturday before AEW All In takes place",
       "link": "https://www.wrestlinginc.com/2220920/aew-all-in-2026-welcome-wembley-fan-fest-announcement/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-22T17:14:07+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Matt Jackson: Kenny Omega Creates An Atmosphere That No Other Wrestler Can",
       "p": "Matt Jackson comments on Kenny Omega’s recent AEW World Championship victory, noting that no one can create the atmosphere like he does. At AEW Dynamite: Beach Break, Omega would recapture the AEW...",
       "link": "https://www.fightful.com/wrestling-news/matt-jackson-kenny-omega-creates-an-atmosphere-that-no-other-wrestler-can/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-22T17:10:28+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Don Callis: The Don Callis Family Is A Star Factory, We’ll See How Andrade Does Without Someone In His Corner",
       "p": "Don Callis believes in his family. Since forming the faction, Callis has taken stars like Kyle Fletcher, Kazuchika Okada, and Josh Alexander under his wing. Even with the group’s recent departures...",
       "link": "https://www.fightful.com/wrestling-news/don-callis-star-factory-316459/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-22T17:00:00+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "AEW announces “Welcome to Wembley” fan experience for All In weekend",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW announces “Welcome to Wembley” fan experience for All In weekend appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/22/aew-announces-welcome-to-wembley-fan-experience-for-all-in-weekend/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-22T16:29:36+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "Tony Khan comments on WWE running Chicago same day as All Out: ‘I welcome it’",
       "p": "Both WWE and AEW will be bringing events to Chicago this September. Tony Khan isn't bothered about the head-to-head battle. The post Tony Khan comments on WWE running Chicago same day as All Out:...",
       "link": "https://www.postwrestling.com/2026/07/22/tony-khan-comments-on-wwe-running-chicago-same-day-as-all-out-i-welcome-it/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-22T16:27:59+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW DYNAMITE PREVIEW (7/22): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, JULY 22, 2026 Where: NASHVILLE, TENN. AT THE PINNACLE How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 1,250 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/07/22/aew-dynamite-preview-7-22-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-22T16:21:59+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan reacts to WWE counterprogramming AEW All Out",
-      "p": "Tony Khan isn’t all that surprised that September’s AEW All Out pay-per-view has competition from WWE. September 26 will have both AEW and WWE in the Chicago area, with AEW presenting All Out 2026...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-reacts-to-wwe-counterprogramming-aew-all-out/",
-      "t": "2h",
-      "dt": "2026-07-22T16:03:25+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan expects Mick Foley to be a ‘more regular’ presence in AEW going forward",
-      "p": "We haven’t seen too much of Mick Foley since he signed with AEW, but Tony Khan expects the Hardcore Legend to be around more often going forward. The 61-year-old Foley debuted for AEW at Double or...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-expects-mick-foley-to-be-a-more-regular-presence-in-aew-going-forward/",
-      "t": "3h",
-      "dt": "2026-07-22T15:14:53+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH Special Episode results (7/21): Mark Davis vs. Dezmond Xavier for the AEW National Championship, The Outrunners, Alec Price, and Jordan Oliver vs. Premier Athletes and The Swirl",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH Special Episode results (7/21): Mark Davis vs. Dezmond Xavier for the AEW National Championship, The Outrunners, Alec Price, and Jordan...",
-      "link": "https://prowrestling.net/site/2026/07/22/roh-special-episode-results-7-21-mark-davis-vs-dezmond-xavier-for-the-aew-national-championship-the-outrunners-alec-price-and-jordan-oliver-vs-premier-athletes-and-the-swirl/",
-      "t": "3h",
-      "dt": "2026-07-22T15:02:37+00:00"
     }
   ]
 }

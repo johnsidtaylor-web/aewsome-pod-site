@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T22:14:42.234763+00:00",
+  "updated": "2026-07-22T23:16:40.926832+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
@@ -7,16 +7,32 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Results (7/22/2026): Two Title Matches, Kenny Omega, Jay White, More",
+      "p": "Full results for the July 22, 2026, edition of AEW Dynamite on TBS live from The Pinnacle in Nashville, Tennessee. On July 22, 2026, All Elite Wrestling hosted a new episode of Dynamite at The...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-7-22-2026-two-title-matches-kenny-omega-jay-white-more/",
+      "t": "1m",
+      "dt": "2026-07-22T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite live results: Will Ospreay, Kenny Omega & Jon Moxley team up",
+      "p": "AEW Dynamite is live tonight from The Pinnacle in Nashville, Tennessee. A trios match featuring Will Ospreay, Jon Moxley, and Kenny Omega against the Don Callis Family’s Jake Doyle, Brian Cage,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-kevin-knight-defends-against-darby-allin/",
+      "t": "11m",
+      "dt": "2026-07-22T23:05:00+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Daily Update: Xavier Woods, AEW notes, Dark Side of the Ring",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Wednesday Update WWE...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-xavier-woods-aew-notes-dark-side-of-the-ring/",
-      "t": "31m",
+      "t": "1h",
       "dt": "2026-07-22T21:43:18+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "POST NEWS: Mike Santana joins NXT, G1 Night 5 recap & AEW All Out vs. WWE",
       "p": "Jack Wannan covers the news from Wednesday, including Mike Santana’s arrival in NXT, All Out head-to-head with WWE, and today’s G1 results. The post POST NEWS: Mike Santana joins NXT, G1 Night 5...",
       "link": "https://www.postwrestling.com/2026/07/22/post-news-mike-santana-joins-nxt-g1-night-5-recap-aew-all-out-vs-wwe/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-22T20:40:32+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Jim Ross gives update on potential AEW return date",
       "p": "Jim Ross is optimistic that he’ll be back on AEW commentary sooner rather than later. On the episode of his Grilling JR podcast that will be publicly released tomorrow, Ross noted that — despite...",
       "link": "https://www.f4wonline.com/news/aew/jim-ross-gives-update-on-potential-aew-return-date/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-22T20:07:50+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "AEW Redemption lineup: The card for Sunday’s pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: The card for Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/22/aew-redemption-lineup-the-card-for-sundays-pay-per-view-event-2/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-22T19:10:17+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Tony Khan Believes Recent Episode Of AEW Dynamite Will Be Talked About For Years",
       "p": "AEW President Tony Khan claims that fans will remember Beach Break two decades from now.",
       "link": "https://www.wrestlinginc.com/2221075/aew-dynamite-beach-break-2026-tony-khan-talked-about-years/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-07-22T19:01:03+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Matt Jackson: I Think The Young Bucks vs Adam Copeland And Christian Is One Of The Few, Final Big Money Tag Matches On The Table",
       "p": "Matt Jackson discusses the possibility of The Young Bucks taking on Adam Copleand and Christian Cage in the near future. The Young Bucks have been AEW World Tag Team Champions on three different...",
       "link": "https://www.fightful.com/wrestling-news/matt-jackson-i-think-the-young-bucks-vs-adam-copeland-and-christian-is-one-of-the-few-final-big-money-tag-matches-on-the-table/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-22T17:51:28+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Tony Khan addresses potential AEW Hall of Fame, whether ROH version will return",
       "p": "While nothing sounds imminent, Tony Khan is interested in the idea of establishing an AEW Hall of Fame. The AEW boss spoke with the Battleground Podcast ahead of AEW Redemption and was asked about...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-addresses-potential-aew-hall-of-fame/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-22T17:49:35+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Matt Jackson Reflects On The 15 Year Anniversary Of The Young Bucks’ TNA Release",
       "p": "Matt Jackson looks back on the 15 year anniversary of he and his brother Nick being granted their release from TNA and betting on themselves. The Young Bucks are one of the most polarizing tag...",
       "link": "https://www.fightful.com/wrestling-news/matt-jackson-reflects-on-the-15-year-anniversary-of-the-young-bucks-tna-release/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-22T17:30:45+00:00"
     },
     {
@@ -80,32 +96,16 @@
       "h": "AEW Announces Welcome To Wembley Fan Fest Taking Place Before All In 2026",
       "p": "AEW announces the \"Welcome to Wembley\" fan fest, taking place at Wembley's Great Hall on the Friday and Saturday before AEW All In takes place",
       "link": "https://www.wrestlinginc.com/2220920/aew-all-in-2026-welcome-wembley-fan-fest-announcement/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-07-22T17:14:07+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Matt Jackson: Kenny Omega Creates An Atmosphere That No Other Wrestler Can",
-      "p": "Matt Jackson comments on Kenny Omega’s recent AEW World Championship victory, noting that no one can create the atmosphere like he does. At AEW Dynamite: Beach Break, Omega would recapture the AEW...",
-      "link": "https://www.fightful.com/wrestling-news/matt-jackson-kenny-omega-creates-an-atmosphere-that-no-other-wrestler-can/",
-      "t": "5h",
-      "dt": "2026-07-22T17:10:28+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW announces “Welcome to Wembley” fan experience for All In weekend",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW announces “Welcome to Wembley” fan experience for All In weekend appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/22/aew-announces-welcome-to-wembley-fan-experience-for-all-in-weekend/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-07-22T16:29:36+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Tony Khan comments on WWE running Chicago same day as All Out: ‘I welcome it’",
-      "p": "Both WWE and AEW will be bringing events to Chicago this September. Tony Khan isn't bothered about the head-to-head battle. The post Tony Khan comments on WWE running Chicago same day as All Out:...",
-      "link": "https://www.postwrestling.com/2026/07/22/tony-khan-comments-on-wwe-running-chicago-same-day-as-all-out-i-welcome-it/",
-      "t": "5h",
-      "dt": "2026-07-22T16:27:59+00:00"
     }
   ]
 }

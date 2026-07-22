@@ -1,22 +1,70 @@
 {
-  "updated": "2026-07-22T00:03:34.979299+00:00",
+  "updated": "2026-07-22T03:41:53.816859+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (1 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating: How did the show perform against WWE Saturday Night’s Main Event?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did the show perform against WWE Saturday Night’s Main Event? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/21/aew-collision-rating-how-did-the-show-perform-against-wwe-saturday-nights-main-event/",
+      "t": "9m",
+      "dt": "2026-07-22T03:31:56+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision ratings info for July 18 episode",
+      "p": "This past Saturday’s AEW Collision averaged 399,000 viewers on TNT, down 2.4% from the previous week but still their second highest audience for the show in seven weeks. The episode averaged a...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-info-july-18-2026/",
+      "t": "1h",
+      "dt": "2026-07-22T02:28:24+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW wrestler announced for September GCW show",
+      "p": "AEW wrestler Hook is scheduled to return to GCW later this year in September 2026, following his successful debut earlier. Recently on social media, GCW announced AEW’s Hook for the September 12,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-wrestler-announced-for-september-gcw-show/",
+      "t": "1h",
+      "dt": "2026-07-22T02:16:11+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Women's Division Star Reportedly Requested Her Release Last Year But Was Denied",
+      "p": "A member of AEW's women's roster reportedly asked for her release last year, but that request was turned down.",
+      "link": "https://www.wrestlinginc.com/2220399/aew-tay-melo-requested-release-denied-sammy-guevara/",
+      "t": "1h",
+      "dt": "2026-07-22T01:57:10+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH Beantown Beatdown Results (7/21)",
+      "p": "Ring of Honor aired a special ROH Beantown Beatdown episode on July 21. The event aired on YouTube. Full results are below. ROH Beantown Beatdown Results (7/21) Shane Taylor Promotions interrupts...",
+      "link": "https://www.fightful.com/wrestling-news/roh-beantown-beatdown-results-7-21/",
+      "t": "2h",
+      "dt": "2026-07-22T01:37:58+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision (7/18) Viewership Slightly Drops, Demo Rating Increases",
+      "p": "AEW Collision viewership information for July 18. Programming Insider reports that AEW Collision drew 399,000 viewers on TNT on Saturday, July 18. This number is down from the 409,000 viewers the...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-7-18-viewership-slightly-drops-demo-rating-increases/",
+      "t": "3h",
+      "dt": "2026-07-22T00:23:45+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Dave Meltzer’s weekly analysis of WWE, AEW & TNA ratings for subscribers",
       "p": "Dave Meltzer has posted his thoughts and opinions on viewership for WWE Raw, AEW Dynamite and TNA Impact over the last week+. Click here to read (sub needed)",
       "link": "https://www.f4wonline.com/news/wwe/dave-meltzers-weekly-analysis-of-wwe-aew-tna-ratings-for-subscribers/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-07-21T22:36:20+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Backstage Details On Bayley's WWE Contract Status, Expected Interest From AEW",
       "p": "A new report offered further backstage details on the contract status of WWE star Bayley following her loss to Lyra Valkyria at Saturday Night's Main Event.",
       "link": "https://www.wrestlinginc.com/2220309/bayley-wwe-contract-aew-interest/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-07-21T22:08:01+00:00"
     },
     {
@@ -32,47 +80,23 @@
       "h": "AEW reportedly will have ‘major interest’ if Bayley hits free agency",
       "p": "AEW reportedly will have significant interest in Bayley if she ends up testing free agency. Social media teases from Mercedes Mone — one of Bayley’s best friends — have helped fuel fan speculation...",
       "link": "https://www.f4wonline.com/news/aew/aew-reportedly-will-have-major-interest-if-bayley-hits-free-agency/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-21T21:55:04+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Interest In Bayley",
-      "p": "Details on AEW being interested in Bayley. Fightful Select reports, “Bayley’s contract and potential free agency have been a conversation in AEW for quite some time, with the company expected to...",
-      "link": "https://www.fightful.com/wrestling-news/aew-interest-in-bayley/",
-      "t": "2h",
-      "dt": "2026-07-21T21:45:29+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW panel set for San Diego Comic-Con",
       "p": "AEW will have several representatives at San Diego Comic-Con this week for a panel on the future of professional wrestling and its intersection with pop culture. The panel, named “AEW Challenge...",
       "link": "https://www.f4wonline.com/news/aew/aew-panel-set-for-san-diego-comic-con/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-07-21T21:33:35+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Swerve Strickland, Kyle Fletcher, Tony Khan, More Set For AEW Panel At San Diego Comic Con",
-      "p": "AEW is coming to San Diego. The company recently announced that Renee Paquette will host a panel for AEW at San Diego Comic Con on Friday, July 25. The session will tackle the future of wrestling...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-kyle-fletcher-tony-khan-more-set-for-aew-panel-at-san-diego-comic-con/",
-      "t": "3h",
-      "dt": "2026-07-21T20:57:52+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Young Bucks On Asking For TNA Release: We Saw Something In Ourselves That They Didn’t",
-      "p": "In July 2011, the Young Bucks (Matt Jackson & Nick Jackson) wrestled their last match at the time for TNA Wrestling. The brothers, who went by Generation Me (Max Buck & Jeremy Buck) lost to Eric...",
-      "link": "https://www.fightful.com/wrestling-news/young-bucks-on-asking-for-tna-release-we-saw-something-in-ourselves-that-they-didnt/",
-      "t": "3h",
-      "dt": "2026-07-21T20:53:39+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Update on Sammy Guevara & Tay Melo’s AEW status | Subscriber Exclusive",
       "p": "For our subscribers, Bryan Alvarez has an exclusive on what’s known about the Sammy Guevara/AEW situation after Guevara removed the promotion from all of his social media accounts. He also has an...",
       "link": "https://www.f4wonline.com/news/aew/sammy-guevara-tay-melo-aew-status-release/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-07-21T20:09:27+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "ROH Beantown Beatdown lineup: AEW National Championship headlines tonight’s YouTube special",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH Beantown Beatdown lineup: AEW National Championship headlines tonight’s YouTube special appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/21/roh-beantown-beatdown-lineup-aew-national-championship-headlines-tonights-youtube-special/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-07-21T20:00:22+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "NJPW G1 CLIMAX 36 RESULTS – NIGHT 4 (7/21) – Results of Oleg vs. Takagi, Tsuji vs. Sanada, Takeshita vs. Yuto-Ice, Goto vs. Lee, more",
-      "p": "NJPW G1 CLIMAX 36: NIGHT 4 REPORT JULY 21, 2026 SENDAI, MIYAGI, JAPAN AT SENDAI SUN PLAZA HALL AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentator: Walker Stewart,...",
-      "link": "https://www.pwtorch.com/site/2026/07/21/njpw-g1-climax-36-results-night-4-7-21-results-of-oleg-vs-takagi-tsuji-vs-sanada-takeshita-vs-yuto-ice-goto-vs-lee-more/",
-      "t": "4h",
-      "dt": "2026-07-21T19:20:34+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: Andrade’s delight with his catch phrase is contagious, Jericho and Ciampa make the list again and The Painmaker is part of why",
-      "p": "Welcome everyone!!! If you read my column last week, you might not be happy with me. If you did not read it, I put three of the most popular AEW wrestlers on my fading side [...]",
-      "link": "https://www.pwtorch.com/site/2026/07/21/aew-rising-and-fading-stars-andrades-delight-with-his-catch-phrase-is-contagious-jericho-and-ciampa-make-the-list-again-and-the-painmaker-is-part-of-why/",
-      "t": "5h",
-      "dt": "2026-07-21T18:16:12+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "NJPW “G1 Climax 36” results (7/21): Vetter’s review of Shingo Takagi vs. Boltin Oleg, Yota Tsuji vs. Sanada, Konosuke Takeshita vs. Yuto-Ice, Ryohei Oiwa vs. Great-O-Khan, Hirooki Goto vs. Jake Lee",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/21): Vetter’s review of Shingo Takagi vs. Boltin Oleg, Yota Tsuji vs. Sanada, Konosuke Takeshita vs....",
-      "link": "https://prowrestling.net/site/2026/07/21/njpw-g1-climax-36-results-7-21-vetters-review-of-shingo-takagi-vs-boltin-oleg-yota-tsuji-vs-sanada-konosuke-takeshita-vs-yuto-ice-ryohei-oiwa-vs-great-o-khan-hirooki-goto-vs-jake-lee/",
-      "t": "8h",
-      "dt": "2026-07-21T16:00:32+00:00"
     }
   ]
 }

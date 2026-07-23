@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-23T18:22:08.644793+00:00",
+  "updated": "2026-07-23T20:18:47.587581+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,75 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "WOL: AEW Dynamite, WWE Radio, WWE free agents now available, more!",
+      "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including AEW Dynamite and the build to Redemption, what Bryan thought were the big positives to last...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-aew-dynamite-wwe-radio-wwe-free-agents-now-available-more/",
+      "t": "12m",
+      "dt": "2026-07-23T20:05:53+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW On HBO Max Schedule Announced For August",
+      "p": "Warner Bros Discovery has announced the content schedule for HBO Max in August, which includes All Elite Wrestling programming. Full schedule ALL ELITE WRESTLING (AEW) IN AUGUST HBO Max...",
+      "link": "https://www.fightful.com/wrestling-news/all-elite-wrestling-on-hbo-max-schedule-announced-for-august/",
+      "t": "46m",
+      "dt": "2026-07-23T19:31:51+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW media call report: Tony Khan takes media questions heading into the AEW Redemption pay-per-view",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW media call report: Tony Khan takes media questions heading into the AEW Redemption pay-per-view appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/23/aew-media-call-report-tony-khan-takes-media-questions-heading-into-the-aew-redemption-pay-per-view/",
+      "t": "48m",
+      "dt": "2026-07-23T19:30:18+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Final hype for AEW Redemption including Kevin Knight vs. Darby Allin, and Will Ospreay teaming with his two dads Kenny Omega and Jon Moxley",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Final hype for AEW Redemption including Kevin Knight vs. Darby Allin, and Will Ospreay teaming...",
+      "link": "https://prowrestling.net/site/2026/07/23/pruetts-pause-10-thoughts-on-aew-dynamite-final-hype-for-aew-redemption-including-kevin-knight-vs-darby-allin-and-will-ospreay-teaming-with-his-two-dads-kenny-omega-and-jon-moxley/",
+      "t": "50m",
+      "dt": "2026-07-23T19:28:08+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Former WWE & TNA Star Reportedly Backstage At AEW Dynamite & Collision Tapings",
+      "p": "Former WWE, TNA, and New Japan Pro Wrestling star Doc Gallows was reportedly backstage visiting at last night's double taping of AEW Dynamite and Collision",
+      "link": "https://www.wrestlinginc.com/2222065/wwe-tna-luke-gallows-backstage-aew-dynamite-collision/",
+      "t": "55m",
+      "dt": "2026-07-23T19:23:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW name pulled from WrestleCon due to Stardom commitments, former Zelina Vega added",
+      "p": "Julia Hart is no longer making the trip back to her home state for WrestleCon Minneapolis. Hart was scheduled to be a guest at WrestleCon in Minnesota, but the convention announced today that...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/julia-hart-pulled-wrestlecon-zelina-vega-added/",
+      "t": "1h",
+      "dt": "2026-07-23T19:03:47+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision Spoilers For 7/25 (Taped On 7/22)",
+      "p": "All Elite Wrestling taped the July 25 episode of AEW Collision on July 22 from Nashville, TN. Full spoilers (courtesy of PWInsider) are below. AEW Collision Spoilers For 7/25 (Taped On 7/22)...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-spoilers-for-7-25-taped-on-7-22/",
+      "t": "1h",
+      "dt": "2026-07-23T19:00:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Thea Trinidad Set For WrestleCon In Minneapolis, AEW Dynamite Highlights | Fight Size",
+      "p": "Here is your fight size update for Thursday, July 23, 2026: – Thea Trinidad (Zelina Vega) has been announced for WrestleCon during SummerSlam weekend: She's back and better than ever! Welcome...",
+      "link": "https://www.fightful.com/wrestling-news/thea-trinidad-set-for-wrestlecon-in-minneapolis-aew-dynamite-highlights-fight-size/",
+      "t": "1h",
+      "dt": "2026-07-23T19:00:00+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW Collision lineup: Saturday’s Redemption go-home show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Saturday’s Redemption go-home show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/23/aew-collision-lineup-saturdays-redemption-go-home-show/",
-      "t": "1m",
+      "t": "1h",
       "dt": "2026-07-23T18:20:45+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "Former WWE, NJPW wrestler reportedly backstage at AEW Dynamite",
       "p": "Doc Gallows was reportedly backstage at AEW recently. According to a report from PWInsider on Thursday, Gallows was backstage at Wednesday’s AEW Dynamite at The Pinnacle in Nashville, Tennessee....",
       "link": "https://www.f4wonline.com/news/aew/former-wwe-njpw-wrestler-reportedly-backstage-at-aew-dynamite/",
-      "t": "9m",
+      "t": "2h",
       "dt": "2026-07-23T18:12:54+00:00"
     },
     {
@@ -32,80 +96,16 @@
       "h": "AEW DYNAMITE HITS & MISSES (7/22): Darby vs. Knight craziness, Callis Family internal disputes, Willow and Thekla face-to-face, The Painmaker, more",
       "p": "HITS DARBY ALLIN VS. KEVIN KNIGHT Every week, I marvel at the craziness of Darby Allin and the risks he takes for our entertainment. It’s truly amazing that he continues to wow the audience with [...]",
       "link": "https://www.pwtorch.com/site/2026/07/23/aew-dynamite-hits-misses-7-22-darby-vs-knight-craziness-callis-family-internal-disputes-willow-and-thekla-face-to-face-the-painmaker-more/",
-      "t": "12m",
+      "t": "2h",
       "dt": "2026-07-23T18:09:23+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mark Davis Discusses Recent National Title Defense Against Speedball Mike Bailey, Speedball Potentially Joining Don Callis Family",
-      "p": "Mark Davis speaks on his recent match with Speedball Mike Bailey and discusses the possibility of Speedball joining the faction in the future. Since Speedball Mike Bailey joined All Elite...",
-      "link": "https://www.fightful.com/wrestling-news/mark-davis-discusses-recent-national-title-defense-against-speedball-mike-bailey-speedball-potentially-joining-don-callis-family/",
-      "t": "21m",
-      "dt": "2026-07-23T18:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on the final episode before Redemption, an approach that could have given Kevin Knight a bigger boost",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the final episode before Redemption, an approach that could have given Kevin Knight a bigger boost...",
       "link": "https://prowrestling.net/site/2026/07/23/powells-aew-dynamite-hit-list-thoughts-on-the-final-episode-before-redemption-an-approach-that-could-have-given-kevin-knight-a-bigger-boost/",
-      "t": "42m",
+      "t": "2h",
       "dt": "2026-07-23T17:40:04+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub lineup: The updated card for tonight’s online show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The updated card for tonight’s online show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/23/roh-on-honorclub-lineup-the-updated-card-for-tonights-online-show/",
-      "t": "46m",
-      "dt": "2026-07-23T17:35:51+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Bryan Alvarez Says Sammy Guevara Still With AEW Despite Social Media Posts",
-      "p": "Despite some cryptic social media posts, Sammy Guevara is still firmly under contract with AEW.",
-      "link": "https://www.wrestlinginc.com/2221835/bryan-alvarez-sammy-guevara-still-aew-social-media-posts/",
-      "t": "1h",
-      "dt": "2026-07-23T17:18:06+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kenny Omega & Austin Creed (FKA Xavier Woods) Poke Fun At AEW-New Day Rumors",
-      "p": "Former WWE star Xavier Woods (Austin Creed) and AEW World Champion Kenny Omega have a playful interview, even teasing Creed's upcoming free agency status.",
-      "link": "https://www.wrestlinginc.com/2221832/aew-kenny-omega-austin-creed-xavier-woods-new-day-poke-fun-rumors/",
-      "t": "1h",
-      "dt": "2026-07-23T17:16:23+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Redemption lineup: Additional matches added to Sunday’s pay-per-view card",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: Additional matches added to Sunday’s pay-per-view card appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/23/aew-redemption-lineup-additional-matches-added-to-sundays-pay-per-view-card/",
-      "t": "1h",
-      "dt": "2026-07-23T17:00:40+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Don Callis On Indie Promotions Joining MyAEW: That’s Instant Credibility",
-      "p": "Don Callis touts the importance of MyAEW. Aside from Maple Leaf Pro, other indie promotions like Limitless Wrestling, Warrior Wrestling, and PRODUCE are all big partners for the MyAEW streaming...",
-      "link": "https://www.fightful.com/wrestling-news/don-callis-myaew-316462/",
-      "t": "1h",
-      "dt": "2026-07-23T17:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Redemption Odds Courtesy Of MyBookie",
-      "p": "AEW Redemption is set to take place on Sunday, July 26 from the Bell Centre in Montreal, Quebec, Canada. Ahead of the event, MyBookie has set the odds for the majority of the announced matches....",
-      "link": "https://www.fightful.com/wrestling-news/aew-redemption-odds-courtesy-of-mybookie/",
-      "t": "1h",
-      "dt": "2026-07-23T16:54:30+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Compares Bayley Situation To Other Former WWE Star",
-      "p": "With Bayley's future with WWE being uncertain, Dave Melter believes her status with the company is similar to a current AEW star.",
-      "link": "https://www.wrestlinginc.com/2221794/dave-meltzer-bayley-situation-former-wwe-star-ricochet/",
-      "t": "1h",
-      "dt": "2026-07-23T16:53:54+00:00"
     }
   ]
 }

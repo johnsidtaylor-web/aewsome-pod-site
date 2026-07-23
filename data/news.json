@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T09:34:09.704661+00:00",
+  "updated": "2026-07-23T12:01:08.996356+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
@@ -13,10 +13,26 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "AEW and ROH name confirmed for first time ever match in England",
+      "p": "AEW and ROH name Lio Rush has been confirmed for a first time ever match at PROGRESS Wrestling in August. Rush will be appearing at the “Wrestling Over Everything” event for the company on Monday,...",
+      "link": "https://www.f4wonline.com/news/aew/lio-rush-progress-wrestling-england-rhio-aew-match/",
+      "t": "2m",
+      "dt": "2026-07-23T11:58:46+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Update on AEW visa situation for multiple wrestlers | Exclusive",
+      "p": "An update is available regarding multiple AEW wrestlers who were unable to wrestle in the United States due to ongoing visa issues. On the latest edition of Wrestling Observer Radio, our own Dave...",
+      "link": "https://www.f4wonline.com/news/aew/update-on-aew-visa-situation-for-multiple-wrestlers-exclusive/",
+      "t": "5m",
+      "dt": "2026-07-23T11:55:43+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "WOR: WWE creative, Dynamite and Redemption, Sammy and Bayley, more!",
       "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including JP Morgan discussing WWE creative, updates on Sammy Guevara and Bayley, the G-1 update for...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-wwe-creative-dynamite-and-redemption-sammy-and-bayley-more/",
-      "t": "41m",
+      "t": "3h",
       "dt": "2026-07-23T08:52:20+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "FREE PODCAST 7/22 – WKPWP after Dynamite: Keller & Kline & JB talk AEW Retribution build, is Moxley playing Ospreay and Omega, Foley hosting Thekla-Willow, more (139 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by Dennis Kline and Jerud Buhagiar (JB) to review AEW Dynamite with chat, caller, and email interactions throughout. They start with analysis of...",
       "link": "https://www.pwtorch.com/site/2026/07/23/free-podcast-7-22-wkpwp-after-dynamite-keller-kline-jb-talk-aew-retribution-build-is-moxley-playing-ospreay-and-omega-foley-hosting-thekla-willow-more-139-min/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-07-23T05:55:43+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "VIP PODCAST 7/22 – WKH – AEW Dynamite: Knight vs. Darby, Ospreay & Omega & Moxley vs. Don Callis Family, Fletcher-Okada-Knight tensions, Mick Foley hosts Thekla-Willow face-to-face, more (23 min.)",
       "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the July 22 episode of AEW Dynamite start to finish including Will Ospreay & Kenny Omega & Jon Moxley...",
       "link": "https://www.pwtorch.com/site/2026/07/23/vip-podcast-7-22-wkh-aew-dynamite-knight-vs-darby-ospreay-omega-moxley-vs-don-callis-family-fletcher-okada-knight-tensions-mick-foley-hosts-thekla-willow-face-to-face-more-23-min/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-07-23T05:39:08+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "AEW Dynamite - 7/22/2026: 3 Things We Hated And 3 We Loved",
       "p": "The best and the worst of the last Dynamite before AEW Redemption.",
       "link": "https://www.wrestlinginc.com/2221462/aew-dynamite-july-22-2026-3-things-hated-loved-opinion-review/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-07-23T04:07:37+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "07/22 Barnett’s AEW Dynamite audio review: Kevin Knight vs. Darby Allin for the TNT Title, Megan Bayne and Lena Kross vs. Julia Hart and Sky Blue in a No DQ match for the AEW Women’s Tag Titles",
       "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 07/22 Barnett’s AEW Dynamite audio review: Kevin Knight vs. Darby Allin for the TNT Title, Megan Bayne and Lena Kross vs. Julia Hart and Sky...",
       "link": "https://prowrestling.net/site/2026/07/22/07-22-barnetts-aew-dynamite-audio-review-kevin-knight-vs-darby-allin-for-the-tnt-title-megan-bayne-and-lena-kross-vs-julia-hart-and-sky-blue-in-a-no-dq-match-for-the-aew-womens-tag-titles/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-07-23T04:05:45+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Redemption Go-Home: AEW Dynamite 7/22/26 Review | RAD",
       "p": "Pollock & Ting review AEW Dynamite and preview AEW Redemption. XL News: Santana on NXT, Andreas Hale, G1 update, AEW Fan Fest, TNA lineup. The post Redemption Go-Home: AEW Dynamite 7/22/26 Review...",
       "link": "https://www.postwrestling.com/2026/07/22/aew-dynamite-7-22-26-review-rad-live-1035pm-et/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-23T03:35:40+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW’s Mike Bailey reveals ‘five-year ban’ almost made him quit wrestling",
       "p": "Former AEW Trios Champion Mike Bailey recalled his struggles as a professional wrestler and revealed an incident that almost made him quit the sport. Recently appearing in an interview with TMZ...",
       "link": "https://www.f4wonline.com/news/aew/aews-mike-bailey-reveals-five-year-ban-almost-made-him-quit-wrestling/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-23T03:23:01+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "AEW adds six-way International title #1 contenders ladder match to Redemption",
       "p": "Mike Bailey, Jack Perry, The Beast Mortos, Komander and two others will battle it out for a shot at AEW's International title. The post AEW adds six-way International title #1 contenders ladder...",
       "link": "https://www.postwrestling.com/2026/07/22/aew-adds-six-way-international-title-1-contenders-ladder-match-to-redemption/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-23T03:16:55+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Six-way ladder match added to AEW Redemption due to Mistico injury",
       "p": "Even though he wasn’t announced for this Sunday’s AEW Redemption, an injury to Mistico has changed up the card for the pay-per-view. After Dynamite wrapped, AEW head Tony Khan went live on X to...",
       "link": "https://www.f4wonline.com/news/aew/mistico-injury-aew-redemption-six-way-ladder-match/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-23T03:01:24+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Ladder Match Qualifying Bouts Set For 7/25 AEW Collision",
       "p": "Two more matches have been added to AEW Collision. Tony Khan announced that Lio Rush will take on El Clon, and Nick Wayne will battle AR Fox in qualifying matches on the July 25 episode of...",
       "link": "https://www.fightful.com/wrestling-news/ladder-match-qualifying-bouts-set-for-7-25-aew-collision/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-07-23T03:00:53+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Double Chain Match Official For AEW Redemption",
-      "p": "The double chain main is official for AEW Redemption. Tony Khan confirmed that the Bang Bang Gang will take on the Dogs in a double chain match at Redemption. Juice Robinson and Jay White issued...",
-      "link": "https://www.fightful.com/wrestling-news/double-chain-match-official-for-aew-redemption/",
-      "t": "6h",
-      "dt": "2026-07-23T02:54:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mistico Not Cleared To Compete At AEW Redemption",
-      "p": "Mistico was scheduled to compete at AEW Redemption. Tony Khan stated on Twitter that Mistico was scheduled to compete at Redemption on Sunday, July 26. Khan noted that he was hoping to have the...",
-      "link": "https://www.fightful.com/wrestling-news/mistico-not-cleared-to-compete-at-aew-redemption/",
-      "t": "6h",
-      "dt": "2026-07-23T02:49:08+00:00"
     }
   ]
 }

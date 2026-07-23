@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T22:13:09.124683+00:00",
+  "updated": "2026-07-23T23:10:44.233994+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "ROH TV live results: Lio Rush defends TV title against Oro",
+      "p": "Ring of Honor is back on HonorClub tonight. Scheduled for this week’s show, Shane Taylor Promotions will face SkyFlight in an eight-man tag team match as Shane Taylor, Lee Moriarty, Carlie Bravo...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-lio-rush-defends-tv-title-against-oro/",
+      "t": "5m",
+      "dt": "2026-07-23T23:05:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Trios Title Bout, More Added To 7/25 AEW Collision",
+      "p": "More matches have been added to Saturday’s AEW Collision. All Elite Wrestling announced that The Conglomeration (Orange Cassidy, Roderick Strong, & Kyle O’Reilly) will defend the AEW Trios Titles...",
+      "link": "https://www.fightful.com/wrestling-news/aew-trios-title-bout-more-added-to-7-25-aew-collision/",
+      "t": "34m",
+      "dt": "2026-07-23T22:36:22+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Samoa Joe On Why He Wrestled Infamous 2005 Match: 'I Was Trying To Get Some A**'",
+      "p": "Before one of his most famous matches, AEW star Samoa Joe factored in whether he could get a different type of action.",
+      "link": "https://www.wrestlinginc.com/2222226/aew-samoa-joe-necro-butcher-2005-dark-side-of-the-ring/",
+      "t": "53m",
+      "dt": "2026-07-23T22:17:19+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW Redemption 2026: Draws & Duds",
       "p": "From Hikaru Shida's TBS title defense to Tommaso Ciampa's date with the Painmaker, here are WINC's biggest draws and biggest duds for AEW Revolution 2026!",
       "link": "https://www.wrestlinginc.com/2222223/aew-redemption-draws-duds-kenny-omega-kevin-knight-willow-nightingale-thekla/",
-      "t": "0m",
+      "t": "58m",
       "dt": "2026-07-23T22:12:22+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Tony Khan updates the statuses of Strickland, Page, MJF, Guevara, Jay, Melo",
       "p": "AEW COO and booker Tony Khan updated the status of several members of the AEW roster during his media call today ahead of the Redemption PPV this Sunday. Khan gave updates on Swerve Strickland,...",
       "link": "https://www.pwtorch.com/site/2026/07/23/tony-khan-updates-the-statuses-of-strickland-page-mjf-guevara-jay-melo/",
-      "t": "4m",
+      "t": "1h",
       "dt": "2026-07-23T22:08:29+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "AEW Collision spoilers from Wednesday: Redemption go-home show",
       "p": "The following are spoilers for this Saturday’s AEW Collision, taped Wednesday in Nashville, TN, after Dynamite. These come courtesy of PWInsider.",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-spoilers-redemption-go-home/",
-      "t": "4m",
+      "t": "1h",
       "dt": "2026-07-23T22:08:16+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Tony Khan on Hangman Page, early Redemption start time, signing free agents | AEW media call",
       "p": "With the big news from Thursday’s AEW media call being the impending release of Tay Melo, Tony Khan also talked about Hangman Page, signing free agents and the early Redemption start time among...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-hangman-page-early-redemption-start-time-signing-free-agents-aew-media-call/",
-      "t": "26m",
+      "t": "1h",
       "dt": "2026-07-23T21:46:15+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Tony Khan explains why MJF isn’t wrestling at AEW Redemption",
       "p": "An update is available regarding why MJF hasn’t factored into AEW’s plans for Redemption in Montreal this weekend. During the Redemption media call on Thursday, Tony Khan was asked why MJF isn’t...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-explains-why-mjf-isnt-wrestling-at-aew-redemption/",
-      "t": "33m",
+      "t": "1h",
       "dt": "2026-07-23T21:39:18+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Tony Khan Thinking About Doing Crockett Cup-Style Men’s & Women’s Tag Team Tournaments In AEW",
       "p": "Tony Khan has been thinking about doing more tag team tournaments. As the AEW Redemption media call was ongoing, company President Tony Khan was asked if he’d be interested in doing a Crockett...",
       "link": "https://www.fightful.com/wrestling-news/tony-khan-thinking-about-doing-crockett-cup-style-mens-womens-tag-team-tournaments-in-aew/",
-      "t": "37m",
+      "t": "1h",
       "dt": "2026-07-23T21:35:39+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Tony Khan strongly hints Swerve Strickland returning at AEW Redemption",
       "p": "Fans wondering why former AEW World Champion Swerve Strickland isn’t on this Sunday’s Redemption pay-per-view may get their wish after all. AEW head Tony Khan was asked about Strickland’s status...",
       "link": "https://www.f4wonline.com/news/aew/swerve-strickland-return-aew-redemption-tony-khan/",
-      "t": "42m",
+      "t": "1h",
       "dt": "2026-07-23T21:30:22+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW Redemption Media Call with Tony Khan: Updates on Sammy Guevara and TayJay, Status of Swerve Strickland and MJF",
       "p": "Tony Khan held a media call ahead of Redemption, where he spoke on the statuses of talent like Sammy Guevara and TayJay. The post AEW Redemption Media Call with Tony Khan: Updates on Sammy Guevara...",
       "link": "https://www.postwrestling.com/2026/07/23/aew-redemption-media-call-with-tony-khan-updates-on-sammy-guevara-and-tayjay-status-of-swerve-strickland-and-mjf/",
-      "t": "59m",
+      "t": "1h",
       "dt": "2026-07-23T21:13:32+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "Tony Khan Provides Update On Sammy Guevara’s AEW Status, Defends Guevara From Criticism",
       "p": "An update on Sammy Guevara’s status with AEW. There was speculation about Sammy Guevara’s status with All Elite Wrestling as the company name was no longer in his social media bio. AEW President...",
       "link": "https://www.fightful.com/wrestling-news/tony-khan-provides-update-on-sammy-guevaras-aew-status-defends-guevara-from-criticism/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-23T20:53:13+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on Anna Jay’s status with AEW",
-      "p": "Tony Khan provided an update on Anna Jay’s status with AEW during Thursday’s AEW Redemption media call. Khan revealed that the 28-year-old recently extended her contract with AEW. However, the AEW...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-anna-jays-status-with-aew/",
-      "t": "1h",
-      "dt": "2026-07-23T20:52:39+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Says MJF Was Fighting Through Injuries, Thinks His Return Will Be ‘Very Soon’",
-      "p": "Tony Khan gives an update on MJF. MJF lost the AEW World Title to Kenny Omega at AEW Dynamite Beach Break, in a match that surprised many fans as it looked as if the bout would take place at AEW...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-mjf-was-fighting-through-injuries-thinks-his-return-will-be-very-soon/",
-      "t": "1h",
-      "dt": "2026-07-23T20:41:34+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Says He’ll Be Granting Tay Melo’s Release From AEW",
-      "p": "Tay Melo’s release request will be granted. Ahead of the AEW Redemption pay-per-view, Tony Khan hosted his pre-pay-per-view media call, and one of the questions asked of him had to do with the...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-hell-be-granting-tay-melos-release-from-aew/",
-      "t": "1h",
-      "dt": "2026-07-23T20:37:50+00:00"
     }
   ]
 }

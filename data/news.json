@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-22T23:16:40.926832+00:00",
+  "updated": "2026-07-23T03:41:11.207411+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "AEW Dynamite Results (7/22/2026): Two Title Matches, Kenny Omega, Jay White, More",
-      "p": "Full results for the July 22, 2026, edition of AEW Dynamite on TBS live from The Pinnacle in Nashville, Tennessee. On July 22, 2026, All Elite Wrestling hosted a new episode of Dynamite at The...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-7-22-2026-two-title-matches-kenny-omega-jay-white-more/",
-      "t": "1m",
-      "dt": "2026-07-22T23:15:00+00:00"
-    },
-    {
       "src": "Wrestling Observer",
-      "h": "AEW Dynamite live results: Will Ospreay, Kenny Omega & Jon Moxley team up",
-      "p": "AEW Dynamite is live tonight from The Pinnacle in Nashville, Tennessee. A trios match featuring Will Ospreay, Jon Moxley, and Kenny Omega against the Don Callis Family’s Jake Doyle, Brian Cage,...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-kevin-knight-defends-against-darby-allin/",
-      "t": "11m",
-      "dt": "2026-07-22T23:05:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: Xavier Woods, AEW notes, Dark Side of the Ring",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Wednesday Update WWE...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-xavier-woods-aew-notes-dark-side-of-the-ring/",
-      "t": "1h",
-      "dt": "2026-07-22T21:43:18+00:00"
+      "h": "AEW’s Mike Bailey reveals ‘five-year ban’ almost made him quit wrestling",
+      "p": "Former AEW Trios Champion Mike Bailey recalled his struggles as a professional wrestler and revealed an incident that almost made him quit the sport. Recently appearing in an interview with TMZ...",
+      "link": "https://www.f4wonline.com/news/aew/aews-mike-bailey-reveals-five-year-ban-almost-made-him-quit-wrestling/",
+      "t": "18m",
+      "dt": "2026-07-23T03:23:01+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "POST NEWS: Mike Santana joins NXT, G1 Night 5 recap & AEW All Out vs. WWE",
-      "p": "Jack Wannan covers the news from Wednesday, including Mike Santana’s arrival in NXT, All Out head-to-head with WWE, and today’s G1 results. The post POST NEWS: Mike Santana joins NXT, G1 Night 5...",
-      "link": "https://www.postwrestling.com/2026/07/22/post-news-mike-santana-joins-nxt-g1-night-5-recap-aew-all-out-vs-wwe/",
-      "t": "2h",
-      "dt": "2026-07-22T20:40:32+00:00"
+      "h": "AEW adds six-way International title #1 contenders ladder match to Redemption",
+      "p": "Mike Bailey, Jack Perry, The Beast Mortos, Komander and two others will battle it out for a shot at AEW's International title. The post AEW adds six-way International title #1 contenders ladder...",
+      "link": "https://www.postwrestling.com/2026/07/22/aew-adds-six-way-international-title-1-contenders-ladder-match-to-redemption/",
+      "t": "24m",
+      "dt": "2026-07-23T03:16:55+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Jim Ross gives update on potential AEW return date",
-      "p": "Jim Ross is optimistic that he’ll be back on AEW commentary sooner rather than later. On the episode of his Grilling JR podcast that will be publicly released tomorrow, Ross noted that — despite...",
-      "link": "https://www.f4wonline.com/news/aew/jim-ross-gives-update-on-potential-aew-return-date/",
-      "t": "3h",
-      "dt": "2026-07-22T20:07:50+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Redemption lineup: The card for Sunday’s pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup: The card for Sunday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/22/aew-redemption-lineup-the-card-for-sundays-pay-per-view-event-2/",
-      "t": "4h",
-      "dt": "2026-07-22T19:10:17+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Believes Recent Episode Of AEW Dynamite Will Be Talked About For Years",
-      "p": "AEW President Tony Khan claims that fans will remember Beach Break two decades from now.",
-      "link": "https://www.wrestlinginc.com/2221075/aew-dynamite-beach-break-2026-tony-khan-talked-about-years/",
-      "t": "4h",
-      "dt": "2026-07-22T19:01:03+00:00"
+      "h": "Six-way ladder match added to AEW Redemption due to Mistico injury",
+      "p": "Even though he wasn’t announced for this Sunday’s AEW Redemption, an injury to Mistico has changed up the card for the pay-per-view. After Dynamite wrapped, AEW head Tony Khan went live on X to...",
+      "link": "https://www.f4wonline.com/news/aew/mistico-injury-aew-redemption-six-way-ladder-match/",
+      "t": "39m",
+      "dt": "2026-07-23T03:01:24+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Matt Jackson: I Think The Young Bucks vs Adam Copeland And Christian Is One Of The Few, Final Big Money Tag Matches On The Table",
-      "p": "Matt Jackson discusses the possibility of The Young Bucks taking on Adam Copleand and Christian Cage in the near future. The Young Bucks have been AEW World Tag Team Champions on three different...",
-      "link": "https://www.fightful.com/wrestling-news/matt-jackson-i-think-the-young-bucks-vs-adam-copeland-and-christian-is-one-of-the-few-final-big-money-tag-matches-on-the-table/",
-      "t": "5h",
-      "dt": "2026-07-22T17:51:28+00:00"
+      "h": "Ladder Match Qualifying Bouts Set For 7/25 AEW Collision",
+      "p": "Two more matches have been added to AEW Collision. Tony Khan announced that Lio Rush will take on El Clon, and Nick Wayne will battle AR Fox in qualifying matches on the July 25 episode of...",
+      "link": "https://www.fightful.com/wrestling-news/ladder-match-qualifying-bouts-set-for-7-25-aew-collision/",
+      "t": "40m",
+      "dt": "2026-07-23T03:00:53+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Double Chain Match Official For AEW Redemption",
+      "p": "The double chain main is official for AEW Redemption. Tony Khan confirmed that the Bang Bang Gang will take on the Dogs in a double chain match at Redemption. Juice Robinson and Jay White issued...",
+      "link": "https://www.fightful.com/wrestling-news/double-chain-match-official-for-aew-redemption/",
+      "t": "46m",
+      "dt": "2026-07-23T02:54:16+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mistico Not Cleared To Compete At AEW Redemption",
+      "p": "Mistico was scheduled to compete at AEW Redemption. Tony Khan stated on Twitter that Mistico was scheduled to compete at Redemption on Sunday, July 26. Khan noted that he was hoping to have the...",
+      "link": "https://www.fightful.com/wrestling-news/mistico-not-cleared-to-compete-at-aew-redemption/",
+      "t": "51m",
+      "dt": "2026-07-23T02:49:08+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Six-Way Ladder Match Added To AEW Redemption",
+      "p": "A number one contender for the AEW International Title will be crowned at AEW Redemption. Tony Khan announced that a six-way ladder match will take place at Redemption on Sunday, July 25. The...",
+      "link": "https://www.fightful.com/wrestling-news/six-way-ladder-match-added-to-aew-redemption/",
+      "t": "1h",
+      "dt": "2026-07-23T02:39:32+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Tony Khan addresses potential AEW Hall of Fame, whether ROH version will return",
-      "p": "While nothing sounds imminent, Tony Khan is interested in the idea of establishing an AEW Hall of Fame. The AEW boss spoke with the Battleground Podcast ahead of AEW Redemption and was asked about...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-addresses-potential-aew-hall-of-fame/",
-      "t": "5h",
-      "dt": "2026-07-22T17:49:35+00:00"
+      "h": "Two Redemption ladder match qualifiers announced for AEW Collision",
+      "p": "Three matches have been announced for Saturday’s AEW Collision including for a match announced on social media after Wednesday’s Dynamite. AEW Women’s World Champion Thekla will team with TBS...",
+      "link": "https://www.f4wonline.com/news/aew/redemption-preview-match-announced-for-aew-collision/",
+      "t": "1h",
+      "dt": "2026-07-23T02:37:12+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW’s Tommaso Ciampa reflects on his missed opportunities in WWE",
+      "p": "Former AEW TNT Champion Tommaso Ciampa recently reflected on all the wrestling opportunities he missed out on during his time in WWE. While wrestling Darby Allin for the AEW World Title was...",
+      "link": "https://www.f4wonline.com/news/aew/aews-tommaso-ciampa-reflects-on-his-missed-opportunities-in-wwe/",
+      "t": "1h",
+      "dt": "2026-07-23T02:36:06+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Willow Nightingale & Maya World to face Thekla & Hikaru Shida on AEW Collision go-home episode",
+      "p": "Before they defend their titles at Redemption, Thekla and Hikaru Shida will team up on AEW Collision this Saturday. The post Willow Nightingale & Maya World to face Thekla & Hikaru Shida on AEW...",
+      "link": "https://www.postwrestling.com/2026/07/22/willow-nightingale-maya-world-to-face-thekla-hikaru-shida-on-aew-collision-go-home-episode/",
+      "t": "1h",
+      "dt": "2026-07-23T02:20:13+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Chain match added to AEW Redemption",
+      "p": "The latest chapter in the feud between the Bang Bang Gang and The Dogs will be a bloody one this Sunday at AEW Redemption. After Jay White defeated Clark Connors on Wednesday’s Dynamite, David...",
+      "link": "https://www.f4wonline.com/news/aew/dogs-bang-bang-gang-chain-match-aew-redemption/",
+      "t": "1h",
+      "dt": "2026-07-23T02:16:14+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Matt Jackson Reflects On The 15 Year Anniversary Of The Young Bucks’ TNA Release",
-      "p": "Matt Jackson looks back on the 15 year anniversary of he and his brother Nick being granted their release from TNA and betting on themselves. The Young Bucks are one of the most polarizing tag...",
-      "link": "https://www.fightful.com/wrestling-news/matt-jackson-reflects-on-the-15-year-anniversary-of-the-young-bucks-tna-release/",
-      "t": "5h",
-      "dt": "2026-07-22T17:30:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Announces Welcome To Wembley Fan Fest Taking Place Before All In 2026",
-      "p": "AEW announces the \"Welcome to Wembley\" fan fest, taking place at Wembley's Great Hall on the Friday and Saturday before AEW All In takes place",
-      "link": "https://www.wrestlinginc.com/2220920/aew-all-in-2026-welcome-wembley-fan-fest-announcement/",
-      "t": "6h",
-      "dt": "2026-07-22T17:14:07+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW announces “Welcome to Wembley” fan experience for All In weekend",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW announces “Welcome to Wembley” fan experience for All In weekend appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/22/aew-announces-welcome-to-wembley-fan-experience-for-all-in-weekend/",
-      "t": "6h",
-      "dt": "2026-07-22T16:29:36+00:00"
+      "h": "Thekla And Hikaru Shida To Team On 7/25 AEW Collision",
+      "p": "New matches added to AEW Collision. All Elite Wrestling announced that Women’s Champion Thekla will team with TBS Champion Hikaru Shida to take on Willow Nightingale & Maya World on the July 25...",
+      "link": "https://www.fightful.com/wrestling-news/thekla-and-hikaru-shida-to-team-on-7-25-aew-collision/",
+      "t": "1h",
+      "dt": "2026-07-23T02:14:07+00:00"
     }
   ]
 }

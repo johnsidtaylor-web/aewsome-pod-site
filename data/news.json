@@ -1,22 +1,46 @@
 {
-  "updated": "2026-07-24T17:49:11.546843+00:00",
+  "updated": "2026-07-24T19:44:12.971044+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Comments On Recent AEW Absence Of Former World Champion Swerve Strickland",
+      "p": "With former World Champion Swerve Strickland being absent from television, AEW CEO Tony Khan addresses his status with the company.",
+      "link": "https://www.wrestlinginc.com/2222816/tony-khan-swerve-strickland-aew-absence/",
+      "t": "12m",
+      "dt": "2026-07-24T19:31:32+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mark Davis Comments On Fresh Rivalry With Will Ospreay: I Really Do Enjoy Being In The Ring With Him From A Competitive Standpoint",
+      "p": "Mark Davis comments on his recently burgeoning rivalry with Will Ospreay, noting that he really does enjoy being in the ring with him. Since Ospreay returned from neck surgery earlier this year,...",
+      "link": "https://www.fightful.com/wrestling-news/mark-davis-comments-on-fresh-rivalry-with-will-ospreay-i-really-do-enjoy-being-in-the-ring-with-him-from-a-competitive-standpoint/",
+      "t": "1h",
+      "dt": "2026-07-24T18:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Wrestling Weekly: Free agent frenzy & AEW Redemption picks",
+      "p": "With a crop of free agents now contractually done with WWE, Les Thatcher and Vic Sosa talk on a new Wrestling Weekly about how many of them may find a home with AEW/ROH, TNA, or someplace else....",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-free-agent-frenzy-aew-redemption-picks/",
+      "t": "1h",
+      "dt": "2026-07-24T18:00:00+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "PARKS’S TAKE: It was one glitch and miss and stumble after another in the AEW Dynamite main event, the final pitch for Redemption",
       "p": "Wednesday’s AEW Dynamite was the last chance AEW had to sell a large portion of its audience on a new pay-per-view, Redemption, taking place this Sunday. Much of the build on TV since Forbidden...",
       "link": "https://www.pwtorch.com/site/2026/07/24/parkss-take-it-was-one-glitch-and-miss-and-stumble-after-another-in-the-aew-dynamite-main-event-the-final-pitch-for-redemption/",
-      "t": "12m",
+      "t": "2h",
       "dt": "2026-07-24T17:37:07+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "AEW's Tony Khan Comments On Current Glut Of Free Agents, Former WWE Stars",
       "p": "With a slew of former WWE wrestlers hitting free agency following their non-competes expiring, Tony Khan discussed the possibility of signing any of them.",
       "link": "https://www.wrestlinginc.com/2222675/aew-tony-khan-free-agents-former-wwe-stars/",
-      "t": "16m",
+      "t": "2h",
       "dt": "2026-07-24T17:32:12+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Kevin Knight Identifies What AEW Opponents Kenny Omega & Darby Allin Have In Common",
       "p": "AEW TNT Champion Kevin Knight points out the similarities between his recent opponents, Kenny Omega and Darby Allin.",
       "link": "https://www.wrestlinginc.com/2222670/aew-kevin-knight-kenny-omega-darby-allin-opponents-common/",
-      "t": "28m",
+      "t": "2h",
       "dt": "2026-07-24T17:20:36+00:00"
     },
     {
@@ -40,23 +64,15 @@
       "h": "This is Tony Khan’s AEW and you’re just going to have to deal with it | Opinion",
       "p": "I sometimes wonder what both the wrestling content industry and social media complaint industry would do without AEW. If you start up your modem and log on anywhere where fans congregate these...",
       "link": "https://www.f4wonline.com/opinion/tony-khan-aew-fans-opinion/",
-      "t": "41m",
+      "t": "2h",
       "dt": "2026-07-24T17:07:52+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Don Callis Almost Managed Sabu In ECW, Paul Heyman Had Issues With The Height Difference",
-      "p": "Don Callis almost managed Sabu in ECW. While chatting with Fightful’s Sean Ross Sapp for a new interview, Callis was asked if he has ever had any problems when it comes to managing talent that is...",
-      "link": "https://www.fightful.com/wrestling-news/don-callis-paul-heyman-sabu-ecw-316469/",
-      "t": "49m",
-      "dt": "2026-07-24T17:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Speedball Mike Bailey Recalls Fear Of Visa-Related Exile",
       "p": "Speedball Mike Bailey reflected on his five year ban from the U.S. due to traveling into the country without a work visa in an interview with TMZ Sports.",
       "link": "https://www.wrestlinginc.com/2222626/aew-speedball-mike-bailey-recalls-fear-vosa-related-exile/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-24T16:47:44+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Tony Khan Comments On Former World Champion MJF's Absence From AEW Revolution Card",
       "p": "AEW CEO Tony Khan has revealed the reason behind MJF's absence from television ahead of this weekend's Redemption pay-per-view.",
       "link": "https://www.wrestlinginc.com/2222356/tony-khan-mjf-absence-aew-revolution-card/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-24T16:00:00+00:00"
     },
     {
@@ -72,23 +88,15 @@
       "h": "Tony Khan Says AEW Women's Division Star Signed Contract Extension, Is Out Injured",
       "p": "During the AEW Redemption media call, Tony Khan provided updates on several wrestlers. He revealed contract informations and injury updates.",
       "link": "https://www.wrestlinginc.com/2222519/tony-khan-anna-jay-aew-contract-extension-injured/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-24T15:03:57+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan Comments On ROH Hall Of Fame, Says Athena Could Be Inducted",
-      "p": "AEW CEO Tony Khan has discussed the possibility of reviving the ROH Hall of Fame, which has had just one induction class since its launch in 2022.",
-      "link": "https://www.wrestlinginc.com/2222321/aew-tony-khan-roh-hall-of-fame-athena/",
-      "t": "3h",
-      "dt": "2026-07-24T14:30:00+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Weekend TV Guide: AEW heads to Montreal for Redemption, NJPW & STARDOM continue tourneys & more!",
       "p": "A preview of this weekend's top wrestling events on TV & streaming, including shows from AEW, WWE, NJPW, STARDOM and more! The post Weekend TV Guide: AEW heads to Montreal for Redemption, NJPW &...",
       "link": "https://www.postwrestling.com/2026/07/24/weekend-tv-guide-aew-heads-to-montreal-for-redemption-njpw-stardom-continue-tourneys-more/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-24T14:24:14+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "July 27, 2026 Observer Newsletter: AEW Redemption preview, Grant vs. McMahon case winding down, Dave’s trip to Arena Mexico",
       "p": "Dave Meltzer has posted his new Wrestling Observer Newsletter for subscribers. Dave previews this weekend’s AEW Redemption on the way to next month’s All In from Wembley Stadium. He looks at the...",
       "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/won-dave-meltzer-aew-redemption-preview-arena-mexico/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-24T13:35:42+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW wrestler pulled from August indie date due to CMLL commitment",
-      "p": "Eddie Kingston will no longer be appearing for Beyond Wrestling next month, but the promotion hopes that they’ll be able to reschedule his appearance before the end of 2026. The New England-based...",
-      "link": "https://www.f4wonline.com/news/aew/eddie-kingston-pulled-indie-date-cmll-commitment/",
-      "t": "4h",
-      "dt": "2026-07-24T13:10:51+00:00"
     }
   ]
 }

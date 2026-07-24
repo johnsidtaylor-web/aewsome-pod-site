@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-24T21:18:59.238911+00:00",
+  "updated": "2026-07-24T23:14:54.363675+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "AEW Dynamite (7/22) Viewership Declines, Show Finishes Fifth On Cable",
+      "p": "AEW Dynamite viewership and ratings information for the July 22 episode. Wrestlenomics reports that AEW Dynamite on July 22 drew 706,000 viewers on TBS. This number is down from the 786,000...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-7-22-viewership-declines-show-finishes-fifth-on-cable/",
+      "t": "20m",
+      "dt": "2026-07-24T22:54:45+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Thunder Rosa Not Expected To Continue As Part Of Busted Open Radio On SiriusXM",
+      "p": "AEW star Thunder Rosa is not expected to continue on \"Busted Open Radio\" after WWE and SiriusXM announced their new 24/7 WWE Radio channel.",
+      "link": "https://www.wrestlinginc.com/2222955/aew-thunder-rosa-busted-open-radio-siriusxm-wwe/",
+      "t": "49m",
+      "dt": "2026-07-24T22:25:25+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "Tony Khan says adding Redemption to AEW’s PPV lineup has been “additive” ahead of All In next month",
+      "p": "Tony Khan believes that adding Redemption to AEW’s PPV lineup ahead of the highly anticipated All In PPV next month has been additive. “Well, I think it’s been additive,” said Khan in response to...",
+      "link": "https://www.pwtorch.com/site/2026/07/24/tony-khan-says-adding-redemption-to-aews-ppv-lineup-has-been-additive-ahead-of-all-in-next-month/",
+      "t": "1h",
+      "dt": "2026-07-24T22:13:37+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite ratings down for July 22 episode",
+      "p": "Wednesday night’s episode of AEW Dynamite averaged 706,000 viewers on TBS, down 10.2 percent from the prior week. Following a couple of two-year highs, this is the lowest audience total for the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-down-for-july-22-episode/",
+      "t": "1h",
+      "dt": "2026-07-24T21:51:11+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Royce Keys addresses leaving AEW for WWE",
+      "p": "Leaving AEW for WWE wasn’t a difficult decision for Royce Keys. The former Powerhouse Hobbs got his TV start with AEW and was a TNT Champion and Trios Champion before departing the company for WWE...",
+      "link": "https://www.f4wonline.com/news/wwe/royce-keys-addresses-leaving-aew-for-wwe/",
+      "t": "1h",
+      "dt": "2026-07-24T21:39:30+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW's Mark Davis Comments On Expansion Into Singles Division As National Champion",
       "p": "AEW National Champion Mark Davis commented on his career transition from tag team star to singles division title holder.",
       "link": "https://www.wrestlinginc.com/2222913/aew-mark-davis-national-champion-expansion-singles-division/",
-      "t": "12m",
+      "t": "2h",
       "dt": "2026-07-24T21:06:52+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "Royce Keys Discusses Leaving AEW For WWE, Says There Were A Lot Of Personal Reasons Behind His AEW Exit That He Won’t Speak On",
       "p": "Royce Keys talks about his AEW exit and signing with WWE. Earlier this year, during the Royal Rumble event, Royce Keys made his debut in the company. He previously worked in AEW as Powerhouse...",
       "link": "https://www.fightful.com/wrestling-news/royce-keys-discusses-leaving-aew-for-wwe-says-there-were-a-lot-of-personal-reasons-behind-his-aew-exit-that-he-wont-speak-on/",
-      "t": "17m",
+      "t": "2h",
       "dt": "2026-07-24T21:00:52+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Kyle Fletcher Says He Is ‘Not Opposed’ To Working With Skye Blue As An On-Screen Couple",
       "p": "Kyle Fletcher comments on whether he and Skye Blue have thought about marriage. One of the behind-the-scenes couples in AEW today is Kyle Fletcher and Skye Blue, who first met each other during a...",
       "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-says-he-is-not-opposed-to-working-with-skye-blue-as-an-on-screen-couple/",
-      "t": "45m",
+      "t": "2h",
       "dt": "2026-07-24T20:32:54+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Tony Khan Comments On Recent AEW Absence Of Former World Champion Swerve Strickland",
       "p": "With former World Champion Swerve Strickland being absent from television, AEW CEO Tony Khan addresses his status with the company.",
       "link": "https://www.wrestlinginc.com/2222816/tony-khan-swerve-strickland-aew-absence/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-24T19:31:32+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Wrestling Weekly: Free agent frenzy & AEW Redemption picks",
       "p": "With a crop of free agents now contractually done with WWE, Les Thatcher and Vic Sosa talk on a new Wrestling Weekly about how many of them may find a home with AEW/ROH, TNA, or someplace else....",
       "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-free-agent-frenzy-aew-redemption-picks/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-24T18:00:00+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "PARKS’S TAKE: It was one glitch and miss and stumble after another in the AEW Dynamite main event, the final pitch for Redemption",
       "p": "Wednesday’s AEW Dynamite was the last chance AEW had to sell a large portion of its audience on a new pay-per-view, Redemption, taking place this Sunday. Much of the build on TV since Forbidden...",
       "link": "https://www.pwtorch.com/site/2026/07/24/parkss-take-it-was-one-glitch-and-miss-and-stumble-after-another-in-the-aew-dynamite-main-event-the-final-pitch-for-redemption/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-24T17:37:07+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "AEW's Tony Khan Comments On Current Glut Of Free Agents, Former WWE Stars",
       "p": "With a slew of former WWE wrestlers hitting free agency following their non-competes expiring, Tony Khan discussed the possibility of signing any of them.",
       "link": "https://www.wrestlinginc.com/2222675/aew-tony-khan-free-agents-former-wwe-stars/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-24T17:32:12+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kevin Knight Identifies What AEW Opponents Kenny Omega & Darby Allin Have In Common",
-      "p": "AEW TNT Champion Kevin Knight points out the similarities between his recent opponents, Kenny Omega and Darby Allin.",
-      "link": "https://www.wrestlinginc.com/2222670/aew-kevin-knight-kenny-omega-darby-allin-opponents-common/",
-      "t": "3h",
-      "dt": "2026-07-24T17:20:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "This is Tony Khan’s AEW and you’re just going to have to deal with it | Opinion",
-      "p": "I sometimes wonder what both the wrestling content industry and social media complaint industry would do without AEW. If you start up your modem and log on anywhere where fans congregate these...",
-      "link": "https://www.f4wonline.com/opinion/tony-khan-aew-fans-opinion/",
-      "t": "4h",
-      "dt": "2026-07-24T17:07:52+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Speedball Mike Bailey Recalls Fear Of Visa-Related Exile",
-      "p": "Speedball Mike Bailey reflected on his five year ban from the U.S. due to traveling into the country without a work visa in an interview with TMZ Sports.",
-      "link": "https://www.wrestlinginc.com/2222626/aew-speedball-mike-bailey-recalls-fear-vosa-related-exile/",
-      "t": "4h",
-      "dt": "2026-07-24T16:47:44+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Comments On Former World Champion MJF's Absence From AEW Revolution Card",
-      "p": "AEW CEO Tony Khan has revealed the reason behind MJF's absence from television ahead of this weekend's Redemption pay-per-view.",
-      "link": "https://www.wrestlinginc.com/2222356/tony-khan-mjf-absence-aew-revolution-card/",
-      "t": "5h",
-      "dt": "2026-07-24T16:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub results (7/23): Lio Rush vs. Oro for the ROH TV Title, Shane Taylor Promotions vs. SkyFlight, Komander vs. Tommy Billington",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (7/23): Lio Rush vs. Oro for the ROH TV Title, Shane Taylor Promotions vs. SkyFlight, Komander vs. Tommy Billington...",
-      "link": "https://prowrestling.net/site/2026/07/24/roh-on-honorclub-results-7-23-lio-rush-vs-oro-for-the-roh-tv-title-shane-taylor-promotions-vs-skyflight-komander-vs-tommy-billington/",
-      "t": "5h",
-      "dt": "2026-07-24T15:30:39+00:00"
     }
   ]
 }

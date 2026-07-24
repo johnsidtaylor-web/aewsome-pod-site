@@ -1,22 +1,46 @@
 {
-  "updated": "2026-07-24T14:09:01.523141+00:00",
+  "updated": "2026-07-24T15:42:20.309833+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Says AEW Women's Division Star Signed Contract Extension, Is Out Injured",
+      "p": "During the AEW Redemption media call, Tony Khan provided updates on several wrestlers. He revealed contract informations and injury updates.",
+      "link": "https://www.wrestlinginc.com/2222519/tony-khan-anna-jay-aew-contract-extension-injured/",
+      "t": "38m",
+      "dt": "2026-07-24T15:03:57+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan Comments On ROH Hall Of Fame, Says Athena Could Be Inducted",
+      "p": "AEW CEO Tony Khan has discussed the possibility of reviving the ROH Hall of Fame, which has had just one induction class since its launch in 2022.",
+      "link": "https://www.wrestlinginc.com/2222321/aew-tony-khan-roh-hall-of-fame-athena/",
+      "t": "1h",
+      "dt": "2026-07-24T14:30:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: AEW heads to Montreal for Redemption, NJPW & STARDOM continue tourneys & more!",
+      "p": "A preview of this weekend's top wrestling events on TV & streaming, including shows from AEW, WWE, NJPW, STARDOM and more! The post Weekend TV Guide: AEW heads to Montreal for Redemption, NJPW &...",
+      "link": "https://www.postwrestling.com/2026/07/24/weekend-tv-guide-aew-heads-to-montreal-for-redemption-njpw-stardom-continue-tourneys-more/",
+      "t": "1h",
+      "dt": "2026-07-24T14:24:14+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "July 27, 2026 Observer Newsletter: AEW Redemption preview, Grant vs. McMahon case winding down, Dave’s trip to Arena Mexico",
       "p": "Dave Meltzer has posted his new Wrestling Observer Newsletter for subscribers. Dave previews this weekend’s AEW Redemption on the way to next month’s All In from Wembley Stadium. He looks at the...",
       "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/won-dave-meltzer-aew-redemption-preview-arena-mexico/",
-      "t": "33m",
+      "t": "2h",
       "dt": "2026-07-24T13:35:42+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Tony Khan Comments On AEW Contract Status Of Sammy Guevara",
       "p": "AEW CEO Tony Khan has dismissed suggestions that Sammy Guevara is no longer part of the promotion following Guevara's recent social media post.",
       "link": "https://www.wrestlinginc.com/2222311/tony-khan-aew-sammy-guevara-contract-status/",
-      "t": "38m",
+      "t": "2h",
       "dt": "2026-07-24T13:30:00+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "AEW wrestler pulled from August indie date due to CMLL commitment",
       "p": "Eddie Kingston will no longer be appearing for Beyond Wrestling next month, but the promotion hopes that they’ll be able to reschedule his appearance before the end of 2026. The New England-based...",
       "link": "https://www.f4wonline.com/news/aew/eddie-kingston-pulled-indie-date-cmll-commitment/",
-      "t": "58m",
+      "t": "2h",
       "dt": "2026-07-24T13:10:51+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW Redemption 2026 Ticket Sales update for this weekend",
       "p": "AEW Redemption 2026 is set to take place this Sunday (July 26, 2026) at the Bell Centre in Montreal, Quebec, Canada. According the latest update from WrestleTix, 6,357 tickets have been...",
       "link": "https://www.f4wonline.com/news/aew/aew-redemption-2026-ticket-sales-update-for-this-weekend/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-24T11:16:28+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "AEW Redemption 2026 live stream: how to watch",
       "p": "AEW Redemption 2026 is set to take place on Sunday, July 26, 2026, at the Bell Centre in Montreal, Quebec, Canada, and there are a few different ways to watch the show depending on where you are....",
       "link": "https://www.f4wonline.com/event-guides/aew-redemption-2026-live-stream-how-to-watch/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-07-24T08:45:20+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Multiple names “waiting” to sign with AEW | Exclusive",
       "p": "The 90-day no compete clause for a number of released WWE stars has now expired. That means there will probably be somewhat of a hiring spree in the coming weeks, with AEW potentially going to be...",
       "link": "https://www.f4wonline.com/news/aew/aew-signings-wwe-releases-july-2026/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-24T07:37:13+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "07/23 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Redemption",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 07/23 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Redemption appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/24/07-23-prowrestling-net-free-podcast-aew-media-call-with-tony-khan-before-aew-redemption/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-07-24T06:13:55+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW REDEMPTION PPV PREVIEW: JB’s previews and predictions for Omega vs. Knight, Thekla vs. Nightingale, Fletcher vs. Bandido, Six-Way Ladder Match, more",
       "p": "Thekla (c) vs. Willow Nightingale – AEW Women’s World Championship Preview: This is the match that I believe has the most intrigue for the entire PPV. I could see either Thekla or Willow winning...",
       "link": "https://www.pwtorch.com/site/2026/07/24/aew-redemption-ppv-preview-jbs-previews-and-predictions-for-omega-vs-knight-thekla-vs-nightingale-fletcher-vs-bandido-six-way-ladder-match-more/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-07-24T06:02:09+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "VIP PODCAST 7/23 – The Fix Mailbag w/Todd & Wade (pt. 2 of 2): Lots on TNA’s history coming out of increased interest from Dark Side of the Ring, Umino concussion, Okada’s AEW role, James Storm, more (81 min.)",
       "p": "SHOW SUMMARY: In this week’s The Fix Mailbag with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they answer emails from VIP members on the following topics: What’s a good...",
       "link": "https://www.pwtorch.com/site/2026/07/24/vip-podcast-7-23-the-fix-mailbag-w-todd-wade-pt-2-of-2-lots-on-tnas-history-coming-out-of-increased-interest-from-dark-side-of-the-ring-umino-concussion-okadas-aew-role-james-st/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-07-24T05:12:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "B&V: AEW Dynamite go-home for Revolution, Vinny snaps on NXT",
-      "p": "The Bryan & Vinny Show is back with tons to talk about including a full recap of the go-home show for AEW Revolution, a good effort at trying to make people interested in a throw-away show, and...",
-      "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/bv-aew-dynamite-go-home-for-revolution-vinny-snaps-on-nxt/",
-      "t": "9h",
-      "dt": "2026-07-24T04:17:31+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW FEUD TRACKER: A look at the latest with Kenny Omega’s journey to Retribution as AEW Champion, Thekla-Willow dvew",
-      "p": "INTRO It’s a PPV week in AEW, but this one feels a little bit different. It doesn’t quite have the usual buzz, but more on that later. AEW is also on the road to All [...]",
-      "link": "https://www.pwtorch.com/site/2026/07/23/aew-feud-tracker-a-look-at-the-latest-with-kenny-omegas-journey-to-retribution-as-aew-champion-thekla-willow-dvew/",
-      "t": "9h",
-      "dt": "2026-07-24T04:16:08+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Says AEW Star Tay Melo Recently Requested Release, Plans To Give It To Her",
-      "p": "Tony Khan has confirmed that Tay Melo did in fact ask for her release, and he intends to make good on her request.",
-      "link": "https://www.wrestlinginc.com/2222283/tony-khan-aew-tay-melo-requested-released/",
-      "t": "11h",
-      "dt": "2026-07-24T02:27:49+00:00"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-25T18:07:16.688355+00:00",
+  "updated": "2026-07-25T19:32:16.872871+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,10 +13,34 @@
   "items": [
     {
       "src": "PWTorch",
+      "h": "NJPW G1 CLIMAX 36 – NIGHT 6 RESULTS: Tsuji vs. Takagi, Yuto-Ice vs. Oiwa, Great-O-Khan vs. Goto, Sanada vs. Jake Lee, Boltin Oleg vs. Takeshita",
+      "p": "NJPW G1 CLIMAX 36: NIGHT 6 REPORT JULY 25, 2026 TOKYO, JAPAN AT OTA KU EBARA WAVE ARENA AIRED LIVE ON NJPW WORLD REPORT BY RICH FANN II, PWTORCH COLUMNIST/ANALYST Commentator: Walker Stewart &...",
+      "link": "https://www.pwtorch.com/site/2026/07/25/njpw-g1-climax-36-night-6-results-tsuji-vs-takagi-yuto-ice-vs-oiwa-great-o-khan-vs-goto-sanada-vs-jake-lee-boltin-oleg-vs-takeshita/",
+      "t": "32m",
+      "dt": "2026-07-25T18:59:24+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Paramount agrees to pause Warner Bros. Discovery takeover amid legal challenge",
+      "p": "Paramount Skydance has agreed to delay its $110 billion acquisition of AEW media partner Warner Bros. Discovery while an antitrust challenge proceeds. The post Paramount agrees to pause Warner...",
+      "link": "https://www.postwrestling.com/2026/07/25/paramount-agrees-to-pause-warner-bros-discovery-takeover-amid-legal-challenge/",
+      "t": "36m",
+      "dt": "2026-07-25T18:55:26+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kyle Fletcher And Bandido Brawl At San Diego Comic Con Ahead Of AEW Redemption Match",
+      "p": "Ahead of his International Title defense at AEW Redemption, the champion Kyle Fletcher and his opponent Bandido threw hands at the San Diego Comic-Con on Friday.",
+      "link": "https://www.wrestlinginc.com/2223235/kyle-fletcher-bandido-brawl-san-diego-comic-con-aew-redemption/",
+      "t": "1h",
+      "dt": "2026-07-25T18:06:30+00:00"
+    },
+    {
+      "src": "PWTorch",
       "h": "FREE PODCAST 7/24 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner preview AEW Redemption and more + Tony Khan’s Media Q&A (153 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner preview Sunday’s AEW Redemption PPV and reflect back on the build from the...",
       "link": "https://www.pwtorch.com/site/2026/07/25/free-podcast-7-24-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-preview-aew-redemption-and-more-tony-khans-media-qa-153-min/",
-      "t": "6m",
+      "t": "1h",
       "dt": "2026-07-25T18:00:51+00:00"
     },
     {
@@ -24,23 +48,15 @@
       "h": "Mark Davis Plans To ‘Recompensate Himself’ Against Andrade El Idolo At AEW Redemption",
       "p": "Mark Davis plans to ‘recompensate himself’ against Andrade El Idolo at AEW Redemption where he defends his AEW National Championship. At AEW x NJPW Forbidden Door, Team Mark Briscoe and Team MJF...",
       "link": "https://www.fightful.com/wrestling-news/mark-davis-plans-to-recompensate-himself-against-andrade-el-idolo-at-aew-redemption/",
-      "t": "7m",
+      "t": "1h",
       "dt": "2026-07-25T18:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Wrestling REVOLVER Silence Of The Slams Results (7/24): Jon Moxley, Joseph Sawyer Compete",
-      "p": "Wrestling REVOLVER held its REVOLVER Silence of the Slams event on July 24 from Nashville, TN. The event aired on YouTube. Full results are below. Wrestling REVOLVER Silence Of The Slams Results...",
-      "link": "https://www.fightful.com/wrestling-news/wrestling-revolver-silence-of-the-slams-results-7-24-jon-moxley-joseph-sawyer-compete/",
-      "t": "56m",
-      "dt": "2026-07-25T17:10:31+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "NJPW “G1 Climax 36” results (7/25): Vetter’s review of Yota Tsuji vs. Shingo Takagi, Yuto-Ice vs. Ryohei Oiwa, Konosuke Takeshita vs. Boltin Oleg, Jake Lee vs. Sanada, Hirooki Goto vs. Great-O-Khan",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/25): Vetter’s review of Yota Tsuji vs. Shingo Takagi, Yuto-Ice vs. Ryohei Oiwa, Konosuke Takeshita vs....",
       "link": "https://prowrestling.net/site/2026/07/25/njpw-g1-climax-36-results-7-25-vetters-review-of-yota-tsuji-vs-shingo-takagi-yuto-ice-vs-ryohei-oiwa-konosuke-takeshita-vs-boltin-oleg-jake-lee-vs-sanada-hirooki-goto-vs-great-o-khan/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-25T17:04:18+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Wrestling Revolver “Silence of the Slams” results (7/24): Vetter’s review of Joseph Sawyer (f/k/a Joe Gacy) vs. Rich Swann, a top AEW star accepts an open challenge",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post Wrestling Revolver “Silence of the Slams” results (7/24): Vetter’s review of Joseph Sawyer (f/k/a Joe Gacy) vs. Rich Swann, a top AEW star...",
       "link": "https://prowrestling.net/site/2026/07/25/wrestling-revolver-silence-of-the-slams-results-7-24-vetters-review-of-joseph-sawyer-f-k-a-joe-gacy-vs-rich-swann-a-top-aew-star-accepts-an-open-challenge/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-25T16:57:11+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW Redemption preview & predictions: Slouching toward Wembley",
       "p": "Editor’s note: There are spoilers for Saturday’s AEW Collision in this post. Summer in professional wrestling means everything is pointed at something else. The summer is a runway, not a...",
       "link": "https://www.f4wonline.com/news/aew/aew-redemption-2026-preview-predictions-kenny-omega-will-ospreay/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-25T16:00:00+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "NJPW G1 Climax night six results, updated standings",
       "p": "The G1 Climax 36 continued on Saturday with a show at EBARA WAVE Arena in Tokyo. After four matches each, Konosuke Takeshita leads the pack with six points and a 3-1 record. Shingo Takagi sits at...",
       "link": "https://www.f4wonline.com/news/new-japan/new-japan-results/njpw-g1-climax-night-six-results-updated-standings/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-25T15:31:43+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Why AEW's Jeff Jarrett Says His Views On Dark Side Of The Ring Have Changed",
       "p": "WWE HOFer Jeff Jarrett changed his tune on Dark Side of the Ring, when he realized the program wasn't as exploitative as he assumed.",
       "link": "https://www.wrestlinginc.com/2219296/aew-jeff-jarrett-views-dark-side-of-the-ring-changed/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-25T14:30:00+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "NJPW G1 Climax 36 Night 6 Results: Konosuke Takeshita claims sole A Block lead",
       "p": "Konosuke Takeshita moved into sole possession of first place in A Block as the G1 Climax 36 reached Ota City on Saturday. The post NJPW G1 Climax 36 Night 6 Results: Konosuke Takeshita claims sole...",
       "link": "https://www.postwrestling.com/2026/07/25/njpw-g1-climax-36-night-6-results-konosuke-takeshita-claims-sole-a-block-lead/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-25T14:00:15+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "VIP 2006 BACK ISSUE – Pro Wrestling Torch #924 (July 22, 2006): Saturday Night’s Main Event ratings bomb, Orton challenges Hulk Hogan, Mitchell on WWE Shopzone clearance items, ROH Dragon Gate Challenge",
       "p": "SUMMARY of #924 cover-dated July 22, 2006: This issue includes a cover story on Saturday Night’s Main Event – the content, the ratings, and its future… The Top Five Stories of the Week… Pat...",
       "link": "https://www.pwtorch.com/site/2026/07/25/vip-2006-back-issue-pro-wrestling-torch-924-july-22-2006-saturday-nights-main-event-ratings-bomb-orton-challenges-hulk-hogan-mitchell-on-wwe-shopzone-clearance-items-roh-dragon-gat/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-07-25T13:00:47+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Redemption 2026 Predictions: Wrestling Inc. Picks The Winners",
-      "p": "AEW Redemption 2026 comes to you this weekend from the Bell Centre in Montreal, and as always, the Wrestling Inc. staff are here to predict the winners!",
-      "link": "https://www.wrestlinginc.com/2223062/aew-redemption-2026-predictions-winners/",
-      "t": "5h",
-      "dt": "2026-07-25T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jeff Jarrett Looks Back On Ric Flair's Last Match",
-      "p": "AEW star Jeff Jarrett has discussed Ric Flair's final match, arguing that fans' expectations exceeded what he and Flair could deliver in the ring.",
-      "link": "https://www.wrestlinginc.com/2218459/aew-jeff-jarrett-ric-flair-last-match/",
-      "t": "5h",
-      "dt": "2026-07-25T13:00:00+00:00"
     }
   ]
 }

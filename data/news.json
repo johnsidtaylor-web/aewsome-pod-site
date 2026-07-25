@@ -1,22 +1,46 @@
 {
-  "updated": "2026-07-25T13:59:23.351956+00:00",
+  "updated": "2026-07-25T15:17:43.963963+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Charli XCX Uses MJF Meme To Put Herself Over",
+      "p": "Charli XCX is better than you. Over the last month, MJF has become a meme as influencers and social media posters have used his compliments of his wife Alicia Atout in videos where they are...",
+      "link": "https://www.fightful.com/wrestling-news/charli-xcx-uses-mjf-meme-to-put-herself-over/",
+      "t": "20m",
+      "dt": "2026-07-25T14:57:28+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kyle Fletcher: To Me, The More Pay-Per-Views, The Better",
+      "p": "Kyle Fletcher discusses more PPVs being added to the AEW pay-per-view schedule, noting that for him, the more the better. In recent years, Fletcher has been one of AEW’s top rising stars and as...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-to-me-the-more-pay-per-views-the-better/",
+      "t": "37m",
+      "dt": "2026-07-25T14:40:16+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "NJPW G1 Climax 36 Night 6 Results: Konosuke Takeshita claims sole A Block lead",
+      "p": "Konosuke Takeshita moved into sole possession of first place in A Block as the G1 Climax 36 reached Ota City on Saturday. The post NJPW G1 Climax 36 Night 6 Results: Konosuke Takeshita claims sole...",
+      "link": "https://www.postwrestling.com/2026/07/25/njpw-g1-climax-36-night-6-results-konosuke-takeshita-claims-sole-a-block-lead/",
+      "t": "1h",
+      "dt": "2026-07-25T14:00:15+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "VIP 2006 BACK ISSUE – Pro Wrestling Torch #924 (July 22, 2006): Saturday Night’s Main Event ratings bomb, Orton challenges Hulk Hogan, Mitchell on WWE Shopzone clearance items, ROH Dragon Gate Challenge",
       "p": "SUMMARY of #924 cover-dated July 22, 2006: This issue includes a cover story on Saturday Night’s Main Event – the content, the ratings, and its future… The Top Five Stories of the Week… Pat...",
       "link": "https://www.pwtorch.com/site/2026/07/25/vip-2006-back-issue-pro-wrestling-torch-924-july-22-2006-saturday-nights-main-event-ratings-bomb-orton-challenges-hulk-hogan-mitchell-on-wwe-shopzone-clearance-items-roh-dragon-gat/",
-      "t": "58m",
+      "t": "2h",
       "dt": "2026-07-25T13:00:47+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "AEW Redemption 2026 Predictions: Wrestling Inc. Picks The Winners",
       "p": "AEW Redemption 2026 comes to you this weekend from the Bell Centre in Montreal, and as always, the Wrestling Inc. staff are here to predict the winners!",
       "link": "https://www.wrestlinginc.com/2223062/aew-redemption-2026-predictions-winners/",
-      "t": "59m",
+      "t": "2h",
       "dt": "2026-07-25T13:00:00+00:00"
     },
     {
@@ -32,23 +56,15 @@
       "h": "AEW's Jeff Jarrett Looks Back On Ric Flair's Last Match",
       "p": "AEW star Jeff Jarrett has discussed Ric Flair's final match, arguing that fans' expectations exceeded what he and Flair could deliver in the ring.",
       "link": "https://www.wrestlinginc.com/2218459/aew-jeff-jarrett-ric-flair-last-match/",
-      "t": "59m",
+      "t": "2h",
       "dt": "2026-07-25T13:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Preview, Start Time, How To Watch, Location (7/25)",
-      "p": "Viewing information and lineup for AEW Collision on July 25, 2026 AEW Collision (July 25, 2026) Venue: The Pinnacle City: Nashville, TN Time: 8 pm ET Channel: TNT, HBO Max Lineup Hikaru Shida &...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-7-25/",
-      "t": "1h",
-      "dt": "2026-07-25T12:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision lineup: Tonight’s Redemption go-home show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Tonight’s Redemption go-home show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/25/aew-collision-lineup-tonights-redemption-go-home-show/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-25T11:00:40+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW's Thunder Rosa Says Goodbye To Busted Open Radio Following WWE Deal With SiriusXM",
       "p": "Following the news that WWE and SiriusXM are partnering up to create \"WWE Radio,\" AEW's Thunder Rosa has bid farewell to Busted Open Radio.",
       "link": "https://www.wrestlinginc.com/2223078/aew-thunder-rosa-goodbye-busted-open-radio-wwe-siriusxm/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-07-25T03:07:51+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW Dynamite Viewership & Ratings Report, 7/22/2026",
       "p": "With AEW Redemption 2026 on the horizon, the most recent episode of \"AEW Dynamite\" took a slight dip in the TV ratings.",
       "link": "https://www.wrestlinginc.com/2223050/aew-dynamite-viewership-ratings-report-july-22-2026/",
-      "t": "11h",
+      "t": "12h",
       "dt": "2026-07-25T02:40:15+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "AEW’s Kyle Fletcher: ‘I’m not a finished product’",
       "p": "Kyle Fletcher entered AEW as one-half of a midcard tag team in 2022. Four years later, he’s a decorated singles champion and a key figure in the promotion’s top heel faction. But that doesn’t mean...",
       "link": "https://www.f4wonline.com/news/aew/aews-kyle-fletcher-im-not-a-finished-product/",
-      "t": "13h",
+      "t": "14h",
       "dt": "2026-07-25T00:55:07+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "REVPRO WOMEN’S GRAND PRIX 2026 PREVIEW: Shayna Baszler and Zoey Stark to compete in this eight-woman field, a look at every participant",
       "p": "Revolution Pro Wrestling will be holding the 2026 Women’s Grand Prix over two shows this Saturday, July 25. While not explicitly stated, the current implication is that the winner of the...",
       "link": "https://www.pwtorch.com/site/2026/07/24/revpro-womens-grand-prix-2026-preview-shayna-baszler-and-zoey-stark-to-compete-in-this-eight-woman-field-a-look-at-every-participant/",
-      "t": "14h",
+      "t": "15h",
       "dt": "2026-07-24T23:42:48+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "AEW Dynamite rating: Were the numbers up for the final episode before Redemption?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: Were the numbers up for the final episode before Redemption? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/24/aew-dynamite-rating-were-the-numbers-up-for-the-final-episode-before-redemption/",
-      "t": "14h",
-      "dt": "2026-07-24T23:25:09+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "At Least Seven Free Agents Reportedly 'Waiting' To Be Signed By AEW",
-      "p": "According to new reports, at least seven free agents free from their WWE non-compete clauses are \"waiting\" to be signed by AEW.",
-      "link": "https://www.wrestlinginc.com/2222989/aew-seven-free-agents-waiting-signed/",
-      "t": "14h",
-      "dt": "2026-07-24T23:21:14+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Thunder Rosa Not Expected To Continue As Part Of Busted Open Radio On SiriusXM",
-      "p": "AEW star Thunder Rosa is not expected to continue on \"Busted Open Radio\" after WWE and SiriusXM announced their new 24/7 WWE Radio channel.",
-      "link": "https://www.wrestlinginc.com/2222955/aew-thunder-rosa-busted-open-radio-siriusxm-wwe/",
       "t": "15h",
-      "dt": "2026-07-24T22:25:25+00:00"
+      "dt": "2026-07-24T23:25:09+00:00"
     }
   ]
 }

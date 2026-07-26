@@ -1,22 +1,78 @@
 {
-  "updated": "2026-07-26T22:10:46.501298+00:00",
+  "updated": "2026-07-26T23:10:25.525430+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "AEW REDEMPTION PPV RESULTS (7/26): Keller’s report on Omega vs. Knight, Thekla vs. Nightingale, Fletcher vs. Bandido, Six-Way Ladder Match, more",
+      "p": "AEW REDEMPTION PPV JULY 26, 2026 MONTREAL, QUEBEC, CANADA AIRED LIVE ON PPV (including PPV.com) Commentators: Excalibur, Tony Schiavone, Nigel McGuinness Ring Announcer: Justin Roberts JOIN US...",
+      "link": "https://www.pwtorch.com/site/2026/07/26/aew-redemption-ppv-results-7-26-kellers-report-on-omega-vs-knight-thekla-vs-nightingale-fletcher-vs-bandido-six-way-ladder-match-more/",
+      "t": "9m",
+      "dt": "2026-07-26T23:01:15+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Conglomeration Retains AEW Trios Title Against Lethal Twist On Redemption Buy-In",
+      "p": "The Conglomeration are still AEW World Trios Champions with a victory over the Lethal Twist on the AEW Redemption Buy-In.",
+      "link": "https://www.wrestlinginc.com/2223694/aew-redemption-2026-buy-in-conglomeration-lethal-twist-retains-trios-title/",
+      "t": "10m",
+      "dt": "2026-07-26T22:59:32+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Redemption 2026 Buy In Results: The Conglomeration turn back Lethal Twist in trios title bout",
+      "p": "AEW's first-ever Redemption event got started with a fast-paced trios title showdown between The Conglomeration and the Lethal Twist. The post AEW Redemption 2026 Buy In Results: The...",
+      "link": "https://www.postwrestling.com/2026/07/26/aew-redemption-2026-buy-in-results-the-conglomeration-turn-back-lethal-twist-in-trios-title-bout/",
+      "t": "11m",
+      "dt": "2026-07-26T22:59:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "The Conglomeration Retains AEW Trios Titles At AEW Redemption Buy In",
+      "p": "The Conglomeration remains the top trio in AEW. During the AEW Redemption Buy In, the Conglomeration (Roderick Strong, Kyle O’Reilly, & Orange Cassidy) retained the AEW Trios Championships,...",
+      "link": "https://www.fightful.com/wrestling-news/the-conglomeration-retains-aew-trios-titles-at-aew-redemption-buy-in/",
+      "t": "19m",
+      "dt": "2026-07-26T22:50:59+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Anna Jay Says She Doesn’t Know Extent Of Shoulder Injury: “I’m Going To A Few Doctors Right Now Just To Get Everything Checked Out”",
+      "p": "Anna Jay confirms the injury. During the pre-AEW Redemption media call, company President Tony Khan stated that Anna Jay was out with a shoulder injury. Jay confirmed that during her Twitch stream...",
+      "link": "https://www.fightful.com/wrestling-news/anna-jay-says-she-doesnt-know-extent-of-shoulder-injury-im-going-to-a-few-doctors-right-now-just-to-get-everything-checked-out/",
+      "t": "27m",
+      "dt": "2026-07-26T22:43:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Rougeau Family Honored At AEW Redemption, Take Out Rocky Romero",
+      "p": "All Elite Wrestling honored the Rougeau family during the AEW Redemption Buy In show. Jacques Rougeau (also known as The Mountie in WWE) and Ray Rougeau were presented by “Daddy Magic” Matt Menard...",
+      "link": "https://www.fightful.com/wrestling-news/rougeau-family-honored-at-aew-redemption-take-out-rocky-romero/",
+      "t": "33m",
+      "dt": "2026-07-26T22:37:12+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Redemption results: Powell’s live review of Kenny Omega vs. Kevin Knight for the AEW World Championship, Will Ospreay and Jon Moxley vs. The Young Bucks",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption results: Powell’s live review of Kenny Omega vs. Kevin Knight for the AEW World Championship, Will Ospreay and Jon Moxley vs....",
+      "link": "https://prowrestling.net/site/2026/07/26/aew-redemption-results-powells-live-review-of-kenny-omega-vs-kevin-knight-for-the-aew-world-championship-will-ospreay-and-jon-moxley-vs-the-young-bucks/",
+      "t": "50m",
+      "dt": "2026-07-26T22:20:19+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Watch: AEW Redemption: The Buy In Pre Show 6pm ET / 3pm PT Sunday, July 26, 2026",
       "p": "Watch: AEW Redemption: The Buy In Pre Show 6pm ET / 3pm PT Sunday, July 26, 2026 The post Watch: AEW Redemption: The Buy In Pre Show 6pm ET / 3pm PT Sunday, July 26, 2026 appeared first on...",
       "link": "https://www.fightful.com/wrestling-news/watch-aew-redemption-the-buy-in-pre-show-6pm-et-3pm-pt-sunday-july-26-2026/",
-      "t": "2m",
+      "t": "1h",
       "dt": "2026-07-26T22:08:16+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "AEW Redemption Results 7/26 - Six Championships On The Line, Double Chain Match & More",
       "p": "This is Wrestling Inc.'s live coverage for AEW Redemption 2026, with six championships set to be defended including Kenny Omega's AEW World Championship!",
       "link": "https://www.wrestlinginc.com/2223102/aew-redemption-2026-six-championships-on-line-double-chain-match-more/",
-      "t": "10m",
+      "t": "1h",
       "dt": "2026-07-26T22:00:00+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "Daily Update: AEW Redemption preview, other weekend notes",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Sunday Update — Our...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-redemption-preview-other-weekend-notes/",
-      "t": "37m",
+      "t": "1h",
       "dt": "2026-07-26T21:32:45+00:00"
     },
     {
@@ -40,7 +96,7 @@
       "h": "AEW Redemption live results: Kenny Omega vs. Kevin Knight",
       "p": "AEW heads to Montreal, Quebec, Canada, for tonight’s first-ever AEW Redemption pay-per-view with an earlier start time. AEW World Champion Kenny Omega defends against TNT Champion Kevin Knight in...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-redemption-live-results-kenny-omega-vs-kevin-knight/",
-      "t": "40m",
+      "t": "1h",
       "dt": "2026-07-26T21:30:00+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "AEW Redemption pre-show results: Orange Cassidy, Roderick Strong, and Kyle O’Reilly vs. Jay Lethal, Blake Christian, and Lee Johnson for the AEW Trios Titles",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption pre-show results: Orange Cassidy, Roderick Strong, and Kyle O’Reilly vs. Jay Lethal, Blake Christian, and Lee Johnson for the...",
       "link": "https://prowrestling.net/site/2026/07/26/aew-redemption-pre-show-results-orange-cassidy-roderick-strong-and-kyle-oreilly-vs-jay-lethal-blake-christian-and-lee-johnson-for-the-aew-trios-titles/",
-      "t": "55m",
+      "t": "1h",
       "dt": "2026-07-26T21:15:31+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 7/26 – PWTorch Dailycast – Best of PWTorch Livecast: 5 Yrs Ago – Analysis of CM Punk and Daniel Bryan signing with AEW, Nick Gage vs. Jericho in wild main event, more with Mike & Andrew (159 min.)",
-      "p": "SHOW SUMMARY: Today we jump back five years to the July 21, 2021 episode of the All Elite Aftershow with PWTorch’s Mike McMahon and Andrew Soucek talking about the potential of both CM Punk and [...]",
-      "link": "https://www.pwtorch.com/site/2026/07/26/free-podcast-7-26-pwtorch-dailycast-best-of-pwtorch-livecast-5-yrs-ago-analysis-of-cm-punk-and-daniel-bryan-signing-with-aew-nick-gage-vs-jericho-in-wild-main-event-more-with/",
-      "t": "2h",
-      "dt": "2026-07-26T20:04:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: Your final AEW Redemption preview, picks & predictions",
-      "p": "With just a few hours to go, Josh Nason is posting an early edition of Wrestling Observer Live Sunday with a nearly sole focus on tonight’s AEW Redemption. From Kenny Omega defending the AEW World...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-final-aew-redemption-preview-picks-predictions/",
-      "t": "2h",
-      "dt": "2026-07-26T19:32:17+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Explains How Vince McMahon Inspired Name Of Recurring AEW Event",
-      "p": "AEW owner Tony Khan explains how disgraced WWE chairman Vince McMahon accidentally inspired the name of one of AEW's recurring television events",
-      "link": "https://www.wrestlinginc.com/2221363/aew-blood-guts-tony-khan-vince-mcmahon-inspired-name/",
-      "t": "3h",
-      "dt": "2026-07-26T19:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "MLP's Scott D'Amore Talks Relationship With AEW President Tony Khan",
-      "p": "Current MLP President Scott D'Amore describes his relationship with AEW President Tony Khan post-TNA exit.",
-      "link": "https://www.wrestlinginc.com/2223545/aew-mlp-scott-damore-tony-khan-relationship/",
-      "t": "4h",
-      "dt": "2026-07-26T18:03:58+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW’s Anna Jay provides update on recent injury",
-      "p": "Anna Jay has confirmed that she is currently out with a shoulder injury. AEW President Tony Khan noted during the Redemption media call this week that the 28-year-old had re-signed with the...",
-      "link": "https://www.f4wonline.com/news/aew/aews-anna-jay-provides-update-on-recent-injury/",
-      "t": "4h",
-      "dt": "2026-07-26T17:57:23+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Scorpio Sky Comments On Current AEW Role, Contract Ending",
-      "p": "Former TNT Champion Scorpio Sky addresses his current role in SkyFlight and the reports of his AEW contract ending soon.",
-      "link": "https://www.wrestlinginc.com/2223509/aew-scorpio-sky-role-contract-ending/",
-      "t": "4h",
-      "dt": "2026-07-26T17:23:47+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE HOFer JBL Celebrates AAA Success Amidst AEW Counterprogramming",
-      "p": "Once working partners, AEW and AAA will face-off in opposition this September as part of a massive wrestling weekend in Chicago. JBL weighs in on how important this is for AAA.",
-      "link": "https://www.wrestlinginc.com/2223490/wwe-hofer-jbl-celebrates-aaa-success-aew-counterprogramming/",
-      "t": "5h",
-      "dt": "2026-07-26T16:48:27+00:00"
     }
   ]
 }

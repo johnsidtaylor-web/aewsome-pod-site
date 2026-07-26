@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T23:09:45.635536+00:00",
+  "updated": "2026-07-26T00:11:33.552313+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision results (7/25): Powell’s live review of Thekla and Hikaru Shida vs. Willow Nightingale and Maya World, final qualifying matches for the ladder match at AEW Redemption",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision results (7/25): Powell’s live review of Thekla and Hikaru Shida vs. Willow Nightingale and Maya World, final qualifying matches...",
+      "link": "https://prowrestling.net/site/2026/07/25/aew-collision-results-7-25-powells-live-review-of-thekla-and-hikaru-shida-vs-willow-nightingale-and-maya-world-final-qualifying-matches-for-the-ladder-match-at-aew-redemption/",
+      "t": "41m",
+      "dt": "2026-07-25T23:30:15+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "AEW Collision live results: Redemption go-home show",
       "p": "AEW Collision is the go-home show before Sunday’s Redemption pay-per-view in Montreal. In tag team action, Maya World and Willow Nightingale will team up against AEW Women’s World Champion Thekla...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-redemption-go-home-show/",
-      "t": "4m",
+      "t": "1h",
       "dt": "2026-07-25T23:05:00+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW Collision Results 7/25 - Two Ladder Match Qualifiers, Trios Titles On The Line",
       "p": "It's AEW Redemption Eve and there's two qualifying matches to determine the final competitors in the 6-Way ladder match at the PPV.",
       "link": "https://www.wrestlinginc.com/2223339/aew-collision-july-25-results/",
-      "t": "9m",
+      "t": "1h",
       "dt": "2026-07-25T22:59:48+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Tay Melo posts cryptic video amid AEW release reports",
       "p": "Tay Melo made some comments recently on Instagram that many are taking as an analogy for her current situation with AEW. During the AEW Redemption media call on Thursday, Tony Khan stated that...",
       "link": "https://www.f4wonline.com/news/aew/tay-melo-posts-cryptic-video-amid-aew-release-reports/",
-      "t": "46m",
+      "t": "1h",
       "dt": "2026-07-25T22:23:31+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "AEW's Billy Gunn Reflects On Billy & Chuck Controversy",
       "p": "Billy Gunn was part of one of WWE's most controversial gimmicks, which was first praised by GLAAD, and then denounced by the same organization.",
       "link": "https://www.wrestlinginc.com/2220412/aew-billy-gunn-reflects-billy-chuck-controversy/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-25T21:00:00+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "NJPW G1 CLIMAX 36 – NIGHT 6 RESULTS: Tsuji vs. Takagi, Yuto-Ice vs. Oiwa, Great-O-Khan vs. Goto, Sanada vs. Jake Lee, Boltin Oleg vs. Takeshita",
       "p": "NJPW G1 CLIMAX 36: NIGHT 6 REPORT JULY 25, 2026 TOKYO, JAPAN AT OTA KU EBARA WAVE ARENA AIRED LIVE ON NJPW WORLD REPORT BY RICH FANN II, PWTORCH COLUMNIST/ANALYST Commentator: Walker Stewart &...",
       "link": "https://www.pwtorch.com/site/2026/07/25/njpw-g1-climax-36-night-6-results-tsuji-vs-takagi-yuto-ice-vs-oiwa-great-o-khan-vs-goto-sanada-vs-jake-lee-boltin-oleg-vs-takeshita/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-25T18:59:24+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Paramount agrees to pause Warner Bros. Discovery takeover amid legal challenge",
       "p": "Paramount Skydance has agreed to delay its $110 billion acquisition of AEW media partner Warner Bros. Discovery while an antitrust challenge proceeds. The post Paramount agrees to pause Warner...",
       "link": "https://www.postwrestling.com/2026/07/25/paramount-agrees-to-pause-warner-bros-discovery-takeover-amid-legal-challenge/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-25T18:55:26+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Kyle Fletcher And Bandido Brawl At San Diego Comic Con Ahead Of AEW Redemption Match",
       "p": "Ahead of his International Title defense at AEW Redemption, the champion Kyle Fletcher and his opponent Bandido threw hands at the San Diego Comic-Con on Friday.",
       "link": "https://www.wrestlinginc.com/2223235/kyle-fletcher-bandido-brawl-san-diego-comic-con-aew-redemption/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-07-25T18:06:30+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "FREE PODCAST 7/24 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner preview AEW Redemption and more + Tony Khan’s Media Q&A (153 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner preview Sunday’s AEW Redemption PPV and reflect back on the build from the...",
       "link": "https://www.pwtorch.com/site/2026/07/25/free-podcast-7-24-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-preview-aew-redemption-and-more-tony-khans-media-qa-153-min/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-07-25T18:00:51+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "NJPW “G1 Climax 36” results (7/25): Vetter’s review of Yota Tsuji vs. Shingo Takagi, Yuto-Ice vs. Ryohei Oiwa, Konosuke Takeshita vs. Boltin Oleg, Jake Lee vs. Sanada, Hirooki Goto vs. Great-O-Khan",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/25): Vetter’s review of Yota Tsuji vs. Shingo Takagi, Yuto-Ice vs. Ryohei Oiwa, Konosuke Takeshita vs....",
       "link": "https://prowrestling.net/site/2026/07/25/njpw-g1-climax-36-results-7-25-vetters-review-of-yota-tsuji-vs-shingo-takagi-yuto-ice-vs-ryohei-oiwa-konosuke-takeshita-vs-boltin-oleg-jake-lee-vs-sanada-hirooki-goto-vs-great-o-khan/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-07-25T17:04:18+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "Wrestling Revolver “Silence of the Slams” results (7/24): Vetter’s review of Joseph Sawyer (f/k/a Joe Gacy) vs. Rich Swann, a top AEW star accepts an open challenge",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post Wrestling Revolver “Silence of the Slams” results (7/24): Vetter’s review of Joseph Sawyer (f/k/a Joe Gacy) vs. Rich Swann, a top AEW star...",
       "link": "https://prowrestling.net/site/2026/07/25/wrestling-revolver-silence-of-the-slams-results-7-24-vetters-review-of-joseph-sawyer-f-k-a-joe-gacy-vs-rich-swann-a-top-aew-star-accepts-an-open-challenge/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-07-25T16:57:11+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW Redemption preview & predictions: Slouching toward Wembley",
       "p": "Editor’s note: There are spoilers for Saturday’s AEW Collision in this post. Summer in professional wrestling means everything is pointed at something else. The summer is a runway, not a...",
       "link": "https://www.f4wonline.com/news/aew/aew-redemption-2026-preview-predictions-kenny-omega-will-ospreay/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-07-25T16:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "NJPW G1 Climax night six results, updated standings",
-      "p": "The G1 Climax 36 continued on Saturday with a show at EBARA WAVE Arena in Tokyo. After four matches each, Konosuke Takeshita leads the pack with six points and a 3-1 record. Shingo Takagi sits at...",
-      "link": "https://www.f4wonline.com/news/new-japan/new-japan-results/njpw-g1-climax-night-six-results-updated-standings/",
-      "t": "7h",
-      "dt": "2026-07-25T15:31:43+00:00"
     }
   ]
 }

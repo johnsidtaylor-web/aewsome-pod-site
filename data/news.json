@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T09:21:48.511694+00:00",
+  "updated": "2026-07-26T11:35:52.046768+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "AEW Redemption 2026 Preview, Start Time, How To Watch, Location (7/26)",
+      "p": "Viewing information and lineup for AEW Redemption on July 26, 2026 AEW Redemption (July 26, 2026) Venue: Bell Centre City: Montreal, Quebec, Canada Time: 7 pm ET Channel: HBO Max, PPV, MyAEW...",
+      "link": "https://www.fightful.com/wrestling-news/aew-redemption-2026-preview-start-time-how-to-watch-location-7-26/",
+      "t": "35m",
+      "dt": "2026-07-26T11:00:00+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW Redemption lineup (Live Coverage Tonight): The full card for tonight’s pay-per-view card",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup (Live Coverage Tonight): The full card for tonight’s pay-per-view card appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/26/aew-redemption-lineup-live-coverage-tonight-the-full-card-for-tonights-pay-per-view-card/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-26T06:00:39+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW COLLISION RESULTS (7/25): Willow & Maya vs. Shida & Thekla, Young Bucks vs. Death Riders, Nick Wayne vs. AR Fox, Ciampa in action, and more",
       "p": "AEW COLLISION REPORT JULY 25, 2026 (recorded 7/22) NASHVILLE, TENN. AT THE PINNACLE AIRED ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel...",
       "link": "https://www.pwtorch.com/site/2026/07/25/aew-collision-results-7-25-willow-maya-vs-shida-thekla-young-bucks-vs-death-riders-nick-wayne-vs-ar-fox-ciampa-in-action-and-more/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-07-26T03:55:32+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "07/25 Powell’s AEW Collision audio review: Thekla and Hikaru Shida vs. Willow Nightingale and Maya World, final qualifying matches for the ladder match at AEW Redemption",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 07/25 Powell’s AEW Collision audio review: Thekla and Hikaru Shida vs. Willow Nightingale and Maya World, final qualifying matches for the...",
       "link": "https://prowrestling.net/site/2026/07/25/07-25-powells-aew-collision-audio-review-thekla-and-hikaru-shida-vs-willow-nightingale-and-maya-world-final-qualifying-matches-for-the-ladder-match-at-aew-redemption/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-07-26T03:49:05+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Matt Hardy questions major AEW Redemption decision",
       "p": "TNA World Tag Team Champion Matt Hardy recently questioned AEW for removing a major title match from the PPV. A few weeks ago, Kenny Omega defeated MJF to become the new AEW World Champion....",
       "link": "https://www.f4wonline.com/news/aew/matt-hardy-questions-major-aew-redemption-decision/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-07-26T03:40:24+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Trios title match announced for AEW Redemption",
       "p": "The AEW World Trios Championships are going to be on line at AEW Redemption. On the July 25 episode of AEW Collision, The Conglomeration (Orange Cassidy, Kyle O’Reilly, and Roderick Strong)...",
       "link": "https://www.f4wonline.com/news/aew/trios-title-match-announced-for-aew-redemption/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-26T02:53:29+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW Collision 7/25 Results: Nick Wayne and El Clon qualify for ladder match, Ospreay and Moxley attack the Young Bucks",
       "p": "Nick Wayne and El Clon claimed the final two places in the six-way ladder match during Saturday’s AEW Collision from The Pinnacle in Nashville. The post AEW Collision 7/25 Results: Nick Wayne and...",
       "link": "https://www.postwrestling.com/2026/07/25/aew-collision-7-25-results-nick-wayne-and-el-clon-qualify-for-ladder-match-ospreay-and-moxley-attack-young-bucks/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-26T02:45:02+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Final two wrestlers qualify for ladder match at AEW Redemption",
       "p": "The final two wrestlers for the AEW Redemption ladder match are now confirmed. On the July 25 episode of AEW Collision, Nick Wayne and El Clon became the last two wrestlers to qualify for the PPV...",
       "link": "https://www.f4wonline.com/news/aew/final-two-wrestlers-qualify-for-ladder-match-at-aew-redemption/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-26T02:36:41+00:00"
     },
     {
@@ -72,23 +80,15 @@
       "h": "Redemption Go-Home: AEW Collision 7/25/26 Review | COLLISION COURSE",
       "p": "Jey Lacey joins Kate from MTL to review the final AEW Collision before Redemption. Featuring Willow/World vs Thekla/Shida, Trios title match, Intl Ladder Match Qualifiers. The post Redemption...",
       "link": "https://www.postwrestling.com/2026/07/25/aew-collision-7-25-26-review-collision-course/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-07-26T02:15:56+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "The Conglomeration Vs. The Lethal Twist Set For AEW World Trios Championship Match At AEW Redemption Buy In",
-      "p": "The Conglomeration vs. The Lethal Twist will battle for the AEW World Trios Championship at AEW Redemption. On the 7/25 AEW Collision, The Conglomeration (Orange Cassidy, Kyle O’Reilly, and...",
-      "link": "https://www.fightful.com/wrestling-news/the-conglomeration-vs-the-lethal-twist-set-for-aew-world-trios-championship-match-at-aew-redemption-buy-in/",
-      "t": "7h",
-      "dt": "2026-07-26T02:09:22+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Collision live results: Redemption go-home show",
       "p": "AEW Collision is the go-home show before Sunday’s Redemption pay-per-view in Montreal. In tag team action, Maya World and Willow Nightingale will team up against AEW Women’s World Champion Thekla...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-redemption-go-home-show/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-07-25T23:05:00+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "AEW Collision Results 7/25 - Two Ladder Match Qualifiers, Trios Titles On The Line",
       "p": "It's AEW Redemption Eve and there's two qualifying matches to determine the final competitors in the 6-Way ladder match at the PPV.",
       "link": "https://www.wrestlinginc.com/2223339/aew-collision-july-25-results/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-07-25T22:59:48+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Tay Melo posts cryptic video amid AEW release reports",
       "p": "Tay Melo made some comments recently on Instagram that many are taking as an analogy for her current situation with AEW. During the AEW Redemption media call on Thursday, Tony Khan stated that...",
       "link": "https://www.f4wonline.com/news/aew/tay-melo-posts-cryptic-video-amid-aew-release-reports/",
-      "t": "10h",
+      "t": "13h",
       "dt": "2026-07-25T22:23:31+00:00"
     }
   ]

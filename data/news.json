@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-26T15:18:35.898580+00:00",
+  "updated": "2026-07-26T17:13:28.952403+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "WWE HOFer JBL Celebrates AAA Success Amidst AEW Counterprogramming",
+      "p": "Once working partners, AEW and AAA will face-off in opposition this September as part of a massive wrestling weekend in Chicago. JBL weighs in on how important this is for AAA.",
+      "link": "https://www.wrestlinginc.com/2223490/wwe-hofer-jbl-celebrates-aaa-success-aew-counterprogramming/",
+      "t": "24m",
+      "dt": "2026-07-26T16:48:27+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Willow Nightingale Reveals She Has Been Battling Depression For The Past Year",
       "p": "Willow Nightingale has shared that she has been battling depression for the past year and how it’s been difficult to keep a smile on her face. At AEW Redemption later tonight, Willow Nightingale...",
       "link": "https://www.fightful.com/wrestling-news/willow-nightingale-reveals-she-has-been-battling-depression-for-the-past-year/",
-      "t": "18m",
+      "t": "2h",
       "dt": "2026-07-26T15:00:06+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Tommaso Ciampa: The AEW Roster Is Better Than Any Roster That’s Ever Been Assembled In Professional Wrestling",
       "p": "Tommaso Ciampa believes that the current AEW roster is better than any roster that’s ever been assembled in professional wrestling. Ciampa has faced off with some of the top stars in AEW already...",
       "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-the-aew-roster-is-better-than-any-roster-thats-ever-been-assembled-in-professional-wrestling/",
-      "t": "36m",
+      "t": "2h",
       "dt": "2026-07-26T14:42:09+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Breaking Down The Belts: Kenny Omega's AEW World Championship",
       "p": "A closer look at the possible contenders to Kenny Omega's AEW World Championship.",
       "link": "https://www.wrestlinginc.com/2223438/breaking-down-belts-kenny-omega-aew-world-championship-opinion/",
-      "t": "53m",
+      "t": "2h",
       "dt": "2026-07-26T14:25:19+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Thekla: Willow Nightingale Isn’t Just A Dumb Bitch, She’s Actually Pretty Smart For A Dumb Bitch",
       "p": "Thekla discusses her upcoming AEW Women’s World Title title defense against Willow Nightingale later tonight at AEW Redemption. Willow Nightingale recently returned to the ring after suffering a...",
       "link": "https://www.fightful.com/wrestling-news/thekla-willow-nightingale-isnt-just-a-dumb-bitch-shes-actually-pretty-smart-for-a-dumb-bitch/",
-      "t": "56m",
+      "t": "2h",
       "dt": "2026-07-26T14:21:42+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW Redemption 2026 ticket distribution update for tonight’s show",
       "p": "AEW Redemption currently has under 7,000 tickets distributed for tonight’s show. According to a report from WrestleTix on Sunday morning, 6,812 tickets are out for Sunday’s pay-per-view at the...",
       "link": "https://www.f4wonline.com/news/aew/aew-redemption-2026-ticket-distribution-update-for-tonights-show/",
-      "t": "57m",
+      "t": "2h",
       "dt": "2026-07-26T14:21:04+00:00"
     },
     {
@@ -56,47 +64,23 @@
       "h": "Updated AEW Redemption betting odds released",
       "p": "Updated betting odds are now available for AEW Redemption in Montreal. There was some movement from the lines published in Friday’s edition of the Wrestling Observer Newsletter. The following odds...",
       "link": "https://www.f4wonline.com/news/aew/updated-aew-redemption-betting-odds-released/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-26T14:08:04+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mystery Wrestling 27 Results (7/25): Orange Cassidy, Death Riders Compete",
-      "p": "Mystery Wrestling held its Mystery 27 event on July 25 from Bain Mathieu in Montreal, Quebec, Canada. The event aired on Twitch. Full results are below. Mystery Wrestling 27 Results (7/25) Special...",
-      "link": "https://www.fightful.com/wrestling-news/mystery-wrestling-27-results-7-25-orange-cassidy-death-riders-compete/",
-      "t": "2h",
-      "dt": "2026-07-26T13:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW Redemption 2026 Full & Final Card",
       "p": "The inaugural AEW Redemption pay-per-view is upon us, and this is what the full and final card looks like.",
       "link": "https://www.wrestlinginc.com/2223384/aew-redemption-2026-full-final-card-matches/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-26T13:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay Recalls Telling Callum Newman’s Mother Not To Let Him Quit Wrestling As A Teenager",
-      "p": "Will Ospreay discusses Callum Newman’s beginnings in the world of professional wrestling, noting that he stopped him from quitting. Throughout Newman’s pro wrestling career so far, he has been...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-recalls-telling-callum-newmans-mother-not-to-let-him-quit-wrestling-as-a-teenager/",
-      "t": "2h",
-      "dt": "2026-07-26T12:22:03+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay Says He Will Pull The Trigger On The Tiger Driver 91 On Kenny Omega At AEW All In",
-      "p": "Will Ospreay say he will use a move he has previously hesitated to use at AEW All In when he meets Kenny Omega for the AEW world title. The Tiger Driver has been a move that has been part of...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-he-will-pull-the-trigger-on-the-tiger-driver-91-on-kenny-omega-at-aew-all-in/",
-      "t": "3h",
-      "dt": "2026-07-26T12:03:16+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Redemption lineup (Live Coverage Tonight): The full card for tonight’s pay-per-view card",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption lineup (Live Coverage Tonight): The full card for tonight’s pay-per-view card appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/26/aew-redemption-lineup-live-coverage-tonight-the-full-card-for-tonights-pay-per-view-card/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-07-26T06:00:39+00:00"
     },
     {
@@ -104,8 +88,24 @@
       "h": "AEW COLLISION RESULTS (7/25): Willow & Maya vs. Shida & Thekla, Young Bucks vs. Death Riders, Nick Wayne vs. AR Fox, Ciampa in action, and more",
       "p": "AEW COLLISION REPORT JULY 25, 2026 (recorded 7/22) NASHVILLE, TENN. AT THE PINNACLE AIRED ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel...",
       "link": "https://www.pwtorch.com/site/2026/07/25/aew-collision-results-7-25-willow-maya-vs-shida-thekla-young-bucks-vs-death-riders-nick-wayne-vs-ar-fox-ciampa-in-action-and-more/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-07-26T03:55:32+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "07/25 Powell’s AEW Collision audio review: Thekla and Hikaru Shida vs. Willow Nightingale and Maya World, final qualifying matches for the ladder match at AEW Redemption",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 07/25 Powell’s AEW Collision audio review: Thekla and Hikaru Shida vs. Willow Nightingale and Maya World, final qualifying matches for the...",
+      "link": "https://prowrestling.net/site/2026/07/25/07-25-powells-aew-collision-audio-review-thekla-and-hikaru-shida-vs-willow-nightingale-and-maya-world-final-qualifying-matches-for-the-ladder-match-at-aew-redemption/",
+      "t": "13h",
+      "dt": "2026-07-26T03:49:05+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Matt Hardy questions major AEW Redemption decision",
+      "p": "TNA World Tag Team Champion Matt Hardy recently questioned AEW for removing a major title match from the PPV. A few weeks ago, Kenny Omega defeated MJF to become the new AEW World Champion....",
+      "link": "https://www.f4wonline.com/news/aew/matt-hardy-questions-major-aew-redemption-decision/",
+      "t": "13h",
+      "dt": "2026-07-26T03:40:24+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-27T03:59:22.257460+00:00",
+  "updated": "2026-07-27T07:47:25.735220+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
-    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,100 +12,100 @@
   },
   "items": [
     {
-      "src": "ProWrestling.net",
-      "h": "AEW Redemption polls: Vote for the best match and grade the overall show",
-      "p": "Loading… Loading… The post AEW Redemption polls: Vote for the best match and grade the overall show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/26/aew-redemption-polls-vote-for-the-best-match-and-grade-the-overall-show/",
-      "t": "29m",
-      "dt": "2026-07-27T03:30:09+00:00"
+      "src": "Wrestling Observer",
+      "h": "Fight Game: AEW Redemption recap",
+      "p": "Jeremy Finestone joined me on The Fight Game Podcast as we did a special AEW post-PPV recap show after AEW Redemption. You can watch the full episode on YouTube, which is embedded below. We broke...",
+      "link": "https://www.f4wonline.com/podcasts/fight-game-aew-redemption-recap/",
+      "t": "26m",
+      "dt": "2026-07-27T07:21:18+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Watch: AEW Redemption Post Show Media Scrum | 7/26/26, Montreal, Quebec",
-      "p": "AEW Redemption Post Show Media Scrum | 7/26/26, Montreal, Quebec The post Watch: AEW Redemption Post Show Media Scrum | 7/26/26, Montreal, Quebec appeared first on Fightful | WWE News, AEW News,...",
-      "link": "https://www.fightful.com/wrestling-news/watch-aew-redemption-post-show-media-scrum-7-26-26-montreal-quebec/",
-      "t": "29m",
-      "dt": "2026-07-27T03:30:00+00:00"
+      "src": "Wrestling Observer",
+      "h": "AEW Redemption media scrum notes: Tony Khan on All In build, Kenny Omega’s legacy",
+      "p": "Media scrum notes from Sunday’s Redemption. Members of the AEW roster, as well as Tony Khan, took questions from the media following AEW Redemption in Montreal. Here are the highlights: Maya World...",
+      "link": "https://www.f4wonline.com/news/aew/aew-redemption-media-scrum-notes-tony-khan-on-all-in-build-kenny-omegas-legacy/",
+      "t": "41m",
+      "dt": "2026-07-27T07:06:15+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "AEW World Trios Title Bout, Interview With Young Bucks, Adam Copeland & Christian Cage Set For 7/29 Dynamite",
-      "p": "Dynamite on July 29th will feature a World Trios Title bout. Matches have been added to the post-Redemption edition of AEW Dynamite on TBS and HBO Max. The July 29th show is taking place at the...",
-      "link": "https://www.fightful.com/wrestling-news/aew-world-trios-title-bout-interview-with-young-bucks-adam-copeland-christian-cage-set-for-7-29-dynamite/",
-      "t": "31m",
-      "dt": "2026-07-27T03:27:34+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Willow Nightingale Vs. Mercedes Mone AEW Women’s World Championship Match Set For AEW All In 2026",
-      "p": "Willow Nightingale vs. Mercedes Mone for the AEW Women’s World Championship is set for AEW All In London. At the AEW Redemption pay-per-view, Willow Nightingale challenged Thekla for the AEW...",
-      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-vs-mercedes-mone-aew-womens-world-championship-match-set-for-aew-all-in-2026/",
-      "t": "35m",
-      "dt": "2026-07-27T03:23:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Willow Nightingale Def. Thekla To Become AEW Women’s World Champion At Redemption PPV",
-      "p": "The new AEW Women’s World Champion is Willow Nightingale. The semi-main event of the 2026 AEW Redemption pay-per-view was Thekla putting the AEW Women’s World Championship on the line against...",
-      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-def-thekla-to-become-aew-womens-world-champion-at-redemption-ppv/",
-      "t": "43m",
-      "dt": "2026-07-27T03:16:03+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Willow Nightingale earns AEW Women’s Title off Thekla at Redemption, secures All In match against Moné",
-      "p": "Willow Nightingale punched her ticket to Wembley Stadium by capturing the AEW Women's World Championship on Sunday night. The post Willow Nightingale earns AEW Women’s Title off Thekla at...",
-      "link": "https://www.postwrestling.com/2026/07/26/willow-nightingale-earns-aew-womens-title-off-thekla-at-redemption-secures-all-in-match-against-mone/",
+      "src": "PWTorch",
+      "h": "FREE PODCAST 7/26 – PWTorch Dailycast – Wrestling Night in America – AEW Redemption post-show: Parks & Zilem break down the full card, including Six-Way Ladder Match, Ospreay & Moxley vs. Young Bucks, Omega vs. Knight, more (127 min.)",
+      "p": "SHOW SUMMARY: In our post-PPV “Wrestling Night in America” format, PWTorch columnist Greg Parks is joined by PWTorch.com contributor Brian Zilem to discuss in-depth AEW Redemption, including...",
+      "link": "https://www.pwtorch.com/site/2026/07/27/free-podcast-7-26-pwtorch-dailycast-wrestling-night-in-america-aew-redemption-post-show-parks-zilem-break-down-the-full-card-including-six-way-ladder-match-ospreay-moxley-vs-young-bucks/",
       "t": "46m",
-      "dt": "2026-07-27T03:13:13+00:00"
+      "dt": "2026-07-27T07:01:04+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Willow Nightingale Captures AEW Women's World Title From Thekla At Redemption",
-      "p": "Willow Nightingale made history at AEW Redemption 2026 by clinching the AEW Women's World Title for the very first time.",
-      "link": "https://www.wrestlinginc.com/2223722/aew-redemption-2026-willow-nightingale-thekla-captures-womens-world-title-grand-slam/",
-      "t": "48m",
-      "dt": "2026-07-27T03:11:05+00:00"
+      "src": "Wrestling Observer",
+      "h": "Tony Khan shares update on AEW Podcast Network",
+      "p": "Just days after the launch of WWE Radio on SiriusXM, Tony Khan has shared an update on the AEW Podcast Network. Earlier this year, in March 2026, AEW announced the launch of MyAEW. MyAEW is a...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-shares-update-on-aew-podcast-network/",
+      "t": "1h",
+      "dt": "2026-07-27T06:23:01+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "07/27 AEW Redemption audio review: Kenny Omega vs. Kevin Knight for the AEW World Championship, Will Ospreay and Jon Moxley vs. The Young Bucks",
+      "p": "By Jake Barnett (@barnettjake), Will Pruett (@itswilltime),... The post 07/27 AEW Redemption audio review: Kenny Omega vs. Kevin Knight for the AEW World Championship, Will Ospreay and Jon Moxley...",
+      "link": "https://prowrestling.net/site/2026/07/27/07-27-aew-redemption-audio-review-kenny-omega-vs-kevin-knight-for-the-aew-world-championship-will-ospreay-and-jon-moxley-vs-the-young-bucks/",
+      "t": "1h",
+      "dt": "2026-07-27T06:14:25+00:00"
     },
     {
       "src": "Fightful",
-      "h": "‘Speedball’ Mike Bailey Calls His AEW International Championship Shot For AEW Grand Slam Mexico",
-      "p": "“Speedball” Mike Bailey will get his AEW International Championship shot at AEW Grand Slam Mexico. At the AEW Redemption pay-per-view, Mike Bailey won the ladder match to become the number one...",
-      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-calls-his-aew-international-championship-shot-for-aew-grand-slam-mexico/",
-      "t": "55m",
-      "dt": "2026-07-27T03:04:08+00:00"
+      "h": "Willow Nightingale Opens Up About AC Sprain That Took Her Out Of AEW Owen Hart Cup Tournament",
+      "p": "The injury prevented Willow Nightingale from competing in the tournament. Willow Nightingale had been scheduled to compete in the 2026 women’s Owen Hart Foundation tournament, but due to injury,...",
+      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-opens-up-about-ac-sprain-that-took-her-out-of-aew-owen-hart-cup-tournament/",
+      "t": "1h",
+      "dt": "2026-07-27T05:56:18+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Andrade Becomes New AEW National Champion With Redemption Win Over Mark Davis",
-      "p": "Andrade El Idolo is new AEW National Champion after a victory over Mark Davis at AEW Redemption.",
-      "link": "https://www.wrestlinginc.com/2223719/aew-redemption-2026-andrade-mark-davis-new-national-champion-win/",
-      "t": "1h",
-      "dt": "2026-07-27T02:51:32+00:00"
+      "src": "PWTorch",
+      "h": "VIP PODCAST 7/26 – AEW Redemption PPV Audio Roundtable: Keller & Fann & Martin review Omega vs. Knight, Thekla vs. Willow, Omega-Ospreay-Mox angle (73 min.)",
+      "p": "SHOW SUMMARY: In this VIP Post-Event Audio Roundtable covering the AEW Redemption PPV event, PWTorch editor Wade Keller is joined by PWTorch VIP analysts Todd Martin and Rich Fann. They review the...",
+      "link": "https://www.pwtorch.com/site/2026/07/27/vip-podcast-7-26-aew-redemption-ppv-audio-roundtable-keller-fann-martin-review-omega-vs-knight-thekla-vs-willow-omega-ospreay-mox-angle-73-min/",
+      "t": "2h",
+      "dt": "2026-07-27T05:45:27+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "Andrade El Idolo beats Mark Davis, earns AEW National Title at Redemption",
-      "p": "Andrade El Idolo earned his first AEW belt on Sunday night, taking the National Championship off Mark Davis. The post Andrade El Idolo beats Mark Davis, earns AEW National Title at Redemption...",
-      "link": "https://www.postwrestling.com/2026/07/26/andrade-el-idolo-beats-mark-davis-earns-aew-national-title-at-redemption/",
-      "t": "1h",
-      "dt": "2026-07-27T02:44:37+00:00"
+      "h": "Kyle Fletcher vs. Speedball Mike Bailey for International Title added to AEW Grand Slam: Mexico 2026",
+      "p": "Mike Bailey will try to take the AEW International Championship off Kyle Fletcher in Mexico City next month. The post Kyle Fletcher vs. Speedball Mike Bailey for International Title added to AEW...",
+      "link": "https://www.postwrestling.com/2026/07/27/kyle-fletcher-vs-speedball-mike-bailey-for-international-title-added-to-aew-grand-slam-mexico-2026/",
+      "t": "2h",
+      "dt": "2026-07-27T05:37:53+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Redemption post-show media scrum notes: Tony Khan, Willow Nightingale, Mike Bailey & more",
+      "p": "Highlights from the AEW Redemption post-show media scrum, including appearances from Tony Khan, Willow Nightingale, Mike Bailey and more. The post AEW Redemption post-show media scrum notes: Tony...",
+      "link": "https://www.postwrestling.com/2026/07/27/aew-redemption-post-show-media-scrum-notes-tony-khan-willow-nightingale-mike-bailey-more/",
+      "t": "2h",
+      "dt": "2026-07-27T05:35:09+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Willow Nightingale Speaks About Being First Women’s Triple Crown Champion In AEW",
+      "p": "Willow Nightingale reaches another accolade in AEW. With Willow Nightingale defeating Thekla to become the new AEW Women’s World Champion at Redemption, she thus became the first Women’s Triple...",
+      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-speaks-about-being-first-womens-triple-crown-champion-in-aew/",
+      "t": "2h",
+      "dt": "2026-07-27T05:29:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Gives An Update On The AEW Podcast Network",
+      "p": "An update on the AEW Podcast Network In March AEW, announced the launch of MyAEW, a streaming platform for international fans to consume live and archived AEW events. In the press release, the AEW...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-gives-an-update-on-the-aew-podcast-network/",
+      "t": "2h",
+      "dt": "2026-07-27T05:26:23+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Chris Jericho Gets Even With Tommaso Ciampa In Brutal AEW Redemption Match",
-      "p": "Chris Jericho brought back \"The Painmaker\" to face Tommaso Ciampa's \"Psycho Killer\" in a No Holds Barred match at AEW Redemption.",
-      "link": "https://www.wrestlinginc.com/2223715/aew-redemption-2026-chris-jericho-tommaso-ciampa-even-brutal/",
-      "t": "1h",
-      "dt": "2026-07-27T02:35:04+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Cope & Cage Retain At AEW Redemption, Officially Facing Young Bucks At All In",
-      "p": "Adam Copeland and Christian Cage will face the Young Bucks at All In after retaining the World Tag Team Championship at AEW Redemption.",
-      "link": "https://www.wrestlinginc.com/2223712/aew-redemption-2026-cope-cage-adam-copeland-christian-pac-claudio-castagnoli-remain-tag-champs/",
-      "t": "1h",
-      "dt": "2026-07-27T02:00:02+00:00"
+      "h": "AEW Redemption 2026: 3 Things We Hated & 3 Things We Loved",
+      "p": "AEW held its first-ever Redemption pay-per-view tonight, which concluded with some melodrama involving Will Ospreay, Kenny Omega, and the Death Riders.",
+      "link": "https://www.wrestlinginc.com/2223732/aew-redemption-2026-hated-loved-opinion-review/",
+      "t": "2h",
+      "dt": "2026-07-27T05:23:53+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-27T18:44:26.833511+00:00",
+  "updated": "2026-07-27T20:41:18.516705+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
-    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "WOL: AEW Redemption, match times, Gunther vs. Aldis home run",
+      "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about as we recap the AEW Redemption PPV, talk timing out matches and why going short is a positive sometimes,...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-aew-redemption-match-times-gunther-vs-aldis-home-run/",
+      "t": "35m",
+      "dt": "2026-07-27T20:05:14+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Comments On Chances Of Another AEW Video Game",
+      "p": "AEW President Tony Khan weighs in on if his company would make another video game soon.",
+      "link": "https://www.wrestlinginc.com/2224478/aew-tony-khan-chances-another-video-game-fight-forever/",
+      "t": "42m",
+      "dt": "2026-07-27T19:58:32+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 7/27 – PWTorch Dailycast – Worse or Better (Episode 14 – From Pillar to Post): Josh is joined by Adam Kidd to look at the four pillars of AEW from day one to today (98 min.)",
+      "p": "SHOW SUMMARY: In this PWTorch Dailycast series titled “Worse or Better,” Josh White and Stephanie Chase discuss one aspect of today’s pro wrestling scene and compare it to a previous era or eras...",
+      "link": "https://www.pwtorch.com/site/2026/07/27/free-podcast-7-27-pwtorch-dailycast-worse-or-better-episode-14-from-pillar-to-post-josh-is-joined-by-adam-kidd-to-look-at-the-four-pillars-of-aew-from-day-one-to-today-98-min/",
+      "t": "1h",
+      "dt": "2026-07-27T19:30:01+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW All In lineup: The card for the Wembley Stadium show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In lineup: The card for the Wembley Stadium show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/27/aew-all-in-lineup-the-card-for-the-wembley-stadium-show/",
+      "t": "1h",
+      "dt": "2026-07-27T19:00:52+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW/ROH wrestler coached Nikki Bella for WWE return",
+      "p": "As she prepared to make her WWE return, Nikki Bella had some help from a member of the AEW/ROH roster. Bella returned on SmackDown last Friday after spending nearly four months out of action due...",
+      "link": "https://www.f4wonline.com/news/wwe/aew-roh-wrestler-coached-nikki-bella-for-wwe-return/",
+      "t": "1h",
+      "dt": "2026-07-27T18:57:01+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "Pruett’s Pause: 10 Thoughts on AEW Redemption – Will Ospreay closes the evening with no dads, Kyle Fletcher and Bandido steal the show, Willow Nightingale’s crowning moment, and more!",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Redemption – Will Ospreay closes the evening with no dads, Kyle Fletcher and Bandido steal the show,...",
       "link": "https://prowrestling.net/site/2026/07/27/pruetts-pause-10-thoughts-on-aew-redemption-will-ospreay-closes-the-evening-with-no-dads-kyle-fletcher-and-bandido-steal-the-show-willow-nightingales-crowning-moment-and-more/",
-      "t": "36m",
+      "t": "2h",
       "dt": "2026-07-27T18:07:56+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "Speedball Mike Bailey Got Bandido’s Blessing Before Signing His Contract For AEW International Title Shot At Grand Slam Mexico",
       "p": "Speedball Mike Bailey got Bandido’s blessing before signing his contract for his AEW International Title Shot at Grand Slam Mexico. At AEW Redemption this past Sunday, Speedball would feature in...",
       "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-got-bandidos-blessing-before-signing-his-contract-for-aew-international-title-shot-at-grand-slam-mexico/",
-      "t": "49m",
+      "t": "2h",
       "dt": "2026-07-27T17:54:28+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Mick Foley Explains Why He Barked In Segment With Divine Dominion",
       "p": "At AEW Redemption, Mick Foley interviewed AEW Women’s Tag Team Champions Divine Dominion (Lena Kross & Megan Bayne) in a backstage segment. The segment ended awkwardly as Foley sat down and began...",
       "link": "https://www.fightful.com/wrestling-news/mick-foley-explains-why-he-barked-in-segment-with-divine-dominion/",
-      "t": "57m",
+      "t": "2h",
       "dt": "2026-07-27T17:47:00+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "AEW Announces Rebel Heart Show In Support Of ALS Research",
       "p": "AEW's \"Rebel Heart Dynamite\" will take place this September with donations being made to two organizations that support ALS research, I AM ALS and Team Gleason.",
       "link": "https://www.wrestlinginc.com/2224266/aew-announces-rebel-heart-show-support-als-research/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-27T17:38:26+00:00"
     },
     {
@@ -48,23 +88,15 @@
       "h": "AEW to present ‘Rebel Heart’ Dynamite special on September 9",
       "p": "AEW will honor Rebel and raise awareness for ALS at an upcoming Dynamite special in Athens, Georgia. The post AEW to present ‘Rebel Heart’ Dynamite special on September 9 appeared first on POST...",
       "link": "https://www.postwrestling.com/2026/07/27/aew-to-present-rebel-heart-dynamite-special-on-september-9/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-27T17:35:29+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Speedball Mike Bailey Says Winning Ladder Match At AEW Redemption Was A ‘Big Deal In Lil Speedy’s Career’",
-      "p": "Speedball Mike Bailey comments on featuring and winning the ladder match that opened AEW Redemption this past Sunday in Montreal. AEW Redemption took place from the Bell Center in Montreal, Canada...",
-      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-says-winning-ladder-match-at-aew-redemption-was-a-big-deal-in-lil-speedys-career/",
-      "t": "1h",
-      "dt": "2026-07-27T17:34:04+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW COLLISION HITS & MISSES (7/25): Thekla and Shida stand tall, Young Bucks raise the stakes, Nick Wayne-Jack Perry rivalry takes shape",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS THE MAIN...",
       "link": "https://www.pwtorch.com/site/2026/07/27/aew-collision-hits-misses-7-25-thekla-and-shida-stand-tall-young-bucks-raise-the-stakes-nick-wayne-jack-perry-rivalry-takes-shape/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-27T17:23:53+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Tony Khan Offers Injury Update On AEW & CMLL Star Mistico",
       "p": "AEW owner Tony Khan offers an injury update on AEW and CMLL star Mistico after the luchador was forced to miss Redemption following an attack in Arena Mexico",
       "link": "https://www.wrestlinginc.com/2224207/aew-cmll-tony-khan-mistico-injury-update-july-2026/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-27T16:56:16+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW announces “Rebel Heart Dynamite” to honor Rebel, donations will be made to ALS groups",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW announces “Rebel Heart Dynamite” to honor Rebel, donations will be made to ALS groups appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/27/aew-announces-rebel-heart-dynamite-to-honor-rebel-donations-will-be-made-to-als-groups/",
-      "t": "2h",
-      "dt": "2026-07-27T16:37:08+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Rebel Heart Dynamite Announced For September 9",
-      "p": "AEW will support Rebel and ALS with AEW Rebel Heart Dynamite on September 9 from Akins Ford Arena in Athens, GA. The event will benefit I AM ALS and Team Gleason. From AEW: July 27, 2026 – All...",
-      "link": "https://www.fightful.com/wrestling-news/aew-rebel-heart-dynamite-announced-for-september-9/",
-      "t": "2h",
-      "dt": "2026-07-27T16:15:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Champ Willow Nightingale Details Injury That Caused Her To Relinquish TBS Title",
-      "p": "AEW Women's World Champion Willow Nightingale discussed the timeline of her injury and her decision to bow out of the Owen Cup and relinquish the TBS title.",
-      "link": "https://www.wrestlinginc.com/2224087/aew-willow-nightingale-champ-injury-relinquish-tbs-title/",
-      "t": "3h",
-      "dt": "2026-07-27T15:42:30+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Speedball Mike Bailey Explains Why AEW Redemption 2026 Was Best Night Of His Career",
-      "p": "Speedball Mike Bailey reflects on his ladder match victory at AEW Redemption 2026, and explains why the PPV turned out to be the best night of his career",
-      "link": "https://www.wrestlinginc.com/2224066/aew-redemption-2026-speedball-mike-bailey-best-night-career-montreal-quebec-canada/",
-      "t": "3h",
-      "dt": "2026-07-27T15:26:44+00:00"
     }
   ]
 }

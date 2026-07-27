@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-26T23:10:25.525430+00:00",
+  "updated": "2026-07-27T00:11:01.208466+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (6 AEW items)",
+    "Wrestling Observer": "FAILED (The read operation timed out)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Young Bucks Overcome Dysfunctional Jon Moxley & Will Ospreay At AEW Redemption",
+      "p": "The Young Bucks beat Jon Moxley and Will Ospreay at AEW Redemption.",
+      "link": "https://www.wrestlinginc.com/2223699/aew-redemption-2026-young-bucks-jon-moxley-will-ospreay-overcome-dysfunctional/",
+      "t": "6m",
+      "dt": "2026-07-27T00:04:32+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "The Young Bucks Defeat Will Ospreay And Jon Moxley At AEW Redemption",
+      "p": "The Young Bucks claim victory against The Death Riders. At AEW Redemption pay-per-view, The Death Riders duo of Jon Moxley and Will Ospreay took on Matt Jackson and Nick Jackson of The Young Bucks...",
+      "link": "https://www.fightful.com/wrestling-news/the-young-bucks-defeat-death-riders-at-aew-redemption/",
+      "t": "8m",
+      "dt": "2026-07-27T00:02:24+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Quebec’s Speedball Mike Bailey earns AEW International Championship shot in six-way ladder match at Redemption",
+      "p": "In front of supporters in Montreal, Speedball Mike Bailey secured a future shot at the AEW International Championship. The post Quebec’s Speedball Mike Bailey earns AEW International Championship...",
+      "link": "https://www.postwrestling.com/2026/07/26/quebecs-speedball-mike-bailey-earns-aew-international-championship-shot-in-six-way-ladder-match-at-redemption/",
+      "t": "39m",
+      "dt": "2026-07-26T23:31:17+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Speedball Mike Bailey Earns International Title Shot With AEW Redemption Hometown Win",
+      "p": "Six men walked into AEW Redemption with the hopes of earning an International Title match, but in the end, \"Speedball\" Mike Bailey got the job done.",
+      "link": "https://www.wrestlinginc.com/2223696/aew-redemption-2026-speedball-mike-bailey-international-title-shot-hometown-win/",
+      "t": "40m",
+      "dt": "2026-07-26T23:30:14+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "‘Speedball’ Mike Bailey Wins Ladder Match At Redemption PPV, Earns AEW International Title Shot",
+      "p": "‘Speedball’ Mike Bailey earned his shot. Starting the main card of All Elite Wrestling’s Redemption pay-per-view was a six-way Ladder match for a shot at the AEW International Championship....",
+      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-wins-ladder-match-at-redemption-ppv-earns-aew-international-title-shot/",
+      "t": "40m",
+      "dt": "2026-07-26T23:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Adam Cole Does ALS Ice Bucket Challenge To Support Rebel",
+      "p": "Adam Cole gets ice bucket’d, bay bay. Adam Cole is the latest AEW talent to take the ALS ice bucket challenge to support his friend Rebel. Cole was nominated by Britt Baker, and he went on to...",
+      "link": "https://www.fightful.com/wrestling-news/adam-cole-does-als-ice-bucket-challenge-to-support-rebel/",
+      "t": "56m",
+      "dt": "2026-07-26T23:14:03+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "AEW REDEMPTION PPV RESULTS (7/26): Keller’s report on Omega vs. Knight, Thekla vs. Nightingale, Fletcher vs. Bandido, Six-Way Ladder Match, more",
       "p": "AEW REDEMPTION PPV JULY 26, 2026 MONTREAL, QUEBEC, CANADA AIRED LIVE ON PPV (including PPV.com) Commentators: Excalibur, Tony Schiavone, Nigel McGuinness Ring Announcer: Justin Roberts JOIN US...",
       "link": "https://www.pwtorch.com/site/2026/07/26/aew-redemption-ppv-results-7-26-kellers-report-on-omega-vs-knight-thekla-vs-nightingale-fletcher-vs-bandido-six-way-ladder-match-more/",
-      "t": "9m",
+      "t": "1h",
       "dt": "2026-07-26T23:01:15+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Conglomeration Retains AEW Trios Title Against Lethal Twist On Redemption Buy-In",
       "p": "The Conglomeration are still AEW World Trios Champions with a victory over the Lethal Twist on the AEW Redemption Buy-In.",
       "link": "https://www.wrestlinginc.com/2223694/aew-redemption-2026-buy-in-conglomeration-lethal-twist-retains-trios-title/",
-      "t": "10m",
+      "t": "1h",
       "dt": "2026-07-26T22:59:32+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "AEW Redemption 2026 Buy In Results: The Conglomeration turn back Lethal Twist in trios title bout",
       "p": "AEW's first-ever Redemption event got started with a fast-paced trios title showdown between The Conglomeration and the Lethal Twist. The post AEW Redemption 2026 Buy In Results: The...",
       "link": "https://www.postwrestling.com/2026/07/26/aew-redemption-2026-buy-in-results-the-conglomeration-turn-back-lethal-twist-in-trios-title-bout/",
-      "t": "11m",
+      "t": "1h",
       "dt": "2026-07-26T22:59:13+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "The Conglomeration Retains AEW Trios Titles At AEW Redemption Buy In",
       "p": "The Conglomeration remains the top trio in AEW. During the AEW Redemption Buy In, the Conglomeration (Roderick Strong, Kyle O’Reilly, & Orange Cassidy) retained the AEW Trios Championships,...",
       "link": "https://www.fightful.com/wrestling-news/the-conglomeration-retains-aew-trios-titles-at-aew-redemption-buy-in/",
-      "t": "19m",
+      "t": "1h",
       "dt": "2026-07-26T22:50:59+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Anna Jay Says She Doesn’t Know Extent Of Shoulder Injury: “I’m Going To A Few Doctors Right Now Just To Get Everything Checked Out”",
       "p": "Anna Jay confirms the injury. During the pre-AEW Redemption media call, company President Tony Khan stated that Anna Jay was out with a shoulder injury. Jay confirmed that during her Twitch stream...",
       "link": "https://www.fightful.com/wrestling-news/anna-jay-says-she-doesnt-know-extent-of-shoulder-injury-im-going-to-a-few-doctors-right-now-just-to-get-everything-checked-out/",
-      "t": "27m",
+      "t": "1h",
       "dt": "2026-07-26T22:43:00+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "Rougeau Family Honored At AEW Redemption, Take Out Rocky Romero",
       "p": "All Elite Wrestling honored the Rougeau family during the AEW Redemption Buy In show. Jacques Rougeau (also known as The Mountie in WWE) and Ray Rougeau were presented by “Daddy Magic” Matt Menard...",
       "link": "https://www.fightful.com/wrestling-news/rougeau-family-honored-at-aew-redemption-take-out-rocky-romero/",
-      "t": "33m",
+      "t": "1h",
       "dt": "2026-07-26T22:37:12+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Redemption results: Powell’s live review of Kenny Omega vs. Kevin Knight for the AEW World Championship, Will Ospreay and Jon Moxley vs. The Young Bucks",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption results: Powell’s live review of Kenny Omega vs. Kevin Knight for the AEW World Championship, Will Ospreay and Jon Moxley vs....",
-      "link": "https://prowrestling.net/site/2026/07/26/aew-redemption-results-powells-live-review-of-kenny-omega-vs-kevin-knight-for-the-aew-world-championship-will-ospreay-and-jon-moxley-vs-the-young-bucks/",
-      "t": "50m",
-      "dt": "2026-07-26T22:20:19+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Watch: AEW Redemption: The Buy In Pre Show 6pm ET / 3pm PT Sunday, July 26, 2026",
-      "p": "Watch: AEW Redemption: The Buy In Pre Show 6pm ET / 3pm PT Sunday, July 26, 2026 The post Watch: AEW Redemption: The Buy In Pre Show 6pm ET / 3pm PT Sunday, July 26, 2026 appeared first on...",
-      "link": "https://www.fightful.com/wrestling-news/watch-aew-redemption-the-buy-in-pre-show-6pm-et-3pm-pt-sunday-july-26-2026/",
-      "t": "1h",
-      "dt": "2026-07-26T22:08:16+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Redemption Results 7/26 - Six Championships On The Line, Double Chain Match & More",
-      "p": "This is Wrestling Inc.'s live coverage for AEW Redemption 2026, with six championships set to be defended including Kenny Omega's AEW World Championship!",
-      "link": "https://www.wrestlinginc.com/2223102/aew-redemption-2026-six-championships-on-line-double-chain-match-more/",
-      "t": "1h",
-      "dt": "2026-07-26T22:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: AEW Redemption preview, other weekend notes",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter This Week’s Back Issue FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Sunday Update — Our...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-redemption-preview-other-weekend-notes/",
-      "t": "1h",
-      "dt": "2026-07-26T21:32:45+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Redemption live results: Kenny Omega vs. Kevin Knight",
-      "p": "AEW heads to Montreal, Quebec, Canada, for tonight’s first-ever AEW Redemption pay-per-view with an earlier start time. AEW World Champion Kenny Omega defends against TNT Champion Kevin Knight in...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-redemption-live-results-kenny-omega-vs-kevin-knight/",
-      "t": "1h",
-      "dt": "2026-07-26T21:30:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Redemption pre-show results: Orange Cassidy, Roderick Strong, and Kyle O’Reilly vs. Jay Lethal, Blake Christian, and Lee Johnson for the AEW Trios Titles",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption pre-show results: Orange Cassidy, Roderick Strong, and Kyle O’Reilly vs. Jay Lethal, Blake Christian, and Lee Johnson for the...",
-      "link": "https://prowrestling.net/site/2026/07/26/aew-redemption-pre-show-results-orange-cassidy-roderick-strong-and-kyle-oreilly-vs-jay-lethal-blake-christian-and-lee-johnson-for-the-aew-trios-titles/",
-      "t": "1h",
-      "dt": "2026-07-26T21:15:31+00:00"
     }
   ]
 }

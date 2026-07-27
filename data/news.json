@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-27T11:36:33.763798+00:00",
+  "updated": "2026-07-27T15:10:21.069781+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (1 AEW items)",
+    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,83 +12,51 @@
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "AEW World Champion reveals injury that forced title relinquishment",
-      "p": "The newly crowned AEW Women’s World Champion Willow Nightingale opened up about her absence and the injury that sidelined her since May. In the AEW Redemption post-show media scrum, Nightingale...",
-      "link": "https://www.f4wonline.com/news/aew/aew-world-champion-reveals-injury-that-forced-title-relinquishment/",
-      "t": "4m",
-      "dt": "2026-07-27T11:32:10+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The Redemption fallout show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Redemption fallout show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/27/aew-dynamite-preview-the-redemption-fallout-show/",
+      "t": "1h",
+      "dt": "2026-07-27T13:15:08+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Willow Nightingale opens up about her battle with depression",
-      "p": "New AEW Women’s World Champion Willow Nightingale has opened up about her battle with depression. While Nightingale defeated Thekla at AEW Redemption to become the new Women’s World Champion,...",
-      "link": "https://www.f4wonline.com/news/aew/willow-nightingale-opens-up-about-her-battle-with-depression/",
-      "t": "36m",
-      "dt": "2026-07-27T11:00:00+00:00"
+      "src": "Fightful",
+      "h": "Aubrey Edwards Says Blood And Guts Is The Hardest Match To Prepare For As A Referee",
+      "p": "Aubrey Edwards says that the Blood and Guts match type is the hardest match to prepare for as a professional wrestling referee. AEW is a company that has had many hardcore matches over the years,...",
+      "link": "https://www.fightful.com/wrestling-news/aubrey-edwards-says-blood-and-guts-is-the-hardest-match-to-prepare-for-as-a-referee/",
+      "t": "1h",
+      "dt": "2026-07-27T13:14:36+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "WOR: AEW Redemption, Wembley, WBD/Paramount, more!",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with a full recap of the AEW Redemption PPV, the highs and lows of the show, Wembley, the press conference Dynamite Wednesday,...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-aew-redemption-wembley-wbd-paramount-more/",
-      "t": "3h",
-      "dt": "2026-07-27T08:11:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Fight Game: AEW Redemption recap",
-      "p": "Jeremy Finestone joined me on The Fight Game Podcast as we did a special AEW post-PPV recap show after AEW Redemption. You can watch the full episode on YouTube, which is embedded below. We broke...",
-      "link": "https://www.f4wonline.com/podcasts/fight-game-aew-redemption-recap/",
-      "t": "4h",
-      "dt": "2026-07-27T07:21:18+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Redemption media scrum notes: Tony Khan on All In build, Kenny Omega’s legacy",
-      "p": "Media scrum notes from Sunday’s Redemption. Members of the AEW roster, as well as Tony Khan, took questions from the media following AEW Redemption in Montreal. Here are the highlights: Maya World...",
-      "link": "https://www.f4wonline.com/news/aew/aew-redemption-media-scrum-notes-tony-khan-on-all-in-build-kenny-omegas-legacy/",
-      "t": "4h",
-      "dt": "2026-07-27T07:06:15+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW's Jim Ross Speculates On Next Move For Vince McMahon",
+      "p": "AEW commentator Jim Ross has discussed what his former boss, Vince McMahon, could do next, including the possibility of buying a pro wrestling promotion.",
+      "link": "https://www.wrestlinginc.com/2223741/aew-wwe-jim-ross-vince-mcmahon-speculates-next-move/",
+      "t": "2h",
+      "dt": "2026-07-27T13:00:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 7/26 – PWTorch Dailycast – Wrestling Night in America – AEW Redemption post-show: Parks & Zilem break down the full card, including Six-Way Ladder Match, Ospreay & Moxley vs. Young Bucks, Omega vs. Knight, more (127 min.)",
       "p": "SHOW SUMMARY: In our post-PPV “Wrestling Night in America” format, PWTorch columnist Greg Parks is joined by PWTorch.com contributor Brian Zilem to discuss in-depth AEW Redemption, including...",
       "link": "https://www.pwtorch.com/site/2026/07/27/free-podcast-7-26-pwtorch-dailycast-wrestling-night-in-america-aew-redemption-post-show-parks-zilem-break-down-the-full-card-including-six-way-ladder-match-ospreay-moxley-vs-young-bucks/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-07-27T07:01:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan shares update on AEW podcast network",
-      "p": "Just days after the launch of WWE Radio on SiriusXM, Tony Khan has shared an update on the AEW Podcast Network. Earlier this year, in March 2026, AEW announced the launch of MyAEW. MyAEW is a...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-shares-update-on-aew-podcast-network/",
-      "t": "5h",
-      "dt": "2026-07-27T06:23:01+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "07/27 AEW Redemption audio review: Kenny Omega vs. Kevin Knight for the AEW World Championship, Will Ospreay and Jon Moxley vs. The Young Bucks",
       "p": "By Jake Barnett (@barnettjake), Will Pruett (@itswilltime),... The post 07/27 AEW Redemption audio review: Kenny Omega vs. Kevin Knight for the AEW World Championship, Will Ospreay and Jon Moxley...",
       "link": "https://prowrestling.net/site/2026/07/27/07-27-aew-redemption-audio-review-kenny-omega-vs-kevin-knight-for-the-aew-world-championship-will-ospreay-and-jon-moxley-vs-the-young-bucks/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-27T06:14:25+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Willow Nightingale Opens Up About AC Sprain That Took Her Out Of AEW Owen Hart Cup Tournament",
-      "p": "The injury prevented Willow Nightingale from competing in the tournament. Willow Nightingale had been scheduled to compete in the 2026 women’s Owen Hart Foundation tournament, but due to injury,...",
-      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-opens-up-about-ac-sprain-that-took-her-out-of-aew-owen-hart-cup-tournament/",
-      "t": "5h",
-      "dt": "2026-07-27T05:56:18+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 7/26 – AEW Redemption PPV Audio Roundtable: Keller & Fann & Martin review Omega vs. Knight, Thekla vs. Willow, Omega-Ospreay-Mox angle (73 min.)",
       "p": "SHOW SUMMARY: In this VIP Post-Event Audio Roundtable covering the AEW Redemption PPV event, PWTorch editor Wade Keller is joined by PWTorch VIP analysts Todd Martin and Rich Fann. They review the...",
       "link": "https://www.pwtorch.com/site/2026/07/27/vip-podcast-7-26-aew-redemption-ppv-audio-roundtable-keller-fann-martin-review-omega-vs-knight-thekla-vs-willow-omega-ospreay-mox-angle-73-min/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-07-27T05:45:27+00:00"
     },
     {
@@ -96,7 +64,7 @@
       "h": "Kyle Fletcher vs. Speedball Mike Bailey for International Title added to AEW Grand Slam: Mexico 2026",
       "p": "Mike Bailey will try to take the AEW International Championship off Kyle Fletcher in Mexico City next month. The post Kyle Fletcher vs. Speedball Mike Bailey for International Title added to AEW...",
       "link": "https://www.postwrestling.com/2026/07/27/kyle-fletcher-vs-speedball-mike-bailey-for-international-title-added-to-aew-grand-slam-mexico-2026/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-07-27T05:37:53+00:00"
     },
     {
@@ -104,8 +72,40 @@
       "h": "AEW Redemption post-show media scrum notes: Tony Khan, Willow Nightingale, Mike Bailey & more",
       "p": "Highlights from the AEW Redemption post-show media scrum, including appearances from Tony Khan, Willow Nightingale, Mike Bailey and more. The post AEW Redemption post-show media scrum notes: Tony...",
       "link": "https://www.postwrestling.com/2026/07/27/aew-redemption-post-show-media-scrum-notes-tony-khan-willow-nightingale-mike-bailey-more/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-07-27T05:35:09+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Redemption 2026: 3 Things We Hated & 3 Things We Loved",
+      "p": "AEW held its first-ever Redemption pay-per-view tonight, which concluded with some melodrama involving Will Ospreay, Kenny Omega, and the Death Riders.",
+      "link": "https://www.wrestlinginc.com/2223732/aew-redemption-2026-hated-loved-opinion-review/",
+      "t": "9h",
+      "dt": "2026-07-27T05:23:53+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Redemption 2026 Results: Kenny Omega retains against Kevin Knight, drops All In opponent Will Ospreay",
+      "p": "After successfully retaining his AEW World Championship on Sunday night, Kenny Omega took out All In opponent Will Ospreay. The post AEW Redemption 2026 Results: Kenny Omega retains against Kevin...",
+      "link": "https://www.postwrestling.com/2026/07/27/aew-redemption-2026-results-kenny-omega-retains-against-kevin-knight-drops-all-in-opponent-will-ospreay/",
+      "t": "10h",
+      "dt": "2026-07-27T04:16:04+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kenny Omega Keeps AEW Title At Redemption, Will Ospreay & Death Riders Come To Blows",
+      "p": "Kenny Omega retained his AEW World Championship before Will Ospreay and the Death Riders clashed in the main event of Redemption.",
+      "link": "https://www.wrestlinginc.com/2223728/aew-redemption-2026-kenny-omega-kevin-knight-will-ospreay-death-riders-blows/",
+      "t": "10h",
+      "dt": "2026-07-27T04:11:55+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Redemption 2026 Review, Results & Analysis",
+      "p": "John Pollock and Wai Ting review AEW Redemption featuring Kenny Omega vs. Kevin Knight for the AEW Men’s World Championship. The post AEW Redemption 2026 Review, Results & Analysis appeared first...",
+      "link": "https://www.postwrestling.com/2026/07/27/aew-redemption-2026-review-results-analysis-live-tonight/",
+      "t": "11h",
+      "dt": "2026-07-27T04:10:18+00:00"
     }
   ]
 }

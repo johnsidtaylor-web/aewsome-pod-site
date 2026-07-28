@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-28T16:49:03.115441+00:00",
+  "updated": "2026-07-28T18:43:05.300975+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,43 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Charlotte Flair Would Rather Eat A Hot Wing Than Rank The Four Horsewomen",
+      "p": "Charlotte Flair chooses death (wing) over ranking her peers. The Four Horsewomen (Charlotte, Mercedes Mone aka Sasha Banks, Bayley, and Becky Lynch) are credited for ushering in a new era of...",
+      "link": "https://www.fightful.com/wrestling-news/charlotte-flair-would-rather-eat-a-hot-wing-than-rank-the-four-horsewomen/",
+      "t": "1m",
+      "dt": "2026-07-28T18:40:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Young Bucks Were ‘Very Hands-On & Influential’ With Match Against Will Ospreay & Jon Moxley Happening At AEW Redemption",
+      "p": "Young Bucks were influential in the tag match versus Will Ospreay and Jon Moxley happening. The first-ever edition of AEW’s Redemption pay-per-view took place on July 26th from the Bell Centre in...",
+      "link": "https://www.fightful.com/wrestling-news/young-bucks-were-very-hands-on-influential-with-match-against-will-ospreay-jon-moxley-happening-at-aew-redemption/",
+      "t": "34m",
+      "dt": "2026-07-28T18:08:11+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Nick Jackson Took Multiple Concussion Tests After AEW Redemption, Opens Up About Lingering Effects From Forbidden Door Injury",
+      "p": "An update from Nick Jackson. One of the matches on the marquee for AEW Redemption was The Young Bucks (Matt Jackson & Nick Jackson) versus Will Ospreay and Jon Moxley. The Bucks ended up pulling...",
+      "link": "https://www.fightful.com/wrestling-news/nick-jackson-took-multiple-concussion-tests-after-aew-redemption-opens-up-about-lingering-effects-from-forbidden-door-injury/",
+      "t": "52m",
+      "dt": "2026-07-28T17:50:08+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Young Bucks were ‘very hands-on’ in making AEW Redemption match happen",
+      "p": "The Young Bucks were very invested in their plans for AEW Redemption. Sunday night’s pay-per-view in Montreal saw Matt & Nick Jackson defeat Jon Moxley & Will Ospreay, furthering the build to All...",
+      "link": "https://www.f4wonline.com/news/aew/young-bucks-were-very-hands-on-in-making-aew-redemption-match-happen/",
+      "t": "1h",
+      "dt": "2026-07-28T16:56:29+00:00"
+    },
+    {
       "src": "POST Wrestling",
       "h": "Rhino reportedly set for AEW appearance in Detroit",
       "p": "Rhino is reportedly scheduled to appear when AEW returns to his hometown of Detroit this week. The post Rhino reportedly set for AEW appearance in Detroit appeared first on POST Wrestling |...",
       "link": "https://www.postwrestling.com/2026/07/28/rhino-reportedly-set-for-aew-appearance-in-detroit/",
-      "t": "5m",
+      "t": "1h",
       "dt": "2026-07-28T16:43:55+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Tony Khan Provides Update On AEW Podcast Network",
       "p": "Tony Khan reveals that the AEW Podcast Network is currently in development.",
       "link": "https://www.wrestlinginc.com/2225207/aew-tony-khan-podcast-network-update/",
-      "t": "7m",
+      "t": "2h",
       "dt": "2026-07-28T16:41:34+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Former ECW Champ Reportedly Set For AEW Return This Week",
       "p": "A former ECW World Heavyweight Champion is reportedly set to return to AEW TV this week, over a year after he last appeared on AEW programming",
       "link": "https://www.wrestlinginc.com/2225196/aew-dynamite-collision-ecw-rhino-rhyno-return-next-taping/",
-      "t": "18m",
+      "t": "2h",
       "dt": "2026-07-28T16:30:57+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Report: Former WWE, ECW, TNA wrestler to appear for AEW this week",
       "p": "Former WWE, ECW, and TNA star Rhino will reportedly be making an appearance when AEW comes to his hometown of Detroit this week. Dynamite takes place live from Mason Temple Theater in Detroit this...",
       "link": "https://www.f4wonline.com/news/aew/report-former-wwe-ecw-tna-wrestler-to-appear-for-aew-this-week/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-28T15:32:37+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Mick Foley Explains 'Slight Misunderstanding' In AEW Redemption Backstage Segment",
       "p": "Mick Foley takes to social media to address the criticism he received for his backstage interview with Divine Dominion this past weekend.",
       "link": "https://www.wrestlinginc.com/2225043/mick-foley-aew-redemption-slight-misunderstanding-divine-dominion/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-28T14:48:12+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Matt Cardona says he is ready to ‘capitalize’ on WWE heel turn: ‘Not maybe, definitely’",
       "p": "Matt Cardona discussed his WWE Championship pursuit goals and weighed in on whether a heel turn could be in his future. Cardona talked about his ambitions of becoming a Grand Slam Champion in WWE...",
       "link": "https://www.f4wonline.com/news/matt-cardona-says-he-is-ready-to-capitalize-on-wwe-heel-turn-not-maybe-definitely/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-28T12:15:27+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "POST NEWS: AEW announces ‘Rebel Heart’ special, weekend recap & more",
       "p": "Jack Wannan covers the news from Monday, July 27, including a recap of last night’s AEW Redemption pay-per-view, two major UFC signings, an update on Dragon Lee & more. Available for Dbl Dbl+...",
       "link": "https://www.postwrestling.com/2026/07/27/post-news-aew-announces-rebel-heart-special-weekend-recap-more/",
-      "t": "19h",
+      "t": "21h",
       "dt": "2026-07-27T21:13:42+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Mick Foley explains awkward AEW Redemption segment: ‘Slight misunderstanding’",
       "p": "There was apparently a “slight misunderstanding” during Mick Foley’s backstage segment with Divine Dominion at AEW Redemption. Sunday night’s pay-per-view included an interview segment where Foley...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-explains-awkward-aew-redemption-barking-segment/",
-      "t": "19h",
+      "t": "21h",
       "dt": "2026-07-27T21:05:48+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: AEW Redemption, match times, Gunther vs. Aldis home run",
-      "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about as we recap the AEW Redemption PPV, talk timing out matches and why going short is a positive sometimes,...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-aew-redemption-match-times-gunther-vs-aldis-home-run/",
-      "t": "20h",
-      "dt": "2026-07-27T20:05:14+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 7/27 – PWTorch Dailycast – Worse or Better (Episode 14 – From Pillar to Post): Josh is joined by Adam Kidd to look at the four pillars of AEW from day one to today (98 min.)",
-      "p": "SHOW SUMMARY: In this PWTorch Dailycast series titled “Worse or Better,” Josh White and Stephanie Chase discuss one aspect of today’s pro wrestling scene and compare it to a previous era or eras...",
-      "link": "https://www.pwtorch.com/site/2026/07/27/free-podcast-7-27-pwtorch-dailycast-worse-or-better-episode-14-from-pillar-to-post-josh-is-joined-by-adam-kidd-to-look-at-the-four-pillars-of-aew-from-day-one-to-today-98-min/",
-      "t": "21h",
-      "dt": "2026-07-27T19:30:01+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW All In lineup: The card for the Wembley Stadium show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In lineup: The card for the Wembley Stadium show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/27/aew-all-in-lineup-the-card-for-the-wembley-stadium-show/",
-      "t": "21h",
-      "dt": "2026-07-27T19:00:52+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW/ROH wrestler coached Nikki Bella for WWE return",
-      "p": "As she prepared to make her WWE return, Nikki Bella had some help from a member of the AEW/ROH roster. Bella returned on SmackDown last Friday after spending nearly four months out of action due...",
-      "link": "https://www.f4wonline.com/news/wwe/aew-roh-wrestler-coached-nikki-bella-for-wwe-return/",
-      "t": "21h",
-      "dt": "2026-07-27T18:57:01+00:00"
     }
   ]
 }

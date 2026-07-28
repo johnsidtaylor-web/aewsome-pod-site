@@ -1,46 +1,62 @@
 {
-  "updated": "2026-07-28T18:43:05.300975+00:00",
+  "updated": "2026-07-28T20:32:59.369905+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
+      "h": "RevPro Live In Coventry Results (7/26): Shayna Baszler And Zoey Serrano Team",
+      "p": "Revolution Pro Wrestling held its RevPro Live In Coventry event on July 26 from HMV Empire in Coventry, West Midlands, England. The event aired on RevProOnDemand. Full results are below. RevPro...",
+      "link": "https://www.fightful.com/wrestling-news/revpro-live-in-coventry-results-7-26-shayna-baszler-and-zoey-serrano-team/",
+      "t": "2m",
+      "dt": "2026-07-28T20:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kyle Fletcher Thinks His Chemistry With Tommaso Ciampa Will ‘Grow And Fester’ Over Time",
+      "p": "Kyle Fletcher looks back on his feud with Tommaso Ciampa. Back in January, Ciampa made his debut for AEW by defeating Mark Briscoe to win the TNT Championship. Just a few days later, the ‘Psycho...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-thinks-his-chemistry-with-tommaso-ciampa-will-grow-and-fester-over-time/",
+      "t": "44m",
+      "dt": "2026-07-28T19:48:02+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Rhino Comments On AEW Events In Detroit, Heaps Praise On Tony Khan",
+      "p": "Rhino is doing promotional work for AEW. Fresh off the Redemption pay-per-view, All Elite Wrestling is heading to Detroit, Michigan, for a live Dynamite on July 29th, and then on Thursday, they’ll...",
+      "link": "https://www.fightful.com/wrestling-news/rhino-comments-on-aew-events-in-detroit-heaps-praise-on-tony-khan/",
+      "t": "1h",
+      "dt": "2026-07-28T19:25:31+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "WWE's Royce Keys On Free Agency Stint: 'I Felt Like LeBron James'",
+      "p": "Royce Keys made his WWE debut during the Royal Rumble just a couple months after leaving AEW. He compared his free agency stint to LeBron James.",
+      "link": "https://www.wrestlinginc.com/2225378/wwe-royce-keys-lebron-james-free-agency/",
+      "t": "1h",
+      "dt": "2026-07-28T18:49:00+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Charlotte Flair Would Rather Eat A Hot Wing Than Rank The Four Horsewomen",
       "p": "Charlotte Flair chooses death (wing) over ranking her peers. The Four Horsewomen (Charlotte, Mercedes Mone aka Sasha Banks, Bayley, and Becky Lynch) are credited for ushering in a new era of...",
       "link": "https://www.fightful.com/wrestling-news/charlotte-flair-would-rather-eat-a-hot-wing-than-rank-the-four-horsewomen/",
-      "t": "1m",
+      "t": "1h",
       "dt": "2026-07-28T18:40:43+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Young Bucks Were ‘Very Hands-On & Influential’ With Match Against Will Ospreay & Jon Moxley Happening At AEW Redemption",
-      "p": "Young Bucks were influential in the tag match versus Will Ospreay and Jon Moxley happening. The first-ever edition of AEW’s Redemption pay-per-view took place on July 26th from the Bell Centre in...",
-      "link": "https://www.fightful.com/wrestling-news/young-bucks-were-very-hands-on-influential-with-match-against-will-ospreay-jon-moxley-happening-at-aew-redemption/",
-      "t": "34m",
-      "dt": "2026-07-28T18:08:11+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Nick Jackson Took Multiple Concussion Tests After AEW Redemption, Opens Up About Lingering Effects From Forbidden Door Injury",
-      "p": "An update from Nick Jackson. One of the matches on the marquee for AEW Redemption was The Young Bucks (Matt Jackson & Nick Jackson) versus Will Ospreay and Jon Moxley. The Bucks ended up pulling...",
-      "link": "https://www.fightful.com/wrestling-news/nick-jackson-took-multiple-concussion-tests-after-aew-redemption-opens-up-about-lingering-effects-from-forbidden-door-injury/",
-      "t": "52m",
-      "dt": "2026-07-28T17:50:08+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Young Bucks were ‘very hands-on’ in making AEW Redemption match happen",
       "p": "The Young Bucks were very invested in their plans for AEW Redemption. Sunday night’s pay-per-view in Montreal saw Matt & Nick Jackson defeat Jon Moxley & Will Ospreay, furthering the build to All...",
       "link": "https://www.f4wonline.com/news/aew/young-bucks-were-very-hands-on-in-making-aew-redemption-match-happen/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-28T16:56:29+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Rhino reportedly set for AEW appearance in Detroit",
       "p": "Rhino is reportedly scheduled to appear when AEW returns to his hometown of Detroit this week. The post Rhino reportedly set for AEW appearance in Detroit appeared first on POST Wrestling |...",
       "link": "https://www.postwrestling.com/2026/07/28/rhino-reportedly-set-for-aew-appearance-in-detroit/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-28T16:43:55+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Tony Khan Provides Update On AEW Podcast Network",
       "p": "Tony Khan reveals that the AEW Podcast Network is currently in development.",
       "link": "https://www.wrestlinginc.com/2225207/aew-tony-khan-podcast-network-update/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-28T16:41:34+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Former ECW Champ Reportedly Set For AEW Return This Week",
       "p": "A former ECW World Heavyweight Champion is reportedly set to return to AEW TV this week, over a year after he last appeared on AEW programming",
       "link": "https://www.wrestlinginc.com/2225196/aew-dynamite-collision-ecw-rhino-rhyno-return-next-taping/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-28T16:30:57+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Report: Former WWE, ECW, TNA wrestler to appear for AEW this week",
       "p": "Former WWE, ECW, and TNA star Rhino will reportedly be making an appearance when AEW comes to his hometown of Detroit this week. Dynamite takes place live from Mason Temple Theater in Detroit this...",
       "link": "https://www.f4wonline.com/news/aew/report-former-wwe-ecw-tna-wrestler-to-appear-for-aew-this-week/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-28T15:32:37+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Mick Foley Explains 'Slight Misunderstanding' In AEW Redemption Backstage Segment",
       "p": "Mick Foley takes to social media to address the criticism he received for his backstage interview with Divine Dominion this past weekend.",
       "link": "https://www.wrestlinginc.com/2225043/mick-foley-aew-redemption-slight-misunderstanding-divine-dominion/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-28T14:48:12+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Matt Cardona says he is ready to ‘capitalize’ on WWE heel turn: ‘Not maybe, definitely’",
       "p": "Matt Cardona discussed his WWE Championship pursuit goals and weighed in on whether a heel turn could be in his future. Cardona talked about his ambitions of becoming a Grand Slam Champion in WWE...",
       "link": "https://www.f4wonline.com/news/matt-cardona-says-he-is-ready-to-capitalize-on-wwe-heel-turn-not-maybe-definitely/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-07-28T12:15:27+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: AEW announces ‘Rebel Heart’ special, weekend recap & more",
-      "p": "Jack Wannan covers the news from Monday, July 27, including a recap of last night’s AEW Redemption pay-per-view, two major UFC signings, an update on Dragon Lee & more. Available for Dbl Dbl+...",
-      "link": "https://www.postwrestling.com/2026/07/27/post-news-aew-announces-rebel-heart-special-weekend-recap-more/",
-      "t": "21h",
-      "dt": "2026-07-27T21:13:42+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mick Foley explains awkward AEW Redemption segment: ‘Slight misunderstanding’",
-      "p": "There was apparently a “slight misunderstanding” during Mick Foley’s backstage segment with Divine Dominion at AEW Redemption. Sunday night’s pay-per-view included an interview segment where Foley...",
-      "link": "https://www.f4wonline.com/news/aew/mick-foley-explains-awkward-aew-redemption-barking-segment/",
-      "t": "21h",
-      "dt": "2026-07-27T21:05:48+00:00"
     }
   ]
 }

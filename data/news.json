@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-29T15:17:44.910210+00:00",
+  "updated": "2026-07-29T17:35:35.092483+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "TBS Champion Maya World Names AEW Opponent She Hopes To Face At All In 2026",
+      "p": "Maya World has one opponent in mind if she were to defend the AEW TBS Championship at All In London 2026.",
+      "link": "https://www.wrestlinginc.com/2226244/aew-all-in-2026-maya-world-athena-tbs-champion-opponent-hopes-face/",
+      "t": "35m",
+      "dt": "2026-07-29T17:00:03+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Updated AEW Dynamite lineup: New champs Maya World & Andrade defend for the first time",
+      "p": "TBS Champion Maya World and AEW National Champion Andrade El Idolo will defend on tonight's Dynamite in Detroit. The post Updated AEW Dynamite lineup: New champs Maya World & Andrade defend for...",
+      "link": "https://www.postwrestling.com/2026/07/29/updated-aew-dynamite-lineup-new-champs-maya-world-andrade-defend-for-the-first-time/",
+      "t": "2h",
+      "dt": "2026-07-29T15:21:41+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "NJPW “G1 Climax 36” results (7/29): Vetter’s review of Yota Tsuji vs. Yuto-Ice, Hirooki Goto vs. Shingo Takagi, Konosuke Takeshita vs. Great-O-Khan, Ryohei Oiwa vs. Sanada, Boltin Oleg vs. Jake Lee",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/29): Vetter’s review of Yota Tsuji vs. Yuto-Ice, Hirooki Goto vs. Shingo Takagi, Konosuke Takeshita vs....",
       "link": "https://prowrestling.net/site/2026/07/29/njpw-g1-climax-36-results-7-29-vetters-review-of-yota-tsuji-vs-yuto-ice-hirooki-goto-vs-shingo-takagi-konosuke-takeshita-vs-great-o-khan-ryohei-oiwa-vs-sanada-boltin-oleg-vs-jake-lee/",
-      "t": "0m",
+      "t": "2h",
       "dt": "2026-07-29T15:17:16+00:00"
     },
     {
@@ -24,71 +40,31 @@
       "h": "NJPW G1 Climax 36 Night 8: Konosuke Takeshita remains on top of A Block",
       "p": "AEW's Konosuke Takeshita continued to lead NJPW's G1 Climax A Block on Wednesday after beating Great-O-Khan. The post NJPW G1 Climax 36 Night 8: Konosuke Takeshita remains on top of A Block...",
       "link": "https://www.postwrestling.com/2026/07/29/njpw-g1-climax-36-night-8-konosuke-takeshita-remains-on-top-of-a-block/",
-      "t": "16m",
+      "t": "2h",
       "dt": "2026-07-29T15:01:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ethan Allen Suffers Torn ACL, MCL & Mensicus; Out Of Tag Match Against FTR At RevPro Show",
-      "p": "Ethan Allen suffers a devastating injury. Coming up for Revolution Pro Wrestling is the 14 Year Anniversary Show on August 29th at the OVO Arena Wembley. It was announced back in February 2026...",
-      "link": "https://www.fightful.com/wrestling-news/ethan-allen-suffers-torn-acl-mcl-mensicus-out-of-tag-match-against-ftr-at-revpro-show/",
-      "t": "22m",
-      "dt": "2026-07-29T14:55:02+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Chris Jericho Calls Bout Against Tommaso Ciampa At AEW Beach Break One Of His Favorite Matches",
-      "p": "Chris Jericho enjoyed working with Tommaso Ciampa. The story between Chris Jericho and Tommaso Ciampa has seen the two talents compete in two matches thus far. At AEW Dynamite: Beach Break, Ciampa...",
-      "link": "https://www.fightful.com/wrestling-news/chris-jericho-calls-bout-against-tommaso-ciampa-at-aew-beach-break-one-of-his-favorite-matches/",
-      "t": "34m",
-      "dt": "2026-07-29T14:42:47+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "NJPW G1 Climax 36 Results (7/29/26): Konosuke Takeshita Reaches Eight Points In His Block",
-      "p": "Konosuke Takeshita reached eight points in his block. The continuation of New Japan Pro-Wrestling’s G1 Climax 36 tournament unfolded on July 29th. The show took place at YAMATO ARENA. There were...",
-      "link": "https://www.fightful.com/wrestling-news/njpw-g1-climax-36-results-7-29-26-konosuke-takeshita-reaches-eight-points-in-his-block/",
-      "t": "1h",
-      "dt": "2026-07-29T14:04:38+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite preview: The Redemption fallout show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Redemption fallout show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/29/aew-dynamite-preview-the-redemption-fallout-show-2/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-29T14:00:24+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Rhino Says He Was Supposed To Be A Part Of A Show During AEW’s 2300 Arena Residency Last Year, Missed It Due Weather Canceling Flights",
-      "p": "Rhino says that he was supposed to appear during AEW’s 2300 arena residency last year but was prevented by bad weather. At the end of August and beginning of September last year, AEW would have a...",
-      "link": "https://www.fightful.com/wrestling-news/rhino-says-he-was-supposed-to-be-a-part-of-a-show-during-aews-2300-arena-residency-last-year-missed-it-due-weather-canceling-flights/",
-      "t": "1h",
-      "dt": "2026-07-29T13:47:20+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "NJPW G1 Climax night eight results, updated standings",
       "p": "Konosuke Takeshita became the first A Block wrestler to reach eight points as he picked up another victory on Wednesday. At night eight of the G1 Climax, Takeshita improved his tournament record...",
       "link": "https://www.f4wonline.com/news/new-japan/njpw-g1-climax-night-eight-results-updated-standings/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-29T13:38:21+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Rhino Hopes To Share Ring With Christian Cage And Adam Copeland On Tonight’s AEW Dynamite",
-      "p": "Rhino speaks on his upcoming appearance during this week’s AEW tapings, noting he wants to share the ring with Christian and Copeland. Copeland and Cage are currently the AEW World Tag Team...",
-      "link": "https://www.fightful.com/wrestling-news/rhino-hopes-to-share-ring-with-christian-cage-and-adam-copeland-on-tonights-aew-dynamite/",
-      "t": "2h",
-      "dt": "2026-07-29T13:05:14+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite in Detroit, last week’s Dynamite and Collision grades, Will Pruett, Scott Steiner, Sonny Onoo, Lou Albano, Harold Sakata, Brian Lawler",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Detroit, last week’s Dynamite and Collision grades, Will Pruett, Scott Steiner, Sonny Onoo, Lou Albano, Harold Sakata, Brian...",
       "link": "https://prowrestling.net/site/2026/07/29/aew-dynamite-in-detroit-last-weeks-dynamite-and-collision-grades-will-pruett-scott-steiner-sonny-onoo-lou-albano-harold-sakata-brian-lawler/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-07-29T12:00:57+00:00"
     },
     {
@@ -96,7 +72,7 @@
       "h": "AEW Dynamite Start Time Tonight (07-29-2026)",
       "p": "AEW Dynamite takes place tonight from the Masonic Temple Theater in Detroit, MI with a start time on TBS of 8pm Eastern/7pm Central and 5pm Pacific. Tonight’s card will have the fallout from the...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-07-29-2026/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-29T11:09:42+00:00"
     },
     {
@@ -104,8 +80,32 @@
       "h": "AEW Dynamite Preview: Confirmed matches and segments (07-29-2026)",
       "p": "AEW Dynamite takes place tonight from the Masonic Temple Theater in Detroit, MI, and several matches and segments have been confirmed for the broadcast. Tonight’s card will have the fallout from...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-07-29-2026/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-07-29T07:58:47+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW views on YouTube are high, but declining search interest is a potential issue | Column",
+      "p": "Google Trends says search interest in AEW on YouTube has fallen to levels not seen since 2020, as June 2026 scored 20/100, below the 23/100 that June 2020 managed. Despite that, though, AEW’s...",
+      "link": "https://www.f4wonline.com/news/aew/aew-youtube-trend-searches-views-shorts-column/",
+      "t": "9h",
+      "dt": "2026-07-29T07:38:37+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW announces Rebel Heart Dynamite episode for September",
+      "p": "AEW has announced they will hold a special episode of Dynamite called Rebel Heart Dynamite on Sept. 9 in Athens, GA to benefit Rebel (real name Tanea Brooks), who was diagnosed with ALS in March....",
+      "link": "https://www.pwtorch.com/site/2026/07/28/aew-announces-rebel-heart-dynamite-episode-for-september/",
+      "t": "12h",
+      "dt": "2026-07-29T04:38:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kenny Omega appearance, TBS & National title matches set for AEW Dynamite",
+      "p": "AEW World Champion Kenny Omega is set to appear on this Wednesday’s AEW Dynamite following his win over Kevin Knight at Redemption and attack on Will Ospreay afterward. Omega took Ospreay out with...",
+      "link": "https://www.f4wonline.com/news/aew/tbs-and-national-title-matches-set-for-aew-dynamite/",
+      "t": "13h",
+      "dt": "2026-07-29T04:13:54+00:00"
     }
   ]
 }

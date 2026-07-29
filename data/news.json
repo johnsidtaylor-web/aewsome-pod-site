@@ -1,22 +1,46 @@
 {
-  "updated": "2026-07-29T19:40:17.846637+00:00",
+  "updated": "2026-07-29T21:10:47.267881+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan invites Insane Clown Posse to AEW Dynamite in Detroit",
+      "p": "According to Vince Russo, the Insane Clown Posse is at tonight’s AEW Dynamite in Detroit. During Wednesday’s episode of the Coach and Bro Show with Russo and Jonathan Coachman, Russo revealed that...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-invites-insane-clown-posse-to-aew-dynamite-in-detroit/",
+      "t": "4m",
+      "dt": "2026-07-29T21:06:11+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: Grayson Waller in NXT, Takeshita leads G1 A Block & more",
+      "p": "Jack Wannan covers the news from Wednesday, July 29, including a surprising appearance on NXT, a G1 update, a new free agent, and much more. The post POST NEWS: Grayson Waller in NXT, Takeshita...",
+      "link": "https://www.postwrestling.com/2026/07/29/post-news-grayson-waller-in-nxt-takeshita-leads-g1-a-block-more/",
+      "t": "1h",
+      "dt": "2026-07-29T19:54:50+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Ratings & Viewership Report: 7/25/2026",
+      "p": "The final stop on road to AEW Redemption was the July 25 episode of \"AEW Collision\" which saw a boost in the TV ratings.",
+      "link": "https://www.wrestlinginc.com/2226528/aew-collision-ratings-viewership-report-july-25-2026/",
+      "t": "1h",
+      "dt": "2026-07-29T19:43:26+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "TBS Champion Maya World Names AEW Opponent She Hopes To Face At All In 2026",
       "p": "Maya World has one opponent in mind if she were to defend the AEW TBS Championship at All In London 2026.",
       "link": "https://www.wrestlinginc.com/2226244/aew-all-in-2026-maya-world-athena-tbs-champion-opponent-hopes-face/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-07-29T17:00:03+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Updated AEW Dynamite lineup: New champs Maya World & Andrade defend for the first time",
       "p": "TBS Champion Maya World and AEW National Champion Andrade El Idolo will defend on tonight's Dynamite in Detroit. The post Updated AEW Dynamite lineup: New champs Maya World & Andrade defend for...",
       "link": "https://www.postwrestling.com/2026/07/29/updated-aew-dynamite-lineup-new-champs-maya-world-andrade-defend-for-the-first-time/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-29T15:21:41+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "NJPW “G1 Climax 36” results (7/29): Vetter’s review of Yota Tsuji vs. Yuto-Ice, Hirooki Goto vs. Shingo Takagi, Konosuke Takeshita vs. Great-O-Khan, Ryohei Oiwa vs. Sanada, Boltin Oleg vs. Jake Lee",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (7/29): Vetter’s review of Yota Tsuji vs. Yuto-Ice, Hirooki Goto vs. Shingo Takagi, Konosuke Takeshita vs....",
       "link": "https://prowrestling.net/site/2026/07/29/njpw-g1-climax-36-results-7-29-vetters-review-of-yota-tsuji-vs-yuto-ice-hirooki-goto-vs-shingo-takagi-konosuke-takeshita-vs-great-o-khan-ryohei-oiwa-vs-sanada-boltin-oleg-vs-jake-lee/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-07-29T15:17:16+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "NJPW G1 Climax 36 Night 8: Konosuke Takeshita remains on top of A Block",
       "p": "AEW's Konosuke Takeshita continued to lead NJPW's G1 Climax A Block on Wednesday after beating Great-O-Khan. The post NJPW G1 Climax 36 Night 8: Konosuke Takeshita remains on top of A Block...",
       "link": "https://www.postwrestling.com/2026/07/29/njpw-g1-climax-36-night-8-konosuke-takeshita-remains-on-top-of-a-block/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-07-29T15:01:42+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "AEW Dynamite preview: The Redemption fallout show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Redemption fallout show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/29/aew-dynamite-preview-the-redemption-fallout-show-2/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-07-29T14:00:24+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "NJPW G1 Climax night eight results, updated standings",
       "p": "Konosuke Takeshita became the first A Block wrestler to reach eight points as he picked up another victory on Wednesday. At night eight of the G1 Climax, Takeshita improved his tournament record...",
       "link": "https://www.f4wonline.com/news/new-japan/njpw-g1-climax-night-eight-results-updated-standings/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-07-29T13:38:21+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "AEW Dynamite in Detroit, last week’s Dynamite and Collision grades, Will Pruett, Scott Steiner, Sonny Onoo, Lou Albano, Harold Sakata, Brian Lawler",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Detroit, last week’s Dynamite and Collision grades, Will Pruett, Scott Steiner, Sonny Onoo, Lou Albano, Harold Sakata, Brian...",
       "link": "https://prowrestling.net/site/2026/07/29/aew-dynamite-in-detroit-last-weeks-dynamite-and-collision-grades-will-pruett-scott-steiner-sonny-onoo-lou-albano-harold-sakata-brian-lawler/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-07-29T12:00:57+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW Dynamite Start Time Tonight (07-29-2026)",
       "p": "AEW Dynamite takes place tonight from the Masonic Temple Theater in Detroit, MI with a start time on TBS of 8pm Eastern/7pm Central and 5pm Pacific. Tonight’s card will have the fallout from the...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-07-29-2026/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-07-29T11:09:42+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW Dynamite Preview: Confirmed matches and segments (07-29-2026)",
       "p": "AEW Dynamite takes place tonight from the Masonic Temple Theater in Detroit, MI, and several matches and segments have been confirmed for the broadcast. Tonight’s card will have the fallout from...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-07-29-2026/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-07-29T07:58:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW views on YouTube are high, but declining search interest is a potential issue | Column",
-      "p": "Google Trends says search interest in AEW on YouTube has fallen to levels not seen since 2020, as June 2026 scored 20/100, below the 23/100 that June 2020 managed. Despite that, though, AEW’s...",
-      "link": "https://www.f4wonline.com/news/aew/aew-youtube-trend-searches-views-shorts-column/",
-      "t": "12h",
-      "dt": "2026-07-29T07:38:37+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW announces Rebel Heart Dynamite episode for September",
-      "p": "AEW has announced they will hold a special episode of Dynamite called Rebel Heart Dynamite on Sept. 9 in Athens, GA to benefit Rebel (real name Tanea Brooks), who was diagnosed with ALS in March....",
-      "link": "https://www.pwtorch.com/site/2026/07/28/aew-announces-rebel-heart-dynamite-episode-for-september/",
-      "t": "15h",
-      "dt": "2026-07-29T04:38:18+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kenny Omega appearance, TBS & National title matches set for AEW Dynamite",
-      "p": "AEW World Champion Kenny Omega is set to appear on this Wednesday’s AEW Dynamite following his win over Kevin Knight at Redemption and attack on Will Ospreay afterward. Omega took Ospreay out with...",
-      "link": "https://www.f4wonline.com/news/aew/tbs-and-national-title-matches-set-for-aew-dynamite/",
-      "t": "15h",
-      "dt": "2026-07-29T04:13:54+00:00"
     }
   ]
 }

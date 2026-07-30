@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-30T12:02:18.624265+00:00",
+  "updated": "2026-07-30T14:28:46.516308+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -13,10 +13,58 @@
   "items": [
     {
       "src": "Fightful",
+      "h": "Tony Khan: There’s A Lot Of Competition In AEW, We Have To Be Very Considerate About Who We Sign",
+      "p": "Tony Khan is conscious of AEW’s stacked roster. A number of top acts are currently sitting on the free agent market, leading some fans to believe that AEW could make a play to bring them in. In...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-theres-a-lot-of-competition-in-aew-we-have-to-be-very-considerate-about-who-we-sign/",
+      "t": "30m",
+      "dt": "2026-07-30T13:58:14+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Explains Decision To Start AEW Pay-Per-Views One Hour Earlier",
+      "p": "Tony Khan is looking out for the fans. At the tail end of June, Tony Khan made headlines when he announced that the Redemption pay-per-view would start at 7PM ET instead of 8PM ET. This decision...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-explains-decision-to-start-aew-pay-per-views-one-hour-earlier/",
+      "t": "52m",
+      "dt": "2026-07-30T13:35:56+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: The card for tonight’s live show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for tonight’s live show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/30/aew-collision-lineup-the-card-for-tonights-live-show-9/",
+      "t": "58m",
+      "dt": "2026-07-30T13:30:16+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Grand Slam Mexico",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Grand Slam Mexico appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/30/aew-dynamite-preview-grand-slam-mexico/",
+      "t": "1h",
+      "dt": "2026-07-30T13:00:08+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Update on WWE Unreal Netflix viewership | Exclusive",
+      "p": "The latest season of WWE Unreal on Netflix is not performing as well as the previous two seasons. Dave Meltzer addressed the viewership for season three of the series during the post-AEW Dynamite...",
+      "link": "https://www.f4wonline.com/news/wwe/update-on-wwe-unreal-netflix-viewership-exclusive/",
+      "t": "1h",
+      "dt": "2026-07-30T12:41:03+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jim Ross Believes WWE Is Underutilizing Former Multi-Time World Champion",
+      "p": "Jim Ross claims that WWE is underbooking one of its most decorated female stars.",
+      "link": "https://www.wrestlinginc.com/2222780/aew-wwe-jim-ross-charlotte-flair-underutilizing-multi-time-world-champion/",
+      "t": "1h",
+      "dt": "2026-07-30T12:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "AEW Collision Preview, Start Time, How To Watch, Location (7/30)",
       "p": "Viewing information and lineup for AEW Collision on July 30, 2026 AEW Collision (July 30, 2026) Venue: Masonic Temple Theater City: Detroit, MI Time: 8 pm ET Channel: TNT, HBO Max Lineup Hazuki &...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-7-30/",
-      "t": "2m",
+      "t": "2h",
       "dt": "2026-07-30T12:00:00+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Bryan Alvarez’s AEW Dynamite July 29, 2026 report for subscribers",
       "p": "Bryan Alvarez’s report on the July 29, 2026 edition of AEW Dynamite is now available for subscribers.",
       "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-july-29-2026-report-for-subscribers/",
-      "t": "11m",
+      "t": "2h",
       "dt": "2026-07-30T11:50:28+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "Major AEW star announced for MLP Northern Rising event",
       "p": "A major All Elite Wrestling star has been confirmed for the upcoming MLP Northern Rising event on October 3. Adam Copeland will be appearing at the TMU’s Mattamy Athletic Centre for the show...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-maple-leaf-pro-northern-rising-mlp/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-07-30T09:25:35+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "FREE PODCAST 7/29 – WKPWP after Dynamite: Keller & Fann talk with two enthusiastic on-site correspondents about stellar Omega-Ospreay and Willow-Mercedes segments (142 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch columnist Rich Fann review AEW Dynamite along with two enthusiastic and pleased on-site correspondents detailing their experience in...",
       "link": "https://www.pwtorch.com/site/2026/07/30/free-podcast-7-29-wkpwp-after-dynamite-keller-fann-talk-with-two-enthusiastic-on-site-correspondents-about-stellar-omega-ospreay-and-willow-mercedes-segments-142-min/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-30T06:27:02+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "AEW Dynamite - 7/29/2026: 3 Things We Hated & 3 We Loved",
       "p": "The best and the worst of the post-Redemption AEW Dynamite.",
       "link": "https://www.wrestlinginc.com/2226782/aew-dynamite-july-29-2026-3-things-hated-loved-opinion-review/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-07-30T06:15:24+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "VIP PODCAST 7/29 – WKH – AEW Dynamite: Redemption fallout with Omega and Ospreay, Willow and Nightingale, plus three titles matches, Bucks-Copeland & Christian sit-down, more (31 min.)",
       "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the July 29 episode of AEW Dynamite start to finish including Will Ospreay and Kenny Omega reacting to...",
       "link": "https://www.pwtorch.com/site/2026/07/30/vip-podcast-7-29-wkh-aew-dynamite-redemption-fallout-with-omega-and-ospreay-willow-and-nightingale-plus-three-titles-matches-bucks-copeland-christian-sit-down-more-31-min/",
-      "t": "5h",
-      "dt": "2026-07-30T06:12:06+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Adam Copeland Announced For MLP Northern Rising",
-      "p": "Adam Copeland is coming to Maple Leaf Pro Wrestling. At the end of MLP Mayhem on July 30, it was revealed that one-half of the AEW Tag Team Champions, Adam Copeland, would appear at MLP Northern...",
-      "link": "https://www.fightful.com/wrestling-news/adam-copeland-announced-for-mlp-northern-rising/",
-      "t": "6h",
-      "dt": "2026-07-30T05:07:57+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Death Riders vs. Bang Bang Gang Added To 7/30 AEW Collision",
-      "p": "An eight-man tag has been added to the July 30 episode of AEW Collision. All Elite Wrestling announced that The Death Riders (Claudio Castagnoli, PAC, Jon Moxley & Wheeler Yuta) will take on Bang...",
-      "link": "https://www.fightful.com/wrestling-news/death-riders-vs-bang-bang-gang-added-to-7-30-aew-collision/",
-      "t": "7h",
-      "dt": "2026-07-30T04:44:37+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW announces Men’s Casino Gauntlet Match for All In: London 2026",
-      "p": "The Men's Casino Gauntlet Match will return at AEW All In: London 2026, with the winner receiving a world title opportunity. The post AEW announces Men’s Casino Gauntlet Match for All In: London...",
-      "link": "https://www.postwrestling.com/2026/07/30/aew-announces-mens-casino-gauntlet-match-for-all-in-london-2026/",
-      "t": "7h",
-      "dt": "2026-07-30T04:35:58+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "07/29 Barnett’s AEW Dynamite audio review: Kenny Omega and Will Ospreay, Willow Nightingale and Mercedes Moné, four championship matches",
-      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 07/29 Barnett’s AEW Dynamite audio review: Kenny Omega and Will Ospreay, Willow Nightingale and Mercedes Moné, four championship matches...",
-      "link": "https://prowrestling.net/site/2026/07/29/07-29-barnetts-aew-dynamite-audio-review-kenny-omega-and-will-ospreay-willow-nightingale-and-mercedes-mone-four-championship-matches/",
-      "t": "7h",
-      "dt": "2026-07-30T04:23:57+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW vs. CMLL lineup announced for August 4 event",
-      "p": "In less than a week, AEW is scheduled to host its upcoming AEW vs. CMLL event on August 4, 2026. Ahead of the August 5, 2026 edition of AEW Grand Slam: Mexico, Tony Khan has scheduled an event...",
-      "link": "https://www.f4wonline.com/news/aew/aew-vs-cmll-lineup-announced-for-august-4-event/",
-      "t": "7h",
-      "dt": "2026-07-30T04:22:56+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Hangman Page makes first AEW Dynamite appearance in 140 days",
-      "p": "Last week, Tony Khan said Hangman Page’s AEW return was imminent and on Wednesday’s Dynamite, the former AEW World Champion put himself back in the mix. After a 140-day absence from AEW Dynamite,...",
-      "link": "https://www.f4wonline.com/news/aew/hangman-page-makes-first-aew-dynamite-appearance-in-140-days/",
       "t": "8h",
-      "dt": "2026-07-30T03:15:56+00:00"
+      "dt": "2026-07-30T06:12:06+00:00"
     }
   ]
 }

@@ -1,111 +1,111 @@
 {
-  "updated": "2026-07-30T00:09:43.119384+00:00",
+  "updated": "2026-07-30T03:24:26.445082+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Hangman Page makes first AEW Dynamite appearance in 140 days",
+      "p": "Last week, Tony Khan said Hangman Page’s AEW return was imminent and on Wednesday’s Dynamite, the former AEW World Champion put himself back in the mix. After a 140-day absence from AEW Dynamite,...",
+      "link": "https://www.f4wonline.com/news/aew/hangman-page-makes-first-aew-dynamite-appearance-in-140-days/",
+      "t": "8m",
+      "dt": "2026-07-30T03:15:56+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Wrestling Contract Expiration Dates: WWE, AEW, NJPW, TNA, Misc.",
-      "p": "Fightful has compiled an ongoing list featuring confirmed contract expirations reported by respected news outlets or the talent. You can also find Fightful’s constantly updated injury report at...",
-      "link": "https://www.fightful.com/wrestling-news/confirmed-wrestling-contract-expirations/",
-      "t": "6m",
-      "dt": "2026-07-30T00:03:00+00:00"
+      "h": "Lineup Announced For AEW vs. CMLL On August 4",
+      "p": "This lineup is set for AEW vs. CMLL on Tuesday, August 4 from Arena Mexico. The following bouts were announced: AEW vs. CMLL (8/4) Max Star vs Leon Cage Kira & Candela vs Maya World & Hyan...",
+      "link": "https://www.fightful.com/wrestling-news/lineup-announced-for-aew-vs-cmll-on-august-4/",
+      "t": "22m",
+      "dt": "2026-07-30T03:01:33+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "NEW JAPAN G1 CLIMAX – NIGHT 8 RESULTS (7/29): Goto vs. Takagi, Jake Lee vs. Boltin Oleg, Oiwa vs. Sanada, Great-o-Khan vs. Takeshita, Yuto-Ice vs. Tsuji",
-      "p": "NJPW G1 CLIMAX 36: NIGHT 8 REPORT JULY 29, 2026 OSAKA, JAPAN AT YAMATO ARENA AIRED LIVE ON NJPW WORLD REPORT BY GREG PARKS, PWTORCH COLUMNIST Commentator: Walker Stewart (1) TORU YANO & TAISEI...",
-      "link": "https://www.pwtorch.com/site/2026/07/29/new-japan-g1-climax-night-8-results-7-29-goto-vs-takagi-jake-lee-vs-boltin-oleg-oiwa-vs-sanada-great-o-khan-vs-takeshita-yuto-ice-vs-tsuji/",
-      "t": "7m",
-      "dt": "2026-07-30T00:02:10+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Dynamite 7/29 Live Results: Four title matchups set for Detroit",
-      "p": "Follow POST Wrestling's live coverage of AEW Dynamite as it happens this evening! The post AEW Dynamite 7/29 Live Results: Four title matchups set for Detroit appeared first on POST Wrestling |...",
-      "link": "https://www.postwrestling.com/2026/07/29/aew-dynamite-7-29-live-results-four-title-matchups-set-for-detroit/",
-      "t": "10m",
-      "dt": "2026-07-29T23:59:27+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE RESULTS (7/29): Keller’s report on Redemption fallout, Moxley vs. Bandido, Andrade vs. Perry vs. Nick Wayne for National Title, Maya vs. Persephone for TBS Title, plus Bucks, Omega, Willow",
-      "p": "AEW DYNAMITE REPORT JULY 29, 2026 DETROIT, MICH. AT MASONIC TEMPLE THEATER AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring Announcer:...",
-      "link": "https://www.pwtorch.com/site/2026/07/29/aew-dynamite-results-7-29-kellers-report-on-redemption-fallout-moxley-vs-bandido-andrade-vs-perry-vs-nick-wayne-for-national-title-maya-vs-persephone-for-tbs-title-plus-bucks-omeg/",
-      "t": "12m",
-      "dt": "2026-07-29T23:57:14+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite results (7/29): Barnett’s review of Kenny Omega’s appearance, Willow Nightingale’s celebration, three championship matches",
-      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post AEW Dynamite results (7/29): Barnett’s review of Kenny Omega’s appearance, Willow Nightingale’s celebration, three championship matches...",
-      "link": "https://prowrestling.net/site/2026/07/29/aew-dynamite-results-7-29-barnetts-review-of-kenny-omegas-appearance-willow-nightingales-celebration-three-championship-matches/",
-      "t": "39m",
-      "dt": "2026-07-29T23:30:33+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ICP In Attendance For AEW Dynamite",
-      "p": "The Insane Clown Posse (ICP) are in attendance for AEW Dynamite in Detroit. Shaggy 2 Dope and Violent J appeared on AEW Advance, which is the TikTok pre-show hosted by Arkady Aura and Lexy Nair....",
-      "link": "https://www.fightful.com/wrestling-news/icp-in-attendance-for-aew-dynamite/",
-      "t": "42m",
-      "dt": "2026-07-29T23:26:53+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Reportedly Invites Insane Clown Posse To AEW Dynamite In Detroit",
-      "p": "AEW President Tony Khan reportedly invited the Insane Clown Posse to \"AEW Dynamite\" tonight in Detroit.",
-      "link": "https://www.wrestlinginc.com/2226725/tony-khan-aew-dynamite-insane-clown-posse-detroit/",
-      "t": "43m",
-      "dt": "2026-07-29T23:26:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Results (7/29/2026): Willow Nightingale Celebration, Kenny Omega Speaks, Two Title Matches, More",
-      "p": "Full results for the July 29, 2026, edition of AEW Dynamite on TBS live from the Masonic Temple Theater in Detroit, Michigan. On July 29, 2026, All Elite Wrestling hosted a new episode of Dynamite...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-7-29-2026-willow-nightingale-celebration-kenny-omega-speaks-two-title-matches-more/",
-      "t": "54m",
-      "dt": "2026-07-29T23:15:00+00:00"
+      "h": "FREE PODCAST 7/29 – WKPWP Flagship from 5 Yrs Ago: Keller & Wells talk whether AEW is too gory, Punk, Danielson, Karrion, Nick Gage vs. Jericho, Tanahashi-AEW, Women’s Divisions, more (124 min.)",
+      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Podcast “Flagship” episode (7-27-2021), PWTorch editor Wade Keller and PWTorch’s Kelly Wells discussed...",
+      "link": "https://www.pwtorch.com/site/2026/07/29/free-podcast-7-29-wkpwp-flagship-from-5-yrs-ago-keller-wells-talk-whether-aew-is-too-gory-punk-danielson-karrion-nick-gage-vs-jericho-tanahashi-aew-womens-divisions-more/",
+      "t": "23m",
+      "dt": "2026-07-30T03:00:58+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Dynamite live results: Fallout from Redemption",
-      "p": "AEW Dynamite is live tonight from the Motor City.The Wednesday, July 29, 2026 edition of the show is set for the Masonic Temple Theater in Detroit, Michigan. Scheduled for the show, Willow...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-fallout-from-redemption/",
-      "t": "1h",
-      "dt": "2026-07-29T23:05:00+00:00"
+      "h": "Will Ospreay match part of announced AEW Collision lineup",
+      "p": "After a fiery exchange with AEW World Champion Kenny Omega on Wednesday’s Dynamite, Will Ospreay will be in action on Thursday’s live edition of AEW Collision from Detroit. Ospreay will take on...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-vs-daniel-garcia-aew-collision-lineup/",
+      "t": "35m",
+      "dt": "2026-07-30T02:48:59+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Dynamite Results 7/29 - World Trios Championship On The Line & More",
-      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on July 29, 2026, with The Conglomeration defending their World Trios Championship against The Demand!",
-      "link": "https://www.wrestlinginc.com/2225761/aew-dynamite-july-29-world-trios-championship-on-line-more/",
-      "t": "1h",
-      "dt": "2026-07-29T23:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Redemption poll results for best match and overall grade",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Redemption poll results for best match and overall grade appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/29/aew-redemption-poll-results-for-best-match-and-overall-grade/",
-      "t": "1h",
-      "dt": "2026-07-29T22:10:04+00:00"
+      "h": "The Demand Dethrone AEW World Trios Champs The Conglomeration",
+      "p": "The Demand dethroned the Conglomeration to become AEW World Trios Champions in the main event of \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2226756/demand-dethrone-aew-world-trios-champions-conglomeration/",
+      "t": "46m",
+      "dt": "2026-07-30T02:38:02+00:00"
     },
     {
       "src": "Fightful",
-      "h": "WWE, AEW, TNA, NJPW Wrestler Injury Report List: Expected Returns, Inactives | Fightful",
-      "p": "Fightful.com will keep a running injury report and inactive list and update each accordingly. You can also see our updated contract expiration list at this link. WWE RAW Bronson Reed: Reed...",
-      "link": "https://www.fightful.com/wrestling-news/wwe-impact-njpw-roh-injury-report-expected-returns-more/",
+      "h": "Will Ospreay vs. Daniel Garcia, Bang Bang Gang Trios Bout, More Set For 7/30 AEW Collision",
+      "p": "Here’s what’s on tap for the July 30 episode of AEW Collision. First, after splitting from the Death Riders, Will Ospreay will take on Daniel Garcia in a singles affair. This match was made after...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-ospreay-garcia-death-riders-dogs-bang-bang-gang-319140/",
+      "t": "50m",
+      "dt": "2026-07-30T02:33:21+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "The Demand wins Trios titles on AEW Dynamite",
+      "p": "After 108 days, AEW has new Trios Champions after Wednesday’s episode of Dynamite. The Demand (Ricochet, Bishop Kaun & Toa Liona) defeated reigning titleholders Orange Cassidy, Kyle O’Reilly &...",
+      "link": "https://www.f4wonline.com/news/aew/the-demand-wins-trios-titles-aew-dynamite/",
+      "t": "51m",
+      "dt": "2026-07-30T02:32:58+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite 7/29 Results: Will Ospreay promises to ‘pull the trigger’ on Kenny Omega, new trios champs crowned",
+      "p": "Weeks before they meet in Wembley Stadium, Will Ospreay and Kenny Omega got into a heated confrontation on AEW Dynamite. The post AEW Dynamite 7/29 Results: Will Ospreay promises to ‘pull the...",
+      "link": "https://www.postwrestling.com/2026/07/29/aew-dynamite-7-29-live-results-four-title-matchups-set-for-detroit/",
+      "t": "53m",
+      "dt": "2026-07-30T02:30:27+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "The Demand Wins AEW World Trios Titles On AEW Dynamite",
+      "p": "New trios champions in AEW. This week’s episode of Dynamite featured a match for the AEW Trios Championships, as The Conglomeration (Kyle O’Reilly, Orange Cassidy, & Roderick Strong) defended the...",
+      "link": "https://www.fightful.com/wrestling-news/aew-trios-the-demand-319148/",
       "t": "1h",
-      "dt": "2026-07-29T22:10:00+00:00"
+      "dt": "2026-07-30T02:24:14+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay vs. Mark Davis, Women’s Trio Bout Set For AEW Grand Slam Mexico",
+      "p": "New matches have been added to AEW Grand Slam Mexico. First, just weeks ahead of his AEW World Championship match at All In, Will Ospreay will battle Mark Davis in a singles contest. No outside...",
+      "link": "https://www.fightful.com/wrestling-news/aew-grand-slam-mexico-will-ospreay-mark-davis-319141/",
+      "t": "1h",
+      "dt": "2026-07-30T02:13:38+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay competing at AEW Grand Slam Mexico, updated card announced",
+      "p": "Will Ospreay will return to AEW Grand Slam Mexico for the second straight year, but this time in his first-ever singles match at Arena Mexico. Ospreay will take on former friend/partner and rival...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-vs-mark-davis-aew-grand-slam-mexico/",
+      "t": "1h",
+      "dt": "2026-07-30T02:11:46+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Jon Moxley Taps Out Challenger To Retain AEW Continental Title",
+      "p": "After taking a loss at AEW Redemption, Jon Moxley bounced back with a successful AEW Continental Title defense on \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2226752/jon-moxley-taps-out-challenger-retain-aew-continental-title/",
+      "t": "1h",
+      "dt": "2026-07-30T01:59:11+00:00"
     }
   ]
 }

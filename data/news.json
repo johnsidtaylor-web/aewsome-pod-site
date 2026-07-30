@@ -1,22 +1,54 @@
 {
-  "updated": "2026-07-30T18:44:11.494761+00:00",
+  "updated": "2026-07-30T20:32:55.739004+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "FAILED (The read operation timed out)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "WOL: Dynamite recap, Wembley, second look at Waller promo, MyAEW",
+      "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including AEW Dynamite from last night with better promos than wrestling, the build towards...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-dynamite-recap-wembley-second-look-at-waller-promo-myaew/",
+      "t": "28m",
+      "dt": "2026-07-30T20:04:17+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE HITS & MISSES (7/29): My wonderful in-person experience with praise for Omega-Ospreay, Willow’s celebration with Mercedes, in-ring action",
+      "p": "INTRO For those who have read this column before, this one is going to be formatted a little bit differently. You see, I had the absolute pleasure of attending Dynamite at the Masonic Temple...",
+      "link": "https://www.pwtorch.com/site/2026/07/30/aew-dynamite-hits-misses-7-29-my-wonderful-in-person-experience-with-praise-for-omega-ospreay-willows-celebration-with-mercedes-in-ring-action/",
+      "t": "1h",
+      "dt": "2026-07-30T19:14:24+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup (live coverage tonight): The card for tonight’s live show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup (live coverage tonight): The card for tonight’s live show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/30/aew-collision-lineup-live-coverage-tonight-the-card-for-tonights-live-show-5/",
+      "t": "1h",
+      "dt": "2026-07-30T19:11:16+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "WWE Shop & Complex Team For New ECW Merchandise, AEW Dynamite Highlights, More | Fight Size",
+      "p": "Here is your fight size update for Thursday, July 30, 2026. – WWE Shop has teamed with Complex to release a new line of ECW merchandise: Where hardcore attitude meets streetwear style. The Complex...",
+      "link": "https://www.fightful.com/wrestling-news/wwe-shop-complex-team-for-new-ecw-merchandise-aew-dynamite-highlights-more-fight-size/",
+      "t": "1h",
+      "dt": "2026-07-30T19:00:00+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "Pruett’s Pause: 10 Thoughts on AEW Redemption – Willow Nightingale makes her case as AEW’s top babyface, Hangman Page returns again, Will Ospreay wants the ball",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Redemption – Willow Nightingale makes her case as AEW’s top babyface, Hangman Page returns again, Will...",
       "link": "https://prowrestling.net/site/2026/07/30/pruetts-pause-10-thoughts-on-aew-redemption-willow-nightingale-makes-her-case-as-aews-top-babyface-hangman-page-returns-again-will-ospreay-wants-the-ball/",
-      "t": "13m",
+      "t": "2h",
       "dt": "2026-07-30T18:30:24+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW Adds Six Indie Promotions To Streaming Service",
       "p": "AEW has been steadily adding independent promotions to its streaming service, MyAEW. In addition, fans can watch AEW and ROH programming.",
       "link": "https://www.wrestlinginc.com/2227260/aew-adds-six-indie-promotions-streaming-service/",
-      "t": "52m",
+      "t": "2h",
       "dt": "2026-07-30T17:52:07+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "AEW Reportedly Had Convoluted Road To Willow Nightingale/Mercedes Mone",
       "p": "Willow Nightingale and Mercedes Mone will face off at AEW All In London 2026, but the road to the bout was reportedly very complicated.",
       "link": "https://www.wrestlinginc.com/2227254/aew-reportedly-convoluted-road-willow-nightingale-mercedes-mone/",
-      "t": "56m",
+      "t": "2h",
       "dt": "2026-07-30T17:47:53+00:00"
     },
     {
@@ -40,23 +72,15 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on the build to Kenny Omega vs. Will Ospreay for the AEW World Championship at All In London, Willow Nightingale’s celebration, Mercedes Moné’s improved mic work",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the build to Kenny Omega vs. Will Ospreay for the AEW World Championship at All In London, Willow...",
       "link": "https://prowrestling.net/site/2026/07/30/powells-aew-dynamite-hit-list-thoughts-on-the-build-to-kenny-omega-vs-will-ospreay-for-the-aew-world-championship-at-all-in-london-willow-nightingales-celebration-mercedes-mones-improved-mic/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-30T17:43:48+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Rhino Says He’s Trying To Be Part Of AEW All In 2026",
-      "p": "Rhino wants in on All In. All Elite Wrestling is on the road to the 2026 All In pay-per-view on August 30th at Wembley Stadium in London, England. As of this writing, the company is presenting...",
-      "link": "https://www.fightful.com/wrestling-news/rhino-says-hes-trying-to-be-part-of-aew-all-in-2026/",
-      "t": "1h",
-      "dt": "2026-07-30T17:16:38+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "MyAEW adds RevPro, EVE, wXw and three U.S. promotions",
       "p": "Six independent wrestling groups have joined AEW’s MyAEW streaming platform, expanding its archive and live-event offerings. The post MyAEW adds RevPro, EVE, wXw and three U.S. promotions appeared...",
       "link": "https://www.postwrestling.com/2026/07/30/myaew-adds-revpro-eve-wxw-and-three-u-s-promotions/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-30T16:53:33+00:00"
     },
     {
@@ -64,48 +88,24 @@
       "h": "AEW touts MyAEW adding six independent promotions",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW touts MyAEW adding six independent promotions appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/30/aew-touts-myaew-adding-six-independent-promotions/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-30T16:50:18+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "AEW All In London lineup: The updated card for the Wembley Stadium show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In London lineup: The updated card for the Wembley Stadium show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/30/aew-all-in-london-lineup-the-updated-card-for-the-wembley-stadium-show/",
-      "t": "2h",
-      "dt": "2026-07-30T16:03:06+00:00"
+      "src": "Wrestling Observer",
+      "h": "MyAEW adds six new promotions, Brawl in the Ballpark gets airdate",
+      "p": "A slate of new promotions have joined MyAEW, including some of the top indies in Europe. AEW sent out an announcement today revealing that six new promotions have reached deals with MyAEW. These...",
+      "link": "https://www.f4wonline.com/news/aew/myaew-adds-six-new-promotions-brawl-in-the-ballpark-gets-airdate/",
+      "t": "3h",
+      "dt": "2026-07-30T16:43:24+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: The card for tonight’s live show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for tonight’s live show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/30/aew-collision-lineup-the-card-for-tonights-live-show-9/",
-      "t": "5h",
-      "dt": "2026-07-30T13:30:16+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Grand Slam Mexico",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Grand Slam Mexico appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/30/aew-dynamite-preview-grand-slam-mexico/",
-      "t": "5h",
-      "dt": "2026-07-30T13:00:08+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jim Ross Believes WWE Is Underutilizing Former Multi-Time World Champion",
-      "p": "Jim Ross claims that WWE is underbooking one of its most decorated female stars.",
-      "link": "https://www.wrestlinginc.com/2222780/aew-wwe-jim-ross-charlotte-flair-underutilizing-multi-time-world-champion/",
-      "t": "6h",
-      "dt": "2026-07-30T12:30:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 7/29 – WKPWP after Dynamite: Keller & Fann talk with two enthusiastic on-site correspondents about stellar Omega-Ospreay and Willow-Mercedes segments (142 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch columnist Rich Fann review AEW Dynamite along with two enthusiastic and pleased on-site correspondents detailing their experience in...",
-      "link": "https://www.pwtorch.com/site/2026/07/30/free-podcast-7-29-wkpwp-after-dynamite-keller-fann-talk-with-two-enthusiastic-on-site-correspondents-about-stellar-omega-ospreay-and-willow-mercedes-segments-142-min/",
-      "t": "12h",
-      "dt": "2026-07-30T06:27:02+00:00"
+      "src": "Wrestling Observer",
+      "h": "Jake Paul has become MMA & boxing’s forbidden door | Opinion",
+      "p": "Jake Paul has been making some moves behind the scenes over the last few months. After announcing this week that Most Valuable Promotions would be forming a “strategic alliance” with Matchroom to...",
+      "link": "https://www.f4wonline.com/news/mma/jake-paul-forbidden-door-mma-boxing-pfl-mvp-matchroom-netflix-column/",
+      "t": "4h",
+      "dt": "2026-07-30T16:19:02+00:00"
     }
   ]
 }

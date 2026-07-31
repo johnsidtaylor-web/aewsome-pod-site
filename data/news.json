@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-31T20:35:12.094134+00:00",
+  "updated": "2026-07-31T22:14:29.772836+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite rating: How did the Redemption fallout show perform?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the Redemption fallout show perform? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/31/aew-dynamite-rating-how-did-the-redemption-fallout-show-perform/",
+      "t": "18m",
+      "dt": "2026-07-31T21:56:29+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite viewership down for Redemption fallout",
+      "p": "Wednesday night’s episode of AEW Dynamite averaged 676,000 viewers on TBS, down 4.3% from the previous week. It’s the lowest audience for the since July 1st. Dynamite averaged a 0.12 rating in the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-viewership-down-for-redemption-fallout/",
+      "t": "22m",
+      "dt": "2026-07-31T21:51:24+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite (7/29) Viewership Drops, Finishes Tenth On Cable",
+      "p": "AEW Dynamite viewership and ratings information for the July 29 episode. Wrestlenomics reports that AEW Dynamite on July 29 drew 676,000 viewers on TBS. This number is down from the 706,000...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-7-29-viewership-drops-finishes-tenth-on-cable/",
+      "t": "45m",
+      "dt": "2026-07-31T21:29:17+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mick Foley Comments On Reuniting With Martha Hart At AEW Redemption",
+      "p": "Mick Foley comments on reuniting with Martha Hart during AEW Redemption. AEW recently held its first-ever Redemption pay-per-view, which featured Kenny Omega vs. Kevin Knight in the main event for...",
+      "link": "https://www.fightful.com/wrestling-news/mick-foley-comments-on-reuniting-with-martha-hart-at-aew-redemption/",
+      "t": "1h",
+      "dt": "2026-07-31T21:12:06+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jacques Rougeau Posts Tribute Video To Jacques Rougeau",
+      "p": "AEW honored the Rougeau family at AEW Redemption, with Jacques and Raymond appearing on the pre-show in a segment with Matt Mennard. Jacques was booed by the Montreal audience, and he told them...",
+      "link": "https://www.fightful.com/wrestling-news/jacques-rougeau-posts-tribute-video-to-jacques-rougeau/",
+      "t": "1h",
+      "dt": "2026-07-31T20:43:49+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Mick Foley reflects on reuniting with Martha Hart at AEW Redemption",
       "p": "AEW Redemption was an extra special night for Mick Foley because of a reunion that took place behind the scenes. On Instagram today, Foley made a post opening up about how he was able to reconnect...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-reflects-on-reuniting-with-martha-hart-at-aew-redemption/",
-      "t": "18m",
+      "t": "1h",
       "dt": "2026-07-31T20:16:37+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "POST NEWS: Motor City Machine Guns debut in AEW & TNA’s “Confusing” Advertising",
       "p": "John Pollock covers the news, including the MCMG arriving in AEW, and Nic Nemeth responds to confusion over TNA title match. The post POST NEWS: Motor City Machine Guns debut in AEW & TNA’s...",
       "link": "https://www.postwrestling.com/2026/07/31/post-news-motor-city-machine-guns-debut-in-aew-tnas-confusing-advertising/",
-      "t": "31m",
+      "t": "2h",
       "dt": "2026-07-31T20:03:22+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Jacques Rougeau threw ‘tantrum’ backstage at AEW Redemption | Exclusive",
       "p": "In the new issue of the Wrestling Observer Newsletter, Dave Meltzer detailed an interesting situation that went down at AEW Redemption. Montreal wrestling legend Jacques Rougeau attended the July...",
       "link": "https://www.f4wonline.com/news/aew/jacques-rougeau-threw-tantrum-backstage-at-aew-redemption-exclusive/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-31T19:32:51+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Brie Bella Explains Why Being Called ‘Diva’ Doesn’t Feel As Bad Anymore",
       "p": "The Bella Twins (Nikki Bella and Brie Bella) share their thoughts on being a “Diva.” WWE moved away from the “Divas” branding for their female wrestlers many years ago after the women’s revolution...",
       "link": "https://www.fightful.com/wrestling-news/brie-bella-explains-why-being-called-diva-doesnt-feel-as-bad-anymore/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-31T19:24:47+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Backstage Update On Ticket Sales For AEW All In London 2026",
       "p": "The Wrestling Observer Newsletter outlines the ticket sales for AEW All In a month in advance.",
       "link": "https://www.wrestlinginc.com/2228139/aew-all-in-london-2026-backstage-update-ticket-sales-july-31/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-31T19:04:01+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "WWE Hall Of Famer Booker T Praises AEW Star After Championship Victory At Redemption",
       "p": "WWE Hall of Famer Booker T was elated to hear about a certain championship victory at the 2026 AEW Redemption event.",
       "link": "https://www.wrestlinginc.com/2228135/wwe-booker-t-aew-maya-world-tbs-championship-victory-redemption/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-31T18:59:40+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Tony Khan does ALS Ice Bucket Challenge in support of Rebel",
       "p": "After being challenged by Sting, Tony Khan has taken on the ALS Ice Bucket Challenge in support of Rebel (Tanea Brooks). The Jacksonville Jaguars — owned by the Khan family — shared video of...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-does-als-ice-bucket-challenge-in-support-of-rebel/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-07-31T18:45:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Takes ALS Ice Bucket Challenge To Support Rebel",
-      "p": "Tony Khan has gotten in on the ice bucket challenge. Tony Khan was nominated by Sting, and on Friday, July 31, made good on his nomination by getting a bucket full of ice water dumped on him...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-takes-als-ice-bucket-challenge-to-support-rebel/",
-      "t": "3h",
-      "dt": "2026-07-31T17:31:37+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Report: Jacques Rougeau “was throwing a temper tantrum” backstage at AEW Redemption",
-      "p": "Jacques Rougeau’s involvement at AEW Redemption in Montreal this past weekend led to the audience at the Bell Centre rejecting the former star, but there were problems before the segment as well....",
-      "link": "https://www.postwrestling.com/2026/07/31/report-jacques-rougeau-was-throwing-a-temper-tantrum-backstage-at-aew-redemption/",
-      "t": "3h",
-      "dt": "2026-07-31T17:31:05+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Sabin comments on Motor City Machine Guns AEW debut",
-      "p": "Debuting for AEW in his home state of Michigan was a career highlight for Chris Sabin. The same week their 90-day clauses expired after being released from WWE, Motor City Machine Guns (Sabin &...",
-      "link": "https://www.f4wonline.com/news/aew/chris-sabin-comments-on-motor-city-machine-guns-aew-debut/",
-      "t": "4h",
-      "dt": "2026-07-31T16:34:12+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "07/31 Pruett’s AEW Collision audio review: Motor City Machine Guns debut, Will Ospreay vs. Daniel Garcia, The Brawling Birds and Hazuki vs. Athena, Billie Starkz, and Diamante",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 07/31 Pruett’s AEW Collision audio review: Motor City Machine Guns debut, Will Ospreay vs. Daniel Garcia, The Brawling Birds and Hazuki vs....",
-      "link": "https://prowrestling.net/site/2026/07/31/07-31-pruetts-aew-collision-audio-review-motor-city-machine-guns-debut-will-ospreay-vs-daniel-garcia-the-brawling-birds-and-hazuki-vs-athena-billie-starkz-and-diamante/",
-      "t": "4h",
-      "dt": "2026-07-31T15:59:38+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The latest Grand Slam Mexico card",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The latest Grand Slam Mexico card appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/31/aew-dynamite-preview-the-latest-grand-slam-mexico-card/",
-      "t": "6h",
-      "dt": "2026-07-31T14:00:47+00:00"
     }
   ]
 }

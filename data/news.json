@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T22:14:29.772836+00:00",
+  "updated": "2026-07-31T23:16:06.259810+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
@@ -7,16 +7,48 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH TV live results: Pure Champion Lee Moriarty defends against Angelico",
+      "p": "Ring of Honor is back on Honor Club tonight. Scheduled for the show, ROH Pure Champion Lee Moriarty will defend his title against Angelico. Ross and Marshall Von Erich will be back in action, as...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-pure-champion-lee-moriarty-defends-against-angelico/",
+      "t": "11m",
+      "dt": "2026-07-31T23:04:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW asks for too much of my time | Opinion",
+      "p": "I’m getting tired of AEW’s constant need for more, more, more. When it was announced Redemption would start an hour early, I was optimistic that perhaps I could conclude my coverage of that show...",
+      "link": "https://www.f4wonline.com/news/aew/aew-asks-for-too-much-of-my-time-opinion/",
+      "t": "15m",
+      "dt": "2026-07-31T23:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Viewership & Ratings Report, 7/29/2026",
+      "p": "The July 29 episode of \"AEW Dynamite\" saw a lot of action, but there was a slight drop in the TV ratings.",
+      "link": "https://www.wrestlinginc.com/2228353/aew-dynamite-viewership-ratigns-report-july-29-2026/",
+      "t": "20m",
+      "dt": "2026-07-31T22:55:36+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Details On Rougeau Brother Appearance During AEW Redemption, Reported 'Tantrum'",
+      "p": "The Rougeau Brothers segment at AEW Redemption didn't go according to plan, and Jacques reportedly threw a tantrum backstage.",
+      "link": "https://www.wrestlinginc.com/2228345/aew-redemption-2026-jacques-rougeau-raymond-appearance-tantrum/",
+      "t": "44m",
+      "dt": "2026-07-31T22:31:38+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite rating: How did the Redemption fallout show perform?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the Redemption fallout show perform? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/07/31/aew-dynamite-rating-how-did-the-redemption-fallout-show-perform/",
-      "t": "18m",
+      "t": "1h",
       "dt": "2026-07-31T21:56:29+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW Dynamite viewership down for Redemption fallout",
       "p": "Wednesday night’s episode of AEW Dynamite averaged 676,000 viewers on TBS, down 4.3% from the previous week. It’s the lowest audience for the since July 1st. Dynamite averaged a 0.12 rating in the...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-viewership-down-for-redemption-fallout/",
-      "t": "22m",
+      "t": "1h",
       "dt": "2026-07-31T21:51:24+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "AEW Dynamite (7/29) Viewership Drops, Finishes Tenth On Cable",
       "p": "AEW Dynamite viewership and ratings information for the July 29 episode. Wrestlenomics reports that AEW Dynamite on July 29 drew 676,000 viewers on TBS. This number is down from the 706,000...",
       "link": "https://www.fightful.com/wrestling-news/aew-dynamite-7-29-viewership-drops-finishes-tenth-on-cable/",
-      "t": "45m",
+      "t": "1h",
       "dt": "2026-07-31T21:29:17+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Mick Foley Comments On Reuniting With Martha Hart At AEW Redemption",
       "p": "Mick Foley comments on reuniting with Martha Hart during AEW Redemption. AEW recently held its first-ever Redemption pay-per-view, which featured Kenny Omega vs. Kevin Knight in the main event for...",
       "link": "https://www.fightful.com/wrestling-news/mick-foley-comments-on-reuniting-with-martha-hart-at-aew-redemption/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-31T21:12:06+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Jacques Rougeau Posts Tribute Video To Jacques Rougeau",
       "p": "AEW honored the Rougeau family at AEW Redemption, with Jacques and Raymond appearing on the pre-show in a segment with Matt Mennard. Jacques was booed by the Montreal audience, and he told them...",
       "link": "https://www.fightful.com/wrestling-news/jacques-rougeau-posts-tribute-video-to-jacques-rougeau/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-31T20:43:49+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Mick Foley reflects on reuniting with Martha Hart at AEW Redemption",
       "p": "AEW Redemption was an extra special night for Mick Foley because of a reunion that took place behind the scenes. On Instagram today, Foley made a post opening up about how he was able to reconnect...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-reflects-on-reuniting-with-martha-hart-at-aew-redemption/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-07-31T20:16:37+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "POST NEWS: Motor City Machine Guns debut in AEW & TNA’s “Confusing” Advertising",
       "p": "John Pollock covers the news, including the MCMG arriving in AEW, and Nic Nemeth responds to confusion over TNA title match. The post POST NEWS: Motor City Machine Guns debut in AEW & TNA’s...",
       "link": "https://www.postwrestling.com/2026/07/31/post-news-motor-city-machine-guns-debut-in-aew-tnas-confusing-advertising/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-31T20:03:22+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Jacques Rougeau threw ‘tantrum’ backstage at AEW Redemption | Exclusive",
       "p": "In the new issue of the Wrestling Observer Newsletter, Dave Meltzer detailed an interesting situation that went down at AEW Redemption. Montreal wrestling legend Jacques Rougeau attended the July...",
       "link": "https://www.f4wonline.com/news/aew/jacques-rougeau-threw-tantrum-backstage-at-aew-redemption-exclusive/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-07-31T19:32:51+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Brie Bella Explains Why Being Called ‘Diva’ Doesn’t Feel As Bad Anymore",
-      "p": "The Bella Twins (Nikki Bella and Brie Bella) share their thoughts on being a “Diva.” WWE moved away from the “Divas” branding for their female wrestlers many years ago after the women’s revolution...",
-      "link": "https://www.fightful.com/wrestling-news/brie-bella-explains-why-being-called-diva-doesnt-feel-as-bad-anymore/",
-      "t": "2h",
-      "dt": "2026-07-31T19:24:47+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Update On Ticket Sales For AEW All In London 2026",
-      "p": "The Wrestling Observer Newsletter outlines the ticket sales for AEW All In a month in advance.",
-      "link": "https://www.wrestlinginc.com/2228139/aew-all-in-london-2026-backstage-update-ticket-sales-july-31/",
-      "t": "3h",
-      "dt": "2026-07-31T19:04:01+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE Hall Of Famer Booker T Praises AEW Star After Championship Victory At Redemption",
-      "p": "WWE Hall of Famer Booker T was elated to hear about a certain championship victory at the 2026 AEW Redemption event.",
-      "link": "https://www.wrestlinginc.com/2228135/wwe-booker-t-aew-maya-world-tbs-championship-victory-redemption/",
-      "t": "3h",
-      "dt": "2026-07-31T18:59:40+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan does ALS Ice Bucket Challenge in support of Rebel",
-      "p": "After being challenged by Sting, Tony Khan has taken on the ALS Ice Bucket Challenge in support of Rebel (Tanea Brooks). The Jacksonville Jaguars — owned by the Khan family — shared video of...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-does-als-ice-bucket-challenge-in-support-of-rebel/",
-      "t": "3h",
-      "dt": "2026-07-31T18:45:22+00:00"
     }
   ]
 }

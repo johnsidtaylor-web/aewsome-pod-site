@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T11:33:42.617755+00:00",
+  "updated": "2026-08-01T13:51:30.582266+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -7,16 +7,48 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Jacques Rougeau releases tribute video AEW declined to play at Redemption",
+      "p": "Jacques Rougeau has released the tribute video that AEW wouldn’t play at Redemption in Montreal last Sunday. The pre-show featured a tribute to four generations of the Rougeau family, with Jacques...",
+      "link": "https://www.f4wonline.com/news/aew/jacques-rougeau-releases-tribute-video-aew-declined-to-play-at-redemption/",
+      "t": "6m",
+      "dt": "2026-08-01T13:45:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Update on AEW Redemption pay-per-view buys | Exclusive",
+      "p": "An update is available regarding how AEW Redemption did on pay-per-view. Dave Meltzer addressed how the show is trending on various platforms in Friday’s edition of the Wrestling Observer...",
+      "link": "https://www.f4wonline.com/news/aew/update-on-aew-redemption-pay-per-view-buys-exclusive/",
+      "t": "49m",
+      "dt": "2026-08-01T13:02:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Four title matches announced for ROH Death Before Dishonor",
+      "p": "Four championship matches have been announced for ROH Death Before Dishonor, including Bandido against Nick Wayne and Athena against Hazuki. The post Four title matches announced for ROH Death...",
+      "link": "https://www.postwrestling.com/2026/08/01/four-title-matches-announced-for-roh-death-before-dishonor/",
+      "t": "1h",
+      "dt": "2026-08-01T12:13:12+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "G1 Climax 36 Contest: Night 9 Results",
+      "p": "G1 Climax 36 Contest updates from night 9 featuring Yuya Uemura vs. Aaron Wolf. The post G1 Climax 36 Contest: Night 9 Results appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW...",
+      "link": "https://www.postwrestling.com/2026/08/01/g1-climax-36-contest-night-9-results/",
+      "t": "1h",
+      "dt": "2026-08-01T12:10:08+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "ROH on HonorClub results (7/31): Lee Moriarty vs. Angelico for the ROH Pure Championship, Rachael Ellering vs. Steph De Lander, Juice Robinson vs. Anthony Henry",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (7/31): Lee Moriarty vs. Angelico for the ROH Pure Championship, Rachael Ellering vs. Steph De Lander, Juice Robinson...",
       "link": "https://prowrestling.net/site/2026/08/01/roh-on-honorclub-results-7-31-lee-moriarty-vs-angelico-for-the-roh-pure-championship-rachael-ellering-vs-steph-de-lander-juice-robinson-vs-anthony-henry/",
-      "t": "33m",
+      "t": "2h",
       "dt": "2026-08-01T11:00:04+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Will Ospreay Explains Why Fans Of WWE's Attitude Era Should Give AEW A Chance",
       "p": "Will Ospreay has given his sales pitch to fans of the WWE Attitude Era on why they should give AEW a try.",
       "link": "https://www.wrestlinginc.com/2228407/aew-wwe-attitude-era-will-ospreay-pitches-fans/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-08-01T03:35:54+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "VIP PODCAST 7/31 – Radican Worldwide: Interview with Violent J – Thoughts on his appearances in AEW this week, interactions with AEW COO Tony Khan, growth of JCW and wrestlers on the roster, more (52 min.)",
       "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is joined by one half of ICP, and JCW co-founder and co-owner, Violent J, for a new Radican Worldwide interview talking about his recent appearances in...",
       "link": "https://www.pwtorch.com/site/2026/07/31/vip-podcast-7-31-radican-worldwide-interview-with-violent-j-thoughts-on-his-appearances-in-aew-this-week-interactions-with-aew-coo-tony-khan-growth-of-jcw-and-wrestlers-on-the-roster-m/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-08-01T01:57:57+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Bandido title defense among matches announced for ROH Death Before Dishonor",
       "p": "Ring of Honor has announced the next challenger for Bandido’s ROH World Championship. And it’s someone whose last championship reign in ROH lasted for more than a year. ROH announced on social...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/bandido-title-defense-announced-for-roh-death-before-dishonor/",
-      "t": "9h",
+      "t": "12h",
       "dt": "2026-08-01T01:38:37+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "AEW's Jeff Jarrett Looks Back On Original Intention For Bullet Club Membership",
       "p": "\"Double J\" Jeff Jarrett describes his time in the Bullet Club, what his position was in the group.",
       "link": "https://www.wrestlinginc.com/2223449/aew-jeff-jarrett-original-intention-bullet-club-membership/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-08-01T01:00:00+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "ROH TV live results: Pure Champion Lee Moriarty defends against Angelico",
       "p": "Ring of Honor is back on Honor Club tonight. Scheduled for the show, ROH Pure Champion Lee Moriarty will defend his title against Angelico. Ross and Marshall Von Erich will be back in action, as...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-pure-champion-lee-moriarty-defends-against-angelico/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-07-31T23:04:00+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "AEW asks for too much of my time | Opinion",
       "p": "I’m getting tired of AEW’s constant need for more, more, more. When it was announced Redemption would start an hour early, I was optimistic that perhaps I could conclude my coverage of that show...",
       "link": "https://www.f4wonline.com/news/aew/aew-asks-for-too-much-of-my-time-opinion/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-07-31T23:00:00+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "AEW Dynamite Viewership & Ratings Report, 7/29/2026",
       "p": "The July 29 episode of \"AEW Dynamite\" saw a lot of action, but there was a slight drop in the TV ratings.",
       "link": "https://www.wrestlinginc.com/2228353/aew-dynamite-viewership-ratigns-report-july-29-2026/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-07-31T22:55:36+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Details On Rougeau Brother Appearance During AEW Redemption, Reported 'Tantrum'",
-      "p": "The Rougeau Brothers segment at AEW Redemption didn't go according to plan, and Jacques reportedly threw a tantrum backstage.",
-      "link": "https://www.wrestlinginc.com/2228345/aew-redemption-2026-jacques-rougeau-raymond-appearance-tantrum/",
-      "t": "13h",
-      "dt": "2026-07-31T22:31:38+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating: How did the Redemption fallout show perform?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the Redemption fallout show perform? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/31/aew-dynamite-rating-how-did-the-redemption-fallout-show-perform/",
-      "t": "13h",
-      "dt": "2026-07-31T21:56:29+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite viewership down for Redemption fallout",
-      "p": "Wednesday night’s episode of AEW Dynamite averaged 676,000 viewers on TBS, down 4.3% from the previous week. It’s the lowest audience for the since July 1st. Dynamite averaged a 0.12 rating in the...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-viewership-down-for-redemption-fallout/",
-      "t": "13h",
-      "dt": "2026-07-31T21:51:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mick Foley reflects on reuniting with Martha Hart at AEW Redemption",
-      "p": "AEW Redemption was an extra special night for Mick Foley because of a reunion that took place behind the scenes. On Instagram today, Foley made a post opening up about how he was able to reconnect...",
-      "link": "https://www.f4wonline.com/news/aew/mick-foley-reflects-on-reuniting-with-martha-hart-at-aew-redemption/",
-      "t": "15h",
-      "dt": "2026-07-31T20:16:37+00:00"
     }
   ]
 }

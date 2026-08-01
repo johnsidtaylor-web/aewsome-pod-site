@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T15:15:49.781777+00:00",
+  "updated": "2026-08-01T17:12:25.116023+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -7,16 +7,48 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "NJPW G1 Climax 36 night 10 results, updated standings",
+      "p": "The G1 Climax 36 continued on Saturday in Hiroshima. Five matches in A Block took place, with each wrestler now having completed six matches. Konosuke Takeshita continues to sit atop the block. He...",
+      "link": "https://www.f4wonline.com/news/new-japan/new-japan-results/njpw-g1-climax-36-night-10-results-updated-standings/",
+      "t": "24m",
+      "dt": "2026-08-01T16:48:12+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "NJPW “G1 Climax 36” results (8/1): Vetter’s review of Konosuke Takeshita vs. Hirooki Goto, Yota Tsuji vs. Ryohei Oiwa, Shingo Takagi vs. Great-O-Khan, Yuto-Ice vs. Jake Lee, Boltin Oleg vs. Sanada",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (8/1): Vetter’s review of Konosuke Takeshita vs. Hirooki Goto, Yota Tsuji vs. Ryohei Oiwa, Shingo Takagi vs....",
+      "link": "https://prowrestling.net/site/2026/08/01/njpw-g1-climax-36-results-8-1-vetters-review-of-konosuke-takeshita-vs-hirooki-goto-yota-tsuji-vs-ryohei-oiwa-shingo-takagi-vs-great-o-khan-yuto-ice-vs-jake-lee-boltin-oleg-vs-sanada/",
+      "t": "45m",
+      "dt": "2026-08-01T16:27:08+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Says Kenny Omega Is Responsible For AEW's Existence",
+      "p": "AEW owner Tony Khan is steadfast in his praise of AEW World Champion Kenny Omega, starting that Omega is largely responsible for AEW's existence",
+      "link": "https://www.wrestlinginc.com/2225088/aew-tony-khan-kenny-omega-responsible-existence/",
+      "t": "1h",
+      "dt": "2026-08-01T16:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW wrestler wins championship in CMLL",
+      "p": "Thunder Rosa is the new Mexican National Women’s Champion. Rosa defeated India Sioux at Arena Mexico on Friday, ending Sioux’s 511-day reign with the belt. The finish of the match saw Rosa hit a...",
+      "link": "https://www.f4wonline.com/news/aew/aew-wrestler-wins-championship-in-cmll/",
+      "t": "1h",
+      "dt": "2026-08-01T15:46:13+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "RJ City Details His Move From WWE To AEW",
       "p": "RJ City details his move from WWE to AEW, and how it all happened because he tweeted a pitch he had in WWE that was noticed by AEW owner Tony Khan",
       "link": "https://www.wrestlinginc.com/2224533/aew-wwe-rj-city-details-move/",
-      "t": "15m",
+      "t": "2h",
       "dt": "2026-08-01T15:00:00+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "NJPW G1 Climax 36 Night 10 Results: Takeshita retains A Block lead, Boltin wins in 90 seconds",
       "p": "Konosuke Takeshita held onto his A Block lead by defeating Hirooki Goto in Saturday’s G1 Climax 36 main event. The post NJPW G1 Climax 36 Night 10 Results: Takeshita retains A Block lead, Boltin...",
       "link": "https://www.postwrestling.com/2026/08/01/njpw-g1-climax-36-night-10-results-takeshita-retains-a-block-lead-boltin-wins-in-90-seconds/",
-      "t": "37m",
+      "t": "2h",
       "dt": "2026-08-01T14:37:57+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Jacques Rougeau releases tribute video AEW declined to play at Redemption",
       "p": "Jacques Rougeau has released the tribute video that AEW wouldn’t play at Redemption in Montreal last Sunday. The pre-show featured a tribute to four generations of the Rougeau family, with Jacques...",
       "link": "https://www.f4wonline.com/news/aew/jacques-rougeau-releases-tribute-video-aew-declined-to-play-at-redemption/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-01T13:45:00+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Update on AEW Redemption pay-per-view buys | Exclusive",
       "p": "An update is available regarding how AEW Redemption did on pay-per-view. Dave Meltzer addressed how the show is trending on various platforms in Friday’s edition of the Wrestling Observer...",
       "link": "https://www.f4wonline.com/news/aew/update-on-aew-redemption-pay-per-view-buys-exclusive/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-08-01T13:02:00+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Four title matches announced for ROH Death Before Dishonor",
       "p": "Four championship matches have been announced for ROH Death Before Dishonor, including Bandido against Nick Wayne and Athena against Hazuki. The post Four title matches announced for ROH Death...",
       "link": "https://www.postwrestling.com/2026/08/01/four-title-matches-announced-for-roh-death-before-dishonor/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-01T12:13:12+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "G1 Climax 36 Contest: Night 9 Results",
       "p": "G1 Climax 36 Contest updates from night 9 featuring Yuya Uemura vs. Aaron Wolf. The post G1 Climax 36 Contest: Night 9 Results appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW...",
       "link": "https://www.postwrestling.com/2026/08/01/g1-climax-36-contest-night-9-results/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-01T12:10:08+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "ROH on HonorClub results (7/31): Lee Moriarty vs. Angelico for the ROH Pure Championship, Rachael Ellering vs. Steph De Lander, Juice Robinson vs. Anthony Henry",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (7/31): Lee Moriarty vs. Angelico for the ROH Pure Championship, Rachael Ellering vs. Steph De Lander, Juice Robinson...",
       "link": "https://prowrestling.net/site/2026/08/01/roh-on-honorclub-results-7-31-lee-moriarty-vs-angelico-for-the-roh-pure-championship-rachael-ellering-vs-steph-de-lander-juice-robinson-vs-anthony-henry/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-08-01T11:00:04+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Will Ospreay Explains Why Fans Of WWE's Attitude Era Should Give AEW A Chance",
       "p": "Will Ospreay has given his sales pitch to fans of the WWE Attitude Era on why they should give AEW a try.",
       "link": "https://www.wrestlinginc.com/2228407/aew-wwe-attitude-era-will-ospreay-pitches-fans/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-08-01T03:35:54+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 7/31 – Radican Worldwide: Interview with Violent J – Thoughts on his appearances in AEW this week, interactions with AEW COO Tony Khan, growth of JCW and wrestlers on the roster, more (52 min.)",
-      "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is joined by one half of ICP, and JCW co-founder and co-owner, Violent J, for a new Radican Worldwide interview talking about his recent appearances in...",
-      "link": "https://www.pwtorch.com/site/2026/07/31/vip-podcast-7-31-radican-worldwide-interview-with-violent-j-thoughts-on-his-appearances-in-aew-this-week-interactions-with-aew-coo-tony-khan-growth-of-jcw-and-wrestlers-on-the-roster-m/",
-      "t": "13h",
-      "dt": "2026-08-01T01:57:57+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bandido title defense among matches announced for ROH Death Before Dishonor",
-      "p": "Ring of Honor has announced the next challenger for Bandido’s ROH World Championship. And it’s someone whose last championship reign in ROH lasted for more than a year. ROH announced on social...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/bandido-title-defense-announced-for-roh-death-before-dishonor/",
-      "t": "13h",
-      "dt": "2026-08-01T01:38:37+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jeff Jarrett Looks Back On Original Intention For Bullet Club Membership",
-      "p": "\"Double J\" Jeff Jarrett describes his time in the Bullet Club, what his position was in the group.",
-      "link": "https://www.wrestlinginc.com/2223449/aew-jeff-jarrett-original-intention-bullet-club-membership/",
-      "t": "14h",
-      "dt": "2026-08-01T01:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH TV live results: Pure Champion Lee Moriarty defends against Angelico",
-      "p": "Ring of Honor is back on Honor Club tonight. Scheduled for the show, ROH Pure Champion Lee Moriarty will defend his title against Angelico. Ross and Marshall Von Erich will be back in action, as...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-pure-champion-lee-moriarty-defends-against-angelico/",
-      "t": "16h",
-      "dt": "2026-07-31T23:04:00+00:00"
     }
   ]
 }

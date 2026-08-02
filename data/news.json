@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-02T17:12:37.729177+00:00",
+  "updated": "2026-08-02T18:10:17.907862+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (1 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -16,7 +16,7 @@
       "h": "Update on Jacques Rougeau tribute video not airing at AEW Redemption | Exclusive",
       "p": "Dave Meltzer had more on the situation involving Jacques Rougeau backstage at AEW Redemption on the most recent edition of Wrestling Observer Radio. In this week’s edition of the Wrestling...",
       "link": "https://www.f4wonline.com/news/aew/update-on-jacques-rougeau-tribute-video-not-airing-at-aew-redemption-exclusive/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-02T13:12:55+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "G1 Climax 36 Contest: Night 10 Results",
       "p": "G1 Climax 36 Listener Contest standings after night 10 headlined by Konosuke Takeshita vs. Hirooki Goto. The post G1 Climax 36 Contest: Night 10 Results appeared first on POST Wrestling |...",
       "link": "https://www.postwrestling.com/2026/08/01/g1-climax-36-contest-night-10-results/",
-      "t": "20h",
+      "t": "21h",
       "dt": "2026-08-01T21:08:38+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "EXCLUSIVE: Violent J says he didn’t know ICP appearing before Dynamite would go viral, reveals pre-tape filmed for AEW Women’s World Champion Willow Nightingale got cut",
       "p": "JCW co-owner Violent J said he didn’t know they had gone viral online for appearing on the AEW Dynamite pre-show this week because he thought the intro was just going to be for the fans [...]",
       "link": "https://www.pwtorch.com/site/2026/08/01/exclusive-violent-j-says-he-didnt-know-icp-appearing-before-dynamite-would-go-viral-reveals-pre-tape-for-aew-womens-world-champion-willow-nightingale-got-cut/",
-      "t": "21h",
+      "t": "22h",
       "dt": "2026-08-01T19:51:28+00:00"
     },
     {
@@ -56,16 +56,8 @@
       "h": "NJPW G1 CLIMAX 36 RESULTS – NIGHT 10 (8/1) – Results of Takeshita vs. Goto, Tsuji vs. Oiwa, Yuto-Ice vs. Lee, Oleg vs. Sanada, more",
       "p": "NJPW G1 CLIMAX 36: NIGHT 10 REPORT AUGUST 1, 2026 HIROSHIMA, JAPAN AT HIROSHIMA SUN PLAZA AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentator: Walker Stewart,...",
       "link": "https://www.pwtorch.com/site/2026/08/01/njpw-g1-climax-36-results-night-10-8-1-results-of-takeshita-vs-goto-tsuji-vs-oiwa-yuto-ice-vs-lee-oleg-vs-sanada-more/",
-      "t": "22h",
+      "t": "23h",
       "dt": "2026-08-01T18:32:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "NJPW G1 Climax 36 night 10 results, updated standings",
-      "p": "The G1 Climax 36 continued on Saturday in Hiroshima. Five matches in A Block took place, with each wrestler now having completed six matches. Konosuke Takeshita continues to sit atop the block. He...",
-      "link": "https://www.f4wonline.com/news/new-japan/new-japan-results/njpw-g1-climax-36-night-10-results-updated-standings/",
-      "t": "1d",
-      "dt": "2026-08-01T16:48:12+00:00"
     },
     {
       "src": "ProWrestling.net",
@@ -74,14 +66,6 @@
       "link": "https://prowrestling.net/site/2026/08/01/njpw-g1-climax-36-results-8-1-vetters-review-of-konosuke-takeshita-vs-hirooki-goto-yota-tsuji-vs-ryohei-oiwa-shingo-takagi-vs-great-o-khan-yuto-ice-vs-jake-lee-boltin-oleg-vs-sanada/",
       "t": "1d",
       "dt": "2026-08-01T16:27:08+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW wrestler wins championship in CMLL",
-      "p": "Thunder Rosa is the new Mexican National Women’s Champion. Rosa defeated India Sioux at Arena Mexico on Friday, ending Sioux’s 511-day reign with the belt. The finish of the match saw Rosa hit a...",
-      "link": "https://www.f4wonline.com/news/aew/aew-wrestler-wins-championship-in-cmll/",
-      "t": "1d",
-      "dt": "2026-08-01T15:46:13+00:00"
     },
     {
       "src": "POST Wrestling",
@@ -106,6 +90,22 @@
       "link": "https://prowrestling.net/site/2026/08/01/roh-on-honorclub-results-7-31-lee-moriarty-vs-angelico-for-the-roh-pure-championship-rachael-ellering-vs-steph-de-lander-juice-robinson-vs-anthony-henry/",
       "t": "1d",
       "dt": "2026-08-01T11:00:04+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 7/31 – Radican Worldwide: Interview with Violent J – Thoughts on his appearances in AEW this week, interactions with AEW COO Tony Khan, growth of JCW and wrestlers on the roster, more (52 min.)",
+      "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is joined by one half of ICP, and JCW co-founder and co-owner, Violent J, for a new Radican Worldwide interview talking about his recent appearances in...",
+      "link": "https://www.pwtorch.com/site/2026/07/31/vip-podcast-7-31-radican-worldwide-interview-with-violent-j-thoughts-on-his-appearances-in-aew-this-week-interactions-with-aew-coo-tony-khan-growth-of-jcw-and-wrestlers-on-the-roster-m/",
+      "t": "1d",
+      "dt": "2026-08-01T01:57:57+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite rating: How did the Redemption fallout show perform?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the Redemption fallout show perform? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/07/31/aew-dynamite-rating-how-did-the-redemption-fallout-show-perform/",
+      "t": "1d",
+      "dt": "2026-07-31T21:56:29+00:00"
     }
   ]
 }

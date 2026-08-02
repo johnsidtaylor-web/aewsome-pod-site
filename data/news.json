@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T18:10:17.907862+00:00",
+  "updated": "2026-08-02T19:31:56.196122+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -7,16 +7,32 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (1 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Thunder Rosa Wins Mexican National Women's Championship In CMLL",
+      "p": "AEW star Thunder Rosa won new gold on Friday, when she captured the Mexican National Women's Championship during a CMLL show.",
+      "link": "https://www.wrestlinginc.com/2228624/aew-thunder-rosa-mexican-national-womens-championship-cmll/",
+      "t": "9m",
+      "dt": "2026-08-02T19:22:01+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Scorpio Sky Says Promo Segment With Former AEW World Champion Was 'Career Highlight'",
+      "p": "Former World Tag Team and TNT Champion Scorpio Sky recalls which promo is part of his career highlights in AEW.",
+      "link": "https://www.wrestlinginc.com/2224062/aew-scorpio-sky-chris-jericho-promo-segment-career-highlight/",
+      "t": "31m",
+      "dt": "2026-08-02T19:00:00+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Update on Jacques Rougeau tribute video not airing at AEW Redemption | Exclusive",
       "p": "Dave Meltzer had more on the situation involving Jacques Rougeau backstage at AEW Redemption on the most recent edition of Wrestling Observer Radio. In this week’s edition of the Wrestling...",
       "link": "https://www.f4wonline.com/news/aew/update-on-jacques-rougeau-tribute-video-not-airing-at-aew-redemption-exclusive/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-08-02T13:12:55+00:00"
     },
     {
@@ -24,23 +40,15 @@
       "h": "G1 Climax 36 Contest: Night 10 Results",
       "p": "G1 Climax 36 Listener Contest standings after night 10 headlined by Konosuke Takeshita vs. Hirooki Goto. The post G1 Climax 36 Contest: Night 10 Results appeared first on POST Wrestling |...",
       "link": "https://www.postwrestling.com/2026/08/01/g1-climax-36-contest-night-10-results/",
-      "t": "21h",
+      "t": "22h",
       "dt": "2026-08-01T21:08:38+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Mick Foley Reunited With Martha Hart At AEW Redemption, Felt 'Such A Sense Of Healing'",
-      "p": "Mick Foley reunited with Martha Hart and some of the Hart family at AEW Redemption, and said it gave him a \"sense of healing\" in a social media post.",
-      "link": "https://www.wrestlinginc.com/2228502/mick-foley-martha-hart-aew-redemption-such-sense-healing-owen/",
-      "t": "21h",
-      "dt": "2026-08-01T20:11:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "EXCLUSIVE: Violent J says he didn’t know ICP appearing before Dynamite would go viral, reveals pre-tape filmed for AEW Women’s World Champion Willow Nightingale got cut",
       "p": "JCW co-owner Violent J said he didn’t know they had gone viral online for appearing on the AEW Dynamite pre-show this week because he thought the intro was just going to be for the fans [...]",
       "link": "https://www.pwtorch.com/site/2026/08/01/exclusive-violent-j-says-he-didnt-know-icp-appearing-before-dynamite-would-go-viral-reveals-pre-tape-for-aew-womens-world-champion-willow-nightingale-got-cut/",
-      "t": "22h",
+      "t": "23h",
       "dt": "2026-08-01T19:51:28+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "FREE PODCAST 8/1 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner discuss Kanner’s in-person perspective from AEW Dynamite (76 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss the July 29th edition of AEW Dynamite from Detroit, Mich. Gregg was...",
       "link": "https://www.pwtorch.com/site/2026/08/01/free-podcast-8-1-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-discuss-kanners-in-person-perspective-from-aew-dynamite-76-min/",
-      "t": "22h",
+      "t": "1d",
       "dt": "2026-08-01T19:11:02+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "NJPW G1 CLIMAX 36 RESULTS – NIGHT 10 (8/1) – Results of Takeshita vs. Goto, Tsuji vs. Oiwa, Yuto-Ice vs. Lee, Oleg vs. Sanada, more",
       "p": "NJPW G1 CLIMAX 36: NIGHT 10 REPORT AUGUST 1, 2026 HIROSHIMA, JAPAN AT HIROSHIMA SUN PLAZA AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentator: Walker Stewart,...",
       "link": "https://www.pwtorch.com/site/2026/08/01/njpw-g1-climax-36-results-night-10-8-1-results-of-takeshita-vs-goto-tsuji-vs-oiwa-yuto-ice-vs-lee-oleg-vs-sanada-more/",
-      "t": "23h",
+      "t": "1d",
       "dt": "2026-08-01T18:32:36+00:00"
     },
     {
@@ -98,14 +106,6 @@
       "link": "https://www.pwtorch.com/site/2026/07/31/vip-podcast-7-31-radican-worldwide-interview-with-violent-j-thoughts-on-his-appearances-in-aew-this-week-interactions-with-aew-coo-tony-khan-growth-of-jcw-and-wrestlers-on-the-roster-m/",
       "t": "1d",
       "dt": "2026-08-01T01:57:57+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating: How did the Redemption fallout show perform?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the Redemption fallout show perform? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/07/31/aew-dynamite-rating-how-did-the-redemption-fallout-show-perform/",
-      "t": "1d",
-      "dt": "2026-07-31T21:56:29+00:00"
     }
   ]
 }

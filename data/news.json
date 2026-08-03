@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-03T19:54:49.767457+00:00",
+  "updated": "2026-08-03T21:19:51.141783+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "AJ Styles questions WWE’s decision to release New Day, Motor City Machine Guns",
+      "p": "AJ Styles thinks WWE made a poor decision by letting go of New Day and Motor City Machine Guns. With their 90-day clauses expiring last week, Alex Shelley & Chris Sabin arrived in AEW last week on...",
+      "link": "https://www.f4wonline.com/news/wwe/aj-styles-questions-wwes-decision-to-release-new-day-motor-city-machine-guns/",
+      "t": "20m",
+      "dt": "2026-08-03T20:59:23+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Update On Max Caster's AEW Status",
+      "p": "A backstage update on Max Caster's AEW status suggests the former AEW World Tag Team and Trios Champion is set to become a free agent in October",
+      "link": "https://www.wrestlinginc.com/2229468/aew-max-caster-backstage-update-status/",
+      "t": "1h",
+      "dt": "2026-08-03T20:12:14+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 8/3 – PWTorch Dailycast – Worse or Better (Episode 15 – Pay-Per-View With the Vampire): Stephanie returns to discuss AEW’s Pay-Per-View structure and history (121 min.)",
       "p": "SHOW SUMMARY: In this PWTorch Dailycast series titled “Worse or Better,” Josh White and Stephanie Chase discuss one aspect of today’s pro wrestling scene and compare it to a previous era or eras...",
       "link": "https://www.pwtorch.com/site/2026/08/03/free-podcast-8-3-pwtorch-dailycast-worse-or-better-episode-15-pay-per-view-with-the-vampire-stephanie-returns-to-discuss-aews-pay-per-view-structure-and-history-121-min/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-03T18:31:09+00:00"
     },
     {
@@ -24,23 +40,15 @@
       "h": "Former AEW Tag Team & Trios Champion’s contract reportedly up this fall",
       "p": "Max Caster hasn’t been in an AEW ring since December 2025 and there appears to be a possibility he might not anytime soon. Fightful Select reported on Monday that Caster’s AEW contract is set to...",
       "link": "https://www.f4wonline.com/news/aew/max-caster-aew-contract-up-october/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-03T18:02:45+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Speedball Mike Bailey: I Wanna Win Against Kyle Fletcher Decisively, This Is What I Need",
-      "p": "Speedball Mike Bailey says that he wants to win against Kyle Fletcher decisively and it is what he needs at this stage of his career. At AEW Dynamite: Grand Slam Mexico, Speedball will take on...",
-      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-i-wanna-win-against-kyle-fletcher-decisively-this-is-what-i-need/",
-      "t": "1h",
-      "dt": "2026-08-03T18:01:43+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW COLLISION HITS & MISSES (7/30): Motor City Machine Guns make their AEW debut, Continental Cup announced, Grand Slam: Mexico takes shape",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s Collision, starting with the night’s biggest development. HITS MOTOR...",
       "link": "https://www.pwtorch.com/site/2026/08/03/aew-collision-hits-misses-7-30-motor-city-machine-guns-make-their-aew-debut-continental-cup-announced-grand-slam-mexico-takes-shape/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-03T17:53:36+00:00"
     },
     {
@@ -48,31 +56,15 @@
       "h": "Backstage Details On Jacques Rougeau Video AEW Refused To Air During Redemption",
       "p": "Reports have surfaced that Jacques Rougeau had a \"tantrum\" at AEW Redemption because they wouldn't use a video he made to air during a tribute segment.",
       "link": "https://www.wrestlinginc.com/2229265/ption-edit-jacques-rougeau-video-aew-redemption-refused-air-hulk-hogan/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-03T17:51:24+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Max Caster’s AEW Contract Set To Expire In October",
-      "p": "An update on Max Caster’s status with AEW. A new story is up on Fightful Select via Sean Ross Sapp. He noted that Max Caster’s contract with All Elite Wrestling is expiring in October. “Max...",
-      "link": "https://www.fightful.com/wrestling-news/max-casters-aew-contract-set-to-expire-in-october/",
-      "t": "2h",
-      "dt": "2026-08-03T17:44:35+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Speedball Mike Bailey On The Name Of The Move He Used To Pin Jake Doyle On AEW Dynamite: I Was Thinking Swiss Role",
-      "p": "Speedball Mike Bailey is looking for a new name for one of his moves after he used it to pin Jake Doyle on this week’s AEW Dynamite. On this past week’s edition of AEW Dynamite, Speedball would...",
-      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-on-the-name-of-the-move-he-used-to-pin-jake-doyle-on-aew-dynamite-i-was-thinking-swiss-role/",
-      "t": "2h",
-      "dt": "2026-08-03T17:41:55+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "CMLL no longer listing Bandido vs. Bárbaro Cavernario as a title match for Semana Internacional",
       "p": "CMLL has slightly altered Tuesday’s Semana Internacional card, which features many AEW performers. The post CMLL no longer listing Bandido vs. Bárbaro Cavernario as a title match for Semana...",
       "link": "https://www.postwrestling.com/2026/08/03/cmll-no-longer-listing-bandido-vs-barbaro-cavernario-as-a-title-match-for-semana-internacional/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-03T16:18:41+00:00"
     },
     {
@@ -80,7 +72,7 @@
       "h": "Adam Copeland lists ‘great white whales’ he’s still trying to catch before retirement",
       "p": "Over the next several weeks, Adam Copeland will be crossing a few items off his wrestling bucket list. The 52-year-old AEW star shared an Instagram post listing off some of the “great white...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-lists-aew-great-white-whales/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-03T16:08:50+00:00"
     },
     {
@@ -88,7 +80,7 @@
       "h": "AEW WrestleDream 2026 Date & Venue Announced",
       "p": "AEW WrestleDream is returning this October, and it will be held in a building that's hosted multiple AEW pay-per-views in the past.",
       "link": "https://www.wrestlinginc.com/2229121/aew-wrestledream-2026-date-venue-orlando-florida-october-17/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-03T16:04:23+00:00"
     },
     {
@@ -96,7 +88,7 @@
       "h": "WWE's Kevin Owens Pays Tribute To AEW's Rebel",
       "p": "Basking in the glow of his SummerSlam victory, WWE star Kevin Owens surprisingly paid tribute to AEW star Rebel, who inspired him during his recovery",
       "link": "https://www.wrestlinginc.com/2229086/wwe-kevin-owens-pays-tribute-aew-rebel/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-03T15:46:29+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "AEW WrestleDream set for Orlando in October",
       "p": "AEW’s October pay-per-view event is scheduled, with the date and location revealed. The post AEW WrestleDream set for Orlando in October appeared first on POST Wrestling | Podcasts, News, Reviews...",
       "link": "https://www.postwrestling.com/2026/08/03/aew-wrestledream-set-for-orlando-in-october/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-08-03T15:00:51+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Estimates AEW Redemption Buyrate As Company's Lowest Of 2026 So Far",
+      "p": "AEW Redemption 2026 looks to have done the lowest pay-per-view buyrate of the year for AEW, but Dave Meltzer can see some positives.",
+      "link": "https://www.wrestlinginc.com/2229004/aew-redemption-2026-dave-meltzer-buyrate-lowest/",
+      "t": "6h",
+      "dt": "2026-08-03T14:52:33+00:00"
     }
   ]
 }

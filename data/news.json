@@ -1,22 +1,94 @@
 {
-  "updated": "2026-08-03T11:41:09.218700+00:00",
+  "updated": "2026-08-03T15:12:46.364901+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (1 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "POST Wrestling",
+      "h": "AEW WrestleDream set for Orlando in October",
+      "p": "AEW’s October pay-per-view event is scheduled, with the date and location revealed. The post AEW WrestleDream set for Orlando in October appeared first on POST Wrestling | Podcasts, News, Reviews...",
+      "link": "https://www.postwrestling.com/2026/08/03/aew-wrestledream-set-for-orlando-in-october/",
+      "t": "11m",
+      "dt": "2026-08-03T15:00:51+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Estimates AEW Redemption Buyrate As Company's Lowest Of 2026 So Far",
+      "p": "AEW Redemption 2026 looks to have done the lowest pay-per-view buyrate of the year for AEW, but Dave Meltzer can see some positives.",
+      "link": "https://www.wrestlinginc.com/2229004/aew-redemption-2026-dave-meltzer-buyrate-lowest/",
+      "t": "20m",
+      "dt": "2026-08-03T14:52:33+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW WrestleDream 2026 Taking Place On October 17th In Orlando, Florida",
+      "p": "The date and location for WrestleDream. All Elite Wrestling pushed out the date and location for the 2026 WrestleDream pay-per-view. The event is taking place at the Addition Financial Arena in...",
+      "link": "https://www.fightful.com/wrestling-news/aew-wrestledream-2026-taking-place-on-october-17th-in-orlando-florida/",
+      "t": "27m",
+      "dt": "2026-08-03T14:44:42+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW announces WrestleDream 2026 date and location",
+      "p": "Orlando, Florida is set to host AEW WrestleDream 2026. It was announced today that the WrestleDream pay-per-view will take place from Addition Financial Arena on Saturday, October 17. This is the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-announces-wrestledream-2026-date-and-location/",
+      "t": "45m",
+      "dt": "2026-08-03T14:27:18+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "G1 Climax 36 Night 10 & 11 Review: Goto vs. Takeshita, Kidd vs HENARE",
+      "p": "Karen Peterson & Kate From MTL review Night 10 & 11 of G1 Climax 36, headlined by Hirooki Goto vs. Konosuke Takeshita and HENARE vs. Gabe Kidd. Full cards and match recommendations within! The...",
+      "link": "https://www.postwrestling.com/2026/08/03/g1-climax-36-night-10-11-review-goto-vs-takeshita-kidd-vs-henare/",
+      "t": "1h",
+      "dt": "2026-08-03T14:00:24+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: The card for Saturday’s live show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for Saturday’s live show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/03/aew-collision-lineup-the-card-for-saturdays-live-show-14/",
+      "t": "1h",
+      "dt": "2026-08-03T14:00:18+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST SCHEDULE: Double Shot coverage “Big Bossman” and “The Renegade”, Grand Slam Mexico, G1 Climax",
+      "p": "John Pollock & Wai Ting the \"Big Bossman\" and \"The Renegade\" episodes of Dark Side, coverage of Grand Slam Mexico, and our G1 Climax shows continue. The post POST SCHEDULE: Double Shot coverage...",
+      "link": "https://www.postwrestling.com/2026/08/03/post-schedule-double-shot-coverage-big-bossman-and-the-renegade-grand-slam-mexico-g1-climax/",
+      "t": "1h",
+      "dt": "2026-08-03T14:00:17+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH World Championship No Longer Being Defended At AEW vs. CMLL Event",
+      "p": "The ROH World Champion is still set for singles action. August 4th is the date of the AEW versus CMLL show at Arena México. One of the advertised matches was Bandido defending the ROH World...",
+      "link": "https://www.fightful.com/wrestling-news/roh-world-championship-no-longer-being-defended-at-aew-vs-cmll-event/",
+      "t": "1h",
+      "dt": "2026-08-03T13:57:36+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Grand Slam Mexico",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Grand Slam Mexico appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/03/aew-dynamite-preview-grand-slam-mexico-2/",
+      "t": "1h",
+      "dt": "2026-08-03T13:15:05+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "Kevin Owens cites Rebel as inspiration, reveals when he found out he had been cleared to wrestle",
       "p": "Kevin Owens, who returned to the ring at SummerSlam tonight for the first time after suffering a neck injury that almost ended his career over a year ago, cited AEW wrestler Rebel (real name Tanea...",
       "link": "https://www.pwtorch.com/site/2026/08/02/kevin-owens-cites-rebel-as-inspiration-reveals-when-he-found-out-he-had-been-cleared-to-wrestle/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-08-03T04:38:05+00:00"
     },
     {
@@ -24,7 +96,7 @@
       "h": "FREE PODCAST 8/2 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Cody vs. Malakai Black in main event and teasing retirement, continuation of Page-Omega, Jericho-Guerrera, Christian Cage named number one contender, more (153 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (8-4-2021), PWTorch assistant editor Zack Heydorn guest hosts for Wade Keller and is joined by...",
       "link": "https://www.pwtorch.com/site/2026/08/02/free-podcast-8-2-wkpwp-aew-dynamite-post-show-5-yrs-ago-cody-vs-malakai-black-in-main-event-and-teasing-retirement-continuation-of-page-omega-jericho-guerrera-christian-cage-n/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-08-03T04:00:24+00:00"
     },
     {
@@ -32,80 +104,8 @@
       "h": "Kevin Owens calls Rebel’s fight with ALS ‘inspirational’",
       "p": "Kevin Owens recently made a surprising move and called out AEW wrestler Rebel’s fight with ALS following his return at WWE SummerSlam 2026 Night Two. With almost the entire AEW roster, including...",
       "link": "https://www.f4wonline.com/news/wwe/kevin-owens-calls-rebels-fight-with-als-inspirational/",
-      "t": "8h",
+      "t": "12h",
       "dt": "2026-08-03T02:59:28+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Subscriber exclusive: Dave Meltzer’s weekly AEW Dynamite ratings analysis",
-      "p": "Dave Meltzer has a new article for subscribers analyzing last Wednesday’s AEW Dynamite ratings. Subscribers can check it out here.",
-      "link": "https://www.f4wonline.com/news/aew/subscriber-exclusive-dave-meltzers-weekly-aew-dynamite-ratings-analysis/",
-      "t": "13h",
-      "dt": "2026-08-02T21:43:17+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Thunder Rosa Wins Mexican National Women's Championship In CMLL",
-      "p": "AEW star Thunder Rosa won new gold on Friday, when she captured the Mexican National Women's Championship during a CMLL show.",
-      "link": "https://www.wrestlinginc.com/2228624/aew-thunder-rosa-mexican-national-womens-championship-cmll/",
-      "t": "16h",
-      "dt": "2026-08-02T19:22:01+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Scorpio Sky Says Promo Segment With Former AEW World Champion Was 'Career Highlight'",
-      "p": "Former World Tag Team and TNT Champion Scorpio Sky recalls which promo is part of his career highlights in AEW.",
-      "link": "https://www.wrestlinginc.com/2224062/aew-scorpio-sky-chris-jericho-promo-segment-career-highlight/",
-      "t": "16h",
-      "dt": "2026-08-02T19:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on Jacques Rougeau tribute video not airing at AEW Redemption | Exclusive",
-      "p": "Update: From Dave Meltzer: A correction from last night’s show. The Jacques Rougeau pin of Hulk Hogan was not from a WCW show as I said. It was an independent that Jacques, PCO, Tony Mule and...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-jacques-rougeau-tribute-video-not-airing-at-aew-redemption-exclusive/",
-      "t": "22h",
-      "dt": "2026-08-02T13:12:55+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "G1 Climax 36 Contest: Night 10 Results",
-      "p": "G1 Climax 36 Listener Contest standings after night 10 headlined by Konosuke Takeshita vs. Hirooki Goto. The post G1 Climax 36 Contest: Night 10 Results appeared first on POST Wrestling |...",
-      "link": "https://www.postwrestling.com/2026/08/01/g1-climax-36-contest-night-10-results/",
-      "t": "1d",
-      "dt": "2026-08-01T21:08:38+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "EXCLUSIVE: Violent J says he didn’t know ICP appearing before Dynamite would go viral, reveals pre-tape filmed for AEW Women’s World Champion Willow Nightingale got cut",
-      "p": "JCW co-owner Violent J said he didn’t know they had gone viral online for appearing on the AEW Dynamite pre-show this week because he thought the intro was just going to be for the fans [...]",
-      "link": "https://www.pwtorch.com/site/2026/08/01/exclusive-violent-j-says-he-didnt-know-icp-appearing-before-dynamite-would-go-viral-reveals-pre-tape-for-aew-womens-world-champion-willow-nightingale-got-cut/",
-      "t": "1d",
-      "dt": "2026-08-01T19:51:28+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 8/1 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner discuss Kanner’s in-person perspective from AEW Dynamite (76 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss the July 29th edition of AEW Dynamite from Detroit, Mich. Gregg was...",
-      "link": "https://www.pwtorch.com/site/2026/08/01/free-podcast-8-1-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-discuss-kanners-in-person-perspective-from-aew-dynamite-76-min/",
-      "t": "1d",
-      "dt": "2026-08-01T19:11:02+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "NJPW G1 CLIMAX 36 RESULTS – NIGHT 10 (8/1) – Results of Takeshita vs. Goto, Tsuji vs. Oiwa, Yuto-Ice vs. Lee, Oleg vs. Sanada, more",
-      "p": "NJPW G1 CLIMAX 36: NIGHT 10 REPORT AUGUST 1, 2026 HIROSHIMA, JAPAN AT HIROSHIMA SUN PLAZA AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentator: Walker Stewart,...",
-      "link": "https://www.pwtorch.com/site/2026/08/01/njpw-g1-climax-36-results-night-10-8-1-results-of-takeshita-vs-goto-tsuji-vs-oiwa-yuto-ice-vs-lee-oleg-vs-sanada-more/",
-      "t": "1d",
-      "dt": "2026-08-01T18:32:36+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "NJPW “G1 Climax 36” results (8/1): Vetter’s review of Konosuke Takeshita vs. Hirooki Goto, Yota Tsuji vs. Ryohei Oiwa, Shingo Takagi vs. Great-O-Khan, Yuto-Ice vs. Jake Lee, Boltin Oleg vs. Sanada",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (8/1): Vetter’s review of Konosuke Takeshita vs. Hirooki Goto, Yota Tsuji vs. Ryohei Oiwa, Shingo Takagi vs....",
-      "link": "https://prowrestling.net/site/2026/08/01/njpw-g1-climax-36-results-8-1-vetters-review-of-konosuke-takeshita-vs-hirooki-goto-yota-tsuji-vs-ryohei-oiwa-shingo-takagi-vs-great-o-khan-yuto-ice-vs-jake-lee-boltin-oleg-vs-sanada/",
-      "t": "1d",
-      "dt": "2026-08-01T16:27:08+00:00"
     }
   ]
 }

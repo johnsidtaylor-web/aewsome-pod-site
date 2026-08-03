@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-03T00:10:14.352220+00:00",
+  "updated": "2026-08-03T03:51:14.793280+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (2 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Austin Creed Calls Out Kenny Omega For Ignoring Fan Mega Man Challenge",
-      "p": "The beef continues between Austin Creed (Xavier Woods) and Kenny Omega. Appearing at The National Sports Collectors Convention, Creed and Kofi (Kofi Kingston in WWE) spoke with a man who claimed...",
-      "link": "https://www.fightful.com/wrestling-news/austin-creed-calls-out-kenny-omega-for-ignoring-fan-mega-man-challenge/",
-      "t": "27m",
-      "dt": "2026-08-02T23:42:57+00:00"
+      "src": "Wrestling Observer",
+      "h": "Kevin Owens calls Rebel’s fight with ALS ‘inspirational’",
+      "p": "Kevin Owens recently made a surprising move and called out AEW wrestler Rebel’s fight with ALS following his return at WWE SummerSlam 2026 Night Two. With almost the entire AEW roster, including...",
+      "link": "https://www.f4wonline.com/news/wwe/kevin-owens-calls-rebels-fight-with-als-inspirational/",
+      "t": "51m",
+      "dt": "2026-08-03T02:59:28+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Subscriber exclusive: Dave Meltzer’s weekly AEW Dynamite ratings analysis",
       "p": "Dave Meltzer has a new article for subscribers analyzing last Wednesday’s AEW Dynamite ratings. Subscribers can check it out here.",
       "link": "https://www.f4wonline.com/news/aew/subscriber-exclusive-dave-meltzers-weekly-aew-dynamite-ratings-analysis/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-08-02T21:43:17+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "AEW's Thunder Rosa Wins Mexican National Women's Championship In CMLL",
       "p": "AEW star Thunder Rosa won new gold on Friday, when she captured the Mexican National Women's Championship during a CMLL show.",
       "link": "https://www.wrestlinginc.com/2228624/aew-thunder-rosa-mexican-national-womens-championship-cmll/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-08-02T19:22:01+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "Scorpio Sky Says Promo Segment With Former AEW World Champion Was 'Career Highlight'",
       "p": "Former World Tag Team and TNT Champion Scorpio Sky recalls which promo is part of his career highlights in AEW.",
       "link": "https://www.wrestlinginc.com/2224062/aew-scorpio-sky-chris-jericho-promo-segment-career-highlight/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-08-02T19:00:00+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "Update on Jacques Rougeau tribute video not airing at AEW Redemption | Exclusive",
       "p": "Update: From Dave Meltzer: A correction from last night’s show. The Jacques Rougeau pin of Hulk Hogan was not from a WCW show as I said. It was an independent that Jacques, PCO, Tony Mule and...",
       "link": "https://www.f4wonline.com/news/aew/update-on-jacques-rougeau-tribute-video-not-airing-at-aew-redemption-exclusive/",
-      "t": "10h",
+      "t": "14h",
       "dt": "2026-08-02T13:12:55+00:00"
     },
     {
@@ -92,20 +92,20 @@
       "dt": "2026-08-01T16:27:08+00:00"
     },
     {
-      "src": "POST Wrestling",
-      "h": "NJPW G1 Climax 36 Night 10 Results: Takeshita retains A Block lead, Boltin wins in 90 seconds",
-      "p": "Konosuke Takeshita held onto his A Block lead by defeating Hirooki Goto in Saturday’s G1 Climax 36 main event. The post NJPW G1 Climax 36 Night 10 Results: Takeshita retains A Block lead, Boltin...",
-      "link": "https://www.postwrestling.com/2026/08/01/njpw-g1-climax-36-night-10-results-takeshita-retains-a-block-lead-boltin-wins-in-90-seconds/",
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub results (7/31): Lee Moriarty vs. Angelico for the ROH Pure Championship, Rachael Ellering vs. Steph De Lander, Juice Robinson vs. Anthony Henry",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (7/31): Lee Moriarty vs. Angelico for the ROH Pure Championship, Rachael Ellering vs. Steph De Lander, Juice Robinson...",
+      "link": "https://prowrestling.net/site/2026/08/01/roh-on-honorclub-results-7-31-lee-moriarty-vs-angelico-for-the-roh-pure-championship-rachael-ellering-vs-steph-de-lander-juice-robinson-vs-anthony-henry/",
       "t": "1d",
-      "dt": "2026-08-01T14:37:57+00:00"
+      "dt": "2026-08-01T11:00:04+00:00"
     },
     {
-      "src": "POST Wrestling",
-      "h": "Four title matches announced for ROH Death Before Dishonor",
-      "p": "Four championship matches have been announced for ROH Death Before Dishonor, including Bandido against Nick Wayne and Athena against Hazuki. The post Four title matches announced for ROH Death...",
-      "link": "https://www.postwrestling.com/2026/08/01/four-title-matches-announced-for-roh-death-before-dishonor/",
-      "t": "1d",
-      "dt": "2026-08-01T12:13:12+00:00"
+      "src": "PWTorch",
+      "h": "VIP PODCAST 7/31 – Radican Worldwide: Interview with Violent J – Thoughts on his appearances in AEW this week, interactions with AEW COO Tony Khan, growth of JCW and wrestlers on the roster, more (52 min.)",
+      "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is joined by one half of ICP, and JCW co-founder and co-owner, Violent J, for a new Radican Worldwide interview talking about his recent appearances in...",
+      "link": "https://www.pwtorch.com/site/2026/07/31/vip-podcast-7-31-radican-worldwide-interview-with-violent-j-thoughts-on-his-appearances-in-aew-this-week-interactions-with-aew-coo-tony-khan-growth-of-jcw-and-wrestlers-on-the-roster-m/",
+      "t": "2d",
+      "dt": "2026-08-01T01:57:57+00:00"
     }
   ]
 }

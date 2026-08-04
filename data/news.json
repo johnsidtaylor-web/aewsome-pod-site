@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-04T09:48:29.123894+00:00",
+  "updated": "2026-08-04T12:16:27.258319+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -13,10 +13,34 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "AEW All Out 2026 ticket sales update for September",
+      "p": "AEW All Out 2026 is set to take place on Saturday, September 26 from the NOW Arena, Hoffman Estates, IL. According to the latest update from WrestleTix, 5,928 tickets have been distributed for the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-ticket-sales-update-september/",
+      "t": "1h",
+      "dt": "2026-08-04T10:20:04+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Released WWE performer makes appearance at indie streaming on MyAEW",
+      "p": "Recently released WWE performer Jeff Cobb made a surprise appearance at the latest PRODUCE Wrestling event this week. Cobb appeared as part of the Dollar King Of New York Royal Ranbo Match, which...",
+      "link": "https://www.f4wonline.com/news/wwe/jeff-cobb-wwe-release-myaew-streaming-produce-wrestling/",
+      "t": "2h",
+      "dt": "2026-08-04T10:08:30+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Grand Slam Mexico 2026 Live Stream: How to watch",
+      "p": "AEW Grand Slam Mexico 2026 takes place this week from Arena Mexico in partnership with Consejo Mundial de Lucha Libre (CMLL). There are a few different ways that you can watch the broadcast live...",
+      "link": "https://www.f4wonline.com/event-guides/aew-grand-slam-mexico-2026-live-stream-how-to-watch/",
+      "t": "2h",
+      "dt": "2026-08-04T09:54:03+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "AEW Grand Slam Mexico 2026 Start Times: US, UK, Australia and more",
       "p": "AEW Grand Slam Mexico 2026 takes place this week from Arena Mexico in partnership with Consejo Mundial de Lucha Libre (CMLL). The broadcast is set to start at 8pm Eastern/7pm Central/5pm Pacific....",
       "link": "https://www.f4wonline.com/event-guides/aew-grand-slam-mexico-2026-start-times-us-uk-australia/",
-      "t": "4m",
+      "t": "2h",
       "dt": "2026-08-04T09:43:54+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "AEW Continental Cup participants and first round matches revealed",
       "p": "AEW has revealed the details and participants for the Continental Cup – a month-long tournament – culminating at All In London at Wembley Stadium. The post AEW Continental Cup participants and...",
       "link": "https://www.postwrestling.com/2026/08/03/aew-continental-cup-participants-and-first-round-matches-revealed/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-04T03:45:37+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Tony Khan & Tony Schiavone Announce Rules, First Round Matches For AEW Continental Cup",
       "p": "The first round draw for the AEW Continental Cup is complete, and both the schedule and rules for the tournament have been revealed by Tony Khan.",
       "link": "https://www.wrestlinginc.com/2229669/aew-continental-cup-rules-first-round-matches-tony-khan-schiavone/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-04T03:36:29+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW’s Kazuchika Okada makes surprise appearance after Tiger Mask IV’s final match",
       "p": "Tiger Mask IV enjoyed his retirement ceremony in Japan a few weeks ago, but he has been busy since then honoring his prior commitments. Tonight, he wrestled what could be his final match, and a...",
       "link": "https://www.f4wonline.com/news/new-japan/aews-kazuchika-okada-makes-surprise-appearance-after-tiger-mask-ivs-final-match/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-04T03:31:50+00:00"
     },
     {
@@ -48,31 +72,15 @@
       "h": "Full field, first round matches & rules announced for first-ever AEW Continental Cup tournament",
       "p": "The field of 16 participants, all first round matches and the rules have been announced for the inaugural AEW Continental Cup tournament that culminates at this month’s All In: London. Continental...",
       "link": "https://www.f4wonline.com/news/aew/first-ever-aew-continental-cup-tournament-tournament-field/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-08-04T03:12:19+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "First Round Matches Announced For AEW Continental Cup",
-      "p": "The first round in the AEW Continental Cup is set. The AEW Continental Cup will begin on the August 8 episode of Collision, and all eight first round matches will play out on Collision and the...",
-      "link": "https://www.fightful.com/wrestling-news/first-round-matches-announced-for-aew-continental-cup/",
-      "t": "6h",
-      "dt": "2026-08-04T03:08:47+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Announces Field And Rules For Continental Cup",
-      "p": "The field is set for the AEW Continental Cup. All Elite Wrestling announced the 16 participants for the Continental Cup. Matches will be drawn at random, so there is no bracket. The semifinals...",
-      "link": "https://www.fightful.com/wrestling-news/aew-announces-field-and-rules-for-continental-cup/",
-      "t": "6h",
-      "dt": "2026-08-04T03:00:25+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP NEWSLETTER – PRO WRESTLING TORCH #1979 (July 29, 2026): Keller’s AEW Redemption PPV Report and Staff Roundtable Reviews & Scores, Parks column on Barry Darsow’s autobiography, more",
       "p": "PWTorch Newsletter #1979 Cover-dated July 29, 2026 LINK: 1979 PWTorch Newsletter PDF –LIST OF ALL LATEST NEWSLETTERS –CLICK HERE FOR DIRECTORY OF ALL PAST NEWSLETTERS BY YEAR SUMMARY: This week’s...",
       "link": "https://www.pwtorch.com/site/2026/08/03/vip-newsletter-pro-wrestling-torch-1979-july-29-2026-kellers-aew-redemption-ppv-report-and-staff-roundtable-reviews-scores-parks-column-on-barry-darsows-autobiography-more/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-04T01:29:50+00:00"
     },
     {
@@ -80,23 +88,15 @@
       "h": "AEW's Rebel Details Fight Against ALS",
       "p": "In an emotional video featuring highlights of her career, AEW's Rebel details her ongoing fight against ALS, and her determination to raise awareness",
       "link": "https://www.wrestlinginc.com/2229557/aew-rebel-fight-als/",
-      "t": "11h",
+      "t": "14h",
       "dt": "2026-08-03T21:50:57+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AJ Styles questions WWE’s decision to release New Day, Motor City Machine Guns",
-      "p": "AJ Styles thinks WWE made a poor decision by letting go of New Day and Motor City Machine Guns. With their 90-day clauses expiring last week, Alex Shelley & Chris Sabin arrived in AEW last week on...",
-      "link": "https://www.f4wonline.com/news/wwe/aj-styles-questions-wwes-decision-to-release-new-day-motor-city-machine-guns/",
-      "t": "12h",
-      "dt": "2026-08-03T20:59:23+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Backstage Update On Max Caster's AEW Status",
       "p": "A backstage update on Max Caster's AEW status suggests the former AEW World Tag Team and Trios Champion is set to become a free agent in October",
       "link": "https://www.wrestlinginc.com/2229468/aew-max-caster-backstage-update-status/",
-      "t": "13h",
+      "t": "16h",
       "dt": "2026-08-03T20:12:14+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "FREE PODCAST 8/3 – PWTorch Dailycast – Worse or Better (Episode 15 – Pay-Per-View With the Vampire): Stephanie returns to discuss AEW’s Pay-Per-View structure and history (121 min.)",
       "p": "SHOW SUMMARY: In this PWTorch Dailycast series titled “Worse or Better,” Josh White and Stephanie Chase discuss one aspect of today’s pro wrestling scene and compare it to a previous era or eras...",
       "link": "https://www.pwtorch.com/site/2026/08/03/free-podcast-8-3-pwtorch-dailycast-worse-or-better-episode-15-pay-per-view-with-the-vampire-stephanie-returns-to-discuss-aews-pay-per-view-structure-and-history-121-min/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-08-03T18:31:09+00:00"
     }
   ]

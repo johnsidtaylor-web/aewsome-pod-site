@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T19:54:26.172508+00:00",
+  "updated": "2026-08-04T21:33:48.165193+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -7,16 +7,40 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (1 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (3 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Speedball Mike Bailey Thinks Don Callis Is Holding AEW International Champion Back",
+      "p": "\"Speedball\" Mike Bailey claims that Don Callis is holding AEW International Champion Kyle Fletcher back from even greater success.",
+      "link": "https://www.wrestlinginc.com/2230441/speedball-mike-bailey-don-callis-aew-international-champion-kyle-fletcher-held-back/",
+      "t": "17m",
+      "dt": "2026-08-04T21:15:57+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Former WWE Star Believed To Be AEW-Bound After Departing TNA On Good Terms",
+      "p": "Former WWE star turned TNA star Mara Sade is believed to be AEW bound after she departed TNA on good terms after he contract expired last week",
+      "link": "https://www.wrestlinginc.com/2230414/wwe-mara-sade-aew-bound-departing-tna-good-terms/",
+      "t": "37m",
+      "dt": "2026-08-04T20:55:49+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Update On Injury Status Of AEW Star Jay White Ahead Of Continental Cup",
+      "p": "A backstage update revealed more on the injury status of Jay White ahead of the AEW Continental Cup.",
+      "link": "https://www.wrestlinginc.com/2230407/aew-switchblade-jay-white-continental-cup-injury-status-backstage-update/",
+      "t": "41m",
+      "dt": "2026-08-04T20:52:27+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Mick Foley Takes Part In ALS Ice Bucket Challenge In Support Of Rebel",
       "p": "Mick Foley is doing his part. Following in the footsteps of names like Tony Khan and Sting, Mick Foley posted a video of his ALS Ice Bucket Challenge participation on Tuesday, August 4. After...",
       "link": "https://www.fightful.com/wrestling-news/mick-foley-takes-part-in-als-ice-bucket-challenge-in-support-of-rebel/",
-      "t": "8m",
+      "t": "1h",
       "dt": "2026-08-04T19:45:29+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Chris Jericho Had Never Heard Of Pocket Sand Before AEW Dynamite Beach Break",
       "p": "Chris Jericho wasn’t familiar with a famous King of the Hill attack. At AEW Dynamite Beach Break, Chris Jericho battled Tommaso Ciampa in a match that involved sand to the eyes. Jericho brought...",
       "link": "https://www.fightful.com/wrestling-news/chris-jericho-had-never-heard-of-pocket-sand-before-aew-dynamite-beach-break/",
-      "t": "24m",
+      "t": "2h",
       "dt": "2026-08-04T19:30:00+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Chris Jericho says AEW has never worried about WWE ‘ever, ever’",
       "p": "Chris Jericho believes that, throughout its existence, AEW has only been focused on itself and not worried about what WWE is doing. SHAK Wrestling spoke with Jericho and asked him about the...",
       "link": "https://www.f4wonline.com/news/aew/chris-jericho-says-aew-has-never-worried-about-wwe-ever-ever/",
-      "t": "31m",
+      "t": "2h",
       "dt": "2026-08-04T19:23:09+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW’s MJF featured in official trailer for Violent Night 2",
       "p": "AEW star MJF is set to add another Hollywood credit, with his latest film scheduled to hit theaters later this year. The official trailer for Violent Night 2 produced by Universal Pictures dropped...",
       "link": "https://www.f4wonline.com/news/aew/aews-mjf-featured-in-official-trailer-for-violent-night-2/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-04T16:48:37+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Jeff Cobb & Kazuchika Okada make surprise appearances at PRODUCE Vol. 3: Azucar",
       "p": "Jeff Cobb made his first wrestling appearance on Monday night since his release from WWE. The post Jeff Cobb & Kazuchika Okada make surprise appearances at PRODUCE Vol. 3: Azucar appeared first on...",
       "link": "https://www.postwrestling.com/2026/08/04/jeff-cobb-kazuchika-okada-make-surprise-appearances-at-produce-vol-3-azucar/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-04T14:45:37+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "AEW Continental Cup tournament entrants, rules, opening round matches",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Continental Cup tournament entrants, rules, opening round matches appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/04/aew-continental-cup-tournament-entrants-rules-opening-round-matches/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-04T13:01:19+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Jay White injury update after AEW Continental Cup announcement | Exclusive",
       "p": "Jay White was banged up at AEW Redemption, but is set to return to the ring. During the double chain match between the Dogs and Bang Bang Gang at AEW Redemption in Montreal last week, White was...",
       "link": "https://www.f4wonline.com/news/aew/jay-white-injury-update-after-aew-continental-cup-announcement-exclusive/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-04T12:37:23+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW All Out 2026 ticket sales update for September",
       "p": "AEW All Out 2026 is set to take place on Saturday, September 26 from the NOW Arena, Hoffman Estates, IL. According to the latest update from WrestleTix, 5,928 tickets have been distributed for the...",
       "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-ticket-sales-update-september/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-08-04T10:20:04+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "Released WWE performer makes appearance at indie streaming on MyAEW",
       "p": "Recently released WWE performer Jeff Cobb made a surprise appearance at the latest PRODUCE Wrestling event this week. Cobb appeared as part of the Dollar King Of New York Royal Ranbo Match, which...",
       "link": "https://www.f4wonline.com/news/wwe/jeff-cobb-wwe-release-myaew-streaming-produce-wrestling/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-08-04T10:08:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Grand Slam Mexico 2026 Live Stream: How to watch",
-      "p": "AEW Grand Slam Mexico 2026 takes place this week from Arena Mexico in partnership with Consejo Mundial de Lucha Libre (CMLL). There are a few different ways that you can watch the broadcast live...",
-      "link": "https://www.f4wonline.com/event-guides/aew-grand-slam-mexico-2026-live-stream-how-to-watch/",
-      "t": "10h",
-      "dt": "2026-08-04T09:54:03+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Continental Cup participants and first round matches revealed",
-      "p": "AEW has revealed the details and participants for the Continental Cup – a month-long tournament – culminating at All In London at Wembley Stadium. The post AEW Continental Cup participants and...",
-      "link": "https://www.postwrestling.com/2026/08/03/aew-continental-cup-participants-and-first-round-matches-revealed/",
-      "t": "16h",
-      "dt": "2026-08-04T03:45:37+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan & Tony Schiavone Announce Rules, First Round Matches For AEW Continental Cup",
-      "p": "The first round draw for the AEW Continental Cup is complete, and both the schedule and rules for the tournament have been revealed by Tony Khan.",
-      "link": "https://www.wrestlinginc.com/2229669/aew-continental-cup-rules-first-round-matches-tony-khan-schiavone/",
-      "t": "16h",
-      "dt": "2026-08-04T03:36:29+00:00"
     }
   ]
 }

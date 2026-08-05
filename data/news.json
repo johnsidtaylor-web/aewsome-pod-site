@@ -1,38 +1,22 @@
 {
-  "updated": "2026-08-05T18:47:28.840605+00:00",
+  "updated": "2026-08-05T20:38:04.116475+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (0 AEW items)",
     "ProWrestling.net": "ok (4 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "WWE, AEW, TNA, NJPW Wrestler Injury Report List: Expected Returns, Inactives | Fightful",
-      "p": "Fightful.com will keep a running injury report and inactive list and update each accordingly. You can also see our updated contract expiration list at this link. WWE RAW Brie Bella: Brie announced...",
-      "link": "https://www.fightful.com/wrestling-news/wwe-impact-njpw-roh-injury-report-expected-returns-more/",
-      "t": "36m",
-      "dt": "2026-08-05T18:11:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Rocky Romero: Given Triller’s Issues, MyAEW Is Filling The Void Completely",
-      "p": "Rocky Romero talks MyAEW. Aside from the AEW content, the service is consistently highlighting indie promotions like PRODUCE, RevPro, Maple Leaf Pro, Limitless Wrestling, and Warrior Wrestling....",
-      "link": "https://www.fightful.com/wrestling-news/rocky-romero-myaew-320490/",
-      "t": "47m",
-      "dt": "2026-08-05T18:00:00+00:00"
-    },
-    {
       "src": "PWTorch",
       "h": "VIP PODCAST 8/5 – VIP Podcast Vault – 18 Yrs Ago (7-15-2008): Danielson vs. McGuinness, edited rape angle with Larry Sweeney, Austin Aries vs. Go Shiozaki (35 min.)",
       "p": "SHOW SUMMARY: This installment of the PWTorch VIP Vault jumps back to the July 15 podcast covering the 6th Anniversary ROH event DVD release. James Caldwell, Sean Radican, and Justin Parker...",
       "link": "https://www.pwtorch.com/site/2026/08/05/vip-podcast-8-5-vip-podcast-vault-18-yrs-ago-7-15-2008-danielson-vs-mcguinness-edited-rape-angle-with-larry-sweeney-austin-aries-vs-go-shiozaki-35-min/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-05T16:52:48+00:00"
     },
     {
@@ -40,7 +24,7 @@
       "h": "AEW DYNAMITE PREVIEW (8/5): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, AUGUST 5, 2026 Where: MEXICO CITY, MEXICO AT ARENA MEXICO How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 5,970 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/08/05/aew-dynamite-preview-8-5-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-08-05T16:35:20+00:00"
     },
     {
@@ -48,7 +32,7 @@
       "h": "AEW RISING AND FADING STARS: Can a World Champion qualify as a Rising Star? After last week’s performance, yes! Plus one wrestler being Bandido’s who deserves better",
       "p": "Welcome everyone! Wow! What a Dynamite we had last week. If this was AEW’s reaction to a “B” pay-per-view, then maybe I want some more “B” pay-per-views. Why? Because that was one of the best [...]",
       "link": "https://www.pwtorch.com/site/2026/08/05/aew-rising-and-fading-stars-can-a-world-champion-qualify-as-a-rising-star-after-last-weeks-performance-yes-plus-one-wrestler-being-bandidos-who-deserves-better/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-08-05T16:32:50+00:00"
     },
     {
@@ -56,7 +40,7 @@
       "h": "Kyle Fletcher addresses wanting to ‘be the guy that leads’ AEW ‘into the next 10, 20 years’",
       "p": "Kyle Fletcher has embraced the expectations that run parallel to being viewed as a future face of AEW. He has taken every opportunity and challenge to refine his abilities, with the goal of being...",
       "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-addresses-wanting-to-be-the-guy-that-leads-aew-into-the-next-10-20-years/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-08-05T16:31:52+00:00"
     },
     {
@@ -64,7 +48,7 @@
       "h": "Kyle Fletcher details ‘pressure’ to represent AEW: ‘It’s super validating’",
       "p": "Kyle Fletcher opened up on being perceived as the potential face of AEW and the responsibilities that come with the position. He explained that reaching the level requires trust from veterans and...",
       "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-details-pressure-to-represent-aew-its-super-validating/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-05T15:06:51+00:00"
     },
     {
@@ -72,7 +56,7 @@
       "h": "AEW Dynamite preview: Grand Slam Mexico",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Grand Slam Mexico appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/05/aew-dynamite-preview-grand-slam-mexico-3/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-08-05T14:00:01+00:00"
     },
     {
@@ -80,7 +64,7 @@
       "h": "AEW Dynamite “Grand Slam Mexico,” last week’s Dynamite and Collision grades, Pat Tanaka, Ikuto Hidaka, Nikkita Lyons",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite “Grand Slam Mexico,” last week’s Dynamite and Collision grades, Pat Tanaka, Ikuto Hidaka, Nikkita Lyons appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/08/05/aew-dynamite-grand-slam-mexico-last-weeks-dynamite-and-collision-grades-pat-tanaka-ikuto-hidaka-nikkita-lyons/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-05T12:00:56+00:00"
     },
     {
@@ -88,7 +72,7 @@
       "h": "AEW Dynamite Google Search interest and analysis (last 90 days comparative)",
       "p": "Google search interest in ‘AEW Dynamite‘ (as a specific term) increased over the past three months as the company continued building toward All In at the end of August. Searches for ‘AEW Dynamite’...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-google-search-interest-analysis-last-90-days-comparative-2/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-05T10:24:26+00:00"
     },
     {
@@ -96,7 +80,7 @@
       "h": "AEW Grand Slam Mexico 2026 ticket sales update ahead of tonight’s show",
       "p": "AEW Grand Slam Mexico 2026 is set to take place tonight from Arena México in México, CDMX. According to the latest report from WrestleTix, 5,970 tickets have been distributed for the event, which...",
       "link": "https://www.f4wonline.com/news/aew/aew-grand-slam-mexico-2026-ticket-sales-update-tonight-show/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-08-05T07:56:00+00:00"
     },
     {
@@ -104,8 +88,24 @@
       "h": "AEW Dynamite Start Time Tonight (08-05-2026)",
       "p": "AEW Dynamite takes place tonight from Arena México in México, CDMX, with the start time scheduled for 8pm Eastern/7pm Central/5pm Pacific. This is the Grand Slam Mexico episode of Dynamite, with...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-08-05-2026/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-08-05T07:36:46+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Preview: Confirmed matches and segments (08-05-2026)",
+      "p": "AEW Dynamite takes place tonight from Arena México in México, CDMX and several matches and segments have already been confirmed for the broadcast. This is the Grand Slam Mexico episode of...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-08-05-2026/",
+      "t": "13h",
+      "dt": "2026-08-05T07:25:07+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 8/4 – WKPWP Tuesday Flagship: Keller & Fann on Lesnar’s retirement, remembering Dory Funk Jr., Chelsea’s big win, AEW Continental Cup, WWE returns, more (146 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Rich Fann, a PWTorch columnist. CURRENT EVENTS TOPICS… A...",
+      "link": "https://www.pwtorch.com/site/2026/08/05/free-podcast-8-4-wkpwp-tuesday-flagship-keller-fann-on-lesnars-retirement-remembering-dory-funk-jr-chelseas-big-win-aew-continental-cup-wwe-returns-more-146-min/",
+      "t": "15h",
+      "dt": "2026-08-05T05:28:13+00:00"
     }
   ]
 }

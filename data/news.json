@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T06:39:44.186827+00:00",
+  "updated": "2026-08-05T09:46:25.264952+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW Grand Slam Mexico 2026 ticket sales update ahead of tonight’s show",
+      "p": "AEW Grand Slam Mexico 2026 is set to take place tonight from Arena México in México, CDMX. According to the latest report from WrestleTix, 5,970 tickets have been distributed for the event, which...",
+      "link": "https://www.f4wonline.com/news/aew/aew-grand-slam-mexico-2026-ticket-sales-update-tonight-show/",
+      "t": "1h",
+      "dt": "2026-08-05T07:56:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Start Time Tonight (08-05-2026)",
+      "p": "AEW Dynamite takes place tonight from Arena México in México, CDMX, with the start time scheduled for 8pm Eastern/7pm Central/5pm Pacific. This is the Grand Slam Mexico episode of Dynamite, with...",
+      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-08-05-2026/",
+      "t": "2h",
+      "dt": "2026-08-05T07:36:46+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Preview: Confirmed matches and segments (08-05-2026)",
+      "p": "AEW Dynamite takes place tonight from Arena México in México, CDMX and several matches and segments have already been confirmed for the broadcast. This is the Grand Slam Mexico episode of...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-08-05-2026/",
+      "t": "2h",
+      "dt": "2026-08-05T07:25:07+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "FREE PODCAST 8/4 – WKPWP Tuesday Flagship: Keller & Fann on Lesnar’s retirement, remembering Dory Funk Jr., Chelsea’s big win, AEW Continental Cup, WWE returns, more (146 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Rich Fann, a PWTorch columnist. CURRENT EVENTS TOPICS… A...",
       "link": "https://www.pwtorch.com/site/2026/08/05/free-podcast-8-4-wkpwp-tuesday-flagship-keller-fann-on-lesnars-retirement-remembering-dory-funk-jr-chelseas-big-win-aew-continental-cup-wwe-returns-more-146-min/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-08-05T05:28:13+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "CMLL Semana Internacional Results: Kyle Fletcher pins Máscara Dorada, Kevin Knight retains TNT Championship",
       "p": "On the night before AEW Grand Slam Mexico, several members of the roster wrestled at Arena México at CMLL’s Semana Internacional card. The post CMLL Semana Internacional Results: Kyle Fletcher...",
       "link": "https://www.postwrestling.com/2026/08/05/cmll-semana-internacional-results-kyle-fletcher-pins-mascara-dorada-kevin-knight-retains-tnt-championship/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-08-05T05:07:59+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "AEW x CMLL Semana Internacional Results (8/4/2026): Kyle Fletcher vs. Máscara Dorada, Bandido, Soberano Jr., Maya World, More",
       "p": "Full results for the August 4, 2026, episode of AEW x CMLL Semana Internacional live from Arena Mexico in Mexico City, Mexico. Consejo Mundial de Lucha Libre & All Elite Wrestling held the event...",
       "link": "https://www.fightful.com/wrestling-news/aew-x-cmll-semana-internacional-results-8-4-2026-kyle-fletcher-vs-mascara-dorada-bandido-soberano-jr-maya-world-more/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-08-05T00:30:00+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW x CMLL Semana Internacional live results: Kyle Fletcher vs. Mascara Dorada",
       "p": "AEW and CMLL will present a joint show from Arena Mexico on Tuesday, August 4. The show will air on MyAEW.com. Kyle Fletcher will take on Mascara Dorada in what is billed as the night’s main...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-x-cmll-semana-internacional-live-results-kyle-fletcher-vs-mascara-dorada/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-08-05T00:30:00+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Dave Meltzer’s weekly insights into WWE, AEW & TNA ratings for subscribers",
       "p": "Dave Meltzer has posted his weekly insights into Netflix numbers for WWE Raw and SummerSlam, AEW Dynamite and TNA Impact. Click here to read (sub needed)",
       "link": "https://www.f4wonline.com/news/wwe/dave-meltzers-weekly-insights-into-wwe-aew-tna-ratings-for-subscribers/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-08-05T00:12:37+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Daily Update: WBD & Paramount trial date set, Rebel, Dragongate notes",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Tuesday Update WWE AEW & Other Wrestling",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-wbd-paramount-trial-date-set-rebel-dragongate-notes/",
-      "t": "8h",
+      "t": "11h",
       "dt": "2026-08-04T22:32:14+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Speedball Mike Bailey Thinks Don Callis Is Holding AEW International Champion Back",
       "p": "\"Speedball\" Mike Bailey claims that Don Callis is holding AEW International Champion Kyle Fletcher back from even greater success.",
       "link": "https://www.wrestlinginc.com/2230441/speedball-mike-bailey-don-callis-aew-international-champion-kyle-fletcher-held-back/",
-      "t": "9h",
+      "t": "12h",
       "dt": "2026-08-04T21:15:57+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "Former WWE Star Believed To Be AEW-Bound After Departing TNA On Good Terms",
       "p": "Former WWE star turned TNA star Mara Sade is believed to be AEW bound after she departed TNA on good terms after he contract expired last week",
       "link": "https://www.wrestlinginc.com/2230414/wwe-mara-sade-aew-bound-departing-tna-good-terms/",
-      "t": "9h",
+      "t": "12h",
       "dt": "2026-08-04T20:55:49+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "Backstage Update On Injury Status Of AEW Star Jay White Ahead Of Continental Cup",
       "p": "A backstage update revealed more on the injury status of Jay White ahead of the AEW Continental Cup.",
       "link": "https://www.wrestlinginc.com/2230407/aew-switchblade-jay-white-continental-cup-injury-status-backstage-update/",
-      "t": "9h",
+      "t": "12h",
       "dt": "2026-08-04T20:52:27+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Jericho says AEW has never worried about WWE ‘ever, ever’",
-      "p": "Chris Jericho believes that, throughout its existence, AEW has only been focused on itself and not worried about what WWE is doing. SHAK Wrestling spoke with Jericho and asked him about the...",
-      "link": "https://www.f4wonline.com/news/aew/chris-jericho-says-aew-has-never-worried-about-wwe-ever-ever/",
-      "t": "11h",
-      "dt": "2026-08-04T19:23:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW’s MJF featured in official trailer for Violent Night 2",
-      "p": "AEW star MJF is set to add another Hollywood credit, with his latest film scheduled to hit theaters later this year. The official trailer for Violent Night 2 produced by Universal Pictures dropped...",
-      "link": "https://www.f4wonline.com/news/aew/aews-mjf-featured-in-official-trailer-for-violent-night-2/",
-      "t": "13h",
-      "dt": "2026-08-04T16:48:37+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Jeff Cobb & Kazuchika Okada make surprise appearances at PRODUCE Vol. 3: Azucar",
-      "p": "Jeff Cobb made his first wrestling appearance on Monday night since his release from WWE. The post Jeff Cobb & Kazuchika Okada make surprise appearances at PRODUCE Vol. 3: Azucar appeared first on...",
-      "link": "https://www.postwrestling.com/2026/08/04/jeff-cobb-kazuchika-okada-make-surprise-appearances-at-produce-vol-3-azucar/",
-      "t": "15h",
-      "dt": "2026-08-04T14:45:37+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T12:14:03.031835+00:00",
+  "updated": "2026-08-05T14:33:36.369761+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -8,15 +8,31 @@
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (3 AEW items)",
-    "ProWrestling.net": "ok (4 AEW items)"
+    "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Grand Slam Mexico",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Grand Slam Mexico appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/05/aew-dynamite-preview-grand-slam-mexico-3/",
+      "t": "33m",
+      "dt": "2026-08-05T14:00:01+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Willow Nightingale Attends New York Premiere Of ‘Ted Lasso’ Season 4",
+      "p": "Willow Nightingale attended the New York premiere of ‘Ted Lasso’ season 4 with the AEW Women’s World Championship. It has been a busy several weeks for Willow Nightingale, who made her return to...",
+      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-attends-new-york-premiere-of-ted-lasso-season-4/",
+      "t": "1h",
+      "dt": "2026-08-05T12:57:02+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite “Grand Slam Mexico,” last week’s Dynamite and Collision grades, Pat Tanaka, Ikuto Hidaka, Nikkita Lyons",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite “Grand Slam Mexico,” last week’s Dynamite and Collision grades, Pat Tanaka, Ikuto Hidaka, Nikkita Lyons appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/08/05/aew-dynamite-grand-slam-mexico-last-weeks-dynamite-and-collision-grades-pat-tanaka-ikuto-hidaka-nikkita-lyons/",
-      "t": "13m",
+      "t": "2h",
       "dt": "2026-08-05T12:00:56+00:00"
     },
     {
@@ -24,23 +40,15 @@
       "h": "AEW Grand Slam Mexico Preview, Start Time, How To Watch, Location (8/5)",
       "p": "Viewing information and lineup for AEW Grand Slam Mexico on August 5, 2026. AEW Grand Slam Mexico (August 5, 2026) Venue: Arena Mexico City: Mexico City, Mexico Time: 8pm ET Channel: TBS, Max...",
       "link": "https://www.fightful.com/wrestling-news/aew-grand-slam-mexico-preview-start-time-how-to-watch-location-8-5/",
-      "t": "13m",
+      "t": "2h",
       "dt": "2026-08-05T12:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kyle Fletcher: One Of The Things I Have Always Strived For Throughout My Career Is Treating Every Single Thing That I Do Like It’s The Biggest Deal In The World",
-      "p": "Kyle Fletcher speaks about striving towards treating every single thing he does in his career like it’s the biggest deal in the world. Throughout Fletcher’s AEW career, he has had some large...",
-      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-one-of-the-things-i-have-always-strived-for-throughout-my-career-is-treating-every-single-thing-that-i-do-like-its-the-biggest-deal-in-the-world/",
-      "t": "30m",
-      "dt": "2026-08-05T11:43:22+00:00"
     },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 8/4 – WKPWP Tuesday Flagship: Keller & Fann on Lesnar’s retirement, remembering Dory Funk Jr., Chelsea’s big win, AEW Continental Cup, WWE returns, more (146 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Rich Fann, a PWTorch columnist. CURRENT EVENTS TOPICS… A...",
       "link": "https://www.pwtorch.com/site/2026/08/05/free-podcast-8-4-wkpwp-tuesday-flagship-keller-fann-on-lesnars-retirement-remembering-dory-funk-jr-chelseas-big-win-aew-continental-cup-wwe-returns-more-146-min/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-08-05T05:28:13+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "CMLL Semana Internacional Results: Kyle Fletcher pins Máscara Dorada, Kevin Knight retains TNT Championship",
       "p": "On the night before AEW Grand Slam Mexico, several members of the roster wrestled at Arena México at CMLL’s Semana Internacional card. The post CMLL Semana Internacional Results: Kyle Fletcher...",
       "link": "https://www.postwrestling.com/2026/08/05/cmll-semana-internacional-results-kyle-fletcher-pins-mascara-dorada-kevin-knight-retains-tnt-championship/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-05T05:07:59+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Speedball Mike Bailey Thinks Don Callis Is Holding AEW International Champion Back",
       "p": "\"Speedball\" Mike Bailey claims that Don Callis is holding AEW International Champion Kyle Fletcher back from even greater success.",
       "link": "https://www.wrestlinginc.com/2230441/speedball-mike-bailey-don-callis-aew-international-champion-kyle-fletcher-held-back/",
-      "t": "14h",
+      "t": "17h",
       "dt": "2026-08-04T21:15:57+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Former WWE Star Believed To Be AEW-Bound After Departing TNA On Good Terms",
       "p": "Former WWE star turned TNA star Mara Sade is believed to be AEW bound after she departed TNA on good terms after he contract expired last week",
       "link": "https://www.wrestlinginc.com/2230414/wwe-mara-sade-aew-bound-departing-tna-good-terms/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-08-04T20:55:49+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Backstage Update On Injury Status Of AEW Star Jay White Ahead Of Continental Cup",
       "p": "A backstage update revealed more on the injury status of Jay White ahead of the AEW Continental Cup.",
       "link": "https://www.wrestlinginc.com/2230407/aew-switchblade-jay-white-continental-cup-injury-status-backstage-update/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-08-04T20:52:27+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Jeff Cobb & Kazuchika Okada make surprise appearances at PRODUCE Vol. 3: Azucar",
       "p": "Jeff Cobb made his first wrestling appearance on Monday night since his release from WWE. The post Jeff Cobb & Kazuchika Okada make surprise appearances at PRODUCE Vol. 3: Azucar appeared first on...",
       "link": "https://www.postwrestling.com/2026/08/04/jeff-cobb-kazuchika-okada-make-surprise-appearances-at-produce-vol-3-azucar/",
-      "t": "21h",
+      "t": "23h",
       "dt": "2026-08-04T14:45:37+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW Continental Cup tournament entrants, rules, opening round matches",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Continental Cup tournament entrants, rules, opening round matches appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/04/aew-continental-cup-tournament-entrants-rules-opening-round-matches/",
-      "t": "23h",
+      "t": "1d",
       "dt": "2026-08-04T13:01:19+00:00"
     },
     {
@@ -98,14 +106,6 @@
       "link": "https://www.postwrestling.com/2026/08/03/aew-continental-cup-participants-and-first-round-matches-revealed/",
       "t": "1d",
       "dt": "2026-08-04T03:45:37+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP NEWSLETTER – PRO WRESTLING TORCH #1979 (July 29, 2026): Keller’s AEW Redemption PPV Report and Staff Roundtable Reviews & Scores, Parks column on Barry Darsow’s autobiography, more",
-      "p": "PWTorch Newsletter #1979 Cover-dated July 29, 2026 LINK: 1979 PWTorch Newsletter PDF –LIST OF ALL LATEST NEWSLETTERS –CLICK HERE FOR DIRECTORY OF ALL PAST NEWSLETTERS BY YEAR SUMMARY: This week’s...",
-      "link": "https://www.pwtorch.com/site/2026/08/03/vip-newsletter-pro-wrestling-torch-1979-july-29-2026-kellers-aew-redemption-ppv-report-and-staff-roundtable-reviews-scores-parks-column-on-barry-darsows-autobiography-more/",
-      "t": "1d",
-      "dt": "2026-08-04T01:29:50+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T03:32:54.932743+00:00",
+  "updated": "2026-08-06T06:43:02.490136+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (5 AEW items)",
@@ -7,16 +7,56 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
-    "ProWrestling.net": "ok (5 AEW items)"
+    "Wrestling Inc": "ok (6 AEW items)",
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 8/5 – WKPWP after Dynamite: Keller & Halley talk Night of 1,000 Highspots, great Arena Mexico crowd, MJF’s return, All In line-up thoughts (104 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Taylor Halley to review AEW Dynamite which emanated from Arena Mexico with an enthusiastic crowd watching 1,000 highspots in nearly...",
+      "link": "https://www.pwtorch.com/site/2026/08/06/free-podcast-8-5-wkpwp-after-dynamite-keller-halley-talk-night-of-1000-highspots-great-arena-mexico-crowd-mjfs-return-all-in-line-up-thoughts-104-min/",
+      "t": "58m",
+      "dt": "2026-08-06T05:44:51+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "08/05 Powell’s AEW Dynamite audio review: Grand Slam Mexico with Kyle Fletcher vs. Mike Bailey for the AEW International Title, Willow Nightingale and Brawling Birds vs. Mercedes Moné, Megan Bayne, and Lena Kross",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 08/05 Powell’s AEW Dynamite audio review: Grand Slam Mexico with Kyle Fletcher vs. Mike Bailey for the AEW International Title, Willow...",
+      "link": "https://prowrestling.net/site/2026/08/06/08-05-powells-aew-dynamite-audio-review-grand-slam-mexico-with-kyle-fletcher-vs-mike-bailey-for-the-aew-international-title-willow-nightingale-and-brawling-birds-vs-mercedes-mone-megan-bayne-a/",
+      "t": "1h",
+      "dt": "2026-08-06T05:39:26+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 8/5 – WKH – AEW Dynamite: Grand Slam Mexico at Arena Mexico featuring MJF return, Ospreay vs. Davis, Trios Title match, Fletcher vs. Speedball, Bucks team with Copeland & Christian (21 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the August 5 Grand Slam Mexico at Arena Mexico episode of AEW Dynamite start to finish including Will...",
+      "link": "https://www.pwtorch.com/site/2026/08/06/vip-podcast-8-5-wkh-aew-dynamite-grand-slam-mexico-at-arena-mexico-featuring-mjf-return-ospreay-vs-davis-trios-title-match-fletcher-vs-speedball-bucks-team-with-copeland-christian-21-min/",
+      "t": "1h",
+      "dt": "2026-08-06T05:36:13+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Grand Slam Mexico - 8/5/2026: 3 Things We Hated And 3 We Loved",
+      "p": "The best and the worst of AEW's return to Arena Mexico.",
+      "link": "https://www.wrestlinginc.com/2231356/aew-dynamite-grand-slam-mexico-august-5-2026-3-things-hated-loved-opinion-review/",
+      "t": "1h",
+      "dt": "2026-08-06T05:15:01+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Samoa Joe teases return at AEW All In",
+      "p": "Just a few weeks away, former World Champion Samoa Joe has now teased his return at arguably AEW’s biggest PPV. Absent since AEW Double or Nothing 2026, Joe is currently missing from his in-ring...",
+      "link": "https://www.f4wonline.com/news/aew/samoa-joe-teases-return-at-aew-all-in/",
+      "t": "2h",
+      "dt": "2026-08-06T03:45:54+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Samoa Joe believes the wrestling locker room needs more honest people",
       "p": "A wrestling veteran for decades now, former AEW World Champion Samoa Joe recently shared the need for honest people in the wrestling locker room rather than leaders. During a recent Dark Side of...",
       "link": "https://www.f4wonline.com/news/aew/samoa-joe-believes-the-wrestling-locker-room-needs-more-honest-people/",
-      "t": "25m",
+      "t": "3h",
       "dt": "2026-08-06T03:07:47+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "AEW Grand Slam: Mexico 2026 Review | REWIND-A-DYNAMITE",
       "p": "John & Wai review AEW Grand Slam: Mexico featuring Kyle Fletcher vs. Speedball. XL: Dory Funk Jr.’s death, Brock Lesnar’s retirement, Roman Reigns in Mexico City, Royal Rumble, NXT Underground....",
       "link": "https://www.postwrestling.com/2026/08/05/aew-grand-slam-mexico-2026-review-rewind-a-dynamite-live-1045pm-et/",
-      "t": "32m",
+      "t": "3h",
       "dt": "2026-08-06T03:00:46+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "FREE PODCAST 8/5 – WKPWP Flagship from 5 Yrs Ago: Keller & Martin talk Bobby Eaton, Bray Wyatt’s WWE departure and potential in AEW, Adam Cole in AEW, Ric Flair, United Center sellout, TV reviews (152 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Podcast “Flagship” episode (8-5-2021), PWTorch editor Wade Keller and PWTorch VIP analyst Todd Martin...",
       "link": "https://www.pwtorch.com/site/2026/08/05/free-podcast-8-5-wkpwp-flagship-from-5-yrs-ago-keller-martin-talk-bobby-eaton-bray-wyatts-wwe-departure-and-potential-in-aew-adam-cole-in-aew-ric-flair-united-center-sellout/",
-      "t": "32m",
+      "t": "3h",
       "dt": "2026-08-06T03:00:16+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "AEW Grand Slam Mexico Results: Ospreay over Davis, Hangman & Brodido win Trios titles",
       "p": "AEW Grand Slam Mexico featured Kyle Fletcher defending the International Championship against Speedball Mike Bailey. The post AEW Grand Slam Mexico Results: Ospreay over Davis, Hangman & Brodido...",
       "link": "https://www.postwrestling.com/2026/08/05/aew-grand-slam-mexico-live-results-international-trios-title-matches-ospreay-vs-davis/",
-      "t": "39m",
+      "t": "3h",
       "dt": "2026-08-06T02:53:12+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Hangman Page & Brodido win Trios titles at AEW Grand Slam Mexico",
       "p": "Arena Mexico continues to be a special place for Hangman Page as he and Brodido won the AEW Trios titles from The Demand at Wednesday’s Grand Slam Mexico. The three — coined The Good, The Bad &...",
       "link": "https://www.f4wonline.com/news/aew/hangman-page-brodido-trios-titles-aew-grand-slam-mexico/",
-      "t": "40m",
+      "t": "3h",
       "dt": "2026-08-06T02:52:17+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "Brodido & Adam Page Dethrone AEW World Trios Champions In Arena Mexico",
       "p": "Brody King, Bandido, and \"Hangman\" Adam Page are the new AEW World Trios Champions after defeating The Demand at \"AEW Dynamite: Grand Slam\" in Arena Mexico.",
       "link": "https://www.wrestlinginc.com/2231347/brodido-adam-page-dethrone-aew-world-trios-champions-arena-mexico/",
-      "t": "45m",
+      "t": "3h",
       "dt": "2026-08-06T02:47:05+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "New AEW World Trios Champions Crowned At AEW Grand Slam Mexico",
       "p": "A huge title change at AEW Grand Slam Mexico. Arena Mexico was treated to a big title switch on Wednesday’s episode of AEW Dynamite, as the trio of Adam Page and Brodido defeated The Demand to win...",
       "link": "https://www.fightful.com/wrestling-news/aew-grand-slam-mexico-trios-320728/",
-      "t": "56m",
+      "t": "4h",
       "dt": "2026-08-06T02:36:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daniel Garcia says Jon Moxley ‘turned the ship around’ for AEW by taking control",
-      "p": "Death Riders member and former TNT Champion Daniel Garcia recently gave Jon Moxley credit for taking control and turning AEW’s fate. During a recent episode of Thrive with Alex Sagot, Garcia...",
-      "link": "https://www.f4wonline.com/news/aew/daniel-garcia-says-jon-moxley-turned-the-ship-around-for-aew-by-taking-control/",
-      "t": "1h",
-      "dt": "2026-08-06T02:31:27+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite Poll: Grade August 5 Grand Slam Mexico episode",
-      "p": "Loading… The post AEW Dynamite Poll: Grade August 5 Grand Slam Mexico episode appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/05/aew-dynamite-poll-grade-august-5-grand-slam-mexico-episode/",
-      "t": "1h",
-      "dt": "2026-08-06T02:20:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Andrade El Idolo punches ticket to AEW All In: London",
-      "p": "Reigning AEW National Champion Andrade El Idolo is on his way to All In: London. At Wednesday’s Grand Slam Mexico, El Idolo won a three-way over Tommaso Ciampa and Komander to earn the number one...",
-      "link": "https://www.f4wonline.com/news/aew/andrade-el-idolo-casino-gauntlet-aew-all-in-2026/",
-      "t": "1h",
-      "dt": "2026-08-06T01:54:58+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kyle Fletcher Retains AEW International Title In Intense Grand Slam Match",
-      "p": "In front of a white hot Arena Mexico crowd, Kyle Fletcher retained his AEW International Championship at AEW Grand Slam Mexico.",
-      "link": "https://www.wrestlinginc.com/2231344/kyle-fletcher-retains-aew-international-title-grand-slam-match/",
-      "t": "1h",
-      "dt": "2026-08-06T01:43:33+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "New title match added to AEW All In: London",
-      "p": "A match months in the making is now official for this month’s AEW All In: London as Divine Dominion will defend the AEW Women’s World Tag Team titles against The Brawling Birds. The title defense...",
-      "link": "https://www.f4wonline.com/news/aew/new-title-match-added-to-aew-all-in-london-2026/",
-      "t": "1h",
-      "dt": "2026-08-06T01:35:38+00:00"
     }
   ]
 }

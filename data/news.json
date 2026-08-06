@@ -1,22 +1,70 @@
 {
-  "updated": "2026-08-05T22:18:34.780269+00:00",
+  "updated": "2026-08-06T00:08:48.449222+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (1 AEW items)",
-    "ProWrestling.net": "ok (3 AEW items)"
+    "Wrestling Inc": "ok (2 AEW items)",
+    "ProWrestling.net": "ok (4 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE RESULTS (8/4): Keller’s report on Grand Slam Mexico incluiding Ospreay vs. Mark Davis, The Demand vs. Hangman & Brodido, Copeland & Christian & Bucks vs. Death Riders",
+      "p": "AEW DYNAMITE REPORT AUGUST 5, 2026 MEXICO CITY, MEXICO AT ARENA MEXICO AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring Announcer:...",
+      "link": "https://www.pwtorch.com/site/2026/08/05/aew-dynamite-results-8-4-kellers-report-on-grand-slam-mexico-incluiding-ospreay-vs-mark-davis-the-demand-vs-hangman-brodido-copeland-christian-bucks-vs-death-riders/",
+      "t": "13m",
+      "dt": "2026-08-05T23:55:15+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite results (8/5): Powell’s review of Grand Slam Mexico with Kyle Fletcher vs. Mike Bailey for the AEW International Title, Willow Nightingale and Brawling Birds vs. Mercedes Moné, Megan Bayne, and Lena Kross",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite results (8/5): Powell’s review of Grand Slam Mexico with Kyle Fletcher vs. Mike Bailey for the AEW International Title, Willow...",
+      "link": "https://prowrestling.net/site/2026/08/05/aew-dynamite-results-8-5-powells-review-of-grand-slam-mexico-with-kyle-fletcher-vs-mike-bailey-for-the-aew-international-title-willow-nightingale-and-brawling-birds-vs-mercedes-mone-megan-bay/",
+      "t": "38m",
+      "dt": "2026-08-05T23:30:41+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Grand Slam Mexico 2026 live results: Will Ospreay vs. Mark Davis",
+      "p": "AEW is live tonight from CMLL’s Arena Mexico for the second-ever Grand Slam Mexico event featuring eight matches over an announced two and a half hour show. One of the headlining bouts will...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-grand-slam-mexico-2026-will-ospreay-vs-mark-davis/",
+      "t": "38m",
+      "dt": "2026-08-05T23:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Grand Slam Mexico Results (8/5/2026): Street Fight, Andrade El Idolo, Mercedes Mone, Mistico, More",
+      "p": "Full results for the August 5, 2026 edition of AEW Grand Slam Mexico on TBS live from the Arena Mexico in Mexico City, Mexico. On August 5, 2026, All Elite Wrestling hosted a new episode of Grand...",
+      "link": "https://www.fightful.com/wrestling-news/aew-grand-slam-mexico-results-8-5-2026-street-fight-andrade-el-idolo-mercedes-mone-mistico-more/",
+      "t": "53m",
+      "dt": "2026-08-05T23:15:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "EXCLUSIVE: JCW Lunacy co-owner Violent J said “Hell yeah” when asked to participate in Ice Bucket Challenge to benefit Rebel on AEW Collision",
+      "p": "JCW Lunacy co-owner Violent J participated in the Ice Bucket Challenge that aired on AEW Collision on July 30 from Detroit, Mich. alongside Shaggy 2 Dope and Rhino to raise awareness and funds for...",
+      "link": "https://www.pwtorch.com/site/2026/08/05/jcw-lunacy-co-owner-violent-j-says-he-responded-with-a-hell-yeah-when-asked-to-participate-in-ice-bucket-challenge-on-aew-collision/",
+      "t": "1h",
+      "dt": "2026-08-05T23:03:13+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Grand Slam Mexico Results 8/5 - Two Titles On The Line, Street Fight & More",
+      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" 2026, with the International and World Trios Championships both put on the line!",
+      "link": "https://www.wrestlinginc.com/2230582/aew-dynamite-grand-slam-mexico-august-4-two-titles-on-line-street-fight-more/",
+      "t": "1h",
+      "dt": "2026-08-05T23:00:00+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Speedball Mike Bailey Cheekily Honoring Fellow AEW Star With New Move",
       "p": "\"Speedball\" Mike Bailey is thinking of honoring a fellow AEW star with a new move, mainly because he stole the move from them.",
       "link": "https://www.wrestlinginc.com/2231287/aew-speedball-mike-bailey-claudio-castagnoli-new-move/",
-      "t": "19m",
+      "t": "2h",
       "dt": "2026-08-05T21:58:57+00:00"
     },
     {
@@ -24,15 +72,23 @@
       "h": "Daniel Garcia Recalls Period Where It Felt Like AEW Lost Goodwill With Fans, Credits Jon Moxley For Turning The Ship Around",
       "p": "Daniel Garcia gave credit to Mox for turning the tide. There’s a new episode of Thrive with Alex Sagot, and it is a sit-down interview with AEW’s Daniel Garcia. During the chat, Garcia recounted...",
       "link": "https://www.fightful.com/wrestling-news/daniel-garcia-recalls-period-where-it-felt-like-aew-lost-goodwill-with-fans-credits-jon-moxley-for-turning-the-ship-around/",
-      "t": "39m",
+      "t": "2h",
       "dt": "2026-08-05T21:39:03+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: Wesley Blake, AEW notes, Gable Steveson",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Wednesday Update WWE Other Wrestling",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-wesley-blake-aew-notes-gable-steveson/",
+      "t": "2h",
+      "dt": "2026-08-05T21:34:34+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW Continental Cup tournament field and first round matches announced",
       "p": "AEW has announced the field of 16 participants for the inaugural AEW Continental Cup tournament. The Continental Classic Championship will be on the line in every round of the tournament with...",
       "link": "https://www.pwtorch.com/site/2026/08/05/aew-continental-cup-tournament-field-and-first-round-matches-announced/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-05T21:17:20+00:00"
     },
     {
@@ -40,7 +96,7 @@
       "h": "VIP PODCAST 8/5 – VIP Podcast Vault – 18 Yrs Ago (7-15-2008): Danielson vs. McGuinness, edited rape angle with Larry Sweeney, Austin Aries vs. Go Shiozaki (35 min.)",
       "p": "SHOW SUMMARY: This installment of the PWTorch VIP Vault jumps back to the July 15 podcast covering the 6th Anniversary ROH event DVD release. James Caldwell, Sean Radican, and Justin Parker...",
       "link": "https://www.pwtorch.com/site/2026/08/05/vip-podcast-8-5-vip-podcast-vault-18-yrs-ago-7-15-2008-danielson-vs-mcguinness-edited-rape-angle-with-larry-sweeney-austin-aries-vs-go-shiozaki-35-min/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-08-05T16:52:48+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "AEW DYNAMITE PREVIEW (8/5): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, AUGUST 5, 2026 Where: MEXICO CITY, MEXICO AT ARENA MEXICO How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 5,970 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/08/05/aew-dynamite-preview-8-5-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-08-05T16:35:20+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: Can a World Champion qualify as a Rising Star? After last week’s performance, yes! Plus one wrestler being Bandido’s who deserves better",
-      "p": "Welcome everyone! Wow! What a Dynamite we had last week. If this was AEW’s reaction to a “B” pay-per-view, then maybe I want some more “B” pay-per-views. Why? Because that was one of the best [...]",
-      "link": "https://www.pwtorch.com/site/2026/08/05/aew-rising-and-fading-stars-can-a-world-champion-qualify-as-a-rising-star-after-last-weeks-performance-yes-plus-one-wrestler-being-bandidos-who-deserves-better/",
-      "t": "5h",
-      "dt": "2026-08-05T16:32:50+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Grand Slam Mexico",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Grand Slam Mexico appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/05/aew-dynamite-preview-grand-slam-mexico-3/",
-      "t": "8h",
-      "dt": "2026-08-05T14:00:01+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite “Grand Slam Mexico,” last week’s Dynamite and Collision grades, Pat Tanaka, Ikuto Hidaka, Nikkita Lyons",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite “Grand Slam Mexico,” last week’s Dynamite and Collision grades, Pat Tanaka, Ikuto Hidaka, Nikkita Lyons appeared first on Pro...",
-      "link": "https://prowrestling.net/site/2026/08/05/aew-dynamite-grand-slam-mexico-last-weeks-dynamite-and-collision-grades-pat-tanaka-ikuto-hidaka-nikkita-lyons/",
-      "t": "10h",
-      "dt": "2026-08-05T12:00:56+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 8/4 – WKPWP Tuesday Flagship: Keller & Fann on Lesnar’s retirement, remembering Dory Funk Jr., Chelsea’s big win, AEW Continental Cup, WWE returns, more (146 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Rich Fann, a PWTorch columnist. CURRENT EVENTS TOPICS… A...",
-      "link": "https://www.pwtorch.com/site/2026/08/05/free-podcast-8-4-wkpwp-tuesday-flagship-keller-fann-on-lesnars-retirement-remembering-dory-funk-jr-chelseas-big-win-aew-continental-cup-wwe-returns-more-146-min/",
-      "t": "16h",
-      "dt": "2026-08-05T05:28:13+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "CMLL Semana Internacional Results: Kyle Fletcher pins Máscara Dorada, Kevin Knight retains TNT Championship",
-      "p": "On the night before AEW Grand Slam Mexico, several members of the roster wrestled at Arena México at CMLL’s Semana Internacional card. The post CMLL Semana Internacional Results: Kyle Fletcher...",
-      "link": "https://www.postwrestling.com/2026/08/05/cmll-semana-internacional-results-kyle-fletcher-pins-mascara-dorada-kevin-knight-retains-tnt-championship/",
-      "t": "17h",
-      "dt": "2026-08-05T05:07:59+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Jeff Cobb & Kazuchika Okada make surprise appearances at PRODUCE Vol. 3: Azucar",
-      "p": "Jeff Cobb made his first wrestling appearance on Monday night since his release from WWE. The post Jeff Cobb & Kazuchika Okada make surprise appearances at PRODUCE Vol. 3: Azucar appeared first on...",
-      "link": "https://www.postwrestling.com/2026/08/04/jeff-cobb-kazuchika-okada-make-surprise-appearances-at-produce-vol-3-azucar/",
-      "t": "1d",
-      "dt": "2026-08-04T14:45:37+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Continental Cup tournament entrants, rules, opening round matches",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Continental Cup tournament entrants, rules, opening round matches appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/04/aew-continental-cup-tournament-entrants-rules-opening-round-matches/",
-      "t": "1d",
-      "dt": "2026-08-04T13:01:19+00:00"
     }
   ]
 }

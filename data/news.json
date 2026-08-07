@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-07T13:35:45.783586+00:00",
+  "updated": "2026-08-07T15:07:13.966949+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (4 AEW items)",
+    "Fightful": "ok (1 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub results (8/6): Red Velvet vs. Isla Dawn for the ROH Women’s TV Title, ROH Women’s Champion Athena vs. Janai Kai in a Proving Ground match",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (8/6): Red Velvet vs. Isla Dawn for the ROH Women’s TV Title, ROH Women’s Champion Athena vs. Janai Kai in a Proving...",
+      "link": "https://prowrestling.net/site/2026/08/07/roh-on-honorclub-results-8-6-red-velvet-vs-isla-dawn-for-the-roh-womens-tv-title-roh-womens-champion-athena-vs-janai-kai-in-a-proving-ground-match/",
+      "t": "4m",
+      "dt": "2026-08-07T15:02:38+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jim Ross Says AEW Contract Is Still Set To Expire This Month",
+      "p": "Jim Ross updates fans on his future. Back in May, Ross updated the world on the status of his AEW contract, saying that it expires sometime in August. On the latest episode of Grilling JR, Ross...",
+      "link": "https://www.fightful.com/wrestling-news/jim-ross-says-aew-contract-is-still-set-to-expire-this-month/",
+      "t": "13m",
+      "dt": "2026-08-07T14:53:40+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Jim Ross gives update on upcoming brain surgery, AEW contract status",
       "p": "Jim Ross will be undergoing brain surgery in the coming days. On this week’s episode of his Grilling JR podcast, Ross shared that his surgery date is this coming Wednesday (August 12). The...",
       "link": "https://www.f4wonline.com/news/aew/jim-ross-gives-update-on-upcoming-brain-surgery-aew-contract-status/",
-      "t": "5m",
+      "t": "1h",
       "dt": "2026-08-07T13:29:46+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Weekend TV Guide: CMLL presents International GP, tournament season in Japan continues, Naito challenges for GHC title & more!",
       "p": "Top professional wrestling events this weekend on TV & sreaming, including shows from WWE, AEW, NJPW, CMLL, STARDOM & more! The post Weekend TV Guide: CMLL presents International GP, tournament...",
       "link": "https://www.postwrestling.com/2026/08/07/weekend-tv-guide-cmll-presents-international-gp-tournament-season-in-japan-continues-naito-challenges-for-ghc-title-more/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-07T12:00:26+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "ROH TV live results: Athena vs. Janai Kai, Eddie Kingston & Ortiz vs. RPG Vice",
       "p": "Ring of Honor is back on HonorClub tonight. This week’s episode will feature an ROH Women’s World Championship Proving Ground match, with ROH Women’s World Champion Athena going up against Janai...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-athena-vs-janai-kai-eddie-kingston-ortiz-vs-rpg-vice/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-08-06T23:05:00+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "AEW Collision rating: How did last Thursday’s show perform with an hour running against TNA Impact?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: How did last Thursday’s show perform with an hour running against TNA Impact? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/06/aew-collision-rating-how-did-last-thursdays-show-perform-with-an-hour-running-against-tna-impact/",
-      "t": "17h",
+      "t": "19h",
       "dt": "2026-08-06T20:05:08+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "WOL: Rhea Ripley, AEW Grand Slam Dynamite, Mug Dog, Dude Wipes",
       "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including a full recap of AEW Grand Slam Dynamite, the Mug Root Beer Dog and TNA doing ANGLES with...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-rhea-ripley-aew-grand-slam-dynamite-mug-dog-dude-wipes/",
-      "t": "17h",
+      "t": "19h",
       "dt": "2026-08-06T20:04:41+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Buddy Matthews announces he’s cleared to compete",
       "p": "AEW performer Buddy Matthews announced he is medically cleared to compete after posting a video about his recovery journey. The post Buddy Matthews announces he’s cleared to compete appeared first...",
       "link": "https://www.postwrestling.com/2026/08/06/buddy-matthews-announces-hes-cleared-to-compete/",
-      "t": "17h",
+      "t": "19h",
       "dt": "2026-08-06T20:03:18+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "TNA Impact Viewership & Ratings Report, 7/30/2026",
       "p": "After two straight weeks of strong ratings, competition from AEW Collision sent the July 30 episode of TNA Impact back down to familiar viewership territory",
       "link": "https://www.wrestlinginc.com/2232018/tna-impact-viewership-ratings-report-july-30-2026/",
-      "t": "17h",
+      "t": "19h",
       "dt": "2026-08-06T20:03:14+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "TNA Impact rating: How did last week’s live show perform against AEW Collision?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post TNA Impact rating: How did last week’s live show perform against AEW Collision? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/06/tna-impact-rating-how-did-last-weeks-live-show-perform-against-aew-collision/",
-      "t": "17h",
+      "t": "19h",
       "dt": "2026-08-06T20:00:10+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "G1 Climax 36 Night 12 Review: Tsuji vs. Oleg, Shingo vs. Takeshita",
       "p": "John Pollock & Wai Ting review Night 12 of NJPW G1 Climax 36, featuring Boltin Oleg vs. Yota Tsuji, and Konosuke Takeshita vs. Shingo Takagi. Match recommendations within. The post G1 Climax 36...",
       "link": "https://www.postwrestling.com/2026/08/06/g1-climax-36-night-12-review-tsuji-vs-oleg-shingo-vs-takeshita/",
-      "t": "17h",
+      "t": "19h",
       "dt": "2026-08-06T19:41:44+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Pruett’s Pause: 10 Thoughts on AEW Grand Slam Mexico – MJF returns with the Triple B, Will Ospreay’s killer instinct, “Hangman” Adam Page returns to the ring",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Grand Slam Mexico – MJF returns with the Triple B, Will Ospreay’s killer instinct, “Hangman” Adam Page...",
       "link": "https://prowrestling.net/site/2026/08/06/pruetts-pause-10-thoughts-on-aew-grand-slam-mexico-mjf-returns-with-the-triple-b-will-ospreays-killer-instinct-hangman-adam-page-returns-to-the-ring/",
-      "t": "18h",
-      "dt": "2026-08-06T19:00:38+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Do more than tell viewers that Arena Mexico is great, thoughts on Kyle Fletcher vs. Mike Bailey for the AEW International Championship, and the Street Fight main event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Do more than tell viewers that Arena Mexico is great, thoughts on Kyle Fletcher vs. Mike Bailey for the AEW...",
-      "link": "https://prowrestling.net/site/2026/08/06/powells-aew-dynamite-hit-list-do-more-than-tell-viewers-that-arena-mexico-is-great-thoughts-on-kyle-fletcher-vs-mike-bailey-for-the-aew-international-championship-and-the-street-fight-main-event/",
-      "t": "19h",
-      "dt": "2026-08-06T18:34:18+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "NJPW “G1 Climax 36” results (8/6): Vetter’s review of Konosuke Takeshita vs. Shingo Takagi, Yota Tsuji vs. Boltin Oleg, Hirooki Goto vs. Ryohei Oiwa, Jake Lee vs. Great-O-Khan, Yuto-Ice vs. Sanada",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (8/6): Vetter’s review of Konosuke Takeshita vs. Shingo Takagi, Yota Tsuji vs. Boltin Oleg, Hirooki Goto vs....",
-      "link": "https://prowrestling.net/site/2026/08/06/njpw-g1-climax-36-results-8-6-vetters-review-of-konosuke-takeshita-vs-shingo-takagi-yota-tsuji-vs-boltin-oleg-hirooki-goto-vs-ryohei-oiwa-jake-lee-vs-great-o-khan-yuto-ice-vs-sanada/",
       "t": "20h",
-      "dt": "2026-08-06T16:56:41+00:00"
+      "dt": "2026-08-06T19:00:38+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-08T02:19:01.972405+00:00",
+  "updated": "2026-08-08T04:19:11.670176+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -13,10 +13,26 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "Claudio Castagnoli explains why influencers in wrestling are part of the business",
+      "p": "Celebrities have often been a part of pro wrestling, and AEW’s Claudio Castagnoli recently explained why they are required by the business. While fans have often criticized WWE for their influx of...",
+      "link": "https://www.f4wonline.com/news/aew/claudio-castagnoli-explains-why-influencers-in-wrestling-are-part-of-the-business/",
+      "t": "35m",
+      "dt": "2026-08-08T03:43:07+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "Exclusive: JCW Lunacy co-owner Violent J says “We (ICP) were just so happy” to appear on AEW TV, discusses conversations backstage with AEW COO Tony Khan",
+      "p": "Violent J said he had a couple of quick, but great interactions backstage with AEW COO Tony Khan when ICP appeared on Dynamite and Collision last week. “We had what I call 100 mile an [...]",
+      "link": "https://www.pwtorch.com/site/2026/08/07/exclusive-violent-j-says-we-icp-were-just-so-happy-to-appear-on-aew-tv-discusses-conversations-backstage-with-aew-coo-tony-khan/",
+      "t": "1h",
+      "dt": "2026-08-08T02:27:15+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "WWE announces name of Texas Lucha Libre AAA event",
       "p": "We now know some more information about the event Lucha Libre AAA is presenting in Edinburg, Texas on August 30. On the same day as AEW All In 2026 (taking place from Wembley Stadium in London),...",
       "link": "https://www.f4wonline.com/news/wwe/wwe-announces-name-of-texas-lucha-libre-aaa-event/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-07T18:46:28+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Former WWE & AEW Star Aleister Black Shares Cryptic Day In The Life Video",
       "p": "Former WWE star Aleister Black unveils a new look and outlook on life after achieving free agency status.",
       "link": "https://www.wrestlinginc.com/2232634/former-wwe-aew-star-aleister-black-cryptic-day-life-video/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-07T17:46:18+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW DYNAMITE HITS & MISSES (8/5): Fletcher vs. Speedball was so great, Ospreay benefits from heel-face dynamic with Davis, Mistico’s entrance, Continental Cup lacked format overview",
       "p": "Atmospheres can make a show. I experienced that last week in Detroit and I can only imagine what it was like to be at Arena Mexico for this event. The crowd was amazing from the [...]",
       "link": "https://www.pwtorch.com/site/2026/08/07/aew-dynamite-hits-misses-8-5-fletcher-vs-speedball-was-so-great-ospreay-benefits-from-heel-face-dynamic-with-davis-misticos-entrance-continental-cup-lacked-format-overview/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-07T17:31:04+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Lady Frost ‘blessed to be cancer-free’ after health scare",
       "p": "Lady Frost is doing well after having to endure a recent health scare. The former AEW wrestler and current member of the MLW women’s division posted a tweet on Thursday night saying she’s “blessed...",
       "link": "https://www.f4wonline.com/news/mlw/lady-frost-blessed-to-be-cancer-free-after-health-scare/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-07T17:29:30+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Andrade El Idolo Responds To Attack By MJF On AEW Dynamite",
       "p": "Following MJF's vicious attack at AEW Grand Slam Mexico, Andrade El Idolo has vowed to finish the job that Rush started two months ago.",
       "link": "https://www.wrestlinginc.com/2232518/andrade-el-idolo-responds-attack-mjf-aew-dynamite/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-08-07T16:30:47+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "ROH on HonorClub results (8/6): Red Velvet vs. Isla Dawn for the ROH Women’s TV Title, ROH Women’s Champion Athena vs. Janai Kai in a Proving Ground match",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (8/6): Red Velvet vs. Isla Dawn for the ROH Women’s TV Title, ROH Women’s Champion Athena vs. Janai Kai in a Proving...",
       "link": "https://prowrestling.net/site/2026/08/07/roh-on-honorclub-results-8-6-red-velvet-vs-isla-dawn-for-the-roh-womens-tv-title-roh-womens-champion-athena-vs-janai-kai-in-a-proving-ground-match/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-08-07T15:02:38+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Jim Ross gives update on upcoming brain surgery, AEW contract status",
       "p": "Jim Ross will be undergoing brain surgery in the coming days. On this week’s episode of his Grilling JR podcast, Ross shared that his surgery date is this coming Wednesday (August 12). The...",
       "link": "https://www.f4wonline.com/news/aew/jim-ross-gives-update-on-upcoming-brain-surgery-aew-contract-status/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-08-07T13:29:46+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Weekend TV Guide: CMLL presents International GP, tournament season in Japan continues, Naito challenges for GHC title & more!",
       "p": "Top professional wrestling events this weekend on TV & sreaming, including shows from WWE, AEW, NJPW, CMLL, STARDOM & more! The post Weekend TV Guide: CMLL presents International GP, tournament...",
       "link": "https://www.postwrestling.com/2026/08/07/weekend-tv-guide-cmll-presents-international-gp-tournament-season-in-japan-continues-naito-challenges-for-ghc-title-more/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-08-07T12:00:26+00:00"
     },
     {
@@ -90,22 +106,6 @@
       "link": "https://www.postwrestling.com/2026/08/06/buddy-matthews-announces-hes-cleared-to-compete/",
       "t": "1d",
       "dt": "2026-08-06T20:03:18+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "TNA Impact rating: How did last week’s live show perform against AEW Collision?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post TNA Impact rating: How did last week’s live show perform against AEW Collision? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/06/tna-impact-rating-how-did-last-weeks-live-show-perform-against-aew-collision/",
-      "t": "1d",
-      "dt": "2026-08-06T20:00:10+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "G1 Climax 36 Night 12 Review: Tsuji vs. Oleg, Shingo vs. Takeshita",
-      "p": "John Pollock & Wai Ting review Night 12 of NJPW G1 Climax 36, featuring Boltin Oleg vs. Yota Tsuji, and Konosuke Takeshita vs. Shingo Takagi. Match recommendations within. The post G1 Climax 36...",
-      "link": "https://www.postwrestling.com/2026/08/06/g1-climax-36-night-12-review-tsuji-vs-oleg-shingo-vs-takeshita/",
-      "t": "1d",
-      "dt": "2026-08-06T19:41:44+00:00"
     }
   ]
 }

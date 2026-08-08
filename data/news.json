@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-07T23:46:14.101696+00:00",
+  "updated": "2026-08-08T02:19:01.972405+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
@@ -16,7 +16,7 @@
       "h": "WWE announces name of Texas Lucha Libre AAA event",
       "p": "We now know some more information about the event Lucha Libre AAA is presenting in Edinburg, Texas on August 30. On the same day as AEW All In 2026 (taking place from Wembley Stadium in London),...",
       "link": "https://www.f4wonline.com/news/wwe/wwe-announces-name-of-texas-lucha-libre-aaa-event/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-08-07T18:46:28+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "Former WWE & AEW Star Aleister Black Shares Cryptic Day In The Life Video",
       "p": "Former WWE star Aleister Black unveils a new look and outlook on life after achieving free agency status.",
       "link": "https://www.wrestlinginc.com/2232634/former-wwe-aew-star-aleister-black-cryptic-day-life-video/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-08-07T17:46:18+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "AEW DYNAMITE HITS & MISSES (8/5): Fletcher vs. Speedball was so great, Ospreay benefits from heel-face dynamic with Davis, Mistico’s entrance, Continental Cup lacked format overview",
       "p": "Atmospheres can make a show. I experienced that last week in Detroit and I can only imagine what it was like to be at Arena Mexico for this event. The crowd was amazing from the [...]",
       "link": "https://www.pwtorch.com/site/2026/08/07/aew-dynamite-hits-misses-8-5-fletcher-vs-speedball-was-so-great-ospreay-benefits-from-heel-face-dynamic-with-davis-misticos-entrance-continental-cup-lacked-format-overview/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-07T17:31:04+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "Lady Frost ‘blessed to be cancer-free’ after health scare",
       "p": "Lady Frost is doing well after having to endure a recent health scare. The former AEW wrestler and current member of the MLW women’s division posted a tweet on Thursday night saying she’s “blessed...",
       "link": "https://www.f4wonline.com/news/mlw/lady-frost-blessed-to-be-cancer-free-after-health-scare/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-07T17:29:30+00:00"
     },
     {
@@ -48,23 +48,15 @@
       "h": "Andrade El Idolo Responds To Attack By MJF On AEW Dynamite",
       "p": "Following MJF's vicious attack at AEW Grand Slam Mexico, Andrade El Idolo has vowed to finish the job that Rush started two months ago.",
       "link": "https://www.wrestlinginc.com/2232518/andrade-el-idolo-responds-attack-mjf-aew-dynamite/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-07T16:30:47+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Long-Absent AEW Star Announces He's Been Officially Cleared To Return To The Ring",
-      "p": "AEW has a robust roster of talent and it's getting ready to expand with the return of an injured wrestler that has been officially cleared to compete again.",
-      "link": "https://www.wrestlinginc.com/2232454/aew-buddy-matthews-officially-cleared-return-ring/",
-      "t": "8h",
-      "dt": "2026-08-07T15:44:37+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "ROH on HonorClub results (8/6): Red Velvet vs. Isla Dawn for the ROH Women’s TV Title, ROH Women’s Champion Athena vs. Janai Kai in a Proving Ground match",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (8/6): Red Velvet vs. Isla Dawn for the ROH Women’s TV Title, ROH Women’s Champion Athena vs. Janai Kai in a Proving...",
       "link": "https://prowrestling.net/site/2026/08/07/roh-on-honorclub-results-8-6-red-velvet-vs-isla-dawn-for-the-roh-womens-tv-title-roh-womens-champion-athena-vs-janai-kai-in-a-proving-ground-match/",
-      "t": "8h",
+      "t": "11h",
       "dt": "2026-08-07T15:02:38+00:00"
     },
     {
@@ -72,7 +64,7 @@
       "h": "Jim Ross gives update on upcoming brain surgery, AEW contract status",
       "p": "Jim Ross will be undergoing brain surgery in the coming days. On this week’s episode of his Grilling JR podcast, Ross shared that his surgery date is this coming Wednesday (August 12). The...",
       "link": "https://www.f4wonline.com/news/aew/jim-ross-gives-update-on-upcoming-brain-surgery-aew-contract-status/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-08-07T13:29:46+00:00"
     },
     {
@@ -80,7 +72,7 @@
       "h": "Weekend TV Guide: CMLL presents International GP, tournament season in Japan continues, Naito challenges for GHC title & more!",
       "p": "Top professional wrestling events this weekend on TV & sreaming, including shows from WWE, AEW, NJPW, CMLL, STARDOM & more! The post Weekend TV Guide: CMLL presents International GP, tournament...",
       "link": "https://www.postwrestling.com/2026/08/07/weekend-tv-guide-cmll-presents-international-gp-tournament-season-in-japan-continues-naito-challenges-for-ghc-title-more/",
-      "t": "11h",
+      "t": "14h",
       "dt": "2026-08-07T12:00:26+00:00"
     },
     {
@@ -106,6 +98,14 @@
       "link": "https://prowrestling.net/site/2026/08/06/tna-impact-rating-how-did-last-weeks-live-show-perform-against-aew-collision/",
       "t": "1d",
       "dt": "2026-08-06T20:00:10+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "G1 Climax 36 Night 12 Review: Tsuji vs. Oleg, Shingo vs. Takeshita",
+      "p": "John Pollock & Wai Ting review Night 12 of NJPW G1 Climax 36, featuring Boltin Oleg vs. Yota Tsuji, and Konosuke Takeshita vs. Shingo Takagi. Match recommendations within. The post G1 Climax 36...",
+      "link": "https://www.postwrestling.com/2026/08/06/g1-climax-36-night-12-review-tsuji-vs-oleg-shingo-vs-takeshita/",
+      "t": "1d",
+      "dt": "2026-08-06T19:41:44+00:00"
     }
   ]
 }

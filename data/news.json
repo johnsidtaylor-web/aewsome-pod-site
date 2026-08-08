@@ -1,30 +1,38 @@
 {
-  "updated": "2026-08-08T14:47:41.938038+00:00",
+  "updated": "2026-08-08T15:43:49.324167+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (4 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (1 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "AEW Collision Preview, Start Time, How To Watch, Location (8/8)",
-      "p": "Viewing information and lineup for AEW Collision on August 8, 2026 AEW Collision (August 8, 2026) Venue: Broadmoor World Arena City: Colorado Springs, CO Time: 8 pm ET Channel: TNT, HBO Max Lineup...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-8-8/",
-      "t": "2h",
-      "dt": "2026-08-08T12:00:00+00:00"
+      "src": "Wrestling Observer",
+      "h": "AEW Collision ticket sales tonight ahead of tonight’s show (Colorado Springs)",
+      "p": "AEW Collision is set to take place tonight from the Broadmoor World Arena in Colorado Springs, CO. According to the latest update from WrestleTix, 2,028 tickets have been distributed thus far for...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-sales-tonight-colorado-springs-08-08-2026/",
+      "t": "21m",
+      "dt": "2026-08-08T15:22:14+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jamie Hayter & Alex Windsor Detail History Of Brawling Birds Tag Team",
+      "p": "AEW's Brawling Birds discussed how they came together and their current plans during a sit-down interview with Renee Paquette.",
+      "link": "https://www.wrestlinginc.com/2230342/aew-jamie-hayter-alex-windsor-brawling-birds-history/",
+      "t": "43m",
+      "dt": "2026-08-08T15:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision lineup: Three Continental Cup tournament matches set for tonight’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Three Continental Cup tournament matches set for tonight’s live show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/08/aew-collision-lineup-three-continental-cup-tournament-matches-set-for-tonights-live-show/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-08T11:00:54+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Claudio Castagnoli explains why influencers in wrestling are part of the business",
       "p": "Celebrities have often been a part of pro wrestling, and AEW’s Claudio Castagnoli recently explained why they are required by the business. While fans have often criticized WWE for their influx of...",
       "link": "https://www.f4wonline.com/news/aew/claudio-castagnoli-explains-why-influencers-in-wrestling-are-part-of-the-business/",
-      "t": "11h",
+      "t": "12h",
       "dt": "2026-08-08T03:43:07+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Exclusive: JCW Lunacy co-owner Violent J says “We (ICP) were just so happy” to appear on AEW TV, discusses conversations backstage with AEW COO Tony Khan",
       "p": "Violent J said he had a couple of quick, but great interactions backstage with AEW COO Tony Khan when ICP appeared on Dynamite and Collision last week. “We had what I call 100 mile an [...]",
       "link": "https://www.pwtorch.com/site/2026/08/07/exclusive-violent-j-says-we-icp-were-just-so-happy-to-appear-on-aew-tv-discusses-conversations-backstage-with-aew-coo-tony-khan/",
-      "t": "12h",
+      "t": "13h",
       "dt": "2026-08-08T02:27:15+00:00"
     },
     {
@@ -52,19 +60,11 @@
       "dt": "2026-08-07T18:46:28+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Former WWE & AEW Star Aleister Black Shares Cryptic Day In The Life Video",
-      "p": "Former WWE star Aleister Black unveils a new look and outlook on life after achieving free agency status.",
-      "link": "https://www.wrestlinginc.com/2232634/former-wwe-aew-star-aleister-black-cryptic-day-life-video/",
-      "t": "21h",
-      "dt": "2026-08-07T17:46:18+00:00"
-    },
-    {
       "src": "PWTorch",
       "h": "AEW DYNAMITE HITS & MISSES (8/5): Fletcher vs. Speedball was so great, Ospreay benefits from heel-face dynamic with Davis, Mistico’s entrance, Continental Cup lacked format overview",
       "p": "Atmospheres can make a show. I experienced that last week in Detroit and I can only imagine what it was like to be at Arena Mexico for this event. The crowd was amazing from the [...]",
       "link": "https://www.pwtorch.com/site/2026/08/07/aew-dynamite-hits-misses-8-5-fletcher-vs-speedball-was-so-great-ospreay-benefits-from-heel-face-dynamic-with-davis-misticos-entrance-continental-cup-lacked-format-overview/",
-      "t": "21h",
+      "t": "22h",
       "dt": "2026-08-07T17:31:04+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Lady Frost ‘blessed to be cancer-free’ after health scare",
       "p": "Lady Frost is doing well after having to endure a recent health scare. The former AEW wrestler and current member of the MLW women’s division posted a tweet on Thursday night saying she’s “blessed...",
       "link": "https://www.f4wonline.com/news/mlw/lady-frost-blessed-to-be-cancer-free-after-health-scare/",
-      "t": "21h",
+      "t": "22h",
       "dt": "2026-08-07T17:29:30+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "ROH on HonorClub results (8/6): Red Velvet vs. Isla Dawn for the ROH Women’s TV Title, ROH Women’s Champion Athena vs. Janai Kai in a Proving Ground match",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (8/6): Red Velvet vs. Isla Dawn for the ROH Women’s TV Title, ROH Women’s Champion Athena vs. Janai Kai in a Proving...",
       "link": "https://prowrestling.net/site/2026/08/07/roh-on-honorclub-results-8-6-red-velvet-vs-isla-dawn-for-the-roh-womens-tv-title-roh-womens-champion-athena-vs-janai-kai-in-a-proving-ground-match/",
-      "t": "23h",
+      "t": "1d",
       "dt": "2026-08-07T15:02:38+00:00"
     },
     {

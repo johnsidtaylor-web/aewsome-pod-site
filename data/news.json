@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-09T21:45:28.358662+00:00",
+  "updated": "2026-08-09T22:47:41.109407+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Eddie Kingston says he has ‘been away too long’ after AEW Collision win",
+      "p": "Eddie Kingston acknowledged his recent absence from AEW programming following his win on Saturday’s Collision. In an AEW digital exclusive posted on Sunday, Kingston cut a backstage promo and said...",
+      "link": "https://www.f4wonline.com/news/aew/eddie-kingston-says-he-has-been-away-too-long-after-aew-collision-win/",
+      "t": "38m",
+      "dt": "2026-08-09T22:09:22+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW's Chris Jericho Explains Hesitance To 'Put A Timeline' On In-Ring Retirement",
       "p": "AEW's Chris Jericho is still wrestling at age 55, and in a recent interview, he explained why he doesn't like to put a timeline on his remaining in-ring career.",
       "link": "https://www.wrestlinginc.com/2232121/aew-chris-jericho-hesitance-timeline-retirement/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-09T19:30:00+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Rocky Romero On A Potential Bullet Club Revival In AEW: Never Say Never",
       "p": "Rocky Romero could see a future for Bullet Club in AEW. Despite the faction being retired in NJPW, AEW is currently home to many Bullet Club sub-groups like the Bang Bang Gang and The Dogs. When...",
       "link": "https://www.fightful.com/wrestling-news/rocky-romero-320666/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-09T19:00:00+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW Broadcaster Jim Ross Explains How He'd Like To End His Career",
       "p": "Jim Ross knows he's nearing the end of his career, and has already got an idea of how he'd like to bow out of wrestling.",
       "link": "https://www.wrestlinginc.com/2233106/aew-jim-ross-career-end-broadcaster/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-09T17:41:47+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "FREE PODCAST 8/9 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner review Grand Slam Mexico (99 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss the August 5th edition of AEW Dynamite Grand Slam Mexico. Second week...",
       "link": "https://www.pwtorch.com/site/2026/08/09/free-podcast-8-9-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-review-grand-slam-mexico-99-min/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-09T16:44:37+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "NJPW “G1 Climax 36” results (8/9): Vetter’s review of Konosuke Takeshita vs. Sanada, Shingo Takagi vs. Yuto-Ice, Hirooki Goto vs. Bolten Oleg, Yota Tsuji vs. Great-O-Khan",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (8/9): Vetter’s review of Konosuke Takeshita vs. Sanada, Shingo Takagi vs. Yuto-Ice, Hirooki Goto vs. Bolten...",
       "link": "https://prowrestling.net/site/2026/08/09/njpw-g1-climax-36-results-8-9-vetters-review-of-konosuke-takeshita-vs-sanada-shingo-takagi-vs-yuto-ice-hirooki-goto-vs-bolten-oleg-yota-tsuji-vs-great-o-khan/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-09T16:37:35+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Eddie Kingston Credits His Fans For Getting Him Back On AEW Television",
       "p": "Eddie Kingston lets his fans know that the reason he is back on AEW television is down to how they treated him while he worked indies. On the August 8th edition of AEW Collision, Eddie would enter...",
       "link": "https://www.fightful.com/wrestling-news/eddie-kingston-credits-his-fans-for-getting-him-back-on-aew-television/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-09T16:01:04+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "NJPW G1 Climax 36 Night 14 Results: Konosuke Takeshita takes A Block lead, eliminations mount up",
       "p": "Konosuke Takeshita moved into sole possession of the A Block lead as G1 Climax 36 reached its penultimate round of league matches. The post NJPW G1 Climax 36 Night 14 Results: Konosuke Takeshita...",
       "link": "https://www.postwrestling.com/2026/08/09/njpw-g1-climax-36-night-14-results-konosuke-takeshita-takes-a-block-lead-eliminations-mount-up/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-09T13:29:50+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "08/09 Pruett’s AEW Collision audio review: Eddie Kingston vs. Jake Doyle, Claudio Castagnoli vs. Ace Austin, and Orange Cassidy vs. Matt Sydal in Continental Cup tournament matches",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 08/09 Pruett’s AEW Collision audio review: Eddie Kingston vs. Jake Doyle, Claudio Castagnoli vs. Ace Austin, and Orange Cassidy vs. Matt...",
       "link": "https://prowrestling.net/site/2026/08/09/08-09-pruetts-aew-collision-audio-review-eddie-kingston-vs-jake-doyle-claudio-castagnoli-vs-ace-austin-and-orange-cassidy-vs-matt-sydal-in-continental-cup-tournament-matches/",
-      "t": "14h",
+      "t": "15h",
       "dt": "2026-08-09T06:58:34+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW COLLISION RESULTS (8/8): Kingston vs. Doyle, Ace Austin vs. Claudio, and Orange Cassidy vs. Matt Sydal in Continental Cup matches, Myron Reed vs. Speedball, Bang Bang Gang vs. Death Riders, Hyan & Maya World vs. Shida & Persephone",
       "p": "AEW COLLISION REPORT AUGUST 8, 2026 COLORADO SPRINGS, COL. AT BROADMOOR WORLD ARENA AIRED ON LIVE TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel...",
       "link": "https://www.pwtorch.com/site/2026/08/08/aew-collision-results-8-8-kingston-vs-doyle-ace-austin-vs-claudio-and-orange-cassidy-vs-matt-sydal-in-continental-cup-matches-myron-reed-vs-speedball-bang-bang-gang-vs-death-riders-hyan/",
-      "t": "18h",
+      "t": "19h",
       "dt": "2026-08-09T03:43:26+00:00"
     },
     {
@@ -88,24 +96,16 @@
       "h": "AEW Collision 8/8 Results: Kingston, Cassidy and Castagnoli advance in Continental Challenge Cup, Dory Funk Jr. remembered",
       "p": "The Continental Challenge Cup began on Saturday’s AEW Collision, with Claudio Castagnoli, Orange Cassidy and Eddie Kingston advancing from the first round. The post AEW Collision 8/8 Results:...",
       "link": "https://www.postwrestling.com/2026/08/08/aew-collision-8-8-results-kingston-cassidy-and-castagnoli-advance-in-continental-challenge-cup-dory-funk-remembered/",
-      "t": "18h",
+      "t": "19h",
       "dt": "2026-08-09T02:56:22+00:00"
     },
     {
-      "src": "POST Wrestling",
-      "h": "Continental Cup Begins: AEW Collision 8/8/26 Review | COLLISION COURSE",
-      "p": "Kate from Montreal & John Kleinchester review this week’s AEW Collision featuring the start of the Continental Cup. The post Continental Cup Begins: AEW Collision 8/8/26 Review | COLLISION COURSE...",
-      "link": "https://www.postwrestling.com/2026/08/08/continental-cup-begins-aew-collision-8-8-26-review-collision-course-live-1015pm-et/",
+      "src": "Wrestling Observer",
+      "h": "MJF Casino Gauntlet qualifier, Chris Jericho TNT title challenge added to AEW Dynamite",
+      "p": "In order to earn the second spot in the Casino Gauntlet match at AEW All In, former World Champion MJF will have to win a three-way at this Wednesday’s Dynamite. After returning this past...",
+      "link": "https://www.f4wonline.com/news/aew/mjf-casino-gauntlet-qualifier-chris-jericho-tnt-title-challenge-aew-dynamite/",
       "t": "19h",
-      "dt": "2026-08-09T02:15:11+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 8/8 – PWTorch Dailycast – Best of PWTorch Livecast: 5 Yrs Ago – Mike & Andrew talk AEW All Out build including Jericho-MJF and Omega-Christian, plus Cody-Malakai Black, listener emails (159 min.)",
-      "p": "SHOW SUMMARY: Today we jump back five years to the Aug. 4, 2021 episode of the All Elite Aftershow with PWTorch’s Mike McMahon and Andrew Soucek. In this episode, Mike and Andrew talk about the [...]",
-      "link": "https://www.pwtorch.com/site/2026/08/08/free-podcast-8-8-pwtorch-dailycast-best-of-pwtorch-livecast-5-yrs-ago-mike-andrew-talk-aew-all-out-build-including-jericho-mjf-and-omega-christian-plus-cody-malakai-black-li/",
-      "t": "1d",
-      "dt": "2026-08-08T18:00:19+00:00"
+      "dt": "2026-08-09T02:47:44+00:00"
     }
   ]
 }

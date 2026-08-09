@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-09T17:45:06.355941+00:00",
+  "updated": "2026-08-09T18:58:32.717465+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (5 AEW items)",
-    "PWTorch": "FAILED (HTTP Error 503: Service Unavailable)",
+    "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
@@ -16,15 +16,23 @@
       "h": "AEW Broadcaster Jim Ross Explains How He'd Like To End His Career",
       "p": "Jim Ross knows he's nearing the end of his career, and has already got an idea of how he'd like to bow out of wrestling.",
       "link": "https://www.wrestlinginc.com/2233106/aew-jim-ross-career-end-broadcaster/",
-      "t": "3m",
+      "t": "1h",
       "dt": "2026-08-09T17:41:47+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 8/9 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner review Grand Slam Mexico (99 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss the August 5th edition of AEW Dynamite Grand Slam Mexico. Second week...",
+      "link": "https://www.pwtorch.com/site/2026/08/09/free-podcast-8-9-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-review-grand-slam-mexico-99-min/",
+      "t": "2h",
+      "dt": "2026-08-09T16:44:37+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "NJPW “G1 Climax 36” results (8/9): Vetter’s review of Konosuke Takeshita vs. Sanada, Shingo Takagi vs. Yuto-Ice, Hirooki Goto vs. Bolten Oleg, Yota Tsuji vs. Great-O-Khan",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (8/9): Vetter’s review of Konosuke Takeshita vs. Sanada, Shingo Takagi vs. Yuto-Ice, Hirooki Goto vs. Bolten...",
       "link": "https://prowrestling.net/site/2026/08/09/njpw-g1-climax-36-results-8-9-vetters-review-of-konosuke-takeshita-vs-sanada-shingo-takagi-vs-yuto-ice-hirooki-goto-vs-bolten-oleg-yota-tsuji-vs-great-o-khan/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-09T16:37:35+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Eddie Kingston Credits His Fans For Getting Him Back On AEW Television",
       "p": "Eddie Kingston lets his fans know that the reason he is back on AEW television is down to how they treated him while he worked indies. On the August 8th edition of AEW Collision, Eddie would enter...",
       "link": "https://www.fightful.com/wrestling-news/eddie-kingston-credits-his-fans-for-getting-him-back-on-aew-television/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-09T16:01:04+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "The Outrunners Want To Clone Themselves For A Current Dream Match They Have",
       "p": "The Outrunners would like to clone themselves so they could defend their Ring Of Honor Six Man Tag Titles against themselves. The pairing is currently one third of the champions alongside Dalton...",
       "link": "https://www.fightful.com/wrestling-news/the-outrunners-want-to-clone-themselves-for-a-current-dream-match-they-have/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-09T14:34:52+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW's Jim Ross Opens Up About Impending Brain Surgery",
       "p": "WWE Hall of Famer and current AEW commentator Jim Ross has opened up about what will be happening in his upcoming brain surgery.",
       "link": "https://www.wrestlinginc.com/2233063/aew-jim-ross-impending-brain-surgery/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-09T14:26:16+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "NJPW G1 Climax 36 Night 14 Results: Konosuke Takeshita takes A Block lead, eliminations mount up",
       "p": "Konosuke Takeshita moved into sole possession of the A Block lead as G1 Climax 36 reached its penultimate round of league matches. The post NJPW G1 Climax 36 Night 14 Results: Konosuke Takeshita...",
       "link": "https://www.postwrestling.com/2026/08/09/njpw-g1-climax-36-night-14-results-konosuke-takeshita-takes-a-block-lead-eliminations-mount-up/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-09T13:29:50+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "08/09 Pruett’s AEW Collision audio review: Eddie Kingston vs. Jake Doyle, Claudio Castagnoli vs. Ace Austin, and Orange Cassidy vs. Matt Sydal in Continental Cup tournament matches",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 08/09 Pruett’s AEW Collision audio review: Eddie Kingston vs. Jake Doyle, Claudio Castagnoli vs. Ace Austin, and Orange Cassidy vs. Matt...",
       "link": "https://prowrestling.net/site/2026/08/09/08-09-pruetts-aew-collision-audio-review-eddie-kingston-vs-jake-doyle-claudio-castagnoli-vs-ace-austin-and-orange-cassidy-vs-matt-sydal-in-continental-cup-tournament-matches/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-08-09T06:58:34+00:00"
     },
     {
@@ -72,15 +80,23 @@
       "h": "WWE's Undertaker Thought AEW's Mick Foley Was Dead After Infamous Hell In A Cell Fall",
       "p": "The Undertaker looks back on thinking he killed fellow WWE Hall of Famer Mick Foley.",
       "link": "https://www.wrestlinginc.com/2231617/wwe-undertaker-aew-mick-foley-dead-infamous-hell-in-a-cell-fall/",
-      "t": "13h",
+      "t": "14h",
       "dt": "2026-08-09T03:59:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW COLLISION RESULTS (8/8): Kingston vs. Doyle, Ace Austin vs. Claudio, and Orange Cassidy vs. Matt Sydal in Continental Cup matches, Myron Reed vs. Speedball, Bang Bang Gang vs. Death Riders, Hyan & Maya World vs. Shida & Persephone",
+      "p": "AEW COLLISION REPORT AUGUST 8, 2026 COLORADO SPRINGS, COL. AT BROADMOOR WORLD ARENA AIRED ON LIVE TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone & Nigel...",
+      "link": "https://www.pwtorch.com/site/2026/08/08/aew-collision-results-8-8-kingston-vs-doyle-ace-austin-vs-claudio-and-orange-cassidy-vs-matt-sydal-in-continental-cup-matches-myron-reed-vs-speedball-bang-bang-gang-vs-death-riders-hyan/",
+      "t": "15h",
+      "dt": "2026-08-09T03:43:26+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW Collision 8/8 Results: Kingston, Cassidy and Castagnoli advance in Continental Challenge Cup, Dory Funk Jr. remembered",
       "p": "The Continental Challenge Cup began on Saturday’s AEW Collision, with Claudio Castagnoli, Orange Cassidy and Eddie Kingston advancing from the first round. The post AEW Collision 8/8 Results:...",
       "link": "https://www.postwrestling.com/2026/08/08/aew-collision-8-8-results-kingston-cassidy-and-castagnoli-advance-in-continental-challenge-cup-dory-funk-remembered/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-08-09T02:56:22+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "MJF Casino Gauntlet qualifier, Chris Jericho TNT title challenge added to AEW Dynamite",
       "p": "In order to earn the second spot in the Casino Gauntlet match at AEW All In, former World Champion MJF will have to win a three-way at this Wednesday’s Dynamite. After returning this past...",
       "link": "https://www.f4wonline.com/news/aew/mjf-casino-gauntlet-qualifier-chris-jericho-tnt-title-challenge-aew-dynamite/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-08-09T02:47:44+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "First three men advance in AEW Continental Challenge Cup tournament",
-      "p": "The first three men have advanced in the inaugural AEW Continental Challenge Cup tournament after Saturday’s AEW Collision with five left to go. In the night’s main event, Eddie Kingston returned...",
-      "link": "https://www.f4wonline.com/news/aew/first-three-men-advance-aew-continental-challenge-cup-tournament/",
-      "t": "15h",
-      "dt": "2026-08-09T02:44:50+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Continental Cup Begins: AEW Collision 8/8/26 Review | COLLISION COURSE",
-      "p": "Kate from Montreal & John Kleinchester review this week’s AEW Collision featuring the start of the Continental Cup. The post Continental Cup Begins: AEW Collision 8/8/26 Review | COLLISION COURSE...",
-      "link": "https://www.postwrestling.com/2026/08/08/continental-cup-begins-aew-collision-8-8-26-review-collision-course-live-1015pm-et/",
-      "t": "15h",
-      "dt": "2026-08-09T02:15:11+00:00"
     }
   ]
 }

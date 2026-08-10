@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-10T11:56:55.806236+00:00",
+  "updated": "2026-08-10T13:40:34.740572+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The Sin City edition",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Sin City edition appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/10/aew-dynamite-preview-the-sin-city-edition-2/",
+      "t": "25m",
+      "dt": "2026-08-10T13:15:29+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "People within AEW said to be ‘very impressed’ by Ace Austin | Exclusive",
+      "p": "There are people within AEW talking about Ace Austin. On the latest episode of Wrestling Observer Radio, Bryan Alvarez and Dave Meltzer were discussing Austin’s loss to Claudio Castagnoli in the...",
+      "link": "https://www.f4wonline.com/news/aew/people-within-aew-said-to-be-very-impressed-by-ace-austin-exclusive/",
+      "t": "1h",
+      "dt": "2026-08-10T12:10:25+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "CM Punk in AEW: Part 10 – AEW Double or Nothing 2022 | Column",
       "p": "This was previously part of a book I had written and released on CM Punk’s run from debut to first AEW Championship win in All Elite Wrestling, covering August 2021 until May 2022. I’ll be...",
       "link": "https://www.f4wonline.com/news/aew/cm-punk-in-aew-part-10-aew-double-or-nothing-2022-column/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-10T10:00:00+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "FREE PODCAST 8/9 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller & Krol talk Omega-Christian, what about Punk, Rampage hype, Britt’s pop, Cody & Brandi, on-site correspondent (163 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (8-11-2021), PWTorch editor Wade Keller was joined by former Pro Wrestling Torch columnist Eric...",
       "link": "https://www.pwtorch.com/site/2026/08/09/free-podcast-8-9-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-krol-talk-omega-christian-what-about-punk-rampage-hype-britts-pop-cody-brandi-on-site-corresponden/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-10T04:00:01+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW Referee Aubrey Edwards Names Hardest Match Stipulation To Prepare For",
       "p": "Aubrey Edwards has called a lot of matches in her AEW career, but she has revealed the match that is the hardest to prepare for.",
       "link": "https://www.wrestlinginc.com/2232199/aew-aubrey-edwards-blood-guts-hardest-stipulation-prepare/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-10T03:59:00+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "MVP teases timeline for wrestling retirement: ‘My final match is coming soon’",
       "p": "MVP believes his retirement is coming soon, possibly as early as next year. Former WWE United States Champion and currently a member of the AEW roster, MVP appeared on Marking Out with MVP &...",
       "link": "https://www.f4wonline.com/news/aew/mvp-teases-timeline-for-wrestling-retirement-my-final-match-is-coming-soon/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-10T03:09:49+00:00"
     },
     {
@@ -48,55 +64,31 @@
       "h": "AEW’s Andrade El Idolo to be ‘out of action for a few days or weeks’",
       "p": "AEW National Champion Andrade El Idolo is set to be out for the next few days or weeks. Just days after competing at AEW Grand Slam Mexico, El Idolo has confirmed his upcoming absence. Recently in...",
       "link": "https://www.f4wonline.com/news/aew/aews-andrade-el-idolo-to-be-out-of-action-for-days-or-weeks/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-08-10T02:30:55+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "RevPro Live In Southampton 43 Results (8/9): Michael Oku vs. Joe Lando",
-      "p": "Revolution Pro Wrestling held its RevPro Live in Southampton 43 event on August 9 from The 1865 in Southampton, Hampshire, England, UK. The event aired on RevProOnDemand. Full results are below....",
-      "link": "https://www.fightful.com/wrestling-news/revpro-live-in-southampton-43-results-8-9-michael-oku-vs-joe-lando/",
-      "t": "9h",
-      "dt": "2026-08-10T02:30:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Grand Slam Mexico ratings up from prior Dynamite",
       "p": "The ratings are in for this past Wednesday’s AEW Grand Slam Mexico. According to our Dave Meltzer, the near-three hour edition brought in 694,000 average viewers with a .14 in 18-49, a .20 in...",
       "link": "https://www.f4wonline.com/news/aew/aew-grand-slam-mexico-ratings-up-from-prior-dynamite/",
-      "t": "10h",
-      "dt": "2026-08-10T01:53:48+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Andrade El Idolo Says He’ll Be Out For A ‘Few Days Or Weeks,’ MJF Responds",
-      "p": "Andrade El Idolo says he will be out for some time. At AEW Grand Slam Mexico, Andrade defeated Tommaso Ciampa & Komander to earn the number one spot in the Casino Gauntlet match that’s scheduled...",
-      "link": "https://www.fightful.com/wrestling-news/andrade-el-idolo-says-hell-be-out-days-or-weeks-mjf-responds/",
       "t": "11h",
-      "dt": "2026-08-10T00:32:24+00:00"
+      "dt": "2026-08-10T01:53:48+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Daily Update: Grand Slam Mexico ratings, AEW All In ticket sales",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Sunday Update: — Bryan Alvarez and I will...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-grand-slam-mexico-ratings-aew-all-in-ticket-sales/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-08-09T23:33:55+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Eddie Kingston says he has ‘been away too long’ after AEW Collision win",
-      "p": "Eddie Kingston acknowledged his recent absence from AEW programming following his win on Saturday’s Collision. In an AEW digital exclusive posted on Sunday, Kingston cut a backstage promo and said...",
-      "link": "https://www.f4wonline.com/news/aew/eddie-kingston-says-he-has-been-away-too-long-after-aew-collision-win/",
-      "t": "13h",
-      "dt": "2026-08-09T22:09:22+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Chris Jericho Explains Hesitance To 'Put A Timeline' On In-Ring Retirement",
       "p": "AEW's Chris Jericho is still wrestling at age 55, and in a recent interview, he explained why he doesn't like to put a timeline on his remaining in-ring career.",
       "link": "https://www.wrestlinginc.com/2232121/aew-chris-jericho-hesitance-timeline-retirement/",
-      "t": "16h",
+      "t": "18h",
       "dt": "2026-08-09T19:30:00+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "AEW Broadcaster Jim Ross Explains How He'd Like To End His Career",
       "p": "Jim Ross knows he's nearing the end of his career, and has already got an idea of how he'd like to bow out of wrestling.",
       "link": "https://www.wrestlinginc.com/2233106/aew-jim-ross-career-end-broadcaster/",
-      "t": "18h",
+      "t": "19h",
       "dt": "2026-08-09T17:41:47+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 8/9 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner review Grand Slam Mexico (99 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss the August 5th edition of AEW Dynamite Grand Slam Mexico. Second week...",
+      "link": "https://www.pwtorch.com/site/2026/08/09/free-podcast-8-9-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-review-grand-slam-mexico-99-min/",
+      "t": "20h",
+      "dt": "2026-08-09T16:44:37+00:00"
     }
   ]
 }

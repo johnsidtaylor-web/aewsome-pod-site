@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-10T21:55:59.479630+00:00",
+  "updated": "2026-08-10T22:54:49.868646+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "FTR To Challenge For RevPro Undisputed British Tag Titles",
+      "p": "FTR (Dax Harwood & Cash Wheeler) have a new bout at RevPro 14-Year Anniversary Revolution Pro Wrestling announced that FTR will challenge Cowboy Way (1 Called Manders & Thomas Shire) at RevPro...",
+      "link": "https://www.fightful.com/wrestling-news/ftr-to-challenge-for-revpro-undisputed-british-tag-titles/",
+      "t": "7m",
+      "dt": "2026-08-10T22:47:08+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Update on FTR’s opponents for RevPro All In weekend event",
       "p": "FTR have new opponents for their Revolution Pro Wrestling debut. All the way back in February of this year, it was announced that Dax Harwood & Cash Wheeler would debut for RevPro by facing off...",
       "link": "https://www.f4wonline.com/news/aew/update-on-ftrs-opponents-for-revpro-all-in-weekend-event/",
-      "t": "15m",
+      "t": "1h",
       "dt": "2026-08-10T21:40:38+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW COLLISION HITS & MISSES (8/8): Continental Challenge Cup begins, Dory Funk Jr. tribute, Speedball vs. Reed deliver, Jack Perry and Jon Moxley feud escalates, more",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS “SPEEDBALL”...",
       "link": "https://www.pwtorch.com/site/2026/08/10/aew-collision-hits-misses-8-8-continental-challenge-cup-begins-dory-funk-jr-tribute-speedball-vs-reed-deliver-jack-perry-and-jon-moxley-feud-escalates-more/",
-      "t": "52m",
+      "t": "1h",
       "dt": "2026-08-10T21:03:29+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "NJPW G1 CLIMAX 36 RESULTS – NIGHT 14 (8/9): Takeshita vs. Sanada, Boltin Oleg vs. Hirooki Goto, Yuto-Ice vs. Takagi, more",
       "p": "NJPW G1 CLIMAX 36: NIGHT 14 REPORT AUGUST 9, 2026 GUNMA, JAPAN AT G MESSE GUNMA AIRED LIVE ON NJPW WORLD REPORT BY RICH FANN II, PWTORCH COLUMNIST/VIP ANALYST Commentator: Walker Stewart & Chris...",
       "link": "https://www.pwtorch.com/site/2026/08/10/njpw-g1-climax-36-results-night-14-8-9-takeshita-vs-sanada-boltin-oleg-vs-hirooki-goto-yuto-ice-vs-takagi-more/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-10T20:44:02+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Speedball Mike Bailey: Every Time I Get Close To Winning A Championship, It Just Slips Through My Hands",
       "p": "Speedball Mike Bailey says that every time he gets close to winning a championship, he manages to let it slip through his hand. At AEW Grand Slam Mexico this past Wednesday, Speedball would...",
       "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-every-time-i-get-close-to-winning-a-championship-it-just-slips-through-my-hands/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-10T17:41:39+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW returns to Pittsburgh for Dynamite following All Out 2026",
       "p": "AEW will visit Pittsburgh for the first time in over a year when they return to the Petersen Events Center in late September. The post AEW returns to Pittsburgh for Dynamite following All Out 2026...",
       "link": "https://www.postwrestling.com/2026/08/10/aew-returns-to-pittsburgh-for-dynamite-following-all-out-2026/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-10T17:16:32+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW announces location for All Out fallout episode of Dynamite",
       "p": "AEW will make its Pittsburgh, Pennsylvania return next month in the immediate aftermath of All Out. The promotion announced today that the All Out fallout edition of Dynamite will take place at...",
       "link": "https://www.f4wonline.com/news/aew/aew-announces-location-for-all-out-fallout-episode-of-dynamite/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-10T16:59:11+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Daniel Garcia Says Jon Moxley 'Turned The Ship Around' After AEW Lull",
       "p": "AEW star Daniel Garcia says his Death Riders stablemate Jon Moxley \"turned the ship around\" for the promotion after AEW went through a lull in 2023 and 2024",
       "link": "https://www.wrestlinginc.com/2233708/aew-daniel-garcia-jon-moxley-turned-ship-around/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-10T16:46:29+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Bayley Pokes Fun At AEW Speculation Amidst WWE Absence",
       "p": "As speculation continues to grow regarding her future, absent WWE star Bayley pokes fun at the possibility of her joining AEW in an Instagram post",
       "link": "https://www.wrestlinginc.com/2233595/aew-wwe-bayley-pokes-fun-speculation-absence/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-10T15:50:08+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Dave Meltzer Expects AEW Star To Earn More TV Time After Impressing Backstage Figures",
       "p": "The Continental Challenge Cup tournament kicked off on \"AEW Collision\". Dave Meltzer believe one star will earn more TV time following an impressive showing.",
       "link": "https://www.wrestlinginc.com/2233560/aew-dave-meltzer-ace-austin-more-tv-time-impressing-backstage-figures/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-10T15:32:03+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW’s Andrade El Idolo says he will be out of action for ‘a few days or weeks’",
       "p": "Andrade El Idolo says he will take some time out of the ring, but warned fans that his break is \"nothing serious.\" The post AEW’s Andrade El Idolo says he will be out of action for ‘a few days or...",
       "link": "https://www.postwrestling.com/2026/08/10/aews-andrade-el-idolo-says-he-will-be-out-of-action-for-a-few-days-or-weeks/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-10T14:32:36+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW Collision lineup: Three Continental Cup tournament matches",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Three Continental Cup tournament matches appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/10/aew-collision-lineup-three-continental-cup-tournament-matches/",
-      "t": "7h",
-      "dt": "2026-08-10T14:00:21+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The Sin City edition",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Sin City edition appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/10/aew-dynamite-preview-the-sin-city-edition-2/",
       "t": "8h",
-      "dt": "2026-08-10T13:15:29+00:00"
+      "dt": "2026-08-10T14:00:21+00:00"
     }
   ]
 }

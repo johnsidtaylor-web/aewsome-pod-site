@@ -1,22 +1,30 @@
 {
-  "updated": "2026-08-11T23:00:07.134826+00:00",
+  "updated": "2026-08-11T23:57:14.781695+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
-    "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "PWInsider": "FAILED (<urlopen error timed out>)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "AEW's Jim Ross Explains Upcoming Brain Surgery, Thanks Fans For Support",
+      "p": "AEW commentator, and WWE Hall of Famer, Jim Ross took to social media to thank fans ahead of his upcoming brain surgery, and explain more about the procedure.",
+      "link": "https://www.wrestlinginc.com/2235088/aew-jim-ross-brain-surgery-thanks-fan-support/",
+      "t": "56m",
+      "dt": "2026-08-11T23:00:36+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "Backstage Update On Andrade El Idolo's Health Status Heading Into AEW Dynamite",
       "p": "A backstage update on Andrade El Idolo's health status heading into AEW Dynamite reveals that the AEW National Champion won't miss significant time",
       "link": "https://www.wrestlinginc.com/2235053/andrade-el-idolo-health-aew-dynamite/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-11T21:55:54+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Andrade El Idolo Has Scheduled Time Off",
       "p": "Details on Andrade El Idolo taking time off. Fightful Select reports, “Andrade had a scheduled week off and is expected to be back next week to continue his angle with MJF.” Full details are...",
       "link": "https://www.fightful.com/wrestling-news/andrade-el-idolo-has-scheduled-time-off/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-11T21:24:55+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Kofi Kingston, Xavier Woods announced for Jericho cruise",
       "p": "Whether the former Kofi Kingston & Xavier Woods will end up joining AEW has not officially been confirmed yet, but we do know that they’ll be at sea with Chris Jericho this November. It was...",
       "link": "https://www.f4wonline.com/news/aew/kofi-kingston-xavier-woods-announced-for-jericho-cruise/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-11T21:09:17+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Former WWE Stars FKA The New Day Set For Chris Jericho Cruise",
       "p": "Former WWE stars, FKA Kofi Kingston and Xavier Woods of the New Day are set to join AEW star Chris Jericho's annual Rock N' Wrestling cruise this November",
       "link": "https://www.wrestlinginc.com/2234993/former-wwe-stars-fka-new-day-kofi-austin-creed-set-chris-jericho-cruise/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-11T20:42:07+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Indie Promotion Announces Special TV Taping In Conjunction With Upcoming AEW Dynamite",
       "p": "AEW will have special episode of \"Dynamite\" that will raise funds and awareness for Rebel. An Indie promotion will be doing a special TV taping in conjunction.",
       "link": "https://www.wrestlinginc.com/2234859/1fw-tv-taping-aew-dynamite-rebel-heart-qt-marshall/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-11T18:40:18+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "1FW (One Fall Wrestling) to hold TV tapings in conjunction with AEW’s Rebel Heart in Georgia",
       "p": "QT Marshall’s One Fall Wrestling (1FW) is set to hold a taping in conjunction with an episode of AEW Dynamite next month. The post 1FW (One Fall Wrestling) to hold TV tapings in conjunction with...",
       "link": "https://www.postwrestling.com/2026/08/11/1fw-one-fall-wrestling-to-hold-tv-tapings-in-conjunction-with-aews-rebel-heart-in-georgia/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-11T18:17:52+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Indie promotion to hold TV taping at upcoming AEW Dynamite",
       "p": "AEW will be sharing the spotlight when Dynamite comes to Athens, Georgia next month. On September 9, AEW will hold a special “Rebel Heart” edition of Dynamite at Akins Ford Arena. It was announced...",
       "link": "https://www.f4wonline.com/news/aew/indie-promotion-to-hold-tv-taping-at-upcoming-aew-dynamite/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-11T17:09:08+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW – BEST OF THE WEEK: Halley’s pick for the top match of the week in AEW and the top promo, plus concerns about the developing All In line-up",
       "p": "Nights like last Wednesday at Arena Mexico are nights that I feel bad for people who aren’t pro wrestling fans. As soon as Adam Copeland’s music hit to start Dynamite, you knew we were in [...]",
       "link": "https://www.pwtorch.com/site/2026/08/11/aew-best-of-the-week-halleys-pick-for-the-top-match-of-the-week-in-aew-and-the-top-promo-plus-concerns-about-the-developing-all-in-line-up/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-11T16:18:53+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Chris Jericho Elaborates On Decision To Remain With AEW",
       "p": "Chris Jericho has opened up about why he chose to re-sign with AEW earlier this year, and what he hopes the company achieves in the future.",
       "link": "https://www.wrestlinginc.com/2234579/aew-chris-jericho-elaborates-decision-remain/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-11T15:24:14+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "Mick Foley says AEW’s Darby Allin ‘took the inspiration from Cactus Jack and added a whole lot of athleticism to it’",
       "p": "Mick Foley’s unconventional wrestling style and personas left a lasting impression on AEW’s Darby Allin. Foley gave his take on Allin being compared to his wrestling personas. He recalled the AEW...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-says-aews-darby-allin-took-the-inspiration-from-cactus-jack-and-added-a-whole-lot-of-athleticism-to-it/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-11T13:31:04+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW All Out 2026 ticket sales update as show breaks 6k distributed",
       "p": "AEW All Out 2026 is set to take place on Saturday, September 26th from the NOW Arena in Hoffman Estates, IL. According to the latest update from WrestleTix, 6,160 tickets have been distributed for...",
       "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-ticket-sales-update-08-11-2026/",
-      "t": "13h",
+      "t": "14h",
       "dt": "2026-08-11T09:25:26+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating: How did Grand Slam Mexico perform?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did Grand Slam Mexico perform? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/10/aew-dynamite-rating-how-did-grand-slam-mexico-perform/",
-      "t": "23h",
-      "dt": "2026-08-10T23:20:11+00:00"
     }
   ]
 }

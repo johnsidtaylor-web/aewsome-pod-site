@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-11T18:05:43.337295+00:00",
+  "updated": "2026-08-11T19:16:51.379941+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (4 AEW items)",
+    "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (1 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Indie Promotion Announces Special TV Taping In Conjunction With Upcoming AEW Dynamite",
+      "p": "AEW will have special episode of \"Dynamite\" that will raise funds and awareness for Rebel. An Indie promotion will be doing a special TV taping in conjunction.",
+      "link": "https://www.wrestlinginc.com/2234859/1fw-tv-taping-aew-dynamite-rebel-heart-qt-marshall/",
+      "t": "36m",
+      "dt": "2026-08-11T18:40:18+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "1FW (One Fall Wrestling) to hold TV tapings in conjunction with AEW’s Rebel Heart in Georgia",
+      "p": "QT Marshall’s One Fall Wrestling (1FW) is set to hold a taping in conjunction with an episode of AEW Dynamite next month. The post 1FW (One Fall Wrestling) to hold TV tapings in conjunction with...",
+      "link": "https://www.postwrestling.com/2026/08/11/1fw-one-fall-wrestling-to-hold-tv-tapings-in-conjunction-with-aews-rebel-heart-in-georgia/",
+      "t": "58m",
+      "dt": "2026-08-11T18:17:52+00:00"
+    },
     {
       "src": "Fightful",
       "h": "1FW To Be Part Of AEW Rebel Heart",
       "p": "1 Fall Wrestling (1FW) will support Rebel by taking part in AEW Rebel Heart on Wednesday, September 9. From 1FW: 1FW is joining AEW’s Rebel Heart Dynamite on September 9 at Akins Ford Arena in...",
       "link": "https://www.fightful.com/wrestling-news/1fw-to-be-part-of-aew-rebel-heart/",
-      "t": "47m",
+      "t": "1h",
       "dt": "2026-08-11T17:18:00+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Indie promotion to hold TV taping at upcoming AEW Dynamite",
       "p": "AEW will be sharing the spotlight when Dynamite comes to Athens, Georgia next month. On September 9, AEW will hold a special “Rebel Heart” edition of Dynamite at Akins Ford Arena. It was announced...",
       "link": "https://www.f4wonline.com/news/aew/indie-promotion-to-hold-tv-taping-at-upcoming-aew-dynamite/",
-      "t": "56m",
+      "t": "2h",
       "dt": "2026-08-11T17:09:08+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW – BEST OF THE WEEK: Halley’s pick for the top match of the week in AEW and the top promo, plus concerns about the developing All In line-up",
       "p": "Nights like last Wednesday at Arena Mexico are nights that I feel bad for people who aren’t pro wrestling fans. As soon as Adam Copeland’s music hit to start Dynamite, you knew we were in [...]",
       "link": "https://www.pwtorch.com/site/2026/08/11/aew-best-of-the-week-halleys-pick-for-the-top-match-of-the-week-in-aew-and-the-top-promo-plus-concerns-about-the-developing-all-in-line-up/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-11T16:18:53+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Chris Jericho Elaborates On Decision To Remain With AEW",
       "p": "Chris Jericho has opened up about why he chose to re-sign with AEW earlier this year, and what he hopes the company achieves in the future.",
       "link": "https://www.wrestlinginc.com/2234579/aew-chris-jericho-elaborates-decision-remain/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-11T15:24:14+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Mick Foley says AEW’s Darby Allin ‘took the inspiration from Cactus Jack and added a whole lot of athleticism to it’",
       "p": "Mick Foley’s unconventional wrestling style and personas left a lasting impression on AEW’s Darby Allin. Foley gave his take on Allin being compared to his wrestling personas. He recalled the AEW...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-says-aews-darby-allin-took-the-inspiration-from-cactus-jack-and-added-a-whole-lot-of-athleticism-to-it/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-11T13:31:04+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW All Out 2026 ticket sales update as show breaks 6k distributed",
       "p": "AEW All Out 2026 is set to take place on Saturday, September 26th from the NOW Arena in Hoffman Estates, IL. According to the latest update from WrestleTix, 6,160 tickets have been distributed for...",
       "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-ticket-sales-update-08-11-2026/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-11T09:25:26+00:00"
     },
     {
@@ -64,23 +80,15 @@
       "h": "AEW Dynamite rating: How did Grand Slam Mexico perform?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did Grand Slam Mexico perform? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/10/aew-dynamite-rating-how-did-grand-slam-mexico-perform/",
-      "t": "18h",
+      "t": "19h",
       "dt": "2026-08-10T23:20:11+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on FTR’s opponents for RevPro All In weekend event",
-      "p": "FTR have new opponents for their Revolution Pro Wrestling debut. All the way back in February of this year, it was announced that Dax Harwood & Cash Wheeler would debut for RevPro by facing off...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-ftrs-opponents-for-revpro-all-in-weekend-event/",
-      "t": "20h",
-      "dt": "2026-08-10T21:40:38+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW COLLISION HITS & MISSES (8/8): Continental Challenge Cup begins, Dory Funk Jr. tribute, Speedball vs. Reed deliver, Jack Perry and Jon Moxley feud escalates, more",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS “SPEEDBALL”...",
       "link": "https://www.pwtorch.com/site/2026/08/10/aew-collision-hits-misses-8-8-continental-challenge-cup-begins-dory-funk-jr-tribute-speedball-vs-reed-deliver-jack-perry-and-jon-moxley-feud-escalates-more/",
-      "t": "21h",
+      "t": "22h",
       "dt": "2026-08-10T21:03:29+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "NJPW G1 CLIMAX 36 RESULTS – NIGHT 14 (8/9): Takeshita vs. Sanada, Boltin Oleg vs. Hirooki Goto, Yuto-Ice vs. Takagi, more",
       "p": "NJPW G1 CLIMAX 36: NIGHT 14 REPORT AUGUST 9, 2026 GUNMA, JAPAN AT G MESSE GUNMA AIRED LIVE ON NJPW WORLD REPORT BY RICH FANN II, PWTORCH COLUMNIST/VIP ANALYST Commentator: Walker Stewart & Chris...",
       "link": "https://www.pwtorch.com/site/2026/08/10/njpw-g1-climax-36-results-night-14-8-9-takeshita-vs-sanada-boltin-oleg-vs-hirooki-goto-yuto-ice-vs-takagi-more/",
-      "t": "21h",
+      "t": "22h",
       "dt": "2026-08-10T20:44:02+00:00"
     },
     {
@@ -98,14 +106,6 @@
       "link": "https://www.postwrestling.com/2026/08/10/aew-returns-to-pittsburgh-for-dynamite-following-all-out-2026/",
       "t": "1d",
       "dt": "2026-08-10T17:16:32+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW’s Andrade El Idolo says he will be out of action for ‘a few days or weeks’",
-      "p": "Andrade El Idolo says he will take some time out of the ring, but warned fans that his break is \"nothing serious.\" The post AEW’s Andrade El Idolo says he will be out of action for ‘a few days or...",
-      "link": "https://www.postwrestling.com/2026/08/10/aews-andrade-el-idolo-says-he-will-be-out-of-action-for-a-few-days-or-weeks/",
-      "t": "1d",
-      "dt": "2026-08-10T14:32:36+00:00"
     }
   ]
 }

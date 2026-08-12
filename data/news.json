@@ -1,22 +1,62 @@
 {
-  "updated": "2026-08-12T22:58:43.239085+00:00",
+  "updated": "2026-08-12T23:55:58.381665+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE RESULTS (8/12): Keller’s report on Kevin Knight vs. Jericho for TNT Title, Jay White vs. David Finlay, Perry vs. Moxley, Wayne vs. MJF vs. Speedball for Gauntlet no. 2 entry spot",
+      "p": "AEW DYNAMITE REPORT AUGUST 5, 2026 LAS VEGAS, NEV. AT PEARL THEATER AT THE PALMS AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring...",
+      "link": "https://www.pwtorch.com/site/2026/08/12/aew-dynamite-results-8-12-kellers-report-on-kevin-knight-vs-jericho-for-tnt-title-jay-white-vs-david-finlay-perry-vs-moxley-wayne-vs-mjf-vs-speedball-for-gauntlet-no-2-entry-spot/",
+      "t": "5m",
+      "dt": "2026-08-12T23:50:28+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Results (8/12/2026): Kevin Knight vs. Jericho, Continental Cup Continues, MJF, More",
+      "p": "Full results for the August 12, 2026, edition of AEW Dynamite on TBS live from The Pearl Theater at the Palms in Las Vegas, Nevada. On August 12, 2026, All Elite Wrestling hosted a new episode of...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-8-12-2026-kevin-knight-vs-jericho-continental-cup-continues-mjf-more/",
+      "t": "10m",
+      "dt": "2026-08-12T23:45:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite results (8/12): Powell’s review of Kevin Knight vs. Chris Jericho for the TNT Title, plus Jay White vs. David Finlay and Jon Moxley vs. Jack Perry in Continental Cup matches",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite results (8/12): Powell’s review of Kevin Knight vs. Chris Jericho for the TNT Title, plus Jay White vs. David Finlay and Jon...",
+      "link": "https://prowrestling.net/site/2026/08/12/aew-dynamite-results-8-12-powells-review-of-kevin-knight-vs-chris-jericho-for-the-tnt-title-plus-jay-white-vs-david-finlay-and-jon-moxley-vs-jack-perry-in-continental-cup-matches/",
+      "t": "25m",
+      "dt": "2026-08-12T23:30:14+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite live results: Kevin Knight vs. Chris Jericho, two Continental Challenge Cup matches",
+      "p": "AEW Dynamite is live from The Pearl Theater in Las Vegas tonight on the road to All In. Two matches in the Continental Challenge Cup will take place as reigning Continental Champion Jon Moxley...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-kevin-knight-vs-chris-jericho-two-continental-challenge-cup-matches/",
+      "t": "40m",
+      "dt": "2026-08-12T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Results 8/12 - TNT Championship On The Line & More",
+      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on August 12, 2026, with a TNT Championship match between titleholder Kevin Knight & Jericho!",
+      "link": "https://www.wrestlinginc.com/2235150/aew-dynamite-august-12-tnt-championship-on-line-more/",
+      "t": "55m",
+      "dt": "2026-08-12T23:00:00+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Mercedes Mone Attacks Willow Nightingale Before AEW Dynamite, ‘I Am So Sick Of That Damn Smile’",
       "p": "Mercedes Mone sends a message to Willow Nightingale. Just hours before Wednesday’s episode of Dynamite, Mone went live on social media and revealed to fans that she attacked Willow Nightingale...",
       "link": "https://www.fightful.com/wrestling-news/mercedes-mone-attacks-willow-nightingale-before-aew-dynamite-i-am-so-sick-of-that-damn-smile/",
-      "t": "31m",
+      "t": "1h",
       "dt": "2026-08-12T22:27:02+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "AEW Dynamite preview: TNT Title match, two Continental Cup tournament matches, second spot in the Casino Gauntlet to be determined",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: TNT Title match, two Continental Cup tournament matches, second spot in the Casino Gauntlet to be determined appeared...",
       "link": "https://prowrestling.net/site/2026/08/12/aew-dynamite-preview-tnt-title-match-two-continental-cup-tournament-matches-second-spot-in-the-casino-gauntlet-to-be-determined/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-12T21:21:54+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Tony Khan announces new matches, segments for tonight’s AEW Dynamite",
       "p": "Tony Khan has made several announcements for tonight’s AEW Dynamite. Just hours before the show, the AEW president revealed that CMLL World Women’s Champion Persephone will team with Hikaru Shida...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-announces-new-match-for-tonights-aew-dynamite/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-12T21:01:39+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Women’s Tag Team Bout Added To 8/12 AEW Dynamite",
       "p": "A women’s tag team match has been added to AEW Dynamite. Tony Khan announced that Persephone will team with Hikaru Shida to take on TBS Champion Maya World and Thunder Rosa on the August 12...",
       "link": "https://www.fightful.com/wrestling-news/womens-tag-team-bout-added-to-8-12-aew-dynamite/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-12T20:48:38+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "Darby Allin On WWE Counterprogramming AEW: I Think It’s Fun, My Life Doesn’t Begin And End With Wrestling",
       "p": "Darby Allin has a life outside of wrestling. At the tail end of September, WWE/AAA and AEW will go head-to-head in Chicago. AEW will host their All Out pay-per-view at the NOW Arena. At the same...",
       "link": "https://www.fightful.com/wrestling-news/darby-allin-wwe-aew-321967/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-12T20:29:15+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Darby Allin On Winning AEW World Title In Two Minutes: Not Everything Has To Be A 25 Minute Slugfest",
       "p": "Darby Allin reflects on his AEW World Championship win. On the April 15 episode of AEW Dynamite, Allin shocked the world by winning the title from MJF. The match only lasted two minutes, marking...",
       "link": "https://www.fightful.com/wrestling-news/darby-allin-on-winning-aew-world-title-in-two-minutes-not-everything-has-to-be-a-25-minute-slugfest/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-12T20:07:21+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: Zilla Fatu debut and history, Vinny Pacifico talks wrestling and films!",
-      "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including all the news, Dynamite tonight, Jim Ross’ brain surgery, a preposterous NXT as always,...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-zilla-fatu-debut-and-history-vinny-pacifico-talks-wrestling-and-films/",
-      "t": "2h",
-      "dt": "2026-08-12T20:03:31+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's MVP Explains Why New Day Leaving WWE Is 'Uncharted Territory'",
-      "p": "AEW star MVP explained on his \"Marking Out\" podcast why the now-former New Day leaving WWE is \"uncharted territory.\"",
-      "link": "https://www.wrestlinginc.com/2235802/wwe-aew-mvp-kofi-kingston-xavier-woods-new-day-leaving-uncharted-territory/",
-      "t": "2h",
-      "dt": "2026-08-12T20:02:47+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: Kyle Fletcher is on his way and Hangman Page has lost his way",
-      "p": "Welcome everyone! I hope you all enjoyed Grand Slam Mexico. The show was fun but, like I said last week, it was more of a house show than a show that is going to push [...]",
-      "link": "https://www.pwtorch.com/site/2026/08/12/aew-rising-and-fading-stars-kyle-fletcher-is-on-his-way-and-hangman-page-has-lost-his-way/",
-      "t": "3h",
-      "dt": "2026-08-12T19:33:25+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Malakai Black announced for Progress Wrestling in September",
-      "p": "Former WWE and AEW star Malakai Black, a.ka. Tommy End, was announced for Progress Wrestling's The Odyssey Tour in September. The post Malakai Black announced for Progress Wrestling in September...",
-      "link": "https://www.postwrestling.com/2026/08/12/malakai-black-announced-for-progress-wrestling-in-september/",
-      "t": "3h",
-      "dt": "2026-08-12T19:24:24+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Former WWE & AEW Star Malakai Black Set For Indie Wrestling Return",
-      "p": "Malakai Black is scheduled to compete on PROGRESS Wrestling's \"The Odyssey Tour\" this coming September.",
-      "link": "https://www.wrestlinginc.com/2235741/wwe-aew-progress-malakai-black-indie-wrestling-return/",
-      "t": "3h",
-      "dt": "2026-08-12T19:01:48+00:00"
     }
   ]
 }

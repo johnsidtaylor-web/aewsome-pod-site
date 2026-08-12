@@ -1,22 +1,30 @@
 {
-  "updated": "2026-08-12T18:04:48.509882+00:00",
+  "updated": "2026-08-12T19:17:26.524411+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Former WWE & AEW Star Malakai Black Set For Indie Wrestling Return",
+      "p": "Malakai Black is scheduled to compete on PROGRESS Wrestling's \"The Odyssey Tour\" this coming September.",
+      "link": "https://www.wrestlinginc.com/2235741/wwe-aew-progress-malakai-black-indie-wrestling-return/",
+      "t": "15m",
+      "dt": "2026-08-12T19:01:48+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "NJPW G1 CLIMAX 36 RESULTS – NIGHT 16 (8/12): Wells’s report on Oiwa vs. Takeshita, Oleg vs. O-Khan, Tsuji vs. Lee to determine two semifinalists",
       "p": "NJPW G1 CLIMAX 36: NIGHT 16 REPORT AUGUST 12, 2026 HAMAMATSU, JAPAN AT ACT CITY HAMAMATSU AIRED LIVE ON NJPW WORLD REPORT BY KELLY WELLS, PWTORCH COLUMNIST Commentary: Walker Stewart & Chris...",
       "link": "https://www.pwtorch.com/site/2026/08/12/njpw-g1-climax-36-results-night-16-8-12-wellss-report-on-oiwa-vs-takeshita-oleg-vs-o-khan-tsuji-vs-lee-to-determine-two-semifinalists/",
-      "t": "17m",
+      "t": "1h",
       "dt": "2026-08-12T17:47:23+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Darby Allin Has No Regrets With AEW World Title Run, ‘I’m Never Going To Slow Down’",
       "p": "Darby Allin captured the AEW World Title at Dynamite Spring Breakthru, defeating MJF in just over two minutes. Allin’s reign lasted just 39 days, but he made seven successful title defenses in...",
       "link": "https://www.fightful.com/wrestling-news/darby-allin-has-no-regrets-with-aew-world-title-run-im-never-going-to-slow-down/",
-      "t": "22m",
+      "t": "1h",
       "dt": "2026-08-12T17:41:52+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW FEUD TRACKER: Barber’s asssessment of Willow-Mercedes, Omega-Ospreay, Young Bucks-Copeland & Christian, more",
       "p": "Intro After the last two weeks at Detroit’s Masonic Temple Theater and then the legendary Arena Mexico, the crowd tonight in Las Vegas is going to have a lot to live up to. AEW has [...]",
       "link": "https://www.pwtorch.com/site/2026/08/12/aew-feud-tracker-barbers-asssessment-of-willow-mercedes-omega-ospreay-young-bucks-copeland-christian-more/",
-      "t": "42m",
+      "t": "1h",
       "dt": "2026-08-12T17:22:22+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "AEW DYNAMITE PREVIEW (8/12): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, AUGUST 12, 2026 Where: LAS VEGAS, NEV. AT PEARL THEATER AT THE PALMS How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 1,815 tickets had...",
       "link": "https://www.pwtorch.com/site/2026/08/12/aew-dynamite-preview-8-12-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "58m",
+      "t": "2h",
       "dt": "2026-08-12T17:06:14+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW Broadcaster Jim Ross Has Reportedly Undergone Successful Brain Surgery",
       "p": "Podcaster Conrad Thompson reveals that his Grilling JR co-host and AEW broadcaster Jim Ross underwent successful brain surgery on Wednesday morning",
       "link": "https://www.wrestlinginc.com/2235550/aew-jim-ross-successful-brain-surgery/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-12T16:35:31+00:00"
     },
     {
@@ -56,23 +64,15 @@
       "h": "Eddie Kingston Talks Lengthy AEW Absence, Pledges To Win Continental Cup For The Fans",
       "p": "Eddie Kingston is dedicating his AEW Continental Cup campaign to the fans who inspire him after months of not being on television.",
       "link": "https://www.wrestlinginc.com/2235503/eddie-kingston-lengthy-aew-absence-continental-cup-fans/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-12T16:01:31+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kyle Fletcher: Feeling Pretty Comfortable In Arena Mexico Now, Everybody Hates Me, It’s Awesome",
-      "p": "Kyle Fletcher speaks about feeling pretty comfortable working in Arena Mexico now following his first match in the arena last week. Last week’s edition of AEW Dynamite would take place from Arena...",
-      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-feeling-pretty-comfortable-in-arena-mexico-now-everybody-hates-me-its-awesome/",
-      "t": "2h",
-      "dt": "2026-08-12T15:54:14+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "G1 Climax 36 Contest: Night 16 Results",
       "p": "G1 Climax 36 Listener Contest standings after night 16 headlined by Ryohei Oiwa vs. Konosuke Takeshita. The post G1 Climax 36 Contest: Night 16 Results appeared first on POST Wrestling | Podcasts,...",
       "link": "https://www.postwrestling.com/2026/08/12/g1-climax-36-contest-night-16-results/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-12T15:48:46+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "NJPW “G1 Climax 36” results (8/12): Vetter’s review of Konosuke Takeshita vs. Ryohei Oiwa, Shingo Takagi vs. Sanada, Yota Tsuji vs. Jake Lee, Boltin Oleg vs. Great-O-Khan, Hirooki Goto vs. Yuto Ice",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “G1 Climax 36” results (8/12): Vetter’s review of Konosuke Takeshita vs. Ryohei Oiwa, Shingo Takagi vs. Sanada, Yota Tsuji vs. Jake...",
       "link": "https://prowrestling.net/site/2026/08/12/njpw-g1-climax-36-results-8-12-vetters-review-of-konosuke-takeshita-vs-ryohei-oiwa-shingo-takagi-vs-sanada-yota-tsuji-vs-jake-lee-boltin-oleg-vs-great-o-khan-hirooki-goto-vs-yuto-ice/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-12T15:43:44+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "AEW star explains why wrestling at Arena Mexico makes one a ‘real luchador’",
       "p": "AEW star Bandido discussed the influence of competing at Arena Mexico, and recalled how his father initially opposed his wrestling ambitions and tested him with 10 push-ups, which he failed,...",
       "link": "https://www.f4wonline.com/news/aew/aew-star-explains-why-wrestling-at-arena-mexico-makes-real-luchador/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-12T15:19:17+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "AEW Dynamite search interest up year over year and compared to last 90 days",
       "p": "Interest in AEW Dynamite as a search term (for the United States) is up over the last 90 days at both +20% compared to the preceding three months and +30% versus the same period last year. Google...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-search-interest-up-year-on-year-last-90-days-08-12-2026/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-08-12T15:08:00+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW Dynamite preview: TNT Title match, two Continental Cup tournament matches, second spot in the Casino Gauntlet to be determined",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: TNT Title match, two Continental Cup tournament matches, second spot in the Casino Gauntlet to be determined appeared...",
       "link": "https://prowrestling.net/site/2026/08/12/aew-dynamite-preview-tnt-title-match-two-continental-cup-tournament-matches-second-spot-in-the-casino-gauntlet-to-be-determined/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-12T14:00:54+00:00"
     }
   ]

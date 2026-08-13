@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-12T23:55:58.381665+00:00",
+  "updated": "2026-08-13T02:43:55.471575+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE RESULTS (8/12): Keller’s report on Kevin Knight vs. Jericho for TNT Title, Jay White vs. David Finlay, Perry vs. Moxley, Wayne vs. MJF vs. Speedball for Gauntlet no. 2 entry spot",
-      "p": "AEW DYNAMITE REPORT AUGUST 5, 2026 LAS VEGAS, NEV. AT PEARL THEATER AT THE PALMS AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring...",
-      "link": "https://www.pwtorch.com/site/2026/08/12/aew-dynamite-results-8-12-kellers-report-on-kevin-knight-vs-jericho-for-tnt-title-jay-white-vs-david-finlay-perry-vs-moxley-wayne-vs-mjf-vs-speedball-for-gauntlet-no-2-entry-spot/",
-      "t": "5m",
-      "dt": "2026-08-12T23:50:28+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Results (8/12/2026): Kevin Knight vs. Jericho, Continental Cup Continues, MJF, More",
-      "p": "Full results for the August 12, 2026, edition of AEW Dynamite on TBS live from The Pearl Theater at the Palms in Las Vegas, Nevada. On August 12, 2026, All Elite Wrestling hosted a new episode of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-8-12-2026-kevin-knight-vs-jericho-continental-cup-continues-mjf-more/",
-      "t": "10m",
-      "dt": "2026-08-12T23:45:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite results (8/12): Powell’s review of Kevin Knight vs. Chris Jericho for the TNT Title, plus Jay White vs. David Finlay and Jon Moxley vs. Jack Perry in Continental Cup matches",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite results (8/12): Powell’s review of Kevin Knight vs. Chris Jericho for the TNT Title, plus Jay White vs. David Finlay and Jon...",
-      "link": "https://prowrestling.net/site/2026/08/12/aew-dynamite-results-8-12-powells-review-of-kevin-knight-vs-chris-jericho-for-the-tnt-title-plus-jay-white-vs-david-finlay-and-jon-moxley-vs-jack-perry-in-continental-cup-matches/",
-      "t": "25m",
-      "dt": "2026-08-12T23:30:14+00:00"
-    },
-    {
       "src": "Wrestling Observer",
-      "h": "AEW Dynamite live results: Kevin Knight vs. Chris Jericho, two Continental Challenge Cup matches",
-      "p": "AEW Dynamite is live from The Pearl Theater in Las Vegas tonight on the road to All In. Two matches in the Continental Challenge Cup will take place as reigning Continental Champion Jon Moxley...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-kevin-knight-vs-chris-jericho-two-continental-challenge-cup-matches/",
-      "t": "40m",
-      "dt": "2026-08-12T23:15:00+00:00"
+      "h": "Results of Wednesday’s AEW Continental Challenge Cup matches",
+      "p": "The first-ever AEW Continental Challenge Cup continued on Wednesday’s Dynamite with two more men advancing to the field of eight. In the night’s main event, reigning Continental Champion Jon...",
+      "link": "https://www.f4wonline.com/news/aew/aew-continental-challenge-cup-matches-results-update/",
+      "t": "11m",
+      "dt": "2026-08-13T02:32:35+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Dynamite Results 8/12 - TNT Championship On The Line & More",
-      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on August 12, 2026, with a TNT Championship match between titleholder Kevin Knight & Jericho!",
-      "link": "https://www.wrestlinginc.com/2235150/aew-dynamite-august-12-tnt-championship-on-line-more/",
-      "t": "55m",
-      "dt": "2026-08-12T23:00:00+00:00"
+      "h": "AEW Continental Challenge Cup Update - 8/12/2026",
+      "p": "Two more competitors join Claudio Castagnoli, Eddie Kingston, and Orange Cassidy in the second round of the AEW Continental Challenge Cup.",
+      "link": "https://www.wrestlinginc.com/2235992/aew-continental-challenge-cup-update-august-12-2026/",
+      "t": "14m",
+      "dt": "2026-08-13T02:29:43+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Mercedes Mone Attacks Willow Nightingale Before AEW Dynamite, ‘I Am So Sick Of That Damn Smile’",
-      "p": "Mercedes Mone sends a message to Willow Nightingale. Just hours before Wednesday’s episode of Dynamite, Mone went live on social media and revealed to fans that she attacked Willow Nightingale...",
-      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-attacks-willow-nightingale-before-aew-dynamite-i-am-so-sick-of-that-damn-smile/",
-      "t": "1h",
-      "dt": "2026-08-12T22:27:02+00:00"
+      "h": "TBS Championship Match Set For 8/19 AEW Dynamite",
+      "p": "A title match has been announced for the August 19 episode of AEW Dynamite. The TBS Championship will be on the line in a four way match, as Maya World defends the title against Persephone, Hikaru...",
+      "link": "https://www.fightful.com/wrestling-news/tbs-title-aew-dynamite-322016/",
+      "t": "16m",
+      "dt": "2026-08-13T02:27:32+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jon Moxley And Jay White Advance In AEW Continental Challenge Cup On 8/12 AEW Dynamite",
+      "p": "Jon Moxley and Jay White are advancing in the AEW Continental Cup. The tournament continued on the August 12 episode of AEW Dynamite with two separate matches. In the first bout, Jay White took on...",
+      "link": "https://www.fightful.com/wrestling-news/jon-moxley-jay-white-continental-cup-321999/",
+      "t": "19m",
+      "dt": "2026-08-13T02:24:15+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Austin Creed And Kofi Expected In AEW Soon",
+      "p": "Details on Austin Creed and Kofi. Fightful Select reports, “While sources wouldn’t outright confirm that Austin Creed and Kofi have signed with AEW, it was noted to @FightfulSelect that it’s...",
+      "link": "https://www.fightful.com/wrestling-news/austin-creed-and-kofi-expected-in-aew-soon/",
+      "t": "21m",
+      "dt": "2026-08-13T02:21:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW International Champion Kyle Fletcher Set For Three Way Match In Wembley",
+      "p": "Kyle Fletcher will defend his International Championship in a three-way at AEW All In.",
+      "link": "https://www.wrestlinginc.com/2235991/aew-international-champion-kyle-fletcher-set-three-way-wembley/",
+      "t": "24m",
+      "dt": "2026-08-13T02:19:47+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Mercedes Moné, Willow Nightingale angle takes place ahead of AEW Dynamite",
-      "p": "Mercedes Moné appears to have attacked Willow Nightingale ahead of tonight’s AEW Dynamite. Moné posted a video to X just hours before the show. The video showed Nightingale being attended to...",
-      "link": "https://www.f4wonline.com/news/aew/mercedes-mone-willow-nightingale-angle-takes-place-ahead-of-aew-dynamite/",
-      "t": "1h",
-      "dt": "2026-08-12T21:57:35+00:00"
+      "h": "International title three-way, falls count anywhere match announced for AEW All In",
+      "p": "In a match hinted at for several weeks, a three-way for the AEW International title has been confirmed for this month’s All In. Reigning champion Kyle Fletcher will defend against two former...",
+      "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-takeshita-okada-aew-all-in-international-title/",
+      "t": "25m",
+      "dt": "2026-08-13T02:18:16+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Details On Plans For MJF And AEW All In",
+      "p": "Details on the plans for MJF and AEW All In. Fightful Select reports, “MJF had been planned to be involved in the Casino Gauntlet since before losing the AEW World Championship, as has Andrade....",
+      "link": "https://www.fightful.com/wrestling-news/details-on-plans-for-mjf-and-aew-all-in/",
+      "t": "28m",
+      "dt": "2026-08-13T02:15:21+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW International Title Match Set For AEW All In London",
+      "p": "A title bout has been added to AEW All In. Kyle Fletcher is now scheduled to defend his AEW International Championship against Kazuchika Okada and Konosuke Takeshita at All In. The match was...",
+      "link": "https://www.fightful.com/wrestling-news/aew-all-in-322020/",
+      "t": "34m",
+      "dt": "2026-08-13T02:09:35+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite 8/12 Results: Omega saves Ospreay from Callis Family beatdown, Continental Cup continues",
+      "p": "Kenny Omega saved All In opponent Will Ospreay from trouble on Wednesday's episode of AEW Dynamite. The post AEW Dynamite 8/12 Results: Omega saves Ospreay from Callis Family beatdown, Continental...",
+      "link": "https://www.postwrestling.com/2026/08/12/aew-dynamite-8-12-results-the-jet-faces-jericho-continental-cup-continues/",
+      "t": "43m",
+      "dt": "2026-08-13T02:00:41+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: TNT Title match, two Continental Cup tournament matches, second spot in the Casino Gauntlet to be determined",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: TNT Title match, two Continental Cup tournament matches, second spot in the Casino Gauntlet to be determined appeared...",
-      "link": "https://prowrestling.net/site/2026/08/12/aew-dynamite-preview-tnt-title-match-two-continental-cup-tournament-matches-second-spot-in-the-casino-gauntlet-to-be-determined/",
-      "t": "2h",
-      "dt": "2026-08-12T21:21:54+00:00"
+      "h": "AEW Dynamite Poll: Grade the August 12 edition",
+      "p": "Loading… The post AEW Dynamite Poll: Grade the August 12 edition appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/12/aew-dynamite-poll-grade-the-august-12-edition-2/",
+      "t": "53m",
+      "dt": "2026-08-13T01:50:51+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan announces new matches, segments for tonight’s AEW Dynamite",
-      "p": "Tony Khan has made several announcements for tonight’s AEW Dynamite. Just hours before the show, the AEW president revealed that CMLL World Women’s Champion Persephone will team with Hikaru Shida...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-announces-new-match-for-tonights-aew-dynamite/",
-      "t": "2h",
-      "dt": "2026-08-12T21:01:39+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Women’s Tag Team Bout Added To 8/12 AEW Dynamite",
-      "p": "A women’s tag team match has been added to AEW Dynamite. Tony Khan announced that Persephone will team with Hikaru Shida to take on TBS Champion Maya World and Thunder Rosa on the August 12...",
-      "link": "https://www.fightful.com/wrestling-news/womens-tag-team-bout-added-to-8-12-aew-dynamite/",
-      "t": "3h",
-      "dt": "2026-08-12T20:48:38+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Darby Allin On WWE Counterprogramming AEW: I Think It’s Fun, My Life Doesn’t Begin And End With Wrestling",
-      "p": "Darby Allin has a life outside of wrestling. At the tail end of September, WWE/AAA and AEW will go head-to-head in Chicago. AEW will host their All Out pay-per-view at the NOW Arena. At the same...",
-      "link": "https://www.fightful.com/wrestling-news/darby-allin-wwe-aew-321967/",
-      "t": "3h",
-      "dt": "2026-08-12T20:29:15+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Darby Allin On Winning AEW World Title In Two Minutes: Not Everything Has To Be A 25 Minute Slugfest",
-      "p": "Darby Allin reflects on his AEW World Championship win. On the April 15 episode of AEW Dynamite, Allin shocked the world by winning the title from MJF. The match only lasted two minutes, marking...",
-      "link": "https://www.fightful.com/wrestling-news/darby-allin-on-winning-aew-world-title-in-two-minutes-not-everything-has-to-be-a-25-minute-slugfest/",
-      "t": "3h",
-      "dt": "2026-08-12T20:07:21+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW TNT Champ Kevin Knight Gets Underhanded Win Over Chris Jericho",
+      "p": "Kevin Knight continues his reign as one of the most dominant AEW TNT Champions ever as he defeated Chris Jericho on \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2235976/aew-tnt-champ-kevin-knight-underhanded-win-chris-jericho/",
+      "t": "58m",
+      "dt": "2026-08-13T01:45:49+00:00"
     }
   ]
 }

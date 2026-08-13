@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-13T19:17:51.514436+00:00",
+  "updated": "2026-08-13T21:00:21.474244+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "PAC To Face Luke Jacobs At RevPro 14 Year Anniversary",
+      "p": "PAC is headed back to RevPro. Revolution Pro Wrestling announced that PAC has answered the open challenge of Luke Jacobs, and the two will square off at the RevPro 14-Year Anniversary show on...",
+      "link": "https://www.fightful.com/wrestling-news/pac-to-face-luke-jacobs-at-revpro-14-year-anniversary/",
+      "t": "20m",
+      "dt": "2026-08-13T20:39:45+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Adam Copeland explains why Tony Khan allowed him to wrestle for Maple Leaf Pro",
+      "p": "Adam Copeland spoke about Tony Khan allowing him to wrestle at MLP Northern Rising on the latest episode of MLP Mayhem. Copeland is confirmed for the October 3 MLP pay-per-view at the Mattamy...",
+      "link": "https://www.f4wonline.com/news/aew/adam-copeland-explains-why-tony-khan-allowed-him-to-wrestle-for-maple-leaf-pro/",
+      "t": "31m",
+      "dt": "2026-08-13T20:28:36+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega and Will Ospreay, Swerve Strickland’s return, Mick Foley’s interviews, the build to All In London",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega and Will Ospreay, Swerve Strickland’s return, Mick Foley’s interviews, the build to All...",
+      "link": "https://prowrestling.net/site/2026/08/13/powells-aew-dynamite-hit-list-thoughts-on-kenny-omega-and-will-ospreay-swerve-stricklands-return-mick-foleys-interviews-the-build-to-all-in-london/",
+      "t": "49m",
+      "dt": "2026-08-13T20:10:33+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOL: WWE ticket sales slowing, Dynamite, Wembley, CATS, more!",
+      "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including a full recap of Dynamite from Wednesday, Wembley discussion, who Swerve’s partners might be and...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-wwe-ticket-sales-slowing-dynamite-wembley-cats-more/",
+      "t": "56m",
+      "dt": "2026-08-13T20:03:23+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW wrestler answers open challenge for RevPro All In weekend event",
+      "p": "AEW star PAC has been added to the card for Revolution Pro Wrestling’s 14th anniversary show. PAC vs. Luke Jacobs is set to take place at RevPro’s August 29 event in London, which is happening...",
+      "link": "https://www.f4wonline.com/news/aew/aew-wrestler-answers-open-challenge-for-revpro-all-in-weekend-event/",
+      "t": "1h",
+      "dt": "2026-08-13T19:47:02+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Update on WWE’s reaction to Bayley’s apparent AEW tease on social media",
       "p": "Bayley’s recent social media activity has reportedly raised some eyebrows in WWE. Bayley recently posted a video of herself training to Instagram with the song “All In” by The Grouch & Eligh...",
       "link": "https://www.f4wonline.com/news/wwe/update-on-wwes-reaction-to-bayleys-apparent-aew-tease-on-social-media/",
-      "t": "0m",
+      "t": "1h",
       "dt": "2026-08-13T19:17:10+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "ROH on HonorClub lineup: The Global Wars Mexico card for tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The Global Wars Mexico card for tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/13/roh-on-honorclub-lineup-the-global-wars-mexico-card-for-tonights-show/",
-      "t": "7m",
+      "t": "1h",
       "dt": "2026-08-13T19:10:30+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Danhausen Shares Photo With ‘Widow’s Bay’ Star Matthew Rhys, AEW Dynamite Highlights, More | Fight Size",
       "p": "Here is your fight size update for Thursday, August 13, 2026. – Danhausen x Matthew Rhys is a thing: Couple of cursed guys @AppleTV pic.twitter.com/uC3hmeCrgw — Danhausen (@DanhausenAD) August 12,...",
       "link": "https://www.fightful.com/wrestling-news/danhausen-shares-photo-with-widows-bay-star-matthew-rhys-aew-dynamite-highlights-more-fight-size/",
-      "t": "17m",
+      "t": "2h",
       "dt": "2026-08-13T19:00:00+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Recent Video Posted By WWE's Bayley Reportedly Seen As 'Eyebrow-Raising' Backstage",
       "p": "Earlier this week, Bayley posed an Instagram video that included footage of Mercedes Moné and other AEW references amid contract status speculation.",
       "link": "https://www.wrestlinginc.com/2236501/wwe-bayley-video-eyebrow-raising-aew/",
-      "t": "38m",
+      "t": "2h",
       "dt": "2026-08-13T18:39:48+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "AEW Collision rating: Did the start of the Continental Cup tournament increase viewership?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: Did the start of the Continental Cup tournament increase viewership? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/13/aew-collision-rating-did-the-start-of-the-continental-cup-tournament-increase-viewership/",
-      "t": "57m",
+      "t": "2h",
       "dt": "2026-08-13T18:20:00+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW Sponsoring Owen Hart Foundation’s 27th Anniversary Event",
       "p": "AEW is the title sponsor for the Owen Hart Foundation’s anniversary event. The Owen Hart Foundation 27th Anniversary Event is scheduled for November 21st at the Southern Alberta Jubilee Auditorium...",
       "link": "https://www.fightful.com/wrestling-news/aew-sponsoring-owen-hart-foundations-27th-anniversary-event/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-13T18:14:55+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "TNA Impact rating: Did the numbers improve without AEW Collision as competition?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post TNA Impact rating: Did the numbers improve without AEW Collision as competition? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/13/tna-impact-rating-did-the-numbers-improve-without-aew-collision-as-competition/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-13T18:00:10+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Bayley’s Video Post On Social Media Was Viewed By Some Backstage At WWE As ‘Eyebrow-Raising’",
-      "p": "An update on the reaction to the video post from Bayley. WWE’s Bayley posted a video of highlights of her training at different locations with different wrestlers, including AEW’s Mercedes Moné,...",
-      "link": "https://www.fightful.com/wrestling-news/bayleys-video-post-on-social-media-was-viewed-by-some-backstage-at-wwe-as-eyebrow-raising/",
-      "t": "1h",
-      "dt": "2026-08-13T17:48:29+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Maxwell Jacob Friedman: Never Acronym The One True Champion",
-      "p": "Maxwell Jacob Friedman is not the acronym of One True Champion. Maxwell has started calling himself the One True Champion of All Elite Wrestling, carrying around the All Elite Wrestling Big...",
-      "link": "https://www.fightful.com/wrestling-news/maxwell-jacob-friedman-never-acronym-the-one-true-champion/",
-      "t": "1h",
-      "dt": "2026-08-13T17:41:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Bryan Alvarez Speculates On Why Kenny Omega Didn't Travel To Mexico For AEW Grand Slam",
-      "p": "After replacing MJF on the poster from AEW Grand Slam Mexico, Kenny Omega wasn't on the show. On Wrestling Observer Live, Bryan Alvarez weighed in.",
-      "link": "https://www.wrestlinginc.com/2236432/bryan-alvarez-kenny-omega-mexico-aew-grand-slam/",
-      "t": "1h",
-      "dt": "2026-08-13T17:35:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report 8/5/2026",
-      "p": "The Grand Slam Mexico edition of \"AEW Dynamite\" saw a small bump in the TV ratings, and even finished in the top three for the night.",
-      "link": "https://www.wrestlinginc.com/2236409/aew-dynamite-viewership-ratings-august-5-2026/",
-      "t": "2h",
-      "dt": "2026-08-13T17:13:40+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW sponsoring Owen Hart Foundation 27th anniversary event",
-      "p": "AEW is helping the Owen Hart Foundation celebrate its 27th anniversary this fall. The Owen Hart Foundation, which was founded by Dr. Martha Hart in 2000 in remembrance of her late husband, will...",
-      "link": "https://www.f4wonline.com/news/aew/aew-sponsoring-owen-hart-foundation-27th-anniversary-event/",
-      "t": "2h",
-      "dt": "2026-08-13T17:10:54+00:00"
     }
   ]
 }

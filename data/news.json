@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T05:01:16.267075+00:00",
+  "updated": "2026-08-13T06:42:35.608684+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
@@ -13,10 +13,42 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "Darby Allin talks about getting tacks in his face, how he got using a flamethrower approved",
+      "p": "Darby Allin has opened up about some of his most hardcore moments in AEW. Allin is known for his risk-taking abilities and his skill at getting hardcore. A few months ago, at AEW x NJPW Forbidden...",
+      "link": "https://www.f4wonline.com/news/aew/darby-allin-talks-about-getting-tacks-in-his-face-how-he-got-using-a-flamethrower-approved/",
+      "t": "27m",
+      "dt": "2026-08-13T06:15:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 8/12 – WKPWP after Dynamite: Keller & JB discuss strengths and weaknesses of Omega-Ospreay so far and what’s next, New Day hints, Perry’s best match yet, Foley, Paul Wight (102 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Jerud Buhagiar to review AEW Dynamite which included the latest Will Ospreay and Kenny Omega promo segment with Don Callis. What...",
+      "link": "https://www.pwtorch.com/site/2026/08/13/free-podcast-8-12-wkpwp-after-dynamite-keller-jb-discuss-strengths-and-weaknesses-of-omega-ospreay-so-far-and-whats-next-new-day-hints-perrys-best-match-yet-foley-paul-wight-102/",
+      "t": "1h",
+      "dt": "2026-08-13T05:32:29+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "08/12 Powell’s AEW Dynamite audio review: Kevin Knight vs. Chris Jericho for the TNT Title, plus Jay White vs. David Finlay and Jon Moxley vs. Jack Perry in Continental Cup matches",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 08/12 Powell’s AEW Dynamite audio review: Kevin Knight vs. Chris Jericho for the TNT Title, plus Jay White vs. David Finlay and Jon Moxley vs....",
+      "link": "https://prowrestling.net/site/2026/08/13/08-12-powells-aew-dynamite-audio-review-kevin-knight-vs-chris-jericho-for-the-tnt-title-plus-jay-white-vs-david-finlay-and-jon-moxley-vs-jack-perry-in-continental-cup-matches/",
+      "t": "1h",
+      "dt": "2026-08-13T05:19:48+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 8/12 – WKH – AEW Dynamite: Moxley vs. Perry in Continental Cup match, Ospreay-Omega-Callis segment, Knight vs. Jericho for TNT Title, Wight on commentary, Jay White vs. Finlay, more (21 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the August 12 episode of AEW Dynamite start to finish including Jon Moxley vs. Jack Perry in a...",
+      "link": "https://www.pwtorch.com/site/2026/08/13/vip-podcast-8-12-wkh-aew-dynamite-moxley-vs-perry-in-continental-cup-match-ospreay-omega-callis-segment-knight-vs-jericho-for-tnt-title-wight-on-commentary-jay-white-vs-finlay-more-21-mi/",
+      "t": "1h",
+      "dt": "2026-08-13T05:14:35+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "Andrade El Idolo match announced for CMLL 93 Anniversary",
       "p": "AEW’s Andrade El Idolo recently announced a brief absence; however, he has now been announced for an upcoming match. In the latest edition of CMLL Informa, it was announced that Andrade El Idolo...",
       "link": "https://www.f4wonline.com/news/aew/andrade-el-idolo-match-announced-for-cmll-93-anniversary/",
-      "t": "42m",
+      "t": "2h",
       "dt": "2026-08-13T04:18:55+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW Dynamite - 8/12/2026: 3 Things We Hated & 3 We Loved",
       "p": "The best and the worst of AEW's latest stop in Las Vegas, NV.",
       "link": "https://www.wrestlinginc.com/2236002/aew-dynamite-august-12-2026-3-things-hated-loved-opinion-review/",
-      "t": "47m",
+      "t": "2h",
       "dt": "2026-08-13T04:13:47+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Darby Allin explains why he loves WWE counter-programming AEW",
       "p": "For the past year, WWE has continued to counter-program several AEW shows. While it has sparked major controversy in the industry, former AEW World Champion Darby Allin has claimed that he loves...",
       "link": "https://www.f4wonline.com/news/aew/darby-allin-explains-why-he-loves-wwe-counter-programming-aew/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-13T03:15:00+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "TBS title match set for next AEW Dynamite",
       "p": "The issues between Maya World, Hikaru Shida, Kris Statlander and Persephone will come to a head on next Wednesday’s AEW Dynamite from Baltimore, Maryland. World will put up her TBS title against...",
       "link": "https://www.f4wonline.com/news/aew/tbs-title-match-next-aew-dynamite/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-13T03:04:52+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Falls Count Anywhere Match Added To AEW All In",
       "p": "A new bout has been added to AEW All In. Darby Allin will challenge Kevin Knight for the TNT Title at AEW’s biggest event of the year in a Falls Count Anywhere match. The match was made official...",
       "link": "https://www.fightful.com/wrestling-news/falls-count-anywhere-match-added-to-aew-all-in/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-13T03:04:41+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Fletcher vs. Okada vs. Takeshita three-way for International title added to AEW All In: London",
       "p": "Kyle Fletcher will have to defend his AEW International Championship against a pair of his closest rivals inside Wembley Stadium. The post Fletcher vs. Okada vs. Takeshita three-way for...",
       "link": "https://www.postwrestling.com/2026/08/12/fletcher-vs-okada-vs-takeshita-three-way-for-international-title-added-to-aew-all-in-london/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-13T02:58:37+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "Trios title match, Mercedes Moné bout added to 8/15 AEW Collision",
       "p": "Brodido & Hangman Adam Page will defend trios gold against the Lethal Twist as part of Saturday's episode of AEW Collision. The post Trios title match, Mercedes Moné bout added to 8/15 AEW...",
       "link": "https://www.postwrestling.com/2026/08/12/trios-title-match-mercedes-mone-bout-added-to-8-15-aew-collision/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-13T02:48:13+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Mercedes Mone, Trios title defense part of additions to AEW Collision lineup",
       "p": "The AEW Trios titles will be on the line this Saturday on AEW Collision, one of three additions to the show. New champions Hangman Page, Brody King & Bandido will defend against The Lethal Twist...",
       "link": "https://www.f4wonline.com/news/aew/mercedes-mone-trios-title-defense-aew-collision-lineup/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-13T02:47:58+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Dynamite 8/12/26 Review | REWIND-A-DYNAMITE",
-      "p": "Pollock & Ting review AEW Dynamite w/ Finlay vs White, Moxley vs Perry, MJF/Wayne/Speedball, Knight vs Jericho. XL: Jim Ross, G1 Climax, Zilla Fatu NXT, TNA/MLP lineups. The post AEW Dynamite...",
-      "link": "https://www.postwrestling.com/2026/08/12/aew-dynamite-8-12-26-review-rewind-a-dynamite-live-1035pm-et/",
-      "t": "2h",
-      "dt": "2026-08-13T02:35:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Results of Wednesday’s AEW Continental Challenge Cup matches",
-      "p": "The first-ever AEW Continental Challenge Cup continued on Wednesday’s Dynamite with two more men advancing to the field of eight. In the night’s main event, reigning Continental Champion Jon...",
-      "link": "https://www.f4wonline.com/news/aew/aew-continental-challenge-cup-matches-results-update/",
-      "t": "2h",
-      "dt": "2026-08-13T02:32:35+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Continental Challenge Cup Update - 8/12/2026",
-      "p": "Two more competitors join Claudio Castagnoli, Eddie Kingston, and Orange Cassidy in the second round of the AEW Continental Challenge Cup.",
-      "link": "https://www.wrestlinginc.com/2235992/aew-continental-challenge-cup-update-august-12-2026/",
-      "t": "2h",
-      "dt": "2026-08-13T02:29:43+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "TBS Championship Match Set For 8/19 AEW Dynamite",
-      "p": "A title match has been announced for the August 19 episode of AEW Dynamite. The TBS Championship will be on the line in a four way match, as Maya World defends the title against Persephone, Hikaru...",
-      "link": "https://www.fightful.com/wrestling-news/tbs-title-aew-dynamite-322016/",
-      "t": "2h",
-      "dt": "2026-08-13T02:27:32+00:00"
     }
   ]
 }

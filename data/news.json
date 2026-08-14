@@ -1,22 +1,30 @@
 {
-  "updated": "2026-08-14T02:43:09.768190+00:00",
+  "updated": "2026-08-14T04:59:03.884305+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Former Kofi Kingston reportedly registers two new trademarks",
+      "p": "Months after his WWE departure, Kofi Kingston has now taken a major step toward his career’s future. Amid recent reports and speculation about joining Tony Khan’s AEW roster, the former Kofi...",
+      "link": "https://www.f4wonline.com/news/wwe/former-kofi-kingston-reportedly-registers-two-new-trademarks/",
+      "t": "8m",
+      "dt": "2026-08-14T04:50:00+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Hurt Syndicate To Team With STP On 8/15 AEW Collision",
       "p": "The Hurt Syndicate will return to action on Saturday’s AEW Collision. AEW announced that Shelton Benjamin & Bobby Lashley will team with Shane Taylor Promotion member Shane Taylor & Lee Moriarty...",
       "link": "https://www.fightful.com/wrestling-news/hurt-syndicate-to-team-with-stp-on-8-15-aew-collision/",
-      "t": "42m",
+      "t": "2h",
       "dt": "2026-08-14T02:00:42+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "ROH Global Wars Mexico Results (8/13)",
       "p": "Ring of Honor aired ROH Global Wars Mexico on August 13 from Arena Mexico in Mexico City, Mexico. The event aired on HonorClub. Full results are below. ROH Global Wars Mexico Results (8/13) AEW...",
       "link": "https://www.fightful.com/wrestling-news/roh-global-wars-mexico-results-8-13/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-14T01:42:52+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Lio Rush, Dalton Castle & The Outrunners to defend titles at ROH Death Before Dishonor",
       "p": "Next Friday’s ROH Death Before Dishonor got two title matches added on Thursday, announced on their weekly TV show. After successfully defending against El Clon at Global Wars, Lio Rush will put...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/lio-rush-dalton-castle-the-outrunners-roh-death-before-dishonor-2026/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-14T01:38:32+00:00"
     },
     {
@@ -40,23 +48,15 @@
       "h": "Two Title Bouts Added To ROH Death Before Dishonor",
       "p": "Two title matches have been added to ROH Death Before Dishonor. Ring of Honor Wrestling announced that Lio Rush will defend his World TV Title against Action Andretti in a Fight Without Honor. The...",
       "link": "https://www.fightful.com/wrestling-news/two-title-bouts-added-to-roh-death-before-dishonor/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-14T01:08:32+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Adam Copeland Discusses Tony Khan Knowing How Much It Means To Him To Compete For MLP At Maple Leaf Gardens",
-      "p": "Adam Copeland gives props to Tony Khan. Coming up in October, the Maple Leaf Pro Wrestling promotion is going to be running the Maple Leaf Gardens, a.k.a. Mattamy Athletic Centre. Current AEW...",
-      "link": "https://www.fightful.com/wrestling-news/adam-copeland-discusses-tony-khan-knowing-how-much-it-means-to-him-to-compete-for-mlp-at-maple-leaf-gardens/",
-      "t": "2h",
-      "dt": "2026-08-14T00:00:11+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "ROH TV live results: Global Wars Mexico",
       "p": "Ring of Honor presents Global Wars Mexico tonight. Matches scheduled for the show were taped last week at Arena México in Mexico City. Kyle Fletcher will face Máscara Dorada, Kevin Knight will...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-global-wars-mexico/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-13T23:15:00+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "Adam Copeland explains why Tony Khan allowed him to wrestle for Maple Leaf Pro",
       "p": "Adam Copeland spoke about Tony Khan allowing him to wrestle at MLP Northern Rising on the latest episode of MLP Mayhem. Copeland is confirmed for the October 3 MLP pay-per-view at the Mattamy...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-explains-why-tony-khan-allowed-him-to-wrestle-for-maple-leaf-pro/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-13T20:28:36+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega and Will Ospreay, Swerve Strickland’s return, Mick Foley’s interviews, the build to All In London",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega and Will Ospreay, Swerve Strickland’s return, Mick Foley’s interviews, the build to All...",
       "link": "https://prowrestling.net/site/2026/08/13/powells-aew-dynamite-hit-list-thoughts-on-kenny-omega-and-will-ospreay-swerve-stricklands-return-mick-foleys-interviews-the-build-to-all-in-london/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-13T20:10:33+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "WOL: WWE ticket sales slowing, Dynamite, Wembley, CATS, more!",
       "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including a full recap of Dynamite from Wednesday, Wembley discussion, who Swerve’s partners might be and...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-wwe-ticket-sales-slowing-dynamite-wembley-cats-more/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-13T20:03:23+00:00"
     },
     {
@@ -88,24 +88,24 @@
       "h": "AEW wrestler answers open challenge for RevPro All In weekend event",
       "p": "AEW star PAC has been added to the card for Revolution Pro Wrestling’s 14th anniversary show. PAC vs. Luke Jacobs is set to take place at RevPro’s August 29 event in London, which is happening...",
       "link": "https://www.f4wonline.com/news/aew/aew-wrestler-answers-open-challenge-for-revpro-all-in-weekend-event/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-08-13T19:47:02+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on WWE’s reaction to Bayley’s apparent AEW tease on social media",
-      "p": "Bayley’s recent social media activity has reportedly raised some eyebrows in WWE. Bayley recently posted a video of herself training to Instagram with the song “All In” by The Grouch & Eligh...",
-      "link": "https://www.f4wonline.com/news/wwe/update-on-wwes-reaction-to-bayleys-apparent-aew-tease-on-social-media/",
-      "t": "7h",
-      "dt": "2026-08-13T19:17:10+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "ROH on HonorClub lineup: The Global Wars Mexico card for tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The Global Wars Mexico card for tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/13/roh-on-honorclub-lineup-the-global-wars-mexico-card-for-tonights-show/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-13T19:10:30+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Recent Video Posted By WWE's Bayley Reportedly Seen As 'Eyebrow-Raising' Backstage",
+      "p": "Earlier this week, Bayley posed an Instagram video that included footage of Mercedes Moné and other AEW references amid contract status speculation.",
+      "link": "https://www.wrestlinginc.com/2236501/wwe-bayley-video-eyebrow-raising-aew/",
+      "t": "10h",
+      "dt": "2026-08-13T18:39:48+00:00"
     }
   ]
 }

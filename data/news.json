@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T17:08:46.712876+00:00",
+  "updated": "2026-08-14T18:04:45.532618+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -7,16 +7,48 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (0 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Explains Why ROH World Title No. 1 Contender Took Pin On AEW Dynamite",
+      "p": "Bandido will defend the Men's ROH World Championship at Death Before Dishonor on August 21. His challenger was pinned on \"Dynamite\" this week.",
+      "link": "https://www.wrestlinginc.com/2237286/dave-meltzer-nick-wayne-aew-dynamite-roh-world-title-no-1-contender/",
+      "t": "5m",
+      "dt": "2026-08-14T17:59:04+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Mick Foley Discusses Comparisons With Darby Allin",
+      "p": "Mick Foley opens up about the similarities he's noticed between himself and former AEW World Champion Darby Allin.",
+      "link": "https://www.wrestlinginc.com/2237278/aew-mick-foley-darby-allin-discusses-comparisons/",
+      "t": "13m",
+      "dt": "2026-08-14T17:51:07+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Darby Allin Discusses Possibility Of Wrestling With Mick Foley In AEW",
+      "p": "Darby Allin has opened up about potentially wrestling Mick Foley in AEW, and what a match with the \"Hardcore Legend\" would look like.",
+      "link": "https://www.wrestlinginc.com/2237275/darby-allin-possibility-wrestling-mick-foley-aew/",
+      "t": "17m",
+      "dt": "2026-08-14T17:47:40+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Bryan Alvarez’s ‘Pro Wrestling for Dummies’ book pre-orders open, shipping update",
+      "p": "In case you hadn’t heard, Bryan Alvarez has written yet another book on pro wrestling as his mastery of the English language continues to grow while his ability to record the show after AEW...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/bryan-alvarez-pro-wrestling-for-dummies-pre-order-shipping-date/",
+      "t": "22m",
+      "dt": "2026-08-14T17:41:38+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Eddie Kingston to miss Friday indie event in Canada",
       "p": "Eddie Kingston won’t be making his scheduled indie appearance in Canada tonight (August 14). The AEW star was supposed to compete at Fighting Back 2026, a charity event that’s being held to...",
       "link": "https://www.f4wonline.com/news/aew/eddie-kingston-to-miss-friday-indie-event-in-canada/",
-      "t": "7m",
+      "t": "1h",
       "dt": "2026-08-14T17:01:35+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW X CMLL Semana Internacional results: Vetter’s review of Kyle Fletcher vs. Mascara Dorada, Kevin Knight vs. Titan for the TNT Title, Bandido vs. Barbaro Cavernario",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post AEW X CMLL Semana Internacional results: Vetter’s review of Kyle Fletcher vs. Mascara Dorada, Kevin Knight vs. Titan for the TNT Title,...",
       "link": "https://prowrestling.net/site/2026/08/14/aew-x-cmll-semana-internacional-results-vetters-review-of-kyle-fletcher-vs-mascara-dorada-kevin-knight-vs-titan-for-the-tnt-title-bandido-vs-barbaro-cavernario/",
-      "t": "10m",
+      "t": "1h",
       "dt": "2026-08-14T16:58:25+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Xelina added to House of Glory’s “Fallout” event in Los Angeles",
       "p": "Xelina will make her House of Glory debut next month. The post Xelina added to House of Glory’s “Fallout” event in Los Angeles appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW...",
       "link": "https://www.postwrestling.com/2026/08/14/xelina-added-to-house-of-glorys-fallout-event-in-los-angeles/",
-      "t": "19m",
+      "t": "1h",
       "dt": "2026-08-14T16:49:31+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "ROH on HonorClub results (8/13): Global Wars Mexico with Kevin Knight vs. Titan for the TNT Title, Lio Rush vs. El Clon for the ROH TV Title, Komander vs. Soberano Jr.",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (8/13): Global Wars Mexico with Kevin Knight vs. Titan for the TNT Title, Lio Rush vs. El Clon for the ROH TV Title,...",
       "link": "https://prowrestling.net/site/2026/08/14/roh-on-honorclub-results-8-13-global-wars-mexico-with-kevin-knight-vs-titan-for-the-tnt-title-lio-rush-vs-el-clon-for-the-roh-tv-title-komander-vs-soberano-jr/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-14T14:46:25+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "August 17, 2026 Observer Newsletter: AEW All In, CMLL Anniversary show & final stretch of G1 all take shape, more on Dory Funk Jr.’s career",
       "p": "Dave Meltzer has posted his latest issue of the Wrestling Observer Newsletter for subscribers. He goes into the latest developments for both this month’s AEW All In lineup in addition to the final...",
       "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/won-aew-all-in-cmll-g1-dory-funk-jr-wwe-news/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-14T13:46:35+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Weekend TV Guide: NJPW’s G1 season comes to a close",
       "p": "A guide to all the notable professional wrestling events on streaming & TV this weekend, including shows from WWE, AEW, NJPW, GCW, and more. The post Weekend TV Guide: NJPW’s G1 season comes to a...",
       "link": "https://www.postwrestling.com/2026/08/14/weekend-tv-guide-njpws-g1-season-comes-to-a-close/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-14T12:00:11+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Former Kofi Kingston reportedly registers two new trademarks",
       "p": "Months after his WWE departure, Kofi Kingston has now taken a major step toward his career’s future. Amid recent reports and speculation about joining Tony Khan’s AEW roster, the former Kofi...",
       "link": "https://www.f4wonline.com/news/wwe/former-kofi-kingston-reportedly-registers-two-new-trademarks/",
-      "t": "12h",
+      "t": "13h",
       "dt": "2026-08-14T04:50:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Lio Rush, Dalton Castle & The Outrunners to defend titles at ROH Death Before Dishonor",
-      "p": "Next Friday’s ROH Death Before Dishonor got two title matches added on Thursday, announced on their weekly TV show. After successfully defending against El Clon at Global Wars, Lio Rush will put...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/lio-rush-dalton-castle-the-outrunners-roh-death-before-dishonor-2026/",
-      "t": "15h",
-      "dt": "2026-08-14T01:38:32+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH TV live results: Global Wars Mexico",
-      "p": "Ring of Honor presents Global Wars Mexico tonight. Matches scheduled for the show were taped last week at Arena México in Mexico City. Kyle Fletcher will face Máscara Dorada, Kevin Knight will...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-global-wars-mexico/",
-      "t": "17h",
-      "dt": "2026-08-13T23:15:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega and Will Ospreay, Swerve Strickland’s return, Mick Foley’s interviews, the build to All In London",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega and Will Ospreay, Swerve Strickland’s return, Mick Foley’s interviews, the build to All...",
-      "link": "https://prowrestling.net/site/2026/08/13/powells-aew-dynamite-hit-list-thoughts-on-kenny-omega-and-will-ospreay-swerve-stricklands-return-mick-foleys-interviews-the-build-to-all-in-london/",
-      "t": "20h",
-      "dt": "2026-08-13T20:10:33+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub lineup: The Global Wars Mexico card for tonight’s show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The Global Wars Mexico card for tonight’s show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/13/roh-on-honorclub-lineup-the-global-wars-mexico-card-for-tonights-show/",
-      "t": "21h",
-      "dt": "2026-08-13T19:10:30+00:00"
     }
   ]
 }

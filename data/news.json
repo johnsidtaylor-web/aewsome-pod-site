@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-14T11:54:39.314724+00:00",
+  "updated": "2026-08-14T13:38:40.614837+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "FAILED (The read operation timed out)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: NJPW’s G1 season comes to a close",
+      "p": "A guide to all the notable professional wrestling events on streaming & TV this weekend, including shows from WWE, AEW, NJPW, GCW, and more. The post Weekend TV Guide: NJPW’s G1 season comes to a...",
+      "link": "https://www.postwrestling.com/2026/08/14/weekend-tv-guide-njpws-g1-season-comes-to-a-close/",
+      "t": "1h",
+      "dt": "2026-08-14T12:00:11+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Backstage details on AEW’s All In plans for MJF and Andrade",
       "p": "Just weeks before AEW All In, MJF lost his World Championship while Andrade El Idolo announced a brief hiatus. AEW All In: London is just a few days away, and a new report from Fightful Select has...",
       "link": "https://www.f4wonline.com/news/aew/backstage-details-on-aews-all-in-plans-for-mjf-and-andrade/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-14T05:06:28+00:00"
     },
     {
@@ -24,47 +32,23 @@
       "h": "Former Kofi Kingston reportedly registers two new trademarks",
       "p": "Months after his WWE departure, Kofi Kingston has now taken a major step toward his career’s future. Amid recent reports and speculation about joining Tony Khan’s AEW roster, the former Kofi...",
       "link": "https://www.f4wonline.com/news/wwe/former-kofi-kingston-reportedly-registers-two-new-trademarks/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-14T04:50:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Hurt Syndicate To Team With STP On 8/15 AEW Collision",
-      "p": "The Hurt Syndicate will return to action on Saturday’s AEW Collision. AEW announced that Shelton Benjamin & Bobby Lashley will team with Shane Taylor Promotion member Shane Taylor & Lee Moriarty...",
-      "link": "https://www.fightful.com/wrestling-news/hurt-syndicate-to-team-with-stp-on-8-15-aew-collision/",
-      "t": "9h",
-      "dt": "2026-08-14T02:00:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH Global Wars Mexico Results (8/13)",
-      "p": "Ring of Honor aired ROH Global Wars Mexico on August 13 from Arena Mexico in Mexico City, Mexico. The event aired on HonorClub. Full results are below. ROH Global Wars Mexico Results (8/13) AEW...",
-      "link": "https://www.fightful.com/wrestling-news/roh-global-wars-mexico-results-8-13/",
-      "t": "10h",
-      "dt": "2026-08-14T01:42:52+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Lio Rush, Dalton Castle & The Outrunners to defend titles at ROH Death Before Dishonor",
       "p": "Next Friday’s ROH Death Before Dishonor got two title matches added on Thursday, announced on their weekly TV show. After successfully defending against El Clon at Global Wars, Lio Rush will put...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/lio-rush-dalton-castle-the-outrunners-roh-death-before-dishonor-2026/",
-      "t": "10h",
+      "t": "12h",
       "dt": "2026-08-14T01:38:32+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Two Title Bouts Added To ROH Death Before Dishonor",
-      "p": "Two title matches have been added to ROH Death Before Dishonor. Ring of Honor Wrestling announced that Lio Rush will defend his World TV Title against Action Andretti in a Fight Without Honor. The...",
-      "link": "https://www.fightful.com/wrestling-news/two-title-bouts-added-to-roh-death-before-dishonor/",
-      "t": "10h",
-      "dt": "2026-08-14T01:08:32+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "ROH TV live results: Global Wars Mexico",
       "p": "Ring of Honor presents Global Wars Mexico tonight. Matches scheduled for the show were taped last week at Arena México in Mexico City. Kyle Fletcher will face Máscara Dorada, Kevin Knight will...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-global-wars-mexico/",
-      "t": "12h",
+      "t": "14h",
       "dt": "2026-08-13T23:15:00+00:00"
     },
     {
@@ -72,7 +56,7 @@
       "h": "Adam Copeland explains why Tony Khan allowed him to wrestle for Maple Leaf Pro",
       "p": "Adam Copeland spoke about Tony Khan allowing him to wrestle at MLP Northern Rising on the latest episode of MLP Mayhem. Copeland is confirmed for the October 3 MLP pay-per-view at the Mattamy...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-explains-why-tony-khan-allowed-him-to-wrestle-for-maple-leaf-pro/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-08-13T20:28:36+00:00"
     },
     {
@@ -80,7 +64,7 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega and Will Ospreay, Swerve Strickland’s return, Mick Foley’s interviews, the build to All In London",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on Kenny Omega and Will Ospreay, Swerve Strickland’s return, Mick Foley’s interviews, the build to All...",
       "link": "https://prowrestling.net/site/2026/08/13/powells-aew-dynamite-hit-list-thoughts-on-kenny-omega-and-will-ospreay-swerve-stricklands-return-mick-foleys-interviews-the-build-to-all-in-london/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-08-13T20:10:33+00:00"
     },
     {
@@ -88,7 +72,7 @@
       "h": "WOL: WWE ticket sales slowing, Dynamite, Wembley, CATS, more!",
       "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including a full recap of Dynamite from Wednesday, Wembley discussion, who Swerve’s partners might be and...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-wwe-ticket-sales-slowing-dynamite-wembley-cats-more/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-08-13T20:03:23+00:00"
     },
     {
@@ -96,7 +80,7 @@
       "h": "ROH on HonorClub lineup: The Global Wars Mexico card for tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The Global Wars Mexico card for tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/13/roh-on-honorclub-lineup-the-global-wars-mexico-card-for-tonights-show/",
-      "t": "16h",
+      "t": "18h",
       "dt": "2026-08-13T19:10:30+00:00"
     },
     {
@@ -104,8 +88,24 @@
       "h": "Recent Video Posted By WWE's Bayley Reportedly Seen As 'Eyebrow-Raising' Backstage",
       "p": "Earlier this week, Bayley posed an Instagram video that included footage of Mercedes Moné and other AEW references amid contract status speculation.",
       "link": "https://www.wrestlinginc.com/2236501/wwe-bayley-video-eyebrow-raising-aew/",
-      "t": "17h",
+      "t": "18h",
       "dt": "2026-08-13T18:39:48+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating: Did the start of the Continental Cup tournament increase viewership?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating: Did the start of the Continental Cup tournament increase viewership? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/13/aew-collision-rating-did-the-start-of-the-continental-cup-tournament-increase-viewership/",
+      "t": "19h",
+      "dt": "2026-08-13T18:20:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "TNA Impact rating: Did the numbers improve without AEW Collision as competition?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post TNA Impact rating: Did the numbers improve without AEW Collision as competition? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/13/tna-impact-rating-did-the-numbers-improve-without-aew-collision-as-competition/",
+      "t": "19h",
+      "dt": "2026-08-13T18:00:10+00:00"
     }
   ]
 }

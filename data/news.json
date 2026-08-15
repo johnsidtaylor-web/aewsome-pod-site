@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T03:51:24.832586+00:00",
+  "updated": "2026-08-15T04:44:38.225596+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "WOR: Chris Jericho talks about AEW Grand Slam Mexico, his current run, & VietSlam",
+      "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. Chris Jericho joined the show to talk about AEW Grand...",
+      "link": "https://www.f4wonline.com/podcasts/wor-chris-jericho-talks-about-aew-grand-slam-mexico-his-current-run-vietslam/",
+      "t": "17m",
+      "dt": "2026-08-15T04:26:41+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW Collision Viewership & Ratings Report 8/8/2026",
       "p": "The August 8 episode of \"AEW Collision\" saw a boost in viewership back in its regular timeslot, but stagnated in the 18-49 demographic.",
       "link": "https://www.wrestlinginc.com/2237549/aew-collision-viewership-ratings-august-8-2026/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-14T23:25:08+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Violent J of Insane Clown Posse recalls what AEW asked them to do on Dynamite, why they initially declined, how they ended up appearing on Dynamite with Tony Khan",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Violent J of Insane Clown Posse recalls what AEW asked them to do on Dynamite, why they initially declined, how they ended up appearing on...",
       "link": "https://prowrestling.net/site/2026/08/14/violent-j-of-insane-clown-posse-recalls-what-aew-asked-them-to-do-on-dynamite-why-they-initially-declined-how-they-ended-up-appearing-on-dynamite-with-tony-khan/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-14T22:00:59+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW holding public watch party for upcoming Dynamite",
       "p": "A few days before All In, AEW will be holding a free public watch party for Dynamite in the United Kingdom. The promotion has announced that an “AEW Dynamite Match Day Watch Party” will be held at...",
       "link": "https://www.f4wonline.com/news/aew/aew-holding-public-watch-party-for-upcoming-dynamite/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-14T18:32:37+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "AEW's Jeff Jarrett Identifies WWE Star In Need Of A 'Different Direction'",
       "p": "Hall of Famer and AEW star Jeff Jarrett believes this WWE Superstar is in need of consistency with their character.",
       "link": "https://www.wrestlinginc.com/2237294/aew-wwe-aaa-jeff-jarrett-dominik-mysterio-rey-different-direction/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-14T18:07:29+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Dave Meltzer Explains Why ROH World Title No. 1 Contender Took Pin On AEW Dynamite",
       "p": "Bandido will defend the Men's ROH World Championship at Death Before Dishonor on August 21. His challenger was pinned on \"Dynamite\" this week.",
       "link": "https://www.wrestlinginc.com/2237286/dave-meltzer-nick-wayne-aew-dynamite-roh-world-title-no-1-contender/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-14T17:59:04+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Bryan Alvarez’s ‘Pro Wrestling for Dummies’ book pre-orders open, shipping update",
       "p": "In case you hadn’t heard, Bryan Alvarez has written yet another book on pro wrestling as his mastery of the English language continues to grow while his ability to record the show after AEW...",
       "link": "https://www.f4wonline.com/news/other-wrestling/bryan-alvarez-pro-wrestling-for-dummies-pre-order-shipping-date/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-08-14T17:41:38+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Eddie Kingston to miss Friday indie event in Canada",
       "p": "Eddie Kingston won’t be making his scheduled indie appearance in Canada tonight (August 14). The AEW star was supposed to compete at Fighting Back 2026, a charity event that’s being held to...",
       "link": "https://www.f4wonline.com/news/aew/eddie-kingston-to-miss-friday-indie-event-in-canada/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-08-14T17:01:35+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW X CMLL Semana Internacional results: Vetter’s review of Kyle Fletcher vs. Mascara Dorada, Kevin Knight vs. Titan for the TNT Title, Bandido vs. Barbaro Cavernario",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post AEW X CMLL Semana Internacional results: Vetter’s review of Kyle Fletcher vs. Mascara Dorada, Kevin Knight vs. Titan for the TNT Title,...",
       "link": "https://prowrestling.net/site/2026/08/14/aew-x-cmll-semana-internacional-results-vetters-review-of-kyle-fletcher-vs-mascara-dorada-kevin-knight-vs-titan-for-the-tnt-title-bandido-vs-barbaro-cavernario/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-08-14T16:58:25+00:00"
     },
     {
@@ -98,14 +106,6 @@
       "link": "https://www.postwrestling.com/2026/08/14/xelina-added-to-house-of-glorys-fallout-event-in-los-angeles/",
       "t": "11h",
       "dt": "2026-08-14T16:49:31+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub results (8/13): Global Wars Mexico with Kevin Knight vs. Titan for the TNT Title, Lio Rush vs. El Clon for the ROH TV Title, Komander vs. Soberano Jr.",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (8/13): Global Wars Mexico with Kevin Knight vs. Titan for the TNT Title, Lio Rush vs. El Clon for the ROH TV Title,...",
-      "link": "https://prowrestling.net/site/2026/08/14/roh-on-honorclub-results-8-13-global-wars-mexico-with-kevin-knight-vs-titan-for-the-tnt-title-lio-rush-vs-el-clon-for-the-roh-tv-title-komander-vs-soberano-jr/",
-      "t": "13h",
-      "dt": "2026-08-14T14:46:25+00:00"
     }
   ]
 }

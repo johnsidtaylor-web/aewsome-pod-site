@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-15T12:56:44.289213+00:00",
+  "updated": "2026-08-15T13:41:41.643496+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
+      "h": "Darby Allin Says He Took Thumbtacks To Face Spot On No Sleep: My Honeymoon Was Spent Face Down In The Thumbtacks",
+      "p": "Darby Allin reflects on taking thumbtacks to the face in a recent spot at AEW x NJPW Forbidden Door, hours after his wedding. At AEW x NJPW Forbidden Door 2026, a multi man tag match would take...",
+      "link": "https://www.fightful.com/wrestling-news/darby-allin-says-he-took-thumbtacks-to-face-spot-on-no-sleep-my-honeymoon-was-spent-face-down-in-the-thumbtacks/",
+      "t": "18m",
+      "dt": "2026-08-15T13:23:02+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Chris Jericho reveals why he chose AEW over WWE | Exclusive",
+      "p": "Chris Jericho says the deciding factor in his decision to remain with AEW was that he has “skin in the game” in the promotion. Jericho was a guest on Wrestling Observer Radio with Dave Meltzer and...",
+      "link": "https://www.f4wonline.com/news/aew/chris-jericho-reveals-why-he-chose-aew-over-wwe-exclusive/",
+      "t": "18m",
+      "dt": "2026-08-15T13:22:56+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "AEW Dynamite (8/12) Viewership Drops, Finishes Second On Cable",
       "p": "AEW Dynamite viewership and ratings information for the August 5 episode. The Wrestling Observer reports that AEW Dynamite on August 12 drew 658,000 viewers on TBS. This number is down from the...",
       "link": "https://www.fightful.com/wrestling-news/aew-dynamite-8-12-viewership-drops-finishes-second-on-cable/",
-      "t": "18m",
+      "t": "1h",
       "dt": "2026-08-15T12:38:35+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW Collision Preview, Start Time, How To Watch, Location (8/15)",
       "p": "Viewing information and lineup for AEW Collision on August 15, 2026 AEW Collision (August 15, 2026) Venue: Pearl Theater At Palms Casino Resort City: Las Vegas, NV Time: 8 pm ET Channel: TNT, HBO...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-8-15/",
-      "t": "56m",
+      "t": "1h",
       "dt": "2026-08-15T12:00:00+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW Collision lineup: Three Continental Cup tournament matches and more on tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Three Continental Cup tournament matches and more on tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/15/aew-collision-lineup-three-continental-cup-tournament-matches-and-more-on-tonights-show/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-15T11:00:58+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "WOR: Chris Jericho talks about AEW Grand Slam Mexico, his current run, & VietSlam",
       "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. Chris Jericho joined the show to talk about AEW Grand...",
       "link": "https://www.f4wonline.com/podcasts/wor-chris-jericho-talks-about-aew-grand-slam-mexico-his-current-run-vietslam/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-15T04:26:41+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW Collision Viewership & Ratings Report 8/8/2026",
       "p": "The August 8 episode of \"AEW Collision\" saw a boost in viewership back in its regular timeslot, but stagnated in the 18-49 demographic.",
       "link": "https://www.wrestlinginc.com/2237549/aew-collision-viewership-ratings-august-8-2026/",
-      "t": "13h",
+      "t": "14h",
       "dt": "2026-08-14T23:25:08+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Violent J of Insane Clown Posse recalls what AEW asked them to do on Dynamite, why they initially declined, how they ended up appearing on Dynamite with Tony Khan",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Violent J of Insane Clown Posse recalls what AEW asked them to do on Dynamite, why they initially declined, how they ended up appearing on...",
       "link": "https://prowrestling.net/site/2026/08/14/violent-j-of-insane-clown-posse-recalls-what-aew-asked-them-to-do-on-dynamite-why-they-initially-declined-how-they-ended-up-appearing-on-dynamite-with-tony-khan/",
-      "t": "14h",
+      "t": "15h",
       "dt": "2026-08-14T22:00:59+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW holding public watch party for upcoming Dynamite",
       "p": "A few days before All In, AEW will be holding a free public watch party for Dynamite in the United Kingdom. The promotion has announced that an “AEW Dynamite Match Day Watch Party” will be held at...",
       "link": "https://www.f4wonline.com/news/aew/aew-holding-public-watch-party-for-upcoming-dynamite/",
-      "t": "18h",
+      "t": "19h",
       "dt": "2026-08-14T18:32:37+00:00"
     },
     {
@@ -72,24 +88,8 @@
       "h": "AEW's Jeff Jarrett Identifies WWE Star In Need Of A 'Different Direction'",
       "p": "Hall of Famer and AEW star Jeff Jarrett believes this WWE Superstar is in need of consistency with their character.",
       "link": "https://www.wrestlinginc.com/2237294/aew-wwe-aaa-jeff-jarrett-dominik-mysterio-rey-different-direction/",
-      "t": "18h",
-      "dt": "2026-08-14T18:07:29+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Explains Why ROH World Title No. 1 Contender Took Pin On AEW Dynamite",
-      "p": "Bandido will defend the Men's ROH World Championship at Death Before Dishonor on August 21. His challenger was pinned on \"Dynamite\" this week.",
-      "link": "https://www.wrestlinginc.com/2237286/dave-meltzer-nick-wayne-aew-dynamite-roh-world-title-no-1-contender/",
-      "t": "18h",
-      "dt": "2026-08-14T17:59:04+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Mick Foley Discusses Comparisons With Darby Allin",
-      "p": "Mick Foley opens up about the similarities he's noticed between himself and former AEW World Champion Darby Allin.",
-      "link": "https://www.wrestlinginc.com/2237278/aew-mick-foley-darby-allin-discusses-comparisons/",
       "t": "19h",
-      "dt": "2026-08-14T17:51:07+00:00"
+      "dt": "2026-08-14T18:07:29+00:00"
     },
     {
       "src": "Wrestling Observer",
@@ -104,7 +104,7 @@
       "h": "Eddie Kingston to miss Friday indie event in Canada",
       "p": "Eddie Kingston won’t be making his scheduled indie appearance in Canada tonight (August 14). The AEW star was supposed to compete at Fighting Back 2026, a charity event that’s being held to...",
       "link": "https://www.f4wonline.com/news/aew/eddie-kingston-to-miss-friday-indie-event-in-canada/",
-      "t": "19h",
+      "t": "20h",
       "dt": "2026-08-14T17:01:35+00:00"
     }
   ]

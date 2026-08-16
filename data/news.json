@@ -1,22 +1,46 @@
 {
-  "updated": "2026-08-16T03:11:12.879305+00:00",
+  "updated": "2026-08-16T03:57:33.521112+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
-    "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "PWTorch": "ok (5 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "AEW COLLISION RESULTS (8/15): Strong vs. O’Reilly, Nigel vs. Shibata, and Brian Cage vs. Hechicero in tournament matches, Mercedes vs. Zayda Steele, Brodido & Hangman in action, and more",
+      "p": "AEW COLLISION REPORT AUGUST 15, 2026 (recorded 8/12) LAS VEGAS, NEV. AT PEARL THEATER AT THE PALMS AIRED ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone &...",
+      "link": "https://www.pwtorch.com/site/2026/08/15/aew-collision-results-8-15-strong-vs-oreilly-nigel-vs-shibata-and-brian-cage-vs-hechicero-in-tournament-matches-mercedes-vs-zayda-steele-brodido-hangman-in-action-and-more/",
+      "t": "24m",
+      "dt": "2026-08-16T03:33:08+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Two wrestlers declare for AEW All In Casino Gauntlet match",
+      "p": "Two wrestlers have thrown their hat into the upcoming Casino Gauntlet match at All In. In a promo that aired on Saturday, Tommaso Ciampa said that this year’s Casino Gauntlet match was the biggest...",
+      "link": "https://www.f4wonline.com/news/aew/two-wrestlers-declare-for-aew-all-in-casino-gauntlet-match/",
+      "t": "37m",
+      "dt": "2026-08-16T03:20:17+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jim Ross shares first post-surgery photo",
+      "p": "AEW announcer and WWE Hall of Famer Jim Ross is now successfully done with the surgery. Ross was scheduled to undergo a brain shunt surgery and is now done with it. On Saturday, August, Ross...",
+      "link": "https://www.f4wonline.com/news/aew/jim-ross-shares-first-post-surgery-photo/",
+      "t": "43m",
+      "dt": "2026-08-16T03:13:38+00:00"
+    },
+    {
       "src": "POST Wrestling",
       "h": "AEW Collision 8/15 Results: Continental Challenge Cup quarterfinalists set, Trios champions retain, McGuinness injury doubt",
-      "p": "The first round of the Continental Challenge Cup concluded on Saturday’s AEW Collision, with Hechicero, Nigel McGuinness and Kyle O’Reilly advancing. Hangman Page, Brody King The post AEW...",
+      "p": "The first round of the Continental Challenge Cup concluded on Saturday’s AEW Collision, with Hechicero, Nigel McGuinness and Kyle O’Reilly advancing. The post AEW Collision 8/15 Results:...",
       "link": "https://www.postwrestling.com/2026/08/15/aew-collision-8-15-results-continental-challenge-cup-quarterfinalists-set-trios-champions-retain-mcguinness-injury-doubt/",
-      "t": "4m",
+      "t": "51m",
       "dt": "2026-08-16T03:06:30+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Two trios matches, Will Ospreay/Kenny Omega sitdown interview set for AEW Dynamite",
       "p": "Both Will Ospreay and Kenny Omega will be in action this Wednesday on Dynamite. During this week’s Collision, it was announced that Will Ospreay will need to find two partners to take on the Don...",
       "link": "https://www.f4wonline.com/news/aew/two-trios-matches-will-ospreay-kenny-omega-sitdown-interview-set-for-aew-dynamite/",
-      "t": "18m",
+      "t": "1h",
       "dt": "2026-08-16T02:52:11+00:00"
     },
     {
@@ -32,47 +56,23 @@
       "h": "Tommaso Ciampa And Komander Declare For AEW All In Casino Gauntlet Match",
       "p": "Tommaso Ciampa and Komander will be a part of the Casino Gauntlet match at AEW All In. On this week’s AEW Collision, a video package featuring Tommaso Ciampa was aired. Ciampa declared himself as...",
       "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-declares-for-aew-all-in-casino-gauntlet-match/",
-      "t": "21m",
+      "t": "1h",
       "dt": "2026-08-16T02:49:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Nigel McGuinness Suffers Injury On AEW Collision, More Information To Be Provided During Continental Challenge Cup Quarterfinal Selection Special On Monday",
-      "p": "Nigel McGuinness suffered an injury on this week’s AEW Collision. On the August 15 edition of AEW Collision, Nigel McGuinness faced Katsuyori Shibata in a first-round matchup in the Continental...",
-      "link": "https://www.fightful.com/wrestling-news/nigel-mcguinness-suffers-injury-on-aew-collision-more-information-to-be-provided-during-continental-challenge-cup-quarterfinal-selection-special-on-monday/",
-      "t": "31m",
-      "dt": "2026-08-16T02:39:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kenny Omega & Will Ospreay Sitdown Interview, Two Trios Matches Added To 8/19 AEW Dynamite",
-      "p": "Kenny Omega and Will Ospreay’s sitdown interview, along with more matches, have been added to the upcoming AEW Dynamite in Baltimore on August 19. Will Ospreay will team up with Francesco Akira...",
-      "link": "https://www.fightful.com/wrestling-news/kenny-omega-will-ospreay-sitdown-interview-two-trios-matches-added-to-8-19-aew-dynamite/",
-      "t": "46m",
-      "dt": "2026-08-16T02:24:21+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Three wrestlers advance in AEW Continental Challenge Cup, Nigel McGuiness injured",
       "p": "Three more wrestlers have advanced in the AEW Continental Challenge Cup. Kyle O’Reilly defeated Roderick Strong in the main event of this week’s Collision to advance to the next round of the...",
       "link": "https://www.f4wonline.com/news/aew/three-wrestlers-advance-in-aew-continental-challenge-cup-nigel-mcguiness-injured/",
-      "t": "52m",
-      "dt": "2026-08-16T02:18:45+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Hechicero, Nigel McGuinness And Kyle O’Reilly Advance In Continental Challenge Cup On 8/15 AEW Collision",
-      "p": "Hechicero, Nigel McGuinness and Kyle O’Reilly have advanced in the Continental Challenge Cup. The Continental Challenge Cup continued on this week’s AEW Collision. Three first-round matches took...",
-      "link": "https://www.fightful.com/wrestling-news/hechicero-nigel-mcguinness-and-kyle-oreilly-advance-in-continental-challenge-cup-on-8-15-aew-collision/",
       "t": "1h",
-      "dt": "2026-08-16T02:10:11+00:00"
+      "dt": "2026-08-16T02:18:45+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW Collision 8/15/26 Review | COLLISION COURSE (Live 10:15pm ET)",
       "p": "TONIGHT 10:15PM ET — Kate from Montreal & Ray Williams review this week’s AEW Collision, featuring C3 First Round matches, a Trios Title defence, and Mercedes Moné in action. The post AEW...",
       "link": "https://www.postwrestling.com/2026/08/15/aew-collision-8-15-26-review-collision-course-live-1015pm-et/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-16T00:15:55+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "AEW Collision live results: Continental Challenge Cup continues",
       "p": "AEW Collision airs tonight on TNT and HBO Max. The show was taped last Wednesday at the Pearl Theater at the Palms Casino Resort in Las Vegas. Six matches are advertised for the show, including...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-continental-challenge-cup-continues/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-15T23:15:00+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "AEW's Kyle Fletcher Identifies Lofty Goal That Has Driven His Career",
       "p": "AEW International Champion Kyle Fletcher identifies the lofty goal that he says has driven his career, even while admitting its a goal he may never reach",
       "link": "https://www.wrestlinginc.com/2234011/aew-kyle-fletcher-north-star-lofty-goal-driven-career/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-15T18:30:00+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW's Jeff Jarrett Names Iconic Wrestling Venue On His Bucket List",
       "p": "Jeff Jarrett has wrestled in many historic venues, except for one.",
       "link": "https://www.wrestlinginc.com/2234147/aew-cmll-jeff-jarrett-arena-mexico-iconic-venue-bucket-list/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-15T17:30:00+00:00"
     }
   ]

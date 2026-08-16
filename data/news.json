@@ -1,16 +1,24 @@
 {
-  "updated": "2026-08-16T18:44:43.283334+00:00",
-  "count": 12,
+  "updated": "2026-08-16T19:30:52.017750+00:00",
+  "count": 11,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (5 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (1 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Zayda Steel Reflects On ‘Ultimate Dream Match’ With Mercedes Moné",
+      "p": "Zayda Steel got her dream match. The August 15th edition of AEW Collision featured a singles match between Zayda Steel and Mercedes Moné. Moné picked up the win over Steel, and after the match...",
+      "link": "https://www.fightful.com/wrestling-news/zayda-steel-reflects-on-ultimate-dream-match-with-mercedes-mone/",
+      "t": "23m",
+      "dt": "2026-08-16T19:07:25+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "AEW’s Julia Hart cuts backstage promo following last match in Stardom 5 Star Grand Prix",
@@ -18,14 +26,6 @@
       "link": "https://www.f4wonline.com/news/aew/aews-julia-hart-cuts-backstage-promo-following-last-match-in-stardom-5-star-grand-prix/",
       "t": "3h",
       "dt": "2026-08-16T15:40:09+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "08/16 Pruett’s AEW Collision audio review: Katsuyori Shibata vs. Nigel McGuinness, Kyle O’Reilly vs. Roderick Strong, and Brian Cage vs. Hechicero in Continental Cup tournament matches",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 08/16 Pruett’s AEW Collision audio review: Katsuyori Shibata vs. Nigel McGuinness, Kyle O’Reilly vs. Roderick Strong, and Brian Cage vs....",
-      "link": "https://prowrestling.net/site/2026/08/16/08-16-pruetts-aew-collision-audio-review-katsuyori-shibata-vs-nigel-mcguinness-kyle-oreilly-vs-roderick-strong-and-brian-cage-vs-hechicero-in-continental-cup-tournament-matches/",
-      "t": "3h",
-      "dt": "2026-08-16T15:21:49+00:00"
     },
     {
       "src": "PWTorch",
@@ -40,7 +40,7 @@
       "h": "Two wrestlers declare for AEW All In Casino Gauntlet match",
       "p": "Two wrestlers have thrown their hat into the upcoming Casino Gauntlet match at All In. In a promo that aired on Saturday, Tommaso Ciampa said that this year’s Casino Gauntlet match was the biggest...",
       "link": "https://www.f4wonline.com/news/aew/two-wrestlers-declare-for-aew-all-in-casino-gauntlet-match/",
-      "t": "15h",
+      "t": "16h",
       "dt": "2026-08-16T03:20:17+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "Jim Ross shares first post-surgery photo",
       "p": "AEW announcer and WWE Hall of Famer Jim Ross is now successfully done with the surgery. Ross was scheduled to undergo a brain shunt surgery and is now done with it. On Saturday, August, Ross...",
       "link": "https://www.f4wonline.com/news/aew/jim-ross-shares-first-post-surgery-photo/",
-      "t": "15h",
+      "t": "16h",
       "dt": "2026-08-16T03:13:38+00:00"
     },
     {
@@ -56,7 +56,7 @@
       "h": "AEW Collision 8/15 Results: Continental Challenge Cup quarterfinalists set, Trios champions retain, McGuinness injury doubt",
       "p": "The first round of the Continental Challenge Cup concluded on Saturday’s AEW Collision, with Hechicero, Nigel McGuinness and Kyle O’Reilly advancing. The post AEW Collision 8/15 Results:...",
       "link": "https://www.postwrestling.com/2026/08/15/aew-collision-8-15-results-continental-challenge-cup-quarterfinalists-set-trios-champions-retain-mcguinness-injury-doubt/",
-      "t": "15h",
+      "t": "16h",
       "dt": "2026-08-16T03:06:30+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "Two trios matches, Will Ospreay/Kenny Omega sitdown interview set for AEW Dynamite",
       "p": "Both Will Ospreay and Kenny Omega will be in action this Wednesday on Dynamite. During this week’s Collision, it was announced that Will Ospreay will need to find two partners to take on the Don...",
       "link": "https://www.f4wonline.com/news/aew/two-trios-matches-will-ospreay-kenny-omega-sitdown-interview-set-for-aew-dynamite/",
-      "t": "15h",
+      "t": "16h",
       "dt": "2026-08-16T02:52:11+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Three wrestlers advance in AEW Continental Challenge Cup, Nigel McGuinness injured",
       "p": "Three more wrestlers have advanced in the AEW Continental Challenge Cup. Kyle O’Reilly defeated Roderick Strong in the main event of this week’s Collision to advance to the next round of the...",
       "link": "https://www.f4wonline.com/news/aew/three-wrestlers-advance-in-aew-continental-challenge-cup-nigel-mcguiness-injured/",
-      "t": "16h",
+      "t": "17h",
       "dt": "2026-08-16T02:18:45+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "AEW Collision 8/15/26 Review | COLLISION COURSE",
       "p": "Kate from Montreal & Ray Williams review this week’s AEW Collision, featuring C3 First Round matches, a Trios Title defence, and Mercedes Moné in action. The post AEW Collision 8/15/26 Review |...",
       "link": "https://www.postwrestling.com/2026/08/15/aew-collision-8-15-26-review-collision-course-live-1015pm-et/",
-      "t": "16h",
+      "t": "17h",
       "dt": "2026-08-16T02:15:55+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "AEW Collision live results: Continental Challenge Cup continues",
       "p": "AEW Collision airs tonight on TNT and HBO Max. The show was taped last Wednesday at the Pearl Theater at the Palms Casino Resort in Las Vegas. Six matches are advertised for the show, including...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-continental-challenge-cup-continues/",
-      "t": "19h",
+      "t": "20h",
       "dt": "2026-08-15T23:15:00+00:00"
     },
     {
@@ -96,16 +96,8 @@
       "h": "AEW Collision Results 8/15 - Three Continental Cup Matches, Trios Titles On The Line",
       "p": "The remaining first round matches of the Continental Challenge Cup matches take place on \"AEW Collision\". Hangman and BRODIDO defend their new Trios titles.",
       "link": "https://www.wrestlinginc.com/2237719/aew-collision-august-15-2026-results/",
-      "t": "19h",
+      "t": "20h",
       "dt": "2026-08-15T22:59:34+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Three Continental Cup tournament matches and more on tonight’s show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Three Continental Cup tournament matches and more on tonight’s show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/15/aew-collision-lineup-three-continental-cup-tournament-matches-and-more-on-tonights-show/",
-      "t": "1d",
-      "dt": "2026-08-15T11:00:58+00:00"
     }
   ]
 }

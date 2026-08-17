@@ -1,22 +1,30 @@
 {
-  "updated": "2026-08-17T19:39:09.455095+00:00",
+  "updated": "2026-08-17T20:41:04.720774+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (4 AEW items)",
-    "PWTorch": "ok (5 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "PWTorch": "ok (6 AEW items)",
+    "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "20 YRS AGO – ROH Live Event Report (8-12-2006): Bryan Danielson vs. Nigel McGuiness in Title Unification match, Briscoes challenge Aries & Strong for ROH Tag Titles, plus Colt, Sydal, Claudio",
+      "p": "ROH LIVE EVENT REPORT August 12, 2006 Liverpool, England at the Olympia Report by Matt Hunter, PWTorch VIP subscriber Show started 15 minutes late due to late ticket sales (1) Matt Sydal defeated...",
+      "link": "https://www.pwtorch.com/site/2026/08/17/20-yrs-ago-roh-live-event-report-8-12-2006-bryan-danielson-vs-nigel-mcguiness-in-title-unification-match-briscoes-challenge-aries-strong-for-roh-tag-titles-plus-colt-sydal-claudio/",
+      "t": "1h",
+      "dt": "2026-08-17T19:40:36+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Darby Allin Loves When AEW & WWE Go Head-To-Head: 'That's When You Do Your Best Work'",
       "p": "Darby Allin shares that he enjoys when WWE and AEW face-off in direct competition with each other.",
       "link": "https://www.wrestlinginc.com/2238573/aew-wwe-darby-allin-loves-best-work-counter-programming/",
-      "t": "17m",
+      "t": "1h",
       "dt": "2026-08-17T19:21:42+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW's Chris Jericho Explains Biggest Difference Between Modern Wrestling & Older Eras",
       "p": "Former WWE star Chris Jericho remembers how much competition there was at the top during the Attitude Era.",
       "link": "https://www.wrestlinginc.com/2238528/aew-chris-jericho-biggest-difference-modern-older-eras/",
-      "t": "56m",
+      "t": "1h",
       "dt": "2026-08-17T18:42:41+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "FREE PODCAST 8/17 – PWTorch Dailycast – Worse or Better (Up Up Down Down): Josh and Adam look at the top and middle of the roster in WWE and AEW to consider who should be moved up or down card (125 min.)",
       "p": "SHOW SUMMARY: In this PWTorch Dailycast series titled “Worse or Better,” Josh White and Stephanie Chase discuss one aspect of today’s pro wrestling scene and compare it to a previous era or eras...",
       "link": "https://www.pwtorch.com/site/2026/08/17/free-podcast-8-17-pwtorch-dailycast-worse-or-better-up-up-down-down-josh-and-adam-look-at-the-top-and-middle-of-the-roster-in-wwe-and-aew-to-consider-who-should-be-moved-up-or-d/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-17T18:35:35+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Speedball Mike Bailey: What Is Honestly Disgusting About MJF Is How Good He Is With The Timing Of His Bullshit",
       "p": "Speedball Mike Bailey reflects on losing to MJF in a triple threat match on this past week’s edition of AEW Dynamite. On the August 12th edition of AEW Dynamite, MJF, Speedball and Nick Wayne...",
       "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-what-is-honestly-disgusting-about-mjf-is-how-good-he-is-with-the-timing-of-his-bullshit/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-17T17:46:19+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Create A Pro Wrestling “CAPCon” results: Vetter’s review of Bobby Orlando vs. Leo Sparrow in a Tables, Lettuce, and Chairs match for the CAP Title, plus MJF, Steve Corino, Tony Atlas, Headbangers, Rhino",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post Create A Pro Wrestling “CAPCon” results: Vetter’s review of Bobby Orlando vs. Leo Sparrow in a Tables, Lettuce, and Chairs match for the...",
       "link": "https://prowrestling.net/site/2026/08/17/create-a-pro-wrestling-capcon-results-vetters-review-of-bobby-orlando-vs-leo-sparrow-in-a-tables-lettuce-and-chairs-match-for-the-cap-title-plus-mjf-steve-corino-tony-atlas-headbangers/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-17T17:45:10+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW COLLISION HITS & MISSES (8/15/26): Continental Challenge Cup delivers, Jack Perry makes his case to Swerve Strickland, Mercedes Moné’s heel work, more",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS CONTINENTAL...",
       "link": "https://www.pwtorch.com/site/2026/08/17/aew-collision-hits-misses-8-15-26-continental-challenge-cup-delivers-jack-perry-makes-his-case-to-swerve-strickland-mercedes-mones-heel-work-more/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-17T17:14:16+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Backstage Report On Injury Suffered By Nigel McGuinness On AEW Collision",
       "p": "A backstage report on the injury suffered by Nigel McGuinness on AEW Collision suggests McGuiness will have to pull out of the Continental Cup tournament",
       "link": "https://www.wrestlinginc.com/2238429/aew-collision-nigel-mcguinness-injury-backstage-report/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-17T17:08:10+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW Dynamite rating: How did the show perform with the main event of Jon Moxley vs. Jack Perry in a Continental Cup tournament match?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating: How did the show perform with the main event of Jon Moxley vs. Jack Perry in a Continental Cup tournament match? appeared...",
       "link": "https://prowrestling.net/site/2026/08/17/aew-dynamite-rating-how-did-the-show-perform-with-the-main-event-of-jon-moxley-vs-jack-perry-in-a-continental-cup-tournament-match/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-17T16:02:44+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW Star Switchblade Jay White & His Wife Expecting Their First Child",
       "p": "AEW star \"Switchblade\" Jay White will be embarking on a new journey away from the ring as he and his wife are expecting their first child.",
       "link": "https://www.wrestlinginc.com/2238291/aew-switchblade-jay-white-child-wife-first-expecting/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-17T15:44:44+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "Former WWE Champion Cody Rhodes Does The Ice Bucket Challenge For AEW's Rebel",
       "p": "Former Undisputed WWE Champion Cody Rhodes becomes the latest wrestler to do the Ice Bucket Challenge to help AEW's Rebel in her fight against ALS",
       "link": "https://www.wrestlinginc.com/2238284/former-wwe-champion-cody-rhodes-ice-bucket-challenge-aew-rebel/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-17T15:40:51+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "AEW Dynamite preview: The penultimate episode before All In London",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The penultimate episode before All In London appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/17/aew-dynamite-preview-the-penultimate-episode-before-all-in-london/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-17T13:15:52+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW performer ‘blamed’ for Shingo Takagi’s bad G1 this year",
-      "p": "Shingo Takagi has called out an AEW performer, blaming them for his poor showing in this year’s G1 Climax tournament. Takagi and he and Drilla Moloney lost to PAC and Castagnoli on the 7/2 episode...",
-      "link": "https://www.f4wonline.com/news/aew/shingo-takagi-claudio-castagnoli-destruction-kobe-njpw/",
-      "t": "8h",
-      "dt": "2026-08-17T11:03:48+00:00"
     }
   ]
 }

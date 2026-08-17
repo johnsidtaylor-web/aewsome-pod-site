@@ -1,22 +1,30 @@
 {
-  "updated": "2026-08-16T23:32:46.060834+00:00",
+  "updated": "2026-08-17T01:52:55.627446+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
-    "PWTorch": "ok (4 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "PWTorch": "ok (3 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (0 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "NWA Podcast: The Bridge Is Oba | August 2026",
+      "p": "On this month's NWA Podcast: the Advocates debate whether Oba Femi is the bridge to WWE's next boom period. Plus, AEW All In predictions, and Nate's thoughts on his live Raw experience. The post...",
+      "link": "https://www.postwrestling.com/2026/08/16/nwa-podcast-the-bridge-is-oba-august-2026/",
+      "t": "1h",
+      "dt": "2026-08-17T00:30:09+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Cody Rhodes participates in ALS Ice Bucket Challenge",
       "p": "Cody Rhodes is the latest to support Rebel. The former WWE Champion posted his own video on social media Sunday in support of former AEW wrestler Rebel, who is battling ALS. He nominated Brodie...",
       "link": "https://www.f4wonline.com/news/wwe/cody-rhodes-participates-in-als-ice-bucket-challenge/",
-      "t": "36m",
+      "t": "2h",
       "dt": "2026-08-16T22:56:03+00:00"
     },
     {
@@ -24,23 +32,15 @@
       "h": "For subscribers: Dave Meltzer on the 8/12 AEW Dynamite ratings",
       "p": "Dave Meltzer currently has a premium article up on the site for subscribers, looking at the 8/12 AEW Dynamite ratings.",
       "link": "https://www.f4wonline.com/news/aew/for-subscribers-dave-meltzer-on-the-8-12-aew-dynamite-ratings/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-16T20:10:36+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Jay White And Savanna Rae White Expecting Their First Child Together",
-      "p": "“The Switchblade” Jay White is going to become a father. Jay White returned to All Elite Wrestling this year during the Forbidden Door pay-per-view after suffering a hand injury. He later made his...",
-      "link": "https://www.fightful.com/wrestling-news/jay-white-and-savanna-rae-white-expecting-their-first-child-together/",
-      "t": "3h",
-      "dt": "2026-08-16T20:06:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW’s Julia Hart cuts backstage promo following last match in Stardom 5 Star Grand Prix",
       "p": "Julia Hart’s 5 Star Grand Prix has concluded. Hart finished with eight points in the Blue Stars A Block and will not advance to the knockout stage. She dropped her final match in the tournament to...",
       "link": "https://www.f4wonline.com/news/aew/aews-julia-hart-cuts-backstage-promo-following-last-match-in-stardom-5-star-grand-prix/",
-      "t": "7h",
+      "t": "10h",
       "dt": "2026-08-16T15:40:09+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "08/16 Pruett’s AEW Collision audio review: Katsuyori Shibata vs. Nigel McGuinness, Kyle O’Reilly vs. Roderick Strong, and Brian Cage vs. Hechicero in Continental Cup tournament matches",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 08/16 Pruett’s AEW Collision audio review: Katsuyori Shibata vs. Nigel McGuinness, Kyle O’Reilly vs. Roderick Strong, and Brian Cage vs....",
       "link": "https://prowrestling.net/site/2026/08/16/08-16-pruetts-aew-collision-audio-review-katsuyori-shibata-vs-nigel-mcguinness-kyle-oreilly-vs-roderick-strong-and-brian-cage-vs-hechicero-in-continental-cup-tournament-matches/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-16T15:21:49+00:00"
     },
     {
@@ -56,7 +56,7 @@
       "h": "AEW COLLISION RESULTS (8/15): Strong vs. O’Reilly, Nigel vs. Shibata, and Brian Cage vs. Hechicero in tournament matches, Mercedes vs. Zayda Steele, Brodido & Hangman in action, and more",
       "p": "AEW COLLISION REPORT AUGUST 15, 2026 (recorded 8/12) LAS VEGAS, NEV. AT PEARL THEATER AT THE PALMS AIRED ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone &...",
       "link": "https://www.pwtorch.com/site/2026/08/15/aew-collision-results-8-15-strong-vs-oreilly-nigel-vs-shibata-and-brian-cage-vs-hechicero-in-tournament-matches-mercedes-vs-zayda-steele-brodido-hangman-in-action-and-more/",
-      "t": "19h",
+      "t": "22h",
       "dt": "2026-08-16T03:33:08+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "Two wrestlers declare for AEW All In Casino Gauntlet match",
       "p": "Two wrestlers have thrown their hat into the upcoming Casino Gauntlet match at All In. In a promo that aired on Saturday, Tommaso Ciampa said that this year’s Casino Gauntlet match was the biggest...",
       "link": "https://www.f4wonline.com/news/aew/two-wrestlers-declare-for-aew-all-in-casino-gauntlet-match/",
-      "t": "20h",
+      "t": "22h",
       "dt": "2026-08-16T03:20:17+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Jim Ross shares first post-surgery photo",
       "p": "AEW announcer and WWE Hall of Famer Jim Ross is now successfully done with the surgery. Ross was scheduled to undergo a brain shunt surgery and is now done with it. On Saturday, August, Ross...",
       "link": "https://www.f4wonline.com/news/aew/jim-ross-shares-first-post-surgery-photo/",
-      "t": "20h",
+      "t": "22h",
       "dt": "2026-08-16T03:13:38+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "AEW Collision 8/15 Results: Continental Challenge Cup quarterfinalists set, Trios champions retain, McGuinness injury doubt",
       "p": "The first round of the Continental Challenge Cup concluded on Saturday’s AEW Collision, with Hechicero, Nigel McGuinness and Kyle O’Reilly advancing. The post AEW Collision 8/15 Results:...",
       "link": "https://www.postwrestling.com/2026/08/15/aew-collision-8-15-results-continental-challenge-cup-quarterfinalists-set-trios-champions-retain-mcguinness-injury-doubt/",
-      "t": "20h",
+      "t": "22h",
       "dt": "2026-08-16T03:06:30+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "Two trios matches, Will Ospreay/Kenny Omega sitdown interview set for AEW Dynamite",
       "p": "Both Will Ospreay and Kenny Omega will be in action this Wednesday on Dynamite. During this week’s Collision, it was announced that Will Ospreay will need to find two partners to take on the Don...",
       "link": "https://www.f4wonline.com/news/aew/two-trios-matches-will-ospreay-kenny-omega-sitdown-interview-set-for-aew-dynamite/",
-      "t": "20h",
+      "t": "23h",
       "dt": "2026-08-16T02:52:11+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "AEW Collision 8/15/26 Review | COLLISION COURSE",
       "p": "Kate from Montreal & Ray Williams review this week’s AEW Collision, featuring C3 First Round matches, a Trios Title defence, and Mercedes Moné in action. The post AEW Collision 8/15/26 Review |...",
       "link": "https://www.postwrestling.com/2026/08/15/aew-collision-8-15-26-review-collision-course-live-1015pm-et/",
-      "t": "21h",
+      "t": "23h",
       "dt": "2026-08-16T02:15:55+00:00"
     },
     {

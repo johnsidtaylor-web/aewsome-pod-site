@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-18T19:37:58.747123+00:00",
+  "updated": "2026-08-18T20:37:53.860521+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW announces new addition to Dynamite lineup",
+      "p": "Renee Paquette will have a busy night on Dynamite this week as AEW continues building toward All In 2026. It was already announced that Paquette would have a sit-down interview with AEW World...",
+      "link": "https://www.f4wonline.com/news/aew/aew-announces-new-addition-to-dynamite-lineup/",
+      "t": "40m",
+      "dt": "2026-08-18T19:56:51+00:00"
+    },
+    {
       "src": "POST Wrestling",
       "h": "Willow Nightingale, Mercedes Mone interview segment added to 8/19 AEW Dynamite",
       "p": "A Willow Nightingale and Mercedes Mone interview segment with Renee Paquette was added to the Aug. 19 AEW Dynamite in Baltimore. The post Willow Nightingale, Mercedes Mone interview segment added...",
       "link": "https://www.postwrestling.com/2026/08/18/willow-nightingale-mercedes-mone-interview-segment-added-to-8-19-aew-dynamite/",
-      "t": "8m",
+      "t": "1h",
       "dt": "2026-08-18T19:29:43+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Mercedes Mone And Willow Nightingale Segment Added To 8/19 AEW Dynamite",
       "p": "Mercedes Mone and Willow Nightingale will be present on the August 19 episode of AEW Dynamite. All Elite Wrestling announced that the Women’s Champion and her opponent at All In will speak with...",
       "link": "https://www.fightful.com/wrestling-news/mercedes-mone-and-willow-nightingale-segment-added-to-8-19-aew-dynamite/",
-      "t": "32m",
+      "t": "1h",
       "dt": "2026-08-18T19:05:03+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW's Chris Jericho Credits Lucha Libre For Teaching Him Wrestling Psychology",
       "p": "Following his match at AEW Grand Slam: Mexico, Chris Jericho credited his time wrestling in Mexico for helping learn psychology.",
       "link": "https://www.wrestlinginc.com/2239414/aew-chris-jericho-lucha-libre-teaching-pyschology/",
-      "t": "43m",
+      "t": "1h",
       "dt": "2026-08-18T18:54:11+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Mistico reveals his goal for ‘conquering’ AEW | Exclusive",
       "p": "Mistico has big ambitions for his time in AEW. Already the top star for CMLL in Mexico, Mistico signed a dual contract with AEW earlier in 2026. He recently spoke with our Dave Meltzer and...",
       "link": "https://www.f4wonline.com/news/aew/mistico-reveals-his-goal-for-conquering-aew-exclusive/",
-      "t": "59m",
+      "t": "1h",
       "dt": "2026-08-18T18:37:59+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Mistico Says Representing CMLL At Forbidden Door Has Been ‘Wonderful’",
       "p": "Mistico says that representing CMLL at Forbidden Door has been wonderful, explaining how he enjoys the dream match aspect. The luchador has been a part of two Forbidden Door events in 2024 and...",
       "link": "https://www.fightful.com/wrestling-news/mistico-says-representing-cmll-at-forbidden-door-has-been-wonderful/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T17:54:22+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Mustafa Ali Recalls Getting Kayfabed By Swerve Strickland After He Purchased His Childhood Home",
       "p": "Mustafa Ali got worked by Swerve Strickland. Back in September 2024, ‘Hangman’ Adam Page burned down Swerve Strickland’s childhood home just days before their huge match at All Out. Hours before...",
       "link": "https://www.fightful.com/wrestling-news/mustafa-ali-swerve-kayfabe-323129/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-18T17:23:44+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Mance Warner & Steph De Lander pulled from indie booking for AEW/ROH event",
       "p": "Mance Warner and Steph De Lander were pulled from an independent event due to an AEW/ROH booking on Death Before Dishonor weekend. The post Mance Warner & Steph De Lander pulled from indie booking...",
       "link": "https://www.postwrestling.com/2026/08/18/mance-warner-steph-de-lander-pulled-from-indie-booking-for-aew-roh-event/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-18T17:20:19+00:00"
     },
     {
@@ -72,23 +80,15 @@
       "h": "EDITORIAL: New Day should completely reinvent themselves in AEW, but their social media intro video wasn’t a good sign",
       "p": "When the (formerly known as) New Day eventually makes their way to AEW – and it seems like that is coming sooner than later – I really hope it is going to be a “New [...]",
       "link": "https://www.pwtorch.com/site/2026/08/18/editorial-new-day-should-completely-reinvent-themselves-in-aew-but-their-social-media-intro-video-wasnt-a-good-sign/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-18T17:11:06+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mistico Says His Next Goal Involves Conquering AEW, Competing For The AEW World Title",
-      "p": "Mistico has goals in mind for his near future, including conquering AEW and capturing the AEW World Heavyweight Championship. Mistico is one of the most decorated luchadores of all time, and has...",
-      "link": "https://www.fightful.com/wrestling-news/mistico-says-his-next-goal-involves-conquering-aew-competing-for-the-aew-world-title/",
-      "t": "2h",
-      "dt": "2026-08-18T17:08:23+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW BEST OF THE WEEK: The surprise best match of the week, what really works with Swerve Strickland’s return, plus some quick gripes",
       "p": "Best Match Kyle O’Reilly vs. Roderick Strong – Collision 8/15/26 I’m totally being a jerk when I say this, but whatever: I never thought I’d be putting Roderick Strong under a “Best” banner in a [...]",
       "link": "https://www.pwtorch.com/site/2026/08/18/aew-best-of-the-week-the-surprise-best-match-of-the-week-what-really-works-with-swerve-stricklands-return-plus-some-quick-gripes/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-18T16:58:55+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "Dave Meltzer Explains How AEW's Tony Khan Approaches Booking Around Injuries",
       "p": "Injuries are a big part of wrestling, and according to Dave Meltzer, AEW President Tony Khan treats them the way a football coach would.",
       "link": "https://www.wrestlinginc.com/2239245/aew-tony-khan-dave-meltzer-approaches-booking-injuries/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-18T16:47:04+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Mercedes Moné Looks Back On History With Willow Nightingale Ahead Of AEW All In 2026",
       "p": "Before they lock up again for the world title at AEW All In 2026, Mercedes Moné reflected on her long-running rivalry with Willow Nightingale.",
       "link": "https://www.wrestlinginc.com/2239236/mercedes-mone-willow-nightingale-aew-all-in-2026/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-18T16:37:03+00:00"
     }
   ]

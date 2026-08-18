@@ -1,22 +1,54 @@
 {
-  "updated": "2026-08-18T03:06:43.801544+00:00",
+  "updated": "2026-08-18T03:55:33.358410+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Continental Challenge Cup quarterfinal matches announced, Nigel McGuinness’s tournament status revealed",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Continental Challenge Cup quarterfinal matches announced, Nigel McGuinness’s tournament status revealed appeared first on Pro Wrestling Dot...",
+      "link": "https://prowrestling.net/site/2026/08/17/aew-continental-challenge-cup-quarterfinal-matches-announced-nigel-mcguinnesss-tournament-status-revealed/",
+      "t": "15m",
+      "dt": "2026-08-18T03:39:49+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Sets Continental Challenge Cup Quarter Finals, Nigel McGuinness Cleared To Compete",
+      "p": "The quarter finals for the AEW Continental Challenge Cup are set, and Nigel McGuinness has made the cut despite his recent injury.",
+      "link": "https://www.wrestlinginc.com/2238841/aew-continental-challenge-cup-quarterfinals-nigel-mcguinness-cleared-compete/",
+      "t": "29m",
+      "dt": "2026-08-18T03:26:12+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW reveals next Continental Challenge Cup matches, Nigel McGuiness injury update",
+      "p": "The next matches in the AEW Continental Challenge Cup tournament are set, with Nigel McGuiness saying he’ll stay in the tournament. In a promo that aired during the AEW Continental Challenge Cup...",
+      "link": "https://www.f4wonline.com/news/aew/aew-reveals-next-continental-challenge-cup-matches-nigel-mcguiness-injury-update/",
+      "t": "40m",
+      "dt": "2026-08-18T03:14:29+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Continental Challenge Cup Quarterfinal Bouts Announced",
+      "p": "The AEW Continental Challenge Cup will continue on Wednesday’s AEW Dynamite and Saturday’s AEW Collision. On Dynamite, Nigel McGuinness will take on Hechicero, and Jay White will battle Jon...",
+      "link": "https://www.fightful.com/wrestling-news/aew-continental-challenge-cup-quarterfinal-bouts-announced/",
+      "t": "48m",
+      "dt": "2026-08-18T03:06:31+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Mercedes Mone Reflects On Attending AEW All In 2023, Says She Was In Talks With WWE",
       "p": "Mercedes Mone has revealed she was actually in talks with WWE when she made a special appearance at AEW All In London 2023.",
       "link": "https://www.wrestlinginc.com/2238836/mercedes-mone-aew-all-in-2023-wwe/",
-      "t": "0m",
+      "t": "49m",
       "dt": "2026-08-18T03:05:55+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Nigel McGuinness Not Withdrawing From AEW Continental Challenge Cup",
       "p": "Nigel McGuinness will continue in the Continental Challenge Cup. McGuinness defeated Katsuyori Shibata in the first round of the tournament, but suffered an injury that put his future in the...",
       "link": "https://www.fightful.com/wrestling-news/nigel-mcguinness-not-withdrawing-from-aew-continental-challenge-cup/",
-      "t": "5m",
+      "t": "54m",
       "dt": "2026-08-18T03:00:47+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Mercedes Mone says she was in talks with WWE before signing with AEW",
       "p": "As Sasha Banks, Mercedes Mone once main evented WrestleMania for WWE. And though her contract with WWE had expired, she now says she nearly re-signed with the promotion before joining AEW. Mone...",
       "link": "https://www.f4wonline.com/news/wwe/mercedes-mone-says-she-was-in-talks-with-wwe-before-signing-with-aew/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T01:53:20+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "NJPW's Shingo Takagi Blames AEW Star For Lackluster G1 Performance",
       "p": "NJPW star Shingo Takagi believes that an AEW star is to blame for his lack of success in this year's G1 Climax tournament.",
       "link": "https://www.wrestlinginc.com/2238826/aew-njpw-shingo-takagi-claudio-castagnoli-g1-blames-lackluster-performance/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T01:50:20+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "WOR Extra: Mistico talks with Dave Meltzer about CMLL success, AEW, Japan & more",
       "p": "In a special Wrestling Observer Radio Extra, our Dave Meltzer recently caught up with wrestling legend Mistico while Dave visited Arena Mexico for the first time recently. With interpreter Miguel...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-extra-mistico-talks-with-dave-meltzer-about-cmll-success-aew-japan-more/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T01:30:04+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Chris Jericho Offers His Perspective On Creative Process In AEW",
       "p": "AEW's Chris Jericho offered his perspective on the creative process in the company, as well as what's next for him in this stage of his career.",
       "link": "https://www.wrestlinginc.com/2238795/aew-chris-jericho-perspective-creative-process/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-17T23:46:13+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "20 YRS AGO – ROH Live Event Report (8-12-2006): Bryan Danielson vs. Nigel McGuiness in Title Unification match, Briscoes challenge Aries & Strong for ROH Tag Titles, plus Colt, Sydal, Claudio",
       "p": "ROH LIVE EVENT REPORT August 12, 2006 Liverpool, England at the Olympia Report by Matt Hunter, PWTorch VIP subscriber Show started 15 minutes late due to late ticket sales (1) Matt Sydal defeated...",
       "link": "https://www.pwtorch.com/site/2026/08/17/20-yrs-ago-roh-live-event-report-8-12-2006-bryan-danielson-vs-nigel-mcguiness-in-title-unification-match-briscoes-challenge-aries-strong-for-roh-tag-titles-plus-colt-sydal-claudio/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-17T19:40:36+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Darby Allin Loves When AEW & WWE Go Head-To-Head: 'That's When You Do Your Best Work'",
       "p": "Darby Allin shares that he enjoys when WWE and AEW face-off in direct competition with each other.",
       "link": "https://www.wrestlinginc.com/2238573/aew-wwe-darby-allin-loves-best-work-counter-programming/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-17T19:21:42+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Chris Jericho Explains Biggest Difference Between Modern Wrestling & Older Eras",
-      "p": "Former WWE star Chris Jericho remembers how much competition there was at the top during the Attitude Era.",
-      "link": "https://www.wrestlinginc.com/2238528/aew-chris-jericho-biggest-difference-modern-older-eras/",
-      "t": "8h",
-      "dt": "2026-08-17T18:42:41+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 8/17 – PWTorch Dailycast – Worse or Better (Up Up Down Down): Josh and Adam look at the top and middle of the roster in WWE and AEW to consider who should be moved up or down card (125 min.)",
-      "p": "SHOW SUMMARY: In this PWTorch Dailycast series titled “Worse or Better,” Josh White and Stephanie Chase discuss one aspect of today’s pro wrestling scene and compare it to a previous era or eras...",
-      "link": "https://www.pwtorch.com/site/2026/08/17/free-podcast-8-17-pwtorch-dailycast-worse-or-better-up-up-down-down-josh-and-adam-look-at-the-top-and-middle-of-the-roster-in-wwe-and-aew-to-consider-who-should-be-moved-up-or-d/",
-      "t": "8h",
-      "dt": "2026-08-17T18:35:35+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Create A Pro Wrestling “CAPCon” results: Vetter’s review of Bobby Orlando vs. Leo Sparrow in a Tables, Lettuce, and Chairs match for the CAP Title, plus MJF, Steve Corino, Tony Atlas, Headbangers, Rhino",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post Create A Pro Wrestling “CAPCon” results: Vetter’s review of Bobby Orlando vs. Leo Sparrow in a Tables, Lettuce, and Chairs match for the...",
-      "link": "https://prowrestling.net/site/2026/08/17/create-a-pro-wrestling-capcon-results-vetters-review-of-bobby-orlando-vs-leo-sparrow-in-a-tables-lettuce-and-chairs-match-for-the-cap-title-plus-mjf-steve-corino-tony-atlas-headbangers/",
-      "t": "9h",
-      "dt": "2026-08-17T17:45:10+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (8/15/26): Continental Challenge Cup delivers, Jack Perry makes his case to Swerve Strickland, Mercedes Moné’s heel work, more",
-      "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode, starting with the most significant moments. HITS CONTINENTAL...",
-      "link": "https://www.pwtorch.com/site/2026/08/17/aew-collision-hits-misses-8-15-26-continental-challenge-cup-delivers-jack-perry-makes-his-case-to-swerve-strickland-mercedes-mones-heel-work-more/",
-      "t": "9h",
-      "dt": "2026-08-17T17:14:16+00:00"
     }
   ]
 }

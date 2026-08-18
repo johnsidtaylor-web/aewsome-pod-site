@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-18T16:46:13.781124+00:00",
+  "updated": "2026-08-18T17:40:12.811026+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Mustafa Ali Recalls Getting Kayfabed By Swerve Strickland After He Purchased His Childhood Home",
+      "p": "Mustafa Ali got worked by Swerve Strickland. Back in September 2024, ‘Hangman’ Adam Page burned down Swerve Strickland’s childhood home just days before their huge match at All Out. Hours before...",
+      "link": "https://www.fightful.com/wrestling-news/mustafa-ali-swerve-kayfabe-323129/",
+      "t": "16m",
+      "dt": "2026-08-18T17:23:44+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Mance Warner & Steph De Lander pulled from indie booking for AEW/ROH event",
+      "p": "Mance Warner and Steph De Lander were pulled from an independent event due to an AEW/ROH booking on Death Before Dishonor weekend. The post Mance Warner & Steph De Lander pulled from indie booking...",
+      "link": "https://www.postwrestling.com/2026/08/18/mance-warner-steph-de-lander-pulled-from-indie-booking-for-aew-roh-event/",
+      "t": "19m",
+      "dt": "2026-08-18T17:20:19+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "EDITORIAL: New Day should completely reinvent themselves in AEW, but their social media intro video wasn’t a good sign",
+      "p": "When the (formerly known as) New Day eventually makes their way to AEW – and it seems like that is coming sooner than later – I really hope it is going to be a “New [...]",
+      "link": "https://www.pwtorch.com/site/2026/08/18/editorial-new-day-should-completely-reinvent-themselves-in-aew-but-their-social-media-intro-video-wasnt-a-good-sign/",
+      "t": "29m",
+      "dt": "2026-08-18T17:11:06+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mistico Says His Next Goal Involves Conquering AEW, Competing For The AEW World Title",
+      "p": "Mistico has goals in mind for his near future, including conquering AEW and capturing the AEW World Heavyweight Championship. Mistico is one of the most decorated luchadores of all time, and has...",
+      "link": "https://www.fightful.com/wrestling-news/mistico-says-his-next-goal-involves-conquering-aew-competing-for-the-aew-world-title/",
+      "t": "31m",
+      "dt": "2026-08-18T17:08:23+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW BEST OF THE WEEK: The surprise best match of the week, what really works with Swerve Strickland’s return, plus some quick gripes",
+      "p": "Best Match Kyle O’Reilly vs. Roderick Strong – Collision 8/15/26 I’m totally being a jerk when I say this, but whatever: I never thought I’d be putting Roderick Strong under a “Best” banner in a [...]",
+      "link": "https://www.pwtorch.com/site/2026/08/18/aew-best-of-the-week-the-surprise-best-match-of-the-week-what-really-works-with-swerve-stricklands-return-plus-some-quick-gripes/",
+      "t": "41m",
+      "dt": "2026-08-18T16:58:55+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Explains How AEW's Tony Khan Approaches Booking Around Injuries",
+      "p": "Injuries are a big part of wrestling, and according to Dave Meltzer, AEW President Tony Khan treats them the way a football coach would.",
+      "link": "https://www.wrestlinginc.com/2239245/aew-tony-khan-dave-meltzer-approaches-booking-injuries/",
+      "t": "53m",
+      "dt": "2026-08-18T16:47:04+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Mercedes Moné Looks Back On History With Willow Nightingale Ahead Of AEW All In 2026",
       "p": "Before they lock up again for the world title at AEW All In 2026, Mercedes Moné reflected on her long-running rivalry with Willow Nightingale.",
       "link": "https://www.wrestlinginc.com/2239236/mercedes-mone-willow-nightingale-aew-all-in-2026/",
-      "t": "9m",
+      "t": "1h",
       "dt": "2026-08-18T16:37:03+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "AEW Star Darby Allin Plans To Attempt Major Athletic Feat Without Training",
       "p": "AEW's Darby Allin has revealed which athletic event he wants to compete in next after summiting Mount Everest.",
       "link": "https://www.wrestlinginc.com/2238933/aew-darby-allin-new-york-marathon-attempt-major-athletic-feat-without-training/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T15:30:00+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "AEW's MJF Unleashes Social Media Tirade Against NJPW",
       "p": "While the wrestling world has been buzzing over NJPW's G1 Climax tournament, AEW star MJF has made his feelings known about the company.",
       "link": "https://www.wrestlinginc.com/2239092/aew-njpw-mjf-maxwell-jacob-friedman-g1-isnt-interested-nothing-prove/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T15:04:47+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "Will Ospreay Gives Chris Estell And The Rest Of AEW’s Wardrobe Team Their Flowers",
       "p": "Will Ospreay speaks about Chris Estell and the rest of AEW’s wardrobe team while giving the team their flowers for the work they do. The AEW wardrobe team are unsung heroes in the company, given...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-gives-chris-estell-and-the-rest-of-aews-wardrobe-team-their-flowers/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-18T14:30:56+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Adam Brooks Credits Chris Hero For Coming Up With Finish For Match Against Will Ospreay On AEW Collision",
       "p": "Adam Brooks and Will Ospreay shared the ring on AEW TV. The July 18th episode of AEW Collision featured a singles match between Will Ospreay and Adam Brooks. The conclusion of the bout saw Ospreay...",
       "link": "https://www.fightful.com/wrestling-news/adam-brooks-credits-chris-hero-for-coming-up-with-finish-for-match-against-will-ospreay-on-aew-collision/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-18T14:30:00+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "Speedball Mike Bailey Says This AEW Rival Is 'One Of The Best, If Not The Best'",
       "p": "Mike Bailey has reflected on his match with Kyle Fletcher and reiterated Fletcher could become the best in the world following his loss to him on AEW Dynamite.",
       "link": "https://www.wrestlinginc.com/2238892/aew-speedball-mike-bailey-kyle-fletcher-rival-one-best/",
-      "t": "2h",
-      "dt": "2026-08-18T14:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "RevPro Unfinished Business Results (8/16): Bandido, Leon Slater Compete",
-      "p": "Revolution Pro Wrestling held its RevPro Unfinished Business event on August 16 from Tramshed Cardiff in Cardiff, Wales, UK. The event aired on RevProOnDemand. Full results are below. RevPro...",
-      "link": "https://www.fightful.com/wrestling-news/revpro-unfinished-business-results-8-16-bandido-leon-slater-compete/",
-      "t": "2h",
-      "dt": "2026-08-18T14:19:29+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Mercedes Mone Reflects On 16-Year Wrestling Career, Including WWE's Sasha Banks",
-      "p": "Mercedes Mone has looked back on her career after completing 16 years in the business, with the AEW star contrasting the different stages of her career.",
-      "link": "https://www.wrestlinginc.com/2238881/aew-mercedes-mone-16-year-career-wwe-sasha-banks/",
-      "t": "2h",
-      "dt": "2026-08-18T14:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Couple pulled from indie show due to AEW/ROH opportunity",
-      "p": "Steph De Lander and Mance Warner will be in Reading, Pennsylvania this Saturday for an AEW/ROH opportunity. The married couple originally had a booking for New South Pro Wrestling in Millbrook,...",
-      "link": "https://www.f4wonline.com/news/aew/couple-pulled-from-indie-show-due-to-aew-roh-opportunity/",
       "t": "3h",
-      "dt": "2026-08-18T13:02:21+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "MJF ‘turns down’ chance to compete in G1 Climax 2027",
-      "p": "AEW star MJF has turned down the opportunity (at least publicly) to appear in New Japan’s G1 Climax tournament next year. Ryohei Oiwa won this year’s G1 Climax with a headlock submission, and...",
-      "link": "https://www.f4wonline.com/news/new-japan/mjf-g1-climax-2027-ryohei-oiwa-njpw-aew/",
-      "t": "6h",
-      "dt": "2026-08-18T10:26:35+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ticket sales update for this week’s show (August 19 2026)",
-      "p": "AEW Dynamite is set to take place this week from the Chesapeake Employers Insurance Arena in Baltimore. According to WrestleTix, 3,030 tickets have been distributed for the event thus far, with is...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-august-19-2026/",
-      "t": "7h",
-      "dt": "2026-08-18T09:35:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Is ROH Death Before Dishonor 2026 on TV? How to watch via Live Stream, MyAEW",
-      "p": "ROH Death Before Dishonor 2026 is set to take place this Friday (August 21) from the 2300 Arena in Philly. How you can actually watch the show all depends on where you are based, with MyAEW as an...",
-      "link": "https://www.f4wonline.com/event-guides/is-roh-death-before-dishonor-2026-on-tv-how-to-watch-via-live-stream-myaew/",
-      "t": "7h",
-      "dt": "2026-08-18T09:26:37+00:00"
+      "dt": "2026-08-18T14:30:00+00:00"
     }
   ]
 }

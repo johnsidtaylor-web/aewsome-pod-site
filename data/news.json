@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:44:08.530528+00:00",
+  "updated": "2026-08-18T16:46:13.781124+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
@@ -13,10 +13,18 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "Mercedes Moné Looks Back On History With Willow Nightingale Ahead Of AEW All In 2026",
+      "p": "Before they lock up again for the world title at AEW All In 2026, Mercedes Moné reflected on her long-running rivalry with Willow Nightingale.",
+      "link": "https://www.wrestlinginc.com/2239236/mercedes-mone-willow-nightingale-aew-all-in-2026/",
+      "t": "9m",
+      "dt": "2026-08-18T16:37:03+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "AEW Star Darby Allin Plans To Attempt Major Athletic Feat Without Training",
       "p": "AEW's Darby Allin has revealed which athletic event he wants to compete in next after summiting Mount Everest.",
       "link": "https://www.wrestlinginc.com/2238933/aew-darby-allin-new-york-marathon-attempt-major-athletic-feat-without-training/",
-      "t": "14m",
+      "t": "1h",
       "dt": "2026-08-18T15:30:00+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW's MJF Unleashes Social Media Tirade Against NJPW",
       "p": "While the wrestling world has been buzzing over NJPW's G1 Climax tournament, AEW star MJF has made his feelings known about the company.",
       "link": "https://www.wrestlinginc.com/2239092/aew-njpw-mjf-maxwell-jacob-friedman-g1-isnt-interested-nothing-prove/",
-      "t": "39m",
+      "t": "1h",
       "dt": "2026-08-18T15:04:47+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Will Ospreay Gives Chris Estell And The Rest Of AEW’s Wardrobe Team Their Flowers",
       "p": "Will Ospreay speaks about Chris Estell and the rest of AEW’s wardrobe team while giving the team their flowers for the work they do. The AEW wardrobe team are unsung heroes in the company, given...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-gives-chris-estell-and-the-rest-of-aews-wardrobe-team-their-flowers/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T14:30:56+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Adam Brooks Credits Chris Hero For Coming Up With Finish For Match Against Will Ospreay On AEW Collision",
       "p": "Adam Brooks and Will Ospreay shared the ring on AEW TV. The July 18th episode of AEW Collision featured a singles match between Will Ospreay and Adam Brooks. The conclusion of the bout saw Ospreay...",
       "link": "https://www.fightful.com/wrestling-news/adam-brooks-credits-chris-hero-for-coming-up-with-finish-for-match-against-will-ospreay-on-aew-collision/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T14:30:00+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Speedball Mike Bailey Says This AEW Rival Is 'One Of The Best, If Not The Best'",
       "p": "Mike Bailey has reflected on his match with Kyle Fletcher and reiterated Fletcher could become the best in the world following his loss to him on AEW Dynamite.",
       "link": "https://www.wrestlinginc.com/2238892/aew-speedball-mike-bailey-kyle-fletcher-rival-one-best/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T14:30:00+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "RevPro Unfinished Business Results (8/16): Bandido, Leon Slater Compete",
       "p": "Revolution Pro Wrestling held its RevPro Unfinished Business event on August 16 from Tramshed Cardiff in Cardiff, Wales, UK. The event aired on RevProOnDemand. Full results are below. RevPro...",
       "link": "https://www.fightful.com/wrestling-news/revpro-unfinished-business-results-8-16-bandido-leon-slater-compete/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T14:19:29+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "AEW's Mercedes Mone Reflects On 16-Year Wrestling Career, Including WWE's Sasha Banks",
       "p": "Mercedes Mone has looked back on her career after completing 16 years in the business, with the AEW star contrasting the different stages of her career.",
       "link": "https://www.wrestlinginc.com/2238881/aew-mercedes-mone-16-year-career-wwe-sasha-banks/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-18T14:00:00+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Couple pulled from indie show due to AEW/ROH opportunity",
       "p": "Steph De Lander and Mance Warner will be in Reading, Pennsylvania this Saturday for an AEW/ROH opportunity. The married couple originally had a booking for New South Pro Wrestling in Millbrook,...",
       "link": "https://www.f4wonline.com/news/aew/couple-pulled-from-indie-show-due-to-aew-roh-opportunity/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-18T13:02:21+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "MJF ‘turns down’ chance to compete in G1 Climax 2027",
       "p": "AEW star MJF has turned down the opportunity (at least publicly) to appear in New Japan’s G1 Climax tournament next year. Ryohei Oiwa won this year’s G1 Climax with a headlock submission, and...",
       "link": "https://www.f4wonline.com/news/new-japan/mjf-g1-climax-2027-ryohei-oiwa-njpw-aew/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-18T10:26:35+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW Dynamite ticket sales update for this week’s show (August 19 2026)",
       "p": "AEW Dynamite is set to take place this week from the Chesapeake Employers Insurance Arena in Baltimore. According to WrestleTix, 3,030 tickets have been distributed for the event thus far, with is...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-august-19-2026/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-18T09:35:15+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Is ROH Death Before Dishonor 2026 on TV? How to watch via Live Stream, MyAEW",
       "p": "ROH Death Before Dishonor 2026 is set to take place this Friday (August 21) from the 2300 Arena in Philly. How you can actually watch the show all depends on where you are based, with MyAEW as an...",
       "link": "https://www.f4wonline.com/event-guides/is-roh-death-before-dishonor-2026-on-tv-how-to-watch-via-live-stream-myaew/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-18T09:26:37+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH Death Before Dishonor 2026 Global Start Times: US, UK, Australia and more",
-      "p": "ROH Death Before Dishonor 2026 is set to take place this Friday (August 21) from the 2300 Arena (ECW Arena) in Philadelphia with a start time of 7pm Eastern, 6pm Central and 4pm Pacific. What time...",
-      "link": "https://www.f4wonline.com/event-guides/roh-death-before-dishonor-2026-global-start-times-us-uk-australia/",
-      "t": "6h",
-      "dt": "2026-08-18T09:13:40+00:00"
     }
   ]
 }

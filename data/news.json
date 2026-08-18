@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-18T03:55:33.358410+00:00",
+  "updated": "2026-08-18T04:49:20.732475+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (1 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "MJF Declines Ryohei Oiwa’s Invitation To Participate In 2027 NJPW G1 Climax Tournament",
+      "p": "A comment from MJF was brought to Ryohei Oiwa’s attention. The winner of the 2026 NJPW G1 Climax tournament is Ryohei Oiwa. He defeated Yuya Uemura in a 30-plus minute match and won the bout via...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-declines-ryohei-oiwas-invitation-to-participate-in-2027-njpw-g1-climax-tournament/",
+      "t": "26m",
+      "dt": "2026-08-18T04:22:34+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "G1 Climax 36 Contest: Final Results",
+      "p": "Final standings for the G1 Climax 36 listener contest. The post G1 Climax 36 Contest: Final Results appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT NJPW.",
+      "link": "https://www.postwrestling.com/2026/08/18/g1-climax-36-contest-final-results/",
+      "t": "36m",
+      "dt": "2026-08-18T04:13:00+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW Continental Challenge Cup quarterfinal matches announced, Nigel McGuinness’s tournament status revealed",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Continental Challenge Cup quarterfinal matches announced, Nigel McGuinness’s tournament status revealed appeared first on Pro Wrestling Dot...",
       "link": "https://prowrestling.net/site/2026/08/17/aew-continental-challenge-cup-quarterfinal-matches-announced-nigel-mcguinnesss-tournament-status-revealed/",
-      "t": "15m",
+      "t": "1h",
       "dt": "2026-08-18T03:39:49+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW Sets Continental Challenge Cup Quarter Finals, Nigel McGuinness Cleared To Compete",
       "p": "The quarter finals for the AEW Continental Challenge Cup are set, and Nigel McGuinness has made the cut despite his recent injury.",
       "link": "https://www.wrestlinginc.com/2238841/aew-continental-challenge-cup-quarterfinals-nigel-mcguinness-cleared-compete/",
-      "t": "29m",
+      "t": "1h",
       "dt": "2026-08-18T03:26:12+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW reveals next Continental Challenge Cup matches, Nigel McGuiness injury update",
       "p": "The next matches in the AEW Continental Challenge Cup tournament are set, with Nigel McGuiness saying he’ll stay in the tournament. In a promo that aired during the AEW Continental Challenge Cup...",
       "link": "https://www.f4wonline.com/news/aew/aew-reveals-next-continental-challenge-cup-matches-nigel-mcguiness-injury-update/",
-      "t": "40m",
+      "t": "1h",
       "dt": "2026-08-18T03:14:29+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "AEW Continental Challenge Cup Quarterfinal Bouts Announced",
       "p": "The AEW Continental Challenge Cup will continue on Wednesday’s AEW Dynamite and Saturday’s AEW Collision. On Dynamite, Nigel McGuinness will take on Hechicero, and Jay White will battle Jon...",
       "link": "https://www.fightful.com/wrestling-news/aew-continental-challenge-cup-quarterfinal-bouts-announced/",
-      "t": "48m",
+      "t": "1h",
       "dt": "2026-08-18T03:06:31+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Mercedes Mone Reflects On Attending AEW All In 2023, Says She Was In Talks With WWE",
       "p": "Mercedes Mone has revealed she was actually in talks with WWE when she made a special appearance at AEW All In London 2023.",
       "link": "https://www.wrestlinginc.com/2238836/mercedes-mone-aew-all-in-2023-wwe/",
-      "t": "49m",
+      "t": "1h",
       "dt": "2026-08-18T03:05:55+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Nigel McGuinness Not Withdrawing From AEW Continental Challenge Cup",
       "p": "Nigel McGuinness will continue in the Continental Challenge Cup. McGuinness defeated Katsuyori Shibata in the first round of the tournament, but suffered an injury that put his future in the...",
       "link": "https://www.fightful.com/wrestling-news/nigel-mcguinness-not-withdrawing-from-aew-continental-challenge-cup/",
-      "t": "54m",
+      "t": "1h",
       "dt": "2026-08-18T03:00:47+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "WOR Extra: Mistico talks with Dave Meltzer about CMLL success, AEW, Japan & more",
       "p": "In a special Wrestling Observer Radio Extra, our Dave Meltzer recently caught up with wrestling legend Mistico while Dave visited Arena Mexico for the first time recently. With interpreter Miguel...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-extra-mistico-talks-with-dave-meltzer-about-cmll-success-aew-japan-more/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-18T01:30:04+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Chris Jericho Offers His Perspective On Creative Process In AEW",
       "p": "AEW's Chris Jericho offered his perspective on the creative process in the company, as well as what's next for him in this stage of his career.",
       "link": "https://www.wrestlinginc.com/2238795/aew-chris-jericho-perspective-creative-process/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-17T23:46:13+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "20 YRS AGO – ROH Live Event Report (8-12-2006): Bryan Danielson vs. Nigel McGuiness in Title Unification match, Briscoes challenge Aries & Strong for ROH Tag Titles, plus Colt, Sydal, Claudio",
-      "p": "ROH LIVE EVENT REPORT August 12, 2006 Liverpool, England at the Olympia Report by Matt Hunter, PWTorch VIP subscriber Show started 15 minutes late due to late ticket sales (1) Matt Sydal defeated...",
-      "link": "https://www.pwtorch.com/site/2026/08/17/20-yrs-ago-roh-live-event-report-8-12-2006-bryan-danielson-vs-nigel-mcguiness-in-title-unification-match-briscoes-challenge-aries-strong-for-roh-tag-titles-plus-colt-sydal-claudio/",
-      "t": "8h",
-      "dt": "2026-08-17T19:40:36+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Darby Allin Loves When AEW & WWE Go Head-To-Head: 'That's When You Do Your Best Work'",
-      "p": "Darby Allin shares that he enjoys when WWE and AEW face-off in direct competition with each other.",
-      "link": "https://www.wrestlinginc.com/2238573/aew-wwe-darby-allin-loves-best-work-counter-programming/",
-      "t": "8h",
-      "dt": "2026-08-17T19:21:42+00:00"
     }
   ]
 }

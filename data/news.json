@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-19T16:44:30.718130+00:00",
+  "updated": "2026-08-19T17:37:10.384681+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "AEW Spill The Tea To Premiere On August 20",
+      "p": "AEW stars will spill the tea. All Elite Wrestling announced a new show titled “Spill The Tea,” which is set to premiere on Thursday, August 20. The show will feature various AEW stars speaking...",
+      "link": "https://www.fightful.com/wrestling-news/aew-spill-the-tea-to-premiere-on-august-20/",
+      "t": "5m",
+      "dt": "2026-08-19T17:31:24+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Will Ospreay reveals Tony Khan paid for neck surgery: “It costs more than my house in England”",
+      "p": "AEW released a new docuseries that chronicled Will Ospreay's path to All In: London, and in it, Ospreay revealed Tony Khan paid for his neck surgery. The post Will Ospreay reveals Tony Khan paid...",
+      "link": "https://www.postwrestling.com/2026/08/19/will-ospreay-reveals-tony-khan-paid-for-neck-surgery-it-costs-more-than-my-house-in-england/",
+      "t": "20m",
+      "dt": "2026-08-19T17:16:42+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite Google Search interest and analysis (last 90 days comparative)",
       "p": "AEW Dynamite is currently sitting at +20% on the preceding three months and +20% on this same period last year when it comes to Google Search interest. That looks promising, but the show has been...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-google-search-interest-analysis-last-90-days-comparative-08-19-2026/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T15:28:17+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW debuts Will Ospreay docuseries ahead of All In",
       "p": "AEW is documenting Will Ospreay’s road to All In with a new YouTube series. The first video from the seven-episode docuseries premiered today and focuses on the neck fusion surgery Ospreay...",
       "link": "https://www.f4wonline.com/news/aew/aew-debuts-will-ospreay-docuseries-ahead-of-all-in/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T15:22:55+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Former AEW Women’s Champion reveals she ‘pitched getting hit by a car for a match’",
       "p": "Kris Statlander discussed the impact of her stunt double training in wrestling. And how Darby Allin is not the only AEW star to pitch getting hit by a car for a match. Statlander explained her...",
       "link": "https://www.f4wonline.com/news/aew/former-aew-womens-champion-reveals-she-pitched-getting-hit-by-a-car-for-a-match/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T14:47:44+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Kris Statlander On If There Is Certain Spots She Won’t Do: I’ll Do Something Unless I’m Asked To Do Something That’s Out Of My Wheelhouse",
       "p": "Kris Statlander notes that there are certain spots she won’t do, not out of fear, but due to it being outside of her wheelhouse. Statlander is no stranger to hardcore spots in AEW, having been...",
       "link": "https://www.fightful.com/wrestling-news/kris-statlander-on-if-there-is-certain-spots-she-wont-do-ill-do-something-unless-im-asked-to-do-something-thats-out-of-my-wheelhouse/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-19T14:10:27+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW Dynamite preview: Tonight’s penultimate episode before All In London",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s penultimate episode before All In London appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/19/aew-dynamite-preview-tonights-penultimate-episode-before-all-in-london/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-19T14:00:33+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Kris Statlander Says Skye Blue Is An AEW Women’s Wrestler More Wrestling Fans Need To Know About",
       "p": "Kris Statlander discusses how Skye Blue is an AEW women’s wrestler that more wrestling fans need to know about. Statlander is one of the top women on the AEW roster, having previously been both...",
       "link": "https://www.fightful.com/wrestling-news/kris-statlander-says-skye-blue-is-an-aew-womens-wrestler-more-wrestling-fans-need-to-know-about/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-19T13:51:06+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Jim Ross Provides Health Update After Brain Surgery, Says Goal Is To Work AEW All In",
       "p": "AEW commentator Jim Ross has provided an update on his brain surgery and is hopeful of working at the upcoming All In pay-per-view in London, England.",
       "link": "https://www.wrestlinginc.com/2239740/jim-ross-health-update-brain-surgery-goal-aew-all-in-wembley/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-19T13:30:00+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "AEW Dynamite ticket sales update for tonight’s show (August 19 2026)",
       "p": "AEW Dynamite is set to take place this week from the Chesapeake Employers Insurance Arena in Baltimore. According to the latest report from WrestleTix, 3,280 tickets have been distributed for the...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-tonight-show-august-19-2026/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-19T09:03:07+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "ROH Death Before Dishonor 2026 Card: Every confirmed match",
       "p": "ROH Death Before Dishonor 2026 takes place this Friday (August 21) from the 2300 Arena in Philly and the majority of the card has now been announced. The main event sees Bandido defend his ROH...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-death-before-dishonor-2026-card-matches/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-19T08:51:31+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "AEW Dynamite Start Time Tonight (08-19-2026)",
       "p": "AEW Dynamite takes place tonight from the Chesapeake Employers Insurance Arena in Baltimore, MD with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. Maya World puts the TBS Championship...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-08-19-2026/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-19T07:54:56+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage News On AEW Contract Status Of Steve Borden (Son Of Sting)",
-      "p": "A new report offered a backstage update on the AEW contract status of Steven Borden, the son of Sting.",
-      "link": "https://www.wrestlinginc.com/2239662/aew-contract-steve-borden-son-sting/",
-      "t": "17h",
-      "dt": "2026-08-18T23:44:18+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Jim Ross provides a health update, lists a target date for his return to the AEW broadcast table",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Jim Ross provides a health update, lists a target date for his return to the AEW broadcast table appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/18/jim-ross-provides-a-health-update-lists-a-target-date-for-his-return-to-the-aew-broadcast-table/",
-      "t": "19h",
-      "dt": "2026-08-18T21:22:17+00:00"
     }
   ]
 }

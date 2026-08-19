@@ -1,22 +1,54 @@
 {
-  "updated": "2026-08-19T22:38:06.818226+00:00",
+  "updated": "2026-08-19T23:34:24.045690+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "ProWrestling.net",
+      "h": "AEW Dynamite results (8/19): Barnett’s review of Maya World vs. Kris Statlander vs. Persephone vs. Hikaru Shida for the TBS Title, Continental Cup tournament semifinal matches",
+      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post AEW Dynamite results (8/19): Barnett’s review of Maya World vs. Kris Statlander vs. Persephone vs. Hikaru Shida for the TBS Title,...",
+      "link": "https://prowrestling.net/site/2026/08/19/aew-dynamite-results-8-19-barnetts-review-of-maya-world-vs-kris-statlander-vs-persephone-vs-hikaru-shida-for-the-tbs-title-continental-cup-tournament-semifinal-matches/",
+      "t": "3m",
+      "dt": "2026-08-19T23:30:43+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite live results: Kenny Omega & Will Ospreay take on the Don Callis Family",
+      "p": "With All In less than two weeks away, Wednesday’s AEW Dynamite from Baltimore, Maryland, will see both World Champion Kenny Omega and Will Ospreay in separate trios bouts against the Don Callis...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-kenny-omega-will-ospreay-take-on-the-don-callis-family/",
+      "t": "4m",
+      "dt": "2026-08-19T23:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Results (8/19/2026): TBS Title Match, The Elite, United Empire, Mercedes Mone, More",
+      "p": "Full results for the August 19, 2026, edition of AEW Dynamite on TBS live from the Chesapeake Employers Insurance Arena. On August 19, 2026, All Elite Wrestling hosted a new episode of Dynamite on...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-8-19-2026-tbs-title-match-the-elite-united-empire-mercedes-mone-more/",
+      "t": "19m",
+      "dt": "2026-08-19T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Results 8/19 - Four-Way TBS Championship Match And More",
+      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on August 19, 2026, with Maya World defending the TBS Championship in a Four-Way Match!",
+      "link": "https://www.wrestlinginc.com/2239702/aew-dynamite-august-19-four-way-tbs-championship-match-more/",
+      "t": "34m",
+      "dt": "2026-08-19T23:00:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
       "h": "AEW Dynamite preview: Tonight’s penultimate episode before All In London",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s penultimate episode before All In London appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/19/aew-dynamite-preview-tonights-penultimate-episode-before-all-in-london/",
-      "t": "37m",
+      "t": "1h",
       "dt": "2026-08-19T22:00:33+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Daily Update: Paul Heyman, AEW Spill The Tea, TNA",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Wednesday Update...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-paul-heyman-aew-spill-the-tea-tna/",
-      "t": "59m",
+      "t": "1h",
       "dt": "2026-08-19T21:38:49+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Pat McAfee Reiterates He Will Never Appear On WWE TV Again, References AEW Star",
       "p": "Former WWE commentator and ESPN personality Pat McAfee reiterated on social media that he will never appear on WWE television again following WrestleMania 42.",
       "link": "https://www.wrestlinginc.com/2240422/pat-macafee-never-appear-wwe-tv-aew-chris-jericho/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T21:11:04+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Willow Nightingale Says She’s Expecting A Split Crowd For Her Match At AEW All In",
       "p": "Willow Nightingale gets realistic about AEW All In. Nightingale will compete in the biggest match of her career at the Wembley Stadium event, as she’s set to defend the AEW Women’s World...",
       "link": "https://www.fightful.com/wrestling-news/willow-nightingale-says-shes-expecting-a-split-crowd-for-her-match-at-aew-all-in/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T20:51:09+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "AEW Announces New Spill The Tea Show, Trailer Includes Several High-Profile Stars",
       "p": "AEW announced a new social media series called \"Spill the Tea\" on X, and the teaser trailer includes several high-profile stars.",
       "link": "https://www.wrestlinginc.com/2240401/aew-spill-the-tea-trailer-will-ospreay-mercedes-mone-rachael-bonnetta/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T20:47:56+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Willow Nightingale Says AEW Women’s Title Win Didn’t Sink In Until Dynamite After AEW Redemption",
       "p": "Willow Nightingale took a few days to process her title win. Nightingale made history at the Redemption pay-per-view in July, as she defeated Thekla to become the new AEW Women’s World Champion....",
       "link": "https://www.fightful.com/wrestling-news/willow-nightingale-says-aew-womens-title-win-didnt-sink-in-until-dynamite-after-aew-redemption/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-19T20:17:37+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "AEW All In: London tickets distributed reaches over estimated 40,000",
       "p": "Over the past week, AEW All In: London past the threshold of an estimated 40,000 tickets distributed, according to WrestleTix. The post AEW All In: London tickets distributed reaches over...",
       "link": "https://www.postwrestling.com/2026/08/19/aew-all-in-london-tickets-distributed-reaches-over-estimated-40000/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-19T18:30:14+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Rocky Romero compares AEW star to Rey Mysterio – ‘He’s got it all’",
-      "p": "Rocky Romero recently appeared on the What Happened When podcast with Tony Schiavone, and one of the topics that came up was Ring of Honor World Champion Bandido. One of the segments of the...",
-      "link": "https://www.f4wonline.com/news/aew/rocky-romero-bandido-rey-mysterio-roh-aew/",
-      "t": "4h",
-      "dt": "2026-08-19T18:15:24+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Calls Out Ex-WWE Writer For 'Lack Of Understanding Of AEW Tag Titles'",
-      "p": "Dave Meltzer gets into a heated war on X with a WWE Hall Of Famer over the AEW World Tag Team Championships.",
-      "link": "https://www.wrestlinginc.com/2240226/dave-meltzer-wwe-road-dogg-lack-understanding-aew-tag-titles-gunns/",
-      "t": "4h",
-      "dt": "2026-08-19T18:12:02+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Road Dogg claims he was ‘turned away’ by AEW due to political beliefs",
-      "p": "Brian “Road Dogg” James is claiming that he had an opportunity with AEW fall through due to his political beliefs. The statement was made by James on social media today during what initially...",
-      "link": "https://www.f4wonline.com/news/aew/road-dogg-claims-turned-away-by-aew-due-to-political-beliefs/",
-      "t": "4h",
-      "dt": "2026-08-19T17:56:11+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE PREVIEW (8/19): Announced matches, location, ticket sales, how to watch",
-      "p": "When: WEDNESDAY, AUGUST 19, 2026 Where: BALTIMORE, MD. AT CHESAPEAKE ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,281 tickets had been...",
-      "link": "https://www.pwtorch.com/site/2026/08/19/aew-dynamite-preview-8-19-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "4h",
-      "dt": "2026-08-19T17:54:53+00:00"
     }
   ]
 }

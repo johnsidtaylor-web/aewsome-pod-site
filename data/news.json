@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-19T19:35:45.181013+00:00",
+  "updated": "2026-08-19T20:43:06.477385+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -13,10 +13,26 @@
   "items": [
     {
       "src": "Fightful",
+      "h": "Willow Nightingale Says AEW Women’s Title Win Didn’t Sink In Until Dynamite After AEW Redemption",
+      "p": "Willow Nightingale took a few days to process her title win. Nightingale made history at the Redemption pay-per-view in July, as she defeated Thekla to become the new AEW Women’s World Champion....",
+      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-says-aew-womens-title-win-didnt-sink-in-until-dynamite-after-aew-redemption/",
+      "t": "25m",
+      "dt": "2026-08-19T20:17:37+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "'Unemployed' Road Dogg Says He Was 'Turned Away' From AEW Because Of Political Beliefs",
+      "p": "\"Road Dogg\" Brian James claimed on social media he was \"turned away\" from AEW due to his political beliefs, and said he is still unemployed after leaving WWE.",
+      "link": "https://www.wrestlinginc.com/2240316/unemployed-road-dogg-turned-away-aew-political-beliefs/",
+      "t": "1h",
+      "dt": "2026-08-19T19:36:26+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Paul Wight: I’m Finally Having Fun Because When I First Tried To Do Commentary, I Was The Shits",
       "p": "Paul Wight discusses his recent appearances on AEW commentary, noting that when he first tried it, he was ‘the shits’. Wight recently returned to commentary for AEW, a role he had previously...",
       "link": "https://www.fightful.com/wrestling-news/paul-wight-im-finally-having-fun-because-when-i-first-tried-to-do-commentary-i-was-the-shits/",
-      "t": "0m",
+      "t": "1h",
       "dt": "2026-08-19T19:35:16+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Road Dogg Claims He Was Turned Away From AEW Because Of His Political/Core Beliefs",
       "p": "Road Dogg makes a claim regarding AEW. The future of Road Dogg has been a popular conversation point in recent months, with some rumors suggesting that he could possibly sign with TNA or AEW....",
       "link": "https://www.fightful.com/wrestling-news/road-dogg-claims-he-was-turned-away-from-aew-because-of-his-political-core-beliefs/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T18:32:24+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW All In: London tickets distributed reaches over estimated 40,000",
       "p": "Over the past week, AEW All In: London past the threshold of an estimated 40,000 tickets distributed, according to WrestleTix. The post AEW All In: London tickets distributed reaches over...",
       "link": "https://www.postwrestling.com/2026/08/19/aew-all-in-london-tickets-distributed-reaches-over-estimated-40000/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T18:30:14+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Rocky Romero compares AEW star to Rey Mysterio – ‘He’s got it all’",
       "p": "Rocky Romero recently appeared on the What Happened When podcast with Tony Schiavone, and one of the topics that came up was Ring of Honor World Champion Bandido. One of the segments of the...",
       "link": "https://www.f4wonline.com/news/aew/rocky-romero-bandido-rey-mysterio-roh-aew/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T18:15:24+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Dave Meltzer Calls Out Ex-WWE Writer For 'Lack Of Understanding Of AEW Tag Titles'",
       "p": "Dave Meltzer gets into a heated war on X with a WWE Hall Of Famer over the AEW World Tag Team Championships.",
       "link": "https://www.wrestlinginc.com/2240226/dave-meltzer-wwe-road-dogg-lack-understanding-aew-tag-titles-gunns/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T18:12:02+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Will Ospreay On His Social Anxiety: I Don’t Like Talking To The Delivery Driver, I Like When He Drops It Off At The Door",
       "p": "Will Ospreay comments on his social anxiety and how he enjoys avoiding conversations with people, including delivery drivers. Ospreay has always been open about the mental issues that he suffers...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-on-his-social-anxiety-i-dont-like-talking-to-the-delivery-driver-i-like-when-he-drops-it-off-at-the-door/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T18:02:27+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Road Dogg claims he was ‘turned away’ by AEW due to political beliefs",
       "p": "Brian “Road Dogg” James is claiming that he had an opportunity with AEW fall through due to his political beliefs. The statement was made by James on social media today during what initially...",
       "link": "https://www.f4wonline.com/news/aew/road-dogg-claims-turned-away-by-aew-due-to-political-beliefs/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-19T17:56:11+00:00"
     },
     {
@@ -72,31 +88,15 @@
       "h": "AEW DYNAMITE PREVIEW (8/19): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, AUGUST 19, 2026 Where: BALTIMORE, MD. AT CHESAPEAKE ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,281 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/08/19/aew-dynamite-preview-8-19-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "1h",
-      "dt": "2026-08-19T17:54:53+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay’s Reaction To Tony Khan Paying For His Neck Surgery: If You Pay For That For My Health, I’ll Be A Little Soldier For Him For The Rest Of My Life",
-      "p": "Will Ospreay’s reaction to Tony Khan paying for his neck surgery was one of gratitude and unswaying loyalty. After AEW x NJPW Forbidden Door in 2025, Ospreay would require neck surgery that would...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreays-reaction-to-tony-khan-paying-for-his-neck-surgery-if-you-pay-for-that-for-my-health-ill-be-a-little-soldier-for-him-for-the-rest-of-my-life/",
-      "t": "1h",
-      "dt": "2026-08-19T17:40:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Spill The Tea To Premiere On August 20",
-      "p": "AEW stars will spill the tea. All Elite Wrestling announced a new show titled “Spill The Tea,” which is set to premiere on Thursday, August 20. The show will feature various AEW stars speaking...",
-      "link": "https://www.fightful.com/wrestling-news/aew-spill-the-tea-to-premiere-on-august-20/",
       "t": "2h",
-      "dt": "2026-08-19T17:31:24+00:00"
+      "dt": "2026-08-19T17:54:53+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Will Ospreay reveals Tony Khan paid for neck surgery: “It costs more than my house in England”",
       "p": "AEW released a new docuseries that chronicled Will Ospreay's path to All In: London, and in it, Ospreay revealed Tony Khan paid for his neck surgery. The post Will Ospreay reveals Tony Khan paid...",
       "link": "https://www.postwrestling.com/2026/08/19/will-ospreay-reveals-tony-khan-paid-for-neck-surgery-it-costs-more-than-my-house-in-england/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-19T17:16:42+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW Dynamite Google Search interest and analysis (last 90 days comparative)",
       "p": "AEW Dynamite is currently sitting at +20% on the preceding three months and +20% on this same period last year when it comes to Google Search interest. That looks promising, but the show has been...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-google-search-interest-analysis-last-90-days-comparative-08-19-2026/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-19T15:28:17+00:00"
     }
   ]

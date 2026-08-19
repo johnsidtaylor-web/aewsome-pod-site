@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T07:02:52.216618+00:00",
+  "updated": "2026-08-19T07:51:48.200475+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Preview: Confirmed matches and segments (08-19-2026)",
+      "p": "AEW Dynamite takes place tonight from the Chesapeake Employers Insurance Arena in Baltimore, MD, and several matches and segments have already been confirmed for the broadcast. Maya World puts the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-08-19-2026/",
+      "t": "8m",
+      "dt": "2026-08-19T07:43:22+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "ROH TV Results (8/18): Lio Rush, Red Velvet, Zayda Steel Compete",
       "p": "Ring of Honor Wrestling aired the latest episode of ROH TV on August 18. The event aired on YouTube. Full results are below. ROH TV Results (8/18) Komander def. Ariya Daivari Vignette for Action...",
       "link": "https://www.fightful.com/wrestling-news/roh-tv-results-8-18-lio-rush-red-velvet-zayda-steel-compete/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-19T02:34:37+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Mark Sterling Gives Update After Insane Bump On ROH TV",
       "p": "Is Mark Sterling okay? That was the question everyone wondered after watching ROH TV when Sterling was kicked off the apron by Komander. Sterling fell to the floor, but instead of landing on his...",
       "link": "https://www.fightful.com/wrestling-news/mark-sterling-gives-update-after-insane-bump-on-roh-tv/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-19T02:26:06+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Adam Copeland says his experience with WWE was ‘overproduced’",
       "p": "AEW’s Adam Copeland has opened up about how WWE got “overproduced” toward the end of his run with the promotion. A few years ago, Copeland made the switch and jumped promotions from WWE to AEW....",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-says-his-experience-with-wwe-was-overproduced/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-19T02:11:26+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Backstage News On AEW Contract Status Of Steve Borden (Son Of Sting)",
       "p": "A new report offered a backstage update on the AEW contract status of Steven Borden, the son of Sting.",
       "link": "https://www.wrestlinginc.com/2239662/aew-contract-steve-borden-son-sting/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-18T23:44:18+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Dave Meltzer’s weekly insights into WWE viewership on Netflix, how AEW compares | Subscriber Exclusive",
       "p": "Dave Meltzer has posted his weekly insights into WWE Raw and SmackDown numbers on Netflix and how AEW Dynamite compares to Raw. Click here to read (sub needed)",
       "link": "https://www.f4wonline.com/news/wwe/dave-meltzers-weekly-insights-into-wwe-viewership-on-netflix-how-aew-compares-subscriber-exclusive/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-18T21:48:32+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Adam Copeland believes Tony Khan ‘absolutely’ would have approved John Cena WWE match",
       "p": "Adam Copeland believes Tony Khan “absolutely” would have given him permission to wrestle John Cena in WWE one last time if the match had been on the table. During Cena’s 2025 retirement tour, fans...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-tony-khan-absolutely-would-approve-john-cena-wwe-match/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-18T21:28:14+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Jim Ross provides a health update, lists a target date for his return to the AEW broadcast table",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Jim Ross provides a health update, lists a target date for his return to the AEW broadcast table appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/18/jim-ross-provides-a-health-update-lists-a-target-date-for-his-return-to-the-aew-broadcast-table/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-18T21:22:17+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "Willow Nightingale, Mercedes Mone interview segment added to 8/19 AEW Dynamite",
       "p": "A Willow Nightingale and Mercedes Mone interview segment with Renee Paquette was added to the Aug. 19 AEW Dynamite in Baltimore. The post Willow Nightingale, Mercedes Mone interview segment added...",
       "link": "https://www.postwrestling.com/2026/08/18/willow-nightingale-mercedes-mone-interview-segment-added-to-8-19-aew-dynamite/",
-      "t": "11h",
+      "t": "12h",
       "dt": "2026-08-18T19:29:43+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Mistico reveals his goal for ‘conquering’ AEW | Exclusive",
       "p": "Mistico has big ambitions for his time in AEW. Already the top star for CMLL in Mexico, Mistico signed a dual contract with AEW earlier in 2026. He recently spoke with our Dave Meltzer and...",
       "link": "https://www.f4wonline.com/news/aew/mistico-reveals-his-goal-for-conquering-aew-exclusive/",
-      "t": "12h",
-      "dt": "2026-08-18T18:37:59+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Mance Warner & Steph De Lander pulled from indie booking for AEW/ROH event",
-      "p": "Mance Warner and Steph De Lander were pulled from an independent event due to an AEW/ROH booking on Death Before Dishonor weekend. The post Mance Warner & Steph De Lander pulled from indie booking...",
-      "link": "https://www.postwrestling.com/2026/08/18/mance-warner-steph-de-lander-pulled-from-indie-booking-for-aew-roh-event/",
       "t": "13h",
-      "dt": "2026-08-18T17:20:19+00:00"
+      "dt": "2026-08-18T18:37:59+00:00"
     }
   ]
 }

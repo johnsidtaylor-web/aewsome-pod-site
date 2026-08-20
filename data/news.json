@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-20T18:56:27.150290+00:00",
+  "updated": "2026-08-20T19:43:20.901386+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating (8/15): How did the show featuring the final Continental Cup opening round matches perform against NFL preseason games?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (8/15): How did the show featuring the final Continental Cup opening round matches perform against NFL preseason games?...",
+      "link": "https://prowrestling.net/site/2026/08/20/aew-collision-rating-8-15-how-did-the-show-featuring-the-final-continental-cup-opening-round-matches-perform-against-nfl-preseason-games/",
+      "t": "23m",
+      "dt": "2026-08-20T19:20:18+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "GCW The Crossroads Announced For Indianapolis, AEW Dynamite Highlights, More | Fight Size",
+      "p": "Here is your fight size update for Thursday, August 20, 2026. – GCW will return to Indy in November with their The Crossroads event: GCW returns to INDIANAPOLIS and Fountain Square Theatre on...",
+      "link": "https://www.fightful.com/wrestling-news/fight-size-gcw-323490/",
+      "t": "43m",
+      "dt": "2026-08-20T19:00:00+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Big Vinny V: How AEW has set the former New Day up for success",
       "p": "The worst kept secret in wrestling these days is that the wrestlers formerly known as the New Day will be making their AEW debuts at All In. And while their initial appearance is sure to get a...",
       "link": "https://www.f4wonline.com/opinion/big-vinny-v-how-aew-has-set-the-former-new-day-up-for-success/",
-      "t": "54m",
+      "t": "1h",
       "dt": "2026-08-20T18:02:00+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Powell’s AEW Dynamite Hit List: Kenny Omega goes from terrific to terrible, thoughts on two Continental Cup matches, the four-way for the TBS Championship",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Kenny Omega goes from terrific to terrible, thoughts on two Continental Cup matches, the four-way for the TBS...",
       "link": "https://prowrestling.net/site/2026/08/20/powells-aew-dynamite-hit-list-kenny-omega-goes-from-terrific-to-terrible-thoughts-on-two-continental-cup-matches-the-four-way-for-the-tbs-championship/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-20T17:38:46+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "WWE RISING STARS & FADING STARS: Solo Stands Out, Grandstanding Gable, Green Gets Serious, Borin’ Corbin, From Yeet-man to Yes-man, Lyra Unhinged",
       "p": "“Enough is enough and it’s time for a change.” – Owen Hart, 1997 A well-timed change in character or presentation can make all the difference. Some wrestlers only need a tweak here and there:...",
       "link": "https://www.pwtorch.com/site/2026/08/20/wwe-rising-stars-fading-stars-solo-stands-out-grandstanding-gable-green-gets-serious-borin-corbin-from-yeet-man-to-yes-man-lyra-unhinged/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-20T17:03:05+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "AEW DYNAMITE HITS & MISSES (8/19): Did Omega and Ospreay deliver in their face-to-face, did Jay White and Moxley earn its TV time, did the Okada promo make sense, more",
       "p": "HITS OMEGA AND OSPREAY SIT DOWN INTERVIEW Damn! Where has this Kenny Omega been for the past 7 years? I was blown away by his performance in that interview. He was super serious from start [...]",
       "link": "https://www.pwtorch.com/site/2026/08/20/aew-dynamite-hits-misses-8-19-did-omega-and-ospreay-deliver-in-their-face-to-face-did-jay-white-and-moxley-earn-its-tv-time-did-the-okada-promo-make-sense-more/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T16:31:03+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW All In London lineup: The updated card for the annual stadium event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In London lineup: The updated card for the annual stadium event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/20/aew-all-in-london-lineup-the-updated-card-for-the-annual-stadium-event/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T16:10:52+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Dave Meltzer Clarifies AEW/Road Dogg Situation",
       "p": "On Wednesday, Road Dogg posted on social media that he wasn't hired by AEW due to his political views. On Wrestling Observer Radio, Dave Meltzer disputed that.",
       "link": "https://www.wrestlinginc.com/2240816/dave-meltzer-clarifies-aew-road-dogg-situation/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-20T15:17:26+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW Dynamite & Collision ratings info for last week",
       "p": "The ratings numbers are in for last week’s AEW Dynamite and Collision episodes. For Dynamite, the August 12 show did 658,000 viewers which was down five percent from the prior week’s Grand Slam...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-collision-ratings-info-for-last-week/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-20T15:06:24+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Backstage Update On Nigel McGuinness's On-Screen Ankle Injury Amidst AEW CCC",
       "p": "A backstage update on the on-screen ankle injury to Nigel McGuinness was reported on Wednesday following his win over Hechicero on \"AEW Dynamite.\"",
       "link": "https://www.wrestlinginc.com/2240776/backstage-update-nigel-mcguinness-on-screen-ankle-injury-aew-ccc/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-20T14:41:03+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Dax Harwood Of FTR Admits That AEW's Young Bucks Might Be Best-Ever Tag Team",
       "p": "FTR's Dax Harwood, who has faced The Young Bucks a number of times in AEW, believes that the duo could be the greatest tag team of all time.",
       "link": "https://www.wrestlinginc.com/2240600/aew-dax-harwood-young-bucks-ftr-admits-might-best-ever-tag-team/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-20T14:30:00+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Band Fronted By AEW's Brody King Releases New Album, MJF Provides Succinct Review",
       "p": "God's Hate, the band fronted by AEW star Brody King, put out a new release, and MJF made it clear he's not the biggest fan.",
       "link": "https://www.wrestlinginc.com/2240755/aew-brody-king-gods-hate-new-album-mjf-review/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-20T14:27:17+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Nigel McGuinness Reportedly Pulled From ROH Death Before Dishonor Title Match",
-      "p": "AEW's Nigel McGuinness was reportedly pulled from his ROH Death Before Dishonor championship match on Friday.",
-      "link": "https://www.wrestlinginc.com/2240736/aew-roh-death-before-dishonor-ring-honor-nigel-mcguinness-pulled-injury/",
-      "t": "4h",
-      "dt": "2026-08-20T14:09:39+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Paul Wight On 'Paying Dues' In Wrestling: 'F*** That Bulls***'",
-      "p": "Paul Wight has hit out at experienced wrestlers demanding newcomers to the business pay their dues, with the AEW star alleging it's a form of bullying.",
-      "link": "https://www.wrestlinginc.com/2240589/aew-paul-wight-big-show-paying-dues-f-that/",
-      "t": "4h",
-      "dt": "2026-08-20T14:00:00+00:00"
     }
   ]
 }

@@ -1,22 +1,94 @@
 {
-  "updated": "2026-08-19T23:34:24.045690+00:00",
+  "updated": "2026-08-20T01:49:10.446350+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Gabe Kidd makes surprise return on AEW Dynamite",
+      "p": "After months of being a duo, The Dogs are now complete with the surprise return of Gabe Kidd on Wednesday’s AEW Dynamite. Kidd interjected himself in a brawl between Clark Connors, David Finlay,...",
+      "link": "https://www.f4wonline.com/news/aew/gabe-kidd-surprise-return-aew-dynamite/",
+      "t": "7m",
+      "dt": "2026-08-20T01:41:51+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW World Trios Championships To Be Defended At AEW All In",
+      "p": "A big title bout has been announced for AEW All In. The trio of ‘Hangman’ Adam Page and Brodido laid out a huge challenge on this week’s episode of AEW Dynamite, revealing that they will be...",
+      "link": "https://www.fightful.com/wrestling-news/aew-world-trios-championships-to-be-defended-at-aew-all-in/",
+      "t": "9m",
+      "dt": "2026-08-20T01:39:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Ruby Soho reportedly cleared by AEW for in-ring return",
+      "p": "While there are plenty of wrestlers that are under a) AEW contract, b) currently not competing and c) with their status unknown, there is news about one of them: Ruby Soho. After giving birth to...",
+      "link": "https://www.f4wonline.com/news/aew/ruby-soho-aew-return-cleared/",
+      "t": "24m",
+      "dt": "2026-08-20T01:24:13+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Maya World Escapes AEW Dynamite Four-Way With TBS Title",
+      "p": "Maya World is still TBS Champion after retaining in a four-way match against Hikaru Shida, Persephone, and Kris Statlander on \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2240525/maya-world-escapes-aew-dynamite-tbs-title/",
+      "t": "39m",
+      "dt": "2026-08-20T01:09:54+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Claudio Castagnoli Explains How Process Of Choosing Entrance Music Has Changed",
+      "p": "A wrestler's entrance music can set the tone for their character and prepare the crowd for what's coming. AEW's Claudio Castagnoli discussed how it's changed.",
+      "link": "https://www.wrestlinginc.com/2237207/aew-claudio-castagnoli-process-choosing-entrance-music-changed/",
+      "t": "49m",
+      "dt": "2026-08-20T01:00:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite 8/19/26 Review | REWIND-A-DYNAMITE (Live 10:35pm ET)",
+      "p": "TONIGHT 10:35pm — Pollock & Ting review AEW Dynamite w/ Omega and Ospreay trios matches vs Callis Family, C3 quarterfinals, Maya World TBS title defense. XL: Jim Ross, WrestleMania 42 attendance,...",
+      "link": "https://www.postwrestling.com/2026/08/19/aew-dynamite-8-19-26-review-rewind-a-dynamite-live-1035pm-et/",
+      "t": "1h",
+      "dt": "2026-08-20T00:35:56+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Konosuke Takeshita Returns On 8/19 AEW Dynamite, Lays Out Kyle Fletcher",
+      "p": "Konosuke Takeshita is back. ‘The Alpha’ surprised fans by making his return to AEW on the August 19 episode of Dynamite. He interrupted Kyle Fletcher in the middle of promo about their three way...",
+      "link": "https://www.fightful.com/wrestling-news/konosuke-takeshita-kyle-fletcher-aew-323370/",
+      "t": "1h",
+      "dt": "2026-08-20T00:34:59+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite Live Results: Ospreay/Omega Sit-Down,TBS Championship 4-Way, C3 Quarterfinals",
+      "p": "AEW Dynamite featured a sit-down interview with Will Ospreay & Kenny Omega, a TBS Championship 4-Way, & the C3 Quarterfinals. The post AEW Dynamite Live Results: Ospreay/Omega Sit-Down,TBS...",
+      "link": "https://www.postwrestling.com/2026/08/19/aew-dynamite-live-results-ospreay-omega-sit-downtbs-championship-4-way-c3-quarterfinals/",
+      "t": "1h",
+      "dt": "2026-08-20T00:22:16+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE RESULTS (8/19): Keller’s report on Moxley vs. Jay White and Nigel vs. Hechicero in Continental Quarterfinal, TBS Title four-way, sitdown interviews with Omega-Ospreay and Willow-Mercedes",
+      "p": "AEW DYNAMITE REPORT AUGUST 19, 2026 BALTIMORE, MD. AT CHESAPEAKE ARENA AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Paul Wight Ring...",
+      "link": "https://www.pwtorch.com/site/2026/08/19/aew-dynamite-results-8-19-kellers-report-on-moxley-vs-jay-white-and-nigel-vs-hechicero-in-continental-quarterfinal-tbs-title-four-way-sitdown-interviews-with-omega-ospreay-and-willow-m/",
+      "t": "2h",
+      "dt": "2026-08-19T23:34:51+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite results (8/19): Barnett’s review of Maya World vs. Kris Statlander vs. Persephone vs. Hikaru Shida for the TBS Title, Continental Cup tournament semifinal matches",
       "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post AEW Dynamite results (8/19): Barnett’s review of Maya World vs. Kris Statlander vs. Persephone vs. Hikaru Shida for the TBS Title,...",
       "link": "https://prowrestling.net/site/2026/08/19/aew-dynamite-results-8-19-barnetts-review-of-maya-world-vs-kris-statlander-vs-persephone-vs-hikaru-shida-for-the-tbs-title-continental-cup-tournament-semifinal-matches/",
-      "t": "3m",
+      "t": "2h",
       "dt": "2026-08-19T23:30:43+00:00"
     },
     {
@@ -24,88 +96,16 @@
       "h": "AEW Dynamite live results: Kenny Omega & Will Ospreay take on the Don Callis Family",
       "p": "With All In less than two weeks away, Wednesday’s AEW Dynamite from Baltimore, Maryland, will see both World Champion Kenny Omega and Will Ospreay in separate trios bouts against the Don Callis...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-kenny-omega-will-ospreay-take-on-the-don-callis-family/",
-      "t": "4m",
+      "t": "2h",
       "dt": "2026-08-19T23:30:00+00:00"
     },
     {
       "src": "Fightful",
       "h": "AEW Dynamite Results (8/19/2026): TBS Title Match, The Elite, United Empire, Mercedes Mone, More",
-      "p": "Full results for the August 19, 2026, edition of AEW Dynamite on TBS live from the Chesapeake Employers Insurance Arena. On August 19, 2026, All Elite Wrestling hosted a new episode of Dynamite on...",
+      "p": "Full results for the August 19, 2026, edition of AEW Dynamite on TBS live from the Chesapeake Employers Insurance Arena. On August 19, 2026, All Elite Wrestling hosted a new episode of Dynamite at...",
       "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-8-19-2026-tbs-title-match-the-elite-united-empire-mercedes-mone-more/",
-      "t": "19m",
+      "t": "2h",
       "dt": "2026-08-19T23:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Results 8/19 - Four-Way TBS Championship Match And More",
-      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on August 19, 2026, with Maya World defending the TBS Championship in a Four-Way Match!",
-      "link": "https://www.wrestlinginc.com/2239702/aew-dynamite-august-19-four-way-tbs-championship-match-more/",
-      "t": "34m",
-      "dt": "2026-08-19T23:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Tonight’s penultimate episode before All In London",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s penultimate episode before All In London appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/19/aew-dynamite-preview-tonights-penultimate-episode-before-all-in-london/",
-      "t": "1h",
-      "dt": "2026-08-19T22:00:33+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: Paul Heyman, AEW Spill The Tea, TNA",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Wednesday Update...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-paul-heyman-aew-spill-the-tea-tna/",
-      "t": "1h",
-      "dt": "2026-08-19T21:38:49+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Pat McAfee Reiterates He Will Never Appear On WWE TV Again, References AEW Star",
-      "p": "Former WWE commentator and ESPN personality Pat McAfee reiterated on social media that he will never appear on WWE television again following WrestleMania 42.",
-      "link": "https://www.wrestlinginc.com/2240422/pat-macafee-never-appear-wwe-tv-aew-chris-jericho/",
-      "t": "2h",
-      "dt": "2026-08-19T21:11:04+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Willow Nightingale Says She’s Expecting A Split Crowd For Her Match At AEW All In",
-      "p": "Willow Nightingale gets realistic about AEW All In. Nightingale will compete in the biggest match of her career at the Wembley Stadium event, as she’s set to defend the AEW Women’s World...",
-      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-says-shes-expecting-a-split-crowd-for-her-match-at-aew-all-in/",
-      "t": "2h",
-      "dt": "2026-08-19T20:51:09+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Announces New Spill The Tea Show, Trailer Includes Several High-Profile Stars",
-      "p": "AEW announced a new social media series called \"Spill the Tea\" on X, and the teaser trailer includes several high-profile stars.",
-      "link": "https://www.wrestlinginc.com/2240401/aew-spill-the-tea-trailer-will-ospreay-mercedes-mone-rachael-bonnetta/",
-      "t": "2h",
-      "dt": "2026-08-19T20:47:56+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Willow Nightingale Says AEW Women’s Title Win Didn’t Sink In Until Dynamite After AEW Redemption",
-      "p": "Willow Nightingale took a few days to process her title win. Nightingale made history at the Redemption pay-per-view in July, as she defeated Thekla to become the new AEW Women’s World Champion....",
-      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-says-aew-womens-title-win-didnt-sink-in-until-dynamite-after-aew-redemption/",
-      "t": "3h",
-      "dt": "2026-08-19T20:17:37+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "'Unemployed' Road Dogg Says He Was 'Turned Away' From AEW Because Of Political Beliefs",
-      "p": "\"Road Dogg\" Brian James claimed on social media he was \"turned away\" from AEW due to his political beliefs, and said he is still unemployed after leaving WWE.",
-      "link": "https://www.wrestlinginc.com/2240316/unemployed-road-dogg-turned-away-aew-political-beliefs/",
-      "t": "3h",
-      "dt": "2026-08-19T19:36:26+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW All In: London tickets distributed reaches over estimated 40,000",
-      "p": "Over the past week, AEW All In: London past the threshold of an estimated 40,000 tickets distributed, according to WrestleTix. The post AEW All In: London tickets distributed reaches over...",
-      "link": "https://www.postwrestling.com/2026/08/19/aew-all-in-london-tickets-distributed-reaches-over-estimated-40000/",
-      "t": "5h",
-      "dt": "2026-08-19T18:30:14+00:00"
     }
   ]
 }

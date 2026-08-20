@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T15:46:41.966404+00:00",
+  "updated": "2026-08-20T16:48:55.335499+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Steph De Lander Confirms She’s Still A Free Agent, ‘I Think That’ll Change Pretty Soon’",
+      "p": "Since leaving TNA Wrestling in March and returning to the ring, Steph De Lander has found a home in Ring of Honor. De Lander started appearing on ROH programming in June, and quickly made an...",
+      "link": "https://www.fightful.com/wrestling-news/steph-de-lander-confirms-shes-still-a-free-agent-i-think-thatll-change-pretty-soon/",
+      "t": "2m",
+      "dt": "2026-08-20T16:45:54+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE HITS & MISSES (8/19): Did Omega and Ospreay deliver in their face-to-face, did Jay White and Moxley earn its TV time, did the Okada promo make sense, more",
+      "p": "HITS OMEGA AND OSPREAY SIT DOWN INTERVIEW Damn! Where has this Kenny Omega been for the past 7 years? I was blown away by his performance in that interview. He was super serious from start [...]",
+      "link": "https://www.pwtorch.com/site/2026/08/20/aew-dynamite-hits-misses-8-19-did-omega-and-ospreay-deliver-in-their-face-to-face-did-jay-white-and-moxley-earn-its-tv-time-did-the-okada-promo-make-sense-more/",
+      "t": "17m",
+      "dt": "2026-08-20T16:31:03+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW All In London lineup: The updated card for the annual stadium event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In London lineup: The updated card for the annual stadium event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/20/aew-all-in-london-lineup-the-updated-card-for-the-annual-stadium-event/",
+      "t": "38m",
+      "dt": "2026-08-20T16:10:52+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Dave Meltzer Clarifies AEW/Road Dogg Situation",
       "p": "On Wednesday, Road Dogg posted on social media that he wasn't hired by AEW due to his political views. On Wrestling Observer Radio, Dave Meltzer disputed that.",
       "link": "https://www.wrestlinginc.com/2240816/dave-meltzer-clarifies-aew-road-dogg-situation/",
-      "t": "29m",
+      "t": "1h",
       "dt": "2026-08-20T15:17:26+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "AEW Dynamite & Collision ratings info for last week",
       "p": "The ratings numbers are in for last week’s AEW Dynamite and Collision episodes. For Dynamite, the August 12 show did 658,000 viewers which was down five percent from the prior week’s Grand Slam...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-collision-ratings-info-for-last-week/",
-      "t": "40m",
+      "t": "1h",
       "dt": "2026-08-20T15:06:24+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Backstage Update On Nigel McGuinness's On-Screen Ankle Injury Amidst AEW CCC",
       "p": "A backstage update on the on-screen ankle injury to Nigel McGuinness was reported on Wednesday following his win over Hechicero on \"AEW Dynamite.\"",
       "link": "https://www.wrestlinginc.com/2240776/backstage-update-nigel-mcguinness-on-screen-ankle-injury-aew-ccc/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-20T14:41:03+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Dax Harwood Of FTR Admits That AEW's Young Bucks Might Be Best-Ever Tag Team",
       "p": "FTR's Dax Harwood, who has faced The Young Bucks a number of times in AEW, believes that the duo could be the greatest tag team of all time.",
       "link": "https://www.wrestlinginc.com/2240600/aew-dax-harwood-young-bucks-ftr-admits-might-best-ever-tag-team/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-20T14:30:00+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Band Fronted By AEW's Brody King Releases New Album, MJF Provides Succinct Review",
       "p": "God's Hate, the band fronted by AEW star Brody King, put out a new release, and MJF made it clear he's not the biggest fan.",
       "link": "https://www.wrestlinginc.com/2240755/aew-brody-king-gods-hate-new-album-mjf-review/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-20T14:27:17+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "AEW's Nigel McGuinness Reportedly Pulled From ROH Death Before Dishonor Title Match",
       "p": "AEW's Nigel McGuinness was reportedly pulled from his ROH Death Before Dishonor championship match on Friday.",
       "link": "https://www.wrestlinginc.com/2240736/aew-roh-death-before-dishonor-ring-honor-nigel-mcguinness-pulled-injury/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-20T14:09:39+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "AEW's Paul Wight On 'Paying Dues' In Wrestling: 'F*** That Bulls***'",
       "p": "Paul Wight has hit out at experienced wrestlers demanding newcomers to the business pay their dues, with the AEW star alleging it's a form of bullying.",
       "link": "https://www.wrestlinginc.com/2240589/aew-paul-wight-big-show-paying-dues-f-that/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-20T14:00:00+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW Collision lineup: AEW Women’s Championship and Continental Classic quarterfinal matches set for Saturday’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: AEW Women’s Championship and Continental Classic quarterfinal matches set for Saturday’s live show appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/08/20/aew-collision-lineup-aew-womens-championship-and-continental-classic-quarterfinal-matches-set-for-saturdays-live-show/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T13:20:11+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW Dynamite preview: The All In London go-home show, Continental Cup semifinal matches (Glasgow reports needed)",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The All In London go-home show, Continental Cup semifinal matches (Glasgow reports needed) appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/08/20/aew-dynamite-preview-the-all-in-london-go-home-show-continental-cup-semifinal-matches-glasgow-reports-needed/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T13:00:17+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision (8/15) Viewership Drops Slightly, Demo Rating Up",
-      "p": "AEW Collision viewership information for August 15. Wrestlenomics reports that AEW Collision drew 409,000 viewers on TNT on Saturday, August 15. This number is down from the 418,000 viewers the...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-8-15-viewership-drops-slightly-demo-rating-up/",
-      "t": "3h",
-      "dt": "2026-08-20T12:43:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Injured AEW wrestler makes Maple Leaf Pro return four months after surgery",
-      "p": "More than four months removed from knee surgery, Josh Alexander looks like he’ll be able to return to the ring soon. The Don Callis Family member injured his knee at an AEW taping in March and was...",
-      "link": "https://www.f4wonline.com/news/aew/injured-aew-wrestler-makes-maple-leaf-pro-return-four-months-after-surgery/",
-      "t": "3h",
-      "dt": "2026-08-20T12:37:39+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH Google Search interest has dropped off significantly | Column",
-      "p": "Tony Khan purchased Ring of Honor/ROH back in March 2022, and since then, interest in the company on Google has unfortunately been on a steady decline. Google Trends scores measure relative search...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-google-search-interest-dropped-off-significantly-column/",
-      "t": "3h",
-      "dt": "2026-08-20T12:34:47+00:00"
     }
   ]
 }

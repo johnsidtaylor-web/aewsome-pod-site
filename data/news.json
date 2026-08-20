@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T04:50:32.216675+00:00",
+  "updated": "2026-08-20T05:44:27.839760+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (5 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "08/19 Barnett’s AEW Dynamite audio review: Maya World vs. Kris Statlander vs. Persephone vs. Hikaru Shida for the TBS Title, Continental Cup tournament semifinal matches",
+      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 08/19 Barnett’s AEW Dynamite audio review: Maya World vs. Kris Statlander vs. Persephone vs. Hikaru Shida for the TBS Title, Continental Cup...",
+      "link": "https://prowrestling.net/site/2026/08/20/08-19-barnetts-aew-dynamite-audio-review-maya-world-vs-kris-statlander-vs-persephone-vs-hikaru-shida-for-the-tbs-title-continental-cup-tournament-semifinal-matches/",
+      "t": "21m",
+      "dt": "2026-08-20T05:23:20+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW Dynamite - 8/19/2026: 3 Things We Hated & 3 We Loved",
       "p": "The best and the worst of AEW's latest stop in Baltimore, MD.",
       "link": "https://www.wrestlinginc.com/2240546/aew-dynamite-august-19-2026-3-things-hated-loved-opinion-review/",
-      "t": "26m",
+      "t": "1h",
       "dt": "2026-08-20T04:24:14+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "MVP says missed WWE show led to near-fight with John Laurinaitis",
       "p": "The 52-year-old MVP has been in the pro-wrestling business for years now. While he has worked for multiple promotions, including WWE and AEW, he once got involved in a near-fight with John...",
       "link": "https://www.f4wonline.com/news/aew/mvp-says-missed-wwe-show-led-to-near-fight-with-john-laurinaitis/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-20T03:11:38+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Gabe Kidd Returns To AEW On Dynamite",
       "p": "Gabe Kidd is back in AEW. On the August 19 episode of AEW Dynamite, Gabe Kidd made his return to the promotion, attacking The Conglomeration and reuniting with The Dogs (David Finlay & Clark...",
       "link": "https://www.fightful.com/wrestling-news/gabe-kidd-returns-to-aew-on-dynamite/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-20T02:52:18+00:00"
     },
     {
@@ -44,11 +52,19 @@
       "dt": "2026-08-20T02:50:14+00:00"
     },
     {
+      "src": "POST Wrestling",
+      "h": "Ospreay/Omega Sit-Down: AEW Dynamite 8/19/26 Review | REWIND-A-DYNAMITE",
+      "p": "John & Wai review AEW Dynamite w/ Omega and Ospreay interview and trios matches, C3 quarterfinals, and more. XL: Jim Ross, WrestleMania 42 attendance, NXT Heatwave, ROH Death Before Dishonor. The...",
+      "link": "https://www.postwrestling.com/2026/08/19/aew-dynamite-8-19-26-review-rewind-a-dynamite-live-1035pm-et/",
+      "t": "3h",
+      "dt": "2026-08-20T02:40:56+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "AEW Women’s World Title Bout Set For 8/22 AEW Collision",
       "p": "Here’s what’s on tap for the August 22 episode of AEW Collision. First, just a week before AEW All In, Willow Nightingale will defend the AEW Women’s World Championship against Maya World. This...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-willow-maya-323392/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T02:38:15+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW Dynamite Results: Omega snaps, puts Ospreay through table, Mox & Nigel advance in C3",
       "p": "AEW Dynamite featured a sit-down interview with Will Ospreay & Kenny Omega, a TBS Championship 4-Way, & the C3 Quarterfinals. The post AEW Dynamite Results: Omega snaps, puts Ospreay through...",
       "link": "https://www.postwrestling.com/2026/08/19/aew-dynamite-live-results-ospreay-omega-sit-downtbs-championship-4-way-c3-quarterfinals/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T02:35:16+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Women’s World title defense signed for AEW Collision",
       "p": "After successfully defending her TBS title in a four-way on Wednesday’s Dynamite, Maya World can change the face of AEW All In as well. In a backstage segment, AEW Women’s World Champion Willow...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-wlllow-nightingale-vs-maya-world/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T02:32:09+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Darby Allin Stretchered Off After Pyro Explosion And Kevin Knight Attack On 8/19 AEW Dynamite",
       "p": "Darby Allin gets caught lacking. Just days before their match at AEW All In, Kevin Knight called Darby Allin to the ring for a promo on this week’s episode of AEW Dynamite. While standing on the...",
       "link": "https://www.fightful.com/wrestling-news/darby-allin-stretchered-off-after-pyro-explosion-and-kevin-knight-attack-on-8-19-aew-dynamite/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T02:21:19+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "AEW Continental Challenge Cup Update - 8/19/2026",
       "p": "Two men took a step closer to greatness on the August 19 episode of \"AEW Dynamite\" as the quarter finals of the AEW Continental Challenge Cup commenced.",
       "link": "https://www.wrestlinginc.com/2240534/aew-continental-challenge-cup-update-august-19-2026/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T02:12:13+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "First two semifinalists set in AEW Continental Challenge Cup tournament",
       "p": "The first two semifinalists in the first-ever Continental Challenge Cup are now set following Wednesday’s AEW Dynamite. Reigning AEW Continental Champion Jon Moxley was victorious in his...",
       "link": "https://www.f4wonline.com/news/aew/aew-continental-challenge-cup-first-semifinalists/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-20T02:09:15+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Jon Moxley And Nigel McGuinness Advance In Continental Challenge Cup On 8/19 AEW Dynamite",
-      "p": "Jon Moxley and Nigel McGuinness are moving on in the AEW Continental Challenge Cup. This week’s episode of AEW Dynamite featured two matches in the tournament — Jon Moxley vs. Jay White and Nigel...",
-      "link": "https://www.fightful.com/wrestling-news/jon-moxley-and-nigel-mcguinness-advance-in-continental-challenge-cup-on-8-19-aew-dynamite/",
-      "t": "2h",
-      "dt": "2026-08-20T02:09:03+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kris Statlander says AEW’s Skye Blue doesn’t get the recognition she deserves",
-      "p": "Former women’s champion Kris Statlander believes that AEW wrestler Skye Blue does not get the recognition she deserves. The 26-year-old Skye Blue has been a part of AEW since 2021 but is yet to...",
-      "link": "https://www.f4wonline.com/news/aew/kris-statlander-says-aews-skye-blue-doesnt-get-the-recognition-she-deserves/",
-      "t": "2h",
-      "dt": "2026-08-20T01:59:28+00:00"
     }
   ]
 }

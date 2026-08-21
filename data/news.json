@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-21T20:38:00.223712+00:00",
+  "updated": "2026-08-21T21:36:11.402932+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Mercedes Mone Explains Why She Feels Like A Leader In AEW",
+      "p": "Mercedes Mone is viewed as a veteran in the women’s locker room and one of the best wrestlers in the world. Despite her stature and experience, she says that many in the AEW women’s locker room...",
+      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-explains-why-she-feels-like-a-leader-in-aew/",
+      "t": "5m",
+      "dt": "2026-08-21T21:30:40+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Swerve Strickland mourns death of original trainer",
+      "p": "AEW star Swerve Strickland is mourning the loss of someone who was very important to his career. Strickland sent out a tweet today acknowledging the passing of Ron “The Pharaoh” Cromartie, who...",
+      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-mourns-death-of-original-trainer/",
+      "t": "47m",
+      "dt": "2026-08-21T20:48:06+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "WOL: CM Punk vs. Kevin Owens exclusive, Santos Escobar release, Lockdown and ROH",
       "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including lots of notes on tonight’s CM Punk vs. Kevin Owens match, Santos Escobar’s WWE release and why...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-cm-punk-vs-kevin-owens-exclusive-santos-escobar-release-lockdown-and-roh/",
-      "t": "33m",
+      "t": "1h",
       "dt": "2026-08-21T20:04:28+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW Reportedly Lost $30 Million On Fight Forever Video Game",
       "p": "According to a new report, AEW reportedly lost $30 million on its first-ever video game, AEW Fight Forever.",
       "link": "https://www.wrestlinginc.com/2241873/aew-fight-forever-lost-30-million-video-game/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-21T19:30:53+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "POST NEWS: CM Punk vs. Kevin Owens, ROH & TNA Lockdown previews",
       "p": "John Pollock and Jack Wannan cover the news, including previews of Punk vs. Owens, ROH Death Before Dishonor, and TNA Lockdown, . The post POST NEWS: CM Punk vs. Kevin Owens, ROH & TNA Lockdown...",
       "link": "https://www.postwrestling.com/2026/08/21/post-news-cm-punk-vs-kevin-owens-roh-tna-lockdown-previews/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-21T19:26:29+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Kevin Knight Names His Favorite Pro Wrestlers",
       "p": "Kevin Knight talks about his favorite pro wrestlers. “The Jet” Kevin Knight has been making waves in All Elite Wrestling for quite some time now. For many people, he’s one of the best things about...",
       "link": "https://www.fightful.com/wrestling-news/kevin-knight-names-his-favorite-pro-wrestlers/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-21T19:11:49+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Kevin Knight Says AEW Heel Turn Is The ‘Most Fun’ He’s Ever Had In Wrestling",
       "p": "Kevin Knight is having a great time in All Elite Wrestling as a heel. Earlier this year, Kevin Knight turned heel in AEW after he attacked Darby Allin at Double or Nothing. He later became a...",
       "link": "https://www.fightful.com/wrestling-news/kevin-knight-says-aew-heel-turn-is-the-most-fun-hes-ever-had-in-wrestling/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-21T19:07:43+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Mercedes Mone: Bayley Is Always A Dream Match For Me, We Wouldn’t Have This Generation Without Her",
       "p": "Mercedes Mone always has love for Bayley. Though they haven’t worked in the same company since 2022, Mercedes Mone and Bayley will always be linked together in the ring thanks to their famous...",
       "link": "https://www.fightful.com/wrestling-news/mercedes-mone-bayley-is-always-a-dream-match-for-me-we-wouldnt-have-this-generation-without-her/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-21T18:28:33+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Steph De Lander Talks Death Before Dishonor, Says She ‘Knew Everything Would Work Out’ After Deonna Purrazzo Injury",
       "p": "Steph De Lander discusses her upcoming ROH title match. ROH will bring the Death Before Dishonor pay-per-view to the 2300 Arena on Friday, August 21. The show is set to feature a big bout for the...",
       "link": "https://www.fightful.com/wrestling-news/steph-de-lander-deonna-323466/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-21T18:00:00+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Backstage Report On Possible Pyro Restrictions For AEW All In: London",
       "p": "Don't expect too many fireworks at AEW All In London 2026, literally, as a recent concert has put Wembley Stadium under severe scrutiny.",
       "link": "https://www.wrestlinginc.com/2241769/aew-all-in-london-2026-pyro-restrictions-backstage/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-21T17:49:14+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Mercedes Mone ‘very happy’ to be in AEW",
       "p": "As she prepares for All In 2026, Mercedes Mone remains “very happy” to be part of the AEW roster. Daily Star interviewed Mone ahead of the August 30 pay-per-view and asked about the freedom she...",
       "link": "https://www.f4wonline.com/news/aew/mercedes-mone-very-happy-to-be-in-aew/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-21T17:38:26+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "AEW's Adam Copeland Says Tony Khan Would've Let Him Wrestle Retiring John Cena In WWE",
       "p": "Adam Copeland believes he could've been one of the opponents in John Cena's retirement tour, but thinks WWE wasn't interested.",
       "link": "https://www.wrestlinginc.com/2241748/aew-adam-copeland-tony-khan-john-cena-wwe/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-21T17:27:38+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mercedes Mone addresses potential Bayley AEW dream match: ‘You never know’",
-      "p": "Facing Bayley again remains a dream for Mercedes Mone. Fueling speculation about Bayley’s future, Mone shared a fan-made graphic in June teasing the idea that she and Bayley could face off at...",
-      "link": "https://www.f4wonline.com/news/aew/mercedes-mone-addresses-potential-bayley-aew-dream-match/",
-      "t": "3h",
-      "dt": "2026-08-21T17:12:38+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Karl Anderson: Do I Think AJ Styles Could Come Back And Do Something At AEW Or Something Else? 100%. Will He? I Don’t Know.",
-      "p": "Karl Anderson and Doc Gallows comment on the retirement of AJ Styles. Styles has been a popular topic conversation throughout 2026, especially after stating that he could come out of retirement to...",
-      "link": "https://www.fightful.com/wrestling-news/karl-anderson-do-i-think-aj-styles-could-come-back-and-do-something-at-aew-or-something-100-will-he-i-dont-know/",
-      "t": "3h",
-      "dt": "2026-08-21T17:09:10+00:00"
     }
   ]
 }

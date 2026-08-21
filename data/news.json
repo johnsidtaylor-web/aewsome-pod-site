@@ -1,22 +1,46 @@
 {
-  "updated": "2026-08-21T11:37:51.883854+00:00",
+  "updated": "2026-08-21T13:08:23.567470+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (1 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub results (8/20): Katsuyori Shibata vs. Wheeler Yuta for a shot at the ROH Pure Championship at Death Before Dishonor",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (8/20): Katsuyori Shibata vs. Wheeler Yuta for a shot at the ROH Pure Championship at Death Before Dishonor appeared...",
+      "link": "https://prowrestling.net/site/2026/08/21/roh-on-honorclub-results-8-20-katsuyori-shibata-vs-wheeler-yuta-for-a-shot-at-the-roh-pure-championship-at-death-before-dishonor/",
+      "t": "7m",
+      "dt": "2026-08-21T13:00:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH Death Before Dishonor 2026 Preview, Start Time, How To Watch, Location (8/21)",
+      "p": "Viewership information and lineup for ROH Death Before Dishonor on August 21, 2026 ROH Death Before Dishonor (August 21, 2026) Venue: 2300 Arena City: Philadelphia, PA Time: 7 pm ET How To Watch:...",
+      "link": "https://www.fightful.com/wrestling-news/roh-death-before-dishonor-2026-preview-start-time-how-to-watch-location-5-15/",
+      "t": "8m",
+      "dt": "2026-08-21T13:00:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: Owens challenges CM Punk in Toronto, TNA revives Lockdown, STARDOM 5STAR GP wraps up & more!",
+      "p": "Where to watch this weekend's top professional wrestling events, including WWE, AEW, ROH, TNA, STARDOM and more. The post Weekend TV Guide: Owens challenges CM Punk in Toronto, TNA revives...",
+      "link": "https://www.postwrestling.com/2026/08/21/weekend-tv-guide-owens-challenges-cm-punk-in-toronto-tna-revives-lockdown-stardom-5star-gp-wraps-up-more/",
+      "t": "1h",
+      "dt": "2026-08-21T12:00:16+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Adam Copeland Says AEW Double Or Nothing 2024 Injury Still Lingers With Him",
       "p": "Adam Copeland has taken a number of high risks in his career, but perhaps no move was riskier than jumping off the top of a cage at the age of 50. At AEW Double or Nothing 2024, Copeland leaped...",
       "link": "https://www.fightful.com/wrestling-news/adam-copeland-says-aew-double-or-nothing-2024-injury-still-lingers-with-him/",
-      "t": "46m",
+      "t": "2h",
       "dt": "2026-08-21T10:51:42+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Fight Game: Kenny Omega vs. Will Ospreay heats up",
       "p": "John LaRocca and I are back on The Fight Game Podcast. We discuss some of the most topical things going on in pro wrestling this week. You can also watch full video of the show below. We gave out...",
       "link": "https://www.f4wonline.com/podcasts/fight-game-kenny-omega-vs-will-ospreay-heats-up/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-21T07:22:22+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "REPORT: Details About AEW’s Video Game Future",
       "p": "Details were put out about the future of AEW Games. A new video was uploaded to the Mike Straw Media YouTube channel, and it was centered around the future of AEW Games, specifically the 2023...",
       "link": "https://www.fightful.com/wrestling-news/report-details-about-aews-video-game-future/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-21T05:32:10+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW Dynamite Viewership & Ratings Report: 8/12/2026",
       "p": "The Las Vegas crowd saw a loaded episode of \"AEW Dynamite\" on August 12, but the TV viewership took a slight knock.",
       "link": "https://www.wrestlinginc.com/2241336/aew-dynamite-viewership-ratings-august-12-2026/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-21T03:12:16+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "VIP PODCAST 8/20 – The Fix Mailbag w/Todd & Wade (pt. 2 of 2): Can someone become a pro wrestling fan as an adult, UFC de-emphasizing women’s fights, AAA-WWE dynamic, Oiwa’s upside, Bagwell-Booker (38 min.)",
       "p": "SHOW SUMMARY: In this week’s The Fix Mailbag with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they answer emails from VIP members on the following topics: Is Will Ospreay...",
       "link": "https://www.pwtorch.com/site/2026/08/20/vip-podcast-8-20-the-fix-mailbag-w-todd-wade-pt-2-of-2-can-someone-become-a-pro-wrestling-fan-as-an-adult-ufc-de-emphasizing-womens-fights-aaa-wwe-dynamic-oiwas-upside-bagwell/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-21T03:09:55+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "VIP PODCAST 8/20 – The Fix w/Todd & Wade (pt. 1 of 2): New Japan G1 conclusion, latest KO-Punk exchange, on-site Dynamite review, Reigns, Dan Spivey book review (104 min.)",
       "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: A review of New Japan Pro Wrestling’s G1...",
       "link": "https://www.pwtorch.com/site/2026/08/20/vip-podcast-8-20-the-fix-w-todd-wade-pt-1-of-2-new-japan-g1-conclusion-latest-ko-punk-exchange-on-site-dynamite-review-reigns-dan-spivey-book-review-104-min/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-21T02:53:23+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "AEW reportedly took $30 million loss on Fight Forever video game, more details",
       "p": "Tony Khan has been asked frequently about the future of the AEW Fight Forever video game and whether he will do another one. Based on a new report out Thursday, there appears to be a financial...",
       "link": "https://www.f4wonline.com/news/aew/aew-losses-30-million-fight-forever/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-21T02:50:26+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "Nigel McGuinness pulled from ROH Death Before Dishonor, new title matches announced",
       "p": "After successfully defeating Hechicero on Wednesday’s AEW Dynamite to advance in the Continental Challenge Cup tournament, Nigel McGuinness has been pulled from Friday’s ROH Death Before Dishonor....",
       "link": "https://www.f4wonline.com/news/ring-of-honor/nigel-mcguinness-out-roh-death-before-dishonor/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-21T02:23:17+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "Two Title Matches Added To ROH Death Before Dishonor",
       "p": "New title matches have been added to ROH Death Before Dishonor. Ring of Honor Wrestling announced that Red Velvet will defend her Women’s Television Title in a four-way match against Zayda Steel,...",
       "link": "https://www.fightful.com/wrestling-news/two-title-matches-added-to-roh-death-before-dishonor/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-21T02:12:32+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Katsuyori Shibata Replacing Nigel McGuinness At ROH Death Before Dishonor",
-      "p": "Lee Moriarty has a new opponent for ROH Death Before Dishonor. On the August 20 episode of ROH TV, Katsuyori Shibata defeated Wheeler Yuta to become the number one contender for the ROH Pure...",
-      "link": "https://www.fightful.com/wrestling-news/katsuyori-shibata-replacing-nigel-mcguinness-at-roh-death-before-dishonor/",
-      "t": "9h",
-      "dt": "2026-08-21T01:42:58+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH TV live results: Duel to the Death Before Dishonor",
-      "p": "Ring of Honor presents the go-home show before Friday’s Death Before Dishonor tonight. Scheduled for this week’s show, Mina Shirakawa and Queen Aminata will be in tag team action. ROH World...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-duel-to-the-death-before-dishonor/",
-      "t": "12h",
-      "dt": "2026-08-20T23:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Big Vinny V: What’s next for AEW’s Maya World and the TBS Championship?",
-      "p": "Maya World successfully defended her TBS Championship in a four-way match on AEW Dynamite last night. Congratulations! Now what? The short-term answer to that question is simple enough: later in...",
-      "link": "https://www.f4wonline.com/opinion/big-vinny-v-whats-next-for-aews-maya-world-and-the-tbs-championship/",
-      "t": "14h",
-      "dt": "2026-08-20T21:08:00+00:00"
     }
   ]
 }

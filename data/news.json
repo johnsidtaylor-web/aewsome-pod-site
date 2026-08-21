@@ -1,22 +1,30 @@
 {
-  "updated": "2026-08-20T23:37:12.107335+00:00",
+  "updated": "2026-08-21T01:55:20.269690+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
+      "h": "Katsuyori Shibata Replacing Nigel McGuinness At ROH Death Before Dishonor",
+      "p": "Lee Moriarty has a new opponent for ROH Death Before Dishonor. On the August 20 episode of ROH TV, Katsuyori Shibata defeated Wheeler Yuta to become the number one contender for the ROH Pure...",
+      "link": "https://www.fightful.com/wrestling-news/katsuyori-shibata-replacing-nigel-mcguinness-at-roh-death-before-dishonor/",
+      "t": "12m",
+      "dt": "2026-08-21T01:42:58+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "ROH Duel to the Death Before Dishonor Results (8/20)",
-      "p": "Ring of Honor aired ROH Duel to the Death Before Dishonor on August 20. The event aired on HonorClub. Full results are below. ROH Duel to the Death Before Dishonor Results (8/20) You can find...",
+      "p": "Ring of Honor aired ROH Duel to the Death Before Dishonor on August 20. The event aired on HonorClub. Full results are below. ROH Duel to the Death Before Dishonor Results (8/20) Dark Order...",
       "link": "https://www.fightful.com/wrestling-news/roh-duel-to-the-death-before-dishonor-results-8-20/",
-      "t": "1m",
+      "t": "2h",
       "dt": "2026-08-20T23:35:31+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Big Vinny V: What’s next for AEW’s Maya World and the TBS Championship?",
       "p": "Maya World successfully defended her TBS Championship in a four-way match on AEW Dynamite last night. Congratulations! Now what? The short-term answer to that question is simple enough: later in...",
       "link": "https://www.f4wonline.com/opinion/big-vinny-v-whats-next-for-aews-maya-world-and-the-tbs-championship/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-08-20T21:08:00+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "WOL: Dynamite, why long overruns hurt the product, Ilja Dragunov",
       "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including a look at Dynamite from Wednesday, more long overruns and why it’s hurting the product, the...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-dynamite-why-long-overruns-hurt-the-product-ilja-dragunov/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-20T20:03:23+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "ROH on HonorClub lineup: The card for tonight’s “Duel to the Death Before Dishonor” episode",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s “Duel to the Death Before Dishonor” episode appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/20/roh-on-honorclub-lineup-the-card-for-tonights-duel-to-the-death-before-dishonor-episode/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-20T20:00:14+00:00"
     },
     {
@@ -48,23 +56,15 @@
       "h": "AEW Collision rating (8/15): How did the show featuring the final Continental Cup opening round matches perform against NFL preseason games?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (8/15): How did the show featuring the final Continental Cup opening round matches perform against NFL preseason games?...",
       "link": "https://prowrestling.net/site/2026/08/20/aew-collision-rating-8-15-how-did-the-show-featuring-the-final-continental-cup-opening-round-matches-perform-against-nfl-preseason-games/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-08-20T19:20:18+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "GCW The Crossroads Announced For Indianapolis, AEW Dynamite Highlights, More | Fight Size",
-      "p": "Here is your fight size update for Thursday, August 20, 2026. – GCW will return to Indy in November with their The Crossroads event: GCW returns to INDIANAPOLIS and Fountain Square Theatre on...",
-      "link": "https://www.fightful.com/wrestling-news/fight-size-gcw-323490/",
-      "t": "4h",
-      "dt": "2026-08-20T19:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Big Vinny V: How AEW has set the former New Day up for success",
       "p": "The worst kept secret in wrestling these days is that the wrestlers formerly known as the New Day will be making their AEW debuts at All In. And while their initial appearance is sure to get a...",
       "link": "https://www.f4wonline.com/opinion/big-vinny-v-how-aew-has-set-the-former-new-day-up-for-success/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-08-20T18:02:00+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Powell’s AEW Dynamite Hit List: Kenny Omega goes from terrific to terrible, thoughts on two Continental Cup matches, the four-way for the TBS Championship",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Kenny Omega goes from terrific to terrible, thoughts on two Continental Cup matches, the four-way for the TBS...",
       "link": "https://prowrestling.net/site/2026/08/20/powells-aew-dynamite-hit-list-kenny-omega-goes-from-terrific-to-terrible-thoughts-on-two-continental-cup-matches-the-four-way-for-the-tbs-championship/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-08-20T17:38:46+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "WWE RISING STARS & FADING STARS: Solo Stands Out, Grandstanding Gable, Green Gets Serious, Borin’ Corbin, From Yeet-man to Yes-man, Lyra Unhinged",
       "p": "“Enough is enough and it’s time for a change.” – Owen Hart, 1997 A well-timed change in character or presentation can make all the difference. Some wrestlers only need a tweak here and there:...",
       "link": "https://www.pwtorch.com/site/2026/08/20/wwe-rising-stars-fading-stars-solo-stands-out-grandstanding-gable-green-gets-serious-borin-corbin-from-yeet-man-to-yes-man-lyra-unhinged/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-20T17:03:05+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "AEW DYNAMITE HITS & MISSES (8/19): Did Omega and Ospreay deliver in their face-to-face, did Jay White and Moxley earn its TV time, did the Okada promo make sense, more",
       "p": "HITS OMEGA AND OSPREAY SIT DOWN INTERVIEW Damn! Where has this Kenny Omega been for the past 7 years? I was blown away by his performance in that interview. He was super serious from start [...]",
       "link": "https://www.pwtorch.com/site/2026/08/20/aew-dynamite-hits-misses-8-19-did-omega-and-ospreay-deliver-in-their-face-to-face-did-jay-white-and-moxley-earn-its-tv-time-did-the-okada-promo-make-sense-more/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-20T16:31:03+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "AEW All In London lineup: The updated card for the annual stadium event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In London lineup: The updated card for the annual stadium event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/20/aew-all-in-london-lineup-the-updated-card-for-the-annual-stadium-event/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-20T16:10:52+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Dave Meltzer Clarifies AEW/Road Dogg Situation",
       "p": "On Wednesday, Road Dogg posted on social media that he wasn't hired by AEW due to his political views. On Wrestling Observer Radio, Dave Meltzer disputed that.",
       "link": "https://www.wrestlinginc.com/2240816/dave-meltzer-clarifies-aew-road-dogg-situation/",
-      "t": "8h",
+      "t": "10h",
       "dt": "2026-08-20T15:17:26+00:00"
     }
   ]

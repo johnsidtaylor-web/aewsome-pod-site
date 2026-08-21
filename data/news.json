@@ -1,22 +1,38 @@
 {
-  "updated": "2026-08-21T15:46:09.248936+00:00",
+  "updated": "2026-08-21T16:49:13.055787+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Katsuyori Shibata To Replace Nigel McGuinness At ROH Death Before Dishonor",
+      "p": "Nigel McGuinness defeated Katsuyori Shibata in the first round of the Continental Challenge Cup, where he suffered a reportedly worked ankle injury.",
+      "link": "https://www.wrestlinginc.com/2241682/roh-death-before-dishonor-2026-katsuyori-shibata-nigel-mcguinness-lee-moriarty-pure-championship-replace/",
+      "t": "19m",
+      "dt": "2026-08-21T16:30:06+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH Death Before Dishonor lineup: The card for tonight’s HonorClub event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH Death Before Dishonor lineup: The card for tonight’s HonorClub event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/21/roh-death-before-dishonor-lineup-the-card-for-tonights-honorclub-event/",
+      "t": "48m",
+      "dt": "2026-08-21T16:00:34+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Matt Hardy: There Might Be A Possibility Of The Hardys Doing Something With The AAA Tag Team Titles",
       "p": "Matt Hardy teases a possible AAA run for The Hardys. The Hardys have held tag team gold in twelve different promotions throughout their careers. While the potential of winning the AEW World Tag...",
       "link": "https://www.fightful.com/wrestling-news/matt-hardy-there-might-be-a-possibility-of-the-hardys-doing-something-with-the-aaa-tag-team-titles/",
-      "t": "3m",
+      "t": "1h",
       "dt": "2026-08-21T15:42:28+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW's Kyle Fletcher Posts Pic From 2019 Match With Exiting WWE Star Ilja Dragunov",
       "p": "As news spread in the wrestling world that Ilja Dragunov was leaving WWE, AEW International Champion Kyle Fletcher posted a photo of their match in 2019.",
       "link": "https://www.wrestlinginc.com/2241570/aew-kyle-fletcher-wwe-ilja-dragunov-2019-match-exiting/",
-      "t": "45m",
+      "t": "1h",
       "dt": "2026-08-21T15:00:56+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Will Ospreay and Kenny Omega bring their best with Renee Paquette, Jon Moxley brings out the best in Jay White, Kevin Knight blows up Darby Allin to introduce Lil’ Stinger",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Will Ospreay and Kenny Omega bring their best with Renee Paquette, Jon Moxley brings out the...",
       "link": "https://prowrestling.net/site/2026/08/21/pruetts-pause-10-thoughts-on-aew-dynamite-will-ospreay-and-kenny-omega-bring-their-best-with-renee-paquette-jon-moxley-brings-out-the-best-in-jay-white-kevin-knight-blows-up-darby-allin/",
-      "t": "45m",
+      "t": "1h",
       "dt": "2026-08-21T15:00:50+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Dax Harwood sees World Champion potential in AEW co-worker",
       "p": "Dax Harwood is a big believer in his AEW colleague Mark Davis. And if Harwood had his own promotion, he’d give Davis the chance to be World Champion. During an appearance on the This is a...",
       "link": "https://www.f4wonline.com/news/aew/dax-harwood-sees-world-champion-potential-aew-mark-davis/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-21T13:38:42+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "David Arquette: I Would Love To Do Something On AEW",
       "p": "David Arquette is a former WCW World Champion who was never pinned in a WCW match. He is also the star of “Ready To Rumble,” one of the greatest films of all time. During a Reddit AMA, Arquette...",
       "link": "https://www.fightful.com/wrestling-news/david-arquette-i-would-love-to-do-something-on-aew/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-21T13:20:13+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Killer Kross teases brutal showdown with Ilja Dragunov after reported WWE exit",
       "p": "Killer Kross is already keen on a match against Ilja Dragunov following his reported WWE departure. Kross responded to an X post recommending Dragunov skip AEW, sign with MLW instead and feud with...",
       "link": "https://www.f4wonline.com/news/killer-kross-teases-brutal-showdown-with-ilja-dragunov-after-reported-wwe-exit/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-21T13:18:32+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "ROH on HonorClub results (8/20): Katsuyori Shibata vs. Wheeler Yuta for a shot at the ROH Pure Championship at Death Before Dishonor",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (8/20): Katsuyori Shibata vs. Wheeler Yuta for a shot at the ROH Pure Championship at Death Before Dishonor appeared...",
       "link": "https://prowrestling.net/site/2026/08/21/roh-on-honorclub-results-8-20-katsuyori-shibata-vs-wheeler-yuta-for-a-shot-at-the-roh-pure-championship-at-death-before-dishonor/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-21T13:00:43+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "ROH Death Before Dishonor 2026 Preview, Start Time, How To Watch, Location (8/21)",
       "p": "Viewership information and lineup for ROH Death Before Dishonor on August 21, 2026 ROH Death Before Dishonor (August 21, 2026) Venue: 2300 Arena City: Philadelphia, PA Time: 7 pm ET How To Watch:...",
       "link": "https://www.fightful.com/wrestling-news/roh-death-before-dishonor-2026-preview-start-time-how-to-watch-location-5-15/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-21T13:00:00+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Weekend TV Guide: Owens challenges CM Punk in Toronto, TNA revives Lockdown, STARDOM 5STAR GP wraps up & more!",
       "p": "Where to watch this weekend's top professional wrestling events, including WWE, AEW, ROH, TNA, STARDOM and more. The post Weekend TV Guide: Owens challenges CM Punk in Toronto, TNA revives...",
       "link": "https://www.postwrestling.com/2026/08/21/weekend-tv-guide-owens-challenges-cm-punk-in-toronto-tna-revives-lockdown-stardom-5star-gp-wraps-up-more/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-21T12:00:16+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Adam Copeland Says AEW Double Or Nothing 2024 Injury Still Lingers With Him",
       "p": "Adam Copeland has taken a number of high risks in his career, but perhaps no move was riskier than jumping off the top of a cage at the age of 50. At AEW Double or Nothing 2024, Copeland leaped...",
       "link": "https://www.fightful.com/wrestling-news/adam-copeland-says-aew-double-or-nothing-2024-injury-still-lingers-with-him/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-21T10:51:42+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Fight Game: Kenny Omega vs. Will Ospreay heats up",
-      "p": "John LaRocca and I are back on The Fight Game Podcast. We discuss some of the most topical things going on in pro wrestling this week. You can also watch full video of the show below. We gave out...",
-      "link": "https://www.f4wonline.com/podcasts/fight-game-kenny-omega-vs-will-ospreay-heats-up/",
-      "t": "8h",
-      "dt": "2026-08-21T07:22:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "REPORT: Details About AEW’s Video Game Future",
-      "p": "Details were put out about the future of AEW Games. A new video was uploaded to the Mike Straw Media YouTube channel, and it was centered around the future of AEW Games, specifically the 2023...",
-      "link": "https://www.fightful.com/wrestling-news/report-details-about-aews-video-game-future/",
-      "t": "10h",
-      "dt": "2026-08-21T05:32:10+00:00"
     }
   ]
 }

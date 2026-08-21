@@ -1,22 +1,54 @@
 {
-  "updated": "2026-08-21T18:52:56.993115+00:00",
+  "updated": "2026-08-21T19:35:16.168997+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Reportedly Lost $30 Million On Fight Forever Video Game",
+      "p": "According to a new report, AEW reportedly lost $30 million on its first-ever video game, AEW Fight Forever.",
+      "link": "https://www.wrestlinginc.com/2241873/aew-fight-forever-lost-30-million-video-game/",
+      "t": "4m",
+      "dt": "2026-08-21T19:30:53+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: CM Punk vs. Kevin Owens, ROH & TNA Lockdown previews",
+      "p": "John Pollock and Jack Wannan cover the news, including previews of Punk vs. Owens, ROH Death Before Dishonor, and TNA Lockdown, . The post POST NEWS: CM Punk vs. Kevin Owens, ROH & TNA Lockdown...",
+      "link": "https://www.postwrestling.com/2026/08/21/post-news-cm-punk-vs-kevin-owens-roh-tna-lockdown-previews/",
+      "t": "8m",
+      "dt": "2026-08-21T19:26:29+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kevin Knight Names His Favorite Pro Wrestlers",
+      "p": "Kevin Knight talks about his favorite pro wrestlers. “The Jet” Kevin Knight has been making waves in All Elite Wrestling for quite some time now. For many people, he’s one of the best things about...",
+      "link": "https://www.fightful.com/wrestling-news/kevin-knight-names-his-favorite-pro-wrestlers/",
+      "t": "23m",
+      "dt": "2026-08-21T19:11:49+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kevin Knight Says AEW Heel Turn Is The ‘Most Fun’ He’s Ever Had In Wrestling",
+      "p": "Kevin Knight is having a great time in All Elite Wrestling as a heel. Earlier this year, Kevin Knight turned heel in AEW after he attacked Darby Allin at Double or Nothing. He later became a...",
+      "link": "https://www.fightful.com/wrestling-news/kevin-knight-says-aew-heel-turn-is-the-most-fun-hes-ever-had-in-wrestling/",
+      "t": "27m",
+      "dt": "2026-08-21T19:07:43+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Mercedes Mone: Bayley Is Always A Dream Match For Me, We Wouldn’t Have This Generation Without Her",
       "p": "Mercedes Mone always has love for Bayley. Though they haven’t worked in the same company since 2022, Mercedes Mone and Bayley will always be linked together in the ring thanks to their famous...",
       "link": "https://www.fightful.com/wrestling-news/mercedes-mone-bayley-is-always-a-dream-match-for-me-we-wouldnt-have-this-generation-without-her/",
-      "t": "24m",
+      "t": "1h",
       "dt": "2026-08-21T18:28:33+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Steph De Lander Talks Death Before Dishonor, Says She ‘Knew Everything Would Work Out’ After Deonna Purrazzo Injury",
       "p": "Steph De Lander discusses her upcoming ROH title match. ROH will bring the Death Before Dishonor pay-per-view to the 2300 Arena on Friday, August 21. The show is set to feature a big bout for the...",
       "link": "https://www.fightful.com/wrestling-news/steph-de-lander-deonna-323466/",
-      "t": "52m",
+      "t": "1h",
       "dt": "2026-08-21T18:00:00+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "AEW's Adam Copeland Says Tony Khan Would've Let Him Wrestle Retiring John Cena In WWE",
       "p": "Adam Copeland believes he could've been one of the opponents in John Cena's retirement tour, but thinks WWE wasn't interested.",
       "link": "https://www.wrestlinginc.com/2241748/aew-adam-copeland-tony-khan-john-cena-wwe/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-21T17:27:38+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Mercedes Mone addresses potential Bayley AEW dream match: ‘You never know’",
       "p": "Facing Bayley again remains a dream for Mercedes Mone. Fueling speculation about Bayley’s future, Mone shared a fan-made graphic in June teasing the idea that she and Bayley could face off at...",
       "link": "https://www.f4wonline.com/news/aew/mercedes-mone-addresses-potential-bayley-aew-dream-match/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-21T17:12:38+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "Karl Anderson: Do I Think AJ Styles Could Come Back And Do Something At AEW Or Something Else? 100%. Will He? I Don’t Know.",
       "p": "Karl Anderson and Doc Gallows comment on the retirement of AJ Styles. Styles has been a popular topic conversation throughout 2026, especially after stating that he could come out of retirement to...",
       "link": "https://www.fightful.com/wrestling-news/karl-anderson-do-i-think-aj-styles-could-come-back-and-do-something-at-aew-or-something-100-will-he-i-dont-know/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-21T17:09:10+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Wrestling Weekly: Is free agency looming for a number of WWE & AEW stars?",
       "p": "It’s a new Wrestling Weekly with Les Thatcher and Vic Sosa. With Ilja Dragunov’s departure from WWE and other potential free agents reportedly available in several months, is now the time another...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-is-free-agency-looming-for-a-number-of-wwe-aew-stars/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-21T17:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Katsuyori Shibata To Replace Nigel McGuinness At ROH Death Before Dishonor",
-      "p": "Nigel McGuinness defeated Katsuyori Shibata in the first round of the Continental Challenge Cup, where he suffered a reportedly worked ankle injury.",
-      "link": "https://www.wrestlinginc.com/2241682/roh-death-before-dishonor-2026-katsuyori-shibata-nigel-mcguinness-lee-moriarty-pure-championship-replace/",
-      "t": "2h",
-      "dt": "2026-08-21T16:30:06+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH Death Before Dishonor lineup: The card for tonight’s HonorClub event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH Death Before Dishonor lineup: The card for tonight’s HonorClub event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/21/roh-death-before-dishonor-lineup-the-card-for-tonights-honorclub-event/",
-      "t": "2h",
-      "dt": "2026-08-21T16:00:34+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Matt Hardy: There Might Be A Possibility Of The Hardys Doing Something With The AAA Tag Team Titles",
-      "p": "Matt Hardy teases a possible AAA run for The Hardys. The Hardys have held tag team gold in twelve different promotions throughout their careers. While the potential of winning the AEW World Tag...",
-      "link": "https://www.fightful.com/wrestling-news/matt-hardy-there-might-be-a-possibility-of-the-hardys-doing-something-with-the-aaa-tag-team-titles/",
-      "t": "3h",
-      "dt": "2026-08-21T15:42:28+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kyle Fletcher Posts Pic From 2019 Match With Exiting WWE Star Ilja Dragunov",
-      "p": "As news spread in the wrestling world that Ilja Dragunov was leaving WWE, AEW International Champion Kyle Fletcher posted a photo of their match in 2019.",
-      "link": "https://www.wrestlinginc.com/2241570/aew-kyle-fletcher-wwe-ilja-dragunov-2019-match-exiting/",
-      "t": "3h",
-      "dt": "2026-08-21T15:00:56+00:00"
     }
   ]
 }

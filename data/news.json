@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T01:55:20.269690+00:00",
+  "updated": "2026-08-21T03:14:06.060285+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -12,27 +12,67 @@
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 8/20 – The Fix Mailbag w/Todd & Wade (pt. 2 of 2): Can someone become a pro wrestling fan as an adult, UFC de-emphasizing women’s fights, AAA-WWE dynamic, Oiwa’s upside, Bagwell-Booker (38 min.)",
+      "p": "SHOW SUMMARY: In this week’s The Fix Mailbag with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they answer emails from VIP members on the following topics: Is Will Ospreay...",
+      "link": "https://www.pwtorch.com/site/2026/08/20/vip-podcast-8-20-the-fix-mailbag-w-todd-wade-pt-2-of-2-can-someone-become-a-pro-wrestling-fan-as-an-adult-ufc-de-emphasizing-womens-fights-aaa-wwe-dynamic-oiwas-upside-bagwell/",
+      "t": "4m",
+      "dt": "2026-08-21T03:09:55+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 8/20 – The Fix w/Todd & Wade (pt. 1 of 2): New Japan G1 conclusion, latest KO-Punk exchange, on-site Dynamite review, Reigns, Dan Spivey book review (104 min.)",
+      "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: A review of New Japan Pro Wrestling’s G1...",
+      "link": "https://www.pwtorch.com/site/2026/08/20/vip-podcast-8-20-the-fix-w-todd-wade-pt-1-of-2-new-japan-g1-conclusion-latest-ko-punk-exchange-on-site-dynamite-review-reigns-dan-spivey-book-review-104-min/",
+      "t": "20m",
+      "dt": "2026-08-21T02:53:23+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW reportedly took $30 million loss on Fight Forever video game, more details",
+      "p": "Tony Khan has been asked frequently about the future of the AEW Fight Forever video game and whether he will do another one. Based on a new report out Thursday, there appears to be a financial...",
+      "link": "https://www.f4wonline.com/news/aew/aew-losses-30-million-fight-forever/",
+      "t": "23m",
+      "dt": "2026-08-21T02:50:26+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Nigel McGuinness pulled from ROH Death Before Dishonor, new title matches announced",
+      "p": "After successfully defeating Hechicero on Wednesday’s AEW Dynamite to advance in the Continental Challenge Cup tournament, Nigel McGuinness has been pulled from Friday’s ROH Death Before Dishonor....",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/nigel-mcguinness-out-roh-death-before-dishonor/",
+      "t": "50m",
+      "dt": "2026-08-21T02:23:17+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Two Title Matches Added To ROH Death Before Dishonor",
+      "p": "New title matches have been added to ROH Death Before Dishonor. Ring of Honor Wrestling announced that Red Velvet will defend her Women’s Television Title in a four-way match against Zayda Steel,...",
+      "link": "https://www.fightful.com/wrestling-news/two-title-matches-added-to-roh-death-before-dishonor/",
+      "t": "1h",
+      "dt": "2026-08-21T02:12:32+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Katsuyori Shibata Replacing Nigel McGuinness At ROH Death Before Dishonor",
       "p": "Lee Moriarty has a new opponent for ROH Death Before Dishonor. On the August 20 episode of ROH TV, Katsuyori Shibata defeated Wheeler Yuta to become the number one contender for the ROH Pure...",
       "link": "https://www.fightful.com/wrestling-news/katsuyori-shibata-replacing-nigel-mcguinness-at-roh-death-before-dishonor/",
-      "t": "12m",
+      "t": "1h",
       "dt": "2026-08-21T01:42:58+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "ROH Duel to the Death Before Dishonor Results (8/20)",
-      "p": "Ring of Honor aired ROH Duel to the Death Before Dishonor on August 20. The event aired on HonorClub. Full results are below. ROH Duel to the Death Before Dishonor Results (8/20) Dark Order...",
-      "link": "https://www.fightful.com/wrestling-news/roh-duel-to-the-death-before-dishonor-results-8-20/",
-      "t": "2h",
-      "dt": "2026-08-20T23:35:31+00:00"
+      "src": "Wrestling Observer",
+      "h": "ROH TV live results: Duel to the Death Before Dishonor",
+      "p": "Ring of Honor presents the go-home show before Friday’s Death Before Dishonor tonight. Scheduled for this week’s show, Mina Shirakawa and Queen Aminata will be in tag team action. ROH World...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-duel-to-the-death-before-dishonor/",
+      "t": "3h",
+      "dt": "2026-08-20T23:15:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Big Vinny V: What’s next for AEW’s Maya World and the TBS Championship?",
       "p": "Maya World successfully defended her TBS Championship in a four-way match on AEW Dynamite last night. Congratulations! Now what? The short-term answer to that question is simple enough: later in...",
       "link": "https://www.f4wonline.com/opinion/big-vinny-v-whats-next-for-aews-maya-world-and-the-tbs-championship/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-08-20T21:08:00+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "WOL: Dynamite, why long overruns hurt the product, Ilja Dragunov",
       "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including a look at Dynamite from Wednesday, more long overruns and why it’s hurting the product, the...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-dynamite-why-long-overruns-hurt-the-product-ilja-dragunov/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-08-20T20:03:23+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "ROH on HonorClub lineup: The card for tonight’s “Duel to the Death Before Dishonor” episode",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s “Duel to the Death Before Dishonor” episode appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/20/roh-on-honorclub-lineup-the-card-for-tonights-duel-to-the-death-before-dishonor-episode/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-08-20T20:00:14+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW Collision rating (8/15): How did the show featuring the final Continental Cup opening round matches perform against NFL preseason games?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (8/15): How did the show featuring the final Continental Cup opening round matches perform against NFL preseason games?...",
       "link": "https://prowrestling.net/site/2026/08/20/aew-collision-rating-8-15-how-did-the-show-featuring-the-final-continental-cup-opening-round-matches-perform-against-nfl-preseason-games/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-20T19:20:18+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Big Vinny V: How AEW has set the former New Day up for success",
       "p": "The worst kept secret in wrestling these days is that the wrestlers formerly known as the New Day will be making their AEW debuts at All In. And while their initial appearance is sure to get a...",
       "link": "https://www.f4wonline.com/opinion/big-vinny-v-how-aew-has-set-the-former-new-day-up-for-success/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-20T18:02:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Kenny Omega goes from terrific to terrible, thoughts on two Continental Cup matches, the four-way for the TBS Championship",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Kenny Omega goes from terrific to terrible, thoughts on two Continental Cup matches, the four-way for the TBS...",
-      "link": "https://prowrestling.net/site/2026/08/20/powells-aew-dynamite-hit-list-kenny-omega-goes-from-terrific-to-terrible-thoughts-on-two-continental-cup-matches-the-four-way-for-the-tbs-championship/",
-      "t": "8h",
-      "dt": "2026-08-20T17:38:46+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "WWE RISING STARS & FADING STARS: Solo Stands Out, Grandstanding Gable, Green Gets Serious, Borin’ Corbin, From Yeet-man to Yes-man, Lyra Unhinged",
-      "p": "“Enough is enough and it’s time for a change.” – Owen Hart, 1997 A well-timed change in character or presentation can make all the difference. Some wrestlers only need a tweak here and there:...",
-      "link": "https://www.pwtorch.com/site/2026/08/20/wwe-rising-stars-fading-stars-solo-stands-out-grandstanding-gable-green-gets-serious-borin-corbin-from-yeet-man-to-yes-man-lyra-unhinged/",
-      "t": "8h",
-      "dt": "2026-08-20T17:03:05+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE HITS & MISSES (8/19): Did Omega and Ospreay deliver in their face-to-face, did Jay White and Moxley earn its TV time, did the Okada promo make sense, more",
-      "p": "HITS OMEGA AND OSPREAY SIT DOWN INTERVIEW Damn! Where has this Kenny Omega been for the past 7 years? I was blown away by his performance in that interview. He was super serious from start [...]",
-      "link": "https://www.pwtorch.com/site/2026/08/20/aew-dynamite-hits-misses-8-19-did-omega-and-ospreay-deliver-in-their-face-to-face-did-jay-white-and-moxley-earn-its-tv-time-did-the-okada-promo-make-sense-more/",
-      "t": "9h",
-      "dt": "2026-08-20T16:31:03+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW All In London lineup: The updated card for the annual stadium event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In London lineup: The updated card for the annual stadium event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/20/aew-all-in-london-lineup-the-updated-card-for-the-annual-stadium-event/",
-      "t": "9h",
-      "dt": "2026-08-20T16:10:52+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Clarifies AEW/Road Dogg Situation",
-      "p": "On Wednesday, Road Dogg posted on social media that he wasn't hired by AEW due to his political views. On Wrestling Observer Radio, Dave Meltzer disputed that.",
-      "link": "https://www.wrestlinginc.com/2240816/dave-meltzer-clarifies-aew-road-dogg-situation/",
-      "t": "10h",
-      "dt": "2026-08-20T15:17:26+00:00"
     }
   ]
 }

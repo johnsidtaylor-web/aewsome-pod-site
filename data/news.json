@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T22:38:41.423782+00:00",
+  "updated": "2026-08-21T23:35:31.620753+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
@@ -7,16 +7,64 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Eddie Kingston Pulled From AEW Continental Cup, Replacement To Be Determined On ROH PPV",
+      "p": "Tony Khan announced that Eddie Kingston has been pulled from the AEW Continental Cup, and a replacement will be determined on ROH Death Before Dishonor.",
+      "link": "https://www.wrestlinginc.com/2242020/eddie-kingston-aew-pulled-continental-cup-replacement-roh-death-before-dishonor/",
+      "t": "23m",
+      "dt": "2026-08-21T23:12:20+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "ROH Death Before Dishonor Live Results: Bandido vs. Nick Wayne, Athena vs. Hazuki",
+      "p": "ROH Death Before Dishonor featured ROH Champion Bandido taking on Nick Wayne, as well as Forever Champion Athena vs. Hazuki. The post ROH Death Before Dishonor Live Results: Bandido vs. Nick...",
+      "link": "https://www.postwrestling.com/2026/08/21/roh-death-before-dishonor-live-results-bandido-vs-nick-wayne-athena-vs-hazuki/",
+      "t": "23m",
+      "dt": "2026-08-21T23:12:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "I know what Ring of Honor is now | Opinion",
+      "p": "For the last few years I have been wondering what Ring of Honor is supposed to be. And I’ve finally figured it out. Death Before Dishonor is taking place right as this article is set to be...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/i-know-what-ring-of-honor-is-now-opinion/",
+      "t": "35m",
+      "dt": "2026-08-21T23:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Eddie Kingston pulled from AEW Continental Challenge Cup, ROH Death Before Dishonor card changes announced",
+      "p": "Eddie Kingston is dealing with a medical issue and has been pulled from Saturday’s AEW Collision where he was set to compete in the Continental Challenge Cup. Tony Khan took to X Friday to relay...",
+      "link": "https://www.f4wonline.com/news/aew/eddie-kingston-injured-pulled-aew-continental-challenge-cup/",
+      "t": "39m",
+      "dt": "2026-08-21T22:56:24+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Former WWE Star Adam Copeland Says He'd Be Retired Today If Not For AEW",
+      "p": "WWE Hall of Famer Adam Copeland said on \"The Ariel Helwani Show\" that he would be retired today, if not for AEW.",
+      "link": "https://www.wrestlinginc.com/2242010/wwe-adam-copeland-retired-today-aew/",
+      "t": "46m",
+      "dt": "2026-08-21T22:49:16+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Details On The Future Of Ilja Dragunov",
+      "p": "New details on where Ilja Dragunov could land next. Fightful Select reports, “AEW sources that Fightful Select spoke to had not yet heard about Ilja Dragunov coming to the company. However, he is...",
+      "link": "https://www.fightful.com/wrestling-news/details-on-the-future-of-ilja-dragunov/",
+      "t": "50m",
+      "dt": "2026-08-21T22:45:04+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Eddie Kingston Not Cleared To Compete On 8/22 AEW Collision",
       "p": "Eddie Kingston has been forced to withdraw from the AEW Continental Challenge Cup. Ahead of ROH Death Before Dishonor, Tony Khan announced that Eddie Kingston has not been cleared to compete on...",
       "link": "https://www.fightful.com/wrestling-news/eddie-kingston-not-cleared-to-compete-on-8-22-aew-collision/",
-      "t": "0m",
+      "t": "56m",
       "dt": "2026-08-21T22:38:31+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Watch: Ring of Honor Death Before Dishonor Zero Hour",
       "p": "Watch Ring of Honor Death Before Dishonor Zero Hour | 8/21/26, Philadelphia, PA The post Watch: Ring of Honor Death Before Dishonor Zero Hour appeared first on Fightful | WWE News, AEW News, Pro...",
       "link": "https://www.fightful.com/wrestling-news/watch-ring-of-honor-death-before-dishonor-zero-hour/",
-      "t": "9m",
+      "t": "1h",
       "dt": "2026-08-21T22:28:50+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "ROH Death Before Dishonor Results (8/21/2026): Athena vs. Hazuki, Bandido, Sky Team, More",
       "p": "Full results for the August 21, 2026 edition of ROH Death Before Dishonor on HonorClub, featuring Athena vs. Hazuki and more. Ring of Honor aired the event Death Before Dishonor on August 21,...",
       "link": "https://www.fightful.com/wrestling-news/roh-death-before-dishonor-results-8-21-2026-athena-vs-hazuki-bandido-sky-team-more/",
-      "t": "18m",
+      "t": "1h",
       "dt": "2026-08-21T22:20:00+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "Swerve Strickland Mourns The Passing Of His Original Trainer, Ron ‘The Pharaoh’ Cromartie",
       "p": "Swerve Strickland mourns the passing of his original trainer. Former AEW World Champion Swerve Strickland made his wrestling debut back in 2009. Over the course of his career, Strickland made a...",
       "link": "https://www.fightful.com/wrestling-news/swerve-strickland-mourns-the-passing-of-his-original-trainer-ron-the-pharaoh-cromartie/",
-      "t": "19m",
+      "t": "1h",
       "dt": "2026-08-21T22:19:00+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "ROH Death Before Dishonor live results: Nick Wayne vs. Bandido",
       "p": "Ring of Honor is back on pay-per-view tonight. This year’s Death Before Dishonor is set for the 2300 Arena in Philadelphia, Pennsylvania. All of Ring of Honor’s championships will be on the line...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-death-before-dishonor-live-results-nick-wayne-vs-bandido/",
-      "t": "23m",
+      "t": "1h",
       "dt": "2026-08-21T22:15:00+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "08/21 Dot Net Weekly audio show: Barnett and Powell on Ilja Dragunov leaving WWE, Bronson Reed returning soon, WWE loading up Sunday Night’s Main Event, Kenny Omega and Will Ospreay on AEW Dynamite",
       "p": "By Jake Barnett (@jakebarnett) and... The post 08/21 Dot Net Weekly audio show: Barnett and Powell on Ilja Dragunov leaving WWE, Bronson Reed returning soon, WWE loading up Sunday Night’s Main...",
       "link": "https://prowrestling.net/site/2026/08/21/08-21-dot-net-weekly-audio-show-barnett-and-powell-on-ilja-dragunov-leaving-wwe-bronson-reed-returning-soon-wwe-loading-up-sunday-nights-main-event-kenny-omega-and-will-ospreay-on-aew-dynamite/",
-      "t": "57m",
+      "t": "1h",
       "dt": "2026-08-21T21:41:20+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mercedes Mone Explains Why She Feels Like A Leader In AEW",
-      "p": "Mercedes Mone is viewed as a veteran in the women’s locker room and one of the best wrestlers in the world. Despite her stature and experience, she says that many in the AEW women’s locker room...",
-      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-explains-why-she-feels-like-a-leader-in-aew/",
-      "t": "1h",
-      "dt": "2026-08-21T21:30:40+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Swerve Strickland mourns death of original trainer",
-      "p": "AEW star Swerve Strickland is mourning the loss of someone who was very important to his career. Strickland sent out a tweet today acknowledging the passing of Ron “The Pharaoh” Cromartie, who...",
-      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-mourns-death-of-original-trainer/",
-      "t": "1h",
-      "dt": "2026-08-21T20:48:06+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: CM Punk vs. Kevin Owens exclusive, Santos Escobar release, Lockdown and ROH",
-      "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including lots of notes on tonight’s CM Punk vs. Kevin Owens match, Santos Escobar’s WWE release and why...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-cm-punk-vs-kevin-owens-exclusive-santos-escobar-release-lockdown-and-roh/",
-      "t": "2h",
-      "dt": "2026-08-21T20:04:28+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Reportedly Lost $30 Million On Fight Forever Video Game",
-      "p": "According to a new report, AEW reportedly lost $30 million on its first-ever video game, AEW Fight Forever.",
-      "link": "https://www.wrestlinginc.com/2241873/aew-fight-forever-lost-30-million-video-game/",
-      "t": "3h",
-      "dt": "2026-08-21T19:30:53+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: CM Punk vs. Kevin Owens, ROH & TNA Lockdown previews",
-      "p": "John Pollock and Jack Wannan cover the news, including previews of Punk vs. Owens, ROH Death Before Dishonor, and TNA Lockdown, . The post POST NEWS: CM Punk vs. Kevin Owens, ROH & TNA Lockdown...",
-      "link": "https://www.postwrestling.com/2026/08/21/post-news-cm-punk-vs-kevin-owens-roh-tna-lockdown-previews/",
-      "t": "3h",
-      "dt": "2026-08-21T19:26:29+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kevin Knight Names His Favorite Pro Wrestlers",
-      "p": "Kevin Knight talks about his favorite pro wrestlers. “The Jet” Kevin Knight has been making waves in All Elite Wrestling for quite some time now. For many people, he’s one of the best things about...",
-      "link": "https://www.fightful.com/wrestling-news/kevin-knight-names-his-favorite-pro-wrestlers/",
-      "t": "3h",
-      "dt": "2026-08-21T19:11:49+00:00"
     }
   ]
 }

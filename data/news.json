@@ -1,22 +1,46 @@
 {
-  "updated": "2026-08-22T15:33:29.824616+00:00",
+  "updated": "2026-08-22T16:37:33.933166+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Dave Meltzer’s insights on this week’s AEW Dynamite ratings for subscribers",
+      "p": "Dave Meltzer has posted his thoughts and analysis of this past week’s AEW Dynamite ratings. Click here to read (sub only)",
+      "link": "https://www.f4wonline.com/news/aew/dave-meltzers-insights-on-this-weeks-aew-dynamite-ratings-for-subscribers/",
+      "t": "5m",
+      "dt": "2026-08-22T16:32:21+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH Death Before Dishonor results: Vetter’s review of Athena vs. Hazuki for the ROH Women’s Championship, Bandido vs. Nick Wayne for the ROH World Championship",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post ROH Death Before Dishonor results: Vetter’s review of Athena vs. Hazuki for the ROH Women’s Championship, Bandido vs. Nick Wayne for the...",
+      "link": "https://prowrestling.net/site/2026/08/22/roh-death-before-dishonor-results-vetters-review-of-athena-vs-hazuki-for-the-roh-womens-championship-bandido-vs-nick-wayne-for-the-roh-world-championship/",
+      "t": "35m",
+      "dt": "2026-08-22T16:01:58+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay Feared Returning From Neck Injury And ‘Being Even 50% Of What He Once Was’",
+      "p": "Will Ospreay shares that he feared being even 50% of what he once was in the ring during his recovery from neck surgery. In late 2025, Ospreay would undergo neck surgery that would keep him out of...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-feared-returning-from-neck-injury-and-being-even-50-of-what-he-once-was/",
+      "t": "1h",
+      "dt": "2026-08-22T15:33:05+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Will Ospreay: I Could Perform In Front Of Wembley Night After Night After Night, I’ve Still Got To Pick Up Dog Shit",
       "p": "Will Ospreay introduces AEW cameras to his two dogs, Hagrid and Norbert in his latest vlog surrounding his neck surgery last year. Last year, Ospreay would undergo serious neck surgery, and would...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-i-could-perform-in-front-of-wembley-night-after-night-after-night-ive-still-got-to-pick-up-dog-shit/",
-      "t": "20m",
+      "t": "1h",
       "dt": "2026-08-22T15:13:20+00:00"
     },
     {
@@ -24,23 +48,15 @@
       "h": "MVP Talks Timeline For His Final Match, Length Of AEW Contract",
       "p": "Wrestling veteran Montel Vontavious Porter (MVP) reveals the timeline for his possible final match and the length of his existing AEW contract.",
       "link": "https://www.wrestlinginc.com/2237818/mvp-timeline-final-match-aew-contract/",
-      "t": "2h",
-      "dt": "2026-08-22T13:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Preview, Start Time, How To Watch, Location (8/22)",
-      "p": "Viewing information and lineup for AEW Collision on August 22, 2026 AEW Collision (August 22, 2026) Venue: Santander Arena City: Reading, PA Time: 8 pm ET Channel: TNT, HBO Max Lineup AEW Women’s...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-8-22/",
       "t": "3h",
-      "dt": "2026-08-22T12:00:00+00:00"
+      "dt": "2026-08-22T13:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision lineup: AEW Women’s Championship and Continental Classic quarterfinal matches set for tonight’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: AEW Women’s Championship and Continental Classic quarterfinal matches set for tonight’s live show appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/08/22/aew-collision-lineup-aew-womens-championship-and-continental-classic-quarterfinal-matches-set-for-tonights-live-show/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-22T11:00:56+00:00"
     },
     {
@@ -48,23 +64,15 @@
       "h": "ROH Death Before Dishonor 2026 Review",
       "p": "Kate from MTL and Bruce Lord review ROH Death Before Dishonor 2026 with \"Forever Champion\" Athena defending the ROH Women's World Championship against Hazuki. The post ROH Death Before Dishonor...",
       "link": "https://www.postwrestling.com/2026/08/22/roh-death-before-dishonor-2026-review/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-22T11:00:52+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Discusses The Positivity & Support For Rebel",
-      "p": "The support for Rebel has come in droves. Since the announcement that Tanea Brooks a.k.a. Rebel was diagnosed with ALS, the support for her throughout the pro wrestling business has come raining...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-discusses-the-positivity-support-for-rebel/",
-      "t": "9h",
-      "dt": "2026-08-22T06:27:28+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Death Before Dishonor media scrum notes: Tony Khan talks Ilja Dragunov, hints at new ways to watch ROH",
       "p": "Tony Khan and other wrestlers speak to the media. Khan, Deonna Purrazzo, Red Velvet, Action Andretti, and Athena all took questions from the press during the ROH Death Before Dishonor media scrum....",
       "link": "https://www.f4wonline.com/news/ring-of-honor/death-before-dishonor-media-scrum-notes-tony-khan-talks-ilja-dragunov-hints-at-new-ways-to-watch-roh/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-22T06:07:38+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "ROH Death Before Dishonor Results: Athena & Bandido retain, Kingston out of C3, Garcia earns his spot",
       "p": "ROH Death Before Dishonor featured ROH Champion Bandido taking on Nick Wayne, as well as Forever Champion Athena vs. Hazuki. The post ROH Death Before Dishonor Results: Athena & Bandido retain,...",
       "link": "https://www.postwrestling.com/2026/08/22/roh-death-before-dishonor-live-results-bandido-vs-nick-wayne-athena-vs-hazuki/",
-      "t": "11h",
+      "t": "12h",
       "dt": "2026-08-22T04:03:19+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Action Andretti joins stable, wins TV title at ROH Death Before Dishonor",
       "p": "It was a big night for Action Andretti. Thanks to help from the Opps, Andretti defeated former tag team partner Lio Rush to win the ROH Television title at Death Before Dishonor on Friday. Towards...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/action-andretti-joins-stable-wins-tv-title-at-roh-death-before-dishonor/",
-      "t": "11h",
+      "t": "12h",
       "dt": "2026-08-22T03:41:34+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW's MJF And NJPW G1 Climax Winner Ryohei Oiwa Exchange Heated Words On Social Media",
       "p": "The war of words between AEW's MJF and NJPW's Ryohei Oiwa has continued as both men are eager to get their hands on one another.",
       "link": "https://www.wrestlinginc.com/2242063/aew-mjf-njpw-ryohei-oiwa-g1-climax-winner-heated-exchange/",
-      "t": "12h",
+      "t": "13h",
       "dt": "2026-08-22T02:55:49+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Daniel Garcia Enters AEW Continental Challenge Cup Via ROH Death Before Dishonor Win",
       "p": "Daniel Garcia won a play-in match at ROH Death Before Dishonor to face Claudio Castagnoli in the Continental Challenge Cup on \"AEW Collision\".",
       "link": "https://www.wrestlinginc.com/2242059/roh-death-before-dishonor-daniel-garcia-aew-continental-challenge-cup/",
-      "t": "12h",
-      "dt": "2026-08-22T02:40:14+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Replacement for Eddie Kingston in AEW Contintental Classic Challenge Cup revealed",
-      "p": "A new participant in the Continental Cup has been determined. Daniel Garcia is now in the Continental Challenge Cup following his victory over Adam Priest during Death Before Dishonor. As a...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/replacement-for-eddie-kingston-in-aew-contintental-classic-challenge-club-revealed/",
       "t": "13h",
-      "dt": "2026-08-22T02:12:59+00:00"
+      "dt": "2026-08-22T02:40:14+00:00"
     }
   ]
 }

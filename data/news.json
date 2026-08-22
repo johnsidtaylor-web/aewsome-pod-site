@@ -1,22 +1,54 @@
 {
-  "updated": "2026-08-22T17:34:00.351191+00:00",
+  "updated": "2026-08-22T18:46:43.742584+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Darby Allin Names His Favorite Wrestlers To Work With",
+      "p": "AEW's Darby Allin names his favorite wrestlers to work with, and explains that they all share the similar trait of wanting to push boundaries in wrestling",
+      "link": "https://www.wrestlinginc.com/2238678/aew-darby-allin-favorite-wrestlers-work-with/",
+      "t": "16m",
+      "dt": "2026-08-22T18:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Athena Says She Suffered Asthma Attack Mid-Match Against Hazuki At ROH Death Before Dishonor",
+      "p": "Athena says she had an asthma attack during her match against Hazuki. At ROH Death Before Dishonor, Athena defended her ROH Women’s World Championship against Hazuki. The bout ended with the...",
+      "link": "https://www.fightful.com/wrestling-news/athena-says-she-suffered-asthma-attack-mid-match-against-hazuki-at-roh-death-before-dishonor/",
+      "t": "21m",
+      "dt": "2026-08-22T18:24:57+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 8/21 – Everything with Rich & Wade: Comparing Owens-Punk and Omega-Ospreay segments and whether they leaned too obscure, G1 big picture, Ilja Dragunov, Chelsea Green (48 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Rich’s big picture thoughts on New Japan G1 Climax, including the...",
+      "link": "https://www.pwtorch.com/site/2026/08/22/vip-podcast-8-21-everything-with-rich-wade-comparing-owens-punk-and-omega-ospreay-segments-and-whether-they-leaned-too-obscure-g1-big-picture-ilja-dragunov-chelsea-green-48-min/",
+      "t": "34m",
+      "dt": "2026-08-22T18:12:29+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite (8/19) Drops Below 600,000 Viewers On Cable TV",
+      "p": "AEW Dynamite viewership and ratings information for the August 19 episode. The Wrestling Observer reports that AEW Dynamite on August 19 drew 587,000 viewers on TBS. This number is down from the...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-8-19-drops-below-600000-viewers-on-cable-tv/",
+      "t": "1h",
+      "dt": "2026-08-22T17:44:34+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "TKO representatives attended recent AEW Dynamite | Exclusive",
       "p": "TKO representatives attended a recent AEW event. Our own Bryan Alvarez wrote to his subscribers on X that there were TKO reps at last week’s AEW Dynamite. “There were TKO reps at Dynamite last...",
       "link": "https://www.f4wonline.com/news/wwe/tko-representatives-attended-recent-aew-dynamite-exclusive/",
-      "t": "5m",
+      "t": "1h",
       "dt": "2026-08-22T17:28:24+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW Dynamite ratings hit lowest mark in ten weeks",
       "p": "AEW’s road to All In ran into a big speed bump this week with its ratings for this past week’s Dynamite, scoring their lowest number in ten weeks. According to our Dave Meltzer, this past...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-hit-lowest-mark-in-ten-weeks/",
-      "t": "31m",
+      "t": "1h",
       "dt": "2026-08-22T17:02:20+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Steph De Lander Says She Feels Great Physically, Wants To Win PWI’s Comeback Of The Year Award",
       "p": "Steph De Lander is feeling great. Since returning to the ring earlier this year, De Lander has wrestled for promotions like Ring Of Honor, Wrestling Revolver, GCW, House Of Glory, and ACW. This...",
       "link": "https://www.fightful.com/wrestling-news/steph-de-lander-says-she-feels-great-physically-wants-to-win-pwis-comeback-of-the-year-award/",
-      "t": "33m",
+      "t": "1h",
       "dt": "2026-08-22T17:00:00+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "AEW's Mick Foley Explains Where He Learned To Make Opponents Bleed 'The Hard Way'",
       "p": "Mick Foley explained just where he learned to make opponents bleed \"the hard way,\" and why he was a proponent of the practice when a match called for blood.",
       "link": "https://www.wrestlinginc.com/2238561/aew-mick-foley-learned-opponents-bleed-hard-way/",
-      "t": "33m",
+      "t": "1h",
       "dt": "2026-08-22T17:00:00+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Dave Meltzer’s insights on this week’s AEW Dynamite ratings for subscribers",
       "p": "Dave Meltzer has posted his thoughts and analysis of this past week’s AEW Dynamite ratings. Click here to read (sub only)",
       "link": "https://www.f4wonline.com/news/aew/dave-meltzers-insights-on-this-weeks-aew-dynamite-ratings-for-subscribers/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-22T16:32:21+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "ROH Death Before Dishonor results: Vetter’s review of Athena vs. Hazuki for the ROH Women’s Championship, Bandido vs. Nick Wayne for the ROH World Championship",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post ROH Death Before Dishonor results: Vetter’s review of Athena vs. Hazuki for the ROH Women’s Championship, Bandido vs. Nick Wayne for the...",
       "link": "https://prowrestling.net/site/2026/08/22/roh-death-before-dishonor-results-vetters-review-of-athena-vs-hazuki-for-the-roh-womens-championship-bandido-vs-nick-wayne-for-the-roh-world-championship/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-22T16:01:58+00:00"
     },
     {
@@ -64,48 +96,16 @@
       "h": "Will Ospreay Feared Returning From Neck Injury And ‘Being Even 50% Of What He Once Was’",
       "p": "Will Ospreay shares that he feared being even 50% of what he once was in the ring during his recovery from neck surgery. In late 2025, Ospreay would undergo neck surgery that would keep him out of...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-feared-returning-from-neck-injury-and-being-even-50-of-what-he-once-was/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-22T15:33:05+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay: I Could Perform In Front Of Wembley Night After Night After Night, I’ve Still Got To Pick Up Dog Shit",
-      "p": "Will Ospreay introduces AEW cameras to his two dogs, Hagrid and Norbert in his latest vlog surrounding his neck surgery last year. Last year, Ospreay would undergo serious neck surgery, and would...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-i-could-perform-in-front-of-wembley-night-after-night-after-night-ive-still-got-to-pick-up-dog-shit/",
-      "t": "2h",
-      "dt": "2026-08-22T15:13:20+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "MVP Talks Timeline For His Final Match, Length Of AEW Contract",
       "p": "Wrestling veteran Montel Vontavious Porter (MVP) reveals the timeline for his possible final match and the length of his existing AEW contract.",
       "link": "https://www.wrestlinginc.com/2237818/mvp-timeline-final-match-aew-contract/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-22T13:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: AEW Women’s Championship and Continental Classic quarterfinal matches set for tonight’s live show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: AEW Women’s Championship and Continental Classic quarterfinal matches set for tonight’s live show appeared first on Pro...",
-      "link": "https://prowrestling.net/site/2026/08/22/aew-collision-lineup-aew-womens-championship-and-continental-classic-quarterfinal-matches-set-for-tonights-live-show/",
-      "t": "6h",
-      "dt": "2026-08-22T11:00:56+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "ROH Death Before Dishonor 2026 Review",
-      "p": "Kate from MTL and Bruce Lord review ROH Death Before Dishonor 2026 with \"Forever Champion\" Athena defending the ROH Women's World Championship against Hazuki. The post ROH Death Before Dishonor...",
-      "link": "https://www.postwrestling.com/2026/08/22/roh-death-before-dishonor-2026-review/",
-      "t": "6h",
-      "dt": "2026-08-22T11:00:52+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Death Before Dishonor media scrum notes: Tony Khan talks Ilja Dragunov, hints at new ways to watch ROH",
-      "p": "Tony Khan and other wrestlers speak to the media. Khan, Deonna Purrazzo, Red Velvet, Action Andretti, and Athena all took questions from the press during the ROH Death Before Dishonor media scrum....",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/death-before-dishonor-media-scrum-notes-tony-khan-talks-ilja-dragunov-hints-at-new-ways-to-watch-roh/",
-      "t": "11h",
-      "dt": "2026-08-22T06:07:38+00:00"
     }
   ]
 }

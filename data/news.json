@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-22T03:06:05.985517+00:00",
+  "updated": "2026-08-22T03:53:46.547641+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Action Andretti joins stable, wins TV title at ROH Death Before Dishonor",
+      "p": "It was a big night for Action Andretti. Thanks to help from the Opps, Andretti defeated former tag team partner Lio Rush to win the ROH Television title at Death Before Dishonor on Friday. Towards...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/action-andretti-joins-stable-wins-tv-title-at-roh-death-before-dishonor/",
+      "t": "12m",
+      "dt": "2026-08-22T03:41:34+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Watch: ROH Death Before Dishonor Post Show Media Scrum",
       "p": "ROH Death Before Dishonor Post Show Media Scrum The post Watch: ROH Death Before Dishonor Post Show Media Scrum appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
       "link": "https://www.fightful.com/wrestling-news/watch-roh-death-before-dishonor-post-show-media-scrum/",
-      "t": "8m",
+      "t": "56m",
       "dt": "2026-08-22T02:57:34+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW's MJF And NJPW G1 Climax Winner Ryohei Oiwa Exchange Heated Words On Social Media",
       "p": "The war of words between AEW's MJF and NJPW's Ryohei Oiwa has continued as both men are eager to get their hands on one another.",
       "link": "https://www.wrestlinginc.com/2242063/aew-mjf-njpw-ryohei-oiwa-g1-climax-winner-heated-exchange/",
-      "t": "10m",
+      "t": "57m",
       "dt": "2026-08-22T02:55:49+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Action Andretti Receives Assist From The Opps To Win ROH World Television Title At Death Before Dishonor",
       "p": "Action Andretti obtains the belt with an assist. The ROH World Television Championship was up for grabs at Ring of Honor’s Death Before Dishonor pay-per-view. ‘Blackheart’ Lio Rush put the belt on...",
       "link": "https://www.fightful.com/wrestling-news/action-andretti-receives-assist-from-the-opps-to-win-roh-world-television-title-at-death-before-dishonor/",
-      "t": "10m",
+      "t": "58m",
       "dt": "2026-08-22T02:55:29+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Daniel Garcia Enters AEW Continental Challenge Cup Via ROH Death Before Dishonor Win",
       "p": "Daniel Garcia won a play-in match at ROH Death Before Dishonor to face Claudio Castagnoli in the Continental Challenge Cup on \"AEW Collision\".",
       "link": "https://www.wrestlinginc.com/2242059/roh-death-before-dishonor-daniel-garcia-aew-continental-challenge-cup/",
-      "t": "25m",
+      "t": "1h",
       "dt": "2026-08-22T02:40:14+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Claudio Castagnoli vs. Daniel Garcia In Continental Cup Quarterfinal Match Added To 8/22 AEW Collision",
       "p": "Daniel Garcia versus Claudio Castagnoli. Eddie Kingston was not medically cleared to compete, so he had to be pulled from his Continental Cup match against Claudio Castagnoli. At Ring of Honor...",
       "link": "https://www.fightful.com/wrestling-news/claudio-castagnoli-vs-daniel-garcia-in-continental-cup-quarterfinal-match-added-to-8-22-aew-collision/",
-      "t": "44m",
+      "t": "1h",
       "dt": "2026-08-22T02:21:13+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Replacement for Eddie Kingston in AEW Contintental Classic Challenge Club revealed",
       "p": "A new participant in the Continental Cup has been determined. Daniel Garcia is now in the Continental Challenge Cup following his victory over Adam Priest during Death Before Dishonor. As a...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/replacement-for-eddie-kingston-in-aew-contintental-classic-challenge-club-revealed/",
-      "t": "53m",
+      "t": "1h",
       "dt": "2026-08-22T02:12:59+00:00"
     },
     {
@@ -64,23 +72,15 @@
       "h": "New Six-Man Tag Team Champions crowned at ROH Death Before Dishonor",
       "p": "New ROH Six-Man Tag Team Champions have been crowned. Lethal Twist (Jay Lethal, Blake Christian, and Lee Johnson) defeated Dalton Castle & The Outrunners in the opening match of Friday’s Death...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/new-six-man-tag-team-champions-crowned-at-roh-death-before-dishonor/",
-      "t": "1h",
-      "dt": "2026-08-22T01:08:27+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ryohei Oiwa Says He’ll Come Storming Into AEW To Face MJF",
-      "p": "The war of words between Ryohei Oiwa and MJF is continuing. Ryohei Oiwa won the NJPW G1 Climax 36, defeating Yuya Uemura with a headlock. MJF has since criticized Oiwa’s talent, while noting that...",
-      "link": "https://www.fightful.com/wrestling-news/ryohei-oiwa-says-hell-come-storming-into-aew-to-face-mjf/",
       "t": "2h",
-      "dt": "2026-08-22T00:39:38+00:00"
+      "dt": "2026-08-22T01:08:27+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 8/21 – Radican Worldwide: Interview with Alex Windsor – Journey from indies to signing AEW contract, teaming with Jamie Hayter, getting consistent TV time to build Brawling Birds vs. Divine Dominion at AEW All In London, more (19 min.)",
       "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is joined by AEW wrestler Alex Windsor of The Brawling Birds, who will challenge AEW Women’s World Tag Team Champions Divine Dominion at AEW’s All In...",
       "link": "https://www.pwtorch.com/site/2026/08/21/vip-podcast-8-21-radican-worldwide-interview-with-alex-windsor-journey-from-indies-to-signing-aew-contract-teaming-with-jamie-hayter-getting-consistent-tv-time-to-build-brawling-birds-v/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-22T00:07:44+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "Eddie Kingston Pulled From AEW Continental Cup, Replacement To Be Determined On ROH PPV",
       "p": "Tony Khan announced that Eddie Kingston has been pulled from the AEW Continental Cup, and a replacement will be determined on ROH Death Before Dishonor.",
       "link": "https://www.wrestlinginc.com/2242020/eddie-kingston-aew-pulled-continental-cup-replacement-roh-death-before-dishonor/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-21T23:12:20+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "ROH Death Before Dishonor Live Results: Bandido vs. Nick Wayne, Athena vs. Hazuki",
       "p": "ROH Death Before Dishonor featured ROH Champion Bandido taking on Nick Wayne, as well as Forever Champion Athena vs. Hazuki. The post ROH Death Before Dishonor Live Results: Bandido vs. Nick...",
       "link": "https://www.postwrestling.com/2026/08/21/roh-death-before-dishonor-live-results-bandido-vs-nick-wayne-athena-vs-hazuki/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-21T23:12:19+00:00"
     },
     {

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-22T04:46:41.667828+00:00",
+  "updated": "2026-08-22T05:39:51.048185+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -13,10 +13,34 @@
   "items": [
     {
       "src": "Fightful",
+      "h": "Tony Khan Isn’t Sure About The Contract Status of Ilja Dragunov, Calls Him A ‘Tremendous Wrestler’",
+      "p": "Ilja Dragunov has reportedly left WWE after his contract expired. Dragunov has not wrestled since April after holding the WWE United States Championship in 2025. At the Death Before Dishonor press...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-isnt-sure-about-the-contract-status-of-ilja-dragunov-calls-him-a-tremendous-wrestler/",
+      "t": "14m",
+      "dt": "2026-08-22T05:25:10+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Athena Says She’s Dealt With With A Dislocated Kneecap, Neck Injury, And More During Title Reign",
+      "p": "Athena has been the ROH Women’s Champion for over 1350 days and has been dubbed the Forever Champion for a reason. She has made 38 defenses during her reign. Speaking at the ROH Death Before...",
+      "link": "https://www.fightful.com/wrestling-news/athena-says-shes-dealt-with-with-a-dislocated-kneecap-neck-injury-and-more-during-title-reign/",
+      "t": "21m",
+      "dt": "2026-08-22T05:17:35+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Action Andretti Speaks About ROH TV Title Win: “That Match Was To Remind Everybody Who The F*ck Action Andretti Is!”",
+      "p": "The new champion, Action Andretti, speaks. The Ring of Honor World Television Title reign of ‘Blackheart’ Lio Rush came to an end when he was defeated by Action Andretti in a Fight Without Honor...",
+      "link": "https://www.fightful.com/wrestling-news/action-andretti-speaks-about-roh-tv-title-win-that-match-was-to-remind-everybody-who-the-fck-action-andretti-is/",
+      "t": "28m",
+      "dt": "2026-08-22T05:10:41+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Athena Def. Hazuki To Retain ROH Women’s World Title At Death Before Dishonor",
       "p": "The title reign of Athena continues. Headlining the 2026 installment of Ring of Honor Death Before Dishonor was Athena defending the ROH Women’s World Championship against STARDOM’s Hazuki. The...",
       "link": "https://www.fightful.com/wrestling-news/athena-def-hazuki-to-retain-roh-womens-world-title-at-death-before-dishonor/",
-      "t": "32m",
+      "t": "1h",
       "dt": "2026-08-22T04:13:49+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "ROH Death Before Dishonor Results: Athena & Bandido retain, Kingston out of C3, Garcia earns his spot",
       "p": "ROH Death Before Dishonor featured ROH Champion Bandido taking on Nick Wayne, as well as Forever Champion Athena vs. Hazuki. The post ROH Death Before Dishonor Results: Athena & Bandido retain,...",
       "link": "https://www.postwrestling.com/2026/08/22/roh-death-before-dishonor-live-results-bandido-vs-nick-wayne-athena-vs-hazuki/",
-      "t": "43m",
+      "t": "1h",
       "dt": "2026-08-22T04:03:19+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Watch: ROH Death Before Dishonor Post Show Media Scrum",
       "p": "ROH Death Before Dishonor Post Show Media Scrum The post Watch: ROH Death Before Dishonor Post Show Media Scrum appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
       "link": "https://www.fightful.com/wrestling-news/watch-roh-death-before-dishonor-post-show-media-scrum/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-22T02:57:34+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "AEW's MJF And NJPW G1 Climax Winner Ryohei Oiwa Exchange Heated Words On Social Media",
       "p": "The war of words between AEW's MJF and NJPW's Ryohei Oiwa has continued as both men are eager to get their hands on one another.",
       "link": "https://www.wrestlinginc.com/2242063/aew-mjf-njpw-ryohei-oiwa-g1-climax-winner-heated-exchange/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-22T02:55:49+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Action Andretti Receives Assist From The Opps To Win ROH World Television Title At Death Before Dishonor",
       "p": "Action Andretti obtains the belt with an assist. The ROH World Television Championship was up for grabs at Ring of Honor’s Death Before Dishonor pay-per-view. ‘Blackheart’ Lio Rush put the belt on...",
       "link": "https://www.fightful.com/wrestling-news/action-andretti-receives-assist-from-the-opps-to-win-roh-world-television-title-at-death-before-dishonor/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-22T02:55:29+00:00"
     },
     {
@@ -68,19 +92,11 @@
       "dt": "2026-08-22T02:40:14+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Claudio Castagnoli vs. Daniel Garcia In Continental Cup Quarterfinal Match Added To 8/22 AEW Collision",
-      "p": "Daniel Garcia versus Claudio Castagnoli. Eddie Kingston was not medically cleared to compete, so he had to be pulled from his Continental Cup match against Claudio Castagnoli. At Ring of Honor...",
-      "link": "https://www.fightful.com/wrestling-news/claudio-castagnoli-vs-daniel-garcia-in-continental-cup-quarterfinal-match-added-to-8-22-aew-collision/",
-      "t": "2h",
-      "dt": "2026-08-22T02:21:13+00:00"
-    },
-    {
       "src": "Wrestling Observer",
       "h": "Replacement for Eddie Kingston in AEW Contintental Classic Challenge Club revealed",
       "p": "A new participant in the Continental Cup has been determined. Daniel Garcia is now in the Continental Challenge Cup following his victory over Adam Priest during Death Before Dishonor. As a...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/replacement-for-eddie-kingston-in-aew-contintental-classic-challenge-club-revealed/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-22T02:12:59+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "New Six-Man Tag Team Champions crowned at ROH Death Before Dishonor",
       "p": "New ROH Six-Man Tag Team Champions have been crowned. Lethal Twist (Jay Lethal, Blake Christian, and Lee Johnson) defeated Dalton Castle & The Outrunners in the opening match of Friday’s Death...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/new-six-man-tag-team-champions-crowned-at-roh-death-before-dishonor/",
-      "t": "3h",
-      "dt": "2026-08-22T01:08:27+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 8/21 – Radican Worldwide: Interview with Alex Windsor – Journey from indies to signing AEW contract, teaming with Jamie Hayter, getting consistent TV time to build Brawling Birds vs. Divine Dominion at AEW All In London, more (19 min.)",
-      "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is joined by AEW wrestler Alex Windsor of The Brawling Birds, who will challenge AEW Women’s World Tag Team Champions Divine Dominion at AEW’s All In...",
-      "link": "https://www.pwtorch.com/site/2026/08/21/vip-podcast-8-21-radican-worldwide-interview-with-alex-windsor-journey-from-indies-to-signing-aew-contract-teaming-with-jamie-hayter-getting-consistent-tv-time-to-build-brawling-birds-v/",
       "t": "4h",
-      "dt": "2026-08-22T00:07:44+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Eddie Kingston Pulled From AEW Continental Cup, Replacement To Be Determined On ROH PPV",
-      "p": "Tony Khan announced that Eddie Kingston has been pulled from the AEW Continental Cup, and a replacement will be determined on ROH Death Before Dishonor.",
-      "link": "https://www.wrestlinginc.com/2242020/eddie-kingston-aew-pulled-continental-cup-replacement-roh-death-before-dishonor/",
-      "t": "5h",
-      "dt": "2026-08-21T23:12:20+00:00"
+      "dt": "2026-08-22T01:08:27+00:00"
     }
   ]
 }

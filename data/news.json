@@ -1,22 +1,30 @@
 {
-  "updated": "2026-08-22T12:58:08.532635+00:00",
+  "updated": "2026-08-22T13:42:55.534414+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "MVP Talks Timeline For His Final Match, Length Of AEW Contract",
+      "p": "Wrestling veteran Montel Vontavious Porter (MVP) reveals the timeline for his possible final match and the length of his existing AEW contract.",
+      "link": "https://www.wrestlinginc.com/2237818/mvp-timeline-final-match-aew-contract/",
+      "t": "42m",
+      "dt": "2026-08-22T13:00:00+00:00"
+    },
     {
       "src": "Fightful",
       "h": "AEW Collision Preview, Start Time, How To Watch, Location (8/22)",
       "p": "Viewing information and lineup for AEW Collision on August 22, 2026 AEW Collision (August 22, 2026) Venue: Santander Arena City: Reading, PA Time: 8 pm ET Channel: TNT, HBO Max Lineup AEW Women’s...",
       "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-8-22/",
-      "t": "58m",
+      "t": "1h",
       "dt": "2026-08-22T12:00:00+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW Collision lineup: AEW Women’s Championship and Continental Classic quarterfinal matches set for tonight’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: AEW Women’s Championship and Continental Classic quarterfinal matches set for tonight’s live show appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/08/22/aew-collision-lineup-aew-womens-championship-and-continental-classic-quarterfinal-matches-set-for-tonights-live-show/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-22T11:00:56+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "ROH Death Before Dishonor 2026 Review",
       "p": "Kate from MTL and Bruce Lord review ROH Death Before Dishonor 2026 with \"Forever Champion\" Athena defending the ROH Women's World Championship against Hazuki. The post ROH Death Before Dishonor...",
       "link": "https://www.postwrestling.com/2026/08/22/roh-death-before-dishonor-2026-review/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-22T11:00:52+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Tony Khan Discusses The Positivity & Support For Rebel",
       "p": "The support for Rebel has come in droves. Since the announcement that Tanea Brooks a.k.a. Rebel was diagnosed with ALS, the support for her throughout the pro wrestling business has come raining...",
       "link": "https://www.fightful.com/wrestling-news/tony-khan-discusses-the-positivity-support-for-rebel/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-22T06:27:28+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Death Before Dishonor media scrum notes: Tony Khan talks Ilja Dragunov, hints at new ways to watch ROH",
       "p": "Tony Khan and other wrestlers speak to the media. Khan, Deonna Purrazzo, Red Velvet, Action Andretti, and Athena all took questions from the press during the ROH Death Before Dishonor media scrum....",
       "link": "https://www.f4wonline.com/news/ring-of-honor/death-before-dishonor-media-scrum-notes-tony-khan-talks-ilja-dragunov-hints-at-new-ways-to-watch-roh/",
-      "t": "6h",
+      "t": "7h",
       "dt": "2026-08-22T06:07:38+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "Tony Khan Isn’t Sure About The Contract Status of Ilja Dragunov, Calls Him A ‘Tremendous Wrestler’",
       "p": "Ilja Dragunov has reportedly left WWE after his contract expired. Dragunov has not wrestled since April after holding the WWE United States Championship in 2025. At the Death Before Dishonor press...",
       "link": "https://www.fightful.com/wrestling-news/tony-khan-isnt-sure-about-the-contract-status-of-ilja-dragunov-calls-him-a-tremendous-wrestler/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-22T05:25:10+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Athena Says She’s Dealt With With A Dislocated Kneecap, Neck Injury, And More During Title Reign",
       "p": "Athena has been the ROH Women’s Champion for over 1350 days and has been dubbed the Forever Champion for a reason. She has made 38 defenses during her reign. Speaking at the ROH Death Before...",
       "link": "https://www.fightful.com/wrestling-news/athena-says-shes-dealt-with-with-a-dislocated-kneecap-neck-injury-and-more-during-title-reign/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-22T05:17:35+00:00"
     },
     {
@@ -72,23 +80,15 @@
       "h": "Action Andretti Speaks About ROH TV Title Win: “That Match Was To Remind Everybody Who The F*ck Action Andretti Is!”",
       "p": "The new champion, Action Andretti, speaks. The Ring of Honor World Television Title reign of ‘Blackheart’ Lio Rush came to an end when he was defeated by Action Andretti in a Fight Without Honor...",
       "link": "https://www.fightful.com/wrestling-news/action-andretti-speaks-about-roh-tv-title-win-that-match-was-to-remind-everybody-who-the-fck-action-andretti-is/",
-      "t": "7h",
-      "dt": "2026-08-22T05:10:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Athena Def. Hazuki To Retain ROH Women’s World Title At Death Before Dishonor",
-      "p": "The title reign of Athena continues. Headlining the 2026 installment of Ring of Honor Death Before Dishonor was Athena defending the ROH Women’s World Championship against STARDOM’s Hazuki. The...",
-      "link": "https://www.fightful.com/wrestling-news/athena-def-hazuki-to-retain-roh-womens-world-title-at-death-before-dishonor/",
       "t": "8h",
-      "dt": "2026-08-22T04:13:49+00:00"
+      "dt": "2026-08-22T05:10:41+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "ROH Death Before Dishonor Results: Athena & Bandido retain, Kingston out of C3, Garcia earns his spot",
       "p": "ROH Death Before Dishonor featured ROH Champion Bandido taking on Nick Wayne, as well as Forever Champion Athena vs. Hazuki. The post ROH Death Before Dishonor Results: Athena & Bandido retain,...",
       "link": "https://www.postwrestling.com/2026/08/22/roh-death-before-dishonor-live-results-bandido-vs-nick-wayne-athena-vs-hazuki/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-22T04:03:19+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "Action Andretti joins stable, wins TV title at ROH Death Before Dishonor",
       "p": "It was a big night for Action Andretti. Thanks to help from the Opps, Andretti defeated former tag team partner Lio Rush to win the ROH Television title at Death Before Dishonor on Friday. Towards...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/action-andretti-joins-stable-wins-tv-title-at-roh-death-before-dishonor/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-22T03:41:34+00:00"
     },
     {

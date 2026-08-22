@@ -1,22 +1,30 @@
 {
-  "updated": "2026-08-22T20:37:03.550651+00:00",
+  "updated": "2026-08-22T21:33:41.668139+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Bayley: I Belive In Women’s Wrestling And Will Continue To Fight For It",
+      "p": "Ten years ago, Bayley and Sasha Banks (Mercedes Mone in AEW) competed in one of the most important women’s matches in WWE history at NXT TakeOver: Brooklyn. The bout has been credited for ushering...",
+      "link": "https://www.fightful.com/wrestling-news/bayley-i-belive-in-womens-wrestling-and-will-continue-to-fight-for-it/",
+      "t": "5m",
+      "dt": "2026-08-22T21:28:22+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Kevin Knight explains why he’s done more in one year with AEW than five with NJPW",
       "p": "Kevin Knight says AEW is “the land of opportunity.” The current TNT Champion signed with AEW in March 2025 after spending nearly five years with New Japan Pro Wrestling. During a recent interview...",
       "link": "https://www.f4wonline.com/news/aew/kevin-knight-explains-why-hes-done-more-in-one-year-with-aew-than-five-with-njpw/",
-      "t": "0m",
+      "t": "57m",
       "dt": "2026-08-22T20:36:21+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "FREE PODCAST 8/22 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner talk AEW Dynamite including Omega turns up the heat against Ospreay (92 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss the August 19th episode of AEW Dynamite from Baltimore, MD. Kenny...",
       "link": "https://www.pwtorch.com/site/2026/08/22/free-podcast-8-22-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-talk-aew-dynamite-including-omega-turns-up-the-heat-against-ospreay-92-min/",
-      "t": "25m",
+      "t": "1h",
       "dt": "2026-08-22T20:11:25+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW Star MVP Praises Former WWE Wrestlers For Their Financial Advice",
       "p": "MVP complimented two fellow pro wrestlers, including a WWE Hall of Famer, for their financial savvy.",
       "link": "https://www.wrestlinginc.com/2239052/wwe-aew-mvp-jinder-mahal-ricky-steamboat-financial-advice/",
-      "t": "37m",
+      "t": "1h",
       "dt": "2026-08-22T20:00:00+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Sherilyn Guerrero Says She Would Love To Have A Match With Mercedes Mone",
       "p": "Sherilyn Guerrero wants to get in the ring with Mercedes Mone. Eddie Guerrero has been influential to a lot of current wrestlers, including Mercedes Mone. Eddie’s daughter, Sherilyn Guerrero, is...",
       "link": "https://www.fightful.com/wrestling-news/sherilyn-guerrero-says-she-would-love-to-have-a-match-with-mercedes-mone/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-22T18:57:39+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "WOL: ROH Death by Dishonor shines, K.O. vs Sami AGAIN, ‘Fake’ Monroe, more",
       "p": "Wrestling Observer Live with Jim Valley. ROH’s Death By Dishonor Friday night was an outstanding in-ring wrestling event, as good as any ROH show even from the glory days. From Athena, Hazuki,...",
       "link": "https://www.f4wonline.com/podcasts/wol-roh-death-by-dishonor-shines-k-o-vs-sami-again-fake-monroe-more/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-22T18:51:44+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "AEW's Darby Allin Names His Favorite Wrestlers To Work With",
       "p": "AEW's Darby Allin names his favorite wrestlers to work with, and explains that they all share the similar trait of wanting to push boundaries in wrestling",
       "link": "https://www.wrestlinginc.com/2238678/aew-darby-allin-favorite-wrestlers-work-with/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-22T18:30:00+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "Athena Says She Suffered Asthma Attack Mid-Match Against Hazuki At ROH Death Before Dishonor",
       "p": "Athena says she had an asthma attack during her match against Hazuki. At ROH Death Before Dishonor, Athena defended her ROH Women’s World Championship against Hazuki. The bout ended with the...",
       "link": "https://www.fightful.com/wrestling-news/athena-says-she-suffered-asthma-attack-mid-match-against-hazuki-at-roh-death-before-dishonor/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-22T18:24:57+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "VIP PODCAST 8/21 – Everything with Rich & Wade: Comparing Owens-Punk and Omega-Ospreay segments and whether they leaned too obscure, G1 big picture, Ilja Dragunov, Chelsea Green (48 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Rich’s big picture thoughts on New Japan G1 Climax, including the...",
       "link": "https://www.pwtorch.com/site/2026/08/22/vip-podcast-8-21-everything-with-rich-wade-comparing-owens-punk-and-omega-ospreay-segments-and-whether-they-leaned-too-obscure-g1-big-picture-ilja-dragunov-chelsea-green-48-min/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-22T18:12:29+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW Dynamite (8/19) Drops Below 600,000 Viewers On Cable TV",
       "p": "AEW Dynamite viewership and ratings information for the August 19 episode. The Wrestling Observer reports that AEW Dynamite on August 19 drew 587,000 viewers on TBS. This number is down from the...",
       "link": "https://www.fightful.com/wrestling-news/aew-dynamite-8-19-drops-below-600000-viewers-on-cable-tv/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-22T17:44:34+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "TKO representatives attended recent AEW Dynamite | Exclusive",
       "p": "TKO representatives attended a recent AEW event. Our own Bryan Alvarez wrote to his subscribers on X that there were TKO reps at last week’s AEW Dynamite. “There were TKO reps at Dynamite last...",
       "link": "https://www.f4wonline.com/news/wwe/tko-representatives-attended-recent-aew-dynamite-exclusive/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-22T17:28:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ratings hit lowest mark in ten weeks",
-      "p": "AEW’s road to All In ran into a big speed bump this week with its ratings for this past week’s Dynamite, scoring their lowest number in ten weeks. According to our Dave Meltzer, this past...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-hit-lowest-mark-in-ten-weeks/",
-      "t": "3h",
-      "dt": "2026-08-22T17:02:20+00:00"
     }
   ]
 }

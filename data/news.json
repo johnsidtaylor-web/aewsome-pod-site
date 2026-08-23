@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T12:59:53.858923+00:00",
+  "updated": "2026-08-23T13:43:44.611400+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -13,10 +13,18 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "AEW Star Mick Foley Looks Back On Favorite WCW & ECW Matches",
+      "p": "Mick Foley has looked back on his time in both WCW and ECW and named his favorite matches in each company.",
+      "link": "https://www.wrestlinginc.com/2239349/aew-wcw-ecw-mick-foley-favorite-matches/",
+      "t": "43m",
+      "dt": "2026-08-23T13:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "MVP Comments On Whether He'd Accept AEW World Title Run If Tony Khan Offered",
       "p": "Having never held a major world championship, MVP recently revealed whether he's still interested in that accolade this deep into his career.",
       "link": "https://www.wrestlinginc.com/2239328/mvp-aew-world-title-run-tony-khan/",
-      "t": "29m",
+      "t": "1h",
       "dt": "2026-08-23T12:30:00+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "MJF appearance, more added to AEW Dynamite lineup",
       "p": "Two new additions have been made to the lineup for Wednesday’s edition of AEW Dynamite. Following Saturday’s Collision, AEW revealed that MJF will be on Dynamite this week. He had sent his...",
       "link": "https://www.f4wonline.com/news/aew/mjf-appearance-more-added-to-aew-dynamite-lineup/",
-      "t": "33m",
+      "t": "1h",
       "dt": "2026-08-23T12:26:29+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "08/23 Powell’s AEW Collision audio review: Willow Nightingale vs. TBS Champion Maya World for the AEW Women’s Championship, the last two AEW Continental Cup quarterfinal matches",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 08/23 Powell’s AEW Collision audio review: Willow Nightingale vs. TBS Champion Maya World for the AEW Women’s Championship, the last two AEW...",
       "link": "https://prowrestling.net/site/2026/08/23/08-23-powells-aew-collision-audio-review-willow-nightingale-vs-tbs-champion-maya-world-for-the-aew-womens-championship-the-last-two-aew-continental-cup-quarterfinal-matches/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-23T07:40:10+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Athena reveals suffering asthma attack during ROH match",
       "p": "Athena recently suffered an asthma attack during her latest ROH match. At the recent ROH Death Before Dishonor on August 21, 2026, Athena faced off against Hazuki with her ROH Women’s World title...",
       "link": "https://www.f4wonline.com/news/aew/athena-reveals-suffering-asthma-attack-during-roh-match/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-23T03:39:00+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW COLLISION RESULTS (8/22): Willow vs. Maya World for the women’s title, Kyle O’Reilly vs. Orange Cassidy and Claudio vs. Garcia in tournament matches, and more",
       "p": "AEW COLLISION RESULTS AUGUST 22, 2026 READING, PA. AT SANTANDER ARENA LIVE ON TBS & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone, Ian Riccaboni Ring Announcer:...",
       "link": "https://www.pwtorch.com/site/2026/08/22/aew-collision-results-8-22-willow-vs-maya-world-for-the-womens-title-kyle-oreilly-vs-orange-cassidy-and-claudio-vs-garcia-in-tournament-matches-and-more/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-23T03:14:49+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "AEW Dynamite preview: Wednesday’s All In London go-home show (Glasgow reports needed)",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Wednesday’s All In London go-home show (Glasgow reports needed) appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/22/aew-dynamite-preview-wednesdays-all-in-london-go-home-show-glasgow-reports-needed/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-08-23T02:43:43+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW Collision 8/22 Results: Continental Challenge Cup semifinals set, Willow Nightingale retains",
       "p": "Kyle O’Reilly and Claudio Castagnoli advanced in the Continental Challenge Cup on Saturday’s AEW Collision, completing the tournament’s semifinal field. The post AEW Collision 8/22 Results:...",
       "link": "https://www.postwrestling.com/2026/08/22/aew-collision-8-22-results-continental-challenge-cup-semifinals-set-willow-nightingale-retains/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-08-23T02:31:42+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW Collision 8/22/26 Review | COLLISION COURSE",
       "p": "Kate from Montreal & Wai Ting review this week’s AEW Collision, featuring Willow vs. Maya World for the World Championship and C3 Quarterfinals. The post AEW Collision 8/22/26 Review | COLLISION...",
       "link": "https://www.postwrestling.com/2026/08/22/aew-collision-8-22-26-review-collision-course-live-1015pm-et/",
-      "t": "10h",
+      "t": "11h",
       "dt": "2026-08-23T02:15:26+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Semifinals set for AEW Continental Challenge Cup",
       "p": "The semifinals for the AEW Continental Challenge Cup are now set. Kyle O’Reilly and Claudio Castagnoli advanced to next week’s semifinals on Saturday’s Collision. Cassidy was the first to advance,...",
       "link": "https://www.f4wonline.com/news/aew/semfinals-set-for-aew-continental-challenge-cup/",
-      "t": "11h",
+      "t": "12h",
       "dt": "2026-08-23T01:19:18+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision live results: Willow Nightingale vs. Maya World, C3 quarterfinals",
-      "p": "AEW Collision is live tonight from Santander Arena in Reading, Pennsylvania. The AEW Women’s World Championship will be on the line as Willow Nightingale defends against TBS Champion Maya World....",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-willow-nightingale-vs-maya-world-c3-quarterfinals/",
-      "t": "13h",
-      "dt": "2026-08-22T23:05:00+00:00"
     }
   ]
 }

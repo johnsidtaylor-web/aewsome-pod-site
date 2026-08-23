@@ -1,22 +1,54 @@
 {
-  "updated": "2026-08-23T03:13:19.522786+00:00",
+  "updated": "2026-08-23T04:00:24.507955+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Chris Jericho Recalls Emotional Highs & Lows Of Classic WWE Tag Match",
+      "p": "AEW star Chris Jericho recalls the emotional highs and lows of the classic WWE Raw tag match featuring him and Chris Benoit facing Triple H and Steve Austin",
+      "link": "https://www.wrestlinginc.com/2239132/aew-wwe-chris-jericho-classic-tag-match-emotional-highs-lows/",
+      "t": "1m",
+      "dt": "2026-08-23T03:59:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Athena reveals suffering asthma attack during ROH match",
+      "p": "Athena recently suffered an asthma attack during her latest ROH match. At the recent ROH Death Before Dishonor on August 21, 2026, Athena faced off against Hazuki with her ROH Women’s World title...",
+      "link": "https://www.f4wonline.com/news/aew/athena-reveals-suffering-asthma-attack-during-roh-match/",
+      "t": "21m",
+      "dt": "2026-08-23T03:39:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW COLLISION RESULTS (8/22): Willow vs. Maya World for the women’s title, Kyle O’Reilly vs. Orange Cassidy and Claudio vs. Garcia in tournament matches, and more",
+      "p": "AEW COLLISION RESULTS AUGUST 22, 2026 READING, PA. AT SANTANDER ARENA LIVE ON TBS & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone, Ian Riccaboni Ring Announcer:...",
+      "link": "https://www.pwtorch.com/site/2026/08/22/aew-collision-results-8-22-willow-vs-maya-world-for-the-womens-title-kyle-oreilly-vs-orange-cassidy-and-claudio-vs-garcia-in-tournament-matches-and-more/",
+      "t": "45m",
+      "dt": "2026-08-23T03:14:49+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision results (8/22): Murphy’s review of Willow Nightingale vs. TBS Champion Maya World for the AEW Women’s Championship, the final AEW Continental Cup quarterfinal matches",
+      "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (8/22): Murphy’s review of Willow Nightingale vs. TBS Champion Maya World for the AEW Women’s Championship, the final AEW...",
+      "link": "https://prowrestling.net/site/2026/08/22/aew-collision-results-8-22-murphys-review-of-willow-nightingale-vs-tbs-champion-maya-world-for-the-aew-womens-championship-the-final-aew-continental-cup-quarterfinal-matches/",
+      "t": "59m",
+      "dt": "2026-08-23T03:00:27+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite preview: Wednesday’s All In London go-home show (Glasgow reports needed)",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Wednesday’s All In London go-home show (Glasgow reports needed) appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/22/aew-dynamite-preview-wednesdays-all-in-london-go-home-show-glasgow-reports-needed/",
-      "t": "29m",
+      "t": "1h",
       "dt": "2026-08-23T02:43:43+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW Collision 8/22 Results: Continental Challenge Cup semifinals set, Willow Nightingale retains",
       "p": "Kyle O’Reilly and Claudio Castagnoli advanced in the Continental Challenge Cup on Saturday’s AEW Collision, completing the tournament’s semifinal field. The post AEW Collision 8/22 Results:...",
       "link": "https://www.postwrestling.com/2026/08/22/aew-collision-8-22-results-continental-challenge-cup-semifinals-set-willow-nightingale-retains/",
-      "t": "41m",
+      "t": "1h",
       "dt": "2026-08-23T02:31:42+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Swerve Strickland Vs. Jack Perry, Continental Challenge Cup Semifinals, More Added To 8/26 AEW Dynamite",
       "p": "Lineup for the upcoming AEW Dynamite. On the August 15 episode of AEW Collision, Jack Perry addressed his loss to Jon Moxley in the Continental Challenge Cup. Swerve Strickland confronted him and...",
       "link": "https://www.fightful.com/wrestling-news/swerve-strickland-vs-jack-perry-continental-challenge-cup-semifinals-more-added-to-8-26-aew-dynamite/",
-      "t": "51m",
+      "t": "1h",
       "dt": "2026-08-23T02:21:42+00:00"
     },
     {
@@ -40,39 +72,23 @@
       "h": "Swerve Strickland vs. Jack Perry set for next AEW Dynamite",
       "p": "A new match has been added to AEW Dynamite while the Continental Challenge Cup winds to a close. Jack Perry called out Swerve Strickland during Saturday’s AEW Collision. In a pre-taped promo,...",
       "link": "https://www.f4wonline.com/news/aew/swerve-strickland-vs-jack-perry-set-for-next-aew-dynamite/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-23T01:58:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Watch: FULL EPISODE: Lucha Libre AAA, August 22, 2026",
-      "p": "FULL EPISODE: Lucha Libre AAA, August 22, 2026 The post Watch: FULL EPISODE: Lucha Libre AAA, August 22, 2026 appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
-      "link": "https://www.fightful.com/wrestling-news/watch-full-episode-lucha-libre-aaa-august-22-2026/",
-      "t": "1h",
-      "dt": "2026-08-23T01:43:11+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Semifinals set for AEW Continental Challenge Cup",
       "p": "The semifinals for the AEW Continental Challenge Cup are now set. Kyle O’Reilly and Claudio Castagnoli advanced to next week’s semifinals on Saturday’s Collision. Cassidy was the first to advance,...",
       "link": "https://www.f4wonline.com/news/aew/semfinals-set-for-aew-continental-challenge-cup/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-23T01:19:18+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kyle O’Reilly And Claudio Castagnoli Advance In The Continental Challenge Cup On 8/22 AEW Collision",
-      "p": "Kyle O’Reilly and Claudio Castagnoli have advanced to the semifinals of the Continental Challenge Cup. The Continental Challenge Cup quarterfinals continued on this week’s AEW Collision, with the...",
-      "link": "https://www.fightful.com/wrestling-news/kyle-oreilly-and-claudio-castagnoli-advance-in-the-continental-challenge-cup-on-8-22-aew-collision/",
-      "t": "1h",
-      "dt": "2026-08-23T01:18:24+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW Collision 8/22/26 Review | COLLISION COURSE (Live 10:15pm ET)",
       "p": "TONIGHT 10:15PM ET — Kate from Montreal & Wai Ting review this week’s AEW Collision, featuring Willow vs. Maya World for the World Championship and C3 Quarterfinals. The post AEW Collision 8/22/26...",
       "link": "https://www.postwrestling.com/2026/08/22/aew-collision-8-22-26-review-collision-course-live-1015pm-et/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-23T00:15:26+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "AEW Collision Results 8/22 - Women's World Title Match, Continental Cup Continues",
       "p": "Daniel Garcia won a play-in match at Death Before Dishonor to replace Eddie Kingston in the AEW Continental Challenge Cup. He'll face Claudio Castagnoli.",
       "link": "https://www.wrestlinginc.com/2242208/aew-collision-august-22-2026-results/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-22T22:56:14+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kevin Knight explains why he’s done more in one year with AEW than five with NJPW",
-      "p": "Kevin Knight says AEW is “the land of opportunity.” The current TNT Champion signed with AEW in March 2025 after spending nearly five years with New Japan Pro Wrestling. During a recent interview...",
-      "link": "https://www.f4wonline.com/news/aew/kevin-knight-explains-why-hes-done-more-in-one-year-with-aew-than-five-with-njpw/",
-      "t": "6h",
-      "dt": "2026-08-22T20:36:21+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 8/22 – PWTorch Dailycast – All Elite Conversation Club: Dehnel & Kanner talk AEW Dynamite including Omega turns up the heat against Ospreay (92 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss the August 19th episode of AEW Dynamite from Baltimore, MD. Kenny...",
-      "link": "https://www.pwtorch.com/site/2026/08/22/free-podcast-8-22-pwtorch-dailycast-all-elite-conversation-club-dehnel-kanner-talk-aew-dynamite-including-omega-turns-up-the-heat-against-ospreay-92-min/",
-      "t": "7h",
-      "dt": "2026-08-22T20:11:25+00:00"
     }
   ]
 }

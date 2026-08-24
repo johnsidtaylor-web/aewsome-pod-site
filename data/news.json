@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T15:53:14.856623+00:00",
+  "updated": "2026-08-24T16:53:22.429467+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -12,11 +12,83 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Grand Slam France announced for October",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Grand Slam France announced for October appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/24/aew-grand-slam-france-announced-for-october/",
+      "t": "0m",
+      "dt": "2026-08-24T16:52:24+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW reveals location for Fright Night 2026",
+      "p": "Fall is almost here, and AEW is making plans for its Halloween-themed episodes of Dynamite and Collision. The promotion announced today that Chaifetz Arena in St. Louis, Missouri will host Fright...",
+      "link": "https://www.f4wonline.com/news/aew/aew-reveals-location-for-fright-night-2026/",
+      "t": "1m",
+      "dt": "2026-08-24T16:51:20+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Will Ospreay Talks Kenny Omega, Suffocation On First-Ever Episode Of AEW Spill The Tea",
+      "p": "Will Ospreay describes Kenny Omega and what he thinks of him leading up to their title match at All In: London. How far he will and won't go in their match.",
+      "link": "https://www.wrestlinginc.com/2242796/aew-spill-the-tea-will-ospreay-kenny-omega-suffocation-first-ever/",
+      "t": "27m",
+      "dt": "2026-08-24T16:26:17+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Fright Night Specials Set For October",
+      "p": "AEW Fright Night will return at the end of October. All Elite Wrestling announced that Fright Night Dynamite and Collision will be held on Wednesday, October 28 at the Chaifetz Arena in St. Louis,...",
+      "link": "https://www.fightful.com/wrestling-news/aew-fright-night-specials-set-for-october/",
+      "t": "34m",
+      "dt": "2026-08-24T16:18:22+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Darby Allin reveals mindset signing with AEW while ‘some people were taking it for granted’",
+      "p": "Darby Allin was one of the first few wrestlers to sign with AEW in 2019 and has witnessed and contributed to its growth over the years. Allin marveled at the transition of talents in AEW today...",
+      "link": "https://www.f4wonline.com/news/aew/darby-allin-reveals-mindset-signing-with-aew-while-some-people-were-taking-it-for-granted/",
+      "t": "35m",
+      "dt": "2026-08-24T16:17:53+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 8/24 – Greg Parks Outloud! Wrestling’s youth movement – The young talent that WWE, TNA, and AEW are pushing to the fore (21 min.)",
+      "p": "SHOW SUMMARY: In this edition of “Greg Parks Outloud!,” PWTorch columnist Greg Parks presents a podcast version of his weekly PWTorch Newsletter column. This week’s show features a look at the...",
+      "link": "https://www.pwtorch.com/site/2026/08/24/vip-podcast-8-24-greg-parks-outloud-wrestlings-youth-movement-the-young-talent-that-wwe-tna-and-aew-are-pushing-to-the-fore-21-min/",
+      "t": "35m",
+      "dt": "2026-08-24T16:17:24+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW COLLISION HITS & MISSES (8/22): Claudio and O’Reilly advance to Continental Challenge Cup semi-finals, Bang Bang Gang answer STP’s open challenge, Willow retains against Maya, more",
+      "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HITS OSPREAY-OMEGA VIDEO PACKAGE AEW did an excellent job...",
+      "link": "https://www.pwtorch.com/site/2026/08/24/aew-collision-hits-misses-8-22-claudio-and-oreilly-advance-to-continental-challenge-cup-semi-finals-bang-bang-gang-answer-stps-open-challenge-willow-retains-against-maya-more/",
+      "t": "40m",
+      "dt": "2026-08-24T16:12:43+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Brawl at the Ballpark results: Vetter’s review of Bobby Lashley and Shelton Benjamin vs. Shane Taylor and Lee Moriarty, Orange Cassidy vs. Wheeler Yuta, Julia Hart vs. Hyan",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post AEW Brawl at the Ballpark results: Vetter’s review of Bobby Lashley and Shelton Benjamin vs. Shane Taylor and Lee Moriarty, Orange Cassidy...",
+      "link": "https://prowrestling.net/site/2026/08/24/aew-brawl-at-the-ballpark-results-vetters-review-of-bobby-lashley-and-shelton-benjamin-vs-shane-taylor-and-lee-moriarty-orange-cassidy-vs-wheeler-yuta-julia-hart-vs-hyan/",
+      "t": "53m",
+      "dt": "2026-08-24T16:00:21+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Darby Allin says his ‘body was so depleted’ after AEW World Championship win he ‘felt numb’",
+      "p": "Darby Allin reflected on his AEW World Championship at Dynamite: Spring BreakThru on April 15. The locker room walked out to the ring to celebrate the new champion’s victory but Allin claims he...",
+      "link": "https://www.f4wonline.com/news/aew/darby-allin-says-his-body-was-so-depleted-after-aew-world-championship-win-he-felt-numb/",
+      "t": "56m",
+      "dt": "2026-08-24T15:56:54+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Darby Allin details goal to ‘lead by example’ following Sting’s influence",
       "p": "Darby Allin checked off winning the AEW World Championship in April this year. Despite the barely 40-day title reign the accomplishment remains a significant milestone in his career. Speaking with...",
       "link": "https://www.f4wonline.com/news/aew/darby-allin-details-goal-to-lead-by-example-following-stings-influence/",
-      "t": "14m",
+      "t": "1h",
       "dt": "2026-08-24T15:38:36+00:00"
     },
     {
@@ -24,7 +96,7 @@
       "h": "Will Ospreay Details Injury Recovery In Official AEW Vlog",
       "p": "AEW's Will Ospreay has discussed his apprehensions heading into his neck surgery and how he was worried that he might not be able to wrestle again.",
       "link": "https://www.wrestlinginc.com/2242433/aew-will-ospreay-injury-recovery-official-vlog/",
-      "t": "23m",
+      "t": "1h",
       "dt": "2026-08-24T15:30:00+00:00"
     },
     {
@@ -32,80 +104,8 @@
       "h": "AEW Collision Viewership & Ratings Report: 8/15/2026",
       "p": "AEW Collision remained relatively steady in both key demographic ratings and overall viewership for the August 15 edition.",
       "link": "https://www.wrestlinginc.com/2242405/aew-collision-viewership-ratings-august-15-2026/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-24T14:30:00+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW announces Grand Slam: France for October 6 in Paris",
-      "p": "AEW will head to France for the first time ever on October 6, presenting their latest Grand Slam card from Paris. The post AEW announces Grand Slam: France for October 6 in Paris appeared first on...",
-      "link": "https://www.postwrestling.com/2026/08/24/aew-announces-grand-slam-france-for-october-6-in-paris/",
-      "t": "1h",
-      "dt": "2026-08-24T14:14:30+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW To Debut In New Country With Grand Slam Event Later This Year",
-      "p": "AEW will be making its debut in a brand new country this October as its Grand Slam series will travel to mainland Europe for the very first time.",
-      "link": "https://www.wrestlinginc.com/2242563/aew-grand-slam-france-october-6-2026-adidas-arena-paris-debut-new-country/",
-      "t": "2h",
-      "dt": "2026-08-24T13:35:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW to make Paris debut with Grand Slam France",
-      "p": "AEW is heading to France for the first time ever with Paris set to host a Grand Slam event this fall. Ahead of the promotion’s All In pay-per-view in London this weekend, AEW announced that it...",
-      "link": "https://www.f4wonline.com/news/aew/aew-to-make-paris-debut-with-grand-slam-france/",
-      "t": "2h",
-      "dt": "2026-08-24T13:30:43+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The All In London go-home show (Glasgow reports needed)",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The All In London go-home show (Glasgow reports needed) appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/24/aew-dynamite-preview-the-all-in-london-go-home-show-glasgow-reports-needed/",
-      "t": "2h",
-      "dt": "2026-08-24T13:15:31+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST SCHEDULE: Live coverage from England with John & Neal, WWF Aggression album review",
-      "p": "John Pollock & Neal Flanagan will be reporting live from London throughout AEW All In week, plus a review of the WWF Aggression album. The post POST SCHEDULE: Live coverage from England with John...",
-      "link": "https://www.postwrestling.com/2026/08/24/post-schedule-live-coverage-from-england-with-john-neal-wwf-aggression-album-review/",
-      "t": "2h",
-      "dt": "2026-08-24T13:00:11+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Adam Copeland Comments On Whether WWE World Champion Roman Reigns Is Overrated",
-      "p": "Adam Copeland has given his opinion on the recent discourse surrounding WWE's Roman Reigns, assessing whether the World Heavyweight Champion is overrated.",
-      "link": "https://www.wrestlinginc.com/2242375/aew-adam-copeland-wwe-world-champion-roman-reigns-overrated/",
-      "t": "2h",
-      "dt": "2026-08-24T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Paul Wight (FKA Big Show) Knew The Moment He Was 'Done' As A WWE Performer",
-      "p": "AEW star Paul Wight (AKA The Big Show) was able to pinpoint the exact moment when he realized that WWE's Vince McMahon no longer saw him as an in-ring star.",
-      "link": "https://www.wrestlinginc.com/2240667/wwe-paul-wight-big-show-vince-mcmahon-knew-moment-done-performer/",
-      "t": "3h",
-      "dt": "2026-08-24T12:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Grand Slam France Set For October 6",
-      "p": "AEW Grand Slam is headed to Paris, France. All Elite Wrestling announced that AEW Grand Slam France will take place on Tuesday, October 6 from Adidas Arena in Paris. Dynamite and Collision will be...",
-      "link": "https://www.fightful.com/wrestling-news/aew-grand-slam-france-set-for-october-6/",
-      "t": "3h",
-      "dt": "2026-08-24T12:19:08+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Swerve Strickland comments on NXT’s Myka Lockwood using variation of his in-ring move",
-      "p": "Swerve Strickland remarked on NXT star Myka Lockwood’s delivery of her signature move featuring a double pumphandle into a falling powerslam. The AEW star shared a follow-up post to a previous...",
-      "link": "https://www.f4wonline.com/news/swerve-strickland-comments-on-nxts-myka-lockwood-using-variation-of-his-in-ring-move/",
-      "t": "3h",
-      "dt": "2026-08-24T12:07:54+00:00"
     }
   ]
 }

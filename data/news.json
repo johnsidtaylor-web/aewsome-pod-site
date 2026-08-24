@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-24T22:42:04.147571+00:00",
+  "updated": "2026-08-24T23:33:17.280212+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (1 AEW items)",
+    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Darby Allin Details History With Kevin Knight Ahead Of AEW All In: London",
+      "p": "AEW star Darby Allin detailed his history with TNT Champion Kevin Knight ahead of their Falls Count Anywhere match at AEW All In: London.",
+      "link": "https://www.wrestlinginc.com/2243277/aew-all-in-london-2026-darby-allin-kevin-knight-history/",
+      "t": "55m",
+      "dt": "2026-08-24T22:37:56+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Daniel Garcia & Wheeler Yuta Set For Action At RevPro 14 Year Anniversary Show",
       "p": "RevPro’s Anniversary Show to feature Daniel Garcia and Wheeler Yuta. Coming up on the schedule for Revolution Pro Wrestling is the promotion’s 14 Year Anniversary Show on August 29th at OVO Arena...",
       "link": "https://www.fightful.com/wrestling-news/daniel-garcia-wheeler-yuta-set-for-action-at-revpro-14-year-anniversary-show/",
-      "t": "46m",
+      "t": "1h",
       "dt": "2026-08-24T21:55:43+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Mercedes Mone Wants To Take AEW World Title & Willow Nightingale's Smile At All In",
       "p": "Mercedes Mone declares that she's looking to take both the AEW Women's World Championship and Willow Nightingale's smile from her at AEW All In",
       "link": "https://www.wrestlinginc.com/2243252/aew-all-in-london-2026-mercedes-mone-willow-nightingale-take-world-title-smile/",
-      "t": "50m",
+      "t": "1h",
       "dt": "2026-08-24T21:51:43+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW Announces Fright Night Dynamite 2026",
       "p": "Just a few hours after announcing they were making their debut in France, AEW reveals they are also bringing back Fright Night Dynamite for 2026",
       "link": "https://www.wrestlinginc.com/2243187/aew-fright-night-dynamite-2026-st-louis-missouri-october-28/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-24T20:43:05+00:00"
     },
     {
@@ -40,24 +48,8 @@
       "h": "POST NEWS: AEW announces France debut, Weekend Recap & Matt Cardona injured",
       "p": "Jack Wannan covers the news for Monday, August 24, including a weekend recap, AEW’s debut in France, a huge MMA brawl in Cali, and much more. Available for Double Double & Espresso members at...",
       "link": "https://www.postwrestling.com/2026/08/24/post-news-aew-announces-france-debut-weekend-recap-matt-cardona-injured/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-24T20:06:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite & Collision scheduling update for All Out week",
-      "p": "While there are still days to go before this Sunday’s All In, the AEW Dynamite and Collision schedules for September are already out with one key difference when it comes to All Out. In a Monday...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-collision-scheduling-update-all-out-week/",
-      "t": "2h",
-      "dt": "2026-08-24T20:05:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Willow Nightingale: Sometimes It’s Hard To Wrap My Head Around Why People Connect To Me And Cheer For Me",
-      "p": "Willow Nightingale encourages fans to love themselves. Nightingale has been consistently showered in praise since winning the Women’s World Championship from Thekla at AEW Redemption. In a new...",
-      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-title-win-324217/",
-      "t": "2h",
-      "dt": "2026-08-24T20:00:16+00:00"
     },
     {
       "src": "Wrestling Inc",
@@ -68,19 +60,11 @@
       "dt": "2026-08-24T19:41:49+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay planning special ring gear for AEW All In 2026",
-      "p": "Will Ospreay will be wearing special ring gear as he attempts to bring the AEW World Championship home at All In 2026. In an interview with TV Insider ahead of the August 30 pay-per-view, Ospreay...",
-      "link": "https://www.f4wonline.com/news/aew/will-ospreay-planning-special-ring-gear-for-aew-all-in-2026/",
-      "t": "3h",
-      "dt": "2026-08-24T19:21:12+00:00"
-    },
-    {
       "src": "Wrestling Inc",
       "h": "Dave Meltzer Explains Current Status Of Paramount-WBD Deal & Possible AEW Fallout",
       "p": "Dave Meltzer explains the current status of the stalled Paramount-Warner Brothers Discovery deal, and why Tony Khan is rooting for one particular outcome",
       "link": "https://www.wrestlinginc.com/2243074/aew-paramount-warner-bros-discovery-wbd-dave-meltzer-current-status-deal-fallout/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-24T19:14:06+00:00"
     },
     {
@@ -88,7 +72,7 @@
       "h": "AEW's Mercedes Mone Reacts To Social Media Boast From Ric Flair",
       "p": "AEW's Mercedes Mone reacts to a social media boast by Ric Flair claiming that Charlotte Flair, and not Mone, is the greatest women's wrestler ever",
       "link": "https://www.wrestlinginc.com/2242969/aew-mercedes-mone-ric-flair-charlotte-greatest-female-wrestler-reacts-boast/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-24T18:06:43+00:00"
     },
     {
@@ -96,16 +80,32 @@
       "h": "20 YEARS AGO – ROH LIVE EVENT REPORT (8-25-2006): Danielson vs. McGuiness in 60 minute draw, Delirious vs. Matt Syndal in their tryout match that earned them future bookings, plus Claudio, Briscoes, Samoa Joe, Cabana",
       "p": "ROH live event/DVD taping August 25, 2006 St. Paul, Minn. at the Armory Report by Gary Wiest, PWTorch correspondent Got there around 7:30 and checked out the merch table. I was going to buy three...",
       "link": "https://www.pwtorch.com/site/2026/08/24/20-years-ago-roh-live-event-report-8-25-2006-danielson-vs-mcguiness-in-60-minute-draw-delirious-vs-matt-syndal-in-their-tryout-match-that-earned-them-future-bookings-plus-claudio-briscoes-s/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-24T18:00:55+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Latest Update On Ticket Sales Days Ahead Of AEW All In: London",
-      "p": "AEW sells over 40,000 tickets for All In: London with under a week left before the event.",
-      "link": "https://www.wrestlinginc.com/2242898/aew-all-in-london-2026-latest-update-ticket-sales-august-24/",
-      "t": "5h",
-      "dt": "2026-08-24T17:37:13+00:00"
+      "src": "POST Wrestling",
+      "h": "Cleveland return, St. Louis ‘Fright Night’ among new dates added to AEW TV schedule",
+      "p": "AEW's \"Fright Night\" TV special will return as part of an upcoming double taping in St. Louis, Missouri. The post Cleveland return, St. Louis ‘Fright Night’ among new dates added to AEW TV...",
+      "link": "https://www.postwrestling.com/2026/08/24/cleveland-return-st-louis-fright-night-among-new-dates-added-to-aew-tv-schedule/",
+      "t": "6h",
+      "dt": "2026-08-24T17:05:39+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Grand Slam France announced for October",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Grand Slam France announced for October appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/24/aew-grand-slam-france-announced-for-october/",
+      "t": "6h",
+      "dt": "2026-08-24T16:52:24+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 8/24 – Greg Parks Outloud! Wrestling’s youth movement – The young talent that WWE, TNA, and AEW are pushing to the fore (21 min.)",
+      "p": "SHOW SUMMARY: In this edition of “Greg Parks Outloud!,” PWTorch columnist Greg Parks presents a podcast version of his weekly PWTorch Newsletter column. This week’s show features a look at the...",
+      "link": "https://www.pwtorch.com/site/2026/08/24/vip-podcast-8-24-greg-parks-outloud-wrestlings-youth-movement-the-young-talent-that-wwe-tna-and-aew-are-pushing-to-the-fore-21-min/",
+      "t": "7h",
+      "dt": "2026-08-24T16:17:24+00:00"
     }
   ]
 }

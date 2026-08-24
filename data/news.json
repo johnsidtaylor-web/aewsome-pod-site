@@ -1,22 +1,46 @@
 {
-  "updated": "2026-08-24T13:10:21.923177+00:00",
+  "updated": "2026-08-24T14:00:31.519536+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW To Debut In New Country With Grand Slam Event Later This Year",
+      "p": "AEW will be making its debut in a brand new country this October as its Grand Slam series will travel to mainland Europe for the very first time.",
+      "link": "https://www.wrestlinginc.com/2242563/aew-grand-slam-france-october-6-2026-adidas-arena-paris-debut-new-country/",
+      "t": "24m",
+      "dt": "2026-08-24T13:35:36+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW to make Paris debut with Grand Slam France",
+      "p": "AEW is heading to France for the first time ever with Paris set to host a Grand Slam event this fall. Ahead of the promotion’s All In pay-per-view in London this weekend, AEW announced that it...",
+      "link": "https://www.f4wonline.com/news/aew/aew-to-make-paris-debut-with-grand-slam-france/",
+      "t": "29m",
+      "dt": "2026-08-24T13:30:43+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The All In London go-home show (Glasgow reports needed)",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The All In London go-home show (Glasgow reports needed) appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/24/aew-dynamite-preview-the-all-in-london-go-home-show-glasgow-reports-needed/",
+      "t": "45m",
+      "dt": "2026-08-24T13:15:31+00:00"
+    },
     {
       "src": "POST Wrestling",
       "h": "POST SCHEDULE: Live coverage from England with John & Neal, WWF Aggression album review",
       "p": "John Pollock & Neal Flanagan will be reporting live from London throughout AEW All In week, plus a review of the WWF Aggression album. The post POST SCHEDULE: Live coverage from England with John...",
       "link": "https://www.postwrestling.com/2026/08/24/post-schedule-live-coverage-from-england-with-john-neal-wwf-aggression-album-review/",
-      "t": "10m",
+      "t": "1h",
       "dt": "2026-08-24T13:00:11+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "AEW's Adam Copeland Comments On Whether WWE World Champion Roman Reigns Is Overrated",
       "p": "Adam Copeland has given his opinion on the recent discourse surrounding WWE's Roman Reigns, assessing whether the World Heavyweight Champion is overrated.",
       "link": "https://www.wrestlinginc.com/2242375/aew-adam-copeland-wwe-world-champion-roman-reigns-overrated/",
-      "t": "10m",
+      "t": "1h",
       "dt": "2026-08-24T13:00:00+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Paul Wight (FKA Big Show) Knew The Moment He Was 'Done' As A WWE Performer",
       "p": "AEW star Paul Wight (AKA The Big Show) was able to pinpoint the exact moment when he realized that WWE's Vince McMahon no longer saw him as an in-ring star.",
       "link": "https://www.wrestlinginc.com/2240667/wwe-paul-wight-big-show-vince-mcmahon-knew-moment-done-performer/",
-      "t": "40m",
+      "t": "1h",
       "dt": "2026-08-24T12:30:00+00:00"
     },
     {
@@ -40,14 +64,14 @@
       "h": "AEW Grand Slam France Set For October 6",
       "p": "AEW Grand Slam is headed to Paris, France. All Elite Wrestling announced that AEW Grand Slam France will take place on Tuesday, October 6 from Adidas Arena in Paris. Dynamite and Collision will be...",
       "link": "https://www.fightful.com/wrestling-news/aew-grand-slam-france-set-for-october-6/",
-      "t": "51m",
+      "t": "1h",
       "dt": "2026-08-24T12:19:08+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Swerve Strickland comments on NXT’s Myka Lockwood using variation of his in-ring move",
-      "p": "Swerve Strickland remarked on NXT star Myka Lockwood’s delivery of her signature move featuring a double pumphandle into a falling powerslam. The AEW star shared a follow up post to a previous...",
-      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-comments-on-nxts-myka-lockwood-using-variation-of-his-in-ring-move/",
+      "p": "Swerve Strickland remarked on NXT star Myka Lockwood’s delivery of her signature move featuring a double pumphandle into a falling powerslam. The AEW star shared a follow-up post to a previous...",
+      "link": "https://www.f4wonline.com/news/swerve-strickland-comments-on-nxts-myka-lockwood-using-variation-of-his-in-ring-move/",
       "t": "1h",
       "dt": "2026-08-24T12:07:54+00:00"
     },
@@ -56,7 +80,7 @@
       "h": "AEW All In 2026 Wembley Stadium ticket sales update",
       "p": "AEW All In 2026 is set to take place this weekend from London’s Wembley Stadium. According to the latest update from WrestleTix, 41,836 tickets have been distributed for the event, which is up...",
       "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-wembley-stadium-ticket-sales-update-08-24-2026/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-24T10:26:00+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "AEW Dynamite show after All In Wembley is struggling to sell tickets",
       "p": "AEW Dynamite heads to the Credit Union of Texas Event Center in Allen, Texas following All In this weekend, and ticket sales are currently tracking way below the year to date average. The latest...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-show-all-in-wembley-texas-struggling-tickets-09-02-2026/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-24T09:20:54+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW All In 2026 Global Start Times: US, UK, Australia and more",
       "p": "AEW All In 2026 takes place this Sunday (August 30th) from Wembley Stadium in London, England, with a start time of 1pm Eastern, 12pm Central and 10am Pacific for the main card. What time does AEW...",
       "link": "https://www.f4wonline.com/event-guides/aew-all-in-2026-global-start-times-us-uk-australia/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-24T08:33:49+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "FREE PODCAST 8/23 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: CM Punk’s Dynamite debut with on-site report, Punk-Darby prospects, Jericho announcement, All Out hype (111 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (8-25-2021), PWTorch assistant editor Zack Heydorn guest hosted for Wade Keller and was joined...",
       "link": "https://www.pwtorch.com/site/2026/08/23/free-podcast-8-23-wkpwp-aew-dynamite-post-show-5-yrs-ago-cm-punks-dynamite-debut-with-on-site-report-punk-darby-prospects-jericho-announcement-all-out-hype-111-min/",
-      "t": "9h",
-      "dt": "2026-08-24T04:00:27+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mercedes Mone Reacts After Ric Flair Calls Charlotte Flair The Greatest Female Wrestler Of All Time: ‘Do You Want To Get Your Ass Kicked, Ric?’",
-      "p": "Mercedes Mone reacts to Ric Flair’s post on Charlotte Flair. On social media, Ric Flair posted a picture collage that featured five women: Charlotte Flair, Trish Stratus, AJ Lee, Stephanie...",
-      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-reacts-after-ric-flair-calls-charlotte-flair-the-greatest-female-wrestler-of-all-time-do-you-want-to-get-your-ass-kicked-ric/",
       "t": "10h",
-      "dt": "2026-08-24T02:26:06+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Deonna Purrazzo Praises Steph De Lander For Betting On Herself, Says She Was ‘Excited’ to Face Her At ROH Death Before Dishonor",
-      "p": "Deonna Purrazzo comments on Steph De Lander. At ROH Death Before Dishonor, Deonna Purrazzo defended her ROH Women’s Pure Title against Steph De Lander in a Pure Wrestling Rules Match. During the...",
-      "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-praises-steph-de-lander-for-betting-on-herself-says-she-was-excited-to-face-her-at-roh-death-before-dishonor/",
-      "t": "11h",
-      "dt": "2026-08-24T02:07:20+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jeff Jarrett Shares Sage Advice For Past Self",
-      "p": "AEW star, and professional wrestling veteran, Jeff Jarrett shared the sage advice he'd give his 18-year-old self on an episode of \"My World.\"",
-      "link": "https://www.wrestlinginc.com/2240501/aew-jeff-jarrett-sage-advice-past-self/",
-      "t": "16h",
-      "dt": "2026-08-23T20:30:00+00:00"
+      "dt": "2026-08-24T04:00:27+00:00"
     }
   ]
 }

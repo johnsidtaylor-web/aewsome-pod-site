@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-24T17:44:13.547469+00:00",
+  "updated": "2026-08-24T18:57:12.998208+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,43 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Darby Allin Looks Back On What He Learned From Sting: “How To Carry Yourself Out Of The Ring”",
+      "p": "Pointers that Darby Allin picked up from Sting. For all of Sting’s in-ring run with All Elite Wrestling, he was linked to and paired with Darby Allin. In his final match, he and Allin won the AEW...",
+      "link": "https://www.fightful.com/wrestling-news/darby-allin-looks-back-on-what-he-learned-from-sting-how-to-carry-yourself-out-of-the-ring/",
+      "t": "10m",
+      "dt": "2026-08-24T18:46:50+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Mercedes Mone Reacts To Social Media Boast From Ric Flair",
+      "p": "AEW's Mercedes Mone reacts to a social media boast by Ric Flair claiming that Charlotte Flair, and not Mone, is the greatest women's wrestler ever",
+      "link": "https://www.wrestlinginc.com/2242969/aew-mercedes-mone-ric-flair-charlotte-greatest-female-wrestler-reacts-boast/",
+      "t": "50m",
+      "dt": "2026-08-24T18:06:43+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "20 YEARS AGO – ROH LIVE EVENT REPORT (8-25-2006): Danielson vs. McGuiness in 60 minute draw, Delirious vs. Matt Syndal in their tryout match that earned them future bookings, plus Claudio, Briscoes, Samoa Joe, Cabana",
+      "p": "ROH live event/DVD taping August 25, 2006 St. Paul, Minn. at the Armory Report by Gary Wiest, PWTorch correspondent Got there around 7:30 and checked out the merch table. I was going to buy three...",
+      "link": "https://www.pwtorch.com/site/2026/08/24/20-years-ago-roh-live-event-report-8-25-2006-danielson-vs-mcguiness-in-60-minute-draw-delirious-vs-matt-syndal-in-their-tryout-match-that-earned-them-future-bookings-plus-claudio-briscoes-s/",
+      "t": "56m",
+      "dt": "2026-08-24T18:00:55+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Darby Allin Says His Body Was ‘Depleted’ Following AEW World Title Win",
+      "p": "Darby Allin looks back on his title win. For 39 years, Darby Allin reigned as AEW World Champion. He won the title from MJF, and over the course of his reign, he defended the belt eight times...",
+      "link": "https://www.fightful.com/wrestling-news/darby-allin-says-his-body-was-depleted-following-aew-world-title-win/",
+      "t": "57m",
+      "dt": "2026-08-24T17:59:44+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Latest Update On Ticket Sales Days Ahead Of AEW All In: London",
       "p": "AEW sells over 40,000 tickets for All In: London with under a week left before the event.",
       "link": "https://www.wrestlinginc.com/2242898/aew-all-in-london-2026-latest-update-ticket-sales-august-24/",
-      "t": "6m",
+      "t": "1h",
       "dt": "2026-08-24T17:37:13+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Cleveland return, St. Louis ‘Fright Night’ among new dates added to AEW TV schedule",
       "p": "AEW's \"Fright Night\" TV special will return as part of an upcoming double taping in St. Louis, Missouri. The post Cleveland return, St. Louis ‘Fright Night’ among new dates added to AEW TV...",
       "link": "https://www.postwrestling.com/2026/08/24/cleveland-return-st-louis-fright-night-among-new-dates-added-to-aew-tv-schedule/",
-      "t": "38m",
+      "t": "1h",
       "dt": "2026-08-24T17:05:39+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "AEW Grand Slam France announced for October",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Grand Slam France announced for October appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/24/aew-grand-slam-france-announced-for-october/",
-      "t": "51m",
+      "t": "2h",
       "dt": "2026-08-24T16:52:24+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "AEW reveals location for Fright Night 2026",
       "p": "Fall is almost here, and AEW is making plans for its Halloween-themed episodes of Dynamite and Collision. The promotion announced today that Chaifetz Arena in St. Louis, Missouri will host Fright...",
       "link": "https://www.f4wonline.com/news/aew/aew-reveals-location-for-fright-night-2026/",
-      "t": "52m",
+      "t": "2h",
       "dt": "2026-08-24T16:51:20+00:00"
     },
     {
@@ -48,23 +80,15 @@
       "h": "Will Ospreay Talks Kenny Omega, Suffocation On First-Ever Episode Of AEW Spill The Tea",
       "p": "Will Ospreay describes Kenny Omega and what he thinks of him leading up to their title match at All In: London. How far he will and won't go in their match.",
       "link": "https://www.wrestlinginc.com/2242796/aew-spill-the-tea-will-ospreay-kenny-omega-suffocation-first-ever/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-24T16:26:17+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Fright Night Specials Set For October",
-      "p": "AEW Fright Night will return at the end of October. All Elite Wrestling announced that Fright Night Dynamite and Collision will be held on Wednesday, October 28 at the Chaifetz Arena in St. Louis,...",
-      "link": "https://www.fightful.com/wrestling-news/aew-fright-night-specials-set-for-october/",
-      "t": "1h",
-      "dt": "2026-08-24T16:18:22+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Darby Allin reveals mindset signing with AEW while ‘some people were taking it for granted’",
       "p": "Darby Allin was one of the first few wrestlers to sign with AEW in 2019 and has witnessed and contributed to its growth over the years. Allin marveled at the transition of talents in AEW today...",
       "link": "https://www.f4wonline.com/news/darby-allin-reveals-mindset-signing-with-aew-while-some-people-were-taking-it-for-granted/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-24T16:17:53+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "VIP PODCAST 8/24 – Greg Parks Outloud! Wrestling’s youth movement – The young talent that WWE, TNA, and AEW are pushing to the fore (21 min.)",
       "p": "SHOW SUMMARY: In this edition of “Greg Parks Outloud!,” PWTorch columnist Greg Parks presents a podcast version of his weekly PWTorch Newsletter column. This week’s show features a look at the...",
       "link": "https://www.pwtorch.com/site/2026/08/24/vip-podcast-8-24-greg-parks-outloud-wrestlings-youth-movement-the-young-talent-that-wwe-tna-and-aew-are-pushing-to-the-fore-21-min/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-24T16:17:24+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW COLLISION HITS & MISSES (8/22): Claudio and O’Reilly advance to Continental Challenge Cup semi-finals, Bang Bang Gang answer STP’s open challenge, Willow retains against Maya, more",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HITS OSPREAY-OMEGA VIDEO PACKAGE AEW did an excellent job...",
       "link": "https://www.pwtorch.com/site/2026/08/24/aew-collision-hits-misses-8-22-claudio-and-oreilly-advance-to-continental-challenge-cup-semi-finals-bang-bang-gang-answer-stps-open-challenge-willow-retains-against-maya-more/",
-      "t": "1h",
-      "dt": "2026-08-24T16:12:43+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Brawl at the Ballpark results: Vetter’s review of Bobby Lashley and Shelton Benjamin vs. Shane Taylor and Lee Moriarty, Orange Cassidy vs. Wheeler Yuta, Julia Hart vs. Hyan",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post AEW Brawl at the Ballpark results: Vetter’s review of Bobby Lashley and Shelton Benjamin vs. Shane Taylor and Lee Moriarty, Orange Cassidy...",
-      "link": "https://prowrestling.net/site/2026/08/24/aew-brawl-at-the-ballpark-results-vetters-review-of-bobby-lashley-and-shelton-benjamin-vs-shane-taylor-and-lee-moriarty-orange-cassidy-vs-wheeler-yuta-julia-hart-vs-hyan/",
-      "t": "1h",
-      "dt": "2026-08-24T16:00:21+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Darby Allin says his ‘body was so depleted’ after AEW World Championship win he ‘felt numb’",
-      "p": "Darby Allin reflected on his AEW World Championship win at Dynamite: Spring BreakThru on April 15. The locker room walked out to the ring to celebrate the new champion’s victory but Allin claims...",
-      "link": "https://www.f4wonline.com/news/darby-allin-says-his-body-was-so-depleted-after-aew-world-championship-win-he-felt-numb/",
-      "t": "1h",
-      "dt": "2026-08-24T15:56:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Darby Allin details goal to ‘lead by example’ following Sting’s influence",
-      "p": "Darby Allin checked off winning the AEW World Championship in April this year. Despite the barely 40-day title reign the accomplishment remains a significant milestone in his career. Speaking with...",
-      "link": "https://www.f4wonline.com/news/aew/darby-allin-details-goal-to-lead-by-example-following-stings-influence/",
       "t": "2h",
-      "dt": "2026-08-24T15:38:36+00:00"
+      "dt": "2026-08-24T16:12:43+00:00"
     }
   ]
 }

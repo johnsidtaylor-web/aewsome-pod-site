@@ -1,30 +1,22 @@
 {
-  "updated": "2026-08-23T23:33:34.638281+00:00",
+  "updated": "2026-08-24T01:55:32.528687+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
-    {
-      "src": "Fightful",
-      "h": "Big Boom AJ Takes Part In ALS Ice Bucket Challenge To Support Rebel",
-      "p": "Big Boom AJ brings the boom in support of Rebel. Undefeated AEW wrestler Big Boom AJ is the latest to take part in the ALS ice bucket challenge in support of Rebel, who is battling ALS. AJ was...",
-      "link": "https://www.fightful.com/wrestling-news/big-boom-aj-takes-part-in-als-ice-bucket-challenge-to-support-rebel/",
-      "t": "1h",
-      "dt": "2026-08-23T21:52:51+00:00"
-    },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Jeff Jarrett Shares Sage Advice For Past Self",
       "p": "AEW star, and professional wrestling veteran, Jeff Jarrett shared the sage advice he'd give his 18-year-old self on an episode of \"My World.\"",
       "link": "https://www.wrestlinginc.com/2240501/aew-jeff-jarrett-sage-advice-past-self/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-08-23T20:30:00+00:00"
     },
     {
@@ -32,7 +24,7 @@
       "h": "WOL Sunday: The conundrums of AEW’s middle class, long ROH title reigns & Bayley",
       "p": "It’s Sunday and that means a new Wrestling Observer Live with Josh Nason, released early and ad-free for subscribers. Josh looks back at Saturday’s AEW Collision in front of an extremely dull...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-sunday-aew-bayley-roh-titles-wwe/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-08-23T19:42:19+00:00"
     },
     {
@@ -40,7 +32,7 @@
       "h": "ROH DEATH BEFORE DISHONOR (8/21): Athena continues her historic reign, Action Andretti wins the ROH TV Title, Bandido retains, more",
       "p": "ROH DEATH BEFORE DISHONOR PPV AUGUST 21, 2026 PHILADELPHIA, PA. AT 2300 ARENA REPORT BY BRIAN ZILEM, PWTORCH CONTRIBUTOR (1) THE LETHAL TWIST (Blake Christian & Jay Lethal & Lee Johnston) vs....",
       "link": "https://www.pwtorch.com/site/2026/08/23/roh-death-before-dishonor-8-21-athena-continues-her-historic-reign-action-andretti-wins-the-roh-tv-title-bandido-retains-more/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-08-23T17:14:15+00:00"
     },
     {
@@ -48,23 +40,15 @@
       "h": "Adam Copeland Talks Wrestling At Wembley Stadium For The First Time At AEW All In",
       "p": "AEW's Adam \"Edge\" Copeland opens up about what it means to finally wrestle in Wembley Stadium, a legendary venue.",
       "link": "https://www.wrestlinginc.com/2242266/adam-copeland-wembley-stadium-aew-all-in-first-time-young-bucks/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-08-23T16:32:16+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Daniel Garcia Discusses Being Mentored By Bryan Danielson & Jon Moxley",
-      "p": "Daniel Garcia has been mentored by the likes of Bryan Danielson and Jon Moxley in AEW, but what is it like working with those legends?",
-      "link": "https://www.wrestlinginc.com/2239576/aew-daniel-garcia-bryan-danielson-jon-moxley-mentored/",
-      "t": "8h",
-      "dt": "2026-08-23T15:30:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "MJF appearance, more added to AEW Dynamite lineup",
       "p": "Two new additions have been made to the lineup for Wednesday’s edition of AEW Dynamite. Following Saturday’s Collision, AEW revealed that MJF will be on Dynamite this week. He had sent his...",
       "link": "https://www.f4wonline.com/news/aew/mjf-appearance-more-added-to-aew-dynamite-lineup/",
-      "t": "11h",
+      "t": "13h",
       "dt": "2026-08-23T12:26:29+00:00"
     },
     {
@@ -72,7 +56,7 @@
       "h": "08/23 Powell’s AEW Collision audio review: Willow Nightingale vs. TBS Champion Maya World for the AEW Women’s Championship, the last two AEW Continental Cup quarterfinal matches",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 08/23 Powell’s AEW Collision audio review: Willow Nightingale vs. TBS Champion Maya World for the AEW Women’s Championship, the last two AEW...",
       "link": "https://prowrestling.net/site/2026/08/23/08-23-powells-aew-collision-audio-review-willow-nightingale-vs-tbs-champion-maya-world-for-the-aew-womens-championship-the-last-two-aew-continental-cup-quarterfinal-matches/",
-      "t": "15h",
+      "t": "18h",
       "dt": "2026-08-23T07:40:10+00:00"
     },
     {
@@ -80,7 +64,7 @@
       "h": "Athena reveals suffering asthma attack during ROH match",
       "p": "Athena recently suffered an asthma attack during her latest ROH match. At the recent ROH Death Before Dishonor on August 21, 2026, Athena faced off against Hazuki with her ROH Women’s World title...",
       "link": "https://www.f4wonline.com/news/aew/athena-reveals-suffering-asthma-attack-during-roh-match/",
-      "t": "19h",
+      "t": "22h",
       "dt": "2026-08-23T03:39:00+00:00"
     },
     {
@@ -88,7 +72,7 @@
       "h": "AEW COLLISION RESULTS (8/22): Willow vs. Maya World for the women’s title, Kyle O’Reilly vs. Orange Cassidy and Claudio vs. Garcia in tournament matches, and more",
       "p": "AEW COLLISION RESULTS AUGUST 22, 2026 READING, PA. AT SANTANDER ARENA LIVE ON TBS & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Tony Schiavone, Ian Riccaboni Ring Announcer:...",
       "link": "https://www.pwtorch.com/site/2026/08/22/aew-collision-results-8-22-willow-vs-maya-world-for-the-womens-title-kyle-oreilly-vs-orange-cassidy-and-claudio-vs-garcia-in-tournament-matches-and-more/",
-      "t": "20h",
+      "t": "22h",
       "dt": "2026-08-23T03:14:49+00:00"
     },
     {
@@ -96,7 +80,7 @@
       "h": "AEW Dynamite preview: Wednesday’s All In London go-home show (Glasgow reports needed)",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Wednesday’s All In London go-home show (Glasgow reports needed) appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/22/aew-dynamite-preview-wednesdays-all-in-london-go-home-show-glasgow-reports-needed/",
-      "t": "20h",
+      "t": "23h",
       "dt": "2026-08-23T02:43:43+00:00"
     },
     {
@@ -104,8 +88,24 @@
       "h": "AEW Collision 8/22 Results: Continental Challenge Cup semifinals set, Willow Nightingale retains",
       "p": "Kyle O’Reilly and Claudio Castagnoli advanced in the Continental Challenge Cup on Saturday’s AEW Collision, completing the tournament’s semifinal field. The post AEW Collision 8/22 Results:...",
       "link": "https://www.postwrestling.com/2026/08/22/aew-collision-8-22-results-continental-challenge-cup-semifinals-set-willow-nightingale-retains/",
-      "t": "21h",
+      "t": "23h",
       "dt": "2026-08-23T02:31:42+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 8/22/26 Review | COLLISION COURSE",
+      "p": "Kate from Montreal & Wai Ting review this week’s AEW Collision, featuring Willow vs. Maya World for the World Championship and C3 Quarterfinals. The post AEW Collision 8/22/26 Review | COLLISION...",
+      "link": "https://www.postwrestling.com/2026/08/22/aew-collision-8-22-26-review-collision-course-live-1015pm-et/",
+      "t": "23h",
+      "dt": "2026-08-23T02:15:26+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Swerve Strickland vs. Jack Perry set for next AEW Dynamite",
+      "p": "A new match has been added to AEW Dynamite while the Continental Challenge Cup winds to a close. Jack Perry called out Swerve Strickland during Saturday’s AEW Collision. In a pre-taped promo,...",
+      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-vs-jack-perry-set-for-next-aew-dynamite/",
+      "t": "23h",
+      "dt": "2026-08-23T01:58:42+00:00"
     }
   ]
 }

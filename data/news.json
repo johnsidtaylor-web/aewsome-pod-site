@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-24T19:42:06.986447+00:00",
+  "updated": "2026-08-24T20:45:46.836855+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: AEW announces France debut, Weekend Recap & Matt Cardona injured",
+      "p": "Jack Wannan covers the news for Monday, August 24, including a weekend recap, AEW’s debut in France, a huge MMA brawl in Cali, and much more. Available for Double Double & Espresso members at...",
+      "link": "https://www.postwrestling.com/2026/08/24/post-news-aew-announces-france-debut-weekend-recap-matt-cardona-injured/",
+      "t": "38m",
+      "dt": "2026-08-24T20:06:49+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite & Collision scheduling update for All Out week",
+      "p": "While there are still days to go before this Sunday’s All In, the AEW Dynamite and Collision schedules for September are already out with one key difference when it comes to All Out. In a Monday...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-collision-scheduling-update-all-out-week/",
+      "t": "40m",
+      "dt": "2026-08-24T20:05:22+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Willow Nightingale: Sometimes It’s Hard To Wrap My Head Around Why People Connect To Me And Cheer For Me",
+      "p": "Willow Nightingale encourages fans to love themselves. Nightingale has been consistently showered in praise since winning the Women’s World Championship from Thekla at AEW Redemption. In a new...",
+      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-title-win-324217/",
+      "t": "45m",
+      "dt": "2026-08-24T20:00:16+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Darby Allin: During Year One Of AEW, It Felt Like Some People Were Taking It For Granted",
+      "p": "Candid response from Darby Allin. There’s an extensive interview that Forbes conducted with Darby Allin. During the chat, Allin was asked about the growth of All Elite Wrestling from its launch...",
+      "link": "https://www.fightful.com/wrestling-news/darby-allin-during-year-one-of-aew-it-felt-like-some-people-were-taking-it-for-granted/",
+      "t": "1h",
+      "dt": "2026-08-24T19:43:46+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Will Ospreay Confirms 'Discussions' About Other Opponents At AEW All In: London",
+      "p": "AEW's Will Ospreay confirms there were discussions about him facing someone else at AEW All In, though he's ultimately quite happy to be facing Kenny Omega",
+      "link": "https://www.wrestlinginc.com/2243098/aew-all-in-london-will-ospreay-kenny-omega-confirms-discussions-other-opponents/",
+      "t": "1h",
+      "dt": "2026-08-24T19:41:49+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Will Ospreay: There Will Come A Time I Work With Alex Windsor On Screen, I’d Love To See It",
       "p": "Will Ospreay discusses a potential on-screen pairing with Alex Windsor. Ospreay and Windsor have appeared on screen together before, but never in a lengthy program. Speaking to Scott Fishman of...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-there-will-come-a-time-i-work-with-alex-windsor-on-screen-id-love-to-see-it/",
-      "t": "14m",
+      "t": "1h",
       "dt": "2026-08-24T19:27:29+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "Will Ospreay planning special ring gear for AEW All In 2026",
       "p": "Will Ospreay will be wearing special ring gear as he attempts to bring the AEW World Championship home at All In 2026. In an interview with TV Insider ahead of the August 30 pay-per-view, Ospreay...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-planning-special-ring-gear-for-aew-all-in-2026/",
-      "t": "20m",
+      "t": "1h",
       "dt": "2026-08-24T19:21:12+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Will Ospreay Says There Were Discussions To Go In A Different Direction For AEW All In, Feels Omega Match Was Right",
       "p": "Kenny Omega and Will Ospreay are set to headline AEW All In at Wembley Stadium on Sunday. The bout was made official after Ospreay won the Owen Hart Foundation Men’s Tournament and Omega captured...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-there-were-discussions-to-go-in-a-different-direction-for-aew-all-in-feels-omega-match-was-right/",
-      "t": "25m",
+      "t": "1h",
       "dt": "2026-08-24T19:16:05+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Dave Meltzer Explains Current Status Of Paramount-WBD Deal & Possible AEW Fallout",
       "p": "Dave Meltzer explains the current status of the stalled Paramount-Warner Brothers Discovery deal, and why Tony Khan is rooting for one particular outcome",
       "link": "https://www.wrestlinginc.com/2243074/aew-paramount-warner-bros-discovery-wbd-dave-meltzer-current-status-deal-fallout/",
-      "t": "27m",
+      "t": "1h",
       "dt": "2026-08-24T19:14:06+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Darby Allin Looks Back On What He Learned From Sting: “How To Carry Yourself Out Of The Ring”",
       "p": "Pointers that Darby Allin picked up from Sting. For all of Sting’s in-ring run with All Elite Wrestling, he was linked to and paired with Darby Allin. In his final match, he and Allin won the AEW...",
       "link": "https://www.fightful.com/wrestling-news/darby-allin-looks-back-on-what-he-learned-from-sting-how-to-carry-yourself-out-of-the-ring/",
-      "t": "54m",
+      "t": "1h",
       "dt": "2026-08-24T18:46:50+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW's Mercedes Mone Reacts To Social Media Boast From Ric Flair",
       "p": "AEW's Mercedes Mone reacts to a social media boast by Ric Flair claiming that Charlotte Flair, and not Mone, is the greatest women's wrestler ever",
       "link": "https://www.wrestlinginc.com/2242969/aew-mercedes-mone-ric-flair-charlotte-greatest-female-wrestler-reacts-boast/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-24T18:06:43+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "20 YEARS AGO – ROH LIVE EVENT REPORT (8-25-2006): Danielson vs. McGuiness in 60 minute draw, Delirious vs. Matt Syndal in their tryout match that earned them future bookings, plus Claudio, Briscoes, Samoa Joe, Cabana",
       "p": "ROH live event/DVD taping August 25, 2006 St. Paul, Minn. at the Armory Report by Gary Wiest, PWTorch correspondent Got there around 7:30 and checked out the merch table. I was going to buy three...",
       "link": "https://www.pwtorch.com/site/2026/08/24/20-years-ago-roh-live-event-report-8-25-2006-danielson-vs-mcguiness-in-60-minute-draw-delirious-vs-matt-syndal-in-their-tryout-match-that-earned-them-future-bookings-plus-claudio-briscoes-s/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-24T18:00:55+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Darby Allin Says His Body Was ‘Depleted’ Following AEW World Title Win",
-      "p": "Darby Allin looks back on his title win. For 39 years, Darby Allin reigned as AEW World Champion. He won the title from MJF, and over the course of his reign, he defended the belt eight times...",
-      "link": "https://www.fightful.com/wrestling-news/darby-allin-says-his-body-was-depleted-following-aew-world-title-win/",
-      "t": "1h",
-      "dt": "2026-08-24T17:59:44+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Latest Update On Ticket Sales Days Ahead Of AEW All In: London",
-      "p": "AEW sells over 40,000 tickets for All In: London with under a week left before the event.",
-      "link": "https://www.wrestlinginc.com/2242898/aew-all-in-london-2026-latest-update-ticket-sales-august-24/",
-      "t": "2h",
-      "dt": "2026-08-24T17:37:13+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Cleveland return, St. Louis ‘Fright Night’ among new dates added to AEW TV schedule",
-      "p": "AEW's \"Fright Night\" TV special will return as part of an upcoming double taping in St. Louis, Missouri. The post Cleveland return, St. Louis ‘Fright Night’ among new dates added to AEW TV...",
-      "link": "https://www.postwrestling.com/2026/08/24/cleveland-return-st-louis-fright-night-among-new-dates-added-to-aew-tv-schedule/",
-      "t": "2h",
-      "dt": "2026-08-24T17:05:39+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Grand Slam France announced for October",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Grand Slam France announced for October appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/24/aew-grand-slam-france-announced-for-october/",
-      "t": "2h",
-      "dt": "2026-08-24T16:52:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW reveals location for Fright Night 2026",
-      "p": "Fall is almost here, and AEW is making plans for its Halloween-themed episodes of Dynamite and Collision. The promotion announced today that Chaifetz Arena in St. Louis, Missouri will host Fright...",
-      "link": "https://www.f4wonline.com/news/aew/aew-reveals-location-for-fright-night-2026/",
-      "t": "2h",
-      "dt": "2026-08-24T16:51:20+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:40:20.393190+00:00",
+  "updated": "2026-08-25T13:09:03.259018+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Dax Harwood Says He Would Book This AEW Star To Become World Champion",
+      "p": "Dax Harwood thinks this former Aussie Open member should become AEW World Champion.",
+      "link": "https://www.wrestlinginc.com/2241204/aew-dax-harwood-mark-davis-book-world-champion/",
+      "t": "39m",
+      "dt": "2026-08-25T12:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "The Young Bucks’ current AEW contracts could be their last | Exclusive",
+      "p": "Dave Meltzer says he’s heard it discussed that the Young Bucks could be in their final contracts. On the post-WWE Raw edition of Wrestling Observer Radio, Meltzer and Bryan Alvarez were discussing...",
+      "link": "https://www.f4wonline.com/news/aew/the-young-bucks-current-aew-contracts-could-be-their-last-exclusive/",
+      "t": "1h",
+      "dt": "2026-08-25T11:45:10+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite Glasgow ticket sales are nearly double year to date average",
       "p": "AEW Dynamite will be taking place this week from the OVO Hydro in Glasgow, Scotland. According to the latest update from WrestleTix, 6,237 tickets have been distributed for the Dynamite All In...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-glasgow-ticket-sales-update-08-26-2026/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-25T09:46:05+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "MVP says ‘gross incompetence’ in TNA management drove major talent away",
       "p": "Once hailed as a direct competition to WWE, TNA slowly lost popularity after several of its major talents left the promotion. Recently, former TNA wrestler and current AEW talent MVP opened up...",
       "link": "https://www.f4wonline.com/news/tna-wrestling/mvp-says-gross-incompetence-in-tna-management-drove-major-talent-away/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-25T08:30:00+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Willow Nightingale explains why AEW’s ‘punk rock’ alternative appealed to her",
       "p": "Willow Nightingale started training for pro wrestling in 2015, four years before the birth of All Elite Wrestling. That turned out to be perfect timing, because as far as Nightingale is concerned,...",
       "link": "https://www.f4wonline.com/news/aew/willow-nightingale-explains-why-aews-punk-rock-alternative-appealed-to-her/",
-      "t": "7h",
+      "t": "8h",
       "dt": "2026-08-25T04:21:00+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Tony Khan On Ilja Dragunov: I Will Always Be On The Lookout To See What Happens With Him",
       "p": "Tony Khan is looking out for Ilja Dragunov’s future. Khan first commented on Dragunov’s departure from WWE at the Death Before Dishonor media scrum, saying that he’s a great wrestler. In a new...",
       "link": "https://www.fightful.com/wrestling-news/tony-khan-ilja-324307/",
-      "t": "9h",
+      "t": "10h",
       "dt": "2026-08-25T02:30:19+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Will Ospreay discusses history of AEW All In main event",
       "p": "This Sunday, Will Ospreay challenges Kenny Omega for the AEW World Championship at Wembley Stadium at All In. Ospreay acknowledges, however, that the match wasn’t always set in stone. Ospreay...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-discusses-history-of-aew-all-in-main-event/",
-      "t": "9h",
+      "t": "11h",
       "dt": "2026-08-25T01:42:39+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Darby Allin Details History With Kevin Knight Ahead Of AEW All In: London",
       "p": "AEW star Darby Allin detailed his history with TNT Champion Kevin Knight ahead of their Falls Count Anywhere match at AEW All In: London.",
       "link": "https://www.wrestlinginc.com/2243277/aew-all-in-london-2026-darby-allin-kevin-knight-history/",
-      "t": "13h",
+      "t": "14h",
       "dt": "2026-08-24T22:37:56+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Mercedes Mone Wants To Take AEW World Title & Willow Nightingale's Smile At All In",
       "p": "Mercedes Mone declares that she's looking to take both the AEW Women's World Championship and Willow Nightingale's smile from her at AEW All In",
       "link": "https://www.wrestlinginc.com/2243252/aew-all-in-london-2026-mercedes-mone-willow-nightingale-take-world-title-smile/",
-      "t": "13h",
+      "t": "15h",
       "dt": "2026-08-24T21:51:43+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "AEW Announces Fright Night Dynamite 2026",
       "p": "Just a few hours after announcing they were making their debut in France, AEW reveals they are also bringing back Fright Night Dynamite for 2026",
       "link": "https://www.wrestlinginc.com/2243187/aew-fright-night-dynamite-2026-st-louis-missouri-october-28/",
-      "t": "14h",
+      "t": "16h",
       "dt": "2026-08-24T20:43:05+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "POST NEWS: AEW announces France debut, Weekend Recap & Matt Cardona injured",
       "p": "Jack Wannan covers the news for Monday, August 24, including a weekend recap, AEW’s debut in France, a huge MMA brawl in Cali, and much more. Available for Double Double & Espresso members at...",
       "link": "https://www.postwrestling.com/2026/08/24/post-news-aew-announces-france-debut-weekend-recap-matt-cardona-injured/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-08-24T20:06:49+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "AEW Dynamite & Collision scheduling update for All Out week",
       "p": "While there are still days to go before this Sunday’s All In, the AEW Dynamite and Collision schedules for September are already out with one key difference when it comes to All Out. In a Monday...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-collision-scheduling-update-all-out-week/",
-      "t": "15h",
+      "t": "17h",
       "dt": "2026-08-24T20:05:22+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay Confirms 'Discussions' About Other Opponents At AEW All In: London",
-      "p": "AEW's Will Ospreay confirms there were discussions about him facing someone else at AEW All In, though he's ultimately quite happy to be facing Kenny Omega",
-      "link": "https://www.wrestlinginc.com/2243098/aew-all-in-london-will-ospreay-kenny-omega-confirms-discussions-other-opponents/",
-      "t": "15h",
-      "dt": "2026-08-24T19:41:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay planning special ring gear for AEW All In 2026",
-      "p": "Will Ospreay will be wearing special ring gear as he attempts to bring the AEW World Championship home at All In 2026. In an interview with TV Insider ahead of the August 30 pay-per-view, Ospreay...",
-      "link": "https://www.f4wonline.com/news/aew/will-ospreay-planning-special-ring-gear-for-aew-all-in-2026/",
-      "t": "16h",
-      "dt": "2026-08-24T19:21:12+00:00"
     }
   ]
 }

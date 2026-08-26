@@ -1,22 +1,46 @@
 {
-  "updated": "2026-08-26T13:13:32.616753+00:00",
+  "updated": "2026-08-26T14:03:07.196285+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Tonight’s All In London go-home show (Glasgow reports needed)",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s All In London go-home show (Glasgow reports needed) appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/26/aew-dynamite-preview-tonights-all-in-london-go-home-show-glasgow-reports-needed/",
+      "t": "2m",
+      "dt": "2026-08-26T14:00:47+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Chad Gable: If Undertaker Could Give The Main Roster The Same Speed He Gave To Me In AAA, We’d See A Revolution",
+      "p": "Chad Gable was one-half of one of the best matches of the year, portraying the Original El Grande Americano against El Grande Americano II (Ludwig Kaiser) in a mask vs. mask match. Fans have...",
+      "link": "https://www.fightful.com/wrestling-news/chad-gable-if-undertaker-could-give-the-main-roster-the-same-speed-he-gave-to-me-in-aaa-wed-see-a-revolution/",
+      "t": "2m",
+      "dt": "2026-08-26T14:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Adam Copeland addresses first-ever match with Young Bucks at AEW All In and reason for no stipulation",
+      "p": "Adam Copeland recalled The Young Bucks first catching his attention during their TNA run as Generation Me in 2010. He also discussed how the diversity of Matt and Nick Jackson’s tag team style...",
+      "link": "https://www.f4wonline.com/news/aew/adam-copeland-addresses-match-with-young-bucks-at-aew-all-in-and-reason-no-stipulation/",
+      "t": "11m",
+      "dt": "2026-08-26T13:51:09+00:00"
+    },
     {
       "src": "Fightful",
       "h": "Adam Copeland: Doing A Stipulation For First Match Against Young Bucks Would Be Bad Booking",
       "p": "Adam Copeland & Christian Cage are set to defend the AEW Tag Team Titles against The Young Bucks (Matt Jackson & Nick Jackson) in a first-time-ever match. Speaking to Rob Wolkenbrod of Forbes,...",
       "link": "https://www.fightful.com/wrestling-news/adam-copeland-doing-a-stipulation-for-first-match-against-young-bucks-would-be-bad-booking/",
-      "t": "4m",
+      "t": "54m",
       "dt": "2026-08-26T13:08:36+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Will Ospreay Reveals Whether He Hopes To Work With Wife Alex Windsor On AEW TV",
       "p": "There are a whole host of wrestling couples who have worked together on screen, but would Will Ospreay like to work with his wife Alex Windsor in AEW?",
       "link": "https://www.wrestlinginc.com/2244485/aew-will-ospreay-alex-windsor-wife-hopes-work-tv/",
-      "t": "12m",
+      "t": "1h",
       "dt": "2026-08-26T13:01:18+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "AEW's Tony Khan Addresses WWE Departure Of Ilja Dragunov: 'That's A Great Wrestler'",
       "p": "AEW CEO Tony Khan has discussed potentially signing Ilja Dragunov, whose WWE contract recently expired, making him a free agent.",
       "link": "https://www.wrestlinginc.com/2244380/aew-tony-khan-wwe-departure-ilja-dragunov-great-wrestler/",
-      "t": "13m",
+      "t": "1h",
       "dt": "2026-08-26T13:00:00+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "AEW Dynamite in Glasgow (reports needed), last week’s Dynamite and Collision grades, Petey Williams, Austin Gunn, Sol Ruca, Moondog King, Bobby Duncum Jr., Sid Vicious",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Glasgow (reports needed), last week’s Dynamite and Collision grades, Petey Williams, Austin Gunn, Sol Ruca, Moondog King, Bobby...",
       "link": "https://prowrestling.net/site/2026/08/26/aew-dynamite-in-glasgow-reports-needed-last-weeks-dynamite-and-collision-grades-petey-williams-austin-gunn-sol-ruca-moondog-king-bobby-duncum-jr-sid-vicious/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-26T12:00:22+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (8/26)",
       "p": "Viewing information and lineup for AEW Dynamite on August 26, 2026. AEW Dynamite (August 26, 2026) Venue: OVO Hydro City: Glasgow, UK Time: 8pm ET Channel: TBS, Max Lineup Swerve Strickland vs....",
       "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-8-26/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-26T12:00:00+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Chris Jericho Pitches To Team With Grado At AEW In Scotland",
       "p": "Chris Jericho is pitching for a new tag team partner. AEW will tape Dynamite and Collision on Wednesday at the OVO Hydro in Scotland ahead of Sunday’s All In event. Appearing on HeartScotland,...",
       "link": "https://www.fightful.com/wrestling-news/chris-jericho-pitches-to-team-with-grado-at-aew-in-scotland/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-26T11:28:44+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW star comments on potential Ilja Dragunov match following WWE exit",
       "p": "AEW’s Kyle Fletcher commented on the possibility of facing Ilja Dragunov nearly seven years after their last collision but this time with the International Title on the line. In his interview with...",
       "link": "https://www.f4wonline.com/news/aew/aew-star-comments-on-potential-ilja-dragunov-match-following-wwe-exit/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-26T11:18:02+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "Will Ospreay Says Neck Surgery Cost Over $420K, Tony Khan Paid For It All",
       "p": "Will Ospreay underwent neck surgery in 2025, which sidelined him for seven months. In an AEW YouTube series, Ospreay revealed that Tony Khan paid for the neck surgery, saying it cost more than his...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-neck-surgery-cost-over-420k-tony-khan-paid-for-it-all/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-26T10:48:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW All In 2026 ticket sales update for Wembley ahead of Dynamite",
-      "p": "AEW All In 2026 is takes place this Sunday from Wembley Stadium in London, England. According to the latest update from WrestleTix, 43,017 tickets have been distributed for the event thus far,...",
-      "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-ticket-sales-update-wembley-dynamite-08-26-2026/",
-      "t": "3h",
-      "dt": "2026-08-26T10:07:25+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Is AEW All In 2026 on TV? How to watch via live stream, MyAEW and PPV",
-      "p": "AEW All In 2026 takes place this Sunday (August 30th) from Wembley Stadium in London, England. If you’re hoping to watch the show live (or even back on demand), then there are a few different ways...",
-      "link": "https://www.f4wonline.com/event-guides/is-aew-all-in-2026-on-tv-how-to-watch-live-stream-myaew-ppv/",
-      "t": "3h",
-      "dt": "2026-08-26T09:47:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (08-26-2026)",
-      "p": "AEW Dynamite will be taking place this week from the OVO Hydro in Glasgow, Scotland, with a usual start time on TBS of 8pm Eastern, 7pm Central and 5pm Pacific. Swerve Strickland will be taking on...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-08-26-2026/",
-      "t": "3h",
-      "dt": "2026-08-26T09:29:27+00:00"
     }
   ]
 }

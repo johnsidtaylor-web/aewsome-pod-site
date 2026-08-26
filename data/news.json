@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-26T14:03:07.196285+00:00",
+  "updated": "2026-08-26T16:33:22.681895+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Tonight’s All In London go-home show (Glasgow reports needed)",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s All In London go-home show (Glasgow reports needed) appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/26/aew-dynamite-preview-tonights-all-in-london-go-home-show-glasgow-reports-needed/",
-      "t": "2m",
-      "dt": "2026-08-26T14:00:47+00:00"
-    },
-    {
       "src": "Fightful",
-      "h": "Chad Gable: If Undertaker Could Give The Main Roster The Same Speed He Gave To Me In AAA, We’d See A Revolution",
-      "p": "Chad Gable was one-half of one of the best matches of the year, portraying the Original El Grande Americano against El Grande Americano II (Ludwig Kaiser) in a mask vs. mask match. Fans have...",
-      "link": "https://www.fightful.com/wrestling-news/chad-gable-if-undertaker-could-give-the-main-roster-the-same-speed-he-gave-to-me-in-aaa-wed-see-a-revolution/",
-      "t": "2m",
-      "dt": "2026-08-26T14:00:00+00:00"
+      "h": "Tony Khan Confirms He Would Have Supported Adam Copeland Appearing As Part Of John Cena’s Farewell Tour If He Was Asked",
+      "p": "Tony Khan confirms that if he had been asked, he would have supported Adam Copeland appearing during John Cena’s Farewell Tour. In 2025, John Cena would go through his farewell tour in the world...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-confirms-he-would-have-supported-adam-copeland-appearing-as-part-of-john-cenas-farewell-tour-if-he-was-asked/",
+      "t": "12m",
+      "dt": "2026-08-26T16:20:51+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Adam Copeland addresses first-ever match with Young Bucks at AEW All In and reason for no stipulation",
-      "p": "Adam Copeland recalled The Young Bucks first catching his attention during their TNA run as Generation Me in 2010. He also discussed how the diversity of Matt and Nick Jackson’s tag team style...",
-      "link": "https://www.f4wonline.com/news/aew/adam-copeland-addresses-match-with-young-bucks-at-aew-all-in-and-reason-no-stipulation/",
-      "t": "11m",
-      "dt": "2026-08-26T13:51:09+00:00"
+      "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
+      "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
+      "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
+      "t": "23m",
+      "dt": "2026-08-26T16:09:45+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Adam Copeland: Doing A Stipulation For First Match Against Young Bucks Would Be Bad Booking",
-      "p": "Adam Copeland & Christian Cage are set to defend the AEW Tag Team Titles against The Young Bucks (Matt Jackson & Nick Jackson) in a first-time-ever match. Speaking to Rob Wolkenbrod of Forbes,...",
-      "link": "https://www.fightful.com/wrestling-news/adam-copeland-doing-a-stipulation-for-first-match-against-young-bucks-would-be-bad-booking/",
-      "t": "54m",
-      "dt": "2026-08-26T13:08:36+00:00"
+      "h": "Jamie Hayter On Will Ospreay’s Work With EVE: I Think If Someone Wants To Help Champion Women’s Wrestling, Then That’s Great",
+      "p": "Jamie Hayter speaks on Will Ospreay’s work in the UK with Pro Wrestling EVE, noting that him championing women’s wrestling is great. Over the past couple of years, Ospreay has been notably working...",
+      "link": "https://www.fightful.com/wrestling-news/jamie-hayter-on-will-ospreays-work-with-eve-i-think-if-someone-wants-to-help-champion-womens-wrestling-then-thats-great/",
+      "t": "39m",
+      "dt": "2026-08-26T15:53:17+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star Adam Copeland’s one-test rule for determining a good match",
+      "p": "Adam Copeland has spent a little more than three decades in pro wrestling, giving him plenty of time to develop his own criteria for what makes a match successful. And it all ultimately comes down...",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-adam-copelands-one-test-rule-for-determining-good-match/",
+      "t": "56m",
+      "dt": "2026-08-26T15:36:57+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jamie Hayter Thinks The Evolution Of AEW’s Women’s Division Has Been ‘An Incredibly Slow Process’",
+      "p": "Jamie Hayter believes that the evolution of AEW’s women’s division has been ‘an incredibly slow process’ over the years. Hayter has been a staple of the AEW roster for the last several years, save...",
+      "link": "https://www.fightful.com/wrestling-news/jamie-hayter-thinks-the-evolution-of-aews-womens-division-has-been-an-incredibly-slow-process/",
+      "t": "1h",
+      "dt": "2026-08-26T15:31:49+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Britt Baker Responds To Tweet About Potential Return At AEW All In 2026",
+      "p": "Britt Baker wants a return to. There was a post from an X user who noted that they would like to see Britt Baker return to All Elite Wrestling at the 2026 All In pay-per-view on August 30th. Baker...",
+      "link": "https://www.fightful.com/wrestling-news/britt-baker-responds-to-tweet-about-potential-return-at-aew-all-in-2026/",
+      "t": "1h",
+      "dt": "2026-08-26T15:26:59+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Will Ospreay Reveals Whether He Hopes To Work With Wife Alex Windsor On AEW TV",
-      "p": "There are a whole host of wrestling couples who have worked together on screen, but would Will Ospreay like to work with his wife Alex Windsor in AEW?",
-      "link": "https://www.wrestlinginc.com/2244485/aew-will-ospreay-alex-windsor-wife-hopes-work-tv/",
+      "h": "AEW's Mick Foley Shares Reflections On 'Universally Beloved' Dolly Parton In Tribute",
+      "p": "Mick Foley has paid a touching tribute to legendary musician Dolly Parton following her death, with the AEW star fondly recalling the singer's impact on him.",
+      "link": "https://www.wrestlinginc.com/2244452/aew-mick-foley-dolly-parton-universally-beloved-tribute/",
       "t": "1h",
-      "dt": "2026-08-26T13:01:18+00:00"
+      "dt": "2026-08-26T15:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Britt Baker responds to fan wanting AEW All In 2026 return",
+      "p": "We’re approaching two years since Britt Baker was last seen in AEW. But if it were up to her, that absence would end as soon as this weekend. Baker, once a pillar of the AEW women’s division, has...",
+      "link": "https://www.f4wonline.com/news/aew/britt-baker-responds-to-fan-wanting-aew-all-in-2026-return/",
+      "t": "1h",
+      "dt": "2026-08-26T14:34:55+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay’s Mother Shares The Biggest Challenge Of Raising Him",
+      "p": "Will Ospreay’s mother has spoken about the challenges of raising him during his school years and dealing with his neurodivergence. Ospreay has been vocal in the past about suffering from social...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreays-mother-shares-the-biggest-challenge-of-raising-him/",
+      "t": "2h",
+      "dt": "2026-08-26T14:31:28+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan Addresses WWE Departure Of Ilja Dragunov: 'That's A Great Wrestler'",
-      "p": "AEW CEO Tony Khan has discussed potentially signing Ilja Dragunov, whose WWE contract recently expired, making him a free agent.",
-      "link": "https://www.wrestlinginc.com/2244380/aew-tony-khan-wwe-departure-ilja-dragunov-great-wrestler/",
-      "t": "1h",
-      "dt": "2026-08-26T13:00:00+00:00"
+      "h": "Young Bucks Comment On All In Being AEW's Biggest Show, Part Of Their Personal Legacy",
+      "p": "AEW's Young Bucks have detailed the importance of All In to their careers, as well as to the professional wrestling business as a whole.",
+      "link": "https://www.wrestlinginc.com/2244441/young-bucks-aew-all-in-2026-biggest-show-personal-legacy/",
+      "t": "2h",
+      "dt": "2026-08-26T14:30:00+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Star addresses AEW World Title pursuit after Kenny Omega vs. Will Ospreay: ‘Something I’ve been very clear that I want’",
-      "p": "With the AEW World Championship being on Kyle Fletcher’s radar in the long run, he remains focused on his upcoming match at All In. Adam Barnard of The Sportster asked Fletcher on his AEW World...",
-      "link": "https://www.f4wonline.com/news/aew/star-addresses-aew-world-title-pursuit-after-kenny-omega-vs-will-ospreay/",
-      "t": "1h",
-      "dt": "2026-08-26T12:08:28+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite in Glasgow (reports needed), last week’s Dynamite and Collision grades, Petey Williams, Austin Gunn, Sol Ruca, Moondog King, Bobby Duncum Jr., Sid Vicious",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Glasgow (reports needed), last week’s Dynamite and Collision grades, Petey Williams, Austin Gunn, Sol Ruca, Moondog King, Bobby...",
-      "link": "https://prowrestling.net/site/2026/08/26/aew-dynamite-in-glasgow-reports-needed-last-weeks-dynamite-and-collision-grades-petey-williams-austin-gunn-sol-ruca-moondog-king-bobby-duncum-jr-sid-vicious/",
+      "h": "Adam Copeland explains how he and Christian Cage avoid rehashing old tag team dynamic",
+      "p": "Adam Copeland and Christian Cage became tag team champions after 25 years at AEW Double or Nothing. Given their extensive history and in-ring careers, Copeland highlighted how their reunion in the...",
+      "link": "https://www.f4wonline.com/news/aew/adam-copeland-explains-how-he-and-christian-cage-avoid-rehashing-old-tag-team-dynamic/",
       "t": "2h",
-      "dt": "2026-08-26T12:00:22+00:00"
+      "dt": "2026-08-26T14:24:11+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (8/26)",
-      "p": "Viewing information and lineup for AEW Dynamite on August 26, 2026. AEW Dynamite (August 26, 2026) Venue: OVO Hydro City: Glasgow, UK Time: 8pm ET Channel: TBS, Max Lineup Swerve Strickland vs....",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-8-26/",
+      "h": "Kyle Fletcher Felt Guilty For Singles Run Coming About After Mark Davis’ Injury",
+      "p": "Kyle Fletcher further expresses how happy he is for Mark Davis. The duo, once known as Aussie Open (Kyle Fletcher & Mark Davis), have gone on to find singles success in All Elite Wrestling. Both...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-felt-guilty-for-singles-run-coming-about-after-mark-davis-injury/",
       "t": "2h",
-      "dt": "2026-08-26T12:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Chris Jericho Pitches To Team With Grado At AEW In Scotland",
-      "p": "Chris Jericho is pitching for a new tag team partner. AEW will tape Dynamite and Collision on Wednesday at the OVO Hydro in Scotland ahead of Sunday’s All In event. Appearing on HeartScotland,...",
-      "link": "https://www.fightful.com/wrestling-news/chris-jericho-pitches-to-team-with-grado-at-aew-in-scotland/",
-      "t": "2h",
-      "dt": "2026-08-26T11:28:44+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star comments on potential Ilja Dragunov match following WWE exit",
-      "p": "AEW’s Kyle Fletcher commented on the possibility of facing Ilja Dragunov nearly seven years after their last collision but this time with the International Title on the line. In his interview with...",
-      "link": "https://www.f4wonline.com/news/aew/aew-star-comments-on-potential-ilja-dragunov-match-following-wwe-exit/",
-      "t": "2h",
-      "dt": "2026-08-26T11:18:02+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay Says Neck Surgery Cost Over $420K, Tony Khan Paid For It All",
-      "p": "Will Ospreay underwent neck surgery in 2025, which sidelined him for seven months. In an AEW YouTube series, Ospreay revealed that Tony Khan paid for the neck surgery, saying it cost more than his...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-neck-surgery-cost-over-420k-tony-khan-paid-for-it-all/",
-      "t": "3h",
-      "dt": "2026-08-26T10:48:54+00:00"
+      "dt": "2026-08-26T14:13:25+00:00"
     }
   ]
 }

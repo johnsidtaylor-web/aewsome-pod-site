@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-26T10:49:48.549093+00:00",
+  "updated": "2026-08-26T11:42:13.146617+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -13,10 +13,26 @@
   "items": [
     {
       "src": "Fightful",
+      "h": "Chris Jericho Pitches To Team With Grado At AEW In Scotland",
+      "p": "Chris Jericho is pitching for a new tag team partner. AEW will tape Dynamite and Collision on Wednesday at the OVO Hydro in Scotland ahead of Sunday’s All In event. Appearing on HeartScotland,...",
+      "link": "https://www.fightful.com/wrestling-news/chris-jericho-pitches-to-team-with-grado-at-aew-in-scotland/",
+      "t": "13m",
+      "dt": "2026-08-26T11:28:44+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star comments on potential Ilja Dragunov match following WWE exit",
+      "p": "AEW’s Kyle Fletcher commented on the possibility of facing Ilja Dragunov nearly seven years after their last collision but this time with the International Title on the line. In his interview with...",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-comments-on-potential-ilja-dragunov-match-following-wwe-exit/",
+      "t": "24m",
+      "dt": "2026-08-26T11:18:02+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Will Ospreay Says Neck Surgery Cost Over $420K, Tony Khan Paid For It All",
       "p": "Will Ospreay underwent neck surgery in 2025, which sidelined him for seven months. In an AEW YouTube series, Ospreay revealed that Tony Khan paid for the neck surgery, saying it cost more than his...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-neck-surgery-cost-over-420k-tony-khan-paid-for-it-all/",
-      "t": "0m",
+      "t": "53m",
       "dt": "2026-08-26T10:48:54+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW All In 2026 ticket sales update for Wembley ahead of Dynamite",
       "p": "AEW All In 2026 is takes place this Sunday from Wembley Stadium in London, England. According to the latest update from WrestleTix, 43,017 tickets have been distributed for the event thus far,...",
       "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-ticket-sales-update-wembley-dynamite-08-26-2026/",
-      "t": "42m",
+      "t": "1h",
       "dt": "2026-08-26T10:07:25+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "AEW Dynamite Start Time Tonight (08-26-2026)",
       "p": "AEW Dynamite will be taking place this week from the OVO Hydro in Glasgow, Scotland, with a usual start time on TBS of 8pm Eastern, 7pm Central and 5pm Pacific. Swerve Strickland will be taking on...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-08-26-2026/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-26T09:29:27+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW Dynamite Preview: Confirmed matches and segments (08-26-2026)",
       "p": "AEW Dynamite will be taking place this week from the OVO Hydro in Glasgow, Scotland. This is the Dynamite go-home show ahead of All In on Sunday, and a number of matches and segments have already...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-08-26-2026/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-26T09:13:44+00:00"
     },
     {
@@ -56,23 +72,15 @@
       "h": "Will Ospreay says Tony Khan chose Hangman Page over him for 2025 Owen Hart Cup win",
       "p": "Last year, Hangman Page faced off and defeated Will Ospreay in the final of the 2025 Owen Hart Foundation Cup. Following the tournament win, Page faced Jon Moxley at All In 2025, where he defeated...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-says-tony-khan-chose-hangman-page-over-him-for-2025-owen-hart-cup-win/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-08-26T08:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Jericho says AEW shouldn’t be built around him anymore",
-      "p": "A former World Champion and a wrestling veteran, Chris Jericho has now made a bold statement about his AEW career. A part of the promotion since its inception and the company’s first-ever World...",
-      "link": "https://www.f4wonline.com/news/aew/chris-jericho-says-aew-shouldnt-be-built-around-him-anymore/",
-      "t": "4h",
-      "dt": "2026-08-26T06:30:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW RISING AND FADING STARS: The fans have decided they just aren’t going to boo Moxley, what the heck is going on with the Hurt Syndicate",
       "p": "Welcome everyone! My apologies for my missing column last week. Sometimes life gets in the way. Dynamite was in Baltimore and I was glad my home state crowd was into most of the show. They [...]",
       "link": "https://www.pwtorch.com/site/2026/08/26/aew-rising-and-fading-stars-the-fans-have-decided-they-just-arent-going-to-boo-moxley-what-the-heck-is-going-on-with-the-hurt-syndicate/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-26T05:32:38+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "FREE PODCAST 8/25 – WKPWP Tuesday Flagship: Keller & Fann on Omega vs. Ospreay, Oba-Breakker, TNA Lockdown, WWE-ESPN relationship is a mess, Royce Keys, Cody, Punk, more (128 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Rich Fann, a PWTorch columnist. They cover these topics:...",
       "link": "https://www.pwtorch.com/site/2026/08/26/free-podcast-8-25-wkpwp-tuesday-flagship-keller-fann-on-omega-vs-ospreay-oba-breakker-tna-lockdown-wwe-espn-relationship-is-a-mess-royce-keys-cody-punk-more-128-min/",
-      "t": "5h",
+      "t": "6h",
       "dt": "2026-08-26T05:30:16+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Cardblade Returns On AEW Spill The Tea",
       "p": "Cardblade was back on AEW programming. Rachel Bonnetta welcomed the Bang Bang Gang on a recent episode of Spill The Tea, a new AEW digital series. Austin Gunn, Colten Gunn, Juice Robinson, and Ace...",
       "link": "https://www.fightful.com/wrestling-news/cardblade-returns-on-aew-spill-the-tea/",
-      "t": "9h",
-      "dt": "2026-08-26T01:19:55+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Athena Details Journey To 'Forever Champion' In ROH",
-      "p": "ROH Women's World Champion Athena looks back on her journey to \"forever\" status and ahead at what might await her in the future.",
-      "link": "https://www.wrestlinginc.com/2244290/athena-details-journey-forever-champion-roh/",
       "t": "10h",
-      "dt": "2026-08-25T23:51:35+00:00"
+      "dt": "2026-08-26T01:19:55+00:00"
     }
   ]
 }

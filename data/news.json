@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-26T09:54:44.529274+00:00",
+  "updated": "2026-08-26T10:49:48.549093+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Will Ospreay Says Neck Surgery Cost Over $420K, Tony Khan Paid For It All",
+      "p": "Will Ospreay underwent neck surgery in 2025, which sidelined him for seven months. In an AEW YouTube series, Ospreay revealed that Tony Khan paid for the neck surgery, saying it cost more than his...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-neck-surgery-cost-over-420k-tony-khan-paid-for-it-all/",
+      "t": "0m",
+      "dt": "2026-08-26T10:48:54+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW All In 2026 ticket sales update for Wembley ahead of Dynamite",
+      "p": "AEW All In 2026 is takes place this Sunday from Wembley Stadium in London, England. According to the latest update from WrestleTix, 43,017 tickets have been distributed for the event thus far,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-ticket-sales-update-wembley-dynamite-08-26-2026/",
+      "t": "42m",
+      "dt": "2026-08-26T10:07:25+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Is AEW All In 2026 on TV? How to watch via live stream, MyAEW and PPV",
       "p": "AEW All In 2026 takes place this Sunday (August 30th) from Wembley Stadium in London, England. If you’re hoping to watch the show live (or even back on demand), then there are a few different ways...",
       "link": "https://www.f4wonline.com/event-guides/is-aew-all-in-2026-on-tv-how-to-watch-live-stream-myaew-ppv/",
-      "t": "7m",
+      "t": "1h",
       "dt": "2026-08-26T09:47:30+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW Dynamite Start Time Tonight (08-26-2026)",
       "p": "AEW Dynamite will be taking place this week from the OVO Hydro in Glasgow, Scotland, with a usual start time on TBS of 8pm Eastern, 7pm Central and 5pm Pacific. Swerve Strickland will be taking on...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-08-26-2026/",
-      "t": "25m",
+      "t": "1h",
       "dt": "2026-08-26T09:29:27+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW Dynamite Preview: Confirmed matches and segments (08-26-2026)",
       "p": "AEW Dynamite will be taking place this week from the OVO Hydro in Glasgow, Scotland. This is the Dynamite go-home show ahead of All In on Sunday, and a number of matches and segments have already...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-08-26-2026/",
-      "t": "40m",
+      "t": "1h",
       "dt": "2026-08-26T09:13:44+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Will Ospreay says Tony Khan chose Hangman Page over him for 2025 Owen Hart Cup win",
       "p": "Last year, Hangman Page faced off and defeated Will Ospreay in the final of the 2025 Owen Hart Foundation Cup. Following the tournament win, Page faced Jon Moxley at All In 2025, where he defeated...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-says-tony-khan-chose-hangman-page-over-him-for-2025-owen-hart-cup-win/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-08-26T08:00:00+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Chris Jericho says AEW shouldn’t be built around him anymore",
       "p": "A former World Champion and a wrestling veteran, Chris Jericho has now made a bold statement about his AEW career. A part of the promotion since its inception and the company’s first-ever World...",
       "link": "https://www.f4wonline.com/news/aew/chris-jericho-says-aew-shouldnt-be-built-around-him-anymore/",
-      "t": "3h",
+      "t": "4h",
       "dt": "2026-08-26T06:30:00+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW RISING AND FADING STARS: The fans have decided they just aren’t going to boo Moxley, what the heck is going on with the Hurt Syndicate",
       "p": "Welcome everyone! My apologies for my missing column last week. Sometimes life gets in the way. Dynamite was in Baltimore and I was glad my home state crowd was into most of the show. They [...]",
       "link": "https://www.pwtorch.com/site/2026/08/26/aew-rising-and-fading-stars-the-fans-have-decided-they-just-arent-going-to-boo-moxley-what-the-heck-is-going-on-with-the-hurt-syndicate/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-26T05:32:38+00:00"
     },
     {
@@ -64,23 +80,15 @@
       "h": "FREE PODCAST 8/25 – WKPWP Tuesday Flagship: Keller & Fann on Omega vs. Ospreay, Oba-Breakker, TNA Lockdown, WWE-ESPN relationship is a mess, Royce Keys, Cody, Punk, more (128 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Rich Fann, a PWTorch columnist. They cover these topics:...",
       "link": "https://www.pwtorch.com/site/2026/08/26/free-podcast-8-25-wkpwp-tuesday-flagship-keller-fann-on-omega-vs-ospreay-oba-breakker-tna-lockdown-wwe-espn-relationship-is-a-mess-royce-keys-cody-punk-more-128-min/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-08-26T05:30:16+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Jericho says Kenny Omega is modern era’s best big-show performer",
-      "p": "Former World Champion Chris Jericho has heaped praise on AEW EVP Kenny Omega. A founding member of AEW, Kenny Omega has remained with the promotion for years now and is currently the promotion’s...",
-      "link": "https://www.f4wonline.com/news/aew/chris-jericho-says-kenny-omega-is-modern-eras-best-big-show-performer/",
-      "t": "6h",
-      "dt": "2026-08-26T03:15:00+00:00"
     },
     {
       "src": "Fightful",
       "h": "Austin Gunn Drops ‘Ass Boy Freestyle’ With References To Kenny Omega And More",
       "p": "Austin Gunn was back on the beat. Gunn dropped his latest track titled “Ass Boy Freestyle” on social media. The four-minute track features a reference to Eddie Guerrero’s lie, cheat, and steal,...",
       "link": "https://www.fightful.com/wrestling-news/austin-gunn-drops-ass-boy-freestyle-with-references-to-kenny-omega-and-more/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-26T01:44:13+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "Cardblade Returns On AEW Spill The Tea",
       "p": "Cardblade was back on AEW programming. Rachel Bonnetta welcomed the Bang Bang Gang on a recent episode of Spill The Tea, a new AEW digital series. Austin Gunn, Colten Gunn, Juice Robinson, and Ace...",
       "link": "https://www.fightful.com/wrestling-news/cardblade-returns-on-aew-spill-the-tea/",
-      "t": "8h",
+      "t": "9h",
       "dt": "2026-08-26T01:19:55+00:00"
     },
     {
@@ -98,14 +106,6 @@
       "link": "https://www.wrestlinginc.com/2244290/athena-details-journey-forever-champion-roh/",
       "t": "10h",
       "dt": "2026-08-25T23:51:35+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating (8/19): How did the penultimate edition before All In London fare?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (8/19): How did the penultimate edition before All In London fare? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/25/aew-dynamite-rating-8-19-how-did-the-penultimate-edition-before-all-in-london-fare/",
-      "t": "12h",
-      "dt": "2026-08-25T21:38:12+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:42:13.146617+00:00",
+  "updated": "2026-08-26T13:13:32.616753+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (4 AEW items)",
@@ -7,16 +7,64 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
+      "h": "Adam Copeland: Doing A Stipulation For First Match Against Young Bucks Would Be Bad Booking",
+      "p": "Adam Copeland & Christian Cage are set to defend the AEW Tag Team Titles against The Young Bucks (Matt Jackson & Nick Jackson) in a first-time-ever match. Speaking to Rob Wolkenbrod of Forbes,...",
+      "link": "https://www.fightful.com/wrestling-news/adam-copeland-doing-a-stipulation-for-first-match-against-young-bucks-would-be-bad-booking/",
+      "t": "4m",
+      "dt": "2026-08-26T13:08:36+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Will Ospreay Reveals Whether He Hopes To Work With Wife Alex Windsor On AEW TV",
+      "p": "There are a whole host of wrestling couples who have worked together on screen, but would Will Ospreay like to work with his wife Alex Windsor in AEW?",
+      "link": "https://www.wrestlinginc.com/2244485/aew-will-ospreay-alex-windsor-wife-hopes-work-tv/",
+      "t": "12m",
+      "dt": "2026-08-26T13:01:18+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan Addresses WWE Departure Of Ilja Dragunov: 'That's A Great Wrestler'",
+      "p": "AEW CEO Tony Khan has discussed potentially signing Ilja Dragunov, whose WWE contract recently expired, making him a free agent.",
+      "link": "https://www.wrestlinginc.com/2244380/aew-tony-khan-wwe-departure-ilja-dragunov-great-wrestler/",
+      "t": "13m",
+      "dt": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Star addresses AEW World Title pursuit after Kenny Omega vs. Will Ospreay: ‘Something I’ve been very clear that I want’",
+      "p": "With the AEW World Championship being on Kyle Fletcher’s radar in the long run, he remains focused on his upcoming match at All In. Adam Barnard of The Sportster asked Fletcher on his AEW World...",
+      "link": "https://www.f4wonline.com/news/aew/star-addresses-aew-world-title-pursuit-after-kenny-omega-vs-will-ospreay/",
+      "t": "1h",
+      "dt": "2026-08-26T12:08:28+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite in Glasgow (reports needed), last week’s Dynamite and Collision grades, Petey Williams, Austin Gunn, Sol Ruca, Moondog King, Bobby Duncum Jr., Sid Vicious",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Glasgow (reports needed), last week’s Dynamite and Collision grades, Petey Williams, Austin Gunn, Sol Ruca, Moondog King, Bobby...",
+      "link": "https://prowrestling.net/site/2026/08/26/aew-dynamite-in-glasgow-reports-needed-last-weeks-dynamite-and-collision-grades-petey-williams-austin-gunn-sol-ruca-moondog-king-bobby-duncum-jr-sid-vicious/",
+      "t": "1h",
+      "dt": "2026-08-26T12:00:22+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (8/26)",
+      "p": "Viewing information and lineup for AEW Dynamite on August 26, 2026. AEW Dynamite (August 26, 2026) Venue: OVO Hydro City: Glasgow, UK Time: 8pm ET Channel: TBS, Max Lineup Swerve Strickland vs....",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-8-26/",
+      "t": "1h",
+      "dt": "2026-08-26T12:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Chris Jericho Pitches To Team With Grado At AEW In Scotland",
       "p": "Chris Jericho is pitching for a new tag team partner. AEW will tape Dynamite and Collision on Wednesday at the OVO Hydro in Scotland ahead of Sunday’s All In event. Appearing on HeartScotland,...",
       "link": "https://www.fightful.com/wrestling-news/chris-jericho-pitches-to-team-with-grado-at-aew-in-scotland/",
-      "t": "13m",
+      "t": "1h",
       "dt": "2026-08-26T11:28:44+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "AEW star comments on potential Ilja Dragunov match following WWE exit",
       "p": "AEW’s Kyle Fletcher commented on the possibility of facing Ilja Dragunov nearly seven years after their last collision but this time with the International Title on the line. In his interview with...",
       "link": "https://www.f4wonline.com/news/aew/aew-star-comments-on-potential-ilja-dragunov-match-following-wwe-exit/",
-      "t": "24m",
+      "t": "1h",
       "dt": "2026-08-26T11:18:02+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "Will Ospreay Says Neck Surgery Cost Over $420K, Tony Khan Paid For It All",
       "p": "Will Ospreay underwent neck surgery in 2025, which sidelined him for seven months. In an AEW YouTube series, Ospreay revealed that Tony Khan paid for the neck surgery, saying it cost more than his...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-neck-surgery-cost-over-420k-tony-khan-paid-for-it-all/",
-      "t": "53m",
+      "t": "2h",
       "dt": "2026-08-26T10:48:54+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "AEW All In 2026 ticket sales update for Wembley ahead of Dynamite",
       "p": "AEW All In 2026 is takes place this Sunday from Wembley Stadium in London, England. According to the latest update from WrestleTix, 43,017 tickets have been distributed for the event thus far,...",
       "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-ticket-sales-update-wembley-dynamite-08-26-2026/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-26T10:07:25+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Is AEW All In 2026 on TV? How to watch via live stream, MyAEW and PPV",
       "p": "AEW All In 2026 takes place this Sunday (August 30th) from Wembley Stadium in London, England. If you’re hoping to watch the show live (or even back on demand), then there are a few different ways...",
       "link": "https://www.f4wonline.com/event-guides/is-aew-all-in-2026-on-tv-how-to-watch-live-stream-myaew-ppv/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-08-26T09:47:30+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "AEW Dynamite Start Time Tonight (08-26-2026)",
       "p": "AEW Dynamite will be taking place this week from the OVO Hydro in Glasgow, Scotland, with a usual start time on TBS of 8pm Eastern, 7pm Central and 5pm Pacific. Swerve Strickland will be taking on...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-08-26-2026/",
-      "t": "2h",
-      "dt": "2026-08-26T09:29:27+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (08-26-2026)",
-      "p": "AEW Dynamite will be taking place this week from the OVO Hydro in Glasgow, Scotland. This is the Dynamite go-home show ahead of All In on Sunday, and a number of matches and segments have already...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-08-26-2026/",
-      "t": "2h",
-      "dt": "2026-08-26T09:13:44+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay says Tony Khan chose Hangman Page over him for 2025 Owen Hart Cup win",
-      "p": "Last year, Hangman Page faced off and defeated Will Ospreay in the final of the 2025 Owen Hart Foundation Cup. Following the tournament win, Page faced Jon Moxley at All In 2025, where he defeated...",
-      "link": "https://www.f4wonline.com/news/aew/will-ospreay-says-tony-khan-chose-hangman-page-over-him-for-2025-owen-hart-cup-win/",
       "t": "3h",
-      "dt": "2026-08-26T08:00:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: The fans have decided they just aren’t going to boo Moxley, what the heck is going on with the Hurt Syndicate",
-      "p": "Welcome everyone! My apologies for my missing column last week. Sometimes life gets in the way. Dynamite was in Baltimore and I was glad my home state crowd was into most of the show. They [...]",
-      "link": "https://www.pwtorch.com/site/2026/08/26/aew-rising-and-fading-stars-the-fans-have-decided-they-just-arent-going-to-boo-moxley-what-the-heck-is-going-on-with-the-hurt-syndicate/",
-      "t": "6h",
-      "dt": "2026-08-26T05:32:38+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 8/25 – WKPWP Tuesday Flagship: Keller & Fann on Omega vs. Ospreay, Oba-Breakker, TNA Lockdown, WWE-ESPN relationship is a mess, Royce Keys, Cody, Punk, more (128 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Rich Fann, a PWTorch columnist. They cover these topics:...",
-      "link": "https://www.pwtorch.com/site/2026/08/26/free-podcast-8-25-wkpwp-tuesday-flagship-keller-fann-on-omega-vs-ospreay-oba-breakker-tna-lockdown-wwe-espn-relationship-is-a-mess-royce-keys-cody-punk-more-128-min/",
-      "t": "6h",
-      "dt": "2026-08-26T05:30:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Austin Gunn Drops ‘Ass Boy Freestyle’ With References To Kenny Omega And More",
-      "p": "Austin Gunn was back on the beat. Gunn dropped his latest track titled “Ass Boy Freestyle” on social media. The four-minute track features a reference to Eddie Guerrero’s lie, cheat, and steal,...",
-      "link": "https://www.fightful.com/wrestling-news/austin-gunn-drops-ass-boy-freestyle-with-references-to-kenny-omega-and-more/",
-      "t": "9h",
-      "dt": "2026-08-26T01:44:13+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Cardblade Returns On AEW Spill The Tea",
-      "p": "Cardblade was back on AEW programming. Rachel Bonnetta welcomed the Bang Bang Gang on a recent episode of Spill The Tea, a new AEW digital series. Austin Gunn, Colten Gunn, Juice Robinson, and Ace...",
-      "link": "https://www.fightful.com/wrestling-news/cardblade-returns-on-aew-spill-the-tea/",
-      "t": "10h",
-      "dt": "2026-08-26T01:19:55+00:00"
+      "dt": "2026-08-26T09:29:27+00:00"
     }
   ]
 }

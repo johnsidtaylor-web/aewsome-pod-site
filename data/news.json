@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-26T16:33:22.681895+00:00",
+  "updated": "2026-08-26T19:16:17.691946+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Tony Khan Confirms He Would Have Supported Adam Copeland Appearing As Part Of John Cena’s Farewell Tour If He Was Asked",
-      "p": "Tony Khan confirms that if he had been asked, he would have supported Adam Copeland appearing during John Cena’s Farewell Tour. In 2025, John Cena would go through his farewell tour in the world...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-confirms-he-would-have-supported-adam-copeland-appearing-as-part-of-john-cenas-farewell-tour-if-he-was-asked/",
-      "t": "12m",
-      "dt": "2026-08-26T16:20:51+00:00"
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Downplays Report About Restricted Pyro At Wembley Stadium For AEW All In",
+      "p": "Tony Khan doesn't seem concerned about AEW having to scale back on fireworks at Wembley Stadium.",
+      "link": "https://www.wrestlinginc.com/2244932/tony-khan-downplays-restricted-pyro-wembley-stadium-aew-all-in/",
+      "t": "10m",
+      "dt": "2026-08-26T19:05:35+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
-      "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
-      "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
-      "t": "23m",
-      "dt": "2026-08-26T16:09:45+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Jamie Hayter On Will Ospreay’s Work With EVE: I Think If Someone Wants To Help Champion Women’s Wrestling, Then That’s Great",
-      "p": "Jamie Hayter speaks on Will Ospreay’s work in the UK with Pro Wrestling EVE, noting that him championing women’s wrestling is great. Over the past couple of years, Ospreay has been notably working...",
-      "link": "https://www.fightful.com/wrestling-news/jamie-hayter-on-will-ospreays-work-with-eve-i-think-if-someone-wants-to-help-champion-womens-wrestling-then-thats-great/",
-      "t": "39m",
-      "dt": "2026-08-26T15:53:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star Adam Copeland’s one-test rule for determining a good match",
-      "p": "Adam Copeland has spent a little more than three decades in pro wrestling, giving him plenty of time to develop his own criteria for what makes a match successful. And it all ultimately comes down...",
-      "link": "https://www.f4wonline.com/news/aew/aew-star-adam-copelands-one-test-rule-for-determining-good-match/",
-      "t": "56m",
-      "dt": "2026-08-26T15:36:57+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Jamie Hayter Thinks The Evolution Of AEW’s Women’s Division Has Been ‘An Incredibly Slow Process’",
-      "p": "Jamie Hayter believes that the evolution of AEW’s women’s division has been ‘an incredibly slow process’ over the years. Hayter has been a staple of the AEW roster for the last several years, save...",
-      "link": "https://www.fightful.com/wrestling-news/jamie-hayter-thinks-the-evolution-of-aews-womens-division-has-been-an-incredibly-slow-process/",
-      "t": "1h",
-      "dt": "2026-08-26T15:31:49+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Britt Baker Responds To Tweet About Potential Return At AEW All In 2026",
-      "p": "Britt Baker wants a return to. There was a post from an X user who noted that they would like to see Britt Baker return to All Elite Wrestling at the 2026 All In pay-per-view on August 30th. Baker...",
-      "link": "https://www.fightful.com/wrestling-news/britt-baker-responds-to-tweet-about-potential-return-at-aew-all-in-2026/",
-      "t": "1h",
-      "dt": "2026-08-26T15:26:59+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Tonight’s All In London go-home show (Glasgow reports needed)",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s All In London go-home show (Glasgow reports needed) appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/26/aew-dynamite-preview-tonights-all-in-london-go-home-show-glasgow-reports-needed/",
+      "t": "15m",
+      "dt": "2026-08-26T19:00:47+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Mick Foley Shares Reflections On 'Universally Beloved' Dolly Parton In Tribute",
-      "p": "Mick Foley has paid a touching tribute to legendary musician Dolly Parton following her death, with the AEW star fondly recalling the singer's impact on him.",
-      "link": "https://www.wrestlinginc.com/2244452/aew-mick-foley-dolly-parton-universally-beloved-tribute/",
+      "h": "Britt Baker Responds To Fan Wishing For Her Return At AEW All In: 'Same'",
+      "p": "Britt Baker comments on returning to AEW while responding to a fan on a recent social media post.",
+      "link": "https://www.wrestlinginc.com/2244867/aew-all-in-london-2026-britt-baker-same-fan-wishing-return/",
       "t": "1h",
-      "dt": "2026-08-26T15:00:00+00:00"
+      "dt": "2026-08-26T18:12:33+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Britt Baker responds to fan wanting AEW All In 2026 return",
-      "p": "We’re approaching two years since Britt Baker was last seen in AEW. But if it were up to her, that absence would end as soon as this weekend. Baker, once a pillar of the AEW women’s division, has...",
-      "link": "https://www.f4wonline.com/news/aew/britt-baker-responds-to-fan-wanting-aew-all-in-2026-return/",
+      "src": "PWTorch",
+      "h": "AEW FEUD TRACKER: Barber’s analysis of the latest developments with Omega and Ospreay, Bucks and Copeland & Christian, Willow and Mercedes, Darby and Knight",
+      "p": "INTRO Greetings! Tonight is the final Dynamite before All In. The show will be live in Glasgow, Scotland where I expect the crowd to be very loud and into everything. All In crossed 40,000 tickets...",
+      "link": "https://www.pwtorch.com/site/2026/08/26/aew-feud-tracker-barbers-analysis-of-the-latest-developments-with-omega-and-ospreay-bucks-and-copeland-christian-willow-and-mercedes-darby-and-knight/",
       "t": "1h",
-      "dt": "2026-08-26T14:34:55+00:00"
+      "dt": "2026-08-26T18:04:15+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Will Ospreay’s Mother Shares The Biggest Challenge Of Raising Him",
-      "p": "Will Ospreay’s mother has spoken about the challenges of raising him during his school years and dealing with his neurodivergence. Ospreay has been vocal in the past about suffering from social...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreays-mother-shares-the-biggest-challenge-of-raising-him/",
-      "t": "2h",
-      "dt": "2026-08-26T14:31:28+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Young Bucks Comment On All In Being AEW's Biggest Show, Part Of Their Personal Legacy",
-      "p": "AEW's Young Bucks have detailed the importance of All In to their careers, as well as to the professional wrestling business as a whole.",
-      "link": "https://www.wrestlinginc.com/2244441/young-bucks-aew-all-in-2026-biggest-show-personal-legacy/",
-      "t": "2h",
-      "dt": "2026-08-26T14:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Adam Copeland explains how he and Christian Cage avoid rehashing old tag team dynamic",
-      "p": "Adam Copeland and Christian Cage became tag team champions after 25 years at AEW Double or Nothing. Given their extensive history and in-ring careers, Copeland highlighted how their reunion in the...",
-      "link": "https://www.f4wonline.com/news/aew/adam-copeland-explains-how-he-and-christian-cage-avoid-rehashing-old-tag-team-dynamic/",
-      "t": "2h",
-      "dt": "2026-08-26T14:24:11+00:00"
+      "h": "Will Ospreay Says He First Discovered His Body Dysmorphia In October Of 2017",
+      "p": "Will Ospreay discusses having to battle with body dysmorphia over the past decade, pointing to it’s beginnings in October of 2017. The Ospreay of today is a very different wrestler than the one...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-he-first-discovered-his-body-dysmorphia-in-october-of-2017/",
+      "t": "1h",
+      "dt": "2026-08-26T17:59:14+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Kyle Fletcher Felt Guilty For Singles Run Coming About After Mark Davis’ Injury",
-      "p": "Kyle Fletcher further expresses how happy he is for Mark Davis. The duo, once known as Aussie Open (Kyle Fletcher & Mark Davis), have gone on to find singles success in All Elite Wrestling. Both...",
-      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-felt-guilty-for-singles-run-coming-about-after-mark-davis-injury/",
+      "h": "Will Ospreay Recalls Being Kicked Out Of Wrestling School As A Teenager For Doing Backyard Wrestling",
+      "p": "Will Ospreay recalls being kicked out of Dropkixx Wrestling academy in London for continuing to backyard wrestle. Ospreay has always been vocal about the early days of his wrestling career and...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-recalls-being-kicked-out-of-wrestling-school-as-a-teenager-for-doing-backyard-wrestling/",
+      "t": "1h",
+      "dt": "2026-08-26T17:40:05+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Trios match added to AEW Dynamite lineup",
+      "p": "Tony Khan has booked a trios match for tonight’s episode of AEW Dynamite. Before London hosts All In 2026 this Sunday, Dynamite’s go-home show for the pay-per-view will be held in Glasgow. A trios...",
+      "link": "https://www.f4wonline.com/news/aew/trios-match-added-to-aew-dynamite-lineup-2/",
+      "t": "1h",
+      "dt": "2026-08-26T17:35:27+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan ‘would have supported’ Adam Copeland vs. John Cena WWE match",
+      "p": "If Adam Copeland vs. John Cena were on the table for Cena’s retirement tour, Tony Khan says he would not have stood in the way of it happening. Copeland recently told The Ariel Helwani Show that,...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-would-have-supported-adam-copeland-john-cena-wwe-match/",
+      "t": "1h",
+      "dt": "2026-08-26T17:18:18+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (8/26): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, AUGUST 26, 2026 Where: GLASGOW, SCOTLAND AT OVO HYDRO How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 6,387 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/08/26/aew-dynamite-preview-8-26-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "1h",
+      "dt": "2026-08-26T17:17:59+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mark Sterling Says He Had To Leave 20 Minutes After Recent Scary Neck Bump So He Could Make A Flight",
+      "p": "Mark Sterling says that he had to leave 20 minutes after a recent scary neck bump due to wanting to make a flight. On a recent episode of ROH on HonorClub, ‘Smart’ Mark Sterling would take a bump...",
+      "link": "https://www.fightful.com/wrestling-news/mark-sterling-says-he-had-to-leave-20-minutes-after-recent-scary-neck-bump-so-he-could-make-a-flight/",
       "t": "2h",
-      "dt": "2026-08-26T14:13:25+00:00"
+      "dt": "2026-08-26T17:14:42+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Women’s Trios Bout Added To 8/26 AEW Dynamite",
+      "p": "A new match has been added to AEW Dynamite. Tony Khan announced that TBS Champion Maya World will team with the Brawling Birds (Jamie Hayter & Alex Windsor) against Persephone and Women’s Tag Team...",
+      "link": "https://www.fightful.com/wrestling-news/six-woman-tag-bout-added-to-8-26-aew-dynamite/",
+      "t": "2h",
+      "dt": "2026-08-26T17:11:51+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Tony Khan says he would have allowed Adam Copeland to be part of John Cena retirement tour if asked",
+      "p": "Tony Khan openly talked about the idea of allowing Adam Copeland to return to WWE to be part of John Cena's retirement tour. The post Tony Khan says he would have allowed Adam Copeland to be part...",
+      "link": "https://www.postwrestling.com/2026/08/26/tony-khan-says-he-would-have-allowed-adam-copeland-to-be-part-of-john-cena-retirement-tour-if-asked/",
+      "t": "2h",
+      "dt": "2026-08-26T17:02:07+00:00"
     }
   ]
 }

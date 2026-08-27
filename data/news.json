@@ -1,111 +1,111 @@
 {
-  "updated": "2026-08-27T09:41:06.568761+00:00",
+  "updated": "2026-08-27T20:28:06.126634+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (4 AEW items)",
+    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "WOR: Dynamite go-home for Wembley, NXT, Collision, new ratings system",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the death of La Momia, Peacock and Netflix, Rev Pro this weekend, CMLL and AAA notes, ratings...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-dynamite-go-home-for-wembley-nxt-collision-new-ratings-system/",
-      "t": "43m",
-      "dt": "2026-08-27T08:57:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW All In 2026 Match Card",
-      "p": "AEW All In 2026 takes place this Sunday (August 30th) from Wembley Stadium in London, England, and the card is essentially now all but confirmed. The main event sees Kenny Omega defending his AEW...",
-      "link": "https://www.f4wonline.com/event-guides/aew-all-in-2026-match-card/",
-      "t": "1h",
-      "dt": "2026-08-27T07:46:31+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay says body dysmorphia left him afraid to ask other wrestlers for help",
-      "p": "AEW’s Will Ospreay recently opened up about the body dysmorphia that left him afraid to ask for help. Recently speaking to Muscle & Fitness ahead of AEW All In 2026, Ospreay opened up about his...",
-      "link": "https://www.f4wonline.com/news/aew/will-ospreay-says-body-dysmorphia-left-him-afraid-to-ask-other-wrestlers-for-help/",
-      "t": "3h",
-      "dt": "2026-08-27T06:30:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 8/26 – WKPWP after Dynamite: Keller & Zilem discuss final hype for All In, Finals set for Continental Challenge Cup, Ospreay’s final promo, Willow-Mercedes angle (144 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Brian Zilem to review AEW Dynamite which included a final promo from Will Ospreay and Mercedes Mone attacking Willow Nightingale,...",
-      "link": "https://www.pwtorch.com/site/2026/08/27/free-podcast-8-26-wkpwp-after-dynamite-keller-zilem-discuss-final-hype-for-all-in-finals-set-for-continental-challenge-cup-ospreays-final-promo-willow-mercedes-angle-144-min/",
-      "t": "3h",
-      "dt": "2026-08-27T06:12:21+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 8/26 – WKH – AEW Dynamite: Ospreay delivers final message for Omega, Moxley vs. Claudio, Nigel vs. O’Reilly, Swerve vs. Perry, Bucks team with Copeland, more (18 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the August 26 episode of AEW Dynamite start to finish including Will Ospreay deliver’s final message...",
-      "link": "https://www.pwtorch.com/site/2026/08/27/vip-podcast-8-26-wkh-aew-dynamite-ospreay-delivers-final-message-for-omega-moxley-vs-claudio-nigel-vs-oreilly-swerve-vs-perry-bucks-team-with-copeland-more-18-min/",
-      "t": "3h",
-      "dt": "2026-08-27T05:55:01+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Willow Nightingale injury update before AEW All In | Exclusive",
-      "p": "Willow Nightingale is injured days before AEW All In 2026. Just hours after the August 26 episode of AEW Dynamite in Glasgow, our Bryan Alvarez reported that Women’s World Champion Willow...",
-      "link": "https://www.f4wonline.com/news/aew/willow-nightingale-injury-update-before-aew-all-in-exclusive/",
-      "t": "3h",
-      "dt": "2026-08-27T05:48:56+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Indie wrestler reportedly signs AEW/ROH contract",
-      "p": "36-year-old Vertvixen is now All Elite! The report comes after Sean Ross Sapp’s Fightful Select reported that Vertvixen is now under contract with AEW. The indie wrestler had previously stated her...",
-      "link": "https://www.f4wonline.com/news/aew/indie-wrestler-reportedly-signs-aew-roh-contract/",
-      "t": "5h",
-      "dt": "2026-08-27T04:28:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan says ‘many of the best wrestlers’ outside AEW are trying to get in",
-      "p": "AEW President Tony Khan believes several wrestlers outside the promotion are trying to get in. Recently speaking to Alistair McGeorge of Metro, Khan opened up about the balance of maintaining his...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-says-many-of-the-best-wrestlers-outside-aew-are-trying-to-get-in/",
-      "t": "6h",
-      "dt": "2026-08-27T03:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite - 8/26/2026: 3 Things We Hated & 3 Things We Loved",
-      "p": "The last AEW Dynamite before All In was full of dizzying highs and perilous lows.",
-      "link": "https://www.wrestlinginc.com/2245194/aew-dynamite-august-26-2026-3-things-loved-hated-opinion-review/",
-      "t": "6h",
-      "dt": "2026-08-27T03:16:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mercedes Mone vs. Isla Dawn, Trios Contest, Kevin Knight Appearance, More Set For 8/29 AEW Collision",
-      "p": "Here’s what’s on tap for the August 29 episode of AEW Collision. First, in trios action, Chris Jericho will team with Komander and ‘Speedball’ Mike Bailey to face the team of Nick Wayne, Tommaso...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-mone-dawn-324639/",
-      "t": "7h",
-      "dt": "2026-08-27T02:01:16+00:00"
+      "src": "POST Wrestling",
+      "h": "Konosuke Takeshita set to return to DDT Pro Wrestling in September",
+      "p": "Konosuke Takeshita will return to DDT Pro Wrestling in September as part of a busy schedule under his three contracts with AEW, NJPW and DDT. The post Konosuke Takeshita set to return to DDT Pro...",
+      "link": "https://www.postwrestling.com/2026/08/27/konosuke-takeshita-set-to-return-to-ddt-pro-wrestling-in-september/",
+      "t": "2m",
+      "dt": "2026-08-27T20:25:29+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "AEW Dynamite 8/26 Results: Will Ospreay promises Wembley win, Moxley vs. McGuinness set for Continental Cup final",
-      "p": "Jon Moxley and Nigel McGuinness advanced to the finals of AEW's Continental Challenge Cup as part of Wednesday's Dynamite. The post AEW Dynamite 8/26 Results: Will Ospreay promises Wembley win,...",
-      "link": "https://www.postwrestling.com/2026/08/26/aew-dynamite-8-26-live-results-continental-cup-semis-ospreay-willow-to-appear-on-all-in-go-home-show/",
-      "t": "7h",
-      "dt": "2026-08-27T02:00:07+00:00"
+      "h": "Jim Ross provides “good news” about mass on kidney, “disappointed” he won’t be at AEW All In: London",
+      "p": "Jim Ross provided an update on how he's been since brain surgery, and he admitted he's \"disappointed\" he won't be at AEW All In: London. The post Jim Ross provides “good news” about mass on...",
+      "link": "https://www.postwrestling.com/2026/08/27/jim-ross-provides-good-news-about-mass-on-kidney-disappointed-he-wont-be-at-aew-all-in-london/",
+      "t": "3m",
+      "dt": "2026-08-27T20:24:05+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Will Ospreay Discusses Past WWE Opportunities & His Lack Of Interest",
+      "p": "AEW star Will Ospreay discusses his past opportunities to have worked for WWE, or even signed his promotion, and why he has largely been uninterested",
+      "link": "https://www.wrestlinginc.com/2245900/aew-wwe-will-ospreay-past-opportunities-lack-interest/",
+      "t": "8m",
+      "dt": "2026-08-27T20:19:43+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "08/27 PW Boom Podcast With Jason Powell (Episode 422): Will Pruett on AEW All In London, MyAEW.com, and Tony Khan’s media call notes",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 08/27 PW Boom Podcast With Jason Powell (Episode 422): Will Pruett on AEW All In London, MyAEW.com, and Tony Khan’s media call notes appeared...",
+      "link": "https://prowrestling.net/site/2026/08/27/08-27-pw-boom-podcast-with-jason-powell-episode-422-will-pruett-on-aew-all-in-london-myaew-com-and-tony-khans-media-call-notes/",
+      "t": "13m",
+      "dt": "2026-08-27T20:14:36+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: The Death Before Dishonor fallout show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The Death Before Dishonor fallout show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/08/27/roh-on-honorclub-lineup-the-death-before-dishonor-fallout-show/",
+      "t": "25m",
+      "dt": "2026-08-27T20:02:16+00:00"
     },
     {
       "src": "Fightful",
-      "h": "VertVixen Under AEW/ROH Contract",
-      "p": "Details on VertVixen and her status with AEW. Fightful Select has confirmed that VertVixen is under ROH/AEW contract. Full details are available for subscribers. Vert has been competing in AEW...",
-      "link": "https://www.fightful.com/wrestling-news/vertvixen-under-aew-roh-contract/",
-      "t": "7h",
-      "dt": "2026-08-27T01:59:07+00:00"
+      "h": "Jamie Hayter: There’s Some Inherent Misogyny In Wrestling As A Whole",
+      "p": "Jamie Hayter speaks on women’s wresters proving themselves while noting there is some ‘inherent misogyny’ when it comes to the industry. Hayter has been a staple of All Elite Wrestling over the...",
+      "link": "https://www.fightful.com/wrestling-news/jamie-hayter-theres-some-inherent-misogyny-in-wrestling-as-a-whole/",
+      "t": "27m",
+      "dt": "2026-08-27T20:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Alex Windsor On Facing Divine Dominion At AEW All In: I Think Everyone Is Just Waiting To See Us All Clash Together",
+      "p": "Alex Windsor is ready to get her hands on Megan Bayne and Lena Kross. AEW All In London will feature a match for the AEW Women’s Tag Team Championships, as Bayne and Kross will defend the belts...",
+      "link": "https://www.fightful.com/wrestling-news/alex-windsor-megan-bayne-lena-kross-324366/",
+      "t": "1h",
+      "dt": "2026-08-27T19:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Avery Styles To Face Joey Janela At All I Want 4, AEW Dynamite Highlights, More | Fight Size",
+      "p": "Here is your fight size update for Thursday, August 27, 2026. – Avery Styles will now face Joey Janela at ETU All I Want 4: 🧱⭐️Match Announcement. ⭐️🧱 Avery Styles vs Joey Janela Signed:Mathers vs...",
+      "link": "https://www.fightful.com/wrestling-news/avery-styles-to-face-joey-janela-at-all-i-want-4-aew-dynamite-highlights-more-fight-size/",
+      "t": "1h",
+      "dt": "2026-08-27T19:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Update On Status Of Ex-WWE Stars Ilja Dragunov & New Day Ahead Of AEW All In",
+      "p": "With AEW All In London 2026 on the horizon, a new report has shed light on whether Ilja Dragunov and The New Day will be at Wembley Stadium.",
+      "link": "https://www.wrestlinginc.com/2245771/wwe-ilja-dragunov-new-day-aew-all-in-2026/",
+      "t": "1h",
+      "dt": "2026-08-27T18:44:34+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Final build for AEW All In including a banger Will Ospreay vs. Kenny Omega video package, Adam Copeland making poor choices, and the Continental Cup finals",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Final build for AEW All In including a banger Will Ospreay vs. Kenny Omega video package, Adam...",
+      "link": "https://prowrestling.net/site/2026/08/27/pruetts-pause-10-thoughts-on-aew-dynamite-final-build-for-aew-all-in-including-a-banger-will-ospreay-vs-kenny-omega-video-package-adam-copeland-making-poor-choices-and-the-continental-c/",
+      "t": "2h",
+      "dt": "2026-08-27T18:15:23+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay Doesn’t Mind If The Rock Is Mentioned, Jokes ‘Rock Has Never Main Evented Wembley’",
+      "p": "Will Ospreay appeared on Good Morning Britain with wrestling fan and comedian Jack Whitehall. While the majority of the segment was talking about Whitehall’s love of wrestling and Ospreay’s...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-doesnt-mind-if-the-rock-is-mentioned-jokes-rock-has-never-main-evented-wembley/",
+      "t": "2h",
+      "dt": "2026-08-27T18:00:59+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Title Match Rumored To Be Added To AEW All In: London 2026",
+      "p": "Multiple reports indicate that AEW President Tony Khan will be adding a women's match to All In this Sunday.",
+      "link": "https://www.wrestlinginc.com/2245698/aew-all-in-london-2026-rumored-tbs-title-match-ladder-added/",
+      "t": "2h",
+      "dt": "2026-08-27T17:53:50+00:00"
     }
   ]
 }

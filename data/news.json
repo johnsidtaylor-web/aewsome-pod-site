@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-27T20:28:06.126634+00:00",
+  "updated": "2026-08-28T05:21:49.898773+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
-    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,100 +12,100 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Nick Jackson: “Never In My Wildest Dreams Did I Think The Original Concept Of All In Would Turn Into What It’s Become”",
+      "p": "A moment of reflection for Nick Jackson. The 2026 installment of AEW All In is scheduled for August 30th at Wembley Stadium in London, England. Days out from the show, one-half of The Young Bucks,...",
+      "link": "https://www.fightful.com/wrestling-news/nick-jackson-never-in-my-wildest-dreams-did-i-think-the-original-concept-of-all-in-would-turn-into-what-its-become/",
+      "t": "16m",
+      "dt": "2026-08-28T05:04:57+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Nick Jackson reflects on the evolution of AEW All In",
+      "p": "Nick Jackson of The Young Bucks recently reflected on the evolution of AEW’s All In PPV since its inception. The original All In event took place in 2018 and is often cited as the catalyst for the...",
+      "link": "https://www.f4wonline.com/news/aew/nick-jackson-reflects-on-the-evolution-of-aew-all-in/",
+      "t": "1h",
+      "dt": "2026-08-28T04:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 8/27 – The Fix Mailbag w/Todd & Wade (pt. 2 of 2): Jobbers, Lesnar’s future, AEW in Europe, WWE’s future on Netflix, Doug Furnas, more (82 min.)",
+      "p": "SHOW SUMMARY: In this week’s The Fix Mailbag with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they answer emails from VIP members on the following topics: Could pro...",
+      "link": "https://www.pwtorch.com/site/2026/08/27/vip-podcast-8-27-the-fix-mailbag-w-todd-wade-pt-2-of-2-jobbers-lesnars-future-aew-in-europe-wwes-future-on-netflix-doug-furnas-more-82-min/",
+      "t": "1h",
+      "dt": "2026-08-28T03:57:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Luchasaurus gives hopeful comeback timeline after undergoing fourth surgery this year",
+      "p": "Former multi-division AEW titleholder Luchasaurus has had a rough few years health-wise, but is seeing some light at the end of the tunnel. Speaking on a New York Knicks fan podcast, he revealed...",
+      "link": "https://www.f4wonline.com/news/aew/luchasaurus-hopeful-comeback-timeline-fourth-surgery/",
+      "t": "2h",
+      "dt": "2026-08-28T03:07:20+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Eddie Kingston gives health update after ‘little bit of a scare’",
+      "p": "Eddie Kingston says he is cleared to return to the ring after suffering what he called “a little bit of a scare with my health” that saw him pulled from last Saturday’s AEW Collision. Kingston was...",
+      "link": "https://www.f4wonline.com/news/aew/eddie-kingston-health-update-cmll-hechicero/",
+      "t": "2h",
+      "dt": "2026-08-28T02:39:04+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH TV Results (8/27)",
+      "p": "Ring of Honor aired the latest episode of ROH TV on August 27. The event aired on HonorClub. Full results are below. ROH TV Results (8/27) Bandido opens by saying the ROH Title means something to...",
+      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-8-27/",
+      "t": "2h",
+      "dt": "2026-08-28T02:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "12-Man Tag, Harley Cameron Return Added To 8/29 AEW Collision",
+      "p": "A huge bout has been added to the August 29 episode of AEW Collision. All Elite Wrestling announced that Trios Champions Hangman Page, Brody King, & Bandido will team with Bang Bang Gang (Austin...",
+      "link": "https://www.fightful.com/wrestling-news/12-man-tag-harley-cameron-return-added-to-8-29-aew-collision/",
+      "t": "3h",
+      "dt": "2026-08-28T01:30:50+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH TV live results: Deonna Purrazzo vs. Lacey Lane",
+      "p": "Ring of Honor is back on HonorClub tonight. Scheduled for tonight’s show, ROH Women’s Pure Champion Deonna Purrazzo will go up against Lacey Lane in a Proving Ground match. If Lane defeats...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-deonna-purrazzo-vs-lacey-lane/",
+      "t": "6h",
+      "dt": "2026-08-27T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Big Vinny V: Will Ospreay’s Dynamite promo shows how AEW has wasted 2026",
+      "p": "Will Ospreay’s promo hyping up All In on the go-home episode of Dynamite was, on its own, excellent. At the same time, however, it showed how AEW has mismanaged the main event of its biggest show...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-will-ospreays-dynamite-promo-shows-how-aew-has-wasted-2026/",
+      "t": "7h",
+      "dt": "2026-08-27T22:05:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: Ludwig Kaiser, Cathy Kelley, Kenny Omega",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Thursday Update...",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-ludwig-kaiser-cathy-kelley-kenny-omega/",
+      "t": "7h",
+      "dt": "2026-08-27T21:59:36+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW All In 2026: Draws & Duds",
+      "p": "From Mercedes Mone vs. Willow Nightingale to Will Ospreay vs. Kenny Omega, here are WINC's biggest draws and biggest duds from AEW All In 2026!",
+      "link": "https://www.wrestlinginc.com/2246015/aew-all-in-2026-draws-duds-will-ospreay-kenny-omega-mercedes-mone-willow-nightingale/",
+      "t": "7h",
+      "dt": "2026-08-27T21:48:26+00:00"
+    },
+    {
       "src": "POST Wrestling",
       "h": "Konosuke Takeshita set to return to DDT Pro Wrestling in September",
       "p": "Konosuke Takeshita will return to DDT Pro Wrestling in September as part of a busy schedule under his three contracts with AEW, NJPW and DDT. The post Konosuke Takeshita set to return to DDT Pro...",
       "link": "https://www.postwrestling.com/2026/08/27/konosuke-takeshita-set-to-return-to-ddt-pro-wrestling-in-september/",
-      "t": "2m",
+      "t": "8h",
       "dt": "2026-08-27T20:25:29+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Jim Ross provides “good news” about mass on kidney, “disappointed” he won’t be at AEW All In: London",
-      "p": "Jim Ross provided an update on how he's been since brain surgery, and he admitted he's \"disappointed\" he won't be at AEW All In: London. The post Jim Ross provides “good news” about mass on...",
-      "link": "https://www.postwrestling.com/2026/08/27/jim-ross-provides-good-news-about-mass-on-kidney-disappointed-he-wont-be-at-aew-all-in-london/",
-      "t": "3m",
-      "dt": "2026-08-27T20:24:05+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Will Ospreay Discusses Past WWE Opportunities & His Lack Of Interest",
-      "p": "AEW star Will Ospreay discusses his past opportunities to have worked for WWE, or even signed his promotion, and why he has largely been uninterested",
-      "link": "https://www.wrestlinginc.com/2245900/aew-wwe-will-ospreay-past-opportunities-lack-interest/",
-      "t": "8m",
-      "dt": "2026-08-27T20:19:43+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "08/27 PW Boom Podcast With Jason Powell (Episode 422): Will Pruett on AEW All In London, MyAEW.com, and Tony Khan’s media call notes",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 08/27 PW Boom Podcast With Jason Powell (Episode 422): Will Pruett on AEW All In London, MyAEW.com, and Tony Khan’s media call notes appeared...",
-      "link": "https://prowrestling.net/site/2026/08/27/08-27-pw-boom-podcast-with-jason-powell-episode-422-will-pruett-on-aew-all-in-london-myaew-com-and-tony-khans-media-call-notes/",
-      "t": "13m",
-      "dt": "2026-08-27T20:14:36+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub lineup: The Death Before Dishonor fallout show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The Death Before Dishonor fallout show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/08/27/roh-on-honorclub-lineup-the-death-before-dishonor-fallout-show/",
-      "t": "25m",
-      "dt": "2026-08-27T20:02:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Jamie Hayter: There’s Some Inherent Misogyny In Wrestling As A Whole",
-      "p": "Jamie Hayter speaks on women’s wresters proving themselves while noting there is some ‘inherent misogyny’ when it comes to the industry. Hayter has been a staple of All Elite Wrestling over the...",
-      "link": "https://www.fightful.com/wrestling-news/jamie-hayter-theres-some-inherent-misogyny-in-wrestling-as-a-whole/",
-      "t": "27m",
-      "dt": "2026-08-27T20:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Alex Windsor On Facing Divine Dominion At AEW All In: I Think Everyone Is Just Waiting To See Us All Clash Together",
-      "p": "Alex Windsor is ready to get her hands on Megan Bayne and Lena Kross. AEW All In London will feature a match for the AEW Women’s Tag Team Championships, as Bayne and Kross will defend the belts...",
-      "link": "https://www.fightful.com/wrestling-news/alex-windsor-megan-bayne-lena-kross-324366/",
-      "t": "1h",
-      "dt": "2026-08-27T19:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Avery Styles To Face Joey Janela At All I Want 4, AEW Dynamite Highlights, More | Fight Size",
-      "p": "Here is your fight size update for Thursday, August 27, 2026. – Avery Styles will now face Joey Janela at ETU All I Want 4: 🧱⭐️Match Announcement. ⭐️🧱 Avery Styles vs Joey Janela Signed:Mathers vs...",
-      "link": "https://www.fightful.com/wrestling-news/avery-styles-to-face-joey-janela-at-all-i-want-4-aew-dynamite-highlights-more-fight-size/",
-      "t": "1h",
-      "dt": "2026-08-27T19:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Update On Status Of Ex-WWE Stars Ilja Dragunov & New Day Ahead Of AEW All In",
-      "p": "With AEW All In London 2026 on the horizon, a new report has shed light on whether Ilja Dragunov and The New Day will be at Wembley Stadium.",
-      "link": "https://www.wrestlinginc.com/2245771/wwe-ilja-dragunov-new-day-aew-all-in-2026/",
-      "t": "1h",
-      "dt": "2026-08-27T18:44:34+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Final build for AEW All In including a banger Will Ospreay vs. Kenny Omega video package, Adam Copeland making poor choices, and the Continental Cup finals",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Final build for AEW All In including a banger Will Ospreay vs. Kenny Omega video package, Adam...",
-      "link": "https://prowrestling.net/site/2026/08/27/pruetts-pause-10-thoughts-on-aew-dynamite-final-build-for-aew-all-in-including-a-banger-will-ospreay-vs-kenny-omega-video-package-adam-copeland-making-poor-choices-and-the-continental-c/",
-      "t": "2h",
-      "dt": "2026-08-27T18:15:23+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay Doesn’t Mind If The Rock Is Mentioned, Jokes ‘Rock Has Never Main Evented Wembley’",
-      "p": "Will Ospreay appeared on Good Morning Britain with wrestling fan and comedian Jack Whitehall. While the majority of the segment was talking about Whitehall’s love of wrestling and Ospreay’s...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-doesnt-mind-if-the-rock-is-mentioned-jokes-rock-has-never-main-evented-wembley/",
-      "t": "2h",
-      "dt": "2026-08-27T18:00:59+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Title Match Rumored To Be Added To AEW All In: London 2026",
-      "p": "Multiple reports indicate that AEW President Tony Khan will be adding a women's match to All In this Sunday.",
-      "link": "https://www.wrestlinginc.com/2245698/aew-all-in-london-2026-rumored-tbs-title-match-ladder-added/",
-      "t": "2h",
-      "dt": "2026-08-27T17:53:50+00:00"
     }
   ]
 }

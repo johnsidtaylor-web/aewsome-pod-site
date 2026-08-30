@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-30T06:37:11.232721+00:00",
+  "updated": "2026-08-30T12:50:44.644764+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Willow Nightingale On Dealing With Recent Injuries: I’ve Had To Transform With That And Learn To Adapt",
+      "p": "Willow Nightingale comments on dealing with the various different injuries she has been dealing with over the past year or so. Heading into AEW All In later today, Willow is coming into her AEW...",
+      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-on-dealing-with-recent-injuries-ive-had-to-transform-with-that-and-learn-to-adapt/",
+      "t": "8m",
+      "dt": "2026-08-30T12:42:16+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Rush releases statement on AEW All In 2026 absence",
+      "p": "AEW’s Rush has released a statement regarding his absence from AEW All In 2026. Rush noted on social media that he has yet to wrestle at the event. He hasn’t wrestled for the company since the...",
+      "link": "https://www.f4wonline.com/news/aew/rush-releases-statement-on-aew-all-in-2026-absence/",
+      "t": "41m",
+      "dt": "2026-08-30T12:08:55+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Alex Windsor on collaborating with tag team partner Jamie Hayter, facing Megan Bayne and Lena Kross for the AEW Tag Team Titles at AEW All In",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Alex Windsor on collaborating with tag team partner Jamie Hayter, facing Megan Bayne and Lena Kross for the AEW Tag Team Titles at AEW All In...",
+      "link": "https://prowrestling.net/site/2026/08/30/alex-windsor-on-collaborating-with-tag-team-partner-jamie-hayter-facing-megan-bayne-and-lena-kross-for-the-aew-tag-team-titles-at-aew-all-in/",
+      "t": "1h",
+      "dt": "2026-08-30T11:30:02+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW All In London lineup (Live Coverage Today): The card for the annual stadium event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In London lineup (Live Coverage Today): The card for the annual stadium event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/08/30/aew-all-in-london-lineup-live-coverage-today-the-card-for-the-annual-stadium-event/",
-      "t": "6m",
+      "t": "6h",
       "dt": "2026-08-30T06:30:41+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Orange Cassidy says he didn’t like AEW merging International & Continental titles",
       "p": "AEW’s Orange Cassidy was not a fan of the International and Continental titles merging. Last year at AEW Revolution 2025, Kenny Omega defeated Konosuke Takeshita to win the International title. He...",
       "link": "https://www.f4wonline.com/news/aew/orange-cassidy-says-he-didnt-like-aew-merging-international-continental-titles/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-08-30T05:20:00+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "08/29 Pruett’s AEW Collision audio review: All In go-home show with Hangman Page, Bandido, Brody King, and the Bang Bang Gang vs. The Demand and Lethal Twist, Mercedes Mone vs. Isla Dawn",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 08/29 Pruett’s AEW Collision audio review: All In go-home show with Hangman Page, Bandido, Brody King, and the Bang Bang Gang vs. The Demand...",
       "link": "https://prowrestling.net/site/2026/08/30/08-29-pruetts-aew-collision-audio-review-all-in-go-home-show-with-hangman-page-bandido-brody-king-and-the-bang-bang-gang-vs-the-demand-and-lethal-twist-mercedes-mone-vs-isla-dawn/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-08-30T05:09:30+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW All In 2026 Preview, Start Time, How To Watch, Location (8/30)",
       "p": "Viewing information and lineup for AEW All In on August 30, 2026 AEW All In (August 30, 2026) Venue: Wembley Stadium City: London, England Time: 11 am ET Channel: HBO Max, PPV, MyAEW Lineup AEW...",
       "link": "https://www.fightful.com/wrestling-news/aew-all-in-2026-preview-start-time-how-to-watch-location-8-30/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-08-30T05:00:00+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "TBS Championship Match Added To AEW All In 2026 Buy In Pre-Show",
       "p": "Maya World will get her Wembley moment as she defends the AEW TBS Championship on the AEW All In London 2026 Buy-In show.",
       "link": "https://www.wrestlinginc.com/2247038/aew-all-in-2026-buy-in-pre-show-tbs-championship-maya-world-persephone/",
-      "t": "2h",
+      "t": "8h",
       "dt": "2026-08-30T04:16:59+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "VIP PODCAST 8/29 – Radican Worldwide with Rich Fann: In-depth overview of why AEW should build around a single star starting with Ospreay, how Tony Khan’s booking style would have to change to allow him to book around a top wrestler, more (60 min.)",
       "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is joined by PWTorch columnist and VIP analyst Rich Fann for another blockbuster edition of Radican Worldwide. The show is dedicated to a deep dive...",
       "link": "https://www.pwtorch.com/site/2026/08/29/vip-podcast-8-29-radican-worldwide-with-rich-fann-in-depth-overview-of-why-aew-should-build-around-a-single-star-starting-with-ospreay-how-tony-khans-booking-style-would-have-to-c/",
-      "t": "2h",
+      "t": "9h",
       "dt": "2026-08-30T03:47:30+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Will Ospreay Asks Callum Newman To Be In His Corner At AEW All In",
       "p": "Will Ospreay has asked Callum Newman to be in his corner at AEW All In 2026. At AEW All In, Will Ospreay will challenge Kenny Omega for the AEW World Championship. Just a day before this event,...",
       "link": "https://www.fightful.com/wrestling-news/will-ospreay-asks-callum-newman-to-be-in-his-corner-at-aew-all-in/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-08-30T03:29:52+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "Another Eight-Man Tag Added To AEW All In Buy In",
       "p": "Another eight-man tag team match has been announced for AEW All In Buy In. In a digital exclusive, Shane Taylor Promotions hired The Hurt Syndicate (Bobby Lashley and Shelton Benjamin) to take out...",
       "link": "https://www.fightful.com/wrestling-news/another-eight-man-tag-added-to-aew-all-in-buy-in/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-08-30T03:28:49+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW COLLISION RESULTS (8/29): Takeshita vs. Beast Mortos, Jericho teams with “Speedball” and Komander, Mercedes vs. Isla Dawn, trios cluster, and more",
       "p": "AEW DYNAMITE REPORT AUGUST 29, 2026 (recorded 8/26) GLASGOW, SCOTLAND AT OVO HYDRO AIRED ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Excalibur, Tony Schiavone Ring...",
       "link": "https://www.pwtorch.com/site/2026/08/29/aew-collision-results-8-29-takeshita-vs-beat-mortos-jericho-teams-with-speedball-and-komander-mercedes-vs-isla-dawn-trios-cluster-and-more/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-08-30T03:22:29+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW All In Odds Courtesy Of MyBookie",
-      "p": "AEW All In takes place on Sunday, August 30 from Wembley Stadium. Ahead of the event, MyBookie has set the odds for select matches. Fans can keep up with the odds here AEW All In Odds Courtesy Of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-all-in-odds-courtesy-of-mybookie/",
-      "t": "3h",
-      "dt": "2026-08-30T03:19:14+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kris Statlander And Harley Cameron Challenge Sisters Of Sin At AEW All In Buy In",
-      "p": "Kris Statlander and Harley Cameron have challenged Sisters of Sin to a match at AEW All In Buy In. In a digital exclusive, Statlander and Cameron challenged Sisters of Sin (Julia Hart and Skye...",
-      "link": "https://www.fightful.com/wrestling-news/kris-statlander-and-harley-cameron-challenge-sisters-of-sin-at-aew-all-in-buy-in/",
-      "t": "3h",
-      "dt": "2026-08-30T03:16:59+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Thekla reportedly in London ahead of AEW All In",
-      "p": "A new report has emerged on former Women’s World Champion Thekla’s status ahead of AEW All In. In a recent report shared by Fightful Select, it was noted that Thekla was present in London ahead of...",
-      "link": "https://www.f4wonline.com/news/aew/thekla-reportedly-in-london-ahead-of-aew-all-in/",
-      "t": "3h",
-      "dt": "2026-08-30T03:15:00+00:00"
     }
   ]
 }

@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-01T18:27:29.099030+00:00",
+  "updated": "2026-09-01T21:44:44.204987+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "New Level reveal when they signed AEW contracts",
+      "p": "Though it was far from a shock to see the former Kofi Kingston & Xavier Woods debut for AEW at All In 2026, things apparently didn’t become officially official until late in the game. Kingston &...",
+      "link": "https://www.f4wonline.com/news/aew/new-level-reveal-when-they-signed-aew-contracts/",
+      "t": "16m",
+      "dt": "2026-09-01T21:27:40+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "New Level Stayed At A Hotel 45 Minutes Away From Wembley Stadium For AEW All In",
+      "p": "New Level were extra cautious on their way to London The duo of Austin Creed and Kofi were not spotted by fans before making their debut at AEW All In. As it turns out, they both were cautious...",
+      "link": "https://www.fightful.com/wrestling-news/new-level-stayed-at-a-hotel-45-minutes-away-from-wembley-stadium-for-aew-all-in/",
+      "t": "18m",
+      "dt": "2026-09-01T21:26:19+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Andrade El Idolo Feels There’s Some Samoan Wrestlers In WWE Who ‘Don’t Have It,’ But Are Constantly Pushed",
+      "p": "Candid thoughts from Andrade. There’s an interview with the reigning AEW National Champion Andrade El Idolo on the Luchando Por Tus Sueños podcast. El Idolo further spoke about his time at WWE. He...",
+      "link": "https://www.fightful.com/wrestling-news/andrade-el-idolo-feels-theres-some-samoan-wrestlers-in-wwe-who-dont-have-it-but-are-constantly-pushed/",
+      "t": "35m",
+      "dt": "2026-09-01T21:09:33+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "WWE's Booker T Has One Piece Of Advice For Sting Following AEW All In 2026",
+      "p": "WWE Hall of Famer Booker T shares one piece of advice he has for \"The Icon\" Sting after his outing at AEW All In.",
+      "link": "https://www.wrestlinginc.com/2249068/wwe-booker-t-sting-aew-all-in-2026-one-piece-advice-ladder/",
+      "t": "39m",
+      "dt": "2026-09-01T21:04:50+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "New Level Laughs At The Idea Of The Young Bucks Being The Greatest Tag Team Of All Time",
+      "p": "New Level isn’t ready to praise the Young Bucks. Following their debut at All In, the duo of Kofi and Austin Creed is currently on a media tour for AEW. In a preview clip of his upcoming chat with...",
+      "link": "https://www.fightful.com/wrestling-news/new-level-young-bucks-goat-326049/",
+      "t": "1h",
+      "dt": "2026-09-01T20:37:46+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Young Bucks Say Kenny Omega Asked Brandon Cutler At The Last Second To Corner Him At AEW All In",
+      "p": "AEW All In was headlined by Kenny Omega taking on Will Ospreay. The main event had a NJPW feel with Omega being seconded by the Young Bucks, Brandon Cutler, and Michael Nakazawa, while Ospreay was...",
+      "link": "https://www.fightful.com/wrestling-news/young-bucks-say-kenny-omega-asked-brandon-cutler-at-the-last-second-to-corner-him-at-aew-all-in/",
+      "t": "1h",
+      "dt": "2026-09-01T20:28:55+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tyler Breeze confirms WWE departure, would ‘love’ to be in AEW",
+      "p": "Tyler Breeze, who had been working for WWE in a mostly non-wrestling capacity, is no longer with the company. Responding to fans on social media today, Breeze clarified that he has departed WWE....",
+      "link": "https://www.f4wonline.com/news/wwe/tyler-breeze-confirms-wwe-departure-would-love-to-be-in-aew/",
+      "t": "2h",
+      "dt": "2026-09-01T19:42:31+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW All In Records 41,102 Turnstile Count Attendance",
+      "p": "The turnstile numbers are in for AEW All In. According to Brandon Thurston at POST Wrestling, AEW All In 2016 at Wembley Stadium had a turnstile count of 41,102. The number is from local...",
+      "link": "https://www.fightful.com/wrestling-news/aew-all-in-records-41102-turnstile-count-attendance/",
+      "t": "2h",
+      "dt": "2026-09-01T19:13:49+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "WWE's Booker T Comments On AEW All In Debut Of New Level, Britt Baker & MCMG Returns",
+      "p": "Booker T shares his thoughts on Kofi and Austin Creed debuting in AEW, along with Britt Baker and the Motor City Machine Guns returning at All In.",
+      "link": "https://www.wrestlinginc.com/2248885/wwe-booker-t-aew-all-in-debut-new-level-britt-baker-mcmg-returns/",
+      "t": "2h",
+      "dt": "2026-09-01T19:08:33+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WWE offered New Level pay cut of more than 50 percent",
+      "p": "WWE didn’t approach Kofi Kingston & Xavier Woods with a 50 percent pay cut — the number was actually larger than that. After debuting for AEW at All In 2026, Kingston (now just known as Kofi) and...",
+      "link": "https://www.f4wonline.com/news/wwe/wwe-offered-new-level-pay-cut-of-more-than-50-percent/",
+      "t": "2h",
+      "dt": "2026-09-01T18:59:11+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Big Backstage News On AEW Contract Status Of Former Tag & Trios Champ Anthony Bowens",
+      "p": "Anthony Bowens signed a five-year deal with AEW in October 2020. He has won the AEW Tag Team and Trios championships during that time.",
+      "link": "https://www.wrestlinginc.com/2248869/aew-contract-anthony-bowens-expiring-october/",
+      "t": "2h",
+      "dt": "2026-09-01T18:54:07+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "New Level Explain How Big E Helped Connect Them With A$AP Ferg To Get ‘New Level’ Theme",
       "p": "New Level (Kofi & Austin Creed) debuted at AEW All In, entering to the song “New Level” by A$AP Ferg & Future. Speaking to Ariel Helwani on the Ariel Helwani Show, Kofi explained how it all came...",
       "link": "https://www.fightful.com/wrestling-news/new-level-explain-how-big-e-helped-connect-them-with-aap-ferg-to-get-new-level-theme/",
-      "t": "1m",
+      "t": "3h",
       "dt": "2026-09-01T18:26:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW All In 2026 actual attendance revealed",
-      "p": "Thanks to public records, the turnstile count for this past Sunday’s AEW All In has been revealed. First obtained and reported by Brandon Thurston for Post Wrestling, the amount of ticket scans...",
-      "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-actual-attendance-revealed/",
-      "t": "5m",
-      "dt": "2026-09-01T18:21:37+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "McGuire’s Monthlies: Kudos to Kelani Jordan and Kendal Grey, the dawn of a New Day, and love for Will Ospreay",
-      "p": "By Colin McGuire, ProWrestling.net Staffer... The post McGuire’s Monthlies: Kudos to Kelani Jordan and Kendal Grey, the dawn of a New Day, and love for Will Ospreay appeared first on Pro Wrestling...",
-      "link": "https://prowrestling.net/site/2026/09/01/mcguires-monthlies-kudos-to-kelani-jordan-and-kendal-grey-the-dawn-of-a-new-day-and-love-for-will-ospreay/",
-      "t": "12m",
-      "dt": "2026-09-01T18:15:08+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Matt Hardy Believes TNA Environment Takes Best Aspects Of WWE & AEW",
-      "p": "Matt Hardy positively compares TNA's environment to WWE and AEW, believing that the promotion takes the best aspects of both to provide a perfect middle ground",
-      "link": "https://www.wrestlinginc.com/2248811/wwe-aew-tna-matt-hardy-environment-takes-best-aspects/",
-      "t": "16m",
-      "dt": "2026-09-01T18:11:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Former AEW tag and Trios champion’s contract reportedly expiring soon",
-      "p": "Anthony Bowens’ AEW contract is reportedly set to expire shortly. According to a report from Fightful on Tuesday, Bowens’ AEW contract is set to expire on October 1, 2026. The report comes a...",
-      "link": "https://www.f4wonline.com/news/aew/former-aew-tag-and-trios-champions-contract-reportedly-set-to-expire-soon/",
-      "t": "21m",
-      "dt": "2026-09-01T18:05:36+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Speedball Mike Bailey Says They ‘Felt Extremely Grateful, Yet Unfulfilled’ Watching Kenny Omega vs Will Ospreay",
-      "p": "Speedball Mike Bailey says that they felt ‘extremely grateful and yet unfulfilled’ watching singles matches at AEW All In. At AEW All In, Speedball would feature as part of the Casino Gauntlet...",
-      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-says-they-felt-extremely-grateful-yet-unfulfilled-watching-kenny-omega-vs-will-ospreay/",
-      "t": "26m",
-      "dt": "2026-09-01T18:00:30+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Maya World: My One-On-One Dream Match Is Jamie Hayter",
-      "p": "Maya World wants to mix it up with top names. Since coming to AEW, the ‘It Girl’ has mixed it up with performers like Mercedes Mone, Willow Nightingale, Persephone, and Athena. Due to the depth of...",
-      "link": "https://www.fightful.com/wrestling-news/maya-world-dream-match-325853/",
-      "t": "27m",
-      "dt": "2026-09-01T18:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Contract Of Anthony Bowens Set To Expire Next Month",
-      "p": "Details on the future of Anthony Bowens. Fightful Select reports, “Anthony Bowens’ AEW contract is set to expire in the next month.” Full details are available for subscribers. Bowens signed with...",
-      "link": "https://www.fightful.com/wrestling-news/aew-contract-of-anthony-bowens-set-to-expire-next-month/",
-      "t": "36m",
-      "dt": "2026-09-01T17:50:56+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "New Level Detail WWE Exit; Say They Were Asked To Take More Than A 50% Paycut, Didn’t Get A ‘Thank You’ From Higher Ups",
-      "p": "After ten years as a group and even longer as individuals, New Day, now known as New Level in AEW, departed WWE in May. The decision to exit the company came as a surprise given their tenure with...",
-      "link": "https://www.fightful.com/wrestling-news/new-level-detail-wwe-exit-say-they-were-asked-to-take-more-than-a-50-paycut-didnt-get-a-thank-you-from-higher-ups/",
-      "t": "39m",
-      "dt": "2026-09-01T17:48:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "New Level Say They Officially Signed Their AEW Contracts Less Than 24 Hours Before AEW All In, Only Talked With AEW",
-      "p": "In the weeks leading up to AEW All In, there had been much speculation about the debut of New Day (Kofi Kingston & Xavier Woods AKA Austin Creed). The debut came true as the duo aligned with...",
-      "link": "https://www.fightful.com/wrestling-news/new-level-say-they-officially-signed-their-aew-contracts-less-than-24-hours-before-aew-all-in/",
-      "t": "1h",
-      "dt": "2026-09-01T17:18:32+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW All In 2026 records 41,102 turnstile count attendance, according to local government in London",
-      "p": "Of an estimated 46,987 tickets distributed, Brent Council says 41,102 were used for admission The post AEW All In 2026 records 41,102 turnstile count attendance, according to local government in...",
-      "link": "https://www.postwrestling.com/2026/09/01/aew-all-in-2026-records-41102-turnstile-count-attendance-according-to-local-government-in-london/",
-      "t": "1h",
-      "dt": "2026-09-01T17:00:44+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: The AEW All In edition including Will Ospreay, “Hangman” Page, Okada, Mercedes Mone, Taz",
-      "p": "Welcome everyone! We have a special one today. AEW Rising and Fading Stars, the All In London edition! Did you enjoy the show? I thought it was, yet another, a good-to-great PPV. I cheered, booed,...",
-      "link": "https://www.pwtorch.com/site/2026/09/01/aew-rising-and-fading-stars-the-aew-all-in-edition-including-will-ospreay-hangman-page-okada-mercedes-mone-taz/",
-      "t": "1h",
-      "dt": "2026-09-01T16:53:19+00:00"
     }
   ]
 }

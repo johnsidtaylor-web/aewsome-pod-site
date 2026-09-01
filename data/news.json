@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T05:02:54.389116+00:00",
+  "updated": "2026-09-01T10:03:08.810551+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -13,10 +13,26 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "MVP says WWE wellness program ‘saved lives’",
+      "p": "AEW wrestler MVP has commented on the benefits of his former promotion WWE’s wellness program. In episode 69 of Marking Out with MVP & Dwayne Swayze, MVP described how WWE’s wellness program saved...",
+      "link": "https://www.f4wonline.com/news/wwe/mvp-says-wwe-wellness-program-saved-lives/",
+      "t": "2h",
+      "dt": "2026-09-01T07:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Swerve Strickland says Kofi inspired his journey to AEW World title, Wembley main event",
+      "p": "Swerve Strickland recently revealed Kofi as his inspiration behind several AEW achievements. A few years ago, Strickland parted ways with WWE and joined AEW. Shortly after, he emerged as a rising...",
+      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-says-kofi-inspired-his-journey-to-aew-world-title-wembley-main-event/",
+      "t": "3h",
+      "dt": "2026-09-01T06:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "Eric Bischoff questions whether AEW can maintain New Level’s momentum",
       "p": "Can AEW maintain New Level’s momentum following their All In debut? Eric Bischoff has shared his verdict. At AEW All In 2026, Kofi and Austin Creed as The New Level were announced as All Elites....",
       "link": "https://www.f4wonline.com/news/aew/eric-bischoff-questions-whether-aew-can-maintain-new-levels-momentum/",
-      "t": "2m",
+      "t": "5h",
       "dt": "2026-09-01T05:00:00+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "Hootie & The Blowfish’s Darius Rucker Defends Ric Flair’s Career, Calls Flair The GOAT",
       "p": "Darius Rucker shows love to Ric Flair. Hootie & The Blowfish’s Darius Rucker tweeted about pro wrestling on his X account, and there was a quote tweet from another user about Kenny Omega versus...",
       "link": "https://www.fightful.com/wrestling-news/hootie-the-blowfishs-darius-rucker-defends-ric-flairs-career-calls-flair-the-goat/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-01T03:37:11+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "MVP says a lot of today’s wrestlers are ‘scared to be real heels’",
       "p": "AEW’s MVP has shared his assessment of why today’s wrestlers are scared to take on heel roles. In the latest episode of his Marking Out with MVP & Dwayne Swayze, MVP opened up on the struggles of...",
       "link": "https://www.f4wonline.com/news/aew/mvp-says-a-lot-of-todays-wrestlers-are-scared-to-be-real-heels/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-01T03:30:00+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "VIP PODCAST 8/31 – Greg Parks Outloud! A look at the potential upcoming challengers to new AEW World Champion Will Ospreay and AEW Women’s World Champion Mercedes Mone (23 min.)",
       "p": "SHOW SUMMARY: In this edition of “Greg Parks Outloud!,” PWTorch columnist Greg Parks presents a podcast version of his weekly PWTorch Newsletter column. This week’s show features a look at...",
       "link": "https://www.pwtorch.com/site/2026/08/31/vip-podcast-8-31-greg-parks-outloud-a-look-at-the-potential-upcoming-challengers-to-new-aew-world-champion-will-ospreay-and-aew-womens-world-champion-mercedes-mone-23-min/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-01T03:24:29+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW's Jeff Jarrett Compares Sting & His Son Steven Borden",
       "p": "After seeing Steven Borden compete several times in AEW, Jeff Jarrett has shared his honest take on the second-generation wrestler's progress & in-ring ability.",
       "link": "https://www.wrestlinginc.com/2248276/aew-jeff-jarrett-sting-steven-borden-compares/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-09-01T02:48:34+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "Eric Bischoff compares Kenny Omega vs. Will Ospreay to a Nasty Boys match",
       "p": "Wrestling veteran Eric Bischoff recently shared his thoughts on the Kenny Omega vs. Will Ospreay AEW All In World title match. Claimed as one of the best matches of the night and in a long time,...",
       "link": "https://www.f4wonline.com/news/aew/eric-bischoff-compares-kenny-omega-vs-will-ospreay-to-a-nasty-boys-match/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-09-01T02:44:53+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Willow Nightingale Wants A Singles Match With Megan Bayne In AEW",
       "p": "Willow Nightingale wants to do battle with Megan Bayne again. AEW has hosted many tag and multi-woman matches that have featured both Nightingale and Bayne, but they’ve never shared the ring in a...",
       "link": "https://www.fightful.com/wrestling-news/willow-nightingale-wants-a-singles-match-with-megan-bayne-in-aew/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-09-01T02:32:19+00:00"
     },
     {
@@ -72,23 +88,15 @@
       "h": "Adam Copeland reflects on Wembley Stadium appearance for AEW All In",
       "p": "Adam Copeland had always wanted to compete at London’s Wembley Stadium. He got to do so for AEW at All In last weekend, and now that it’s done, he’s looking back at what it meant to him—and what...",
       "link": "https://www.f4wonline.com/news/aew/adam-copeland-reflects-on-wembley-stadium-appearance-for-aew-all-in/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-09-01T01:33:02+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Big E reacts to New Level debut at AEW All In",
-      "p": "Once upon a time, there were three best friends. Then one of the friends had step out of the spotlight, and the other two had to find a new place to work. But through it all, friendship prevailed....",
-      "link": "https://www.f4wonline.com/news/aew/big-e-reacts-to-new-level-debut-at-aew-all-in/",
-      "t": "3h",
-      "dt": "2026-09-01T01:09:19+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Tony Khan Details Process Of Signing Kofi & Austin Creed To AEW",
       "p": "AEW President Tony Khan detailed the process of signing Kofi and Austin Creed, the New Level, to AEW, following the company's All In London 2026 event.",
       "link": "https://www.wrestlinginc.com/2248238/aew-tony-khan-kofi-austin-creed-new-level-process-signing/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-08-31T23:18:44+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Biggest Winners And Losers Of The Week — 8/31/2026",
       "p": "After seven days that featured \"WWE NXT\" Heatwave and AEW All In, here are your WINC winners and losers for the week of 8/31/2026!",
       "link": "https://www.wrestlinginc.com/2248237/biggest-winners-losers-week-august-31-2026/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-08-31T23:15:04+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: AEW All In London and creating perfection in imperfect times, including thoughts on Kenny Omega vs. Will Ospreay, Willow Nightingale vs. Mercedes Moné",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: AEW All In London and creating perfection in imperfect times, including thoughts on Kenny Omega vs. Will Ospreay, Willow...",
-      "link": "https://prowrestling.net/site/2026/08/31/pruetts-pause-aew-all-in-london-and-creating-perfection-in-imperfect-times-including-thoughts-on-kenny-omega-vs-will-ospreay-willow-nightingale-vs-mercedes-mone/",
-      "t": "5h",
-      "dt": "2026-08-31T23:14:35+00:00"
     }
   ]
 }

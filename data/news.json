@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-02T09:34:28.476464+00:00",
+  "updated": "2026-09-02T14:26:47.303028+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,75 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Athena: It’s Finally Time For Me To Make AEW Forever As Well, I Feel Like I’ve Given The World To Ring Of Honor",
+      "p": "Athena speaks about what could come next for her with AEW returning to Texas later tonight for tapings. For the past several years, Athena has been the face of Ring Of Honor, having held the Ring...",
+      "link": "https://www.fightful.com/wrestling-news/athena-its-finally-time-for-me-to-make-aew-forever-as-well-i-feel-like-ive-given-the-world-to-ring-of-honor/",
+      "t": "8m",
+      "dt": "2026-09-02T14:17:55+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The All In London fallout edition",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The All In London fallout edition appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/02/aew-dynamite-preview-the-all-in-london-fallout-edition-2/",
+      "t": "25m",
+      "dt": "2026-09-02T14:00:56+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "New Level Confirm They Can Take Bookings Outside Of AEW",
+      "p": "New Level (Austin Creed & Kofi) debuted for AEW at AEW All In, aligning with Swerve Strickland and immediately winning the AEW Trios Championships. Known as the New Day in WWE, this is the first...",
+      "link": "https://www.fightful.com/wrestling-news/new-level-confirm-they-can-take-bookings-outside-of-aew/",
+      "t": "26m",
+      "dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Kofi And Austin Creed Say The Pay Cut WWE Offered Them Was More Than 50 Percent",
+      "p": "Kofi has detailed how he and Austin Creed were asked to take a pay cut of over 50% by WWE and explained a major reason for leaving the promotion for AEW.",
+      "link": "https://www.wrestlinginc.com/2249266/aew-kofi-austin-creed-wwe-pay-cut-more-than-50-percent/",
+      "t": "1h",
+      "dt": "2026-09-02T13:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Claudio Castagnoli Names Favorite Wrestling Venue: 'As Perfect As It Comes'",
+      "p": "Dual AEW and CMLL Star Claudio Castagnoli names Arena Mexico as his favorite wrestling venue, describing \"the cathedral\" as being \"as perfect as it comes\"",
+      "link": "https://www.wrestlinginc.com/2247585/aew-claudio-castagnoli-arena-mexico-favorite-wrestling-venue-perfect/",
+      "t": "1h",
+      "dt": "2026-09-02T12:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kofi had no plan for AEW singles run: ‘If I can’t do it with Austin, then I don’t know if I want to do it’",
+      "p": "Kofi revealed that signing with AEW was never a solo project. He explained his longstanding partnership with Austin Creed being a vital role in his future post WWE. Kofi told TMZ’s Inside The Ring...",
+      "link": "https://www.f4wonline.com/news/aew/kofi-had-no-plan-for-aew-singles-run-if-i-cant-do-it-with-austin-then-i-dont-know-if-i-want-to-do-it/",
+      "t": "2h",
+      "dt": "2026-09-02T12:25:25+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite in Texas, Collision taping (reports needed), last week’s Dynamite and Collision grades, Joe E. Legend, Tracy Smothers, Jay Youngblood",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Texas, Collision taping (reports needed), last week’s Dynamite and Collision grades, Joe E. Legend, Tracy Smothers, Jay...",
+      "link": "https://prowrestling.net/site/2026/09/02/aew-dynamite-in-texas-collision-taping-reports-needed-last-weeks-dynamite-and-collision-grades-joe-e-legend-tracy-smothers-jay-youngblood/",
+      "t": "2h",
+      "dt": "2026-09-02T12:00:41+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Austin Creed reacts to being introduced with former wrestling name at AEW All In",
+      "p": "Austin Creed noticed that at AEW All In he was introduced by his first wrestling name. While reflecting on his debut in the promotion, Creed revealed conversing with former NWA Tag Team partner,...",
+      "link": "https://www.f4wonline.com/news/aew/austin-creed-reacts-to-being-introduced-with-former-wrestling-name-at-aew-all-in/",
+      "t": "2h",
+      "dt": "2026-09-02T11:51:44+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "09/01 Wade Keller Pro Wrestling Podcast: Powell and Keller on WWE Sunday Night’s Main Event, Royce Keys and OTM, AEW All In fallout, AEW’s tag team division",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 09/01 Wade Keller Pro Wrestling Podcast: Powell and Keller on WWE Sunday Night’s Main Event, Royce Keys and OTM, AEW All In fallout, AEW’s tag...",
       "link": "https://prowrestling.net/site/2026/09/02/09-01-wade-keller-pro-wrestling-podcast-powell-and-keller-on-wwe-sunday-nights-main-event-royce-keys-and-otm-aew-all-in-fallout-aews-tag-team-division/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-09-02T06:06:18+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "FREE PODCAST 9/1 – WKPWP Tuesday Flagship: Keller & Powell talk Sunday Night’s Main Event, Oba-Breakker-Heyman, Royce Keys angle, All In fallout, New Level and AEW’s tag division, more (106 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Jason Powell from ProWrestling.net. They discuss these...",
       "link": "https://www.pwtorch.com/site/2026/09/02/free-podcast-9-1-wkpwp-tuesday-flagship-keller-powell-talk-sunday-nights-main-event-oba-breakker-heyman-royce-keys-angle-all-in-fallout-new-level-and-aews-tag-division-more-106/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-09-02T05:47:56+00:00"
     },
     {
@@ -32,7 +96,7 @@
       "h": "New Level confirm AEW contracts allow them to wrestle for other promotions",
       "p": "Just days after signing a contract with AEW, New Level [Kofi & Austin Creed] have shared a major fact about their new deal. Kofi and Creed recently appeared on The Ariel Helwani Show, where they...",
       "link": "https://www.f4wonline.com/news/aew/new-level-confirm-aew-contracts-allow-them-to-wrestle-for-other-promotions/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-09-02T05:00:00+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "POLLOCK vs. LONDON: DAY 6 “LHR -> YYZ”",
       "p": "It's travel day as John Pollock returns to Toronto. YYZ”\"> The post POLLOCK vs. LONDON: DAY 6 “LHR -> YYZ” appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT NJPW.",
       "link": "https://www.postwrestling.com/2026/09/01/pollock-vs-london-day-6/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-02T03:59:04+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tyler Breeze Confirms He's Not Under WWE Contract, 'Would Love To Be A Part Of AEW'",
-      "p": "Tyler Breeze took to social media on Tuesday to confirm he's no longer with WWE, and \"would love to be a part of AEW.\"",
-      "link": "https://www.wrestlinginc.com/2249177/tyler-breeze-wwe-contract-love-aew/",
-      "t": "10h",
-      "dt": "2026-09-01T23:27:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Young Bucks On Retirement: We’re Going To Do What We’ve Always Done And Treat Every Match Like Our Last",
-      "p": "The Young Bucks (Matt Jackson & Nick Jackson) might be closer to the end of their careers than the beginning, but they are still competing and performing at the highest level in AEW. The brothers...",
-      "link": "https://www.fightful.com/wrestling-news/young-bucks-on-retirement-were-going-to-do-what-weve-always-done-and-treat-every-match-like-our-last/",
-      "t": "10h",
-      "dt": "2026-09-01T22:51:51+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "New Level reveal when they signed AEW contracts",
-      "p": "Though it was far from a shock to see the former Kofi Kingston & Xavier Woods debut for AEW at All In 2026, things apparently didn’t become officially official until late in the game. Kingston &...",
-      "link": "https://www.f4wonline.com/news/aew/new-level-reveal-when-they-signed-aew-contracts/",
-      "t": "12h",
-      "dt": "2026-09-01T21:27:40+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE's Booker T Has One Piece Of Advice For Sting Following AEW All In 2026",
-      "p": "WWE Hall of Famer Booker T shares one piece of advice he has for \"The Icon\" Sting after his outing at AEW All In.",
-      "link": "https://www.wrestlinginc.com/2249068/wwe-booker-t-sting-aew-all-in-2026-one-piece-advice-ladder/",
-      "t": "12h",
-      "dt": "2026-09-01T21:04:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tyler Breeze confirms WWE departure, would ‘love’ to be in AEW",
-      "p": "Tyler Breeze, who had been working for WWE in a mostly non-wrestling capacity, is no longer with the company. Responding to fans on social media today, Breeze clarified that he has departed WWE....",
-      "link": "https://www.f4wonline.com/news/wwe/tyler-breeze-confirms-wwe-departure-would-love-to-be-in-aew/",
-      "t": "13h",
-      "dt": "2026-09-01T19:42:31+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE's Booker T Comments On AEW All In Debut Of New Level, Britt Baker & MCMG Returns",
-      "p": "Booker T shares his thoughts on Kofi and Austin Creed debuting in AEW, along with Britt Baker and the Motor City Machine Guns returning at All In.",
-      "link": "https://www.wrestlinginc.com/2248885/wwe-booker-t-aew-all-in-debut-new-level-britt-baker-mcmg-returns/",
-      "t": "14h",
-      "dt": "2026-09-01T19:08:33+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WWE offered New Level pay cut of more than 50 percent",
-      "p": "WWE didn’t approach Kofi Kingston & Xavier Woods with a 50 percent pay cut — the number was actually larger than that. After debuting for AEW at All In 2026, Kingston (now just known as Kofi) and...",
-      "link": "https://www.f4wonline.com/news/wwe/wwe-offered-new-level-pay-cut-of-more-than-50-percent/",
-      "t": "14h",
-      "dt": "2026-09-01T18:59:11+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Big Backstage News On AEW Contract Status Of Former Tag & Trios Champ Anthony Bowens",
-      "p": "Anthony Bowens signed a five-year deal with AEW in October 2020. He has won the AEW Tag Team and Trios championships during that time.",
-      "link": "https://www.wrestlinginc.com/2248869/aew-contract-anthony-bowens-expiring-october/",
-      "t": "14h",
-      "dt": "2026-09-01T18:54:07+00:00"
     }
   ]
 }

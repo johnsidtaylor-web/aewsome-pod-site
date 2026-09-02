@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-02T18:39:10.723941+00:00",
+  "updated": "2026-09-02T21:47:11.578993+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "PWTorch",
-      "h": "AEW’S BEST OF THE WEEK: Kenny Omega and Will Ospreay earn top spots this week, but additional honorable mentions to Mercedes, Britt Baker, Jack Perry, more",
-      "p": "Momentum is a funny thing, isn’t it? I’m an enormous sports fan and to be honest it takes up a lot of my free time. Whether I’m watching sports, talking about sports or coaching my [...]",
-      "link": "https://www.pwtorch.com/site/2026/09/02/aews-best-of-the-week-kenny-omega-and-will-ospreay-earn-top-spots-this-week-but-additional-honorable-mentions-to-mercedes-britt-baker-jack-perry-more/",
-      "t": "5m",
-      "dt": "2026-09-02T18:33:32+00:00"
-    },
-    {
       "src": "Wrestling Inc",
-      "h": "Andrade El Idolo On Why He Left AEW For WWE: 'I Wanted To Work With My Ex-Wife'",
-      "p": "Andrade outlines his decision to return to WWE in 2024 and responds to his own comments about Samoan wrestlers being favored over Mexican talent.",
-      "link": "https://www.wrestlinginc.com/2249764/andrade-el-idolo-aew-wwe-ex-wife-charlotte-flair/",
-      "t": "12m",
-      "dt": "2026-09-02T18:27:03+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "ROH Women's Champion Athena: It's Finally Time For Me To Make AEW Forever As Well",
-      "p": "Ring of Honor Women's World Champion Athena says she's ready to be in AEW full-time, saying \"it's finally time for me to make AEW forever as well\"",
-      "link": "https://www.wrestlinginc.com/2249733/roh-womens-champion-athena-time-to-make-aew-forever/",
-      "t": "32m",
-      "dt": "2026-09-02T18:06:22+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Darby Allin Talks Close-Knit Bond With Steven Borden, Son Of Sting",
-      "p": "In the AEW All In post-show media scrum, new TNT Champion Darby Allin looked back at training Steven Borden and forging a friendship with his mentor's son.",
-      "link": "https://www.wrestlinginc.com/2249691/aew-darby-allin-sting-steven-borden-close-knit-bond/",
-      "t": "1h",
-      "dt": "2026-09-02T17:33:04+00:00"
+      "h": "Kofi Talks Unfair WWE Terms, AEW Tag Division As Motivators For Switching Promotions",
+      "p": "AEW World Trios Champion Kofi talked about the terms brought to the now-New Level by WWE, and how the AEW tag division was a motivator for them.",
+      "link": "https://www.wrestlinginc.com/2249982/kofi-unfair-wwe-terms-aew-tag-division/",
+      "t": "10m",
+      "dt": "2026-09-02T21:36:10+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "New World Champion to kick off AEW Dynamite",
-      "p": "Will Ospreay had his crowning moment at AEW All In 2026 — and an appearance by the new World Champion is set to kick off Dynamite tonight. AEW has announced that we’ll hear from Ospreay to open...",
-      "link": "https://www.f4wonline.com/news/aew/new-world-champion-to-kick-off-aew-dynamite/",
-      "t": "1h",
-      "dt": "2026-09-02T17:27:12+00:00"
+      "h": "Big Vinny V: Mercedes Mone, Willow Nightingale, and the best women’s matches ever",
+      "p": "Mercedes Mone and Willow Nightingale stole the show at AEW All In London … until Kenny Omega and Will Ospreay stole it away from them. They may not have had the best match of the night, but where...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-mercedes-mone-willow-nightingale-and-the-best-womens-matches-ever/",
+      "t": "12m",
+      "dt": "2026-09-02T21:35:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW All In poll results for best match and overall grade",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In poll results for best match and overall grade appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/02/aew-all-in-poll-results-for-best-match-and-overall-grade-3/",
+      "t": "17m",
+      "dt": "2026-09-02T21:30:08+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Owen Hart Documentary ‘OWEN’ To Premiere At Film Festivals, Streaming Rights Sold To CRAVE",
-      "p": "A new Owen Hart documentary is set to premiere across the country. The Owen Hart Foundation revealed that a private screening was held for patrons to view the new documentary OWEN in London,...",
-      "link": "https://www.fightful.com/wrestling-news/owen-hart-documentary-owen-to-premiere-at-film-festivals-streaming-rights-sold-to-crave/",
+      "h": "Ric Flair: Comparing Kenny Omega & Will Ospreay To Ricky Steamboat & I Is Like Comparing The Mississippi River To The Pacific Ocean",
+      "p": "Ric Flair has a take on Kenny Omega vs. Will Ospreay. Fans have continued to rave about Omega and Ospreay’s match with AEW All In, with some saying that it is the best wrestling match of all time....",
+      "link": "https://www.fightful.com/wrestling-news/ric-flair-comparing-kenny-omega-will-ospreay-to-ricky-steamboat-i-is-like-comparing-the-mississippi-river-to-the-pacific-ocean/",
+      "t": "17m",
+      "dt": "2026-09-02T21:29:08+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Rev Pro 14th Anniversary results: Vetter’s review of Michael Oku vs. Connor Mills for the Undisputed British Title, Cowboy Way vs. FTR for the Undisputed British Tag Team Titles, a Will Ospreay match",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post Rev Pro 14th Anniversary results: Vetter’s review of Michael Oku vs. Connor Mills for the Undisputed British Title, Cowboy Way vs. FTR for...",
+      "link": "https://prowrestling.net/site/2026/09/02/rev-pro-14th-anniversary-results-vetters-review-of-michael-oku-vs-connor-mills-for-the-undisputed-british-title-cowboy-way-vs-ftr-for-the-undisputed-british-tag-team-titles-a-will-ospreay-match/",
       "t": "1h",
-      "dt": "2026-09-02T17:26:24+00:00"
+      "dt": "2026-09-02T20:30:41+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Maya World On Competing At AEW All In: I Had A Little Taste Of Being In That Main Event PPV, So Now I Want It Now",
-      "p": "Maya World comments on competing at AEW All In, noting that she now wants a taste of being on the main card. At AEW All In this past weekend, Maya would feature on the Buy-In of the show,...",
-      "link": "https://www.fightful.com/wrestling-news/maya-world-on-competing-at-aew-all-in-i-had-a-little-taste-of-being-in-that-main-event-ppv-so-now-i-want-it-now/",
+      "h": "Swerve Strickland: Athena Is My Favorite Women’s Wrestler Right Now",
+      "p": "Swerve Strickland shows some love to women’s wrestling. Strickland has never been shy when it comes to giving people their flowers. In a new interview with Black Couch Wrestling, the ‘Mogul’ was...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-athena-is-my-favorite-womens-wrestler-right-now/",
       "t": "1h",
-      "dt": "2026-09-02T17:24:59+00:00"
+      "dt": "2026-09-02T20:26:00+00:00"
     },
     {
-      "src": "POST Wrestling",
-      "h": "New Owen Hart documentary set to hit film festival circuit",
-      "p": "The Owen Hart Foundation revealed that a new Owen hart documentary titled, \"OWEN,\" is set to hit the film festival circuit. The post New Owen Hart documentary set to hit film festival circuit...",
-      "link": "https://www.postwrestling.com/2026/09/02/new-owen-hart-documentary-set-to-hit-film-festival-circuit/",
+      "src": "Wrestling Observer",
+      "h": "Owen Hart documentary headed to film festival circuit, Crave streaming service",
+      "p": "A new documentary on Owen Hart has screened recently and is set to hit the film festival circuit soon. On Monday, the Owen Hart Foundation’s official Facebook page posted photos of Dr. Martha...",
+      "link": "https://www.f4wonline.com/news/aew/owen-hart-documentary-headed-to-film-festival-circuit-crave-streaming-service/",
       "t": "1h",
-      "dt": "2026-09-02T17:15:16+00:00"
+      "dt": "2026-09-02T20:23:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Ric Flair reacts to Kenny Omega vs. Will Ospreay comparisons",
+      "p": "Ric Flair is a fan of Kenny Omega and Will Ospreay but doesn’t want to see their AEW All In 2026 main event compared to the matches he used to have against Ricky Steamboat. Those comparisons...",
+      "link": "https://www.f4wonline.com/news/aew/ric-flair-reacts-to-kenny-omega-vs-will-ospreay-comparisons/",
+      "t": "1h",
+      "dt": "2026-09-02T20:06:16+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Will Ospreay To Open 9/2 AEW Dynamite",
-      "p": "Will Ospreay is set to kick off the September 2 episode of AEW Dynamite. AEW announced the segment on social media. Ospreay captured the AEW World Title from Kenny Omega in the main event of AEW...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-to-open-9-2-aew-dynamite/",
+      "h": "Swerve Strickland: I Can Never Replace Big E, But We Can Do Something New That Moves Forward Instead Of Looking Backwards",
+      "p": "Swerve Strickland comments on his alliance with New Level. Strickland surprised fans around the world when he formed a trio with Austin Creed and Kofi at AEW All In. The surprise continued when...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-i-can-never-replace-big-e-but-we-can-do-something-new-that-moves-forward-instead-of-looking-backwards/",
       "t": "1h",
-      "dt": "2026-09-02T17:11:08+00:00"
+      "dt": "2026-09-02T20:03:39+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The All In London fallout edition",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The All In London fallout edition appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/02/aew-dynamite-preview-the-all-in-london-fallout-edition-2/",
+      "t": "2h",
+      "dt": "2026-09-02T19:18:56+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Austin Creed Comments On Swerve Strickland Breaking Into Adam Page’s House: Swerve Gonna Swerve",
+      "p": "Austin Creed doesn’t seem to mind the dangerous nature of Swerve Strickland. They might be AEW World Trios Champions for now, but some have pointed out that New Level and Swerve Strickland have...",
+      "link": "https://www.fightful.com/wrestling-news/austin-creed-comments-on-swerve-strickland-breaking-into-adam-pages-house-swerve-gonna-swerve/",
+      "t": "2h",
+      "dt": "2026-09-02T19:00:00+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "AEW ALL IN ON-SITE REPORT (8/30): Zilem’s details on attending at Wembley Stadium, match analysis, stadium observations, media Q&A highlights",
-      "p": "AEW ALL IN: LONDON 2026 ON-SITE REPORT AUGUST 30, 2026 LONDON, U.K. AT WEMBLEY STADIUM REPORT BY BRIAN ZILEM, PWTORCH CONTRIBUTOR For the third time, I had the opportunity to attend AEW All In...",
-      "link": "https://www.pwtorch.com/site/2026/09/02/aew-all-in-on-site-report-8-30-zilems-details-on-attending-at-wembley-stadium-match-analysis-stadium-observations-media-qa-highlights/",
-      "t": "1h",
-      "dt": "2026-09-02T16:55:38+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Athena Names Who She Thinks Would Be The Gaming Champion Of The AEW Locker Room",
-      "p": "Athena has named who she thinks would be the gaming champion of the AEW locker room on the men’s and women’s sides. The AEW roster has been well known for having several names that are gamers,...",
-      "link": "https://www.fightful.com/wrestling-news/athena-names-who-she-thinks-would-be-the-gaming-champion-of-the-aew-locker-room/",
-      "t": "1h",
-      "dt": "2026-09-02T16:50:17+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Athena Says She May Let Mercedes Mone ‘Have A Couple Of Months’ As AEW Women’s World Champion Before She Goes After It",
-      "p": "Athena speaks about Mercedes Mone capturing the AEW Women’s World Championship and whether she will chase the belt. At AEW All In this past weekend, Mercedes Mone would finally capture the AEW...",
-      "link": "https://www.fightful.com/wrestling-news/athena-says-she-may-let-mercedes-mone-have-a-couple-of-months-as-aew-womens-world-champion-before-she-goes-after-it/",
-      "t": "2h",
-      "dt": "2026-09-02T16:28:35+00:00"
+      "h": "FEUD TRACKER: Barber’s assessment of the biggest happenings at AEW All In with Omega-Ospreay and Nightingale-Mercedes, plus Sting, The New Level, Britt Baker, Christian, more",
+      "p": "INTRO There’s a new era in AEW. Will Ospreay is the AEW World Champion and thus the standard bearer. He’s got no shortage of possible challengers. Andrade won the Casino Gauntlet contract for a...",
+      "link": "https://www.pwtorch.com/site/2026/09/02/feud-tracker-barbers-assessment-of-the-biggest-happenings-at-aew-all-in-with-omega-ospreay-and-nightingale-mercedes-plus-sting-the-new-level-britt-baker-christian-more/",
+      "t": "3h",
+      "dt": "2026-09-02T18:39:57+00:00"
     }
   ]
 }

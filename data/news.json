@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-02T14:26:47.303028+00:00",
+  "updated": "2026-09-02T18:39:10.723941+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Athena: It’s Finally Time For Me To Make AEW Forever As Well, I Feel Like I’ve Given The World To Ring Of Honor",
-      "p": "Athena speaks about what could come next for her with AEW returning to Texas later tonight for tapings. For the past several years, Athena has been the face of Ring Of Honor, having held the Ring...",
-      "link": "https://www.fightful.com/wrestling-news/athena-its-finally-time-for-me-to-make-aew-forever-as-well-i-feel-like-ive-given-the-world-to-ring-of-honor/",
-      "t": "8m",
-      "dt": "2026-09-02T14:17:55+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The All In London fallout edition",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The All In London fallout edition appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/02/aew-dynamite-preview-the-all-in-london-fallout-edition-2/",
-      "t": "25m",
-      "dt": "2026-09-02T14:00:56+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "New Level Confirm They Can Take Bookings Outside Of AEW",
-      "p": "New Level (Austin Creed & Kofi) debuted for AEW at AEW All In, aligning with Swerve Strickland and immediately winning the AEW Trios Championships. Known as the New Day in WWE, this is the first...",
-      "link": "https://www.fightful.com/wrestling-news/new-level-confirm-they-can-take-bookings-outside-of-aew/",
-      "t": "26m",
-      "dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kofi And Austin Creed Say The Pay Cut WWE Offered Them Was More Than 50 Percent",
-      "p": "Kofi has detailed how he and Austin Creed were asked to take a pay cut of over 50% by WWE and explained a major reason for leaving the promotion for AEW.",
-      "link": "https://www.wrestlinginc.com/2249266/aew-kofi-austin-creed-wwe-pay-cut-more-than-50-percent/",
-      "t": "1h",
-      "dt": "2026-09-02T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Claudio Castagnoli Names Favorite Wrestling Venue: 'As Perfect As It Comes'",
-      "p": "Dual AEW and CMLL Star Claudio Castagnoli names Arena Mexico as his favorite wrestling venue, describing \"the cathedral\" as being \"as perfect as it comes\"",
-      "link": "https://www.wrestlinginc.com/2247585/aew-claudio-castagnoli-arena-mexico-favorite-wrestling-venue-perfect/",
-      "t": "1h",
-      "dt": "2026-09-02T12:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kofi had no plan for AEW singles run: ‘If I can’t do it with Austin, then I don’t know if I want to do it’",
-      "p": "Kofi revealed that signing with AEW was never a solo project. He explained his longstanding partnership with Austin Creed being a vital role in his future post WWE. Kofi told TMZ’s Inside The Ring...",
-      "link": "https://www.f4wonline.com/news/aew/kofi-had-no-plan-for-aew-singles-run-if-i-cant-do-it-with-austin-then-i-dont-know-if-i-want-to-do-it/",
-      "t": "2h",
-      "dt": "2026-09-02T12:25:25+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite in Texas, Collision taping (reports needed), last week’s Dynamite and Collision grades, Joe E. Legend, Tracy Smothers, Jay Youngblood",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Texas, Collision taping (reports needed), last week’s Dynamite and Collision grades, Joe E. Legend, Tracy Smothers, Jay...",
-      "link": "https://prowrestling.net/site/2026/09/02/aew-dynamite-in-texas-collision-taping-reports-needed-last-weeks-dynamite-and-collision-grades-joe-e-legend-tracy-smothers-jay-youngblood/",
-      "t": "2h",
-      "dt": "2026-09-02T12:00:41+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Austin Creed reacts to being introduced with former wrestling name at AEW All In",
-      "p": "Austin Creed noticed that at AEW All In he was introduced by his first wrestling name. While reflecting on his debut in the promotion, Creed revealed conversing with former NWA Tag Team partner,...",
-      "link": "https://www.f4wonline.com/news/aew/austin-creed-reacts-to-being-introduced-with-former-wrestling-name-at-aew-all-in/",
-      "t": "2h",
-      "dt": "2026-09-02T11:51:44+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "09/01 Wade Keller Pro Wrestling Podcast: Powell and Keller on WWE Sunday Night’s Main Event, Royce Keys and OTM, AEW All In fallout, AEW’s tag team division",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 09/01 Wade Keller Pro Wrestling Podcast: Powell and Keller on WWE Sunday Night’s Main Event, Royce Keys and OTM, AEW All In fallout, AEW’s tag...",
-      "link": "https://prowrestling.net/site/2026/09/02/09-01-wade-keller-pro-wrestling-podcast-powell-and-keller-on-wwe-sunday-nights-main-event-royce-keys-and-otm-aew-all-in-fallout-aews-tag-team-division/",
-      "t": "8h",
-      "dt": "2026-09-02T06:06:18+00:00"
-    },
-    {
       "src": "PWTorch",
-      "h": "FREE PODCAST 9/1 – WKPWP Tuesday Flagship: Keller & Powell talk Sunday Night’s Main Event, Oba-Breakker-Heyman, Royce Keys angle, All In fallout, New Level and AEW’s tag division, more (106 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Jason Powell from ProWrestling.net. They discuss these...",
-      "link": "https://www.pwtorch.com/site/2026/09/02/free-podcast-9-1-wkpwp-tuesday-flagship-keller-powell-talk-sunday-nights-main-event-oba-breakker-heyman-royce-keys-angle-all-in-fallout-new-level-and-aews-tag-division-more-106/",
-      "t": "8h",
-      "dt": "2026-09-02T05:47:56+00:00"
+      "h": "AEW’S BEST OF THE WEEK: Kenny Omega and Will Ospreay earn top spots this week, but additional honorable mentions to Mercedes, Britt Baker, Jack Perry, more",
+      "p": "Momentum is a funny thing, isn’t it? I’m an enormous sports fan and to be honest it takes up a lot of my free time. Whether I’m watching sports, talking about sports or coaching my [...]",
+      "link": "https://www.pwtorch.com/site/2026/09/02/aews-best-of-the-week-kenny-omega-and-will-ospreay-earn-top-spots-this-week-but-additional-honorable-mentions-to-mercedes-britt-baker-jack-perry-more/",
+      "t": "5m",
+      "dt": "2026-09-02T18:33:32+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Andrade El Idolo On Why He Left AEW For WWE: 'I Wanted To Work With My Ex-Wife'",
+      "p": "Andrade outlines his decision to return to WWE in 2024 and responds to his own comments about Samoan wrestlers being favored over Mexican talent.",
+      "link": "https://www.wrestlinginc.com/2249764/andrade-el-idolo-aew-wwe-ex-wife-charlotte-flair/",
+      "t": "12m",
+      "dt": "2026-09-02T18:27:03+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "ROH Women's Champion Athena: It's Finally Time For Me To Make AEW Forever As Well",
+      "p": "Ring of Honor Women's World Champion Athena says she's ready to be in AEW full-time, saying \"it's finally time for me to make AEW forever as well\"",
+      "link": "https://www.wrestlinginc.com/2249733/roh-womens-champion-athena-time-to-make-aew-forever/",
+      "t": "32m",
+      "dt": "2026-09-02T18:06:22+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Darby Allin Talks Close-Knit Bond With Steven Borden, Son Of Sting",
+      "p": "In the AEW All In post-show media scrum, new TNT Champion Darby Allin looked back at training Steven Borden and forging a friendship with his mentor's son.",
+      "link": "https://www.wrestlinginc.com/2249691/aew-darby-allin-sting-steven-borden-close-knit-bond/",
+      "t": "1h",
+      "dt": "2026-09-02T17:33:04+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "New Level confirm AEW contracts allow them to wrestle for other promotions",
-      "p": "Just days after signing a contract with AEW, New Level [Kofi & Austin Creed] have shared a major fact about their new deal. Kofi and Creed recently appeared on The Ariel Helwani Show, where they...",
-      "link": "https://www.f4wonline.com/news/aew/new-level-confirm-aew-contracts-allow-them-to-wrestle-for-other-promotions/",
-      "t": "9h",
-      "dt": "2026-09-02T05:00:00+00:00"
+      "h": "New World Champion to kick off AEW Dynamite",
+      "p": "Will Ospreay had his crowning moment at AEW All In 2026 — and an appearance by the new World Champion is set to kick off Dynamite tonight. AEW has announced that we’ll hear from Ospreay to open...",
+      "link": "https://www.f4wonline.com/news/aew/new-world-champion-to-kick-off-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-09-02T17:27:12+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Owen Hart Documentary ‘OWEN’ To Premiere At Film Festivals, Streaming Rights Sold To CRAVE",
+      "p": "A new Owen Hart documentary is set to premiere across the country. The Owen Hart Foundation revealed that a private screening was held for patrons to view the new documentary OWEN in London,...",
+      "link": "https://www.fightful.com/wrestling-news/owen-hart-documentary-owen-to-premiere-at-film-festivals-streaming-rights-sold-to-crave/",
+      "t": "1h",
+      "dt": "2026-09-02T17:26:24+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Maya World On Competing At AEW All In: I Had A Little Taste Of Being In That Main Event PPV, So Now I Want It Now",
+      "p": "Maya World comments on competing at AEW All In, noting that she now wants a taste of being on the main card. At AEW All In this past weekend, Maya would feature on the Buy-In of the show,...",
+      "link": "https://www.fightful.com/wrestling-news/maya-world-on-competing-at-aew-all-in-i-had-a-little-taste-of-being-in-that-main-event-ppv-so-now-i-want-it-now/",
+      "t": "1h",
+      "dt": "2026-09-02T17:24:59+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "POLLOCK vs. LONDON: DAY 6 “LHR -> YYZ”",
-      "p": "It's travel day as John Pollock returns to Toronto. YYZ”\"> The post POLLOCK vs. LONDON: DAY 6 “LHR -> YYZ” appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT NJPW.",
-      "link": "https://www.postwrestling.com/2026/09/01/pollock-vs-london-day-6/",
-      "t": "10h",
-      "dt": "2026-09-02T03:59:04+00:00"
+      "h": "New Owen Hart documentary set to hit film festival circuit",
+      "p": "The Owen Hart Foundation revealed that a new Owen hart documentary titled, \"OWEN,\" is set to hit the film festival circuit. The post New Owen Hart documentary set to hit film festival circuit...",
+      "link": "https://www.postwrestling.com/2026/09/02/new-owen-hart-documentary-set-to-hit-film-festival-circuit/",
+      "t": "1h",
+      "dt": "2026-09-02T17:15:16+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay To Open 9/2 AEW Dynamite",
+      "p": "Will Ospreay is set to kick off the September 2 episode of AEW Dynamite. AEW announced the segment on social media. Ospreay captured the AEW World Title from Kenny Omega in the main event of AEW...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-to-open-9-2-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-09-02T17:11:08+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW ALL IN ON-SITE REPORT (8/30): Zilem’s details on attending at Wembley Stadium, match analysis, stadium observations, media Q&A highlights",
+      "p": "AEW ALL IN: LONDON 2026 ON-SITE REPORT AUGUST 30, 2026 LONDON, U.K. AT WEMBLEY STADIUM REPORT BY BRIAN ZILEM, PWTORCH CONTRIBUTOR For the third time, I had the opportunity to attend AEW All In...",
+      "link": "https://www.pwtorch.com/site/2026/09/02/aew-all-in-on-site-report-8-30-zilems-details-on-attending-at-wembley-stadium-match-analysis-stadium-observations-media-qa-highlights/",
+      "t": "1h",
+      "dt": "2026-09-02T16:55:38+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Athena Names Who She Thinks Would Be The Gaming Champion Of The AEW Locker Room",
+      "p": "Athena has named who she thinks would be the gaming champion of the AEW locker room on the men’s and women’s sides. The AEW roster has been well known for having several names that are gamers,...",
+      "link": "https://www.fightful.com/wrestling-news/athena-names-who-she-thinks-would-be-the-gaming-champion-of-the-aew-locker-room/",
+      "t": "1h",
+      "dt": "2026-09-02T16:50:17+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Athena Says She May Let Mercedes Mone ‘Have A Couple Of Months’ As AEW Women’s World Champion Before She Goes After It",
+      "p": "Athena speaks about Mercedes Mone capturing the AEW Women’s World Championship and whether she will chase the belt. At AEW All In this past weekend, Mercedes Mone would finally capture the AEW...",
+      "link": "https://www.fightful.com/wrestling-news/athena-says-she-may-let-mercedes-mone-have-a-couple-of-months-as-aew-womens-world-champion-before-she-goes-after-it/",
+      "t": "2h",
+      "dt": "2026-09-02T16:28:35+00:00"
     }
   ]
 }

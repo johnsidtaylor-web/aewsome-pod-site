@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-03T18:36:00.189783+00:00",
+  "updated": "2026-09-03T21:41:10.855907+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,83 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Big Vinny V: How AEW could book Steven Borden for All Out",
+      "p": "The events of AEW Dynamite on Wednesday night made one thing clear: Steven Borden’s TV debut is coming sooner, not later. But how exactly might that event unfold? Borden’s appearance on Dynamite...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-how-aew-could-book-steven-borden-for-all-out/",
+      "t": "12m",
+      "dt": "2026-09-03T21:28:45+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW gets new TV deal in Middle East & North Africa region",
+      "p": "While the Middle East is associated mainly with WWE when it comes to pro wrestling, AEW is looking to establish their own presence there with news of a new TV deal in the region. Announced on...",
+      "link": "https://www.f4wonline.com/news/aew/aew-gets-new-tv-deal-middle-east-north-africa-region/",
+      "t": "42m",
+      "dt": "2026-09-03T20:58:47+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: AEW All Out matches, Bronson Reed’s return & Anthony Smith to fight",
+      "p": "Jack Wannan provides a news update, including details on All Out, a WWE name reportedly getting ready to return & the latest on Anthony Smith. Available for Double Double & Espresso members at...",
+      "link": "https://www.postwrestling.com/2026/09/03/post-news-aew-all-out-matches-bronson-reeds-return-anthony-smith-to-fight/",
+      "t": "1h",
+      "dt": "2026-09-03T20:35:35+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: The card for tonight’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/03/roh-on-honorclub-lineup-the-card-for-tonights-show-41/",
+      "t": "1h",
+      "dt": "2026-09-03T20:20:05+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "ASK-A-WAI: Ask Us Anything! (September 2026)",
+      "p": "AEW airing CM Punk/Jack Perry footage, WCW Invasion revisited, Bruiser Brody in the 90s: John Pollock and Wai Ting answer patron questions in the September 2026 Ask-A-Wai. The post ASK-A-WAI: Ask...",
+      "link": "https://www.postwrestling.com/2026/09/03/ask-a-wai-ask-us-anything-september-2026/",
+      "t": "1h",
+      "dt": "2026-09-03T20:16:29+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW, NJPW stars to challenge for CMLL World title at 93rd Aniversario",
+      "p": "A three-way World Championship match with challengers from AEW and NJPW has been added to the card for CMLL’s 93rd Aniversario. CMLL’s annual anniversary spectacular is set to take place at Arena...",
+      "link": "https://www.f4wonline.com/news/mexico/aew-njpw-stars-to-challenge-for-cmll-world-title-at-93rd-aniversario/",
+      "t": "1h",
+      "dt": "2026-09-03T19:52:39+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Shares Thoughts On Possible Will Ospreay-Kenny Omega Rematch In AEW",
+      "p": "Dave Meltzer shares his thoughts on a possible Kenny Omega vs. Will Ospreay rematch in AEW, who will decide whether there is one, and whether it should happen",
+      "link": "https://www.wrestlinginc.com/2250663/aew-dave-meltzer-kenny-omega-will-ospreay-possible-rematch/",
+      "t": "2h",
+      "dt": "2026-09-03T19:31:50+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating (8/29): How did the All In go-home show and countdown special perform?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (8/29): How did the All In go-home show and countdown special perform? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/03/aew-collision-rating-8-29-how-did-the-all-in-go-home-show-and-countdown-special-perform/",
+      "t": "2h",
+      "dt": "2026-09-03T19:22:37+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "WWE Night At Mets vs. Giants On 9/4, AEW Dynamite Highlights, More | Fight Size",
+      "p": "Here is your fight size update for Thursday, September 3, 2026. – WWE Night is coming to the Mets vs. Giants game on Friday, September 4. TJhe first 18,000 fans will be gifted a Francisco Lindor...",
+      "link": "https://www.fightful.com/wrestling-news/fight-size-wwe-night-326348/",
+      "t": "2h",
+      "dt": "2026-09-03T19:00:00+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "General Feeling Is That AEW All In 2027 Will Take Place In North America In Some Form",
       "p": "Early information about AEW All In 2027. Coming off the heels of the 2026 AEW All In event at Wembley Stadium in London, England, WrestleVotes on Fightful Select asked around about the 2027 All In...",
       "link": "https://www.fightful.com/wrestling-news/general-feeling-is-that-aew-all-in-2027-will-take-place-in-north-america-in-some-form/",
-      "t": "9m",
+      "t": "3h",
       "dt": "2026-09-03T18:25:57+00:00"
     },
     {
@@ -24,7 +96,7 @@
       "h": "AEW inks media rights deal with Middle East and North Africa streaming service TOD by beIN",
       "p": "Episodes of AEW Dynamite and Collision will be available in the Middle East and North Africa (MENA) regions via TOD. The post AEW inks media rights deal with Middle East and North Africa streaming...",
       "link": "https://www.postwrestling.com/2026/09/03/aew-inks-rights-deal-with-middle-east-and-north-africa-streaming-service-tod-by-bein/",
-      "t": "23m",
+      "t": "3h",
       "dt": "2026-09-03T18:12:44+00:00"
     },
     {
@@ -32,80 +104,8 @@
       "h": "Kofi Addresses Feelings Toward WWE In Wake Of Departure, AEW All In Debut",
       "p": "Kofi & Austin Creed shocked the wrestling world when they departed WWE earlier this year. Following the debut in AEW, Kofi spoke about his feelings towards WWE.",
       "link": "https://www.wrestlinginc.com/2250532/description-edit-kofi-feelings-wwe-departure-aew-all-in-debut/",
-      "t": "54m",
+      "t": "3h",
       "dt": "2026-09-03T17:41:51+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Thoughts on whether AEW delivered a strong follow-up to All In, Will Ospreay and Mercedes Moné’s first appearance as AEW World Champions",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on whether AEW delivered a strong follow-up to All In, Will Ospreay and Mercedes Moné’s first...",
-      "link": "https://prowrestling.net/site/2026/09/03/powells-aew-dynamite-hit-list-thoughts-on-whether-aew-delivered-a-strong-follow-up-to-all-in-will-ospreay-and-mercedes-mones-first-appearance-as-aew-world-champions/",
-      "t": "58m",
-      "dt": "2026-09-03T17:37:38+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE HITS & MISSES (9/2): What worked and what didn’t with the follow-up to All In including Osrpreay’s promo, Darby’s selling, Tag Team Division, Announce Team, Wayne-Jericho",
-      "p": "What a week it’s been for AEW. All In was spectacular and a show that has given the company a lot of positive attention over the past few days. What an unbelievable opportunity to grab [...]",
-      "link": "https://www.pwtorch.com/site/2026/09/03/aew-dynamite-hits-misses-9-2-what-worked-and-what-didnt-with-the-follow-up-to-all-in-including-osrpreays-promo-darbys-selling-tag-team-division-announce-team-wayne-jericho/",
-      "t": "1h",
-      "dt": "2026-09-03T17:24:11+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report: 8/26/2026",
-      "p": "Just days before their biggest show of the year in All In, AEW did strong viewership numbers for their go-home edition of Dynamite in Glasgow, Scotland",
-      "link": "https://www.wrestlinginc.com/2250499/aew-dynamite-viewership-ratings-august-26-2026/",
-      "t": "1h",
-      "dt": "2026-09-03T17:17:53+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Persephone, Andrade to defend titles as part of busy 9/5 AEW Collision",
-      "p": "Two title matchups, plus the AEW in-ring debut of MCMG have been confirmed for Saturday's episode of Collision. The post Persephone, Andrade to defend titles as part of busy 9/5 AEW Collision...",
-      "link": "https://www.postwrestling.com/2026/09/03/persephone-andrade-to-defend-titles-as-part-of-busy-9-5-aew-collision/",
-      "t": "1h",
-      "dt": "2026-09-03T16:48:29+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW All Out lineup: AEW World Championship match set for the next pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: AEW World Championship match set for the next pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/03/aew-all-out-lineup-aew-world-championship-match-set-for-the-next-pay-per-view-event/",
-      "t": "2h",
-      "dt": "2026-09-03T16:10:12+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Speculates On AEW Creative Plans For Will Ospreay & Andrade",
-      "p": "Andrade won the Casino Gauntlet match at AEW All In 2026 to become the Number One contender for the Men's World Championship, but isn't the first challenger.",
-      "link": "https://www.wrestlinginc.com/2250359/aew-dave-meltzer-will-ospreay-andrade-speculates-creative-plans/",
-      "t": "3h",
-      "dt": "2026-09-03T15:22:20+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Jim Ross hopes he can return to commentary in time for AEW All Out",
-      "p": "Following a successful brain surgery last month, Jim Ross is hoping to return to broadcasting at AEW All Out. The post Jim Ross hopes he can return to commentary in time for AEW All Out appeared...",
-      "link": "https://www.postwrestling.com/2026/09/03/jim-ross-hopes-he-can-return-to-commentary-in-time-for-aew-all-out/",
-      "t": "3h",
-      "dt": "2026-09-03T14:57:56+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jim Ross sets target date for AEW commentary return",
-      "p": "He wasn’t able to make it to London for All In, but Jim Ross hopes that his AEW commentary return is only a few weeks away. Ross underwent successful brain surgery on August 12, and doctors...",
-      "link": "https://www.f4wonline.com/news/aew/jim-ross-sets-target-date-for-aew-commentary-return/",
-      "t": "4h",
-      "dt": "2026-09-03T14:34:59+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Austin Creed Talks Being Announced By His Original Wrestling Name At AEW All In 2026",
-      "p": "Former WWE star Austin Creed has detailed how hearing the announcer call his original ring name at AEW's All In pay-per-view was an emotional moment for him.",
-      "link": "https://www.wrestlinginc.com/2250118/awesome-austin-creed-announced-original-name-aew-all-in-2026-debut-kofi/",
-      "t": "5h",
-      "dt": "2026-09-03T13:30:00+00:00"
     }
   ]
 }

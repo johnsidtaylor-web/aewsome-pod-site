@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-02T21:47:11.578993+00:00",
+  "updated": "2026-09-03T00:12:27.190382+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -12,11 +12,91 @@
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE RESULTS (9/2): Keller’s report on Ospreay addressing AEW Title win, Mercedes celebrating her AEW Title win, The New Level & Swerve vs. The Rascalz",
+      "p": "AEW DYNAMITE REPORT SEPTEMBER 2, 2026 ALLEN, TEX. AT CREDIT UNION OF TEXAS EVENT CENTER AIRED ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Paul...",
+      "link": "https://www.pwtorch.com/site/2026/09/02/aew-dynamite-report-september-2-2026-allen-tex-at-credit-union-of-texas-event-center-aired-on-tbs-hbo-max-report-by-wade-keller-pwtorch-editor-commentators-excalibur-tony-schiavone/",
+      "t": "20m",
+      "dt": "2026-09-02T23:52:19+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "HOOK To Face TJP At HOG Fallout",
+      "p": "HOOK is coming to House of Glory to face TJP at HOG Fallout on September 4. From HOG: HOOK VS. TJP SET FOR HOG FALLOUT IN LOS ANGELES THIS FRIDAY AEW Star Hook Collides With TJP for the First Time...",
+      "link": "https://www.fightful.com/wrestling-news/hook-to-face-tjp-at-hog-fallout/",
+      "t": "33m",
+      "dt": "2026-09-02T23:38:21+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite results (9/2): Barnett’s review of the first appearances of new AEW world champions Will Ospreay and Mercedes Mone, Swerve Strickland, Kofi, and Austin Creed vs. The Rascalz for the AEW Trios Titles",
+      "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post AEW Dynamite results (9/2): Barnett’s review of the first appearances of new AEW world champions Will Ospreay and Mercedes Mone, Swerve...",
+      "link": "https://prowrestling.net/site/2026/09/02/aew-dynamite-results-9-2-barnetts-review-of-the-first-appearances-of-new-aew-world-champions-will-ospreay-and-mercedes-mone-swerve-strickland-kofi-and-austin-creed-vs-the-rascalz-for-the-aew/",
+      "t": "42m",
+      "dt": "2026-09-02T23:30:12+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite live results: The fallout from All In",
+      "p": "Days after a historic All In from Wembley Stadium, AEW gets back to business as usual on tonight’s live Dynamite from Allen, Texas. Following his title win over Kenny Omega, new AEW World Champion...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-all-in-2026-fallout-new-level/",
+      "t": "42m",
+      "dt": "2026-09-02T23:30:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP NEWSLETTER – PRO WRESTLING TORCH #1984 (Sept. 2, 2026): Keller’s AEW All In PPV Report, All In Roundtable Reviews, Parks column on what’s next for Ospreay and Mercedes",
+      "p": "PWTorch Newsletter #1984 Cover-dated September 2, 2026 LINK: 1984 PWTorch Newsletter PDF –LIST OF ALL LATEST NEWSLETTERS –CLICK HERE FOR DIRECTORY OF ALL PAST NEWSLETTERS BY YEAR SUMMARY: This...",
+      "link": "https://www.pwtorch.com/site/2026/09/02/vip-newsletter-pro-wrestling-torch-1984-sept-2-2026-kellers-aew-all-in-ppv-report-all-in-roundtable-reviews-parks-column-on-whats-next-for-ospreay-and-mercedes/",
+      "t": "42m",
+      "dt": "2026-09-02T23:29:27+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Results (9/2/2026): Swerve Strickland & New Level vs. Rascalz, Will Ospreay, Mercedes Moné, More",
+      "p": "Full results for the September 2, 2026, edition of AEW Dynamite on TBS live from the Credit Union of Texas Event Center in Allen, Texas. On September 2, 2026, All Elite Wrestling hosted a new...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-9-2-2026-swerve-strickland-new-level-vs-rascalz-will-ospreay-mercedes-mone-more/",
+      "t": "57m",
+      "dt": "2026-09-02T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Results 9/2 - AEW World Trios Championship Up For Grabs & More",
+      "p": "This is Wrestling Inc.'s coverage for \"AEW Dynamite\" on September 2, with New Level & Swerve Strickland defending their newly won AEW World Trios Championship!",
+      "link": "https://www.wrestlinginc.com/2249230/aew-dynamite-september-2-aew-world-trios-championship-up-for-grabs-more/",
+      "t": "1h",
+      "dt": "2026-09-02T23:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Maya World Throws Out First Pitch At Texas Rangers Game, Calls Out Britt Baker",
+      "p": "Maya World returned to Texas on Tuesday, throwing out the first pitch at the Texas Rangers game. Maya lost the AEW TBS Championship to Persephone at AEW All In thanks to interference by a...",
+      "link": "https://www.fightful.com/wrestling-news/maya-world-throws-out-first-pitch-at-texas-rangers-game-calls-out-britt-baker/",
+      "t": "1h",
+      "dt": "2026-09-02T22:48:09+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Grayson Waller Comments On WWE Main Roster Run Alongside AEW's Kofi And Austin Creed",
+      "p": "NXT Champion Grayson Waller commented on his WWE main roster run alongside the now-former New Day, new AEW stars Kofi and Austin Creed.",
+      "link": "https://www.wrestlinginc.com/2250019/grayson-waller-wwe-main-roster-aew-kofi-austin-creed/",
+      "t": "1h",
+      "dt": "2026-09-02T22:43:58+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Report On How CMLL Views AEW's Claudio Castagnoli",
+      "p": "Dave Meltzer provides a backstage report on how positively CMLL views AEW star and former CMLL World Heavyweight Champion Claudio Castagnoli",
+      "link": "https://www.wrestlinginc.com/2249993/aew-claudio-castagnoli-cmll-views/",
+      "t": "2h",
+      "dt": "2026-09-02T21:52:01+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Kofi Talks Unfair WWE Terms, AEW Tag Division As Motivators For Switching Promotions",
       "p": "AEW World Trios Champion Kofi talked about the terms brought to the now-New Level by WWE, and how the AEW tag division was a motivator for them.",
       "link": "https://www.wrestlinginc.com/2249982/kofi-unfair-wwe-terms-aew-tag-division/",
-      "t": "10m",
+      "t": "2h",
       "dt": "2026-09-02T21:36:10+00:00"
     },
     {
@@ -24,88 +104,8 @@
       "h": "Big Vinny V: Mercedes Mone, Willow Nightingale, and the best women’s matches ever",
       "p": "Mercedes Mone and Willow Nightingale stole the show at AEW All In London … until Kenny Omega and Will Ospreay stole it away from them. They may not have had the best match of the night, but where...",
       "link": "https://www.f4wonline.com/opinion/big-vinny-v-mercedes-mone-willow-nightingale-and-the-best-womens-matches-ever/",
-      "t": "12m",
+      "t": "2h",
       "dt": "2026-09-02T21:35:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW All In poll results for best match and overall grade",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All In poll results for best match and overall grade appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/02/aew-all-in-poll-results-for-best-match-and-overall-grade-3/",
-      "t": "17m",
-      "dt": "2026-09-02T21:30:08+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ric Flair: Comparing Kenny Omega & Will Ospreay To Ricky Steamboat & I Is Like Comparing The Mississippi River To The Pacific Ocean",
-      "p": "Ric Flair has a take on Kenny Omega vs. Will Ospreay. Fans have continued to rave about Omega and Ospreay’s match with AEW All In, with some saying that it is the best wrestling match of all time....",
-      "link": "https://www.fightful.com/wrestling-news/ric-flair-comparing-kenny-omega-will-ospreay-to-ricky-steamboat-i-is-like-comparing-the-mississippi-river-to-the-pacific-ocean/",
-      "t": "17m",
-      "dt": "2026-09-02T21:29:08+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Rev Pro 14th Anniversary results: Vetter’s review of Michael Oku vs. Connor Mills for the Undisputed British Title, Cowboy Way vs. FTR for the Undisputed British Tag Team Titles, a Will Ospreay match",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post Rev Pro 14th Anniversary results: Vetter’s review of Michael Oku vs. Connor Mills for the Undisputed British Title, Cowboy Way vs. FTR for...",
-      "link": "https://prowrestling.net/site/2026/09/02/rev-pro-14th-anniversary-results-vetters-review-of-michael-oku-vs-connor-mills-for-the-undisputed-british-title-cowboy-way-vs-ftr-for-the-undisputed-british-tag-team-titles-a-will-ospreay-match/",
-      "t": "1h",
-      "dt": "2026-09-02T20:30:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Swerve Strickland: Athena Is My Favorite Women’s Wrestler Right Now",
-      "p": "Swerve Strickland shows some love to women’s wrestling. Strickland has never been shy when it comes to giving people their flowers. In a new interview with Black Couch Wrestling, the ‘Mogul’ was...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-athena-is-my-favorite-womens-wrestler-right-now/",
-      "t": "1h",
-      "dt": "2026-09-02T20:26:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Owen Hart documentary headed to film festival circuit, Crave streaming service",
-      "p": "A new documentary on Owen Hart has screened recently and is set to hit the film festival circuit soon. On Monday, the Owen Hart Foundation’s official Facebook page posted photos of Dr. Martha...",
-      "link": "https://www.f4wonline.com/news/aew/owen-hart-documentary-headed-to-film-festival-circuit-crave-streaming-service/",
-      "t": "1h",
-      "dt": "2026-09-02T20:23:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Ric Flair reacts to Kenny Omega vs. Will Ospreay comparisons",
-      "p": "Ric Flair is a fan of Kenny Omega and Will Ospreay but doesn’t want to see their AEW All In 2026 main event compared to the matches he used to have against Ricky Steamboat. Those comparisons...",
-      "link": "https://www.f4wonline.com/news/aew/ric-flair-reacts-to-kenny-omega-vs-will-ospreay-comparisons/",
-      "t": "1h",
-      "dt": "2026-09-02T20:06:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Swerve Strickland: I Can Never Replace Big E, But We Can Do Something New That Moves Forward Instead Of Looking Backwards",
-      "p": "Swerve Strickland comments on his alliance with New Level. Strickland surprised fans around the world when he formed a trio with Austin Creed and Kofi at AEW All In. The surprise continued when...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-i-can-never-replace-big-e-but-we-can-do-something-new-that-moves-forward-instead-of-looking-backwards/",
-      "t": "1h",
-      "dt": "2026-09-02T20:03:39+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The All In London fallout edition",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The All In London fallout edition appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/02/aew-dynamite-preview-the-all-in-london-fallout-edition-2/",
-      "t": "2h",
-      "dt": "2026-09-02T19:18:56+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Austin Creed Comments On Swerve Strickland Breaking Into Adam Page’s House: Swerve Gonna Swerve",
-      "p": "Austin Creed doesn’t seem to mind the dangerous nature of Swerve Strickland. They might be AEW World Trios Champions for now, but some have pointed out that New Level and Swerve Strickland have...",
-      "link": "https://www.fightful.com/wrestling-news/austin-creed-comments-on-swerve-strickland-breaking-into-adam-pages-house-swerve-gonna-swerve/",
-      "t": "2h",
-      "dt": "2026-09-02T19:00:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FEUD TRACKER: Barber’s assessment of the biggest happenings at AEW All In with Omega-Ospreay and Nightingale-Mercedes, plus Sting, The New Level, Britt Baker, Christian, more",
-      "p": "INTRO There’s a new era in AEW. Will Ospreay is the AEW World Champion and thus the standard bearer. He’s got no shortage of possible challengers. Andrade won the Casino Gauntlet contract for a...",
-      "link": "https://www.pwtorch.com/site/2026/09/02/feud-tracker-barbers-assessment-of-the-biggest-happenings-at-aew-all-in-with-omega-ospreay-and-nightingale-mercedes-plus-sting-the-new-level-britt-baker-christian-more/",
-      "t": "3h",
-      "dt": "2026-09-02T18:39:57+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-03T09:44:29.391519+00:00",
+  "updated": "2026-09-03T14:31:35.197984+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,67 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Swerve Strickland: I Wouldn’t Have Learned 60% Of What I’ve Learned In This Industry If It Wasn’t For AR Fox",
+      "p": "Swerve Strickland gives props to AR Fox. When you’re talking about the history of either Swerve Strickland or AR Fox, you will eventually have to bring up the other name. Aside from sharing the...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-ar-fox/",
+      "t": "31m",
+      "dt": "2026-09-03T14:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Austin Creed Talks Being Announced By His Original Wrestling Name At AEW All In 2026",
+      "p": "Former WWE star Austin Creed has detailed how hearing the announcer call his original ring name at AEW's All In pay-per-view was an emotional moment for him.",
+      "link": "https://www.wrestlinginc.com/2250118/awesome-austin-creed-announced-original-name-aew-all-in-2026-debut-kofi/",
+      "t": "1h",
+      "dt": "2026-09-03T13:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Pay cut WWE offered New Level rumored to have been 75 percent",
+      "p": "The pay cut WWE offered Kofi Kingston & Xavier Woods is rumored to have been as high as 75 percent. While making the media rounds after their AEW debut, the former New Day members confirmed that...",
+      "link": "https://www.f4wonline.com/news/aew/pay-cut-wwe-offered-new-level-rumored-to-have-been-75-percent/",
+      "t": "1h",
+      "dt": "2026-09-03T13:02:49+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: TBS Title match, MCMG in action, and more set for Saturday’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: TBS Title match, MCMG in action, and more set for Saturday’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/03/aew-collision-lineup-tbs-title-match-mcmg-in-action-and-more-set-for-saturdays-show/",
+      "t": "1h",
+      "dt": "2026-09-03T13:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kofi Kingston reveals Prince Nana influenced his original WWE character",
+      "p": "Just days after making his AEW debut and winning the World Trios Championship, Kofi Kingston opened up about how Prince Nana influenced his WWE career. Over a decade ago, in 2006, Kofi signed up...",
+      "link": "https://www.f4wonline.com/news/wwe/kofi-kingston-reveals-prince-nana-influenced-his-original-wwe-character/",
+      "t": "2h",
+      "dt": "2026-09-03T12:23:13+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Bryan Alvarez’s AEW Dynamite September 2 report for subscribers",
+      "p": "Bryan Alvarez’s report on this week’s edition of AEW Dynamite is now available for subscribers.",
+      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-september-2-report-for-subscribers/",
+      "t": "2h",
+      "dt": "2026-09-03T12:21:22+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW All Out 2026 ticket sales update following this week’s Dynamite (09/03/2026)",
+      "p": "AEW All Out 2026 is set to take place on Saturday, September 26 from the NOW Arena in Hoffman Estates, Illinois. According to the latest update from WrestleTix, 7,131 tickets have been distributed...",
+      "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-ticket-sales-update-09-03-2026/",
+      "t": "4h",
+      "dt": "2026-09-03T09:56:35+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Former WWE performer returns to MyAEW PPV on Friday",
       "p": "Former WWE performer, WWE Women’s Tag Team Champion, NXT UK Women’s Champion and NXT Women’s Tag Team Champion Kay Lee Ray/Alba Fyre will be returning to MyAEW PPV this Friday. KLR will be facing...",
       "link": "https://www.f4wonline.com/news/aew/kay-lee-ray-myaew-ppv-pro-wrestling-eve-mean-grrrls/",
-      "t": "2m",
+      "t": "4h",
       "dt": "2026-09-03T09:42:16+00:00"
     },
     {
@@ -24,88 +80,32 @@
       "h": "WOR: Post-All In Dynamite, Crown Jewel top matches, CMLL, more!",
       "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including a full recap of the post-All In edition of Dynamite with matches being made for All Out,...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wol-post-all-in-dynamite-crown-jewel-top-matches-cmll-more/",
-      "t": "48m",
+      "t": "5h",
       "dt": "2026-09-03T08:56:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Swerve Strickland says he can ‘never replace Big E’ in AEW trio",
-      "p": "Despite their new partnership at AEW All In 2026, Swerve Strickland doesn’t believe he can replace Big E in AEW’s New Level. At AEW All In 2026, Kofi and Austin Creed made their surprising AEW...",
-      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-says-he-can-never-replace-big-e-in-aew-trio/",
-      "t": "1h",
-      "dt": "2026-09-03T08:00:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 9/2 – WKPWP after Dynamite: Keller & Kline discuss Ospreay’s first week as AEW World Champ, Max as first challenge, The New Level, Mercedes-Thekla, Darby-Davis, more (120 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Dennis Kline to review AEW Dynamite with an early focus on how Will Ospreay did his first week as champion with his promo and also...",
       "link": "https://www.pwtorch.com/site/2026/09/03/free-podcast-9-2-wkpwp-after-dynamite-keller-kline-discuss-ospreays-first-week-as-aew-world-champ-max-as-first-challenge-the-new-level-mercedes-thekla-darby-davis-more-120-min/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-09-03T06:30:44+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision spoilers from Allen, Texas",
-      "p": "The following are spoilers for this Saturday’s AEW Collision, filmed Wednesday at the Credit Union of Texas Event Center in Allen, Texas, after the September 2, 2026 episode of Dynamite went off...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-spoilers-from-allen-texas/",
-      "t": "3h",
-      "dt": "2026-09-03T05:45:31+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 9/2 – WKH – AEW Dynamite: Ospreay vs. Moxley set, Ospreay’s celebration promo, Mercedes’s celebration promo, Darby vs. Davis for TNT Title, The New Level’s Dynamite debut (28 min.)",
       "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the September 2 episode of AEW Dynamite start to finish including Will Ospreay’s first week as AEW...",
       "link": "https://www.pwtorch.com/site/2026/09/03/vip-podcast-9-2-wkh-aew-dynamite-ospreay-vs-moxley-set-ospreays-celebration-promo-mercedess-celebration-promo-darby-vs-davis-for-tnt-title-the-new-levels-dynamite-debut-28-min/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-09-03T05:23:26+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Athena sets goal of surpassing Hulk Hogan’s championship reign",
-      "p": "Already the longest-reigning ROH Women’s World Champion, Athena now wants to surpass Hulk Hogan’s title reign. Athena has been the ROH Women’s World Champion for almost 1363 days and now hopes to...",
-      "link": "https://www.f4wonline.com/news/aew/athena-sets-goal-of-surpassing-hulk-hogans-championship-reign/",
-      "t": "4h",
-      "dt": "2026-09-03T05:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "09/02 Barnett’s AEW Dynamite audio review: All In fallout show with new world champions Will Ospreay and Mercedes Mone, Swerve Strickland, Kofi, and Austin Creed vs. The Rascalz for the AEW Trios Titles",
       "p": "By Jake Barnett, ProWrestling.net Co-Senior... The post 09/02 Barnett’s AEW Dynamite audio review: All In fallout show with new world champions Will Ospreay and Mercedes Mone, Swerve Strickland,...",
       "link": "https://prowrestling.net/site/2026/09/02/09-02-barnetts-aew-dynamite-audio-review-all-in-fallout-show-with-new-world-champions-will-ospreay-and-mercedes-mone-swerve-strickland-kofi-and-austin-creed-vs-the-rascalz-for-the-aew-trios-tit/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-09-03T04:51:57+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Swerve Strickland says WWE’s Bianca Belair still has ‘so much more to give’",
-      "p": "Despite no confirmed update on Bianca Belair’s WWE return, AEW star Swerve Strickland is hopeful and believes Belair still has so much more to contribute. Last year at WWE WrestleMania 41, Belair...",
-      "link": "https://www.f4wonline.com/news/wwe/swerve-strickland-says-wwes-bianca-belair-still-has-so-much-more-to-give/",
-      "t": "5h",
-      "dt": "2026-09-03T04:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite 9/2/2026: 3 Things We Hated & 3 Things We Loved",
-      "p": "Tonight's \"AEW Dynamite\" featured plenty of emphasis on Will Ospreay, including the reveal of his first pay-per-view challenger.",
-      "link": "https://www.wrestlinginc.com/2250092/aew-dynamite-september-2-2026-hated-loved-opinion-review/",
-      "t": "6h",
-      "dt": "2026-09-03T03:43:26+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 9/2 – WKPWP Flagship from 5 Yrs Ago: Keller & Powell talk Adam Cole’s AEW prospects, Lesnar, Becky, AEW All Out preview, Punk’s trajectory, Happy Corbin, weird Raw, more (151 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Podcast “Flagship” episode (8-31-2021), PWTorch editor Wade Keller and Jason Powell from ProWrestling.net....",
-      "link": "https://www.pwtorch.com/site/2026/09/02/free-podcast-9-2-wkpwp-flagship-from-5-yrs-ago-keller-powell-talk-adam-coles-aew-prospects-lesnar-becky-aew-all-out-preview-punks-trajectory-happy-corbin-weird-raw/",
-      "t": "6h",
-      "dt": "2026-09-03T03:00:15+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay To Defend Against Jon Moxley At AEW All Out 2026",
-      "p": "Will Ospreay and Jon Moxley found out they would be facing one another for the AEW World Championship at All Out.",
-      "link": "https://www.wrestlinginc.com/2250080/aew-all-out-2026-will-ospreay-jon-moxley-defend/",
-      "t": "7h",
-      "dt": "2026-09-03T02:39:15+00:00"
     }
   ]
 }

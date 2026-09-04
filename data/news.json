@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-04T14:19:13.147929+00:00",
+  "updated": "2026-09-04T18:21:40.827892+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "Wrestling Inc",
-      "h": "Austin Creed Comments On First AEW Trios Title Defense On Dynamite, Puts Over Rascalz",
-      "p": "Austin Creed has praised his most recent opponents, The Rascalz, following The New Level's clash with them on this past week's AEW Dynamite.",
-      "link": "https://www.wrestlinginc.com/2250896/austin-creed-first-aew-trios-title-defense-dynamite-rascalz/",
+      "h": "Jeff Jarrett Says This AEW Babyface Has A 'Unique' Charisma",
+      "p": "Jeff Jarrett is a third-generation wrestler and can spot a babyface a mile away. He believes this AEW babyface has a \"unique\" charisma.",
+      "link": "https://www.wrestlinginc.com/2251346/aew-jeff-jarrett-willow-nightingale-unique-charisma/",
+      "t": "15m",
+      "dt": "2026-09-04T18:05:44+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW granted extension to serve Ryan Nemeth in ongoing case",
+      "p": "AEW has requested additional time to serve Ryan Nemeth after failing to do so in its ongoing case with its former wrestler. The post AEW granted extension to serve Ryan Nemeth in ongoing case...",
+      "link": "https://www.postwrestling.com/2026/09/04/aew-granted-extension-to-serve-ryan-nemeth-in-ongoing-case/",
+      "t": "26m",
+      "dt": "2026-09-04T17:55:34+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Calls AEW All In Contest 'Probably The Second Best Match I've Ever Seen'",
+      "p": "Dave Meltzer gives out one of the highest ratings for a match in his journalism career after watching AEW All In: London.",
+      "link": "https://www.wrestlinginc.com/2251320/dave-meltzer-aew-all-in-2026-kenny-omega-will-ospreay-second-best-match/",
+      "t": "42m",
+      "dt": "2026-09-04T17:39:11+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Asks For More Time To Serve Ryan Nemeth In Lawsuit, Believe He Is Evading Being Served",
+      "p": "New details on the AEW-Ryan Nemeth lawsuit. According to Brandon Thurston of Wrestlenomics, AEW asked for more time to serve Ryan Nemeth. AEW believes he’s evading being served. Magistrate Judge...",
+      "link": "https://www.fightful.com/wrestling-news/aew-asks-for-more-time-to-serve-ryan-nemeth-in-lawsuit-believe-he-is-evading-being-served/",
       "t": "49m",
-      "dt": "2026-09-04T13:30:00+00:00"
+      "dt": "2026-09-04T17:31:43+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Will Ospreay’s first night as AEW Men’s World Champion, All Out’s Main Event, New Level’s TV debut, and Mark Davis vs. Darby Allin",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Will Ospreay’s first night as AEW Men’s World Champion, All Out’s Main Event, New Level’s TV...",
+      "link": "https://prowrestling.net/site/2026/09/04/pruetts-pause-10-thoughts-on-aew-dynamite-will-ospreays-first-night-as-aew-mens-world-champion-all-outs-main-event-new-levels-tv-debut-and-mark-davis/",
+      "t": "51m",
+      "dt": "2026-09-04T17:30:38+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Will Ospreay Details Severity Of 'Scary' Neck Injury & His Road To Recovery",
-      "p": "Will Ospreay detailed the severity of his neck injury, and his road to recovery, ahead of winning the AEW World Championship at AEW All In: London 2026.",
-      "link": "https://www.wrestlinginc.com/2248177/aew-will-ospreay-severity-scary-neck-injury-road-recovery/",
+      "h": "Will Ospreay & Kenny Omega Reportedly Heavily Involved In Their AEW All In Entrances",
+      "p": "Will Ospreay and Kenny Omega had very personal entrances for their main event match at AEW All In 2026 and were reportedly each heavily involved.",
+      "link": "https://www.wrestlinginc.com/2251297/will-ospreay-kenny-omega-aew-all-in-2026-entrances/",
       "t": "1h",
-      "dt": "2026-09-04T12:30:00+00:00"
+      "dt": "2026-09-04T17:20:10+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Will Ospreay Breaks Down 'Mind-Blowing' AEW All In Entrance",
-      "p": "New AEW Men's World Champion Will Ospreay breaks down his memorable entrance at AEW All In, which Ospreay himself referred to as mind blowing",
-      "link": "https://www.wrestlinginc.com/2248122/aew-all-in-london-2026-will-ospreay-entrance-mind-blowing/",
-      "t": "13h",
-      "dt": "2026-09-04T01:00:00+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW All In London Data & Analysis | Pollock & Thurston",
-      "p": "John Pollock and Brandon Thurston review the data for AEW All In London, how it performed, and where it ranks among the company’s events. The post AEW All In London Data & Analysis | Pollock &...",
-      "link": "https://www.postwrestling.com/2026/09/03/aew-all-in-london-data-analysis-pollock-thurston-live-at-830-p-m-et/",
-      "t": "14h",
-      "dt": "2026-09-04T00:00:05+00:00"
+      "h": "AEW's Swerve Strickland Talks Joining Up With New Level & Big E's Absence",
+      "p": "Swerve Strickland opens up about the process, both backstage and on-screen, of bringing Austin Creed and Kofi into AEW as his new allies.",
+      "link": "https://www.wrestlinginc.com/2251200/aew-swerve-strickland-big-e-new-level-joining-absence/",
+      "t": "2h",
+      "dt": "2026-09-04T16:12:39+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Kofi & Austin Creed Say WWE's Big E & Peter Rosenberg Helped With AEW New Level Theme",
-      "p": "AEW's Kofi and Austin Creed explain how a complicated game of telephone that included WWE's Big E and Peter Rosenberg helped them secure their new theme song.",
-      "link": "https://www.wrestlinginc.com/2250802/kofi-austin-creed-wwe-big-e-peter-rosenberg-aew-new-level-theme/",
-      "t": "15h",
-      "dt": "2026-09-03T22:20:44+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: AEW All Out matches, Bronson Reed’s return & Anthony Smith to fight",
-      "p": "Jack Wannan provides a news update, including details on All Out, a WWE name reportedly getting ready to return & the latest on Anthony Smith. Available for Double Double & Espresso members at...",
-      "link": "https://www.postwrestling.com/2026/09/03/post-news-aew-all-out-matches-bronson-reeds-return-anthony-smith-to-fight/",
-      "t": "17h",
-      "dt": "2026-09-03T20:35:35+00:00"
+      "h": "Backstage Report On Whether AEW All In Will Return To Wembley Stadium In 2027",
+      "p": "AEW All In 2026 was the promotion's first event at Wembley Stadium in two years after All In 2025 emanated from Globe Life Field in Arlington, Texas.",
+      "link": "https://www.wrestlinginc.com/2251171/aew-all-in-return-wembley-stadium-2027/",
+      "t": "2h",
+      "dt": "2026-09-04T15:59:11+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "ROH on HonorClub lineup: The card for tonight’s show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/03/roh-on-honorclub-lineup-the-card-for-tonights-show-41/",
-      "t": "17h",
-      "dt": "2026-09-03T20:20:05+00:00"
+      "h": "ROH on HonorClub results (9/3): Bandido vs. The Beast Mortos for the ROH Championship, Mistico and Mascara Dorada vs. RPG Vice for the ROH Tag Team Titles",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (9/3): Bandido vs. The Beast Mortos for the ROH Championship, Mistico and Mascara Dorada vs. RPG Vice for the ROH Tag...",
+      "link": "https://prowrestling.net/site/2026/09/04/roh-on-honorclub-results-9-3-bandido-vs-the-beast-mortos-for-the-roh-championship-mistico-and-mascara-dorada-vs-rpg-vice-for-the-roh-tag-team-titles/",
+      "t": "2h",
+      "dt": "2026-09-04T15:45:17+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "ASK-A-WAI: Ask Us Anything! (September 2026)",
-      "p": "AEW airing CM Punk/Jack Perry footage, WCW Invasion revisited, Bruiser Brody in the 90s: John Pollock and Wai Ting answer patron questions in the September 2026 Ask-A-Wai. The post ASK-A-WAI: Ask...",
-      "link": "https://www.postwrestling.com/2026/09/03/ask-a-wai-ask-us-anything-september-2026/",
-      "t": "18h",
-      "dt": "2026-09-03T20:16:29+00:00"
+      "h": "Report: AEW All In London could end up as company’s most-purchased pay-per-view",
+      "p": "An early estimate from the Wrestling Observer Newsletter suggests that All In London could end up being the company’s most-purchased event. The post Report: AEW All In London could end up as...",
+      "link": "https://www.postwrestling.com/2026/09/04/report-aew-all-in-london-could-end-up-as-companys-most-purchased-pay-per-view/",
+      "t": "3h",
+      "dt": "2026-09-04T14:25:40+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Shares Thoughts On Possible Will Ospreay-Kenny Omega Rematch In AEW",
-      "p": "Dave Meltzer shares his thoughts on a possible Kenny Omega vs. Will Ospreay rematch in AEW, who will decide whether there is one, and whether it should happen",
-      "link": "https://www.wrestlinginc.com/2250663/aew-dave-meltzer-kenny-omega-will-ospreay-possible-rematch/",
-      "t": "18h",
-      "dt": "2026-09-03T19:31:50+00:00"
+      "src": "Fightful",
+      "h": "Report: AEW All In Did In The Range Of 210,000 – 230,000 PPV Buys",
+      "p": "The reported numbers for AEW All In. According to Dave Meltzer of the Wrestling Observer, All In did “in the range of 210,000 – 230,000 PPV Buys.” This would be the highest All Elite Wrestling...",
+      "link": "https://www.fightful.com/wrestling-news/report-aew-all-in-did-in-the-range-of-210000-230000-ppv-buys/",
+      "t": "4h",
+      "dt": "2026-09-04T14:10:53+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision rating (8/29): How did the All In go-home show and countdown special perform?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (8/29): How did the All In go-home show and countdown special perform? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/03/aew-collision-rating-8-29-how-did-the-all-in-go-home-show-and-countdown-special-perform/",
-      "t": "18h",
-      "dt": "2026-09-03T19:22:37+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW inks media rights deal with Middle East and North Africa streaming service TOD by beIN",
-      "p": "Episodes of AEW Dynamite and Collision will be available in the Middle East and North Africa (MENA) regions via TOD. The post AEW inks media rights deal with Middle East and North Africa streaming...",
-      "link": "https://www.postwrestling.com/2026/09/03/aew-inks-rights-deal-with-middle-east-and-north-africa-streaming-service-tod-by-bein/",
-      "t": "20h",
-      "dt": "2026-09-03T18:12:44+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kofi Addresses Feelings Toward WWE In Wake Of Departure, AEW All In Debut",
-      "p": "Kofi & Austin Creed shocked the wrestling world when they departed WWE earlier this year. Following the debut in AEW, Kofi spoke about his feelings towards WWE.",
-      "link": "https://www.wrestlinginc.com/2250532/description-edit-kofi-feelings-wwe-departure-aew-all-in-debut/",
-      "t": "20h",
-      "dt": "2026-09-03T17:41:51+00:00"
+      "src": "Wrestling Observer",
+      "h": "AEW All In 2026 pay-per-view buys could set company record | Exclusive",
+      "p": "All In 2026 was a critical success — and the show could also end up becoming the most-bought PPV in AEW history. The current pay-per-view buy record for AEW stands at 215,000 for All Out 2021, an...",
+      "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-pay-per-view-buys-could-set-company-record-exclusive/",
+      "t": "4h",
+      "dt": "2026-09-04T13:39:40+00:00"
     }
   ]
 }

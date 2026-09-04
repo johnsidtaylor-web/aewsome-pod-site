@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-04T18:21:40.827892+00:00",
+  "updated": "2026-09-04T21:25:55.348873+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "Wrestling Inc",
-      "h": "Jeff Jarrett Says This AEW Babyface Has A 'Unique' Charisma",
-      "p": "Jeff Jarrett is a third-generation wrestler and can spot a babyface a mile away. He believes this AEW babyface has a \"unique\" charisma.",
-      "link": "https://www.wrestlinginc.com/2251346/aew-jeff-jarrett-willow-nightingale-unique-charisma/",
-      "t": "15m",
-      "dt": "2026-09-04T18:05:44+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW granted extension to serve Ryan Nemeth in ongoing case",
-      "p": "AEW has requested additional time to serve Ryan Nemeth after failing to do so in its ongoing case with its former wrestler. The post AEW granted extension to serve Ryan Nemeth in ongoing case...",
-      "link": "https://www.postwrestling.com/2026/09/04/aew-granted-extension-to-serve-ryan-nemeth-in-ongoing-case/",
-      "t": "26m",
-      "dt": "2026-09-04T17:55:34+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Calls AEW All In Contest 'Probably The Second Best Match I've Ever Seen'",
-      "p": "Dave Meltzer gives out one of the highest ratings for a match in his journalism career after watching AEW All In: London.",
-      "link": "https://www.wrestlinginc.com/2251320/dave-meltzer-aew-all-in-2026-kenny-omega-will-ospreay-second-best-match/",
-      "t": "42m",
-      "dt": "2026-09-04T17:39:11+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Asks For More Time To Serve Ryan Nemeth In Lawsuit, Believe He Is Evading Being Served",
-      "p": "New details on the AEW-Ryan Nemeth lawsuit. According to Brandon Thurston of Wrestlenomics, AEW asked for more time to serve Ryan Nemeth. AEW believes he’s evading being served. Magistrate Judge...",
-      "link": "https://www.fightful.com/wrestling-news/aew-asks-for-more-time-to-serve-ryan-nemeth-in-lawsuit-believe-he-is-evading-being-served/",
-      "t": "49m",
-      "dt": "2026-09-04T17:31:43+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Will Ospreay’s first night as AEW Men’s World Champion, All Out’s Main Event, New Level’s TV debut, and Mark Davis vs. Darby Allin",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Will Ospreay’s first night as AEW Men’s World Champion, All Out’s Main Event, New Level’s TV...",
-      "link": "https://prowrestling.net/site/2026/09/04/pruetts-pause-10-thoughts-on-aew-dynamite-will-ospreays-first-night-as-aew-mens-world-champion-all-outs-main-event-new-levels-tv-debut-and-mark-davis/",
-      "t": "51m",
-      "dt": "2026-09-04T17:30:38+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay & Kenny Omega Reportedly Heavily Involved In Their AEW All In Entrances",
-      "p": "Will Ospreay and Kenny Omega had very personal entrances for their main event match at AEW All In 2026 and were reportedly each heavily involved.",
-      "link": "https://www.wrestlinginc.com/2251297/will-ospreay-kenny-omega-aew-all-in-2026-entrances/",
-      "t": "1h",
-      "dt": "2026-09-04T17:20:10+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Swerve Strickland Talks Joining Up With New Level & Big E's Absence",
-      "p": "Swerve Strickland opens up about the process, both backstage and on-screen, of bringing Austin Creed and Kofi into AEW as his new allies.",
-      "link": "https://www.wrestlinginc.com/2251200/aew-swerve-strickland-big-e-new-level-joining-absence/",
-      "t": "2h",
-      "dt": "2026-09-04T16:12:39+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Report On Whether AEW All In Will Return To Wembley Stadium In 2027",
-      "p": "AEW All In 2026 was the promotion's first event at Wembley Stadium in two years after All In 2025 emanated from Globe Life Field in Arlington, Texas.",
-      "link": "https://www.wrestlinginc.com/2251171/aew-all-in-return-wembley-stadium-2027/",
-      "t": "2h",
-      "dt": "2026-09-04T15:59:11+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub results (9/3): Bandido vs. The Beast Mortos for the ROH Championship, Mistico and Mascara Dorada vs. RPG Vice for the ROH Tag Team Titles",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (9/3): Bandido vs. The Beast Mortos for the ROH Championship, Mistico and Mascara Dorada vs. RPG Vice for the ROH Tag...",
-      "link": "https://prowrestling.net/site/2026/09/04/roh-on-honorclub-results-9-3-bandido-vs-the-beast-mortos-for-the-roh-championship-mistico-and-mascara-dorada-vs-rpg-vice-for-the-roh-tag-team-titles/",
-      "t": "2h",
-      "dt": "2026-09-04T15:45:17+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Report: AEW All In London could end up as company’s most-purchased pay-per-view",
-      "p": "An early estimate from the Wrestling Observer Newsletter suggests that All In London could end up being the company’s most-purchased event. The post Report: AEW All In London could end up as...",
-      "link": "https://www.postwrestling.com/2026/09/04/report-aew-all-in-london-could-end-up-as-companys-most-purchased-pay-per-view/",
-      "t": "3h",
-      "dt": "2026-09-04T14:25:40+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Report: AEW All In Did In The Range Of 210,000 – 230,000 PPV Buys",
-      "p": "The reported numbers for AEW All In. According to Dave Meltzer of the Wrestling Observer, All In did “in the range of 210,000 – 230,000 PPV Buys.” This would be the highest All Elite Wrestling...",
-      "link": "https://www.fightful.com/wrestling-news/report-aew-all-in-did-in-the-range-of-210000-230000-ppv-buys/",
-      "t": "4h",
-      "dt": "2026-09-04T14:10:53+00:00"
+      "h": "Backstage Details On Pay Cut Offered To The New Day By WWE",
+      "p": "A new report offered more backstage details on the pay cut offered to the now-former New Day, AEW's New Level, before their WWE departure.",
+      "link": "https://www.wrestlinginc.com/2251555/wwe-new-day-pay-cut-56-percent-ridge-holland/",
+      "t": "6m",
+      "dt": "2026-09-04T21:19:42+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW All In 2026 pay-per-view buys could set company record | Exclusive",
-      "p": "All In 2026 was a critical success — and the show could also end up becoming the most-bought PPV in AEW history. The current pay-per-view buy record for AEW stands at 215,000 for All Out 2021, an...",
-      "link": "https://www.f4wonline.com/news/aew/aew-all-in-2026-pay-per-view-buys-could-set-company-record-exclusive/",
-      "t": "4h",
-      "dt": "2026-09-04T13:39:40+00:00"
+      "h": "Big Vinny V: Handicapping Copeland & Cage vs. Young Bucks vs. FTR at AEW All Out",
+      "p": "AEW wasted no time on Dynamite this week, getting several matches booked for All Out. That includes Adam Copeland & Christian Cage defending the AEW World Tag Team Championships against both FTR...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-handicapping-copeland-cage-vs-young-bucks-vs-ftr-at-aew-all-out/",
+      "t": "15m",
+      "dt": "2026-09-04T21:10:44+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: AEW All In London PPV Estimate, John Cena’s Heel Run & Chelsea Green off X",
+      "p": "John Pollock covers the news on Friday, Sept. 4, including an early All In London PPV estimate, John Cena reflects on his heel run, and more. Available for Double Double & Espresso members at...",
+      "link": "https://www.postwrestling.com/2026/09/04/post-news-aew-all-in-london-ppv-estimate-john-cenas-heel-run-chelsea-green-off-x/",
+      "t": "41m",
+      "dt": "2026-09-04T20:43:57+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW granted extension after accusing Ryan Nemeth of evading legal process",
+      "p": "The latest development in AEW and Ryan Nemeth’s ongoing legal situation was a positive one for AEW. Brandon Thurston of Wrestlenomics and Post Wrestling reports that, after AEW requested more time...",
+      "link": "https://www.f4wonline.com/news/aew/aew-granted-extension-after-accusing-ryan-nemeth-of-evading-legal-process/",
+      "t": "47m",
+      "dt": "2026-09-04T20:38:23+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tay Melo: I Haven’t Retired Yet",
+      "p": "Tay Melo says she isn’t retired. In July, Tony Khan said he would grant Tay Melo’s release from All Elite Wrestling. According to Khan, Melo wanted to step away from AEW and wrestling. On social...",
+      "link": "https://www.fightful.com/wrestling-news/tay-melo-i-havent-retired-yet/",
+      "t": "51m",
+      "dt": "2026-09-04T20:33:59+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Andrade Has Four-Word Question For WWE Star Carmelo Hayes",
+      "p": "AEW National Champion Andrade had a question for WWE star Carmelo Hayes on social media, but it wasn't, \"How you know?\"",
+      "link": "https://www.wrestlinginc.com/2251500/aew-andrade-question-wwe-carmelo-hayes-where-are-you-amigo/",
+      "t": "57m",
+      "dt": "2026-09-04T20:28:19+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Justin Roberts Takes A Photo With……You Guessed It",
+      "p": "At AEW All In, ring announcer Justin Roberts made the unfortunate error of announcing Komander as Mistico in the Casino Gauntlet. Roberts corrected himself after Komander hit his trademark...",
+      "link": "https://www.fightful.com/wrestling-news/justin-roberts-takes-a-photo-with-you-guessed-it/",
+      "t": "1h",
+      "dt": "2026-09-04T20:25:25+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "09/04 Dot Net Weekly audio show: Barnett and Powell share WWE Sunday Night’s Main Event predictions, discuss the news of the week, and AEW Dynamite",
+      "p": "By Jake Barnett (@jakebarnett) and... The post 09/04 Dot Net Weekly audio show: Barnett and Powell share WWE Sunday Night’s Main Event predictions, discuss the news of the week, and AEW Dynamite...",
+      "link": "https://prowrestling.net/site/2026/09/04/09-04-dot-net-weekly-audio-show-barnett-and-powell-share-wwe-sunday-nights-main-event-predictions-discuss-the-news-of-the-week-and-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-09-04T20:14:36+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Andrade Asks Carmelo Hayes: ‘Where Are You Amigo?’",
+      "p": "Andrade has called out Carmelo Hayes on social media. The AEW wrestler recently made headlines after saying that some Samoan wrestlers in WWE are given opportunities despite not being ready. On...",
+      "link": "https://www.fightful.com/wrestling-news/andrade-asks-carmelo-hayes-where-are-you-amigo/",
+      "t": "1h",
+      "dt": "2026-09-04T19:58:47+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage News On Why AEW Redemption Main Event Was Changed From Kenny Omega Vs. MJF",
+      "p": "A new report revealed two reasons as to why the AEW Redemption main event was changed from Kenny Omega vs. MJF for the AEW World Championship.",
+      "link": "https://www.wrestlinginc.com/2251468/aew-redemption-2026-main-event-changed-kenny-omega-mjf/",
+      "t": "1h",
+      "dt": "2026-09-04T19:58:30+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Wrestling Weekly: AEW All In fallout, Roman Reigns next World Heavyweight title challenger",
+      "p": "After an incredible All In, there’s no rest for AEW as they are immediately prepping for All Out. On a new Wrestling Weekly, Les Thatcher and Vic Sosa examine the fallout from Wembley Stadium and...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-aew-all-in-fallout-roman-reigns-next-world-heavyweight-title-challenger/",
+      "t": "1h",
+      "dt": "2026-09-04T19:31:55+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Viewership & Ratings Report: 8/29/2026",
+      "p": "The go-home episode of \"AEW Collision\" in Glasgow, Scotland, ahead of AEW All In London 2026, was down in viewership from the previous week.",
+      "link": "https://www.wrestlinginc.com/2251431/aew-collision-viewership-ratings-august-29-2026/",
+      "t": "2h",
+      "dt": "2026-09-04T19:23:57+00:00"
     }
   ]
 }

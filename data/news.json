@@ -1,38 +1,54 @@
 {
-  "updated": "2026-09-05T12:40:03.805454+00:00",
+  "updated": "2026-09-05T16:01:59.496970+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "House of Glory “Fall Out” results (9/4): Vetter’s review of Amazing Red vs. Kyle Fletcher, Shotzi Blackheart vs. Steph De Lander in a hardcore match for the HOG Women’s Title, Shayna Baszler vs. Xelina",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post House of Glory “Fall Out” results (9/4): Vetter’s review of Amazing Red vs. Kyle Fletcher, Shotzi Blackheart vs. Steph De Lander in a...",
+      "link": "https://prowrestling.net/site/2026/09/05/house-of-glory-fall-out-results-9-4-vetters-review-of-amazing-red-vs-kyle-fletcher-shotzi-blackheart-vs-steph-de-lander-in-a-hardcore-match-for-the-hog-womens-title-shayna-baszler-vs-x/",
+      "t": "54m",
+      "dt": "2026-09-05T15:07:42+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Former WWE & AEW Star Awesome Kong Explains How She Became A Wrestler",
+      "p": "Former TNA, WWE, and AEW star Awesome Kong outlined her journey to becoming a professional wrestler on \"The Rich Eisen Show.\"",
+      "link": "https://www.wrestlinginc.com/2248967/wwe-aew-awesome-kong-became-wrestler/",
+      "t": "1h",
+      "dt": "2026-09-05T14:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Star Will Ospreay Dealt With Body Dysmorphia During NJPW Run",
+      "p": "Will Ospreay opens up about his struggles with body dysmorphia during his mid-20s.",
+      "link": "https://www.wrestlinginc.com/2248683/aew-njpw-will-ospreay-body-dysmorphia/",
+      "t": "2h",
+      "dt": "2026-09-05T13:30:00+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Maya World credits Athena for preparing her for AEW breakout",
       "p": "Maya World credits her trainer and opponent Athena with playing a major role in preparing her for her current run in AEW. World began training under Athena at the DFW All-Pro Wrestling Academy in...",
       "link": "https://www.f4wonline.com/news/aew/maya-world-credits-athena-for-preparing-her-for-aew-breakout/",
-      "t": "19m",
+      "t": "3h",
       "dt": "2026-09-05T12:20:31+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Preview, Start Time, How To Watch, Location (9/5)",
-      "p": "Viewing information and lineup for AEW Collision on September 5, 2026 AEW Collision (September 5, 2026) Venue: Credit Union Of Texas Event Center City: Allen, TX Time: 8 pm ET Channel: TNT, HBO...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-9-5/",
-      "t": "39m",
-      "dt": "2026-09-05T12:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision lineup: TBS Title match, MCMG in action, and more set for tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: TBS Title match, MCMG in action, and more set for tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/05/aew-collision-lineup-tbs-title-match-mcmg-in-action-and-more-set-for-tonights-show/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-09-05T11:00:35+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Tay Melo says she’s not retired yet",
       "p": "Tay Melo may be leaving AEW, but she’s not retired. A fan on social media pointed out that Melo recently removed “wrestler” from her profile. But Melo responded in the comments saying that she...",
       "link": "https://www.f4wonline.com/news/aew/tay-melo-says-shes-not-retired-yet/",
-      "t": "12h",
+      "t": "15h",
       "dt": "2026-09-05T00:20:33+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Dave Meltzer Thinks New Level Signed Long-Term AEW Deals, Praises Dynamite Debut",
       "p": "In the Wrestling Observer Newsletter, Dave Meltzer said he believes New Level signed a long-term deal with AEW, and he praised their TV debut.",
       "link": "https://www.wrestlinginc.com/2251596/dave-meltzer-new-level-long-term-aew-deals-dynamite-debut/",
-      "t": "14h",
+      "t": "17h",
       "dt": "2026-09-04T22:27:36+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "WOR: AEW All In business, Sunday Night Main Event preview",
       "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
       "link": "https://www.f4wonline.com/podcasts/wor-aew-all-in-business-sunday-night-main-event-preview/",
-      "t": "14h",
+      "t": "18h",
       "dt": "2026-09-04T21:53:18+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Backstage Details On Pay Cut Offered To The New Day By WWE",
       "p": "A new report offered more backstage details on the pay cut offered to the now-former New Day, AEW's New Level, before their WWE departure.",
       "link": "https://www.wrestlinginc.com/2251555/wwe-new-day-pay-cut-56-percent-ridge-holland/",
-      "t": "15h",
+      "t": "18h",
       "dt": "2026-09-04T21:19:42+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Big Vinny V: Handicapping Copeland & Cage vs. Young Bucks vs. FTR at AEW All Out",
       "p": "AEW wasted no time on Dynamite this week, getting several matches booked for All Out. That includes Adam Copeland & Christian Cage defending the AEW World Tag Team Championships against both FTR...",
       "link": "https://www.f4wonline.com/opinion/big-vinny-v-handicapping-copeland-cage-vs-young-bucks-vs-ftr-at-aew-all-out/",
-      "t": "15h",
+      "t": "18h",
       "dt": "2026-09-04T21:10:44+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "POST NEWS: AEW All In London PPV Estimate, John Cena’s Heel Run & Chelsea Green off X",
       "p": "John Pollock covers the news on Friday, Sept. 4, including an early All In London PPV estimate, John Cena reflects on his heel run, and more. Available for Double Double & Espresso members at...",
       "link": "https://www.postwrestling.com/2026/09/04/post-news-aew-all-in-london-ppv-estimate-john-cenas-heel-run-chelsea-green-off-x/",
-      "t": "15h",
+      "t": "19h",
       "dt": "2026-09-04T20:43:57+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "AEW granted extension after accusing Ryan Nemeth of evading legal process",
       "p": "The latest development in AEW and Ryan Nemeth’s ongoing legal situation was a positive one for AEW. Brandon Thurston of Wrestlenomics and Post Wrestling reports that, after AEW requested more time...",
       "link": "https://www.f4wonline.com/news/aew/aew-granted-extension-after-accusing-ryan-nemeth-of-evading-legal-process/",
-      "t": "16h",
+      "t": "19h",
       "dt": "2026-09-04T20:38:23+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Andrade Has Four-Word Question For WWE Star Carmelo Hayes",
-      "p": "AEW National Champion Andrade had a question for WWE star Carmelo Hayes on social media, but it wasn't, \"How you know?\"",
-      "link": "https://www.wrestlinginc.com/2251500/aew-andrade-question-wwe-carmelo-hayes-where-are-you-amigo/",
-      "t": "16h",
-      "dt": "2026-09-04T20:28:19+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "09/04 Dot Net Weekly audio show: Barnett and Powell share WWE Sunday Night’s Main Event predictions, discuss the news of the week, and AEW Dynamite",
-      "p": "By Jake Barnett (@jakebarnett) and... The post 09/04 Dot Net Weekly audio show: Barnett and Powell share WWE Sunday Night’s Main Event predictions, discuss the news of the week, and AEW Dynamite...",
-      "link": "https://prowrestling.net/site/2026/09/04/09-04-dot-net-weekly-audio-show-barnett-and-powell-share-wwe-sunday-nights-main-event-predictions-discuss-the-news-of-the-week-and-aew-dynamite/",
-      "t": "16h",
-      "dt": "2026-09-04T20:14:36+00:00"
     }
   ]
 }

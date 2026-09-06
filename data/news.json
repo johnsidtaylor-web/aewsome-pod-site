@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-06T10:51:36.459946+00:00",
+  "updated": "2026-09-06T14:08:35.285073+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "'The Butcher' Andy Williams Dead, Former AEW Star Dies At Age 48",
+      "p": "Every Time I Die Bassist and former AEW star Andy Williams, known to fans as \"The Butcher,\" died at the age of 48, after collapsing at an event.",
+      "link": "https://www.wrestlinginc.com/2251808/butcher-andy-williams-dead-aew-star-age-48/",
+      "t": "7m",
+      "dt": "2026-09-06T14:01:20+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "WWE's Logan Paul Says AEW Star Has No Job: 'If It's Not With Us, It Don't Matter'",
+      "p": "WWE star Logan Paul commented in one of his latest YouTube vlogs that one AEW star has \"no job,\" and \"if it's not with us, it don't matter.\"",
+      "link": "https://www.wrestlinginc.com/2250045/wwe-logan-paul-aew-tommaso-ciampa-no-job/",
+      "t": "1h",
+      "dt": "2026-09-06T13:00:00+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW All Out lineup: Third championship match announced for the next pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: Third championship match announced for the next pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/06/aew-all-out-lineup-third-championship-match-announced-for-the-next-pay-per-view-event/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-06T07:46:43+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "AEW Dynamite preview: Wednesday’s “Rebel Heart” edition",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Wednesday’s “Rebel Heart” edition appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/06/aew-dynamite-preview-wednesdays-rebel-heart-edition/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-06T07:38:26+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "AEW’s Mike Bailey: Wrestling no longer needs characters who only exist on television",
       "p": "AEW wrestler Mike Bailey has opened up about wrestling requiring characters that exist beyond television. Recently speaking to Los Angeles Blade, Bailey claimed that wrestling should be “an...",
       "link": "https://www.f4wonline.com/news/aew/aews-mike-bailey-wrestling-no-longer-needs-characters-who-only-exist-on-television/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-09-06T07:00:00+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "AEW Collision results (9/6): Murphy’s review of Andrade El Idolo vs. Gabe Kidd for the AEW National Championship, Persephone vs. VertVixen for the TBS Championship, MCMG vs. The Swirl",
       "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (9/6): Murphy’s review of Andrade El Idolo vs. Gabe Kidd for the AEW National Championship, Persephone vs. VertVixen for...",
       "link": "https://prowrestling.net/site/2026/09/06/aew-collision-results-9-6-murphys-review-of-andrade-el-idolo-vs-gabe-kidd-for-the-aew-national-championship-persephone-vs-vertvixen-for-the-tbs-championship-mcmg-vs-the-swirl/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-09-06T06:55:10+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "Andy ‘The Butcher’ Williams collapses during independent wrestling event",
       "p": "Andy Williams, best known as The Butcher in AEW, collapsed following a match Saturday evening. According to Fightful, Williams required medical attention following a tag match at an Enjoy...",
       "link": "https://www.f4wonline.com/news/other-wrestling/andy-the-butcher-williams-collapses-during-independent-wrestling-event/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-09-06T03:01:13+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW COLLISION RESULTS (9/5): Knight & Fletcher vs. Juice & Ace Austin, Andrade defends the National title against Gabe Kidd, Persephone defends the TBS title, Young Bucks and Motor City Machine Guns in action",
       "p": "AEW COLLISION REPORT SEPTEMBER 5, 2026 (recorded 9/2) ALLEN, TEX. AT CREDIT UNION OF TEXAS EVENT CENTER AIRED ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Excalibur,...",
       "link": "https://www.pwtorch.com/site/2026/09/05/aew-collision-results-9-5-knight-fletcher-vs-juice-ace-austin-andrade-defends-the-national-title-against-gabe-kidd-persephone-defends-the-tbs-title-young-bucks-and-motor-city-machin/",
-      "t": "8h",
+      "t": "11h",
       "dt": "2026-09-06T02:47:17+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "AEW Collision 9/5 Results: Motor City Machine Guns debut, Women’s Tag Title rematch set for All Out",
       "p": "Andrade El Idolo retained the AEW National Championship against Gabe Kidd on Saturday’s Collision, while the Motor City Machine Guns won their first AEW match. The post AEW Collision 9/5 Results:...",
       "link": "https://www.postwrestling.com/2026/09/05/aew-collision-9-5-results-motor-city-machine-guns-debut-womens-tag-title-rematch-set-for-all-out/",
-      "t": "8h",
+      "t": "11h",
       "dt": "2026-09-06T02:39:46+00:00"
     },
     {
@@ -72,40 +88,24 @@
       "h": "AEW Collision 9/5/26 Review | COLLISION COURSE",
       "p": "Kate from Montreal & Ray Williams review this week’s AEW Collision featuring Andrade vs. Kidd for the National title, Persephone's first TBS defence, and the in-ring debut of MCMG. The post AEW...",
       "link": "https://www.postwrestling.com/2026/09/05/aew-collision-9-5-26-review-collision-course-live-1015pm-et/",
-      "t": "8h",
+      "t": "11h",
       "dt": "2026-09-06T02:15:52+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Bollywood Boyz Say They Haven’t Received Any Offers From WWE Or AEW Recently",
-      "p": "The Bollywood Boyz are focused on putting in the work. For the past few years, The Bollywood Boyz have been working in the indies. They previously worked for WWE as The Singh Brothers. In 2021,...",
-      "link": "https://www.fightful.com/wrestling-news/bollywood-boyz-say-they-havent-received-any-offers-from-wwe-or-aew-recently/",
-      "t": "8h",
-      "dt": "2026-09-06T02:09:43+00:00"
+      "src": "Wrestling Observer",
+      "h": "AEW title eliminator, Britt Baker in-ring return, Rebel appearance part of Rebel Heart Dynamite lineup",
+      "p": "A World title eliminator title match is among the new matches set for this Wednesday’s AEW Dynamite. During Collision, it was announced that Will Ospreay will face David Finlay in an eliminator...",
+      "link": "https://www.f4wonline.com/news/aew/aew-title-eliminator-britt-baker-in-ring-return-rebel-appearance-part-of-rebel-heart-dynamite-lineup/",
+      "t": "12h",
+      "dt": "2026-09-06T01:15:30+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "The Waiting Room With Britt Baker And Rebel, AEW World Title Eliminator, More Set For AEW Rebel Heart Dynamite",
-      "p": "Additions made to AEW Rebel Heart Dynamite. On this week’s AEW Collision (9/5), the company announced an AEW World Title Eliminator match between Will Ospreay and David Finlay for next Wednesday....",
-      "link": "https://www.fightful.com/wrestling-news/the-waiting-room-with-britt-baker-and-rebel-aew-world-title-eliminator-more-set-for-aew-rebel-heart-dynamite/",
-      "t": "8h",
-      "dt": "2026-09-06T01:58:30+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Watch: FULL EPISODE: Lucha Libre AAA, September 5, 2026",
-      "p": "FULL EPISODE: Lucha Libre AAA, September 5, 2026 The post Watch: FULL EPISODE: Lucha Libre AAA, September 5, 2026 appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
-      "link": "https://www.fightful.com/wrestling-news/watch-full-episode-lucha-libre-aaa-september-5-2026/",
-      "t": "9h",
-      "dt": "2026-09-06T01:30:29+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Motor City Machine Guns Win AEW In-Ring Return Match On 9/5 AEW Collision",
-      "p": "Motor City Machine Guns win on AEW Collision. For the 9/5 Collision, the company announced Motor City Machine Guns (Alex Shelley & Chris Sabin) vs. The Swirl (Lee Johnson & Blake Christian). While...",
-      "link": "https://www.fightful.com/wrestling-news/motor-city-machine-guns-win-aew-in-ring-return-match-on-9-5-aew-collision/",
-      "t": "9h",
-      "dt": "2026-09-06T01:27:28+00:00"
+      "src": "Wrestling Observer",
+      "h": "Women’s Tag Team title rematch booked for AEW All Out 2026",
+      "p": "AEW Women’s Tag Team Champions The Brawling Birds and Divine Dominion will meet again later this month. During AEW Collision on Saturday, the Brawling Birds threw out the challenge for former...",
+      "link": "https://www.f4wonline.com/news/aew/womens-tag-team-title-rematch-booked-for-aew-all-out-2026/",
+      "t": "13h",
+      "dt": "2026-09-06T00:44:49+00:00"
     }
   ]
 }

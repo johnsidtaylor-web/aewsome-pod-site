@@ -1,22 +1,86 @@
 {
-  "updated": "2026-09-07T10:13:23.850818+00:00",
+  "updated": "2026-09-07T15:51:28.368741+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "AEW announces first-ever Green Bay TV taping for November 21",
+      "p": "AEW's first-ever trip to Green Bay, Wisconsin, will come this fall in the form of a Collision taping at the Resch Center. The post AEW announces first-ever Green Bay TV taping for November 21...",
+      "link": "https://www.postwrestling.com/2026/09/07/aew-announces-first-ever-green-bay-tv-taping-for-november-21/",
+      "t": "14m",
+      "dt": "2026-09-07T15:37:24+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Nigel McGuinness Reflects On Being Blessed To Wrestle In Wembley Stadium",
+      "p": "Nigel McGuinness has discussed what it meant to get back in the ring when he wrestled for the first time in over a decade at the 2024 edition of All In.",
+      "link": "https://www.wrestlinginc.com/2252011/aew-nigel-mcguinness-reflects-blessed-wrestle-wembley-stadium/",
+      "t": "51m",
+      "dt": "2026-09-07T15:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Cody Rhodes remembers former AEW colleague Andy ‘The Butcher’ Williams",
+      "p": "Cody Rhodes is grateful that he got to play a part in one of the biggest moments of The Butcher’s pro wrestling career. When Andy Williams made his AEW debut in 2019, he did so by emerging through...",
+      "link": "https://www.f4wonline.com/news/aew/cody-rhodes-remembers-former-aew-colleague-andy-the-butcher-williams/",
+      "t": "1h",
+      "dt": "2026-09-07T14:40:20+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Allie (The Bunny) Pays Tribute To The Late Andy Williams",
+      "p": "Allie, who was apart of The Butcher and The Blade’s presentation in All Elite Wrestling, has paid tribute to the late pro wrestler. During the early days of the tag team’s run in All Elite...",
+      "link": "https://www.fightful.com/wrestling-news/allie-the-bunny-pays-tribute-to-the-late-andy-williams/",
+      "t": "1h",
+      "dt": "2026-09-07T14:34:51+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "09/07 Pruett’s AEW Collision audio review: Andrade El Idolo vs. Gabe Kidd, Persephone vs. VertVixen for the TBS Championship, MCMG vs. The Swirl",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 09/07 Pruett’s AEW Collision audio review: Andrade El Idolo vs. Gabe Kidd, Persephone vs. VertVixen for the TBS Championship, MCMG vs. The...",
+      "link": "https://prowrestling.net/site/2026/09/07/09-07-pruetts-aew-collision-audio-review-andrade-el-idolo-vs-gabe-kidd-persephone-vs-vertvixen-for-the-tbs-championship-mcmg-vs-the-swirl/",
+      "t": "2h",
+      "dt": "2026-09-07T13:30:55+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Austin Creed & Kofi Talk 'Player-Friendly' AEW Contracts Following All In 2026 Debut",
+      "p": "AEW's Austin Creed and Kofi have spoken highly of the wrestler-friendly contracts that the promotion offers, which will allow them to explore other projects.",
+      "link": "https://www.wrestlinginc.com/2251956/austin-creed-kofi-player-friendly-aew-contracts-all-in-2026-debut/",
+      "t": "2h",
+      "dt": "2026-09-07T13:30:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST SCHEDULE: WWF In Your House (1997), TripleMania 34, Rebel Heart Dynamite, The Wellness Policy",
+      "p": "Rewind-A-Wai covers In Your House 'Final Four' from 1997, a special edition of AEW Dynamite, and coverage of TripleMania 34 (both nights). The post POST SCHEDULE: WWF In Your House (1997),...",
+      "link": "https://www.postwrestling.com/2026/09/07/post-schedule-wwf-in-your-house-1997-triplemania-34-rebel-heart-dynamite-the-wellness-policy/",
+      "t": "2h",
+      "dt": "2026-09-07T13:00:51+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay: I Never Did This For Money, I Did This Because I Fucking Loved It",
+      "p": "Will Ospreay maintains that he did not get into the wrestling business because of money, he does it because he loves it. For many professional wrestlers, the job is more than just that, it is a...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-i-never-did-this-for-money-i-did-this-because-i-fucking-loved-it/",
+      "t": "3h",
+      "dt": "2026-09-07T12:00:12+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "AEW All Out 2026 ticket sales with 20 days to go (09-07-2026)",
       "p": "AEW All Out 2026 is set to take place on Saturday, September 26 from the NOW Arena in Hoffman Estates, Illinois. According to the latest update from WrestleTix, 8,388 tickets have been distributed...",
       "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-ticket-sales-20-days-09-07-2026/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-09-07T07:58:26+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "FREE PODCAST 9/6 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: All Out fallout with Danielson, Cole, Punk, on-site report, Moxley vs. Suzuki, more (166 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (9-8-2021), PWTorch assistant editor Zack Heydorn guest hosts for Wade Keller and is joined by...",
       "link": "https://www.pwtorch.com/site/2026/09/07/free-podcast-9-6-wkpwp-aew-dynamite-post-show-5-yrs-ago-all-out-fallout-with-danielson-cole-punk-on-site-report-moxley-vs-suzuki-more-166-min/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-07T05:13:08+00:00"
     },
     {
@@ -32,7 +96,7 @@
       "h": "Tony Khan Reportedly Spoke To Former TNA Commentator Mike Tenay About AEW Appearance",
       "p": "AEW President Tony Khan reportedly spoke to former TNA commentator, and TNA Hall of Famer, Mike Tenay about an appearance with his company.",
       "link": "https://www.wrestlinginc.com/2251887/tony-khan-tna-mike-tenay-aew-grand-slam-mexico/",
-      "t": "10h",
+      "t": "16h",
       "dt": "2026-09-06T23:18:44+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "AEW's Kofi And Austin Creed Reveal Details Of Phone Calls They Got From WWE",
       "p": "AEW World Trios Champions Kofi and Austin Creed looked back on getting phone calls from WWE asking them to restructure their deals and take a pay cut.",
       "link": "https://www.wrestlinginc.com/2251881/aew-kofi-austin-creed-wwe-phone-calls/",
-      "t": "11h",
-      "dt": "2026-09-06T22:47:29+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Canadian Promotion Relaunches Wrestling School, Names AEW's Josh Alexander Head Coach",
-      "p": "Maple Leaf Pro Wrestling is relaunching a wrestling school in Canada and has named AEW's Josh Alexander as its head coach.",
-      "link": "https://www.wrestlinginc.com/2251870/maple-leaf-pro-wrestling-school-aew-josh-alexander-head-coach/",
-      "t": "13h",
-      "dt": "2026-09-06T20:25:59+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Eric Bischoff On AEW All In Main Event: 'I Didn't Like The Match At All'",
-      "p": "WWE Hall of Famer Eric Bischoff explains why he did not like the main event match of AEW All In: London last Sunday.",
-      "link": "https://www.wrestlinginc.com/2251865/aew-all-in-london-2026-eric-bischoff-kenny-omega-will-ospreay-main-event-didnt-like-match-at-all/",
-      "t": "14h",
-      "dt": "2026-09-06T19:54:06+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Wrestling World Reacts To The Death Of Former AEW Star The Butcher",
-      "p": "Condolences and memories of former AEW star Andy \"The Butcher\" Williams have flooded social media following the news of his passing.",
-      "link": "https://www.wrestlinginc.com/2251860/wrestling-world-reacts-death-aew-star-butcher/",
-      "t": "14h",
-      "dt": "2026-09-06T19:36:52+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 9/6 – PWTorch Dailycast – Best of PWTorch Livecast: 5 Yrs Ago – AEW All Out PPV post-show including debuts of Bryan Danielson, Adam Cole, Ruby Soho, Kenny Omega vs. Christian, more (152 min.)",
-      "p": "SHOW SUMMARY: Today we jump back five years to the Sept. 5, 2021 episode of the PWTorch Dailycast’s “Wrestling Night in America” with Mike McMahon filling in for Greg Parks right after AEW All Out...",
-      "link": "https://www.pwtorch.com/site/2026/09/06/free-podcast-9-6-pwtorch-dailycast-best-of-pwtorch-livecast-5-yrs-ago-aew-all-out-ppv-post-show-including-debuts-of-bryan-danielson-adam-cole-ruby-soho-kenny-omega-vs-christ/",
-      "t": "15h",
-      "dt": "2026-09-06T18:41:22+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Professional wrestling world pays tribute to Andy Williams following his passing at 48",
-      "p": "Tributes to Andy Williams began to pour in on Sunday from across the professional wrestling world following the death of the former AEW wrestler and rock guitarist at 48. The post Professional...",
-      "link": "https://www.postwrestling.com/2026/09/06/professional-wrestling-world-pays-tribute-to-andy-williams-following-his-passing-at-48/",
-      "t": "16h",
-      "dt": "2026-09-06T17:23:43+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "“The Butcher” Andy Williams died at age 48 following an in-ring medical emergency, AEW statement",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post “The Butcher” Andy Williams died at age 48 following an in-ring medical emergency, AEW statement appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/06/the-butcher-andy-williams-died-at-age-48-following-an-in-ring-medical-emergency-aew-statement/",
       "t": "17h",
-      "dt": "2026-09-06T17:08:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Deonna Purrazzo on potential Britt Baker match: ‘We’ve wanted this for SO long’",
-      "p": "ROH Women’s Pure Champion Deonna Purrazzo has commented on a potential match against Britt Baker. Baker returned to AEW at All In at Wembley Stadium last Sunday after an absence of nearly two...",
-      "link": "https://www.f4wonline.com/news/aew/deonna-purrazzo-on-potential-britt-baker-match-weve-wanted-this-for-so-long/",
-      "t": "18h",
-      "dt": "2026-09-06T15:21:07+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW All Out lineup: Third championship match announced for the next pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: Third championship match announced for the next pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/06/aew-all-out-lineup-third-championship-match-announced-for-the-next-pay-per-view-event/",
-      "t": "1d",
-      "dt": "2026-09-06T07:46:43+00:00"
+      "dt": "2026-09-06T22:47:29+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T05:55:54.798615+00:00",
+  "updated": "2026-09-08T11:12:42.946079+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Malakai Black had major travel issues for recent event",
+      "p": "Former WWE and AEW performer Malakai Black won the PROGRESS Wrestling World Title this past weekend, defeating Cara Noir on September 6th as part of the Odyssey Tour from the O2 Ritz in...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/malakai-black-progress-wrestling-travel-issues/",
+      "t": "2h",
+      "dt": "2026-09-08T08:39:36+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "AEW COLLISION HITS & MISSES (9/5): Andrade defends against Gabe Kidd, Motor City Machine Guns make their tag debut, Nick Wayne-Jericho heats up, more",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HITS ANDRADE’S PUSH I continue to enjoy what AEW is [...]",
       "link": "https://www.pwtorch.com/site/2026/09/07/aew-collision-hits-misses-9-5-andrade-defends-against-gabe-kidd-motor-city-machine-guns-make-their-tag-debut-nick-wayne-jericho-heats-up-more/",
-      "t": "9h",
+      "t": "15h",
       "dt": "2026-09-07T20:10:45+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Indie Promoter Issues Statement On The Death Of Former AEW Star Andy Williams",
       "p": "Following the loss of tag team standout Andy \"The Butcher\" Williams, Enjoy Wrestling's Co-Promoter Kurt Hackimer provides a statement on what happened.",
       "link": "https://www.wrestlinginc.com/2252278/aew-andy-williams-butcher-kurt-hackimer-enjoy-wrestling-indie-promoter-issues-statement-death/",
-      "t": "10h",
+      "t": "15h",
       "dt": "2026-09-07T19:42:22+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "WWE Star Cody Rhodes Comments On Death Of AEW's Andy Williams (AKA The Butcher)",
       "p": "Following the death of former AEW star Andy Williams this past weekend, WWE's Cody Rhodes was asked to share his thoughts on the late performer.",
       "link": "https://www.wrestlinginc.com/2252253/wwe-aew-cody-rhodes-andy-williams-butcher-comments-death/",
-      "t": "11h",
+      "t": "16h",
       "dt": "2026-09-07T18:41:51+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "New Level's Kofi On AEW Debut With Austin Creed: 'It Was Always Going To Be Together'",
       "p": "Following their WWE exit, there was never any doubt that Kofi and Austin Creed would be continuing on as a tag team.",
       "link": "https://www.wrestlinginc.com/2252243/new-level-kofi-aew-debut-austin-creed-always-together/",
-      "t": "11h",
+      "t": "17h",
       "dt": "2026-09-07T18:11:26+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW announces Green Bay debut for November",
       "p": "AEW is coming to Green Bay, Wisconsin for the first time ever. The promotion announced today that the Saturday, November 21 episode of Collision will take place from Green Bay at the Resch Center....",
       "link": "https://www.f4wonline.com/news/aew/aew-announces-green-bay-debut-for-november/",
-      "t": "13h",
+      "t": "18h",
       "dt": "2026-09-07T16:47:26+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "More tributes pour in for Andy Williams: Allie, Cody Rhodes & others",
       "p": "Tributes continue to come in for Andy Williams, a \"pure heart and soul\" who wrestled in AEW as The Butcher. The post More tributes pour in for Andy Williams: Allie, Cody Rhodes & others appeared...",
       "link": "https://www.postwrestling.com/2026/09/07/more-tributes-pour-in-for-andy-williams-allie-cody-rhodes-others/",
-      "t": "13h",
+      "t": "18h",
       "dt": "2026-09-07T16:27:11+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Athena Says AEW Women's World Champion Shares Respect For Each Other's Careers",
       "p": "Athena has made history numerous times during her three year reign as ROH Women's Champion. But, there is an AEW Women's World Champion she has respect for.",
       "link": "https://www.wrestlinginc.com/2252193/athena-aew-womens-world-champion-shares-respect-careers-mercedes-mone/",
-      "t": "13h",
+      "t": "18h",
       "dt": "2026-09-07T16:23:39+00:00"
     },
     {
@@ -72,7 +80,7 @@
       "h": "AEW announces first-ever Green Bay TV taping for November 21",
       "p": "AEW's first-ever trip to Green Bay, Wisconsin, will come this fall in the form of a Collision taping at the Resch Center. The post AEW announces first-ever Green Bay TV taping for November 21...",
       "link": "https://www.postwrestling.com/2026/09/07/aew-announces-first-ever-green-bay-tv-taping-for-november-21/",
-      "t": "14h",
+      "t": "19h",
       "dt": "2026-09-07T15:37:24+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "Cody Rhodes remembers former AEW colleague Andy ‘The Butcher’ Williams",
       "p": "Cody Rhodes is grateful that he got to play a part in one of the biggest moments of The Butcher’s pro wrestling career. When Andy Williams made his AEW debut in 2019, he did so by emerging through...",
       "link": "https://www.f4wonline.com/news/aew/cody-rhodes-remembers-former-aew-colleague-andy-the-butcher-williams/",
-      "t": "15h",
+      "t": "20h",
       "dt": "2026-09-07T14:40:20+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "09/07 Pruett’s AEW Collision audio review: Andrade El Idolo vs. Gabe Kidd, Persephone vs. VertVixen for the TBS Championship, MCMG vs. The Swirl",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 09/07 Pruett’s AEW Collision audio review: Andrade El Idolo vs. Gabe Kidd, Persephone vs. VertVixen for the TBS Championship, MCMG vs. The...",
       "link": "https://prowrestling.net/site/2026/09/07/09-07-pruetts-aew-collision-audio-review-andrade-el-idolo-vs-gabe-kidd-persephone-vs-vertvixen-for-the-tbs-championship-mcmg-vs-the-swirl/",
-      "t": "16h",
+      "t": "21h",
       "dt": "2026-09-07T13:30:55+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "POST SCHEDULE: WWF In Your House (1997), TripleMania 34, Rebel Heart Dynamite, The Wellness Policy",
       "p": "Rewind-A-Wai covers In Your House 'Final Four' from 1997, a special edition of AEW Dynamite, and coverage of TripleMania 34 (both nights). The post POST SCHEDULE: WWF In Your House (1997),...",
       "link": "https://www.postwrestling.com/2026/09/07/post-schedule-wwf-in-your-house-1997-triplemania-34-rebel-heart-dynamite-the-wellness-policy/",
-      "t": "16h",
+      "t": "22h",
       "dt": "2026-09-07T13:00:51+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW All Out 2026 ticket sales with 20 days to go (09-07-2026)",
-      "p": "AEW All Out 2026 is set to take place on Saturday, September 26 from the NOW Arena in Hoffman Estates, Illinois. According to the latest update from WrestleTix, 8,388 tickets have been distributed...",
-      "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-ticket-sales-20-days-09-07-2026/",
-      "t": "21h",
-      "dt": "2026-09-07T07:58:26+00:00"
     }
   ]
 }

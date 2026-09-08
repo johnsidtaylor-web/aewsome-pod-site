@@ -1,30 +1,70 @@
 {
-  "updated": "2026-09-08T15:06:10.310586+00:00",
+  "updated": "2026-09-08T18:37:10.319492+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (5 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW announces All Out 2026 block party",
+      "p": "AEW is expanding its All Out 2026 festivities for fans in Chicago. On September 26, AEW and WWE are going head-to-head with shows at the same time in the Chicago area. AEW’s All Out pay-per-view...",
+      "link": "https://www.f4wonline.com/news/aew/aew-announces-all-out-2026-block-party/",
+      "t": "48m",
+      "dt": "2026-09-08T17:48:46+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Kurt Angle: Will Ospreay And Kenny Omega Are Just Unbelievable",
-      "p": "Kurt Angle says that Will Ospreay and Kenny Omega are ‘just unbelievable’ when the bell rings for their matches. At AEW All In last month, Omega and Ospreay would meet in the main event with the...",
-      "link": "https://www.fightful.com/wrestling-news/kurt-angle-will-ospreay-and-kenny-omega-are-just-unbelievable/",
-      "t": "54m",
-      "dt": "2026-09-08T14:11:19+00:00"
+      "h": "Kevin Knight Says Having Both Rebel And Andy Williams On The AEW Rosters Minds Will Make This Week’s AEW Dynamite ‘That Much More Special’",
+      "p": "Kevin Knight discusses this Wednesday’s ‘Rebel Heart’ AEW Dynamite, noting that the roster will have Rebel and Andy Williams on their minds. This week’s edition of AEW Dynamite will support Rebel...",
+      "link": "https://www.fightful.com/wrestling-news/kevin-knight-says-having-both-rebel-and-andy-williams-on-the-aew-rosters-minds-will-make-this-weeks-aew-dynamite-that-much-more-special/",
+      "t": "1h",
+      "dt": "2026-09-08T17:28:56+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kevin Knight Says His Wrestling Style Is A Combination Of Mr. Perfect, The Rock And Jeff Hardy",
+      "p": "Kevin Knight discusses his wrestling style, noting it is a combination of Mr. Perfect, The Rock, Jeff Hardy and other athletes. Knight is one of AEW’s young talents that has quickly risen up the...",
+      "link": "https://www.fightful.com/wrestling-news/kevin-knight-says-his-wrestling-style-is-a-combination-of-mr-perfect-the-rock-and-jeff-hardy/",
+      "t": "1h",
+      "dt": "2026-09-08T17:03:20+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kevin Knight: AEW has ‘two people on our minds’ going into Rebel Heart special",
+      "p": "AEW’s special Rebel Heart episode of Dynamite has taken on even more significance following the passing of “The Butcher” Andy Williams. This Wednesday (September 9), AEW will be in Athens, Georgia...",
+      "link": "https://www.f4wonline.com/news/aew/kevin-knight-aew-has-two-people-on-our-minds-going-into-rebel-heart-special/",
+      "t": "2h",
+      "dt": "2026-09-08T16:07:16+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Eric Bischoff Believes AEW's New Level Took 'Easy Way Out' With New Presentation",
+      "p": "Former WCW and WWE official Eric Bischoff believes Austin Creed and Kofi should've opted for a more original presentation upon arriving in AEW.",
+      "link": "https://www.wrestlinginc.com/2252729/aew-eric-bischoff-new-level-easy-way-out-presentation/",
+      "t": "3h",
+      "dt": "2026-09-08T15:33:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Frankie Kazarian Shares Memories Of Working With Former AEW Colleague Andy Williams",
+      "p": "TNA's Franke Kazarian shared memories of meeting and working with the late Andy \"The Butcher\" Williams in AEW and how they initially bonded.",
+      "link": "https://www.wrestlinginc.com/2252669/aew-frankie-kazarian-andy-williams-memories-colleague/",
+      "t": "3h",
+      "dt": "2026-09-08T15:02:58+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Kofi Says AEW Debut Felt Like A Dream, Comments On Timeline Of Signing With Tony Khan",
       "p": "Kofi has described their AEW debut as a weird dream and even revealed that he and Austin Creed only signed with the promotion a few days before All In.",
       "link": "https://www.wrestlinginc.com/2252452/kofi-aew-debut-dream-timeline-signing-tony-khan/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-08T14:00:00+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Kyle Fletcher reveals how injury uncertainty motivated AEW All In performance",
       "p": "Kyle Fletcher reflected on his injury recovery and subsequent comeback that enabled him to compete at AEW All In. On Fletcher’s latest Protolog, he vlogged and shared shared mindset heading into...",
       "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-reveals-how-injury-uncertainty-motivated-aew-all-in-performance/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-08T13:38:10+00:00"
     },
     {
@@ -40,23 +80,15 @@
       "h": "AEW Dynamite preview: Wednesday’s “Rebel Heart” edition",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Wednesday’s “Rebel Heart” edition appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/08/aew-dynamite-preview-wednesdays-rebel-heart-edition-2/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-08T13:00:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kyle Fletcher Says AEW All In 2026 Was ‘One Of The Best Days Of His Life’, Wants To Top It Next Year",
-      "p": "Kyle Fletcher had a great day on the day of All In 2026 despite losing his International Championship, and will look to top it next year. At AEW All In 2026 at the end of last month, Fletcher...",
-      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-says-aew-all-in-2026-was-one-of-the-best-days-of-his-life-wants-to-top-it-next-year/",
-      "t": "2h",
-      "dt": "2026-09-08T12:30:50+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW tag team set to face UK standouts at Rev Pro this weekend",
       "p": "The AEW tag team of Zack Gibson and James Drake (Grizzled Young Veterans) are set to take on CPF’s (Close Personal Friends) Danny Black and Joe Lando this weekend. Gibson and Drake have been...",
       "link": "https://www.f4wonline.com/news/aew/aew-grizzled-young-veterans-cpf-rev-pro/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-08T12:05:22+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "Malakai Black had major travel issues for recent event",
       "p": "Former WWE and AEW performer Malakai Black won the PROGRESS Wrestling World Title this past weekend, defeating Cara Noir on September 6th as part of the Odyssey Tour from the O2 Ritz in...",
       "link": "https://www.f4wonline.com/news/other-wrestling/malakai-black-progress-wrestling-travel-issues/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-09-08T08:39:36+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "AEW COLLISION HITS & MISSES (9/5): Andrade defends against Gabe Kidd, Motor City Machine Guns make their tag debut, Nick Wayne-Jericho heats up, more",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HITS ANDRADE’S PUSH I continue to enjoy what AEW is [...]",
       "link": "https://www.pwtorch.com/site/2026/09/07/aew-collision-hits-misses-9-5-andrade-defends-against-gabe-kidd-motor-city-machine-guns-make-their-tag-debut-nick-wayne-jericho-heats-up-more/",
-      "t": "18h",
+      "t": "22h",
       "dt": "2026-09-07T20:10:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Indie Promoter Issues Statement On The Death Of Former AEW Star Andy Williams",
-      "p": "Following the loss of tag team standout Andy \"The Butcher\" Williams, Enjoy Wrestling's Co-Promoter Kurt Hackimer provides a statement on what happened.",
-      "link": "https://www.wrestlinginc.com/2252278/aew-andy-williams-butcher-kurt-hackimer-enjoy-wrestling-indie-promoter-issues-statement-death/",
-      "t": "19h",
-      "dt": "2026-09-07T19:42:22+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW announces Green Bay debut for November",
-      "p": "AEW is coming to Green Bay, Wisconsin for the first time ever. The promotion announced today that the Saturday, November 21 episode of Collision will take place from Green Bay at the Resch Center....",
-      "link": "https://www.f4wonline.com/news/aew/aew-announces-green-bay-debut-for-november/",
-      "t": "22h",
-      "dt": "2026-09-07T16:47:26+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "More tributes pour in for Andy Williams: Allie, Cody Rhodes & others",
-      "p": "Tributes continue to come in for Andy Williams, a \"pure heart and soul\" who wrestled in AEW as The Butcher. The post More tributes pour in for Andy Williams: Allie, Cody Rhodes & others appeared...",
-      "link": "https://www.postwrestling.com/2026/09/07/more-tributes-pour-in-for-andy-williams-allie-cody-rhodes-others/",
-      "t": "22h",
-      "dt": "2026-09-07T16:27:11+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW announces first-ever Green Bay TV taping for November 21",
-      "p": "AEW's first-ever trip to Green Bay, Wisconsin, will come this fall in the form of a Collision taping at the Resch Center. The post AEW announces first-ever Green Bay TV taping for November 21...",
-      "link": "https://www.postwrestling.com/2026/09/07/aew-announces-first-ever-green-bay-tv-taping-for-november-21/",
-      "t": "23h",
-      "dt": "2026-09-07T15:37:24+00:00"
     }
   ]
 }

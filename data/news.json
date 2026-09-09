@@ -1,22 +1,86 @@
 {
-  "updated": "2026-09-09T00:10:56.833453+00:00",
+  "updated": "2026-09-09T04:38:02.999989+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Mercedes Martinez says she is uninsured, must pay for ACL surgery before it can be scheduled",
+      "p": "Former AEW and WWE wrestler Mercedes Martinez is currently seeking financial help for her ACL surgery. While previously scheduled to have her final run in 2026, Martinez was recently forced to...",
+      "link": "https://www.f4wonline.com/news/mercedes-martinez-says-she-is-uninsured-must-pay-for-acl-surgery-before-it-can-be-scheduled/",
+      "t": "1h",
+      "dt": "2026-09-09T03:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kevin Knight names Mr. Perfect, The Rock & Jeff Hardy among influences on his wrestling style",
+      "p": "Former AEW TNT Champion Kevin Knight has named the figures that influenced his wrestling style. The 29-year-old Knight is currently one of the most popular wrestlers on the AEW roster. A...",
+      "link": "https://www.f4wonline.com/news/aew/kevin-knight-names-mr-perfect-the-rock-jeff-hardy-among-influences-on-his-wrestling-style/",
+      "t": "2h",
+      "dt": "2026-09-09T02:29:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 9/8 – WKH – The News: Dynamite preview, Dynamite viewership surge, The Butcher, Bill Dundee, Pharaoh, Oba opponent possibilities, Bayley, Netflix viewership, more (19 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: A preview of AEW Dynamite’s strong line-up tomorrow The Death of...",
+      "link": "https://www.pwtorch.com/site/2026/09/08/vip-podcast-9-8-wkh-the-news-dynamite-preview-dynamite-viewership-surge-the-butcher-bill-dundee-pharaoh-oba-opponent-possibilities-bayley-netflix-viewership-more-19-min/",
+      "t": "2h",
+      "dt": "2026-09-09T02:06:27+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW’s Harley Cameron Appears On Agent’s Stream",
+      "p": "Harley Cameron makes a stream appearance. AMP Agent went live on Twitch, and making an appearance on his stream was one-half of the first-ever AEW Women’s World Tag Team Champions, Harley Cameron....",
+      "link": "https://www.fightful.com/wrestling-news/aews-harley-cameron-appears-on-agents-stream/",
+      "t": "2h",
+      "dt": "2026-09-09T01:54:46+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW reportedly in talks with free agent formerly in WWE",
+      "p": "AEW may be looking to add its ranks with more former WWE talent as a new report out Tuesday has the company in talks with Kairi Sane. Fightful Select reported that while there have been talks,...",
+      "link": "https://www.f4wonline.com/news/aew/kairi-sane-aew-contract-talks-update/",
+      "t": "2h",
+      "dt": "2026-09-09T01:54:01+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Pursuing Former WWE Star",
+      "p": "AEW is reportedly in talks to sign a former WWE star.",
+      "link": "https://www.wrestlinginc.com/2253467/aew-pursuing-former-wwe-star-kairi-sane/",
+      "t": "3h",
+      "dt": "2026-09-09T01:02:27+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Ace Austin Says He Was ‘Enthralled’ By Kofi: “I Have A Feeling The Bang Bang Gang Will Encounter The New Level”",
+      "p": "Ace Austin took inspiration from Kofi. The newest arrivals to All Elite Wrestling are The New Level (Kofi & Austin Creed). Upon their debut alongside Swerve Strickland, they became the AEW World...",
+      "link": "https://www.fightful.com/wrestling-news/ace-austin-says-he-was-enthralled-by-kofi-i-have-a-feeling-the-bang-bang-gang-will-encounter-the-new-level/",
+      "t": "4h",
+      "dt": "2026-09-09T00:36:32+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "KAIRI And AEW Have Held Talks",
+      "p": "Details on the future of Kairi Sane. Fightful Select reports, “AEW and KAIRI have held talks, though a deal has not been completed.” Full details are available for subscribers. Sane was released...",
+      "link": "https://www.fightful.com/wrestling-news/kairi-and-aew-have-held-talks/",
+      "t": "4h",
+      "dt": "2026-09-09T00:24:58+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite rating (9/3): How did the All In London fallout edition perform?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (9/3): How did the All In London fallout edition perform? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/08/aew-dynamite-rating-9-3-how-did-the-all-in-london-fallout-edition-perform/",
-      "t": "0m",
+      "t": "4h",
       "dt": "2026-09-09T00:10:10+00:00"
     },
     {
@@ -24,23 +88,15 @@
       "h": "Millvale Police Department Releases Statement On Death Of Ex-AEW Star Andy Williams",
       "p": "The Millvale Police Department issued a statement on the death of former AEW star \"The Butcher\" Andy Williams, who died after a match over the weekend.",
       "link": "https://www.wrestlinginc.com/2253447/butcher-andy-williams-millvale-police-department-statement/",
-      "t": "29m",
+      "t": "4h",
       "dt": "2026-09-08T23:41:41+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH Pays Tribute To ‘The Butcher’ Andy Williams At TV Tapings",
-      "p": "“The Butcher” Andy Williams passed away over the weekend at the age of 48. Williams competed in AEW from 2019 to 2025, and in ROH in 2023 and 2024. Before the ROH TV tapings in Jacksonville, FL on...",
-      "link": "https://www.fightful.com/wrestling-news/roh-pays-tribute-to-the-butcher-andy-williams-at-tv-tapings/",
-      "t": "1h",
-      "dt": "2026-09-08T22:47:53+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Tony Khan Opens ROH Taping With 10-Bell Salute For 'The Butcher' Andy Williams",
       "p": "AEW President Tony Khan opened Tuesday's ROH taping with a 10-bell salute for \"The Butcher,\" Andy Williams, who died over the weekend.",
       "link": "https://www.wrestlinginc.com/2253387/aew-tony-khan-roh-taping-10-bell-salute-butcher-andy-williams/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-09-08T22:01:51+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "AEW Star Swerve Strickland Explains How Psychology Has Changed In Pro Wrestling",
       "p": "AEW star Swerve Strickland explains his philosophy on wrestling psychology, and how he feels psychology has changed in pro wrestling over the years",
       "link": "https://www.wrestlinginc.com/2253380/aew-swerve-strickland-psychology-changed/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-09-08T21:58:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH pays tribute to Andy Williams at taping, police issue statement on death",
-      "p": "Tuesday gave AEW/ROH an opportunity to pay tribute to Andy “The Butcher” Williams in Jacksonville, Florida. The September 8 ROH taping at WJCT Studios opened with a 10-bell salute to Williams....",
-      "link": "https://www.f4wonline.com/news/aew/roh-pays-tribute-to-andy-williams-at-taping-police-issue-statement-on-death/",
-      "t": "2h",
-      "dt": "2026-09-08T21:53:05+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Athena Says Maya World Called Her In The Middle Of The Night After Getting Signed To AEW",
-      "p": "Athena comments on Maya World getting signed by AEW. Fans rejoiced when Tony Khan announced the signings of Maya World and Hyan during the AEW Worlds End event in December 2025. Since then, World...",
-      "link": "https://www.fightful.com/wrestling-news/athena-says-maya-world-called-her-in-the-middle-of-the-night-after-getting-signed-to-aew/",
-      "t": "3h",
-      "dt": "2026-09-08T21:02:30+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "EVE 153: EVE x THE WORLD 2: A look at the event including AEW’s involvement All In week with Kris Statlander in the main event, Skye Blue, Marina Shafir, Nyla Rose",
-      "p": "PRO WRESTLING EVE 153 X THE WORLD 2 AUGUST 28, 2026 LONDON, ENGLAND AT THE BIG PENNY SOCIAL STREAMED ON YOUTUBE REPORT BY JEFF RUSH, PWTORCH CONTRIBUTOR EVE 153 is in the books. It was [...]",
-      "link": "https://www.pwtorch.com/site/2026/09/08/eve-153-eve-x-the-world-2-a-look-at-the-event-including-aews-involvement-all-in-week-with-kris-statlander-in-the-main-event-skye-blue-marina-shafir-nyla-rose/",
-      "t": "3h",
-      "dt": "2026-09-08T20:23:08+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW Dynamite viewership surges the last two weeks around All In season, context on trends this summer",
-      "p": "Last Wednesday’s (9/2) episode of AEW Dynamite on TBS averaged 796,000 viewers, according to the latest Nielsen Media Research data, according to our industry sources. It also drew a 0.15 key...",
-      "link": "https://www.pwtorch.com/site/2026/09/08/aew-dynamite-viewership-surges-the-last-two-weeks-around-all-in-season-context-on-trends-this-summer/",
-      "t": "4h",
-      "dt": "2026-09-08T20:01:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Athena details pushing Tony Khan to give Maya World an AEW opportunity",
-      "p": "Athena detailed her efforts to get Tony Khan to give Maya World a shot in AEW. During a recent interview with Denise Salcedo, Athena spoke about pushing for Khan to give World an opportunity. She...",
-      "link": "https://www.f4wonline.com/news/aew/athena-details-pushing-tony-khan-to-give-maya-world-an-aew-opportunity/",
-      "t": "4h",
-      "dt": "2026-09-08T19:42:59+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Hosting All Out Block Party Prior To PPV",
-      "p": "AEW All Out will emanate from the NOW Arena in Chicago on September 26, 2026. The same day, WWE's Worlds Collide will be the same day and in the same city.",
-      "link": "https://www.wrestlinginc.com/2253171/aew-hosting-all-out-block-party-prior-ppv/",
-      "t": "5h",
-      "dt": "2026-09-08T19:02:14+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW to run block party prior to All Out in Illinois on Sept. 26",
-      "p": "AEW is turning All Out into an all-day affair in Illinois with the announcement of a block party before the pay-per-view. The post AEW to run block party prior to All Out in Illinois on Sept. 26...",
-      "link": "https://www.postwrestling.com/2026/09/08/aew-to-run-block-party-prior-to-all-out-in-illinois-on-sept-26/",
-      "t": "5h",
-      "dt": "2026-09-08T18:38:20+00:00"
     }
   ]
 }

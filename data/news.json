@@ -1,38 +1,62 @@
 {
-  "updated": "2026-09-09T14:33:16.715588+00:00",
+  "updated": "2026-09-09T18:33:03.549169+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "FAILED (HTTP Error 404: Not Found)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Is Moxley right choice to headline All Out, Thekla was pushed too fast but fans have now embraced her, what’s holding back Gabe Kidd now",
+      "p": "Welcome everyone! Another week of AEW is in the books and it finally feels like AEW has landed on a good place for post PPV Dynamites, finally. It may have taken 6-7 years but they [...]",
+      "link": "https://www.pwtorch.com/site/2026/09/09/aew-rising-and-fading-stars-is-moxley-right-choice-to-headline-all-out-thekla-was-pushed-too-fast-but-fans-have-now-embraced-her-whats-holding-back-gabe-kidd-now/",
+      "t": "1h",
+      "dt": "2026-09-09T16:38:37+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Google Search interest flat year-on-year despite major All In spike",
+      "p": "AEW All In 2026 generated the promotion’s biggest US Google Search spike of the past 3 months, but the increase from that show has not translated into sustained growth in the weeks following....",
+      "link": "https://www.f4wonline.com/news/aew/aew-google-search-interest-flat-year-on-year-all-in-spike/",
+      "t": "2h",
+      "dt": "2026-09-09T15:39:24+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Former WWE EVOLVE name wrestles match at ROH TV tapings",
+      "p": "A former competitor on WWE's \"Legends & Future Greats\" reality competition series appeared at ROH tapings earlier this week. The post Former WWE EVOLVE name wrestles match at ROH TV tapings...",
+      "link": "https://www.postwrestling.com/2026/09/09/former-wwe-evolve-name-wrestles-match-at-roh-tv-tapings/",
+      "t": "3h",
+      "dt": "2026-09-09T15:19:04+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (9/9): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, SEPTEMBER 9, 2026 Where: ATHENS, GA. AT AKINS FORD ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,235 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/09/09/aew-dynamite-preview-9-9-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "3h",
+      "dt": "2026-09-09T14:50:18+00:00"
+    },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite preview: Tonight’s “Rebel Heart” edition",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s “Rebel Heart” edition appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/09/aew-dynamite-preview-tonights-rebel-heart-edition/",
-      "t": "33m",
+      "t": "4h",
       "dt": "2026-09-09T14:00:09+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report, 9/2/2026",
-      "p": "The post-All In episode of AEW Dynamite saw a marginal increase in average viewership but a decline in the all-important key demographic rating.",
-      "link": "https://www.wrestlinginc.com/2253535/aew-dynamite-viewership-ratings-report-september-2-2026/",
-      "t": "33m",
-      "dt": "2026-09-09T14:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW star accepts Shingo Takagi’s NJPW Destruction in Kobe challenge",
       "p": "A big match is officially on the books for NJPW Destruction in Kobe. NJPW aired a video this morning with AEW star Claudio Castagnoli accepting Shingo Takagi’s challenge for the September 27...",
       "link": "https://www.f4wonline.com/news/aew/aew-star-accepts-shingo-takagis-njpw-destruction-in-kobe-challenge/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-09-09T12:37:39+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "AEW Dynamite “Rebel Heart” in Athens (reports needed), WWE Evolve, WWE in Columbia (reports needed), last week’s Dynamite and Collision grades, Sarah Rowe, Lexis King, Jun Kasai, El Intocable, Zilla Fatu, Thea Hail, Ida Mae Martinez",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite “Rebel Heart” in Athens (reports needed), WWE Evolve, WWE in Columbia (reports needed), last week’s Dynamite and Collision grades,...",
       "link": "https://prowrestling.net/site/2026/09/09/aew-dynamite-rebel-heart-in-athens-reports-needed-wwe-evolve-wwe-in-columbia-reports-needed-last-weeks-dynamite-and-collision-grades-sarah-rowe-lexis-king-jun-kasai-el-intocable-zill/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-09-09T12:00:38+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "AEW Dynamite Rebel Heart ticket sales ahead of tonight’s show",
       "p": "AEW Dynamite takes place tonight from the Akins Ford Arena in Athens, GA and is the Rebel Heart edition of the show, dedicated to Tanea Brooks, known as Rebel (Not Reba), who was diagnosed with...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-rebel-heart-ticket-sales-tonight-show/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-09-09T07:47:23+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "AEW Dynamite Start Time Tonight (09-09-2026)",
       "p": "AEW Dynamite takes place tonight from the Akins Ford Arena in Athens, GA and is the Rebel Heart edition of the show, dedicated to Tanea Brooks, known as Rebel (Not Reba), who was diagnosed with...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-09-09-2026/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-09-09T07:35:04+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "AEW Dynamite Preview: Confirmed matches and segments (09-09-2026)",
       "p": "AEW Dynamite takes place tonight from the Akins Ford Arena in Athens, GA and is the Rebel Heart edition of the show, dedicated to Tanea Brooks, known as Rebel (Not Reba), who was diagnosed with...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-09-09-2026/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-09-09T07:25:11+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "ROH TV spoilers from Jacksonville",
       "p": "ROH returned to WJCT Studios in Jacksonville, Florida on Tuesday for another round of Ring of Honor television tapings. These matches will air on HonorClub in the coming weeks. Here are the results:",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-tv-spoilers-from-jacksonville/",
-      "t": "8h",
+      "t": "12h",
       "dt": "2026-09-09T06:28:52+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "FREE PODCAST 9/8 – WKPWP Tuesday Flagship: Keller & Fann with eyewitness report on in-ring death of The Butcher, SNME reaction, Dynamite preview, Takahashi, WWE Radio, The Vision, Message Boards (148 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Rich Fann, a PWTorch columnist. They discuss these...",
       "link": "https://www.pwtorch.com/site/2026/09/08/free-podcast-9-8-wkpwp-tuesday-flagship-keller-fann-with-eyewitness-report-on-in-ring-death-of-the-butcher-snme-reaction-dynamite-preview-takahashi-wwe-radio-the-vision-message-boar/",
-      "t": "9h",
-      "dt": "2026-09-09T04:51:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mercedes Martinez says she is uninsured, must pay for ACL surgery before it can be scheduled",
-      "p": "Former AEW and WWE wrestler Mercedes Martinez is currently seeking financial help for her ACL surgery. While previously scheduled to have her final run in 2026, Martinez was recently forced to...",
-      "link": "https://www.f4wonline.com/news/mercedes-martinez-says-she-is-uninsured-must-pay-for-acl-surgery-before-it-can-be-scheduled/",
-      "t": "11h",
-      "dt": "2026-09-09T03:00:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 9/8 – WKH – The News: Dynamite preview, Dynamite viewership surge, The Butcher, Bill Dundee, Pharaoh, Oba opponent possibilities, Bayley, Netflix viewership, more (19 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: A preview of AEW Dynamite’s strong line-up tomorrow The Death of...",
-      "link": "https://www.pwtorch.com/site/2026/09/08/vip-podcast-9-8-wkh-the-news-dynamite-preview-dynamite-viewership-surge-the-butcher-bill-dundee-pharaoh-oba-opponent-possibilities-bayley-netflix-viewership-more-19-min/",
-      "t": "12h",
-      "dt": "2026-09-09T02:06:27+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Reportedly Pursuing Former WWE Star",
-      "p": "AEW is reportedly in talks to sign a former WWE star.",
-      "link": "https://www.wrestlinginc.com/2253467/aew-pursuing-former-wwe-star-kairi-sane/",
       "t": "13h",
-      "dt": "2026-09-09T01:02:27+00:00"
+      "dt": "2026-09-09T04:51:47+00:00"
     }
   ]
 }

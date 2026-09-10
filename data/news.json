@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-10T00:11:58.124070+00:00",
+  "updated": "2026-09-10T04:40:35.258261+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,100 +12,100 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW/ROH wrestler Taya Valkyrie joins The Traitors Canada season 4 cast",
+      "p": "Wrestling veteran Taya Valkyrie is now all set to be a part of The Traitors Canada Season 4. Signed to AEW since 2023, Valkyrie is now to participate in Season 4 of The Traitors Canada. The new...",
+      "link": "https://www.f4wonline.com/news/aew-roh-wrestler-taya-valkyrie-joins-the-traitors-canada-season-4-cast/",
+      "t": "40m",
+      "dt": "2026-09-10T04:00:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "09/09 Powell’s AEW Dynamite audio review: Rebel Heart edition with AEW World Champion Will Ospreay vs. David Finlay in an eliminator match",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 09/09 Powell’s AEW Dynamite audio review: Rebel Heart edition with AEW World Champion Will Ospreay vs. David Finlay in an eliminator match...",
+      "link": "https://prowrestling.net/site/2026/09/09/09-09-powells-aew-dynamite-audio-review-rebel-heart-edition-with-aew-world-champion-will-ospreay-vs-david-finlay-in-an-eliminator-match/",
+      "t": "49m",
+      "dt": "2026-09-10T03:51:16+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "RevPro owner explains thought process in not airing Leon Slater match on MyAEW",
+      "p": "TNA star and future World title challenger Leon Slater appeared for UK indie promotion RevPro during AEW All In weekend and while the show was available on MyAEW, Slater’s match was not....",
+      "link": "https://www.f4wonline.com/news/aew/revpro-owner-explains-not-airing-leon-slater-match-my-aew/",
+      "t": "1h",
+      "dt": "2026-09-10T02:54:42+00:00"
+    },
+    {
       "src": "POST Wrestling",
-      "h": "AEW Dynamite Rebel Heart Live Results: Ospreay vs. Finlay, Trios title match",
-      "p": "Follow POST Wrestling's live coverage of AEW Dynamite: Rebel Heart as it goes down this evening. The post AEW Dynamite Rebel Heart Live Results: Ospreay vs. Finlay, Trios title match appeared...",
+      "h": "Death Riders vs. United Empire, Jericho vs. Nick Wayne booked for 9/16 AEW Dynamite",
+      "p": "A six-man Death Riders vs. United Empire bout & Jericho vs. Nick Wayne has been added to next week's AEW Dynamite from Norfolk, Virginia. The post Death Riders vs. United Empire, Jericho vs. Nick...",
+      "link": "https://www.postwrestling.com/2026/09/09/death-riders-vs-united-empire-jericho-vs-nick-wayne-booked-for-9-16-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-09-10T02:48:27+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW to present tribute to Andy Williams on Saturday’s Collision",
+      "p": "AEW's live edition of Collision this Saturday from Springfield, Massachusetts will feature a tribute to Andy Williams. The post AEW to present tribute to Andy Williams on Saturday’s Collision...",
+      "link": "https://www.postwrestling.com/2026/09/09/aew-to-present-tribute-to-andy-williams-on-saturdays-collision/",
+      "t": "2h",
+      "dt": "2026-09-10T02:39:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Chris Jericho vs. Nick Wayne, Death Riders Trios Bout Set For 9/16 AEW Dynamite",
+      "p": "Here’s what’s on tap for the September 16 episode of AEW Dynamite. The show will feature a singles contest between Chris Jericho and Nick Wayne. This match comes after Jericho laid out Wayne with...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-327541/",
+      "t": "2h",
+      "dt": "2026-09-10T02:34:32+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "First two matches announced for next AEW Dynamite",
+      "p": "Next week’s AEW Dynamite from Norfolk, Virginia, will feature the main event of this month’s All Out pay-per-view on opposite sides of the ring. AEW World Champion Will Ospreay (pictured above)...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-lineup-norfolk-jericho-ospreay-moxley/",
+      "t": "2h",
+      "dt": "2026-09-10T02:29:29+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "‘The Butcher’ Andy Williams Tribute Set For 9/12 AEW Collision",
+      "p": "AEW will continue to honor The Butcher on the September 12 episode of AEW Collision. Following his unexpected passing, Collision will feature a tribute for ‘The Butcher’ Andy Williams. AEW first...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-butcher-327540/",
+      "t": "2h",
+      "dt": "2026-09-10T02:23:13+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite Rebel Heart Results: New Level & Strickland defend trios gold, Steven Borden makes in-ring debut",
+      "p": "AEW dedicated the night to company original Rebel, who is currently battling a terminal ALS diagnosis, on Wednesday night. The post AEW Dynamite Rebel Heart Results: New Level & Strickland defend...",
       "link": "https://www.postwrestling.com/2026/09/09/aew-dynamite-rebel-heart-live-results-ospreay-vs-finlay-trios-title-match/",
-      "t": "12m",
-      "dt": "2026-09-09T23:59:10+00:00"
+      "t": "2h",
+      "dt": "2026-09-10T02:00:10+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Steven Borden Makes TV Debut, Pins Josh Alexander On Rebel Heart AEW Dynamite",
+      "p": "Steven Borden picks up a major win. This week’s episode of AEW Dynamite featured the AEW TV debut of Borden, who teamed with Darby Allin to face the Don Callis Family duo of Josh Alexander and...",
+      "link": "https://www.fightful.com/wrestling-news/steven-borden-makes-tv-debut-pins-josh-alexander-on-rebel-heart-aew-dynamite/",
+      "t": "2h",
+      "dt": "2026-09-10T01:55:04+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "AEW Dynamite results (9/9): Powell’s review of the Rebel Heart edition with AEW World Champion Will Ospreay vs. David Finlay in an eliminator match",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite results (9/9): Powell’s review of the Rebel Heart edition with AEW World Champion Will Ospreay vs. David Finlay in an eliminator...",
-      "link": "https://prowrestling.net/site/2026/09/09/aew-dynamite-results-9-9-powells-review-of-the-rebel-heart-edition-with-aew-world-champion-will-ospreay-vs-david-finlay-in-an-eliminator-match/",
-      "t": "41m",
-      "dt": "2026-09-09T23:30:52+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Rebel Heart Results (9/9/2026): Britt Baker & Rebel Present The Waiting Room, Will Ospreay vs. David Finlay, More",
-      "p": "Full results for the September 9, 2026, edition of AEW Dynamite Rebel Heart on TBS, live from the Akins Ford Arena in Athens, Georgia. On September 9, 2026, All Elite Wrestling hosted a new...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-rebel-heart-results-9-9-2026-britt-baker-rebel-present-the-waiting-room-will-ospreay-vs-david-finlay-more/",
-      "t": "56m",
-      "dt": "2026-09-09T23:15:00+00:00"
+      "h": "AEW Dynamite Poll: Grade the September 9 Rebel Heart edition",
+      "p": "Loading… The post AEW Dynamite Poll: Grade the September 9 Rebel Heart edition appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/09/aew-dynamite-poll-grade-the-september-9-rebel-heart-edition/",
+      "t": "2h",
+      "dt": "2026-09-10T01:50:40+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Rebel Heart Dynamite live results: Will Ospreay vs. David Finlay",
-      "p": "It’s a special episode of AEW Dynamite tonight as the wrestling world celebrates Rebel, who was diagnosed with ALS earlier this year. Scheduled for tonight’s show is an AEW World Championship...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-rebel-heart-dynamite-live-results-will-ospreay-vs-david-finlay/",
-      "t": "56m",
-      "dt": "2026-09-09T23:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Rebel Heart Results 9/9 - Women's Trios Match, World Trios Title On The Line",
-      "p": "This is Wrestling Inc.'s coverage for \"AEW Dynamite\" Rebel Heart on September 9, with a women's trios match including the likes of Britt Baker & Persephone!",
-      "link": "https://www.wrestlinginc.com/2253486/aew-dynamite-september-9-womens-trios-match-world-trios-championship-on-line/",
-      "t": "1h",
-      "dt": "2026-09-09T23:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Orange Cassidy Wants To Play The Flash In The DCU, ‘I Think It’d Be Funny’",
-      "p": "Orange Cassidy wants to be in the DCU. James Gunn kicked off the DC Universe reboot with ‘Superman’, which hit theaters in July 2025. When it comes to the future, the extended universe will...",
-      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-wants-to-play-the-flash-in-the-dcu-i-think-itd-be-funny/",
-      "t": "1h",
-      "dt": "2026-09-09T22:31:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: AEW Rebel Heart, Joe Hendry album, Taya Valkyrie",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Wednesday Update...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-rebel-heart-joe-hendry-album-taya-valkyrie/",
-      "t": "2h",
-      "dt": "2026-09-09T21:46:24+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "RevPro Owner Andy Quildan Reflects On Decision To Not Air Leon Slater Bout On MyAEW",
-      "p": "Andy Quildan discusses his decision to not air Leon Slater vs. Liam Slater on MyAEW. The match, which took place at the RevPro anniversary event in August, was omitted from the broadcast on MyAEW....",
-      "link": "https://www.fightful.com/wrestling-news/revpro-owner-andy-quildan-reflects-on-decision-to-not-air-leon-slater-bout-on-myaew/",
-      "t": "2h",
-      "dt": "2026-09-09T21:17:15+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: Celebration of Life for Andy Williams, Castagnoli vs. Shingo & Glenn Jacobs Senate report",
-      "p": "Jack Wannan chats about an AEW vs. NJPW match, a report on Glenn Jacobs’ political future, and a celebration of life for Andy Williams. Available for Double Double & Espresso members at...",
-      "link": "https://www.postwrestling.com/2026/09/09/post-news-celebration-of-life-for-andy-williams-castagnoli-vs-shingo-glenn-jacobs-senate-report/",
+      "h": "AEW honors ‘The Butcher’ Andy Williams on Dynamite, tribute show set for Collision",
+      "p": "Days after his tragic death during an indie match in Pennsylvania, AEW honored the late Andy Williams, better known as “The Butcher” to wrestling fans, during Wednesday’s Rebel Heart edition of...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-announce-team-tribute-butcher-andy-williams/",
       "t": "3h",
-      "dt": "2026-09-09T21:00:29+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Tonight’s “Rebel Heart” edition",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s “Rebel Heart” edition appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/09/aew-dynamite-preview-tonights-rebel-heart-edition/",
-      "t": "3h",
-      "dt": "2026-09-09T21:00:09+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "RevPro’s Andy Quildan on pulling Leon Slater match from MyAEW feed: ‘Maybe we did the wrong thing’",
-      "p": "Reflecting on his decision to not air TNA wrestler Leon Slater's match on MyAEW last month, Andy Quildan says it might've been the wrong move. The post RevPro’s Andy Quildan on pulling Leon Slater...",
-      "link": "https://www.postwrestling.com/2026/09/09/revpros-andy-quildan-on-pulling-leon-slater-match-from-myaew-feed-maybe-we-did-the-wrong-thing/",
-      "t": "3h",
-      "dt": "2026-09-09T20:33:31+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW’s Taya Valkyrie to appear on reality show The Traitors Canada beginning Sept. 21",
-      "p": "AEW's Taya Valkyrie is expected to compete on Season 4 of CTV's The Traitors Canada, which begins airing September 21. The post AEW’s Taya Valkyrie to appear on reality show The Traitors Canada...",
-      "link": "https://www.postwrestling.com/2026/09/09/aews-taya-valkyrie-to-appear-on-reality-show-the-traitors-canada-beginning-sept-21/",
-      "t": "3h",
-      "dt": "2026-09-09T20:19:17+00:00"
+      "dt": "2026-09-10T01:38:28+00:00"
     }
   ]
 }

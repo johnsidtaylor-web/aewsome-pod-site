@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-09T21:40:05.509582+00:00",
+  "updated": "2026-09-10T00:11:58.124070+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,67 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite Rebel Heart Live Results: Ospreay vs. Finlay, Trios title match",
+      "p": "Follow POST Wrestling's live coverage of AEW Dynamite: Rebel Heart as it goes down this evening. The post AEW Dynamite Rebel Heart Live Results: Ospreay vs. Finlay, Trios title match appeared...",
+      "link": "https://www.postwrestling.com/2026/09/09/aew-dynamite-rebel-heart-live-results-ospreay-vs-finlay-trios-title-match/",
+      "t": "12m",
+      "dt": "2026-09-09T23:59:10+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite results (9/9): Powell’s review of the Rebel Heart edition with AEW World Champion Will Ospreay vs. David Finlay in an eliminator match",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite results (9/9): Powell’s review of the Rebel Heart edition with AEW World Champion Will Ospreay vs. David Finlay in an eliminator...",
+      "link": "https://prowrestling.net/site/2026/09/09/aew-dynamite-results-9-9-powells-review-of-the-rebel-heart-edition-with-aew-world-champion-will-ospreay-vs-david-finlay-in-an-eliminator-match/",
+      "t": "41m",
+      "dt": "2026-09-09T23:30:52+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Rebel Heart Results (9/9/2026): Britt Baker & Rebel Present The Waiting Room, Will Ospreay vs. David Finlay, More",
+      "p": "Full results for the September 9, 2026, edition of AEW Dynamite Rebel Heart on TBS, live from the Akins Ford Arena in Athens, Georgia. On September 9, 2026, All Elite Wrestling hosted a new...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-rebel-heart-results-9-9-2026-britt-baker-rebel-present-the-waiting-room-will-ospreay-vs-david-finlay-more/",
+      "t": "56m",
+      "dt": "2026-09-09T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Rebel Heart Dynamite live results: Will Ospreay vs. David Finlay",
+      "p": "It’s a special episode of AEW Dynamite tonight as the wrestling world celebrates Rebel, who was diagnosed with ALS earlier this year. Scheduled for tonight’s show is an AEW World Championship...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-rebel-heart-dynamite-live-results-will-ospreay-vs-david-finlay/",
+      "t": "56m",
+      "dt": "2026-09-09T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Rebel Heart Results 9/9 - Women's Trios Match, World Trios Title On The Line",
+      "p": "This is Wrestling Inc.'s coverage for \"AEW Dynamite\" Rebel Heart on September 9, with a women's trios match including the likes of Britt Baker & Persephone!",
+      "link": "https://www.wrestlinginc.com/2253486/aew-dynamite-september-9-womens-trios-match-world-trios-championship-on-line/",
+      "t": "1h",
+      "dt": "2026-09-09T23:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Orange Cassidy Wants To Play The Flash In The DCU, ‘I Think It’d Be Funny’",
+      "p": "Orange Cassidy wants to be in the DCU. James Gunn kicked off the DC Universe reboot with ‘Superman’, which hit theaters in July 2025. When it comes to the future, the extended universe will...",
+      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-wants-to-play-the-flash-in-the-dcu-i-think-itd-be-funny/",
+      "t": "1h",
+      "dt": "2026-09-09T22:31:50+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: AEW Rebel Heart, Joe Hendry album, Taya Valkyrie",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Wednesday Update...",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-rebel-heart-joe-hendry-album-taya-valkyrie/",
+      "t": "2h",
+      "dt": "2026-09-09T21:46:24+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "RevPro Owner Andy Quildan Reflects On Decision To Not Air Leon Slater Bout On MyAEW",
       "p": "Andy Quildan discusses his decision to not air Leon Slater vs. Liam Slater on MyAEW. The match, which took place at the RevPro anniversary event in August, was omitted from the broadcast on MyAEW....",
       "link": "https://www.fightful.com/wrestling-news/revpro-owner-andy-quildan-reflects-on-decision-to-not-air-leon-slater-bout-on-myaew/",
-      "t": "22m",
+      "t": "2h",
       "dt": "2026-09-09T21:17:15+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "POST NEWS: Celebration of Life for Andy Williams, Castagnoli vs. Shingo & Glenn Jacobs Senate report",
       "p": "Jack Wannan chats about an AEW vs. NJPW match, a report on Glenn Jacobs’ political future, and a celebration of life for Andy Williams. Available for Double Double & Espresso members at...",
       "link": "https://www.postwrestling.com/2026/09/09/post-news-celebration-of-life-for-andy-williams-castagnoli-vs-shingo-glenn-jacobs-senate-report/",
-      "t": "39m",
+      "t": "3h",
       "dt": "2026-09-09T21:00:29+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "AEW Dynamite preview: Tonight’s “Rebel Heart” edition",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s “Rebel Heart” edition appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/09/aew-dynamite-preview-tonights-rebel-heart-edition/",
-      "t": "39m",
+      "t": "3h",
       "dt": "2026-09-09T21:00:09+00:00"
     },
     {
@@ -40,7 +96,7 @@
       "h": "RevPro’s Andy Quildan on pulling Leon Slater match from MyAEW feed: ‘Maybe we did the wrong thing’",
       "p": "Reflecting on his decision to not air TNA wrestler Leon Slater's match on MyAEW last month, Andy Quildan says it might've been the wrong move. The post RevPro’s Andy Quildan on pulling Leon Slater...",
       "link": "https://www.postwrestling.com/2026/09/09/revpros-andy-quildan-on-pulling-leon-slater-match-from-myaew-feed-maybe-we-did-the-wrong-thing/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-09-09T20:33:31+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "AEW’s Taya Valkyrie to appear on reality show The Traitors Canada beginning Sept. 21",
       "p": "AEW's Taya Valkyrie is expected to compete on Season 4 of CTV's The Traitors Canada, which begins airing September 21. The post AEW’s Taya Valkyrie to appear on reality show The Traitors Canada...",
       "link": "https://www.postwrestling.com/2026/09/09/aews-taya-valkyrie-to-appear-on-reality-show-the-traitors-canada-beginning-sept-21/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-09-09T20:19:17+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Ex-WWE, Current AEW Star Taya Valkyrie Joins Canadian Version Of Popular Reality Series",
-      "p": "Former WWE star and current AEW/ROH star Taya Valkyrie is part of the cast for the upcoming fourth season of the popular reality series The Traitors Canada",
-      "link": "https://www.wrestlinginc.com/2254296/wwe-aew-taya-valkyrie-traitors-canadian-version-popular-reality-series/",
-      "t": "1h",
-      "dt": "2026-09-09T20:12:16+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Andy Williams Celebration of Life announced for Sept. 27",
-      "p": "A Celebration of Life for ex-AEW wrestler and Every Time I Die co-founder Andy Williams will take place later this month in Buffalo. The post Andy Williams Celebration of Life announced for Sept....",
-      "link": "https://www.postwrestling.com/2026/09/09/andy-williams-celebration-of-life-announced-for-sept-27/",
-      "t": "1h",
-      "dt": "2026-09-09T20:02:03+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Andy Quildan: RevPro at Wembley Debrief | Will Ospreay | State of Promotion",
-      "p": "John Pollock speaks with RevPro promoter Andy Quildan after the promotion’s 14th Anniversary show at OVO Wembley, and about its future goals. The post Andy Quildan: RevPro at Wembley Debrief |...",
-      "link": "https://www.postwrestling.com/2026/09/09/andy-quildan-revpro-at-wembley-debrief-will-ospreay-state-of-promotion/",
-      "t": "1h",
-      "dt": "2026-09-09T20:00:20+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Tone D’s Takes: AEW All In and the fallout, Darby Allin’s act is repetitive, now is the time to spotlight the tag team division, a wrestler who deserved a bigger role at AEW’s biggest event of the year",
-      "p": "By Tony Donofrio, ProWrestling.net Contributor... The post Tone D’s Takes: AEW All In and the fallout, Darby Allin’s act is repetitive, now is the time to spotlight the tag team division, a...",
-      "link": "https://prowrestling.net/site/2026/09/09/tone-ds-takes-aew-all-in-and-the-fallout-darby-allins-act-is-repetitive-now-is-the-time-to-spotlight-the-tag-team-division-a-wrestler-who-deserved-a-bigger-role-at-aews-biggest-event-of-the/",
-      "t": "2h",
-      "dt": "2026-09-09T19:10:55+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Andy Williams (AEW's The Butcher) To Receive Public Celebration Of Life In Hometown",
-      "p": "The late Andy Williams, aka AEW's The Butcher, is set to receive a public celebration of life in his hometown of Buffalo, New York later in September",
-      "link": "https://www.wrestlinginc.com/2253939/aew-andy-williams-butcher-public-celebration-life-hometown-buffalo-new-york/",
-      "t": "4h",
-      "dt": "2026-09-09T17:06:09+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kofi Explains Full Circle Moment Of Debuting Beside Prince Nana At AEW All In 2026",
-      "p": "AEW's Kofi explains how he was impacted by Prince Nana as a young WWE star, making it \"crazy\" for the two of them to be part of the same group in 2026.",
-      "link": "https://www.wrestlinginc.com/2253936/kofi-prince-nana-aew-all-in-2026-full-circle-moment-debut/",
-      "t": "4h",
-      "dt": "2026-09-09T17:04:25+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: Is Moxley right choice to headline All Out, Thekla was pushed too fast but fans have now embraced her, what’s holding back Gabe Kidd now",
-      "p": "Welcome everyone! Another week of AEW is in the books and it finally feels like AEW has landed on a good place for post PPV Dynamites, finally. It may have taken 6-7 years but they [...]",
-      "link": "https://www.pwtorch.com/site/2026/09/09/aew-rising-and-fading-stars-is-moxley-right-choice-to-headline-all-out-thekla-was-pushed-too-fast-but-fans-have-now-embraced-her-whats-holding-back-gabe-kidd-now/",
-      "t": "5h",
-      "dt": "2026-09-09T16:38:37+00:00"
     }
   ]
 }

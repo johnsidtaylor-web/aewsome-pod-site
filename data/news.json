@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T09:37:17.575429+00:00",
+  "updated": "2026-09-11T14:23:43.946942+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -7,16 +7,56 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Ex-WWE Star Gail Kim Comments On AEW Dynamite Rebel Tribute Show",
+      "p": "Former WWE star Gail Kim praises the \"AEW Rebel Heart Dynamite\" show, which she reportedly attended, and Rebel herself.",
+      "link": "https://www.wrestlinginc.com/2255843/wwe-gail-kim-aew-dynamite-rebel-tribute-show-britt-baker/",
+      "t": "11m",
+      "dt": "2026-09-11T14:11:57+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Titus Alexander Moving To Japan, Says His Goal Is To Solidify His Name On NOAH Roster",
+      "p": "A major career move for Titus Alexander. At the age of 25, Titus Alexander has tallied up eight years as a pro wrestler. He’s appeared for WWE, AEW, ROH, PWG, and NJPW, and since 2023, he’s been...",
+      "link": "https://www.fightful.com/wrestling-news/titus-alexander-moving-to-japan-says-his-goal-is-to-solidify-his-name-on-noah-roster/",
+      "t": "1h",
+      "dt": "2026-09-11T13:13:51+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Women's World Champion Mercedes Mone Represents AEW At Forbes Power Women's Summit",
+      "p": "AEW Women's World Champion Mercedes Mone is taking the title places, showcasing it at the recent Forbes Power Women's Summit.",
+      "link": "https://www.wrestlinginc.com/2255670/mercedes-mone-aew-forbes-power-womens-summit-world-champion/",
+      "t": "1h",
+      "dt": "2026-09-11T13:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Mandy Rose discusses potential AEW interest",
+      "p": "Mandy Rose wrestled her last match in 2022 on WWE NXT. Since then she has talked about a potential in-ring comeback without a timeline in place. Rose opened up about returning to wrestling and an...",
+      "link": "https://www.f4wonline.com/news/wwe/mandy-rose-discusses-potential-aew-interest/",
+      "t": "2h",
+      "dt": "2026-09-11T12:20:39+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: AAA presents TripleMania doubleheader, NOAH’s N-1 Victory kicks off, STARDOM visits Yokohama and more!",
+      "p": "A preview of this weekend's top wrestling events on TV & streaming, including WWE, AEW, AAA, CMLL, STARDOM & more! The post Weekend TV Guide: AAA presents TripleMania doubleheader, NOAH’s N-1...",
+      "link": "https://www.postwrestling.com/2026/09/11/weekend-tv-guide-aaa-presents-triplemania-doubleheader-noahs-n-1-victory-kicks-off-stardom-visits-yokohama-and-more/",
+      "t": "2h",
+      "dt": "2026-09-11T12:00:19+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Will Ospreay says he has discussed new AEW match concepts with Tony Khan",
       "p": "Will Ospreay and Tony Khan are very possibly close to bringing brand-new match concepts to AEW. At AEW All In 2026, Ospreay defeated Kenny Omega to win the AEW World title. Shortly after, he...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-says-he-has-discussed-new-aew-match-concepts-with-tony-khan/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "Orange Cassidy says it may be time to retire his longtime denim jacket",
       "p": "Is it time to bid goodbye to Orange Cassidy’s iconic denim jacket? Denim jacket and denim joggers have always been Cassidy’s go-to attire, but the former AEW World Trios Champion believes it might...",
       "link": "https://www.f4wonline.com/news/aew/orange-cassidy-says-it-may-be-time-to-retire-his-longtime-denim-jacket/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-11T04:20:00+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "AEW's Jeff Jarrett To Wrestle Blue Panther At Major CMLL Event",
       "p": "Jeff Jarrett will be part of CMLL's anniversary festivities next week as he is set to go one-on-one with Blue Panther.",
       "link": "https://www.wrestlinginc.com/2255647/aew-cmll-93-aniversario-jeff-jarrett-blue-panther-wrestle/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-09-11T03:32:17+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "AEW starts new collaboration in support of Rebel",
       "p": "AEW continues to prove its love and support for Rebel. Upper Deck and AEW are coming together in a new collaboration to continue supporting Rebel. Upper Deck recently announced the Rebel charity...",
       "link": "https://www.f4wonline.com/news/aew/aew-starts-new-collaboration-in-support-of-rebel/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-09-11T03:20:00+00:00"
     },
     {
@@ -48,23 +88,15 @@
       "h": "AEW World Hvt. Champion Will Ospreay details how his entrance at All In was put together",
       "p": "AEW World Hvt. Champion Will Ospreay said an AEW producer came up with the idea to have his mother narrate his entrance. Ospreay’s entrance was narrated by his mother for his match against AEW...",
       "link": "https://www.pwtorch.com/site/2026/09/10/will-ospreay-details-how-his-entrance-at-aew-all-in-was-put-together-with-his-mother-narrating-his-entrance/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-09-11T02:51:21+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Results (9/10): Bang Bang Gang, Action Andretti Compete",
-      "p": "Ring of Honor aired the latest episode of ROH TV on September 10. The event aired on HonorClub. Full results are below. ROH TV Results (9/10) “The Butcher” Andy Williams tribute graphic opens the...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-9-10-bang-bang-gang-action-andretti-compete/",
-      "t": "7h",
-      "dt": "2026-09-11T02:30:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Jim Ross Recalls 'Rookie Years' Of Sting, Assesses Steven Borden's Progress",
       "p": "Assessing Steven Borden's progress, AEW commentator Jim Ross reflected on Sting's early years in the pro wrestling industry.",
       "link": "https://www.wrestlinginc.com/2255602/aew-jim-ross-sting-steven-borden-rookie-years-assesses-progress/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-09-11T00:45:19+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "ROH TV live results: Action Andretti vs. Adam Priest TV title match",
       "p": "Ring of Honor is back on HonorClub tonight. The ROH World Television Championship will be on the line as Action Andretti defends against Adam Priest. Steph De Lander will return to ROH for the...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-action-andretti-vs-adam-priest-tv-title-match/",
-      "t": "10h",
+      "t": "15h",
       "dt": "2026-09-10T23:05:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: Phil Schneider, AEW Dynamite: Rebel Heart, DEAN~!!! Sunday School",
-      "p": "Wrestling Observer Live is back with “Filthy” Tom Lawlor and special guest Phil Schneider to talk an emotional AEW Dynamite:Rebel Heart show, DEAN~!!!Sunday School, TripleMania, and more. A fun...",
-      "link": "https://www.f4wonline.com/podcasts/wol-phil-schneider-aew-dynamite-rebel-heart-dean-sunday-school/",
-      "t": "11h",
-      "dt": "2026-09-10T22:03:36+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW All Out lineup: The card for the next pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The card for the next pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/10/aew-all-out-lineup-the-card-for-the-next-pay-per-view-event-2/",
-      "t": "11h",
-      "dt": "2026-09-10T21:51:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Matt Hardy pays tribute to The Butcher, reveals unused AEW tag team idea",
-      "p": "Matt Hardy spoke about his memories of Andy “The Butcher” Williams on the latest episode of The Extreme Life of Matt Hardy. Hardy said that during their time together in AEW, he and Williams had a...",
-      "link": "https://www.f4wonline.com/news/aew/matt-hardy-pays-tribute-to-the-butcher-reveals-unused-aew-tag-team-idea/",
-      "t": "12h",
-      "dt": "2026-09-10T21:37:12+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: ESPN to launch Paul Brothers show, AEW signs Janai Kai, Jarrett joins CMLL anniversary",
-      "p": "Jack Wannan provides an update, including AEW’s latest signing, CMLL’s Anniversario & new ESPN competition hosted by Jake & Logan Paul. Available for Double Double & Espresso members at...",
-      "link": "https://www.postwrestling.com/2026/09/10/post-news-espn-to-launch-paul-brothers-show-aew-signs-janai-kai-jarrett-joins-cmll-anniversary/",
-      "t": "12h",
-      "dt": "2026-09-10T21:00:47+00:00"
     }
   ]
 }

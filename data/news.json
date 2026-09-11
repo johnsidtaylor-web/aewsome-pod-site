@@ -1,38 +1,30 @@
 {
-  "updated": "2026-09-10T21:35:47.732936+00:00",
+  "updated": "2026-09-11T00:07:15.177042+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "Where does AEW go after Kyle Fletcher & Kevin Knight upset the Young Bucks? | Opinion",
-      "p": "The most shocking result of AEW Rebel Heart Dynamite? That would be Kyle Fletcher & Kevin Knight, in their second match as a team, defeating the Young Bucks, who are challenging for the AEW World...",
-      "link": "https://www.f4wonline.com/opinion/where-does-aew-go-after-kyle-fletcher-kevin-knight-upset-the-young-bucks/",
-      "t": "5m",
-      "dt": "2026-09-10T21:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: AEW Rebel Heart, Nikki Bella, DDP",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Thursday Update...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-rebel-heart-nikki-bella-ddp/",
-      "t": "7m",
-      "dt": "2026-09-10T21:28:29+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW All Out lineup: The card for the next pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The card for the next pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/10/aew-all-out-lineup-the-card-for-the-next-pay-per-view-event-2/",
+      "t": "2h",
+      "dt": "2026-09-10T21:51:04+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "POST NEWS: ESPN to launch Paul Brothers show, AEW signs Janai Kai, Jarrett joins CMLL anniversary",
       "p": "Jack Wannan provides an update, including AEW’s latest signing, CMLL’s Anniversario & new ESPN competition hosted by Jake & Logan Paul. Available for Double Double & Espresso members at...",
       "link": "https://www.postwrestling.com/2026/09/10/post-news-espn-to-launch-paul-brothers-show-aew-signs-janai-kai-jarrett-joins-cmll-anniversary/",
-      "t": "34m",
+      "t": "3h",
       "dt": "2026-09-10T21:00:47+00:00"
     },
     {
@@ -40,7 +32,7 @@
       "h": "Upper Deck And AEW Announce Rebel Charity Card, 100% Of Proceeds Donated To I AM ALS and Team Gleason",
       "p": "AEW and Upper Deck are coming together to continue to support Rebel. Upper Deck announced the Rebel charity card, which is available through September 27. The base card is available $7.99 or a...",
       "link": "https://www.fightful.com/wrestling-news/upper-deck-and-aew-rebel-card/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-09-10T20:23:50+00:00"
     },
     {
@@ -48,7 +40,7 @@
       "h": "Mick Foley Calls This Moment From AEW Dynamite 'One Of The Greatest Things I've Seen'",
       "p": "WWE Hall of Famer Mick Foley calls this emotional moment from AEW Dynamite involving Rebel and Britt Baker \"one of the greatest things I've seen\"",
       "link": "https://www.wrestlinginc.com/2255310/mick-foley-aew-dynamite-greatest-things-ive-seen-britt-baker-rebel-als/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-09-10T19:30:56+00:00"
     },
     {
@@ -56,7 +48,7 @@
       "h": "AEW Comedy Show Lineup Revealed, Dynamite Rebel Heart Highlights, More | Fight Size",
       "p": "Here is your fight size update for Thursday, September 10, 2026. – RJ City has revealed the lineup for the next AEW comedy event: The official lineup for the next All Elite Comedy. It’s already...",
       "link": "https://www.fightful.com/uncategorized/aew-comedy-show-lineup-revealed-dynamite-rebel-heart-highlights-more-fight-size/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-10T19:00:00+00:00"
     },
     {
@@ -64,7 +56,7 @@
       "h": "AEW DYNAMITE HITS & MISSES (9/9): The Waiting Room with Rebel and Britt, Thekla’s shots at Willow, New Level & Swerve vs. Conglomeration, Steven Borden, more",
       "p": "Before we begin, I would like to extend my condolences to the family and friends of Andy “The Butcher” Williams, who passed away last weekend. I always enjoyed seeing him on AEW television and...",
       "link": "https://www.pwtorch.com/site/2026/09/10/aew-dynamite-hits-misses-9-9-the-waiting-room-with-rebel-and-britt-theklas-shots-at-willow-new-level-swerve-vs-conglomeration-steven-borden-more/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-10T18:51:54+00:00"
     },
     {
@@ -72,7 +64,7 @@
       "h": "ROH on HonorClub lineup: The card for tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/10/roh-on-honorclub-lineup-the-card-for-tonights-show-42/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-09-10T18:27:59+00:00"
     },
     {
@@ -80,7 +72,7 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on the Rebel Heart edition with Excalibur’s emotional statement, some presentation flaws, Steven Borden’s Dynamite debut match",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the Rebel Heart edition with Excalibur’s emotional statement, some presentation flaws, Steven...",
       "link": "https://prowrestling.net/site/2026/09/10/powells-aew-dynamite-hit-list-thoughts-on-the-rebel-heart-edition-with-excaliburs-emotional-statement-some-presentation-flaws-steven-bordens-dynamite-debut-match/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-10T17:46:49+00:00"
     },
     {
@@ -88,24 +80,32 @@
       "h": "Former WWE & TNA Stars Were Backstage To Support Rebel At Last Night's AEW Dynamite",
       "p": "Several former WWE and TNA stars were reportedly backstage to support Rebel during last night's AEW Dynamite: Rebel Heart episode held in her honor",
       "link": "https://www.wrestlinginc.com/2255091/aew-dynamite-wwe-tna-rebel-karrion-kross-scarlett-gail-kim-backstage-support/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-09-10T17:35:15+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "What the YouTube metrics for AEW Dynamite tell us this week (September 9 2026)",
-      "p": "AEW consistently releases videos for each of their weekly shows, and alongside my regular Google Search interest articles, I wanted to put together some analysis for the longform videos that have...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-rebel-heart-youtube-metrics/",
-      "t": "4h",
-      "dt": "2026-09-10T16:44:10+00:00"
+      "src": "POST Wrestling",
+      "h": "Report: Janai Kai under contract with AEW",
+      "p": "Former MLW women's champ Janai Kai has reportedly inked a deal to join the AEW/ROH roster. The post Report: Janai Kai under contract with AEW appeared first on POST Wrestling | Podcasts, News,...",
+      "link": "https://www.postwrestling.com/2026/09/10/report-janai-kai-under-contract-with-aew/",
+      "t": "8h",
+      "dt": "2026-09-10T15:44:00+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Several former WWE and TNA wrestlers reportedly backstage at AEW Dynamite",
-      "p": "Several wrestling personalities from outside AEW were reportedly backstage at Akins Ford Arena in Athens, Georgia, on Wednesday night to support Tanea “Rebel” Brooks. On Thursday, PWInsider...",
-      "link": "https://www.f4wonline.com/news/aew/several-former-wwe-and-tna-wrestlers-reportedly-backstage-at-aew-dynamite/",
-      "t": "4h",
-      "dt": "2026-09-10T16:40:58+00:00"
+      "src": "ProWrestling.net",
+      "h": "Will Ospreay on the creation of his All In entrance, the honor that Kenny Omega gave him, advice from Adam Copeland regarding his neck surgery",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Will Ospreay on the creation of his All In entrance, the honor that Kenny Omega gave him, advice from Adam Copeland regarding his neck surgery...",
+      "link": "https://prowrestling.net/site/2026/09/10/will-ospreay-on-the-creation-of-his-all-in-entrance-the-honor-that-kenny-omega-gave-him-advice-from-adam-copeland-regarding-his-neck-surgery/",
+      "t": "8h",
+      "dt": "2026-09-10T15:30:57+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Will Ospreay reflects on epic AEW All In entrance, choice to have mother do voiceover",
+      "p": "AEW World Champion Will Ospreay recently took some time to break down his emotional entrance at Wembley Stadium. The post Will Ospreay reflects on epic AEW All In entrance, choice to have mother...",
+      "link": "https://www.postwrestling.com/2026/09/10/will-ospreay-reflects-on-epic-aew-all-in-entrance-choice-to-have-mother-do-voiceover/",
+      "t": "8h",
+      "dt": "2026-09-10T15:16:32+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-12T09:16:39.949161+00:00",
+  "updated": "2026-09-12T13:35:15.469679+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -13,10 +13,50 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "AEW’s Rebel urges fans to sign petition to protect ALS research and treatment access",
+      "p": "Rebel is asking for signatures on a petition that will be delivered to Congress on Monday. In an Instagram post published on Friday, Rebel said she received an urgent message from I AM ALS after...",
+      "link": "https://www.f4wonline.com/news/aew/aews-rebel-urges-fans-to-sign-petition-to-protect-als-research-and-treatment-access/",
+      "t": "4m",
+      "dt": "2026-09-12T13:30:28+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kenny Omega: For My Big Matches, I Always Try To Think Outside The Box",
+      "p": "Kenny Omega discusses his mindset and approach. Making an appearance on The Anime Effect Podcast was two-time AEW World Champion Kenny Omega. The conversation shifted to Omega’s mindset when it...",
+      "link": "https://www.fightful.com/wrestling-news/kenny-omega-for-my-big-matches-i-always-try-to-think-outside-the-box/",
+      "t": "5m",
+      "dt": "2026-09-12T13:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tommaso Ciampa names two AEW stars he wants long-term feuds with",
+      "p": "Tommaso Ciampa has named two AEW wrestlers who he says are his “1A and 1B” choices for long-term rivals. Ciampa joined AEW in January, winning the TNT Championship in his first match for the...",
+      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-names-two-aew-stars-he-wants-long-term-feuds-with/",
+      "t": "33m",
+      "dt": "2026-09-12T13:01:38+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kenny Omega Praises Paul Turner: “I Trust Him With All Of My Being… He’s The Main Event Referee”",
+      "p": "Paul Turner on the receiving end of praise. The newest episode of The Anime Effect Podcast includes an interview with former AEW World Champion Kenny Omega. There was a focus on Omega’s main event...",
+      "link": "https://www.fightful.com/wrestling-news/kenny-omega-praises-paul-turner-i-trust-him-with-all-of-my-being-hes-the-main-event-referee/",
+      "t": "35m",
+      "dt": "2026-09-12T13:00:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: The Butcher tribute on tonight’s live show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The Butcher tribute on tonight’s live show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/12/aew-collision-lineup-the-butcher-tribute-on-tonights-live-show/",
+      "t": "2h",
+      "dt": "2026-09-12T11:00:10+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "Daily Update: AEW All Out tickets, big weekend for TKO, UFC weigh-ins",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update – Garrett Gonzales and I have...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-all-out-tickets-big-weekend-for-tko-ufc-weigh-ins/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-09-12T01:42:41+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "Rebel Heart Dynamite was AEW at its finest | Opinion",
       "p": "This was an awful week for professional wrestling. The sudden and tragic loss of Andy Williams, better known as The Butcher, over the weekend was terrible to hear. The only comfort was seeing so...",
       "link": "https://www.f4wonline.com/opinion/rebel-heart-dynamite-was-aew-at-its-finest-opinion/",
-      "t": "10h",
+      "t": "14h",
       "dt": "2026-09-11T23:00:00+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Persephone Says She And Britt Baker Are 'Testing The Waters' Of AEW Partnership",
       "p": "AEW TBS Champion Persephone said she and the recently-returned Britt Baker are still \"testing the waters\" of their partnership in the company.",
       "link": "https://www.wrestlinginc.com/2256583/aew-persephone-britt-baker-testing-waters-partnership/",
-      "t": "10h",
+      "t": "14h",
       "dt": "2026-09-11T22:38:32+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "AEW Collision rating (9/5): How did the show hold up during Labor Day weekend?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (9/5): How did the show hold up during Labor Day weekend? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/11/aew-collision-rating-9-5-how-did-the-show-hold-up-during-labor-day-weekend/",
-      "t": "11h",
+      "t": "15h",
       "dt": "2026-09-11T21:52:17+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "AEW All Out 2026 Reportedly Approaching Sell-Out",
       "p": "According to a new report, AEW All Out 2026 from Hoffman Estates, Illinois is fast approaching a sell-out.",
       "link": "https://www.wrestlinginc.com/2256522/aew-all-out-2026-approaching-sell-out/",
-      "t": "12h",
+      "t": "16h",
       "dt": "2026-09-11T20:59:22+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "Wrestling Weekly: Rebel tribute on AEW Dynamite, Bronson Reed returns to WWE",
       "p": "It’s a new Wrestling Weekly. Les Thatcher and Vic Sosa check in this week to discuss AEW’s Rebel Heart edition of Dynamite, the return of Bronson Reed to WWE, and whether or not Mercedes Mone is...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-rebel-tribute-on-aew-dynamite-bronson-reed-returns-to-wwe/",
-      "t": "15h",
+      "t": "19h",
       "dt": "2026-09-11T17:39:04+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "AEW Collision & TNA Impact ratings info for last week",
       "p": "The first post-Nielsen change numbers are in for last Saturday’s AEW Collision and last Thursday’s TNA Impact. The Saturday, September 5 edition of AEW Collision averaged 349,000 viewers on TNT,...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-tna-impact-ratings-info-for-last-week/",
-      "t": "15h",
-      "dt": "2026-09-11T17:33:15+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub results (9/10): Action Andretti vs. Adam Priest for the ROH TV Title, Steph De Lander vs. Zayda Steel, The Infantry vs. Mance Warner and Alex Zayne",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (9/10): Action Andretti vs. Adam Priest for the ROH TV Title, Steph De Lander vs. Zayda Steel, The Infantry vs. Mance...",
-      "link": "https://prowrestling.net/site/2026/09/11/roh-on-honorclub-results-9-10-action-andretti-vs-adam-priest-for-the-roh-tv-title-steph-de-lander-vs-zayda-steel-the-infantry-vs-mance-warner-and-alex-zayne/",
-      "t": "17h",
-      "dt": "2026-09-11T16:01:46+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mandy Rose discusses potential AEW interest",
-      "p": "Mandy Rose wrestled her last match in 2022 on WWE NXT. Since then she has talked about a potential in-ring comeback without a timeline in place. Rose opened up about returning to wrestling and an...",
-      "link": "https://www.f4wonline.com/news/wwe/mandy-rose-discusses-potential-aew-interest/",
       "t": "20h",
-      "dt": "2026-09-11T12:20:39+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Weekend TV Guide: AAA presents TripleMania doubleheader, NOAH’s N-1 Victory kicks off, STARDOM visits Yokohama and more!",
-      "p": "A preview of this weekend's top wrestling events on TV & streaming, including WWE, AEW, AAA, CMLL, STARDOM & more! The post Weekend TV Guide: AAA presents TripleMania doubleheader, NOAH’s N-1...",
-      "link": "https://www.postwrestling.com/2026/09/11/weekend-tv-guide-aaa-presents-triplemania-doubleheader-noahs-n-1-victory-kicks-off-stardom-visits-yokohama-and-more/",
-      "t": "21h",
-      "dt": "2026-09-11T12:00:19+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW World Hvt. Champion Will Ospreay details how his entrance at All In was put together",
-      "p": "AEW World Hvt. Champion Will Ospreay said an AEW producer came up with the idea to have his mother narrate his entrance. Ospreay’s entrance was narrated by his mother for his match against AEW...",
-      "link": "https://www.pwtorch.com/site/2026/09/10/will-ospreay-details-how-his-entrance-at-aew-all-in-was-put-together-with-his-mother-narrating-his-entrance/",
-      "t": "1d",
-      "dt": "2026-09-11T02:51:21+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW All Out lineup: The card for the next pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The card for the next pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/10/aew-all-out-lineup-the-card-for-the-next-pay-per-view-event-2/",
-      "t": "1d",
-      "dt": "2026-09-10T21:51:04+00:00"
+      "dt": "2026-09-11T17:33:15+00:00"
     }
   ]
 }

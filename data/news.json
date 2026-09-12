@@ -1,22 +1,30 @@
 {
-  "updated": "2026-09-12T19:17:50.444651+00:00",
+  "updated": "2026-09-12T22:14:30.923018+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "AEW’s Rebel urges fans to sign petition protecting ALS research and treatment",
+      "p": "AEW’s Rebel is urging fans to sign a petition calling on Congress to reauthorize legislation supporting ALS research and access to investigational treatments. The post AEW’s Rebel urges fans to...",
+      "link": "https://www.postwrestling.com/2026/09/12/aews-rebel-urges-fans-to-sign-petition-protecting-als-research-and-treatment/",
+      "t": "1h",
+      "dt": "2026-09-12T20:26:25+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "FREE PODCAST 9/12 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: A tearjerking Rebel Heart Dynamite and tribute to The Butcher (80 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner start off with memories of 9/11 and how it effects them on the 25 year...",
       "link": "https://www.pwtorch.com/site/2026/09/12/free-podcast-9-12-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-a-tearjerking-rebel-heart-dynamite-and-tribute-to-the-butcher-80-min/",
-      "t": "28m",
+      "t": "3h",
       "dt": "2026-09-12T18:49:29+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Tommaso Ciampa Says He Would Love To Do A Six-Month Program With MJF And Jon Moxley In AEW",
       "p": "Tommaso Ciampa wants to have long-term programs with MJF and Jon Moxley in All Elite Wrestling. Earlier this year, Tommaso Ciampa made his All Elite Wrestling debut, answering Mark Briscoe’s TNT...",
       "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-says-he-would-love-to-do-a-six-month-long-program-with-mjf-and-jon-moxley-in-aew/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-12T18:02:24+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW Collision ticket sales update ahead of tonight’s show (September 12 2026)",
       "p": "AEW Collision takes place tonight from the MassMutual Center in Springfield, MA, and is a tribute show to The Butcher/Andy Williams, a pro wrestler and genre-defining guitarist with Every Time I...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-sales-update-tonight-show-september-12-2026/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-12T17:57:03+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "AEW's Kyle Fletcher Explains Why He Opted Against Pink International Title",
       "p": "Kyle Fletcher has revealed that he didn't want an AEW International Championship belt, mainly because of the fans.",
       "link": "https://www.wrestlinginc.com/2256724/aew-kyle-fletcher-opted-against-pink-international-title/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-12T17:45:59+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW Rebel Heart Dynamite reportedly received strong backstage reaction",
       "p": "AEW’s Rebel Heart Dynamite is being praised as “exactly what Rebel wanted.” Wednesday’s edition of AEW Dynamite from Athens, Georgia was held in honor of Rebel, who announced earlier this year...",
       "link": "https://www.f4wonline.com/news/aew/aew-rebel-heart-dynamite-reportedly-received-strong-backstage-reaction/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-12T17:35:57+00:00"
     },
     {
@@ -56,23 +64,15 @@
       "h": "Kevin Knight Opens Up About AEW Redemption Main Event Against Kenny Omega",
       "p": "AEW's Kevin Knight opens up about getting the opportunity to main event AEW Redemption against Kenny Omega for the AEW Men's World Championship",
       "link": "https://www.wrestlinginc.com/2253791/kevin-knight-aew-redempetion-main-event-kenny-omega/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-12T17:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Reaction To AEW Rebel Heart Dynamite",
-      "p": "Reaction to AEW Rebel Heart Dynamite. On September 9, Rebel Heart Dynamite took place. Rebel made an appearance on the show as part of The Waiting Room segment, and later helped Britt Baker during...",
-      "link": "https://www.fightful.com/wrestling-news/reaction-to-aew-rebel-heart-dynamite/",
-      "t": "2h",
-      "dt": "2026-09-12T16:59:03+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW’s Triangle of Madness make first Artist of Stardom title defense",
       "p": "The Triangle of Madness successfully defended the Artist of Stardom Championship on today’s Stardom to the World show in Yokohama. Thekla, Skye Blue, and Julia Hart defeated Natsupoi, Aya Sakura,...",
       "link": "https://www.f4wonline.com/news/other-wrestling/aews-triangle-of-madness-make-first-artist-of-stardom-title-defense/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-12T15:49:41+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
       "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
       "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-09-12T13:46:49+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "AEW’s Rebel urges fans to sign petition to protect ALS research and treatment access",
       "p": "Rebel is asking for signatures on a petition that will be delivered to Congress on Monday. In an Instagram post published on Friday, Rebel said she received an urgent message from I AM ALS after...",
       "link": "https://www.f4wonline.com/news/aew/aews-rebel-urges-fans-to-sign-petition-to-protect-als-research-and-treatment-access/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-09-12T13:30:28+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "Tommaso Ciampa names two AEW stars he wants long-term feuds with",
       "p": "Tommaso Ciampa has named two AEW wrestlers who he says are his “1A and 1B” choices for long-term rivals. Ciampa joined AEW in January, winning the TNT Championship in his first match for the...",
       "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-names-two-aew-stars-he-wants-long-term-feuds-with/",
-      "t": "6h",
+      "t": "9h",
       "dt": "2026-09-12T13:01:38+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW Collision lineup: The Butcher tribute on tonight’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The Butcher tribute on tonight’s live show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/12/aew-collision-lineup-the-butcher-tribute-on-tonights-live-show/",
-      "t": "8h",
+      "t": "11h",
       "dt": "2026-09-12T11:00:10+00:00"
     }
   ]

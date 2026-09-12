@@ -1,78 +1,46 @@
 {
-  "updated": "2026-09-11T21:41:40.024157+00:00",
+  "updated": "2026-09-12T00:14:59.121658+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "Persephone Says She And Britt Baker Are 'Testing The Waters' Of AEW Partnership",
+      "p": "AEW TBS Champion Persephone said she and the recently-returned Britt Baker are still \"testing the waters\" of their partnership in the company.",
+      "link": "https://www.wrestlinginc.com/2256583/aew-persephone-britt-baker-testing-waters-partnership/",
+      "t": "1h",
+      "dt": "2026-09-11T22:38:32+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating (9/5): How did the show hold up during Labor Day weekend?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (9/5): How did the show hold up during Labor Day weekend? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/11/aew-collision-rating-9-5-how-did-the-show-hold-up-during-labor-day-weekend/",
+      "t": "2h",
+      "dt": "2026-09-11T21:52:17+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "AEW All Out 2026 Reportedly Approaching Sell-Out",
       "p": "According to a new report, AEW All Out 2026 from Hoffman Estates, Illinois is fast approaching a sell-out.",
       "link": "https://www.wrestlinginc.com/2256522/aew-all-out-2026-approaching-sell-out/",
-      "t": "42m",
-      "dt": "2026-09-11T20:59:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mandy Rose: ‘I Would Take Any Call, Whether It Was AEW, WWE, TNA. It Doesn’t Matter Where It’s From’",
-      "p": "Mandy Rose says she will take a call from any wrestling company. In December 2022, Mandy Rose was released from WWE due to her FanTime content. She’s largely been away from pro-wrestling since...",
-      "link": "https://www.fightful.com/wrestling-news/mandy-rose-i-would-take-any-call-whether-it-was-aew-wwe-tna-it-doesnt-matter-where-its-from/",
-      "t": "1h",
-      "dt": "2026-09-11T20:06:51+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tommaso Ciampa Urges Fans To Show Up For The Butcher At 9/12 AEW Collision",
-      "p": "Tommaso Ciampa urges wrestling fans to show up for the upcoming AEW Collision. On September 6, it was reported by TMZ that ‘The Butcher’ Andy Williams had passed away. The wrestling world has...",
-      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-urges-fans-to-show-up-for-the-butcher-at-9-12-aew-collision/",
-      "t": "2h",
-      "dt": "2026-09-11T19:29:18+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tommaso Ciampa Says His AEW Entrance Has Won Over His Daughter: ‘I Don’t Know If I Ever Made The List, But Now I Think I’m At Least In The Top Five’",
-      "p": "Tommaso Ciampa believes his AEW entrance has won his daughter over. On the January 28 edition of AEW Dynamite, Tommaso Ciampa made his first appearance in the promotion. He answered Mark Briscoe’s...",
-      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-says-his-aew-entrance-has-won-over-his-daughter-i-dont-know-if-i-ever-made-the-list-but-now-i-think-im-at-least-in-the-top-five/",
-      "t": "2h",
-      "dt": "2026-09-11T19:09:38+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tommaso Ciampa Says Wrestling Mark Briscoe In AEW Brought Back ‘A Lot Of Memories’",
-      "p": "Tommaso Ciampa shares his experience wrestling Mark Briscoe in AEW. Earlier in 2026, Tommaso Ciampa made his first All Elite Wrestling appearance by answering Mark Briscoe’s open challenge for the...",
-      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-says-wrestling-mark-briscoe-in-aew-brought-back-a-lot-of-memories/",
       "t": "3h",
-      "dt": "2026-09-11T18:38:46+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Wrestling Weekly: Rebel tribute on AEW Dynamite, Bronson Reed returns to WWE",
-      "p": "It’s a new Wrestling Weekly. Les Thatcher and Vic Sosa check in this week to discuss AEW’s Rebel Heart edition of Dynamite, the return of Bronson Reed to WWE, and whether or not Mercedes Mone is...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-rebel-tribute-on-aew-dynamite-bronson-reed-returns-to-wwe/",
-      "t": "4h",
-      "dt": "2026-09-11T17:39:04+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision & TNA Impact ratings info for last week",
-      "p": "The first post-Nielsen change numbers are in for last Saturday’s AEW Collision and last Thursday’s TNA Impact. The Saturday, September 5 edition of AEW Collision averaged 349,000 viewers on TNT,...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-tna-impact-ratings-info-for-last-week/",
-      "t": "4h",
-      "dt": "2026-09-11T17:33:15+00:00"
+      "dt": "2026-09-11T20:59:22+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "ROH on HonorClub results (9/10): Action Andretti vs. Adam Priest for the ROH TV Title, Steph De Lander vs. Zayda Steel, The Infantry vs. Mance Warner and Alex Zayne",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (9/10): Action Andretti vs. Adam Priest for the ROH TV Title, Steph De Lander vs. Zayda Steel, The Infantry vs. Mance...",
       "link": "https://prowrestling.net/site/2026/09/11/roh-on-honorclub-results-9-10-action-andretti-vs-adam-priest-for-the-roh-tv-title-steph-de-lander-vs-zayda-steel-the-infantry-vs-mance-warner-and-alex-zayne/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-09-11T16:01:46+00:00"
     },
     {
@@ -80,32 +48,64 @@
       "h": "AEW's Will Ospreay Trades Heated Words With NJPW Star As Cracks Form In United Empire",
       "p": "Will Ospreay will be teaming with a couple of United Empire members in AEW next week while some members in NJPW are frustrated by this situation.",
       "link": "https://www.wrestlinginc.com/2255952/aew-will-ospreay-njpw-callum-newman-cracks-united-empire/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-09-11T15:27:20+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Backstage News On Start Times For Several Upcoming WWE PLEs",
-      "p": "A report has revealed when the final four main roster WWE PLEs will air, and when Worlds Collide will take place, which will go up against AEW's All Out.",
-      "link": "https://www.wrestlinginc.com/2255712/start-times-wwe-ples-crown-jewel-money-in-the-bank-worlds-collide/",
-      "t": "6h",
-      "dt": "2026-09-11T15:00:00+00:00"
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: AAA presents TripleMania doubleheader, NOAH’s N-1 Victory kicks off, STARDOM visits Yokohama and more!",
+      "p": "A preview of this weekend's top wrestling events on TV & streaming, including WWE, AEW, AAA, CMLL, STARDOM & more! The post Weekend TV Guide: AAA presents TripleMania doubleheader, NOAH’s N-1...",
+      "link": "https://www.postwrestling.com/2026/09/11/weekend-tv-guide-aaa-presents-triplemania-doubleheader-noahs-n-1-victory-kicks-off-stardom-visits-yokohama-and-more/",
+      "t": "12h",
+      "dt": "2026-09-11T12:00:19+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay Talks Kenny Omega Finisher Kick Out, Whether They'll Have Another Match",
-      "p": "Will Ospreay reveals that he wasn't originally supposed to survive the One Winged Angel at AEW All In: London.",
-      "link": "https://www.wrestlinginc.com/2255884/will-ospreay-kenny-omega-one-winged-angel-kick-out-aew-all-in-2026/",
-      "t": "6h",
-      "dt": "2026-09-11T14:43:27+00:00"
+      "src": "PWTorch",
+      "h": "AEW World Hvt. Champion Will Ospreay details how his entrance at All In was put together",
+      "p": "AEW World Hvt. Champion Will Ospreay said an AEW producer came up with the idea to have his mother narrate his entrance. Ospreay’s entrance was narrated by his mother for his match against AEW...",
+      "link": "https://www.pwtorch.com/site/2026/09/10/will-ospreay-details-how-his-entrance-at-aew-all-in-was-put-together-with-his-mother-narrating-his-entrance/",
+      "t": "21h",
+      "dt": "2026-09-11T02:51:21+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay Explains How Match With Kenny Omega Evolved As AEW All In 2026 Went On",
-      "p": "AEW World Champion Will Ospreay has discussed how he and Kenny Omega put together their All In match, which ultimately came together on the day of the show.",
-      "link": "https://www.wrestlinginc.com/2255705/will-ospreay-kenny-omega-match-evolved-aew-all-in-2026/",
-      "t": "7h",
-      "dt": "2026-09-11T14:30:00+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW All Out lineup: The card for the next pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The card for the next pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/10/aew-all-out-lineup-the-card-for-the-next-pay-per-view-event-2/",
+      "t": "1d",
+      "dt": "2026-09-10T21:51:04+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: ESPN to launch Paul Brothers show, AEW signs Janai Kai, Jarrett joins CMLL anniversary",
+      "p": "Jack Wannan provides an update, including AEW’s latest signing, CMLL’s Anniversario & new ESPN competition hosted by Jake & Logan Paul. Available for Double Double & Espresso members at...",
+      "link": "https://www.postwrestling.com/2026/09/10/post-news-espn-to-launch-paul-brothers-show-aew-signs-janai-kai-jarrett-joins-cmll-anniversary/",
+      "t": "1d",
+      "dt": "2026-09-10T21:00:47+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE HITS & MISSES (9/9): The Waiting Room with Rebel and Britt, Thekla’s shots at Willow, New Level & Swerve vs. Conglomeration, Steven Borden, more",
+      "p": "Before we begin, I would like to extend my condolences to the family and friends of Andy “The Butcher” Williams, who passed away last weekend. I always enjoyed seeing him on AEW television and...",
+      "link": "https://www.pwtorch.com/site/2026/09/10/aew-dynamite-hits-misses-9-9-the-waiting-room-with-rebel-and-britt-theklas-shots-at-willow-new-level-swerve-vs-conglomeration-steven-borden-more/",
+      "t": "1d",
+      "dt": "2026-09-10T18:51:54+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: The card for tonight’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/10/roh-on-honorclub-lineup-the-card-for-tonights-show-42/",
+      "t": "1d",
+      "dt": "2026-09-10T18:27:59+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Powell’s AEW Dynamite Hit List: Thoughts on the Rebel Heart edition with Excalibur’s emotional statement, some presentation flaws, Steven Borden’s Dynamite debut match",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the Rebel Heart edition with Excalibur’s emotional statement, some presentation flaws, Steven...",
+      "link": "https://prowrestling.net/site/2026/09/10/powells-aew-dynamite-hit-list-thoughts-on-the-rebel-heart-edition-with-excaliburs-emotional-statement-some-presentation-flaws-steven-bordens-dynamite-debut-match/",
+      "t": "1d",
+      "dt": "2026-09-10T17:46:49+00:00"
     }
   ]
 }

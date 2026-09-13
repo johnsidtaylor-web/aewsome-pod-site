@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T18:10:12.475245+00:00",
+  "updated": "2026-09-13T20:45:52.642831+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -7,16 +7,72 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Eddie Kingston Sends A Message To ‘The Butcher’ Andy Williams After 9/12 AEW Collision",
+      "p": "Eddie Kingston tribute to the late Andy Williams. “The Butcher” Andy Williams passed away on September 5. AEW held a tribute show for him on 9/12 AEW Collision, with the main event being The...",
+      "link": "https://www.fightful.com/wrestling-news/eddie-kingston-sends-a-message-to-the-butcher-andy-williams-after-9-12-aew-collision/",
+      "t": "41m",
+      "dt": "2026-09-13T20:04:14+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOL: AEW’s goodbye to ‘The Butcher’, WWE crowns two new World champs & what makes a good steward in wrestling anyway?",
+      "p": "A new edition of Wrestling Observer Live Sunday — the longest running non-episodic audio show in human history dating back to the 1880s — has been posted with your host, Josh Nason. Josh has a few...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-butcher-tribute-aew-sami-zayn-wwe-tessa-blanchard-mvp-podcast/",
+      "t": "45m",
+      "dt": "2026-09-13T20:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Son of Sting has arrived: Best of the Bryan & Vinny Show",
+      "p": "It’s a special edition of the Best of the Bryan & Vinny Show! The Rebel Heart Dynamite was full of emotion including the passing of Andy Williams, The Butcher. We still tried to have some fun this...",
+      "link": "https://www.f4wonline.com/uncategorized/son-of-sting-has-arrived-best-of-the-bryan-vinny-show/",
+      "t": "52m",
+      "dt": "2026-09-13T19:52:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Will Ospreay Reveals Immediate Aftermath Of AEW World Title Win At All In 2026",
+      "p": "Will Ospreay has revealed that his AEW World Title win after All In London 2026 involved medical attention, donuts, and hopping over fences.",
+      "link": "https://www.wrestlinginc.com/2256969/will-ospreay-aew-world-title-win-all-in-2026-aftermath/",
+      "t": "1h",
+      "dt": "2026-09-13T19:28:38+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's MVP Recalls Pro Wrestling 'Drug Culture,' Says He Never Got Into It",
+      "p": "In an episode of his \"Marking Out\" podcast, AEW star MVP looked back at the culture of drugs in the WWE locker room and whether he ever took part.",
+      "link": "https://www.wrestlinginc.com/2255514/aew-mvp-drug-culture-never-got-into/",
+      "t": "1h",
+      "dt": "2026-09-13T19:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Jeff Jarrett Believes AEW All In 2026 'Raised The Bar' For All Promotions",
+      "p": "Industry veteran Jeff Jarrett explains how AEW All In 2026 \"raised the bar\" for all professional wrestling promotions.",
+      "link": "https://www.wrestlinginc.com/2256959/aew-all-in-2026-jeff-jarrett-raised-bar-all-promotions/",
+      "t": "2h",
+      "dt": "2026-09-13T18:18:41+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW wrestler reportedly involved in WWE star Bayley’s next Lodestone camp",
+      "p": "ROH Women’s World Champion Athena is reportedly set to be involved in Bayley’s next Lodestone training camp. Fightful Select reported Sunday that it was implied to them that the next Lodestone...",
+      "link": "https://www.f4wonline.com/news/wwe/aew-wrestler-reportedly-involved-in-wwe-star-bayleys-next-lodestone-camp/",
+      "t": "2h",
+      "dt": "2026-09-13T18:11:24+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "AEW Releases Unaired House Show Featuring Rebel & The Butcher",
       "p": "After an emotional week in AEW, the company has released an unaired house show featuring both The Butcher and Rebel.",
       "link": "https://www.wrestlinginc.com/2256948/aew-releases-unaired-house-show-rebel-butcher/",
-      "t": "48m",
+      "t": "3h",
       "dt": "2026-09-13T17:21:33+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "Bayley’s Third Lodestone Camp Is Set And Coming To Texas, Will Involve AEW/ROH’s Athena",
       "p": "Details on Bayley’s third Lodestone camp. Last year, Bayley held the first-ever Lodestone seminar, which involved wrestlers such as Izzy, Gabby Forza, and more. The next class took place during...",
       "link": "https://www.fightful.com/wrestling-news/bayley-third-lodestone-camp-is-coming-to-texas-will-involve-aew-rohs-athena/",
-      "t": "50m",
+      "t": "3h",
       "dt": "2026-09-13T17:19:47+00:00"
     },
     {
@@ -32,80 +88,24 @@
       "h": "AEW's Maya World Names Her Favorite Wrestlers From Childhood",
       "p": "AEW's Maya World names her favorite wrestlers from childhood, the legendary WWE star The Undertaker and former WWE Divas Champion Kelly Kelly",
       "link": "https://www.wrestlinginc.com/2254858/aew-maya-world-kelly-kelly-undertaker-favorite-wrestlers-childhood/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-13T16:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Watch: AEW The House Always Wins | Exclusive 4/9/21 Show Featuring The Butcher, Rebel",
-      "p": "To celebrate “The Butcher” Andy Williams and Rebel, join us in watching this exclusive show from April 2021: AEW’s The House Always Wins, featuring an epic battle royale with The Butcher doing...",
-      "link": "https://www.fightful.com/wrestling-news/watch-aew-the-house-always-wins-exclusive-4-9-21-show-featuring-the-butcher-rebel/",
-      "t": "2h",
-      "dt": "2026-09-13T16:00:28+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Orange Cassidy says fans have told him his attitude inspired them",
       "p": "Orange Cassidy is evidently inspiring. During a recent interview with Simon Miller, Cassidy was asked if a fan has ever told him that he inspired them to “do less and just give up on life.” The...",
       "link": "https://www.f4wonline.com/news/aew/orange-cassidy-says-fans-have-told-him-his-attitude-inspired-them/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-09-13T14:08:49+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Maya World Addresses Dave Meltzer Not Rating Her PPV Match With Mercedes Mone",
-      "p": "Former AEW TBS Champion Maya World addressed Dave Meltzer not rating her AEW x NJPW Forbidden Door bout against Mercedes Mone.",
-      "link": "https://www.wrestlinginc.com/2254395/aew-maya-world-dave-meltzer-not-rating-match-mercedes-mone/",
-      "t": "4h",
-      "dt": "2026-09-13T13:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kevin Knight Talks Offscreen Relationship With Fellow AEW Stars The Hurt Syndicate",
-      "p": "Kevin Knight talks about his offscreen relationship with fellow AEW stars The Hurt Syndicate, and whether he'd be open to working with them again",
-      "link": "https://www.wrestlinginc.com/2254392/kevin-knight-aew-hurt-syndicate-offscreen-relationship/",
-      "t": "5h",
-      "dt": "2026-09-13T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kyle Fletcher Explains How AEW Coworker Inspired Wrist Tattoo",
-      "p": "AEW star Kyle Fletcher explains how fellow AEW co-worker Claudio Castagnoli wound up inspiring him to get a piece of advice tattooed on his wrist",
-      "link": "https://www.wrestlinginc.com/2254359/aew-kyle-fletcher-claudio-castagnoli-inspired-wrist-tattoo-advice/",
-      "t": "5h",
-      "dt": "2026-09-13T12:30:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Daniel Garcia selects charity for AEW’s $100,000 Andy Williams donation",
       "p": "Daniel Garcia has announced which charity he will be donating his Battle Royal winnings to. The September 12, 2026 edition of AEW Collision was held in honor of “The Butcher” Andy Williams. A...",
       "link": "https://www.f4wonline.com/news/aew/daniel-garcia-selects-charity-for-aews-100000-andy-williams-donation/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-09-13T12:10:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tommaso Ciampa has a long-term plan for reaching AEW’s top title",
-      "p": "Parting ways with WWE, Tommaso Ciampa joined AEW in 2026 and now already has a long-term plan to reach the promotion’s top championship. Ciampa recently appeared on the Battleground Podcast, where...",
-      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-has-a-long-term-plan-for-reaching-aews-top-title/",
-      "t": "9h",
-      "dt": "2026-09-13T09:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "09/13 Pruett’s AEW Collision audio review: The Andy “The Butcher” Williams tribute show featuring the Butcher Battle Royale",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 09/13 Pruett’s AEW Collision audio review: The Andy “The Butcher” Williams tribute show featuring the Butcher Battle Royale appeared first on...",
-      "link": "https://prowrestling.net/site/2026/09/13/09-13-pruetts-aew-collision-audio-review-the-andy-the-butcher-williams-tribute-show-featuring-the-butcher-battle-royale/",
-      "t": "10h",
-      "dt": "2026-09-13T07:24:51+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision results (9/12): Murphy’s review of Andy “The Butcher” Williams tribute show",
-      "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (9/12): Murphy’s review of Andy “The Butcher” Williams tribute show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/12/aew-collision-results-9-12-murphys-review-of-andy-the-butcher-williams-tribute-show/",
-      "t": "13h",
-      "dt": "2026-09-13T04:50:07+00:00"
     }
   ]
 }

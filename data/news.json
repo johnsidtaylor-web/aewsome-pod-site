@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-13T14:23:30.480716+00:00",
+  "updated": "2026-09-13T18:10:12.475245+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,43 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW Releases Unaired House Show Featuring Rebel & The Butcher",
+      "p": "After an emotional week in AEW, the company has released an unaired house show featuring both The Butcher and Rebel.",
+      "link": "https://www.wrestlinginc.com/2256948/aew-releases-unaired-house-show-rebel-butcher/",
+      "t": "48m",
+      "dt": "2026-09-13T17:21:33+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Bayley’s Third Lodestone Camp Is Set And Coming To Texas, Will Involve AEW/ROH’s Athena",
+      "p": "Details on Bayley’s third Lodestone camp. Last year, Bayley held the first-ever Lodestone seminar, which involved wrestlers such as Izzy, Gabby Forza, and more. The next class took place during...",
+      "link": "https://www.fightful.com/wrestling-news/bayley-third-lodestone-camp-is-coming-to-texas-will-involve-aew-rohs-athena/",
+      "t": "50m",
+      "dt": "2026-09-13T17:19:47+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Maya World Names Her Favorite Wrestlers From Childhood",
+      "p": "AEW's Maya World names her favorite wrestlers from childhood, the legendary WWE star The Undertaker and former WWE Divas Champion Kelly Kelly",
+      "link": "https://www.wrestlinginc.com/2254858/aew-maya-world-kelly-kelly-undertaker-favorite-wrestlers-childhood/",
+      "t": "1h",
+      "dt": "2026-09-13T16:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Watch: AEW The House Always Wins | Exclusive 4/9/21 Show Featuring The Butcher, Rebel",
+      "p": "To celebrate “The Butcher” Andy Williams and Rebel, join us in watching this exclusive show from April 2021: AEW’s The House Always Wins, featuring an epic battle royale with The Butcher doing...",
+      "link": "https://www.fightful.com/wrestling-news/watch-aew-the-house-always-wins-exclusive-4-9-21-show-featuring-the-butcher-rebel/",
+      "t": "2h",
+      "dt": "2026-09-13T16:00:28+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Orange Cassidy says fans have told him his attitude inspired them",
       "p": "Orange Cassidy is evidently inspiring. During a recent interview with Simon Miller, Cassidy was asked if a fan has ever told him that he inspired them to “do less and just give up on life.” The...",
       "link": "https://www.f4wonline.com/news/aew/orange-cassidy-says-fans-have-told-him-his-attitude-inspired-them/",
-      "t": "14m",
+      "t": "4h",
       "dt": "2026-09-13T14:08:49+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW's Maya World Addresses Dave Meltzer Not Rating Her PPV Match With Mercedes Mone",
       "p": "Former AEW TBS Champion Maya World addressed Dave Meltzer not rating her AEW x NJPW Forbidden Door bout against Mercedes Mone.",
       "link": "https://www.wrestlinginc.com/2254395/aew-maya-world-dave-meltzer-not-rating-match-mercedes-mone/",
-      "t": "53m",
+      "t": "4h",
       "dt": "2026-09-13T13:30:00+00:00"
     },
     {
@@ -32,23 +64,15 @@
       "h": "Kevin Knight Talks Offscreen Relationship With Fellow AEW Stars The Hurt Syndicate",
       "p": "Kevin Knight talks about his offscreen relationship with fellow AEW stars The Hurt Syndicate, and whether he'd be open to working with them again",
       "link": "https://www.wrestlinginc.com/2254392/kevin-knight-aew-hurt-syndicate-offscreen-relationship/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-09-13T13:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Brian Cage: AEW PPVs Smash WWE PPVs Every Time",
-      "p": "Brian Cage offers his opinion about the comparison between AEW and WWE pay-per-views. Guest appearing on The @smoothvega Podcast was All Elite Wrestling’s Brian Cage. As the chat moved along, the...",
-      "link": "https://www.fightful.com/wrestling-news/brian-cage-aew-ppvs-smash-wwe-ppvs-every-time/",
-      "t": "1h",
-      "dt": "2026-09-13T12:30:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Kyle Fletcher Explains How AEW Coworker Inspired Wrist Tattoo",
       "p": "AEW star Kyle Fletcher explains how fellow AEW co-worker Claudio Castagnoli wound up inspiring him to get a piece of advice tattooed on his wrist",
       "link": "https://www.wrestlinginc.com/2254359/aew-kyle-fletcher-claudio-castagnoli-inspired-wrist-tattoo-advice/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-09-13T12:30:00+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Daniel Garcia selects charity for AEW’s $100,000 Andy Williams donation",
       "p": "Daniel Garcia has announced which charity he will be donating his Battle Royal winnings to. The September 12, 2026 edition of AEW Collision was held in honor of “The Butcher” Andy Williams. A...",
       "link": "https://www.f4wonline.com/news/aew/daniel-garcia-selects-charity-for-aews-100000-andy-williams-donation/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-13T12:10:54+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Tommaso Ciampa has a long-term plan for reaching AEW’s top title",
       "p": "Parting ways with WWE, Tommaso Ciampa joined AEW in 2026 and now already has a long-term plan to reach the promotion’s top championship. Ciampa recently appeared on the Battleground Podcast, where...",
       "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-has-a-long-term-plan-for-reaching-aews-top-title/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-09-13T09:00:00+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "09/13 Pruett’s AEW Collision audio review: The Andy “The Butcher” Williams tribute show featuring the Butcher Battle Royale",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 09/13 Pruett’s AEW Collision audio review: The Andy “The Butcher” Williams tribute show featuring the Butcher Battle Royale appeared first on...",
       "link": "https://prowrestling.net/site/2026/09/13/09-13-pruetts-aew-collision-audio-review-the-andy-the-butcher-williams-tribute-show-featuring-the-butcher-battle-royale/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-09-13T07:24:51+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW Collision results (9/12): Murphy’s review of Andy “The Butcher” Williams tribute show",
       "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (9/12): Murphy’s review of Andy “The Butcher” Williams tribute show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/12/aew-collision-results-9-12-murphys-review-of-andy-the-butcher-williams-tribute-show/",
-      "t": "9h",
+      "t": "13h",
       "dt": "2026-09-13T04:50:07+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kevin Knight Names One Kind Of Wrestler The Don Callis Family Needs",
-      "p": "Former AEW TNT Champion Kevin Knight named one kind of wrestler who he believes the Don Callis Family truly needs",
-      "link": "https://www.wrestlinginc.com/2254311/aew-kevin-knight-don-callis-family-women-queen-aminata-red-velvet/",
-      "t": "10h",
-      "dt": "2026-09-13T03:59:00+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Tony Khan says Andy Williams had been in talks about a backstage role for AEW in recent weeks",
-      "p": "Tony Khan says Andy Williams had recently been in discussions about continuing with AEW in a backstage role once his in-ring career ended. The post Tony Khan says Andy Williams had been in talks...",
-      "link": "https://www.postwrestling.com/2026/09/12/tony-khan-says-andy-williams-had-been-in-talks-about-a-backstage-role-for-aew-in-recent-weeks/",
-      "t": "11h",
-      "dt": "2026-09-13T03:17:12+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION RESULTS (9/12): Tribute to Andy Williams with the Butcher Battle Royale, Moxley vs. Speedball, Mina vs. Aminata, the Dogs team with the Death Riders, and more",
-      "p": "AEW COLLISION REPORT SEPTEMBER 12, 2026 SPRINGFIELD, MASS. AT THE MASSMUTUAL CENTER AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Nigel McGuiness, Tony...",
-      "link": "https://www.pwtorch.com/site/2026/09/12/aew-collision-results-9-12-tribute-to-andy-williams-with-the-butcher-battle-royale-moxley-vs-speedball-mina-vs-aminata-the-dogs-team-with-the-death-riders-and-more/",
-      "t": "11h",
-      "dt": "2026-09-13T03:17:01+00:00"
     }
   ]
 }

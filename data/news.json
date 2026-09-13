@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-13T00:00:44.059868+00:00",
+  "updated": "2026-09-13T04:41:38.948700+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Tony Khan Says Andy Williams Had Been In Talks With AEW In Recent Weeks About Doing Things Outside The Ring",
-      "p": "Tony Khan says “The Butcher” Andy Williams had recent conversations with All Elite Wrestling. Andy Williams passed away on September 5 at the age of 48. AEW will pay tribute to him on the...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-andy-williams-had-been-in-talks-with-aew-in-recent-weeks-about-doing-things-outside-the-ring/",
-      "t": "32m",
-      "dt": "2026-09-12T23:27:48+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Results (9/12/2026): Tribute to “The Butcher” Andy Williams, More",
-      "p": "Full results for the September 12, 2026, edition of AEW Collision from the MassMutual Center in Springfield, Massachusetts. On September 12, 2026, All Elite Wrestling hosted the new episode of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-results-9-12-2026-tribute-to-the-butcher-andy-williams/",
-      "t": "45m",
-      "dt": "2026-09-12T23:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision live results: Tribute to ‘The Butcher’ Andy Williams",
-      "p": "AEW Collision tonight will be a tribute to “The Butcher” Andy Williams. This week’s show is scheduled for the MassMutual Center in Springfield, Massachusetts, and will broadcast live on TNT and...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-tribute-to-the-butcher-andy-williams/",
-      "t": "45m",
-      "dt": "2026-09-12T23:15:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "The Butcher Battle Royale, AEW Continental Title Eliminator, More Set For 9/12 AEW Collision",
-      "p": "Tony Khan has announced the lineup for 9/12 AEW Collision. This week’s show will be a tribute to the late Andy Williams, also known to wrestling fans as The Butcher. Ahead of the show, Tony Khan...",
-      "link": "https://www.fightful.com/wrestling-news/the-butcher-battle-royal-aew-continental-title-eliminator-more-set-for-9-12-aew-collision/",
-      "t": "57m",
-      "dt": "2026-09-12T23:03:28+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW's Kevin Knight Names One Kind Of Wrestler The Don Callis Family Needs",
+      "p": "Former AEW TNT Champion Kevin Knight named one kind of wrestler who he believes the Don Callis Family truly needs",
+      "link": "https://www.wrestlinginc.com/2254311/aew-kevin-knight-don-callis-family-women-queen-aminata-red-velvet/",
+      "t": "42m",
+      "dt": "2026-09-13T03:59:00+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "AEW’s Rebel urges fans to sign petition protecting ALS research and treatment",
-      "p": "AEW’s Rebel is urging fans to sign a petition calling on Congress to reauthorize legislation supporting ALS research and access to investigational treatments. The post AEW’s Rebel urges fans to...",
-      "link": "https://www.postwrestling.com/2026/09/12/aews-rebel-urges-fans-to-sign-petition-protecting-als-research-and-treatment/",
-      "t": "3h",
-      "dt": "2026-09-12T20:26:25+00:00"
+      "h": "Tony Khan says Andy Williams had been in talks about a backstage role for AEW in recent weeks",
+      "p": "Tony Khan says Andy Williams had recently been in discussions about continuing with AEW in a backstage role once his in-ring career ended. The post Tony Khan says Andy Williams had been in talks...",
+      "link": "https://www.postwrestling.com/2026/09/12/tony-khan-says-andy-williams-had-been-in-talks-about-a-backstage-role-for-aew-in-recent-weeks/",
+      "t": "1h",
+      "dt": "2026-09-13T03:17:12+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "FREE PODCAST 9/12 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: A tearjerking Rebel Heart Dynamite and tribute to The Butcher (80 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner start off with memories of 9/11 and how it effects them on the 25 year...",
-      "link": "https://www.pwtorch.com/site/2026/09/12/free-podcast-9-12-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-a-tearjerking-rebel-heart-dynamite-and-tribute-to-the-butcher-80-min/",
-      "t": "5h",
-      "dt": "2026-09-12T18:49:29+00:00"
+      "h": "AEW COLLISION RESULTS (9/12): Tribute to Andy Williams with the Butcher Battle Royale, Moxley vs. Speedball, Mina vs. Aminata, the Dogs team with the Death Riders, and more",
+      "p": "AEW COLLISION REPORT SEPTEMBER 12, 2026 SPRINGFIELD, MASS. AT THE MASSMUTUAL CENTER AIRED LIVE ON TNT & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Nigel McGuiness, Tony...",
+      "link": "https://www.pwtorch.com/site/2026/09/12/aew-collision-results-9-12-tribute-to-andy-williams-with-the-butcher-battle-royale-moxley-vs-speedball-mina-vs-aminata-the-dogs-team-with-the-death-riders-and-more/",
+      "t": "1h",
+      "dt": "2026-09-13T03:17:01+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Collision ticket sales update ahead of tonight’s show (September 12 2026)",
-      "p": "AEW Collision takes place tonight from the MassMutual Center in Springfield, MA, and is a tribute show to The Butcher/Andy Williams, a pro wrestler and genre-defining guitarist with Every Time I...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-sales-update-tonight-show-september-12-2026/",
-      "t": "6h",
-      "dt": "2026-09-12T17:57:03+00:00"
+      "h": "AEW announces Blood & Guts 2026 date and location",
+      "p": "AEW has announced the location and date for the 2026 edition of Blood & Guts. During the September 12, 2026 edition of AEW Collision, the promotion shared more details on the upcoming edition of...",
+      "link": "https://www.f4wonline.com/news/aew/aew-announces-blood-guts-2026-date-and-location/",
+      "t": "1h",
+      "dt": "2026-09-13T02:43:26+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kyle Fletcher Explains Why He Opted Against Pink International Title",
-      "p": "Kyle Fletcher has revealed that he didn't want an AEW International Championship belt, mainly because of the fans.",
-      "link": "https://www.wrestlinginc.com/2256724/aew-kyle-fletcher-opted-against-pink-international-title/",
-      "t": "6h",
-      "dt": "2026-09-12T17:45:59+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Rebel Heart Dynamite reportedly received strong backstage reaction",
-      "p": "AEW’s Rebel Heart Dynamite is being praised as “exactly what Rebel wanted.” Wednesday’s edition of AEW Dynamite from Athens, Georgia was held in honor of Rebel, who announced earlier this year...",
-      "link": "https://www.f4wonline.com/news/aew/aew-rebel-heart-dynamite-reportedly-received-strong-backstage-reaction/",
-      "t": "6h",
-      "dt": "2026-09-12T17:35:57+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kevin Knight Opens Up About AEW Redemption Main Event Against Kenny Omega",
-      "p": "AEW's Kevin Knight opens up about getting the opportunity to main event AEW Redemption against Kenny Omega for the AEW Men's World Championship",
-      "link": "https://www.wrestlinginc.com/2253791/kevin-knight-aew-redempetion-main-event-kenny-omega/",
-      "t": "6h",
-      "dt": "2026-09-12T17:30:00+00:00"
+      "src": "POST Wrestling",
+      "h": "AEW Collision 9/12 Results: Daniel Garcia wins ‘Butcher Battle Royal’ to close out emotional Andy Williams tribute show",
+      "p": "Daniel Garcia won a 'Butcher Battle Royal' to close a special edition of AEW Collision dedicated to the life of Andy Williams. The post AEW Collision 9/12 Results: Daniel Garcia wins ‘Butcher...",
+      "link": "https://www.postwrestling.com/2026/09/12/aew-collision-9-12-results-daniel-garcia-wins-butcher-battle-royal-to-close-out-emotional-andy-williams-tribute-show/",
+      "t": "1h",
+      "dt": "2026-09-13T02:42:42+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW’s Triangle of Madness make first Artist of Stardom title defense",
-      "p": "The Triangle of Madness successfully defended the Artist of Stardom Championship on today’s Stardom to the World show in Yokohama. Thekla, Skye Blue, and Julia Hart defeated Natsupoi, Aya Sakura,...",
-      "link": "https://www.f4wonline.com/news/other-wrestling/aews-triangle-of-madness-make-first-artist-of-stardom-title-defense/",
-      "t": "8h",
-      "dt": "2026-09-12T15:49:41+00:00"
+      "h": "AEW Collision notes: Butcher Battle Royal, House Always Wins event to air on MyAEW",
+      "p": "AEW paid tribute to Andy ‘The Butcher’ Williams on Saturday with a battle royal. The main event of Saturday’s show in Springfield, Massachusetts was called the Butcher Battle Royal, with the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-notes-butcher-battle-royal-house-always-wins-event-to-air-on-myaew/",
+      "t": "2h",
+      "dt": "2026-09-13T02:28:26+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
-      "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
-      "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
-      "t": "10h",
-      "dt": "2026-09-12T13:46:49+00:00"
+      "h": "Tony Khan says The Butcher spoke to AEW in recent weeks",
+      "p": "“The Butcher” Andy Williams was in conversation with AEW recently before passing away. Just minutes before the Saturday, September 12, 2026 edition of AEW Collision, Tony Khan appeared via a...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-says-the-butcher-spoke-to-aew-in-recent-weeks/",
+      "t": "2h",
+      "dt": "2026-09-13T02:23:53+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Daniel Garcia Wins The Butcher Battle Royale On 9/12 AEW Collision",
+      "p": "Daniel Garcia wins The Butcher Battle Royale on AEW Collision. The 9/12 AEW Collision show featured The Butcher Battle Royale. 12 wrestlers were part of this match, with the winner receiving...",
+      "link": "https://www.fightful.com/wrestling-news/daniel-garcia-wins-the-butcher-battle-royale-on-9-12-aew-collision/",
+      "t": "2h",
+      "dt": "2026-09-13T02:22:29+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Blood And Guts 2026 Set For November 4 In Jacksonville, Florida",
+      "p": "All Elite Wrestling announces that AEW Blood and Guts is coming to Jacksonville, Florida, later this year. On this week’s AEW Collision, the company announced that this year’s AEW Blood and Guts...",
+      "link": "https://www.fightful.com/wrestling-news/aew-blood-and-guts-2026-set-for-november-4-in-jacksonville-florida/",
+      "t": "2h",
+      "dt": "2026-09-13T02:05:50+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Blood and Guts 2026 set for November 4 in Jacksonville",
+      "p": "AEW Blood & Guts will return to Jacksonville, Florida, on Wednesday, November 4. The post AEW Blood and Guts 2026 set for November 4 in Jacksonville appeared first on POST Wrestling | Podcasts,...",
+      "link": "https://www.postwrestling.com/2026/09/12/aew-blood-and-guts-2026-set-for-november-4-in-jacksonville/",
+      "t": "2h",
+      "dt": "2026-09-13T02:05:16+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "The Blade, AEW wrestlers pay tribute to The Butcher on Collision",
+      "p": "Multiple AEW stars paid tribute to the Butcher on Collision. Saturday’s show in Springfield, Massachussetts was dedicated to Andy ‘The Butcher’ Williams, with many AEW wrestlers sharing their...",
+      "link": "https://www.f4wonline.com/news/aew/the-blade-aew-wrestlers-pay-tribute-to-the-butcher-on-collision/",
+      "t": "2h",
+      "dt": "2026-09-13T02:05:11+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "More AEW Wrestlers Pay Tribute To ‘The Butcher’ Andy Williams On 9/12 AEW Collision",
+      "p": "More wrestlers pay tribute to Andy Williams on 9/12 AEW Collision. Throughout this week’s AEW Collision (September 12), AEW showed video packages of wrestlers remembering the late Andy Williams....",
+      "link": "https://www.fightful.com/wrestling-news/more-aew-wrestlers-pay-tribute-to-the-butcher-andy-williams-on-9-12-aew-collision/",
+      "t": "2h",
+      "dt": "2026-09-13T01:42:11+00:00"
     }
   ]
 }

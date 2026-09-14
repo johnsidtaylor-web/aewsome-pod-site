@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-14T12:49:23.880395+00:00",
+  "updated": "2026-09-14T18:35:46.091173+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "AEW’s Continental Classic tournament to begin in Colorado",
+      "p": "AEW’s Continental Classic has a start date in November. The post AEW’s Continental Classic tournament to begin in Colorado appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT...",
+      "link": "https://www.postwrestling.com/2026/09/14/aews-continental-classic-tournament-to-begin-in-colorado/",
+      "t": "13m",
+      "dt": "2026-09-14T18:21:53+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Orange Cassidy Says That Dean Malenko Is His Dream Tag Team Partner",
+      "p": "Orange Cassidy says that Dean Malenko is his ultimate dream tag team partner, as he could do all the work for the pair. Orange has worked with some of wrestling’s most legendary names in the time...",
+      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-says-that-dean-malenko-is-his-dream-tag-team-partner/",
+      "t": "34m",
+      "dt": "2026-09-14T18:00:42+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Orange Cassidy Explains How He Prepares For Big Matches",
+      "p": "Orange Cassidy has explained how he prepares for big matches in his wrestling career, including his usual laziness. Cassidy’s character has always been one of sloth, including in and outside the...",
+      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-explains-how-he-prepares-for-big-matches/",
+      "t": "54m",
+      "dt": "2026-09-14T17:40:52+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW reveals date and location for start of Continental Classic 2026",
+      "p": "The tournament is still a couple of months away, but AEW is already making plans for Continental Classic 2026. While announcing the location for the Wednesday, November 18 edition of Dynamite...",
+      "link": "https://www.f4wonline.com/news/aew/aew-reveals-date-and-location-for-start-of-continental-classic-2026/",
+      "t": "1h",
+      "dt": "2026-09-14T17:28:12+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "WWE Worlds Collide lineup: Title match set, ticket distribution notes for the show running head-to-head with AEW All Out",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post WWE Worlds Collide lineup: Title match set, ticket distribution notes for the show running head-to-head with AEW All Out appeared first on Pro...",
+      "link": "https://prowrestling.net/site/2026/09/14/wwe-worlds-collide-lineup-title-match-set-ticket-distribution-notes-for-the-show-running-head-to-head-with-aew-all-out/",
+      "t": "1h",
+      "dt": "2026-09-14T17:16:52+00:00"
+    },
+    {
       "src": "Wrestling Inc",
-      "h": "Will Ospreay Says He Wanted Specific Entrance Song For AEW All In 2026",
-      "p": "Will Ospreay had one of the most heartfelt and touching entrances in recent memory at AEW All In 2026, but he revealed that he had a different song in mind.",
-      "link": "https://www.wrestlinginc.com/2256221/will-ospreay-specific-entrance-song-aew-all-in-2026/",
-      "t": "19m",
-      "dt": "2026-09-14T12:30:00+00:00"
+      "h": "Major Update On Ilja Dragunov's Next Move Following WWE Exit",
+      "p": "A major update on Ilja Dragunov's next move following his WWE exit reveals that the former US Champion is expected to wind up in AEW sooner than later",
+      "link": "https://www.wrestlinginc.com/2257844/wwe-aew-ilja-dragunov-major-update-next-move-exit/",
+      "t": "1h",
+      "dt": "2026-09-14T17:16:14+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland And Max B Release Single ‘Coo Coo’",
+      "p": "A new single from Swerve Strickland. The AEW star has teamed up with Max B to release the single “Coo Coo.” The song is available on all streaming platforms. Press release: SWERVE STRICKLAND AND...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-and-max-b-release-single-coo-coo/",
+      "t": "1h",
+      "dt": "2026-09-14T17:15:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Continental Classic To Begin On 11/18 AEW Dynamite",
+      "p": "The start date for the 2026 AEW Continental Classic has been revealed. All Elite Wrestling announced that the annual Continental Classic will begin on the November 18 episode of Dynamite. The...",
+      "link": "https://www.fightful.com/wrestling-news/aew-continental-classic-to-begin-on-11-18-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-09-14T17:01:31+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Ilja Dragunov Coming To AEW",
+      "p": "Details on the future of Ilja Dragunov. Fightful Select reports, “Ilja Dragunov is coming to AEW.” Full details are available for subscribers. Dragunov departed WWE this week after his contract...",
+      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-coming-to-aew/",
+      "t": "1h",
+      "dt": "2026-09-14T16:52:23+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Thekla discusses unconventional wrestling training in early years",
-      "p": "Thekla discussed the unconventional wrestling training she underwent in her early years and learnings in Japan. In a snippet from Thekla’s interview on Talk is Jericho, the AEW star disclosed her...",
-      "link": "https://www.f4wonline.com/news/aew/thekla-discusses-unconventional-wrestling-training-in-early-years/",
-      "t": "44m",
-      "dt": "2026-09-14T12:05:03+00:00"
+      "h": "AEW expected to sign former WWE United States Champion",
+      "p": "Ilja Dragunov is expected to make AEW his next professional wrestling home. When news of Dragunov’s WWE departure broke last month, it was heavily rumored that he would end up in AEW. Fightful...",
+      "link": "https://www.f4wonline.com/news/aew/aew-expected-to-sign-former-wwe-united-states-champion/",
+      "t": "2h",
+      "dt": "2026-09-14T16:30:25+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "AEW’s Brian Cage opens up about steroid use, current TRT",
-      "p": "AEW wrestler Brian Cage has admitted to steroid and PED use, as well as opened up about his current TRT (Testosterone Replacement Therapy). Cage recently appeared on the latest episode of The...",
-      "link": "https://www.f4wonline.com/news/aew/aews-brian-cage-opens-up-about-steroid-use-current-trt/",
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The card for Wednesday’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The card for Wednesday’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/14/aew-dynamite-preview-the-card-for-wednesdays-show-40/",
       "t": "5h",
-      "dt": "2026-09-14T07:20:00+00:00"
+      "dt": "2026-09-14T13:15:56+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Brian Cage says he feels underutilized in AEW",
-      "p": "Brian Cage has shared his thoughts about his ongoing AEW run. A part of the AEW roster for the last six years, Brian Cage recently revealed that he feels underutilized in AEW. Recently, speaking...",
-      "link": "https://www.f4wonline.com/news/aew/brian-cage-says-he-feels-underutilized-in-aew/",
-      "t": "7h",
-      "dt": "2026-09-14T05:30:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "Was EVE able to successfully follow up on EVE 153 with ECW 154 “Mean Grrrls 2026”? Evaluating each of the wrestler’s roles on the show",
-      "p": "Women’s Britwres A Look at EVE 154, “Mean Grrrls 2026” When AEW’s biggest show of the year arrived in London, it was greeted by a parade of the best wrestling the UK has to offer. [...]",
-      "link": "https://www.pwtorch.com/site/2026/09/13/was-eve-able-to-successfully-follow-up-on-eve-153-with-ecw-154-mean-grrrls-2026-evaluating-each-of-the-wrestlers-roles-on-the-show/",
-      "t": "8h",
-      "dt": "2026-09-14T03:53:49+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (9/12): A tribute to Andy “The Butcher” Williams featuring coworkers speaking about how much. he meant to them, the kind of friend he was",
-      "p": "With this episode of AEW Collision being a tribute to Andy “The Butcher” Williams, giving out Hits & Misses didn’t feel appropriate to me this week. This show was about remembering someone who...",
-      "link": "https://www.pwtorch.com/site/2026/09/13/aew-collision-hits-misses-9-12-a-tribute-to-andy-the-butcher-williams-featuring-coworkers-speaking-about-how-much-he-meant-to-them-the-kind-of-friend-he-was/",
-      "t": "9h",
-      "dt": "2026-09-14T03:37:29+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: Dave’s thoughts on AEW Collision, Rebel’s ALS petition, big night in Mexico",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Sunday Update — Bryan and I will be back...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-daves-thoughts-on-aew-collision-rebels-als-petition-big-night-in-mexico/",
-      "t": "11h",
-      "dt": "2026-09-14T01:16:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: AEW’s goodbye to ‘The Butcher’, WWE crowns two new World champs & what makes a good steward in wrestling anyway?",
-      "p": "A new edition of Wrestling Observer Live Sunday — the longest running non-episodic audio show in human history dating back to the 1880s — has been posted with your host, Josh Nason. Josh has a few...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-butcher-tribute-aew-sami-zayn-wwe-tessa-blanchard-mvp-podcast/",
-      "t": "16h",
-      "dt": "2026-09-13T20:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Son of Sting has arrived: Best of the Bryan & Vinny Show",
-      "p": "It’s a special edition of the Best of the Bryan & Vinny Show! The Rebel Heart Dynamite was full of emotion including the passing of Andy Williams, The Butcher. We still tried to have some fun this...",
-      "link": "https://www.f4wonline.com/uncategorized/son-of-sting-has-arrived-best-of-the-bryan-vinny-show/",
-      "t": "16h",
-      "dt": "2026-09-13T19:52:53+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay Reveals Immediate Aftermath Of AEW World Title Win At All In 2026",
-      "p": "Will Ospreay has revealed that his AEW World Title win after All In London 2026 involved medical attention, donuts, and hopping over fences.",
-      "link": "https://www.wrestlinginc.com/2256969/will-ospreay-aew-world-title-win-all-in-2026-aftermath/",
-      "t": "17h",
-      "dt": "2026-09-13T19:28:38+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's MVP Recalls Pro Wrestling 'Drug Culture,' Says He Never Got Into It",
-      "p": "In an episode of his \"Marking Out\" podcast, AEW star MVP looked back at the culture of drugs in the WWE locker room and whether he ever took part.",
-      "link": "https://www.wrestlinginc.com/2255514/aew-mvp-drug-culture-never-got-into/",
-      "t": "17h",
-      "dt": "2026-09-13T19:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Jeff Jarrett Believes AEW All In 2026 'Raised The Bar' For All Promotions",
-      "p": "Industry veteran Jeff Jarrett explains how AEW All In 2026 \"raised the bar\" for all professional wrestling promotions.",
-      "link": "https://www.wrestlinginc.com/2256959/aew-all-in-2026-jeff-jarrett-raised-bar-all-promotions/",
-      "t": "18h",
-      "dt": "2026-09-13T18:18:41+00:00"
+      "h": "AEW star admits he is tired of being heel for nearly 6 years",
+      "p": "Brian Cage has spent his AEW run as a heel and is ready for a change to be a babyface. Cage addressed his presentation in AEW and how he hopes it alludes to a babyface run someday. On the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-admits-he-is-tired-of-being-heel-for-nearly-6-years/",
+      "t": "5h",
+      "dt": "2026-09-14T13:10:14+00:00"
     }
   ]
 }

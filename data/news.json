@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-14T01:01:23.739621+00:00",
+  "updated": "2026-09-14T06:13:59.227095+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,19 +12,43 @@
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Eddie Kingston Sends A Message To ‘The Butcher’ Andy Williams After 9/12 AEW Collision",
-      "p": "Eddie Kingston tribute to the late Andy Williams. “The Butcher” Andy Williams passed away on September 5. AEW held a tribute show for him on 9/12 AEW Collision, with the main event being The...",
-      "link": "https://www.fightful.com/wrestling-news/eddie-kingston-sends-a-message-to-the-butcher-andy-williams-after-9-12-aew-collision/",
+      "src": "Wrestling Observer",
+      "h": "Brian Cage says he feels underutilized in AEW",
+      "p": "Brian Cage has shared his thoughts about his ongoing AEW run. A part of the AEW roster for the last six years, Brian Cage recently revealed that he feels underutilized in AEW. Recently, speaking...",
+      "link": "https://www.f4wonline.com/news/aew/brian-cage-says-he-feels-underutilized-in-aew/",
+      "t": "43m",
+      "dt": "2026-09-14T05:30:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "Was EVE able to successfully follow up on EVE 153 with ECW 154 “Mean Grrrls 2026”? Evaluating each of the wrestler’s roles on the show",
+      "p": "Women’s Britwres A Look at EVE 154, “Mean Grrrls 2026” When AEW’s biggest show of the year arrived in London, it was greeted by a parade of the best wrestling the UK has to offer. [...]",
+      "link": "https://www.pwtorch.com/site/2026/09/13/was-eve-able-to-successfully-follow-up-on-eve-153-with-ecw-154-mean-grrrls-2026-evaluating-each-of-the-wrestlers-roles-on-the-show/",
+      "t": "2h",
+      "dt": "2026-09-14T03:53:49+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW COLLISION HITS & MISSES (9/12): A tribute to Andy “The Butcher” Williams featuring coworkers speaking about how much. he meant to them, the kind of friend he was",
+      "p": "With this episode of AEW Collision being a tribute to Andy “The Butcher” Williams, giving out Hits & Misses didn’t feel appropriate to me this week. This show was about remembering someone who...",
+      "link": "https://www.pwtorch.com/site/2026/09/13/aew-collision-hits-misses-9-12-a-tribute-to-andy-the-butcher-williams-featuring-coworkers-speaking-about-how-much-he-meant-to-them-the-kind-of-friend-he-was/",
+      "t": "2h",
+      "dt": "2026-09-14T03:37:29+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: Dave’s thoughts on AEW Collision, Rebel’s ALS petition, big night in Mexico",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Sunday Update — Bryan and I will be back...",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-daves-thoughts-on-aew-collision-rebels-als-petition-big-night-in-mexico/",
       "t": "4h",
-      "dt": "2026-09-13T20:04:14+00:00"
+      "dt": "2026-09-14T01:16:17+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "WOL: AEW’s goodbye to ‘The Butcher’, WWE crowns two new World champs & what makes a good steward in wrestling anyway?",
       "p": "A new edition of Wrestling Observer Live Sunday — the longest running non-episodic audio show in human history dating back to the 1880s — has been posted with your host, Josh Nason. Josh has a few...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-butcher-tribute-aew-sami-zayn-wwe-tessa-blanchard-mvp-podcast/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-13T20:00:00+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "Son of Sting has arrived: Best of the Bryan & Vinny Show",
       "p": "It’s a special edition of the Best of the Bryan & Vinny Show! The Rebel Heart Dynamite was full of emotion including the passing of Andy Williams, The Butcher. We still tried to have some fun this...",
       "link": "https://www.f4wonline.com/uncategorized/son-of-sting-has-arrived-best-of-the-bryan-vinny-show/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-13T19:52:53+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Will Ospreay Reveals Immediate Aftermath Of AEW World Title Win At All In 2026",
       "p": "Will Ospreay has revealed that his AEW World Title win after All In London 2026 involved medical attention, donuts, and hopping over fences.",
       "link": "https://www.wrestlinginc.com/2256969/will-ospreay-aew-world-title-win-all-in-2026-aftermath/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-13T19:28:38+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "AEW's MVP Recalls Pro Wrestling 'Drug Culture,' Says He Never Got Into It",
       "p": "In an episode of his \"Marking Out\" podcast, AEW star MVP looked back at the culture of drugs in the WWE locker room and whether he ever took part.",
       "link": "https://www.wrestlinginc.com/2255514/aew-mvp-drug-culture-never-got-into/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-09-13T19:00:00+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Jeff Jarrett Believes AEW All In 2026 'Raised The Bar' For All Promotions",
       "p": "Industry veteran Jeff Jarrett explains how AEW All In 2026 \"raised the bar\" for all professional wrestling promotions.",
       "link": "https://www.wrestlinginc.com/2256959/aew-all-in-2026-jeff-jarrett-raised-bar-all-promotions/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-09-13T18:18:41+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "AEW wrestler reportedly involved in WWE star Bayley’s next Lodestone camp",
       "p": "ROH Women’s World Champion Athena is reportedly set to be involved in Bayley’s next Lodestone training camp. Fightful Select reported Sunday that it was implied to them that the next Lodestone...",
       "link": "https://www.f4wonline.com/news/wwe/aew-wrestler-reportedly-involved-in-wwe-star-bayleys-next-lodestone-camp/",
-      "t": "6h",
+      "t": "12h",
       "dt": "2026-09-13T18:11:24+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW Releases Unaired House Show Featuring Rebel & The Butcher",
       "p": "After an emotional week in AEW, the company has released an unaired house show featuring both The Butcher and Rebel.",
       "link": "https://www.wrestlinginc.com/2256948/aew-releases-unaired-house-show-rebel-butcher/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-09-13T17:21:33+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW's Maya World Names Her Favorite Wrestlers From Childhood",
       "p": "AEW's Maya World names her favorite wrestlers from childhood, the legendary WWE star The Undertaker and former WWE Divas Champion Kelly Kelly",
       "link": "https://www.wrestlinginc.com/2254858/aew-maya-world-kelly-kelly-undertaker-favorite-wrestlers-childhood/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-09-13T16:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Orange Cassidy says fans have told him his attitude inspired them",
-      "p": "Orange Cassidy is evidently inspiring. During a recent interview with Simon Miller, Cassidy was asked if a fan has ever told him that he inspired them to “do less and just give up on life.” The...",
-      "link": "https://www.f4wonline.com/news/aew/orange-cassidy-says-fans-have-told-him-his-attitude-inspired-them/",
-      "t": "10h",
-      "dt": "2026-09-13T14:08:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daniel Garcia selects charity for AEW’s $100,000 Andy Williams donation",
-      "p": "Daniel Garcia has announced which charity he will be donating his Battle Royal winnings to. The September 12, 2026 edition of AEW Collision was held in honor of “The Butcher” Andy Williams. A...",
-      "link": "https://www.f4wonline.com/news/aew/daniel-garcia-selects-charity-for-aews-100000-andy-williams-donation/",
-      "t": "12h",
-      "dt": "2026-09-13T12:10:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tommaso Ciampa has a long-term plan for reaching AEW’s top title",
-      "p": "Parting ways with WWE, Tommaso Ciampa joined AEW in 2026 and now already has a long-term plan to reach the promotion’s top championship. Ciampa recently appeared on the Battleground Podcast, where...",
-      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-has-a-long-term-plan-for-reaching-aews-top-title/",
-      "t": "16h",
-      "dt": "2026-09-13T09:00:00+00:00"
     }
   ]
 }

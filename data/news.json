@@ -1,22 +1,102 @@
 {
-  "updated": "2026-09-14T18:35:46.091173+00:00",
+  "updated": "2026-09-14T22:28:50.307557+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Commentator Walker Stewart Announces NJPW Contract Extension",
+      "p": "NJPW commentator Walker Stewart announces he has reached an extension with the promotion, will continue to work with STARDOM, and will work limitedly with AEW",
+      "link": "https://www.wrestlinginc.com/2258394/njpw-aew-stardom-walker-stewart-contract-extension/",
+      "t": "31m",
+      "dt": "2026-09-14T21:57:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Swerve Strickland names his three biggest wrestling influences",
+      "p": "Rey Mysterio, Adam Copeland, and Shawn Michaels were Swerve Strickland’s biggest influences growing up — and he’s gotten to learn from all three in his wrestling career. While promoting his new...",
+      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-names-his-three-biggest-wrestling-influences/",
+      "t": "46m",
+      "dt": "2026-09-14T21:41:44+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Viewership & Ratings Report: 9/5/2026",
+      "p": "The September 5 episode of AEW Collision stays steady week over week with viewership, but continues to show signs of growth in total viewership year over year",
+      "link": "https://www.wrestlinginc.com/2258279/aew-collision-viewership-ratings-september-5-2026/",
+      "t": "1h",
+      "dt": "2026-09-14T20:33:26+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "NJPW voice Walker Stewart announces his next career move includes some AEW work",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post NJPW voice Walker Stewart announces his next career move includes some AEW work appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/14/njpw-voice-walker-stewart-announces-his-next-career-move-includes-some-aew-work/",
+      "t": "2h",
+      "dt": "2026-09-14T20:25:43+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 9/14 – PWTorch Dailycast – Worse or Better (Collision Course): Josh White & Adam Kidd compare the state of AEW Collision to its initial inception (79 min.)",
+      "p": "SHOW SUMMARY: In this PWTorch Dailycast series titled “Worse or Better,” Josh White and a cohost discuss one aspect of today’s pro wrestling scene and compare it to a previous era or eras and...",
+      "link": "https://www.pwtorch.com/site/2026/09/14/free-podcast-9-14-pwtorch-dailycast-worse-or-better-collision-course-josh-white-adam-kidd-compare-the-state-of-aew-collision-to-its-initial-inception-79-min/",
+      "t": "2h",
+      "dt": "2026-09-14T20:06:50+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Announcer Walker Stewart re-signs with NJPW, gives update on AEW future",
+      "p": "Play-by-play announcer Walker Stewart has re-signed with NJPW, but that doesn’t mean we won’t be seeing him around in AEW. Stewart announced today that he has signed a contract extension with NJPW...",
+      "link": "https://www.f4wonline.com/news/aew/announcer-walker-stewart-re-signs-with-njpw-gives-update-on-aew-future/",
+      "t": "2h",
+      "dt": "2026-09-14T19:37:25+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "Major name reportedly expected to sign with AEW",
+      "p": "Former WWE wrestler Ilja Dragunov is reportedly expected to sign with AEW. Dragunov, a former WWE U.S. Champion, departed from WWE when his contract expired recently. He did not have a 90-day...",
+      "link": "https://www.pwtorch.com/site/2026/09/14/major-name-reportedly-expected-to-sign-with-aew/",
+      "t": "3h",
+      "dt": "2026-09-14T19:19:37+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Announces Kickoff Date For 2026 Continental Classic Tournament",
+      "p": "AEW announces the November 18 Dynamite as the kickoff date for the 2026 Continental Classic tournament, the earliest the tournament has ever started",
+      "link": "https://www.wrestlinginc.com/2258136/aew-continental-classic-2026-tournament-kickoff-date-november-18-denver-colorado/",
+      "t": "3h",
+      "dt": "2026-09-14T19:18:33+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Continental Classic start date announced",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Continental Classic start date announced appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/14/aew-continental-classic-start-date-announced/",
+      "t": "3h",
+      "dt": "2026-09-14T18:54:07+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "20 YEARS AGO – ROH LIVE EVENT REPORT (9/15/2006): Austin Aries vs. Davey Richards, Nigel vs. Daniels, Samoa Joe vs. Strong, plus Kenta, Briscoes, Claudio, Cabana",
+      "p": "PWTorch features unmatched archives of live wrestling reports (not just results, but match details, context, and analysis). The following is a report originally published here 20 years ago this...",
+      "link": "https://www.pwtorch.com/site/2026/09/14/20-years-ago-roh-live-event-report-9-15-2006-austin-aries-vs-davey-richards-nigel-vs-daniels-samoa-joe-vs-strong-plus-kenta-briscoes-claudio-cabana/",
+      "t": "3h",
+      "dt": "2026-09-14T18:38:21+00:00"
+    },
     {
       "src": "POST Wrestling",
       "h": "AEW’s Continental Classic tournament to begin in Colorado",
       "p": "AEW’s Continental Classic has a start date in November. The post AEW’s Continental Classic tournament to begin in Colorado appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT...",
       "link": "https://www.postwrestling.com/2026/09/14/aews-continental-classic-tournament-to-begin-in-colorado/",
-      "t": "13m",
+      "t": "4h",
       "dt": "2026-09-14T18:21:53+00:00"
     },
     {
@@ -24,88 +104,8 @@
       "h": "Orange Cassidy Says That Dean Malenko Is His Dream Tag Team Partner",
       "p": "Orange Cassidy says that Dean Malenko is his ultimate dream tag team partner, as he could do all the work for the pair. Orange has worked with some of wrestling’s most legendary names in the time...",
       "link": "https://www.fightful.com/wrestling-news/orange-cassidy-says-that-dean-malenko-is-his-dream-tag-team-partner/",
-      "t": "34m",
+      "t": "4h",
       "dt": "2026-09-14T18:00:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Orange Cassidy Explains How He Prepares For Big Matches",
-      "p": "Orange Cassidy has explained how he prepares for big matches in his wrestling career, including his usual laziness. Cassidy’s character has always been one of sloth, including in and outside the...",
-      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-explains-how-he-prepares-for-big-matches/",
-      "t": "54m",
-      "dt": "2026-09-14T17:40:52+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW reveals date and location for start of Continental Classic 2026",
-      "p": "The tournament is still a couple of months away, but AEW is already making plans for Continental Classic 2026. While announcing the location for the Wednesday, November 18 edition of Dynamite...",
-      "link": "https://www.f4wonline.com/news/aew/aew-reveals-date-and-location-for-start-of-continental-classic-2026/",
-      "t": "1h",
-      "dt": "2026-09-14T17:28:12+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "WWE Worlds Collide lineup: Title match set, ticket distribution notes for the show running head-to-head with AEW All Out",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post WWE Worlds Collide lineup: Title match set, ticket distribution notes for the show running head-to-head with AEW All Out appeared first on Pro...",
-      "link": "https://prowrestling.net/site/2026/09/14/wwe-worlds-collide-lineup-title-match-set-ticket-distribution-notes-for-the-show-running-head-to-head-with-aew-all-out/",
-      "t": "1h",
-      "dt": "2026-09-14T17:16:52+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Major Update On Ilja Dragunov's Next Move Following WWE Exit",
-      "p": "A major update on Ilja Dragunov's next move following his WWE exit reveals that the former US Champion is expected to wind up in AEW sooner than later",
-      "link": "https://www.wrestlinginc.com/2257844/wwe-aew-ilja-dragunov-major-update-next-move-exit/",
-      "t": "1h",
-      "dt": "2026-09-14T17:16:14+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Swerve Strickland And Max B Release Single ‘Coo Coo’",
-      "p": "A new single from Swerve Strickland. The AEW star has teamed up with Max B to release the single “Coo Coo.” The song is available on all streaming platforms. Press release: SWERVE STRICKLAND AND...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-and-max-b-release-single-coo-coo/",
-      "t": "1h",
-      "dt": "2026-09-14T17:15:13+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Continental Classic To Begin On 11/18 AEW Dynamite",
-      "p": "The start date for the 2026 AEW Continental Classic has been revealed. All Elite Wrestling announced that the annual Continental Classic will begin on the November 18 episode of Dynamite. The...",
-      "link": "https://www.fightful.com/wrestling-news/aew-continental-classic-to-begin-on-11-18-aew-dynamite/",
-      "t": "1h",
-      "dt": "2026-09-14T17:01:31+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ilja Dragunov Coming To AEW",
-      "p": "Details on the future of Ilja Dragunov. Fightful Select reports, “Ilja Dragunov is coming to AEW.” Full details are available for subscribers. Dragunov departed WWE this week after his contract...",
-      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-coming-to-aew/",
-      "t": "1h",
-      "dt": "2026-09-14T16:52:23+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW expected to sign former WWE United States Champion",
-      "p": "Ilja Dragunov is expected to make AEW his next professional wrestling home. When news of Dragunov’s WWE departure broke last month, it was heavily rumored that he would end up in AEW. Fightful...",
-      "link": "https://www.f4wonline.com/news/aew/aew-expected-to-sign-former-wwe-united-states-champion/",
-      "t": "2h",
-      "dt": "2026-09-14T16:30:25+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The card for Wednesday’s show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The card for Wednesday’s show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/14/aew-dynamite-preview-the-card-for-wednesdays-show-40/",
-      "t": "5h",
-      "dt": "2026-09-14T13:15:56+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star admits he is tired of being heel for nearly 6 years",
-      "p": "Brian Cage has spent his AEW run as a heel and is ready for a change to be a babyface. Cage addressed his presentation in AEW and how he hopes it alludes to a babyface run someday. On the...",
-      "link": "https://www.f4wonline.com/news/aew/aew-star-admits-he-is-tired-of-being-heel-for-nearly-6-years/",
-      "t": "5h",
-      "dt": "2026-09-14T13:10:14+00:00"
     }
   ]
 }

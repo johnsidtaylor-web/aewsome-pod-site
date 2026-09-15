@@ -1,54 +1,102 @@
 {
-  "updated": "2026-09-15T18:09:30.300001+00:00",
+  "updated": "2026-09-15T21:17:14.258036+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "AEW Files To Trademark ‘For The Sickos’",
-      "p": "AEW files for a new trademark. On September 14, AEW filed to trademark “For The Sickos.” Tony Khan and wrestlers have referred to fans as “sickos” as a term of endearment. The company has...",
-      "link": "https://www.fightful.com/wrestling-news/aew-files-to-trademark-for-the-sickos/",
-      "t": "10m",
-      "dt": "2026-09-15T17:58:21+00:00"
+      "src": "Wrestling Observer",
+      "h": "Mike Bailey calls AEW tribute to ‘The Butcher’ Andy Williams a ‘moment of togetherness’",
+      "p": "Mike Bailey spoke about AEW’s tribute to Andy “The Butcher” Williams on the latest episode of his vlog. Bailey wrestled in the opening match of Saturday’s show in Springfield, Massachusetts,...",
+      "link": "https://www.f4wonline.com/news/aew/mike-bailey-calls-aew-tribute-to-the-butcher-andy-williams-a-moment-of-togetherness/",
+      "t": "8m",
+      "dt": "2026-09-15T21:08:58+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Swerve Strickland Says Getting Powerbombed On A Cinder Block Was The Worst Spot He’s Ever Done: ‘I Was Like, Never Again’",
-      "p": "Swerve Strickland says getting powerbombed on a cinder block was the worst spot he’s ever done in pro wrestling. At AEW All Out 2024, Hangman Page and Swerve would face off in a Lights Out steel...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-says-getting-powerbombed-on-a-cinder-block-was-the-worst-spot-hes-ever-done-i-was-like-never-again/",
-      "t": "28m",
-      "dt": "2026-09-15T17:41:07+00:00"
+      "h": "Nyla Rose Admits It’s ‘A Little Hard’ And ‘A Little Frustrating’ To Be Absent From AEW TV",
+      "p": "Fans haven’t seen Nyla Rose on AEW TV since November 2024 when she competed on AEW Rampage. She has remained active around the world, competing for EVE, Marvelous, MPX, and more. Speaking to...",
+      "link": "https://www.fightful.com/wrestling-news/nyla-rose-admits-its-a-little-hard-and-a-little-frustrating-to-be-absent-from-aew-tv/",
+      "t": "21m",
+      "dt": "2026-09-15T20:56:02+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Sami Zayn reacts to potential Roman Reigns WWE Crown Jewel match",
+      "p": "Sami Zayn is excited about the possibility of renewing his rivalry with Roman Reigns. As things stand, Undisputed WWE Champion Zayn and World Heavyweight Champion Reigns are on a collision course...",
+      "link": "https://www.f4wonline.com/news/wwe/sami-zayn-reacts-to-potential-roman-reigns-wwe-crown-jewel-match/",
+      "t": "21m",
+      "dt": "2026-09-15T20:55:58+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Dave Meltzer’s weekly look at WWE Netflix viewers & AEW Dynamite ratings for subscribers",
+      "p": "Dave Meltzer has posted his weekly insights and opinions on WWE Raw and SmackDown on Netflix viewership numbers in addition to AEW Dynamite ratings from last week. Click here to read (sub needed)",
+      "link": "https://www.f4wonline.com/news/wwe/dave-meltzers-weekly-look-at-wwe-netflix-viewers-aew-dynamite-ratings-for-subscribers/",
+      "t": "31m",
+      "dt": "2026-09-15T20:45:18+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW All Out 2026 Tickets Reportedly Sold Out More Than A Week Ahead Of The Show",
+      "p": "AEW's next pay-per-view is all out of tickets as AEW All Out 2026 has reportedly sold out with more than a week to go.",
+      "link": "https://www.wrestlinginc.com/2259568/aew-all-out-2026-tickets-sold-out-now-arena-chicago/",
+      "t": "37m",
+      "dt": "2026-09-15T20:39:49+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Swerve Strickland Believes ‘Stillness Is Power’ While Performing",
-      "p": "Swerve Strickland speaks on the power of being still while performing in rap, during his wrestling entrance or while wrestling. Strickland is no stranger to performing not only in the world of...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-believes-stillness-is-power-while-performing/",
-      "t": "50m",
-      "dt": "2026-09-15T17:18:32+00:00"
+      "h": "Nyla Rose Opens Up About Oklahoma Athletic Commission Situation, ‘Hateful Bigots’",
+      "p": "In January 2024, the Oklahoma Athletic Commission met over a transgender wrestler competing at an AEW event. The wrestler in question was Nyla Rose, who faced Alejandra Lion on the ROH on...",
+      "link": "https://www.fightful.com/wrestling-news/nyla-rose-opens-up-about-oklahoma-athletic-commission-situation-hateful-bigots/",
+      "t": "37m",
+      "dt": "2026-09-15T20:39:28+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Swerve Strickland Talks Asking Advice From Adam Copeland: ‘He Always Has The Best Interest On The Performer’",
-      "p": "Swerve Strickland discusses his inspirations in professional wrestling, while also speaking about asking advice from Adam Copeland. Strickland has been a staple of AEW programming and their men’s...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-talks-asking-advice-from-adam-copeland-he-always-has-the-best-interest-on-the-performer/",
+      "src": "Wrestling Observer",
+      "h": "Nyla Rose addresses her AEW absence",
+      "p": "Nyla Rose is still hoping that she’ll get the chance to compete for AEW fans again. A one-time Women’s World Champion during the early days of AEW, it’s been nearly two years now since Rose has...",
+      "link": "https://www.f4wonline.com/news/aew/nyla-rose-addresses-her-aew-absence/",
+      "t": "59m",
+      "dt": "2026-09-15T20:17:50+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "CM Punk reveals that Kenny Omega isn’t alone in wrestling while going through bouts of vertigo",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post CM Punk reveals that Kenny Omega isn’t alone in wrestling while going through bouts of vertigo appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/15/cm-punk-reveals-that-kenny-omega-isnt-alone-in-wrestling-while-going-through-bouts-of-vertigo/",
       "t": "1h",
-      "dt": "2026-09-15T16:56:24+00:00"
+      "dt": "2026-09-15T20:00:44+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW files for new trademark",
+      "p": "AEW’s latest trademark filing is, literally, “For the Sickos.” The promotion submitted an application on September 14 looking to trademark the term “For the Sickos,” which relates to a nickname...",
+      "link": "https://www.f4wonline.com/news/aew/aew-files-for-new-trademark/",
+      "t": "2h",
+      "dt": "2026-09-15T18:56:58+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Kevin Knight Remains Open To A JetSpeed Reunion In The Future",
+      "p": "AEW's Kevin Knight talks about his JetSpeed tag team with \"Speedball\" Mike Bailey, and admits he is open to the duo reuniting some time in the future",
+      "link": "https://www.wrestlinginc.com/2259422/aew-kevin-knight-speedball-mike-bailey-jetspeed-remains-open-reunion-future/",
+      "t": "2h",
+      "dt": "2026-09-15T18:53:18+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW All Out is sold out according to WrestleTix",
       "p": "AEW All Out is sold out, according to WrestleTix, with about a week and a half before the PPV goes head-to-head against Worlds Collide. The post AEW All Out is sold out according to WrestleTix...",
       "link": "https://www.postwrestling.com/2026/09/15/aew-all-out-is-sold-out-according-to-wrestletix/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-15T16:43:17+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "AEW's Andrade & Rush Offer Congratulations To WWE Luchadores Following Raw",
       "p": "Andrade and Rush praise Penta and Dragon Lee for their performances on Raw last night in Mexico.",
       "link": "https://www.wrestlinginc.com/2259189/aew-wwe-raw-andrade-rush-dragon-lee-penta-congratulations-luchadores/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-15T16:39:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ratings take big hit against NFL season opener",
-      "p": "Up against the season opener of the NFL season, last Wednesday’s AEW Dynamite averaged 571,000 viewers on TBS, down 28.3% from the previous week and their lowest audience in three months. The...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-vs-nfl-2026-opener/",
-      "t": "2h",
-      "dt": "2026-09-15T15:11:58+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating (9/10): How did the Rebel Heart show hold up against the NFL’s opening night game?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (9/10): How did the Rebel Heart show hold up against the NFL’s opening night game? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/15/aew-dynamite-rating-9-10-how-did-the-rebel-heart-show-hold-up-against-the-nfls-opening-night-game/",
-      "t": "3h",
-      "dt": "2026-09-15T14:55:37+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tommaso Ciampa Eyeing AEW Main Event, Wants To Wrestle Kenny Omega & Will Ospreay",
-      "p": "Tommaso Ciampa is excited to face several AEW stars, naming a few that he would like to get in the ring with, which includes former world champions.",
-      "link": "https://www.wrestlinginc.com/2258766/aew-tommaso-ciampa-will-ospreay-kenny-omega-main-event/",
-      "t": "3h",
-      "dt": "2026-09-15T14:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW All Out 2026 tickets sold out",
-      "p": "All Out 2026 is officially a sell out for AEW. Tickets were already basically sold out by the end of last week, and WrestleTix posted an update today noting that All Out has officially sold out...",
-      "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-tickets-sold-out/",
-      "t": "4h",
-      "dt": "2026-09-15T14:07:40+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jeff Jarrett Explains How RevPro Match Came Together At The Last Minute",
-      "p": "Jeff Jarrett has revealed how his appearance at RevPro came about, highlighting the role his fellow AEW star Will Ospreay played in it.",
-      "link": "https://www.wrestlinginc.com/2258735/aew-revpro-jeff-jarrett-match-came-together-last-minute/",
-      "t": "4h",
-      "dt": "2026-09-15T13:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Persephone Talks 'Chaotic' Schedule On Dual AEW-CMLL Contract",
-      "p": "Persephone, who holds titles in both AEW and CMLL, has discussed how having both championships can be challenging at times due to her demanding schedule.",
-      "link": "https://www.wrestlinginc.com/2258721/aew-cmll-persephone-chaotic-schedule-dual-contract/",
-      "t": "5h",
-      "dt": "2026-09-15T13:00:00+00:00"
     }
   ]
 }

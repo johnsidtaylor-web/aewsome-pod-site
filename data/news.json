@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-16T11:26:47.604509+00:00",
+  "updated": "2026-09-16T16:49:59.048353+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ticket sales update ahead of tonight’s show (09-16-2026)",
-      "p": "AEW Dynamite takes place tonight from the Chartway Arena in Norfolk, VA. According to the latest update from WrestleTix, 2,435 tickets have been distributed for the event thus far, which is...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-tonight-show-09-16-2026/",
-      "t": "56m",
-      "dt": "2026-09-16T10:30:32+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW's Kota Ibushi To Undergo Surgery, Says He Refuses To Let Injury End His Career",
+      "p": "AEW's Kota Ibushi reveals that he is set to undergo yet another surgery on his broken femur, though he refuses to say the injury will end his career",
+      "link": "https://www.wrestlinginc.com/2260372/aew-kota-ibushi-surgery-femur-refuses-injury-end-career/",
+      "t": "13m",
+      "dt": "2026-09-16T16:36:31+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "AEW All Out 2026 Global Start Times: US, UK, Australia and more",
-      "p": "AEW All Out 2026 will be taking place on Saturday, September 26 from the NOW Arena in Hoffman Estates, IL, with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. What time does AEW All Out...",
-      "link": "https://www.f4wonline.com/event-guides/aew-all-out-2026-global-start-times-us-uk-australia/",
+      "src": "Wrestling Inc",
+      "h": "AEW Announces Exclusive Japanese Streaming Platform For Programming",
+      "p": "AEW has a new broadcasting home in Japan as the company has landed a deal with Hulu Japan.",
+      "link": "https://www.wrestlinginc.com/2260370/aew-announces-exclusive-japanese-streaming-platform/",
+      "t": "14m",
+      "dt": "2026-09-16T16:35:36+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kenny Omega Believes AEW All In Match Against Will Ospreay Was 'Destined To Be'",
+      "p": "Kenny Omega claims that his instant classic with Will Ospreay at All In was always meant to happen on AEW's biggest stage.",
+      "link": "https://www.wrestlinginc.com/2260330/aew-all-in-2026-kenny-omega-will-ospreay-destined/",
+      "t": "28m",
+      "dt": "2026-09-16T16:21:36+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "WWE Worlds Collide lineup: Four matches added to the show running against AEW All Out",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post WWE Worlds Collide lineup: Four matches added to the show running against AEW All Out appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/16/wwe-worlds-collide-lineup-four-matches-added-to-the-show-running-against-aew-all-out/",
+      "t": "44m",
+      "dt": "2026-09-16T16:05:23+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "The Young Bucks Praise AEW All In 2026 Main Event",
+      "p": "The Young Bucks have reacted to the AEW All In 2026 main event between Kenny Omega and Will Ospreay and discussed what to expect from Omega next.",
+      "link": "https://www.wrestlinginc.com/2259901/young-bucks-praise-aew-all-in-2026-main-event/",
       "t": "1h",
-      "dt": "2026-09-16T10:15:21+00:00"
+      "dt": "2026-09-16T15:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (09-16-2026)",
-      "p": "AEW Dynamite takes place tonight from the Chartway Arena in Norfolk, VA, with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. Chris Jericho will be returning to action against Nick...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-09-16-2026/",
-      "t": "3h",
-      "dt": "2026-09-16T07:53:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (09-16-2026)",
-      "p": "AEW Dynamite takes place tonight from the Chartway Arena in Norfolk, VA, and several matches and segments have already been confirmed for the broadcast. Chris Jericho will be returning to action...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-09-16-2026/",
-      "t": "3h",
-      "dt": "2026-09-16T07:44:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Swerve Strickland reveals what he considers ‘probably the worst thing I’ve ever done’",
-      "p": "AEW star Swerve Strickland recently claimed that taking a bump on a real cinder block was the worst thing he has ever done. Recently speaking to Hot 97, Strickland opened up about smoking, taking...",
-      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-reveals-what-he-considers-probably-the-worst-thing-ive-ever-done/",
-      "t": "5h",
-      "dt": "2026-09-16T06:15:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "C.M. Punk says he still suffers from vertigo as a result of lingering effects from a fractured skull",
-      "p": "C.M. Punk says he has suffered from vertigo as a result of a fractured skull. Punk’s injury was discussed by current AEW commentator Bryan Danielson (Daniel Bryan in WWE), who was Punk’s opponent...",
-      "link": "https://www.pwtorch.com/site/2026/09/16/c-m-punk-says-he-still-suffers-from-vertigo-as-a-result-of-lingering-effects-from-a-fractured-skull/",
-      "t": "5h",
-      "dt": "2026-09-16T05:29:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Nyla Rose reveals wild AEW ideas that were rejected during Jade Cargill feud",
-      "p": "According to Nyla Rose, several wild AEW ideas were rejected during her Jade Cargill feud. Recently, speaking to Denise Salcedo, Rose was asked about her time in AEW and some of her favorite...",
-      "link": "https://www.f4wonline.com/news/aew/nyla-rose-reveals-wild-aew-ideas-that-were-rejected-during-jade-cargill-feud/",
-      "t": "6h",
-      "dt": "2026-09-16T05:15:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "xAEW announces that Dynamite, Collision, and PPVs will air in Japan on Hulu Japan",
-      "p": "AEW announced today that content in Japan will now stream exclusively on Hulu Japan. AEW Dynamite, Collision, and live PPVs will all stream exclusively in Japan on Hulu Japan starting in November...",
-      "link": "https://www.pwtorch.com/site/2026/09/15/xaew-announces-that-dynamite-collision-and-ppvs-will-air-in-japan-on-hulu-japan/",
-      "t": "6h",
-      "dt": "2026-09-16T04:47:55+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW programming to stream on Hulu Japan",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW programming to stream on Hulu Japan appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/15/aew-programming-to-stream-on-hulu-japan/",
-      "t": "7h",
-      "dt": "2026-09-16T03:47:06+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "09/15 Wade Keller Pro Wrestling Podcast: Powell and Keller on Roman Reigns vs. Penta in Mexico City, AEW Rebel Heart and The Butcher tribute, Jon Moxley, Chad Gable",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 09/15 Wade Keller Pro Wrestling Podcast: Powell and Keller on Roman Reigns vs. Penta in Mexico City, AEW Rebel Heart and The Butcher tribute,...",
-      "link": "https://prowrestling.net/site/2026/09/15/09-15-wade-keller-pro-wrestling-podcast-powell-and-keller-on-roman-reigns-vs-penta-in-mexico-city-aew-rebel-heart-and-the-butcher-tribute-jon-moxley-chad-gable/",
-      "t": "7h",
-      "dt": "2026-09-16T03:45:21+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 9/15 – Everything with Rich & Wade: Sami’s WWE Title win, what constitutes a historically significant WWE title reign, how to market Ospreay, more (109 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Roman Reigns vs. Penta in Mexico City Sami Zayn winning the WWE Title...",
-      "link": "https://www.pwtorch.com/site/2026/09/15/vip-podcast-9-15-everything-with-rich-wade-samis-wwe-title-win-what-constitutes-a-historically-significant-wwe-title-reign-how-to-market-ospreay-more-109-min/",
-      "t": "7h",
-      "dt": "2026-09-16T03:39:40+00:00"
+      "h": "Kota Ibushi undergoing another surgery, will ‘absolutely return’ to AEW",
+      "p": "Kota Ibushi has to undergo another surgery, but he is still determined to return to AEW once recovered. The 44-year-old Ibushi suffered a broken femur in October 2025 while facing Josh Alexander...",
+      "link": "https://www.f4wonline.com/news/aew/kota-ibushi-undergoing-another-surgery-will-absolutely-return-to-aew/",
+      "t": "2h",
+      "dt": "2026-09-16T14:38:16+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW To Air On Hulu Japan",
-      "p": "Hulu Japan is All Elite, will begin airing AEW content. All Elite Wrestling announced that Dynamite, Collision, and pay-per-views will begin airing on Hulu Japan moving forward. Content will begin...",
-      "link": "https://www.fightful.com/wrestling-news/aew-to-air-on-hulu-japan/",
-      "t": "10h",
-      "dt": "2026-09-16T01:24:44+00:00"
+      "h": "Dark Silueta Says She Will ‘Go All Out’ Against Thunder Rosa In Her Upcoming CMLL Title Challenge",
+      "p": "Dark Silueta previews her upcoming Mexican National Women’s Championship challenge on tonight’s Tarde Mexicana show. Later tonight in CMLL, Dark Silueta is set to challenge Thunder Rosa for the...",
+      "link": "https://www.fightful.com/wrestling-news/dark-silueta-says-she-will-go-all-out-against-thunder-rosa-in-her-upcoming-cmll-title-challenge/",
+      "t": "2h",
+      "dt": "2026-09-16T14:31:42+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Schiavone Says There’s ‘Some Intrigue’ In Chris Jericho Potentially Mentoring Nick Wayne",
+      "p": "Tony Schiavone believes that there is ‘some intrigue’ in Chris Jericho potentially mentoring Nick Wayne in AEW. On tonight’s edition of AEW Dynamite, Chris Jericho and Nick Wayne will meet in a...",
+      "link": "https://www.fightful.com/wrestling-news/tony-schiavone-says-theres-some-intrigue-in-chris-jericho-potentially-mentoring-nick-wayne/",
+      "t": "2h",
+      "dt": "2026-09-16T14:06:09+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The card for tonight’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/16/aew-dynamite-preview-the-card-for-tonights-show-13/",
+      "t": "2h",
+      "dt": "2026-09-16T14:00:19+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "PRODUCE Volume 4 Night Life Results (9/13)",
+      "p": "PRODUCE Wrestling held its PRODUCE Volume 4 Night Life event on September 13 from White Eagle Hall in Jersey City, New Jersey. The event aired on MyAEW. Full results are below. PRODUCE Volume 4...",
+      "link": "https://www.fightful.com/wrestling-news/produce-volume-4-night-life-results-9-13/",
+      "t": "2h",
+      "dt": "2026-09-16T14:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Swerve Strickland Says He's Learned Most From These Current & Former WWE Stars",
+      "p": "Swerve Strickland has named the Hall of Famers who have inspired him, two of whom are in WWE and one of whom is a fellow star in his current promotion, AEW.",
+      "link": "https://www.wrestlinginc.com/2259843/aew-swerve-strickland-wwe-stars-rey-mysterio-shawn-michaels-adam-copeland/",
+      "t": "2h",
+      "dt": "2026-09-16T14:00:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Eight-man tag, Jamie Hayter vs. Lena Kross added to AEW Dynamite",
+      "p": "Just added to the show is an eight-man tag as Adam Copeland & Christian Cage team with Darby Allin & Steven Borden to face Kyle Fletcher, Kevin Knight & FTR The post Eight-man tag, Jamie Hayter...",
+      "link": "https://www.postwrestling.com/2026/09/16/eight-man-tag-jamie-hayter-vs-lena-kross-added-to-aew-dynamite/",
+      "t": "3h",
+      "dt": "2026-09-16T13:43:35+00:00"
     }
   ]
 }

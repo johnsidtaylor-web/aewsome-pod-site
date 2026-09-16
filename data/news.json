@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-16T20:05:24.995201+00:00",
+  "updated": "2026-09-16T22:54:22.302590+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -16,7 +16,7 @@
       "h": "AEW All Out lineup: The card for next weekend’s pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The card for next weekend’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/16/aew-all-out-lineup-the-card-for-next-weekends-pay-per-view-event/",
-      "t": "25m",
+      "t": "3h",
       "dt": "2026-09-16T19:40:15+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "AEW's Tony Schiavone Pays Tribute To Superstar Bill Dundee",
       "p": "AEW's Tony Schiavone pays tribute to a former WCW co-worker and a superstar of pro wrestling's territory days, Bill Dundee, who passed away on September 6",
       "link": "https://www.wrestlinginc.com/2260594/aew-tony-schiavone-pays-tribute-superstar-bill-dundee/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-09-16T18:54:36+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "09/16 Pro Wrestling Boom Podcast With Jason Powell (Episode 425): Sean Plichta on Sami Zayn regaining the WWE Championship, Roman Reigns vs. Penta, AEW All Out vs. WWE World Collide",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 09/16 Pro Wrestling Boom Podcast With Jason Powell (Episode 425): Sean Plichta on Sami Zayn regaining the WWE Championship, Roman Reigns vs....",
       "link": "https://prowrestling.net/site/2026/09/16/09-16-pro-wrestling-boom-podcast-with-jason-powell-episode-425-sean-plichta-on-sami-zayn-regaining-the-wwe-championship-roman-reigns-vs-penta-aew-all-out-vs-wwe-world-collide/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-16T18:40:35+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "AEW Releases ‘Aw Dude’ Shirt On AEW Shop",
       "p": "AEW have took advantage in the rise of a recent meme, selling an ‘aw dude’ shirt on AEW Shop for fans of Adam Copeland. In recent weeks, the prevalence of fans using clips and photos to quote a...",
       "link": "https://www.fightful.com/wrestling-news/aew-releases-aw-dude-shirt-on-aew-shop/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-16T17:40:55+00:00"
     },
     {
@@ -48,23 +48,15 @@
       "h": "AEW DYNAMITE PREVIEW (9/16): Announced matches, location, ticket sales, how to watch",
       "p": "When: WEDNESDAY, SEPTEMBER 16, 2026 Where: NORFOLK, VA. AT CHARTWAY ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,513 tickets had been...",
       "link": "https://www.pwtorch.com/site/2026/09/16/aew-dynamite-preview-9-16-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-16T17:32:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Swerve Strickland On His Recovery Process: I Try To Find Some Remedy That Doesn’t Require Medication Or Abusing It",
-      "p": "Swerve Strickland discusses his recovery process, noting that he tries to avoid using or abusing medication. The recovery process of wrestlers has long been a topic of discussion amongst fans and...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-on-his-recovery-process-i-try-to-find-some-remedy-that-doesnt-require-medication-or-abusing-it/",
-      "t": "3h",
-      "dt": "2026-09-16T17:00:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "20 YEARS AGO – ROH LIVE EVENT RESULTS (9/17/2006): Bryan Danielson vs. Kenta for ROH Title, plus Nigel McGuinness, Adam Pearce, Cabana, Jack Evans, Cornette, Briscoes, Austin Aries, Samoa Joe",
       "p": "PWTorch features unmatched archives of live wrestling reports (not just results, but match details, context, and analysis). The following is a report originally published here 20 years ago this...",
       "link": "https://www.pwtorch.com/site/2026/09/16/20-years-ago-roh-live-event-results-9-17-2006-bryan-danielson-vs-kenta-for-roh-title-plus-nigel-mcguinness-adam-pearce-cabana-jack-evans-cornette-briscoes-austin-aries-samoa-joe/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-16T16:53:15+00:00"
     },
     {
@@ -72,7 +64,7 @@
       "h": "AEW's Kota Ibushi To Undergo Surgery, Says He Refuses To Let Injury End His Career",
       "p": "AEW's Kota Ibushi reveals that he is set to undergo yet another surgery on his broken femur, though he refuses to say the injury will end his career",
       "link": "https://www.wrestlinginc.com/2260372/aew-kota-ibushi-surgery-femur-refuses-injury-end-career/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-16T16:36:31+00:00"
     },
     {
@@ -80,7 +72,7 @@
       "h": "AEW Announces Exclusive Japanese Streaming Platform For Programming",
       "p": "AEW has a new broadcasting home in Japan as the company has landed a deal with Hulu Japan.",
       "link": "https://www.wrestlinginc.com/2260370/aew-announces-exclusive-japanese-streaming-platform/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-16T16:35:36+00:00"
     },
     {
@@ -88,7 +80,7 @@
       "h": "Kenny Omega Believes AEW All In Match Against Will Ospreay Was 'Destined To Be'",
       "p": "Kenny Omega claims that his instant classic with Will Ospreay at All In was always meant to happen on AEW's biggest stage.",
       "link": "https://www.wrestlinginc.com/2260330/aew-all-in-2026-kenny-omega-will-ospreay-destined/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-16T16:21:36+00:00"
     },
     {
@@ -96,7 +88,7 @@
       "h": "WWE Worlds Collide lineup: Four matches added to the show running against AEW All Out",
       "p": "By Jason Powell, ProWrestling.net Editor... The post WWE Worlds Collide lineup: Four matches added to the show running against AEW All Out appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/16/wwe-worlds-collide-lineup-four-matches-added-to-the-show-running-against-aew-all-out/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-09-16T16:05:23+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "The Young Bucks Praise AEW All In 2026 Main Event",
       "p": "The Young Bucks have reacted to the AEW All In 2026 main event between Kenny Omega and Will Ospreay and discussed what to expect from Omega next.",
       "link": "https://www.wrestlinginc.com/2259901/young-bucks-praise-aew-all-in-2026-main-event/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-09-16T15:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Kota Ibushi undergoing another surgery, will ‘absolutely return’ to AEW",
+      "p": "Kota Ibushi has to undergo another surgery, but he is still determined to return to AEW once recovered. The 44-year-old Ibushi suffered a broken femur in October 2025 while facing Josh Alexander...",
+      "link": "https://www.f4wonline.com/news/aew/kota-ibushi-undergoing-another-surgery-will-absolutely-return-to-aew/",
+      "t": "8h",
+      "dt": "2026-09-16T14:38:16+00:00"
     }
   ]
 }

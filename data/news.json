@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-16T16:49:59.048353+00:00",
+  "updated": "2026-09-16T20:05:24.995201+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
@@ -12,11 +12,67 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW All Out lineup: The card for next weekend’s pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The card for next weekend’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/16/aew-all-out-lineup-the-card-for-next-weekends-pay-per-view-event/",
+      "t": "25m",
+      "dt": "2026-09-16T19:40:15+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Schiavone Pays Tribute To Superstar Bill Dundee",
+      "p": "AEW's Tony Schiavone pays tribute to a former WCW co-worker and a superstar of pro wrestling's territory days, Bill Dundee, who passed away on September 6",
+      "link": "https://www.wrestlinginc.com/2260594/aew-tony-schiavone-pays-tribute-superstar-bill-dundee/",
+      "t": "1h",
+      "dt": "2026-09-16T18:54:36+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "09/16 Pro Wrestling Boom Podcast With Jason Powell (Episode 425): Sean Plichta on Sami Zayn regaining the WWE Championship, Roman Reigns vs. Penta, AEW All Out vs. WWE World Collide",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 09/16 Pro Wrestling Boom Podcast With Jason Powell (Episode 425): Sean Plichta on Sami Zayn regaining the WWE Championship, Roman Reigns vs....",
+      "link": "https://prowrestling.net/site/2026/09/16/09-16-pro-wrestling-boom-podcast-with-jason-powell-episode-425-sean-plichta-on-sami-zayn-regaining-the-wwe-championship-roman-reigns-vs-penta-aew-all-out-vs-wwe-world-collide/",
+      "t": "1h",
+      "dt": "2026-09-16T18:40:35+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Releases ‘Aw Dude’ Shirt On AEW Shop",
+      "p": "AEW have took advantage in the rise of a recent meme, selling an ‘aw dude’ shirt on AEW Shop for fans of Adam Copeland. In recent weeks, the prevalence of fans using clips and photos to quote a...",
+      "link": "https://www.fightful.com/wrestling-news/aew-releases-aw-dude-shirt-on-aew-shop/",
+      "t": "2h",
+      "dt": "2026-09-16T17:40:55+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (9/16): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, SEPTEMBER 16, 2026 Where: NORFOLK, VA. AT CHARTWAY ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,513 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/09/16/aew-dynamite-preview-9-16-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "2h",
+      "dt": "2026-09-16T17:32:42+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland On His Recovery Process: I Try To Find Some Remedy That Doesn’t Require Medication Or Abusing It",
+      "p": "Swerve Strickland discusses his recovery process, noting that he tries to avoid using or abusing medication. The recovery process of wrestlers has long been a topic of discussion amongst fans and...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-on-his-recovery-process-i-try-to-find-some-remedy-that-doesnt-require-medication-or-abusing-it/",
+      "t": "3h",
+      "dt": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "20 YEARS AGO – ROH LIVE EVENT RESULTS (9/17/2006): Bryan Danielson vs. Kenta for ROH Title, plus Nigel McGuinness, Adam Pearce, Cabana, Jack Evans, Cornette, Briscoes, Austin Aries, Samoa Joe",
+      "p": "PWTorch features unmatched archives of live wrestling reports (not just results, but match details, context, and analysis). The following is a report originally published here 20 years ago this...",
+      "link": "https://www.pwtorch.com/site/2026/09/16/20-years-ago-roh-live-event-results-9-17-2006-bryan-danielson-vs-kenta-for-roh-title-plus-nigel-mcguinness-adam-pearce-cabana-jack-evans-cornette-briscoes-austin-aries-samoa-joe/",
+      "t": "3h",
+      "dt": "2026-09-16T16:53:15+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW's Kota Ibushi To Undergo Surgery, Says He Refuses To Let Injury End His Career",
       "p": "AEW's Kota Ibushi reveals that he is set to undergo yet another surgery on his broken femur, though he refuses to say the injury will end his career",
       "link": "https://www.wrestlinginc.com/2260372/aew-kota-ibushi-surgery-femur-refuses-injury-end-career/",
-      "t": "13m",
+      "t": "3h",
       "dt": "2026-09-16T16:36:31+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "AEW Announces Exclusive Japanese Streaming Platform For Programming",
       "p": "AEW has a new broadcasting home in Japan as the company has landed a deal with Hulu Japan.",
       "link": "https://www.wrestlinginc.com/2260370/aew-announces-exclusive-japanese-streaming-platform/",
-      "t": "14m",
+      "t": "3h",
       "dt": "2026-09-16T16:35:36+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "Kenny Omega Believes AEW All In Match Against Will Ospreay Was 'Destined To Be'",
       "p": "Kenny Omega claims that his instant classic with Will Ospreay at All In was always meant to happen on AEW's biggest stage.",
       "link": "https://www.wrestlinginc.com/2260330/aew-all-in-2026-kenny-omega-will-ospreay-destined/",
-      "t": "28m",
+      "t": "3h",
       "dt": "2026-09-16T16:21:36+00:00"
     },
     {
@@ -40,7 +96,7 @@
       "h": "WWE Worlds Collide lineup: Four matches added to the show running against AEW All Out",
       "p": "By Jason Powell, ProWrestling.net Editor... The post WWE Worlds Collide lineup: Four matches added to the show running against AEW All Out appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/16/wwe-worlds-collide-lineup-four-matches-added-to-the-show-running-against-aew-all-out/",
-      "t": "44m",
+      "t": "4h",
       "dt": "2026-09-16T16:05:23+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "The Young Bucks Praise AEW All In 2026 Main Event",
       "p": "The Young Bucks have reacted to the AEW All In 2026 main event between Kenny Omega and Will Ospreay and discussed what to expect from Omega next.",
       "link": "https://www.wrestlinginc.com/2259901/young-bucks-praise-aew-all-in-2026-main-event/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-09-16T15:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kota Ibushi undergoing another surgery, will ‘absolutely return’ to AEW",
-      "p": "Kota Ibushi has to undergo another surgery, but he is still determined to return to AEW once recovered. The 44-year-old Ibushi suffered a broken femur in October 2025 while facing Josh Alexander...",
-      "link": "https://www.f4wonline.com/news/aew/kota-ibushi-undergoing-another-surgery-will-absolutely-return-to-aew/",
-      "t": "2h",
-      "dt": "2026-09-16T14:38:16+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Dark Silueta Says She Will ‘Go All Out’ Against Thunder Rosa In Her Upcoming CMLL Title Challenge",
-      "p": "Dark Silueta previews her upcoming Mexican National Women’s Championship challenge on tonight’s Tarde Mexicana show. Later tonight in CMLL, Dark Silueta is set to challenge Thunder Rosa for the...",
-      "link": "https://www.fightful.com/wrestling-news/dark-silueta-says-she-will-go-all-out-against-thunder-rosa-in-her-upcoming-cmll-title-challenge/",
-      "t": "2h",
-      "dt": "2026-09-16T14:31:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Schiavone Says There’s ‘Some Intrigue’ In Chris Jericho Potentially Mentoring Nick Wayne",
-      "p": "Tony Schiavone believes that there is ‘some intrigue’ in Chris Jericho potentially mentoring Nick Wayne in AEW. On tonight’s edition of AEW Dynamite, Chris Jericho and Nick Wayne will meet in a...",
-      "link": "https://www.fightful.com/wrestling-news/tony-schiavone-says-theres-some-intrigue-in-chris-jericho-potentially-mentoring-nick-wayne/",
-      "t": "2h",
-      "dt": "2026-09-16T14:06:09+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The card for tonight’s show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/16/aew-dynamite-preview-the-card-for-tonights-show-13/",
-      "t": "2h",
-      "dt": "2026-09-16T14:00:19+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "PRODUCE Volume 4 Night Life Results (9/13)",
-      "p": "PRODUCE Wrestling held its PRODUCE Volume 4 Night Life event on September 13 from White Eagle Hall in Jersey City, New Jersey. The event aired on MyAEW. Full results are below. PRODUCE Volume 4...",
-      "link": "https://www.fightful.com/wrestling-news/produce-volume-4-night-life-results-9-13/",
-      "t": "2h",
-      "dt": "2026-09-16T14:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Swerve Strickland Says He's Learned Most From These Current & Former WWE Stars",
-      "p": "Swerve Strickland has named the Hall of Famers who have inspired him, two of whom are in WWE and one of whom is a fellow star in his current promotion, AEW.",
-      "link": "https://www.wrestlinginc.com/2259843/aew-swerve-strickland-wwe-stars-rey-mysterio-shawn-michaels-adam-copeland/",
-      "t": "2h",
-      "dt": "2026-09-16T14:00:00+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Eight-man tag, Jamie Hayter vs. Lena Kross added to AEW Dynamite",
-      "p": "Just added to the show is an eight-man tag as Adam Copeland & Christian Cage team with Darby Allin & Steven Borden to face Kyle Fletcher, Kevin Knight & FTR The post Eight-man tag, Jamie Hayter...",
-      "link": "https://www.postwrestling.com/2026/09/16/eight-man-tag-jamie-hayter-vs-lena-kross-added-to-aew-dynamite/",
-      "t": "3h",
-      "dt": "2026-09-16T13:43:35+00:00"
     }
   ]
 }

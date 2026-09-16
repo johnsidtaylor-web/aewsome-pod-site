@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-16T00:15:58.501438+00:00",
+  "updated": "2026-09-16T05:58:34.000458+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Inc",
-      "h": "Mandy Rose Reveals Whether She'd Consider WWE Return Or Signing With AEW",
-      "p": "Former NXT Women's Champion Mandy Rose spoke about a possible return to WWE, or even an AEW debut, on an episode of TMZ's \"Inside the Ring.\"",
-      "link": "https://www.wrestlinginc.com/2259736/wwe-aew-mandy-rose-consider-return-signing/",
-      "t": "37m",
-      "dt": "2026-09-15T23:38:26+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Jamie Hayter vs. Lena Kross Added To 9/16 AEW Dynamite",
-      "p": "A women’s bout has been added to the September 16 episode of AEW Dynamite. Tony Khan announced that one-half of the Women’s Tag Team Champions Jamie Hayter will take on Lena Kross in singles...",
-      "link": "https://www.fightful.com/wrestling-news/jamie-hayter-vs-lena-kross-added-to-9-16-aew-dynamite/",
-      "t": "41m",
-      "dt": "2026-09-15T23:34:13+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Dani Luna Expected To Be Headed To AEW",
-      "p": "Details on Dani Luna and AEW. Fightful Select reports, “Dani Luna is expected to be headed to AEW if she isn’t signed already.” Full details are available for subscribers. Luna was granted her...",
-      "link": "https://www.fightful.com/wrestling-news/dani-luna-expected-to-be-headed-to-aew/",
-      "t": "48m",
-      "dt": "2026-09-15T23:27:04+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE's William Regal Calls AEW Star 'Best Wrestler To Come Out Of England' Since 1980s",
-      "p": "William Regal believes that the greatest English wrestler since the 1980s is currently working for AEW.",
-      "link": "https://www.wrestlinginc.com/2259710/wwe-william-regal-aew-pac-best-wrestler-england-1980s/",
-      "t": "1h",
-      "dt": "2026-09-15T22:45:24+00:00"
+      "src": "PWTorch",
+      "h": "C.M. Punk says he still suffers from vertigo as a result of lingering effects from a fractured skull",
+      "p": "C.M. Punk says he has suffered from vertigo as a result of a fractured skull. Punk’s injury was discussed by current AEW commentator Bryan Danielson (Daniel Bryan in WWE), who was Punk’s opponent...",
+      "link": "https://www.pwtorch.com/site/2026/09/16/c-m-punk-says-he-still-suffers-from-vertigo-as-a-result-of-lingering-effects-from-a-fractured-skull/",
+      "t": "28m",
+      "dt": "2026-09-16T05:29:50+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Nyla Rose blasts ‘hateful bigots’ over Oklahoma Athletic Commission warning to AEW",
-      "p": "Nyla Rose spoke about her issues with the Oklahoma State Athletic Commission and Tony Khan’s support for her during a recent interview. Following Rose wrestling at AEW/ROH’s Oklahoma City taping...",
-      "link": "https://www.f4wonline.com/news/aew/nyla-rose-blasts-hateful-bigots-over-oklahoma-athletic-commission-warning-to-aew/",
-      "t": "1h",
-      "dt": "2026-09-15T22:34:25+00:00"
+      "h": "Nyla Rose reveals wild AEW ideas that were rejected during Jade Cargill feud",
+      "p": "According to Nyla Rose, several wild AEW ideas were rejected during her Jade Cargill feud. Recently, speaking to Denise Salcedo, Rose was asked about her time in AEW and some of her favorite...",
+      "link": "https://www.f4wonline.com/news/aew/nyla-rose-reveals-wild-aew-ideas-that-were-rejected-during-jade-cargill-feud/",
+      "t": "43m",
+      "dt": "2026-09-16T05:15:00+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: One veteran’s connection with the crowd isn’t being featured, a rising young star has earned his chance to move up the card",
-      "p": "Welcome everyone! Are you an early adopter of AEW? If you were, then I am sure last week was rough one for you as well. It’s nice to know we have a wrestling company like [...]",
-      "link": "https://www.pwtorch.com/site/2026/09/15/aew-rising-and-fading-stars-one-veterans-connection-with-the-crowd-isnt-being-featured-a-rising-young-star-has-earned-his-chance-to-move-up-the-card/",
-      "t": "2h",
-      "dt": "2026-09-15T22:04:40+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Swerve Strickland Confirms He Wrestled With Knee Injury For Years",
-      "p": "AEW's Swerve Strickland confirms that he spent many years wrestling with a torn meniscus in his knee, including during his reign as AEW World Champion",
-      "link": "https://www.wrestlinginc.com/2259675/aew-swerve-strickland-wrestled-torn-meniscus-years/",
-      "t": "2h",
-      "dt": "2026-09-15T21:53:34+00:00"
+      "h": "xAEW announces that Dynamite, Collision, and PPVs will air in Japan on Hulu Japan",
+      "p": "AEW announced today that content in Japan will now stream exclusively on Hulu Japan. AEW Dynamite, Collision, and live PPVs will all stream exclusively in Japan on Hulu Japan starting in November...",
+      "link": "https://www.pwtorch.com/site/2026/09/15/xaew-announces-that-dynamite-collision-and-ppvs-will-air-in-japan-on-hulu-japan/",
+      "t": "1h",
+      "dt": "2026-09-16T04:47:55+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Mike Bailey calls AEW tribute to ‘The Butcher’ Andy Williams a ‘moment of togetherness’",
-      "p": "Mike Bailey spoke about AEW’s tribute to Andy “The Butcher” Williams on the latest episode of his vlog. Bailey wrestled in the opening match of Saturday’s show in Springfield, Massachusetts,...",
-      "link": "https://www.f4wonline.com/news/aew/mike-bailey-calls-aew-tribute-to-the-butcher-andy-williams-a-moment-of-togetherness/",
+      "h": "MVP relates to Zilla Fatu’s past, predicts he will be a WWE star for years to come",
+      "p": "Current AEW star MVP recently addressed Zilla Fatu’s past and shared a major prediction about his WWE future. Both MVP and Fatu share a dodgy past. However, both men have overcome it and made a...",
+      "link": "https://www.f4wonline.com/news/wwe/mvp-relates-to-zilla-fatus-past-predicts-he-will-be-a-wwe-star-for-years-to-come/",
+      "t": "1h",
+      "dt": "2026-09-16T04:15:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW programming to stream on Hulu Japan",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW programming to stream on Hulu Japan appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/15/aew-programming-to-stream-on-hulu-japan/",
+      "t": "2h",
+      "dt": "2026-09-16T03:47:06+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "09/15 Wade Keller Pro Wrestling Podcast: Powell and Keller on Roman Reigns vs. Penta in Mexico City, AEW Rebel Heart and The Butcher tribute, Jon Moxley, Chad Gable",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 09/15 Wade Keller Pro Wrestling Podcast: Powell and Keller on Roman Reigns vs. Penta in Mexico City, AEW Rebel Heart and The Butcher tribute,...",
+      "link": "https://prowrestling.net/site/2026/09/15/09-15-wade-keller-pro-wrestling-podcast-powell-and-keller-on-roman-reigns-vs-penta-in-mexico-city-aew-rebel-heart-and-the-butcher-tribute-jon-moxley-chad-gable/",
+      "t": "2h",
+      "dt": "2026-09-16T03:45:21+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 9/15 – Everything with Rich & Wade: Sami’s WWE Title win, what constitutes a historically significant WWE title reign, how to market Ospreay, more (109 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Roman Reigns vs. Penta in Mexico City Sami Zayn winning the WWE Title...",
+      "link": "https://www.pwtorch.com/site/2026/09/15/vip-podcast-9-15-everything-with-rich-wade-samis-wwe-title-win-what-constitutes-a-historically-significant-wwe-title-reign-how-to-market-ospreay-more-109-min/",
+      "t": "2h",
+      "dt": "2026-09-16T03:39:40+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Swerve Strickland recalls wild Lucha Underground incident involving Santos Escobar, Ricochet",
+      "p": "AEW’s Swerve Strickland recently recalled a wild Lucha Underground incident that involved Santos Escobar and Ricochet. Recently speaking on Hot 97, Strickland shared an injury incident where...",
+      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-recalls-wild-lucha-underground-incident-involving-santos-escobar-ricochet/",
       "t": "3h",
-      "dt": "2026-09-15T21:08:58+00:00"
+      "dt": "2026-09-16T02:10:33+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW announces new Japanese broadcast partner",
+      "p": "After departing NJPW World this year, AEW has a new broadcast partner in Japan: Hulu. The promotion announced the news on Tuesday that starting in November, Hulu Japan will exclusively air...",
+      "link": "https://www.f4wonline.com/news/aew/aew-hulu-new-japanese-broadcast-partner/",
+      "t": "3h",
+      "dt": "2026-09-16T02:06:31+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Nyla Rose Admits It’s ‘A Little Hard’ And ‘A Little Frustrating’ To Be Absent From AEW TV",
-      "p": "Fans haven’t seen Nyla Rose on AEW TV since November 2024 when she competed on AEW Rampage. She has remained active around the world, competing for EVE, Marvelous, MPX, and more. Speaking to...",
-      "link": "https://www.fightful.com/wrestling-news/nyla-rose-admits-its-a-little-hard-and-a-little-frustrating-to-be-absent-from-aew-tv/",
-      "t": "3h",
-      "dt": "2026-09-15T20:56:02+00:00"
+      "h": "AEW To Air On Hulu Japan",
+      "p": "Hulu Japan is All Elite, will begin airing AEW content. All Elite Wrestling announced that Dynamite, Collision, and pay-per-views will begin airing on Hulu Japan moving forward. Content will begin...",
+      "link": "https://www.fightful.com/wrestling-news/aew-to-air-on-hulu-japan/",
+      "t": "4h",
+      "dt": "2026-09-16T01:24:44+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Sami Zayn reacts to potential Roman Reigns WWE Crown Jewel match",
-      "p": "Sami Zayn is excited about the possibility of renewing his rivalry with Roman Reigns. As things stand, Undisputed WWE Champion Zayn and World Heavyweight Champion Reigns are on a collision course...",
-      "link": "https://www.f4wonline.com/news/wwe/sami-zayn-reacts-to-potential-roman-reigns-wwe-crown-jewel-match/",
-      "t": "3h",
-      "dt": "2026-09-15T20:55:58+00:00"
+      "h": "AEW reportedly has interest in another free agent",
+      "p": "AEW has interest in another free agent. Fightful Select reported on Tuesday that the company has interest in Dani Luna, who left TNA earlier this year. It was implied to Fightful that if she...",
+      "link": "https://www.f4wonline.com/news/aew/report-aew-has-interest-in-another-free-agent/",
+      "t": "4h",
+      "dt": "2026-09-16T01:23:43+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Dave Meltzer’s weekly look at WWE Netflix viewers & AEW Dynamite ratings for subscribers",
-      "p": "Dave Meltzer has posted his weekly insights and opinions on WWE Raw and SmackDown on Netflix viewership numbers in addition to AEW Dynamite ratings from last week. Click here to read (sub needed)",
-      "link": "https://www.f4wonline.com/news/wwe/dave-meltzers-weekly-look-at-wwe-netflix-viewers-aew-dynamite-ratings-for-subscribers/",
-      "t": "3h",
-      "dt": "2026-09-15T20:45:18+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW All Out 2026 Tickets Reportedly Sold Out More Than A Week Ahead Of The Show",
-      "p": "AEW's next pay-per-view is all out of tickets as AEW All Out 2026 has reportedly sold out with more than a week to go.",
-      "link": "https://www.wrestlinginc.com/2259568/aew-all-out-2026-tickets-sold-out-now-arena-chicago/",
-      "t": "3h",
-      "dt": "2026-09-15T20:39:49+00:00"
+      "h": "Two new matches added to AEW Dynamite",
+      "p": "Two new matches are set for Wednesday’s Dynamite. It was announced on social media by Tony Khan that Jamie Hayter will meet Lena Kross in Norfolk, Virginia. It will come just weeks before Divine...",
+      "link": "https://www.f4wonline.com/news/aew/jamie-hayter-vs-lena-cross-announced-for-aew-dynamite/",
+      "t": "5h",
+      "dt": "2026-09-16T00:43:23+00:00"
     }
   ]
 }

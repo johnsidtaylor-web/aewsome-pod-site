@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T13:24:15.623764+00:00",
+  "updated": "2026-09-17T18:10:48.697888+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -12,11 +12,91 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "TNA's Matt Hardy Comments On The Death Of AEW Star Andy 'The Butcher' Williams",
+      "p": "TNA's Matt Hardy comments on the death of AEW star \"The Butcher\" Andy Williams, who Hardy was stablemates and later rivals with during his AEW tenure",
+      "link": "https://www.wrestlinginc.com/2261616/tna-matt-hardy-aew-andy-butcher-williams-death/",
+      "t": "0m",
+      "dt": "2026-09-17T18:09:55+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE HITS & MISSES (9/16): Christiann Cage is the gift that keeps on giving, Nick Wayne’s necklace, United Empire vs. Death Riders, Kidd and Pac tension with Mox",
+      "p": "HITS OPENING 8-MAN TAG MATCH This was a very entertaining way to start the show. I loved the mix of personalities and styles of the participants. The dynamic between Darby Allin and Christian...",
+      "link": "https://www.pwtorch.com/site/2026/09/17/aew-dynamite-hits-misses-9-16-christiann-cage-is-the-gift-that-keeps-on-giving-nick-waynes-necklace-united-empire-vs-death-riders-kidd-and-pac-tension-with-mox/",
+      "t": "51m",
+      "dt": "2026-09-17T17:19:14+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Announcer Comments On Whether He'd Want WWE's Bayley To Join The Company",
+      "p": "Bayley's contract status has been a topic of conversation for months and many have speculated on if she would join AEW if she didn't re-sign with WWE.",
+      "link": "https://www.wrestlinginc.com/2261515/aew-jim-ross-wwe-bayley-join-company/",
+      "t": "56m",
+      "dt": "2026-09-17T17:13:52+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Deonna Purrazzo: Lee Moriarty Is The Greatest Technical Wrestler In The World Right Now",
+      "p": "Deonna Purrazzo has high praise for Lee Moriarty. As things currently stand, both Moriarty and Purrazzo are firmly positioned at the top of their respective Pure divisions in Ring Of Honor....",
+      "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-lee-moriarty-is-the-greatest-technical-wrestler-in-the-world-right-now/",
+      "t": "1h",
+      "dt": "2026-09-17T17:00:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating (9/12): How did the show hold up against college football competition?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (9/12): How did the show hold up against college football competition? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/17/aew-collision-rating-9-12-how-did-the-show-hold-up-against-college-football-competition/",
+      "t": "1h",
+      "dt": "2026-09-17T16:17:05+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jim Ross praises Tony Khan after ‘absolute genius’ week for AEW",
+      "p": "Jim Ross had very kind words for his boss Tony Khan after what was an emotional stretch for AEW. On back-to-back television shows last week, AEW celebrated Rebel (Tanea Brooks) amid her battle...",
+      "link": "https://www.f4wonline.com/news/aew/jim-ross-praises-tony-khan-after-absolute-genius-week-for-aew/",
+      "t": "2h",
+      "dt": "2026-09-17T15:59:42+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW All Out lineup: Several matches added to next weekend’s pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: Several matches added to next weekend’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/17/aew-all-out-lineup-several-matches-added-to-next-weekends-pay-per-view-event/",
+      "t": "2h",
+      "dt": "2026-09-17T15:32:23+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tommaso Ciampa Explains How AEW Debut Felt Like Picking Up Where He Left Off",
+      "p": "Tommaso Ciampa has discussed how his AEW debut match with Mark Briscoe felt like a continuation of their matches from years ago.",
+      "link": "https://www.wrestlinginc.com/2260946/aew-tommaso-ciampa-mark-briscoe-debut-picking-up-left-off/",
+      "t": "3h",
+      "dt": "2026-09-17T14:30:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: The card for tonight’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/17/roh-on-honorclub-lineup-the-card-for-tonights-show-43/",
+      "t": "4h",
+      "dt": "2026-09-17T13:40:52+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Andrade El Idolo vs. Daniel Garcia, Thekla match added to 9/19 AEW Collision",
+      "p": "Two matches have been confirmed for this weekend’s live edition of AEW Collision. An in-ring appearance by Thekla, as well as a title showdown, will The post Andrade El Idolo vs. Daniel Garcia,...",
+      "link": "https://www.postwrestling.com/2026/09/17/andrade-el-idolo-vs-daniel-garcia-thekla-match-added-to-9-19-aew-collision/",
+      "t": "4h",
+      "dt": "2026-09-17T13:25:38+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite/Collision preview: AEW Trios Title match on Wednesday’s three-hour block",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: AEW Trios Title match on Wednesday’s three-hour block appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/17/aew-dynamite-collision-preview-aew-trios-title-match-on-wednesdays-three-hour-block/",
-      "t": "3m",
+      "t": "4h",
       "dt": "2026-09-17T13:20:59+00:00"
     },
     {
@@ -24,88 +104,8 @@
       "h": "AEW Collision lineup: AEW National Championship and more set for Saturday’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: AEW National Championship and more set for Saturday’s live show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/17/aew-collision-lineup-aew-national-championship-and-more-set-for-saturdays-live-show/",
-      "t": "24m",
-      "dt": "2026-09-17T13:00:04+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Ratings & Viewership Report: 9/9/2026",
-      "p": "AEW Dynamite's ratings and viewership fell for the September 9 edition of the show, which was held in tribute to Rebel.",
-      "link": "https://www.wrestlinginc.com/2260917/aew-dynamite-ratings-viewership-report-september-9-2026/",
-      "t": "24m",
-      "dt": "2026-09-17T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay Thought He Might Get Booed In Home Country At AEW All In 2026",
-      "p": "AEW World Champion Will Ospreay recounts pivotal moment where had doubt ahead of his All In: London match.",
-      "link": "https://www.wrestlinginc.com/2256974/will-ospreay-booed-home-country-england-aew-all-in-2026/",
-      "t": "54m",
-      "dt": "2026-09-17T12:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Alvarez’s AEW Dynamite September 16 report for subscribers",
-      "p": "Bryan Alvarez’s report on the September 16 edition of AEW Dynamite is now available for subscribers.",
-      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-september-16-report-for-subscribers/",
-      "t": "1h",
-      "dt": "2026-09-17T11:58:53+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision (9/12) Viewership Slightly Drops, Demo Rating Holds",
-      "p": "AEW Collision viewership information for September 12. Jed I Goodman reports that AEW Collision drew 344,000 viewers on TNT on Saturday, September 12. This number is down from the 349,000 viewers...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-9-12-viewership-slightly-drops-demo-rating-holds/",
-      "t": "1h",
-      "dt": "2026-09-17T11:42:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: WWE and Saudi Arabia, Dynamite and NXT, tons of news",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the latest on WWE heading to Saudi Arabia with a new State Department warning, World’s...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-wwe-and-saudi-arabia-dynamite-and-nxt-tons-of-news/",
-      "t": "4h",
-      "dt": "2026-09-17T08:49:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Is AEW All Out 2026 on TV? How to watch via Live Stream, MyAEW and more",
-      "p": "AEW All Out 2026 will be taking place on Saturday, September 26 from the NOW Arena in Hoffman Estates, IL, with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. If you’re hoping to watch...",
-      "link": "https://www.f4wonline.com/event-guides/aew-all-out-2026-tv-how-to-watch-via-live-stream-myaew/",
       "t": "5h",
-      "dt": "2026-09-17T07:46:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite - 9/16/2026: 3 Things We Hated & 3 We Loved",
-      "p": "The best and the worst from the September 16 edition of the AEW flagship show.",
-      "link": "https://www.wrestlinginc.com/2260908/aew-dynamite-september-16-2026-3-things-hated-loved-opinion-review/",
-      "t": "7h",
-      "dt": "2026-09-17T06:00:07+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 9/16 – WKPWP after Dynamite: Keller & Zilem talk Ospreay-Mox build for All Out, Jericho vs. Nick Wayne, Steven Borden’s progress, Ciampa-Okada angle, more (138 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Brian Zilem to review AEW Dynamite with analysis of the Will Ospreay-Jon Moxley feud and whether AEW is taking advantage of the...",
-      "link": "https://www.pwtorch.com/site/2026/09/17/free-podcast-9-16-wkpwp-after-dynamite-keller-zilem-talk-ospreay-mox-build-for-all-out-jericho-vs-nick-wayne-steven-bordens-progress-ciampa-okada-angle-more-138-min/",
-      "t": "7h",
-      "dt": "2026-09-17T05:49:05+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 9/16 – WKH – AEW Dynamite: All Out developments, Moxley & Pac & Kidd vs. Ospreay & Andrade & Akira, Jericho vs. Nick Wayne, Hayter vs. Kross, more (23 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the September 16 episode of AEW Dynamite start to finish including the latest build to All Out, Jon...",
-      "link": "https://www.pwtorch.com/site/2026/09/17/vip-podcast-9-16-wkh-aew-dynamite-all-out-developments-moxley-pac-kidd-vs-ospreay-andrade-akira-jericho-vs-nick-wayne-hayter-vs-kross-more-23-min/",
-      "t": "7h",
-      "dt": "2026-09-17T05:36:43+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "09/16 Powell’s AEW Dynamite audio review: Will Ospreay, Andrade, and Francesco Akira vs. Jon Moxley, Gabe Kidd, and Pac, Chris Jericho vs. Nick Wayne",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 09/16 Powell’s AEW Dynamite audio review: Will Ospreay, Andrade, and Francesco Akira vs. Jon Moxley, Gabe Kidd, and Pac, Chris Jericho vs. Nick...",
-      "link": "https://prowrestling.net/site/2026/09/17/09-16-powells-aew-dynamite-audio-review-will-ospreay-andrade-and-francesco-akira-vs-jon-moxley-gabe-kidd-and-pac-chris-jericho-vs-nick-wayne/",
-      "t": "8h",
-      "dt": "2026-09-17T05:07:35+00:00"
+      "dt": "2026-09-17T13:00:04+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-17T07:35:45.460202+00:00",
+  "updated": "2026-09-17T13:24:15.623764+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,75 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite/Collision preview: AEW Trios Title match on Wednesday’s three-hour block",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: AEW Trios Title match on Wednesday’s three-hour block appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/17/aew-dynamite-collision-preview-aew-trios-title-match-on-wednesdays-three-hour-block/",
+      "t": "3m",
+      "dt": "2026-09-17T13:20:59+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: AEW National Championship and more set for Saturday’s live show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: AEW National Championship and more set for Saturday’s live show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/17/aew-collision-lineup-aew-national-championship-and-more-set-for-saturdays-live-show/",
+      "t": "24m",
+      "dt": "2026-09-17T13:00:04+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Ratings & Viewership Report: 9/9/2026",
+      "p": "AEW Dynamite's ratings and viewership fell for the September 9 edition of the show, which was held in tribute to Rebel.",
+      "link": "https://www.wrestlinginc.com/2260917/aew-dynamite-ratings-viewership-report-september-9-2026/",
+      "t": "24m",
+      "dt": "2026-09-17T13:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Will Ospreay Thought He Might Get Booed In Home Country At AEW All In 2026",
+      "p": "AEW World Champion Will Ospreay recounts pivotal moment where had doubt ahead of his All In: London match.",
+      "link": "https://www.wrestlinginc.com/2256974/will-ospreay-booed-home-country-england-aew-all-in-2026/",
+      "t": "54m",
+      "dt": "2026-09-17T12:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Bryan Alvarez’s AEW Dynamite September 16 report for subscribers",
+      "p": "Bryan Alvarez’s report on the September 16 edition of AEW Dynamite is now available for subscribers.",
+      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-september-16-report-for-subscribers/",
+      "t": "1h",
+      "dt": "2026-09-17T11:58:53+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision (9/12) Viewership Slightly Drops, Demo Rating Holds",
+      "p": "AEW Collision viewership information for September 12. Jed I Goodman reports that AEW Collision drew 344,000 viewers on TNT on Saturday, September 12. This number is down from the 349,000 viewers...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-9-12-viewership-slightly-drops-demo-rating-holds/",
+      "t": "1h",
+      "dt": "2026-09-17T11:42:49+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOR: WWE and Saudi Arabia, Dynamite and NXT, tons of news",
+      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the latest on WWE heading to Saudi Arabia with a new State Department warning, World’s...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-wwe-and-saudi-arabia-dynamite-and-nxt-tons-of-news/",
+      "t": "4h",
+      "dt": "2026-09-17T08:49:36+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Is AEW All Out 2026 on TV? How to watch via Live Stream, MyAEW and more",
+      "p": "AEW All Out 2026 will be taking place on Saturday, September 26 from the NOW Arena in Hoffman Estates, IL, with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. If you’re hoping to watch...",
+      "link": "https://www.f4wonline.com/event-guides/aew-all-out-2026-tv-how-to-watch-via-live-stream-myaew/",
+      "t": "5h",
+      "dt": "2026-09-17T07:46:00+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW Dynamite - 9/16/2026: 3 Things We Hated & 3 We Loved",
       "p": "The best and the worst from the September 16 edition of the AEW flagship show.",
       "link": "https://www.wrestlinginc.com/2260908/aew-dynamite-september-16-2026-3-things-hated-loved-opinion-review/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-09-17T06:00:07+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "FREE PODCAST 9/16 – WKPWP after Dynamite: Keller & Zilem talk Ospreay-Mox build for All Out, Jericho vs. Nick Wayne, Steven Borden’s progress, Ciampa-Okada angle, more (138 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Brian Zilem to review AEW Dynamite with analysis of the Will Ospreay-Jon Moxley feud and whether AEW is taking advantage of the...",
       "link": "https://www.pwtorch.com/site/2026/09/17/free-podcast-9-16-wkpwp-after-dynamite-keller-zilem-talk-ospreay-mox-build-for-all-out-jericho-vs-nick-wayne-steven-bordens-progress-ciampa-okada-angle-more-138-min/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-09-17T05:49:05+00:00"
     },
     {
@@ -32,7 +96,7 @@
       "h": "VIP PODCAST 9/16 – WKH – AEW Dynamite: All Out developments, Moxley & Pac & Kidd vs. Ospreay & Andrade & Akira, Jericho vs. Nick Wayne, Hayter vs. Kross, more (23 min.)",
       "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the September 16 episode of AEW Dynamite start to finish including the latest build to All Out, Jon...",
       "link": "https://www.pwtorch.com/site/2026/09/17/vip-podcast-9-16-wkh-aew-dynamite-all-out-developments-moxley-pac-kidd-vs-ospreay-andrade-akira-jericho-vs-nick-wayne-hayter-vs-kross-more-23-min/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-09-17T05:36:43+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "09/16 Powell’s AEW Dynamite audio review: Will Ospreay, Andrade, and Francesco Akira vs. Jon Moxley, Gabe Kidd, and Pac, Chris Jericho vs. Nick Wayne",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 09/16 Powell’s AEW Dynamite audio review: Will Ospreay, Andrade, and Francesco Akira vs. Jon Moxley, Gabe Kidd, and Pac, Chris Jericho vs. Nick...",
       "link": "https://prowrestling.net/site/2026/09/17/09-16-powells-aew-dynamite-audio-review-will-ospreay-andrade-and-francesco-akira-vs-jon-moxley-gabe-kidd-and-pac-chris-jericho-vs-nick-wayne/",
-      "t": "2h",
+      "t": "8h",
       "dt": "2026-09-17T05:07:35+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Swerve Strickland opens up about sacrifices he made during 17-year wrestling journey",
-      "p": "While a part of AEW since 2022, Swerve Strickland has been wrestling for the last 17 to 18 years, since 2008. Strickland decided to become a pro-wrestler when he was just 18 years old, and now,...",
-      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-opens-up-about-sacrifices-he-made-during-17-year-wrestling-journey/",
-      "t": "3h",
-      "dt": "2026-09-17T04:20:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Former AEW World Champion’s return teased on Dynamite",
-      "p": "Samoa Joe appears to be returning to AEW in short order and against a fresh opponent. On Wednesday’s Dynamite, Jack Perry was shown in a taped promo where he called out the former AEW World...",
-      "link": "https://www.f4wonline.com/news/aew/samoa-joe-aew-dynamite-return-teased-jack-perry/",
-      "t": "4h",
-      "dt": "2026-09-17T03:06:20+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Updated card for AEW Collision & next week’s Dynamite",
-      "p": "The AEW National title will be on the line this Saturday at Collision — a show that will also feature the AEW in-ring return of Thekla. Andrade El Idolo (pictured above) will look for his fourth...",
-      "link": "https://www.f4wonline.com/news/aew/updated-card-for-aew-collision-next-weeks-dynamite/",
-      "t": "4h",
-      "dt": "2026-09-17T02:46:39+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Dynamite 9/16/26 Review | REWIND-A-DYNAMITE",
-      "p": "John Pollock and Wai Ting review AEW Dynamite with Will Ospreay, Andrade El Idolo & Francesco Akira facing off with Jon Moxley, Claudio Castagnoli, and Gabe Kidd in Norfolk. The post AEW Dynamite...",
-      "link": "https://www.postwrestling.com/2026/09/16/aew-dynamite-9-16-26-review-rewind-a-dynamite-xl-live-1035pm-et/",
-      "t": "5h",
-      "dt": "2026-09-17T02:35:26+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kazuchika Okada vs. Tommaso Ciampa, Darby Allin/Steven Borden Tag Set For AEW All Out",
-      "p": "Two big matches have been added to AEW All Out. One of the bouts will see Kazuchika Okada defend the AEW International Championship against Tommaso Ciampa. After attacking Okada backstage on this...",
-      "link": "https://www.fightful.com/wrestling-news/kazuchika-okada-vs-tommaso-ciampa-darby-allin-steven-borden-tag-set-for-aew-all-out/",
-      "t": "5h",
-      "dt": "2026-09-17T02:34:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Steve Borden Set For AEW PPV Debut At All Out",
-      "p": "Steve Borden is set to make his AEW pay-per-view debut with a match announced for All Out in Chicago next weekend.",
-      "link": "https://www.wrestlinginc.com/2260877/steve-borden-set-aew-ppv-debut-all-out/",
-      "t": "5h",
-      "dt": "2026-09-17T02:27:59+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW World Trios Titles To Be Defended On 9/23 AEW Dynamite/Collision",
-      "p": "A big title bout has been set for the dual episode of AEW Dynamite and Collision on September 23. The match will see the New Level (Kofi & Austin Creed) and Swerve Strickland defend their AEW...",
-      "link": "https://www.fightful.com/wrestling-news/aew-world-trios-titles-to-be-defended-on-9-23-aew-dynamite-collision/",
-      "t": "5h",
-      "dt": "2026-09-17T02:22:31+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tommaso Ciampa Challenges Kazuchika Okada To AEW All Out Title Match",
-      "p": "The AEW International Championship will be on the line at AEW All Out 2026 as Tommaso Ciampa will go one-on-one with Kazuchika Okada.",
-      "link": "https://www.wrestlinginc.com/2260873/tommaso-ciampa-challenges-kazuchika-okada-aew-all-out-title-match/",
-      "t": "5h",
-      "dt": "2026-09-17T02:14:37+00:00"
     }
   ]
 }

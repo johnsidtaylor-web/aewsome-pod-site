@@ -1,30 +1,70 @@
 {
-  "updated": "2026-09-17T18:10:48.697888+00:00",
+  "updated": "2026-09-17T21:19:23.054354+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Big Vinny V: Nick Wayne needs some credibility right now",
+      "p": "Quick, without looking it up: when was the last time Nick Wayne won a match on Dynamite? If you know the answer, you might be a Man Beast. On March 7, 2025, Wayne defeated Rhino in Detroit,...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-nick-wayne-needs-some-credibility-right-now/",
+      "t": "26m",
+      "dt": "2026-09-17T20:53:12+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Swerve Strickland Says New Level Theme Song Was Approved 24 Hours Before AEW All In",
+      "p": "Swerve Strickland confirms his New Level teammates Austin Creed and Kofi had their theme song approved for use just 24 hours before their debut at AEW All In",
+      "link": "https://www.wrestlinginc.com/2261785/swerve-strickland-new-level-theme-song-approved-24-hours-aew-all-in/",
+      "t": "1h",
+      "dt": "2026-09-17T19:56:06+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Lena Kross and Jamie Hayter highlight the night, Kazuchika Okada brings the giggles, Will Ospreay and Jon Moxley build towards All Out",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Lena Kross and Jamie Hayter highlight the night, Kazuchika Okada brings the giggles, Will...",
+      "link": "https://prowrestling.net/site/2026/09/17/pruetts-pause-10-thoughts-on-aew-dynamite-lena-kross-and-jamie-hayter-highlight-the-night-kazuchika-okada-brings-the-giggles-will-ospreay-and-jon-moxley-build-towards-all-out/",
+      "t": "2h",
+      "dt": "2026-09-17T19:05:31+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Reportedly Wants To Be A 'Semi-Regular' In CMLL",
+      "p": "Dave Meltzer reports that AEW's Jeff Jarrett is looking to become a \"semi-regular\" in CMLL, in hopes of having a similar run that Johnny TV had earlier in 2026",
+      "link": "https://www.wrestlinginc.com/2261722/aew-jeff-jarrett-cmll-semi-regular/",
+      "t": "2h",
+      "dt": "2026-09-17T19:05:07+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Powell’s AEW Dynamite Hit List: Intriguing possibilities for Jon Moxley and the Death Riders, Will Ospreay needs a friend the fans care about, Nick Wayne cares more about a necklace than winning",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Intriguing possibilities for Jon Moxley and the Death Riders, Will Ospreay needs a friend the fans care about,...",
+      "link": "https://prowrestling.net/site/2026/09/17/powells-aew-dynamite-hit-list-intriguing-possibilities-for-jon-moxley-and-the-death-riders-will-ospreay-needs-a-friend-the-fans-care-about-nick-wayne-cares-more-about-a-necklace-than-winning/",
+      "t": "3h",
+      "dt": "2026-09-17T18:11:35+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "TNA's Matt Hardy Comments On The Death Of AEW Star Andy 'The Butcher' Williams",
       "p": "TNA's Matt Hardy comments on the death of AEW star \"The Butcher\" Andy Williams, who Hardy was stablemates and later rivals with during his AEW tenure",
       "link": "https://www.wrestlinginc.com/2261616/tna-matt-hardy-aew-andy-butcher-williams-death/",
-      "t": "0m",
+      "t": "3h",
       "dt": "2026-09-17T18:09:55+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "AEW DYNAMITE HITS & MISSES (9/16): Christiann Cage is the gift that keeps on giving, Nick Wayne’s necklace, United Empire vs. Death Riders, Kidd and Pac tension with Mox",
+      "h": "AEW DYNAMITE HITS & MISSES (9/16): Christian Cage is the gift that keeps on giving, Nick Wayne’s necklace, United Empire vs. Death Riders, Kidd and Pac tension with Mox",
       "p": "HITS OPENING 8-MAN TAG MATCH This was a very entertaining way to start the show. I loved the mix of personalities and styles of the participants. The dynamic between Darby Allin and Christian...",
       "link": "https://www.pwtorch.com/site/2026/09/17/aew-dynamite-hits-misses-9-16-christiann-cage-is-the-gift-that-keeps-on-giving-nick-waynes-necklace-united-empire-vs-death-riders-kidd-and-pac-tension-with-mox/",
-      "t": "51m",
+      "t": "4h",
       "dt": "2026-09-17T17:19:14+00:00"
     },
     {
@@ -32,23 +72,15 @@
       "h": "AEW Announcer Comments On Whether He'd Want WWE's Bayley To Join The Company",
       "p": "Bayley's contract status has been a topic of conversation for months and many have speculated on if she would join AEW if she didn't re-sign with WWE.",
       "link": "https://www.wrestlinginc.com/2261515/aew-jim-ross-wwe-bayley-join-company/",
-      "t": "56m",
+      "t": "4h",
       "dt": "2026-09-17T17:13:52+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Deonna Purrazzo: Lee Moriarty Is The Greatest Technical Wrestler In The World Right Now",
-      "p": "Deonna Purrazzo has high praise for Lee Moriarty. As things currently stand, both Moriarty and Purrazzo are firmly positioned at the top of their respective Pure divisions in Ring Of Honor....",
-      "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-lee-moriarty-is-the-greatest-technical-wrestler-in-the-world-right-now/",
-      "t": "1h",
-      "dt": "2026-09-17T17:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision rating (9/12): How did the show hold up against college football competition?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (9/12): How did the show hold up against college football competition? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/17/aew-collision-rating-9-12-how-did-the-show-hold-up-against-college-football-competition/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-09-17T16:17:05+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Jim Ross praises Tony Khan after ‘absolute genius’ week for AEW",
       "p": "Jim Ross had very kind words for his boss Tony Khan after what was an emotional stretch for AEW. On back-to-back television shows last week, AEW celebrated Rebel (Tanea Brooks) amid her battle...",
       "link": "https://www.f4wonline.com/news/aew/jim-ross-praises-tony-khan-after-absolute-genius-week-for-aew/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-17T15:59:42+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "AEW All Out lineup: Several matches added to next weekend’s pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: Several matches added to next weekend’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/17/aew-all-out-lineup-several-matches-added-to-next-weekends-pay-per-view-event/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-17T15:32:23+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Tommaso Ciampa Explains How AEW Debut Felt Like Picking Up Where He Left Off",
       "p": "Tommaso Ciampa has discussed how his AEW debut match with Mark Briscoe felt like a continuation of their matches from years ago.",
       "link": "https://www.wrestlinginc.com/2260946/aew-tommaso-ciampa-mark-briscoe-debut-picking-up-left-off/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-17T14:30:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub lineup: The card for tonight’s show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/17/roh-on-honorclub-lineup-the-card-for-tonights-show-43/",
-      "t": "4h",
-      "dt": "2026-09-17T13:40:52+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Andrade El Idolo vs. Daniel Garcia, Thekla match added to 9/19 AEW Collision",
-      "p": "Two matches have been confirmed for this weekend’s live edition of AEW Collision. An in-ring appearance by Thekla, as well as a title showdown, will The post Andrade El Idolo vs. Daniel Garcia,...",
-      "link": "https://www.postwrestling.com/2026/09/17/andrade-el-idolo-vs-daniel-garcia-thekla-match-added-to-9-19-aew-collision/",
-      "t": "4h",
-      "dt": "2026-09-17T13:25:38+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite/Collision preview: AEW Trios Title match on Wednesday’s three-hour block",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: AEW Trios Title match on Wednesday’s three-hour block appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/17/aew-dynamite-collision-preview-aew-trios-title-match-on-wednesdays-three-hour-block/",
-      "t": "4h",
-      "dt": "2026-09-17T13:20:59+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: AEW National Championship and more set for Saturday’s live show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: AEW National Championship and more set for Saturday’s live show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/17/aew-collision-lineup-aew-national-championship-and-more-set-for-saturdays-live-show/",
-      "t": "5h",
-      "dt": "2026-09-17T13:00:04+00:00"
     }
   ]
 }

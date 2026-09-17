@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-16T22:54:22.302590+00:00",
+  "updated": "2026-09-17T01:22:13.257084+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "ProWrestling.net",
-      "h": "AEW All Out lineup: The card for next weekend’s pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The card for next weekend’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/16/aew-all-out-lineup-the-card-for-next-weekends-pay-per-view-event/",
-      "t": "3h",
-      "dt": "2026-09-16T19:40:15+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Schiavone Pays Tribute To Superstar Bill Dundee",
-      "p": "AEW's Tony Schiavone pays tribute to a former WCW co-worker and a superstar of pro wrestling's territory days, Bill Dundee, who passed away on September 6",
-      "link": "https://www.wrestlinginc.com/2260594/aew-tony-schiavone-pays-tribute-superstar-bill-dundee/",
-      "t": "3h",
-      "dt": "2026-09-16T18:54:36+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "09/16 Pro Wrestling Boom Podcast With Jason Powell (Episode 425): Sean Plichta on Sami Zayn regaining the WWE Championship, Roman Reigns vs. Penta, AEW All Out vs. WWE World Collide",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 09/16 Pro Wrestling Boom Podcast With Jason Powell (Episode 425): Sean Plichta on Sami Zayn regaining the WWE Championship, Roman Reigns vs....",
-      "link": "https://prowrestling.net/site/2026/09/16/09-16-pro-wrestling-boom-podcast-with-jason-powell-episode-425-sean-plichta-on-sami-zayn-regaining-the-wwe-championship-roman-reigns-vs-penta-aew-all-out-vs-wwe-world-collide/",
-      "t": "4h",
-      "dt": "2026-09-16T18:40:35+00:00"
+      "src": "Wrestling Observer",
+      "h": "Former AEW TBS Champion reportedly out of action",
+      "p": "Former TBS Champion Maya World is out of action for the time being, according to a new report. Fightful Select reported Wednesday that World is unable to wrestle due to undergoing an undisclosed...",
+      "link": "https://www.f4wonline.com/news/aew/maya-world-injured-out-action-aew-former-tbs-champion/",
+      "t": "7m",
+      "dt": "2026-09-17T01:14:37+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW Releases ‘Aw Dude’ Shirt On AEW Shop",
-      "p": "AEW have took advantage in the rise of a recent meme, selling an ‘aw dude’ shirt on AEW Shop for fans of Adam Copeland. In recent weeks, the prevalence of fans using clips and photos to quote a...",
-      "link": "https://www.fightful.com/wrestling-news/aew-releases-aw-dude-shirt-on-aew-shop/",
-      "t": "5h",
-      "dt": "2026-09-16T17:40:55+00:00"
+      "h": "Mercedes Mone Not Cleared To Compete At AEW All Out, Willow Nightingale vs. Thekla Set For The Show",
+      "p": "An update on the women’s division heading into AEW All Out. On this week’s episode of AEW Dynamite, Excalibur revealed that Mercedes Mone is not cleared to wrestle at the All Out pay-per-view on...",
+      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-not-cleared-to-compete-at-aew-all-out-willow-nightingale-vs-thekla-set-for-the-show/",
+      "t": "15m",
+      "dt": "2026-09-17T01:06:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Maya World Temporarily Sidelined",
+      "p": "Details on the current status of Maya World. Fightful Select reports, “Maya World is temporarily sidelined. AEW hopes she can be back in action soon, we’re told.” Full details are available for...",
+      "link": "https://www.fightful.com/wrestling-news/maya-world-temporarily-sidelined/",
+      "t": "45m",
+      "dt": "2026-09-17T00:36:08+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite 9/16/26 Review | REWIND-A-DYNAMITE (XL Live 10:35pm ET)",
+      "p": "TONIGHT 10:35 pm ET — John Pollock and Wai Ting review AEW Dynamite with Will Ospreay, Andrade El Idolo & Francesco Akira facing off with Jon Moxley, Claudio Castagnoli, and Gabe Kidd in Norfolk....",
+      "link": "https://www.postwrestling.com/2026/09/16/aew-dynamite-9-16-26-review-rewind-a-dynamite-xl-live-1035pm-et/",
+      "t": "46m",
+      "dt": "2026-09-17T00:35:26+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite Live Results: Ospreay/Andrade/Akira vs. Death Riders & Kidd, Jericho vs. Wayne",
+      "p": "AEW Dynamite featured Will Ospreay, Andrade El Ídolo & Francesco Akira vs. the Death Riders & Gabe Kidd, and Jericho vs. Nick Wayne. The post AEW Dynamite Live Results: Ospreay/Andrade/Akira vs....",
+      "link": "https://www.postwrestling.com/2026/09/16/aew-dynamite-live-results-ospreay-andrade-akira-vs-death-riders-kidd-jericho-vs-wayne/",
+      "t": "1h",
+      "dt": "2026-09-17T00:16:05+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Results (9/16/2026): United Empire vs. Death Riders, Jamie Hayter vs. Lena Kross, More",
+      "p": "Full results for the September 16, 2026, edition of AEW Dynamite on TBS live from the Chartway Arena in Norfolk, Virginia. On September 16, 2026, All Elite Wrestling hosted a new episode of...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-9-16-2026-united-empire-vs-death-riders-jamie-hayter-vs-lena-kross-more/",
+      "t": "1h",
+      "dt": "2026-09-16T23:50:00+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "AEW DYNAMITE PREVIEW (9/16): Announced matches, location, ticket sales, how to watch",
-      "p": "When: WEDNESDAY, SEPTEMBER 16, 2026 Where: NORFOLK, VA. AT CHARTWAY ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,513 tickets had been...",
-      "link": "https://www.pwtorch.com/site/2026/09/16/aew-dynamite-preview-9-16-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "5h",
-      "dt": "2026-09-16T17:32:42+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "20 YEARS AGO – ROH LIVE EVENT RESULTS (9/17/2006): Bryan Danielson vs. Kenta for ROH Title, plus Nigel McGuinness, Adam Pearce, Cabana, Jack Evans, Cornette, Briscoes, Austin Aries, Samoa Joe",
-      "p": "PWTorch features unmatched archives of live wrestling reports (not just results, but match details, context, and analysis). The following is a report originally published here 20 years ago this...",
-      "link": "https://www.pwtorch.com/site/2026/09/16/20-years-ago-roh-live-event-results-9-17-2006-bryan-danielson-vs-kenta-for-roh-title-plus-nigel-mcguinness-adam-pearce-cabana-jack-evans-cornette-briscoes-austin-aries-samoa-joe/",
-      "t": "6h",
-      "dt": "2026-09-16T16:53:15+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kota Ibushi To Undergo Surgery, Says He Refuses To Let Injury End His Career",
-      "p": "AEW's Kota Ibushi reveals that he is set to undergo yet another surgery on his broken femur, though he refuses to say the injury will end his career",
-      "link": "https://www.wrestlinginc.com/2260372/aew-kota-ibushi-surgery-femur-refuses-injury-end-career/",
-      "t": "6h",
-      "dt": "2026-09-16T16:36:31+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Announces Exclusive Japanese Streaming Platform For Programming",
-      "p": "AEW has a new broadcasting home in Japan as the company has landed a deal with Hulu Japan.",
-      "link": "https://www.wrestlinginc.com/2260370/aew-announces-exclusive-japanese-streaming-platform/",
-      "t": "6h",
-      "dt": "2026-09-16T16:35:36+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kenny Omega Believes AEW All In Match Against Will Ospreay Was 'Destined To Be'",
-      "p": "Kenny Omega claims that his instant classic with Will Ospreay at All In was always meant to happen on AEW's biggest stage.",
-      "link": "https://www.wrestlinginc.com/2260330/aew-all-in-2026-kenny-omega-will-ospreay-destined/",
-      "t": "6h",
-      "dt": "2026-09-16T16:21:36+00:00"
+      "h": "AEW DYNAMITE RESULTS (9/16): Keller’s report on Ospreay & Andrade & Akira vs. Moxley & Pac & Gabe Kidd, Christian & Copeland & Darby & Borden vs. FTR & Fletcher & knight, Jericho vs. Wayne",
+      "p": "AEW DYNAMITE REPORT SEPTEMBER 16, 2026 NORFOLK, VA. AT CHARTWAY ARENA AIRED LIVE ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz Ring Announcer:...",
+      "link": "https://www.pwtorch.com/site/2026/09/16/aew-dynamite-results-9-16-kellers-report-on-ospreay-andrade-akira-vs-moxley-pac-gabe-kidd-christian-copeland-darby-borden-vs-ftr-fletcher-knight-jericho-vs-wayne/",
+      "t": "1h",
+      "dt": "2026-09-16T23:49:06+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "WWE Worlds Collide lineup: Four matches added to the show running against AEW All Out",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post WWE Worlds Collide lineup: Four matches added to the show running against AEW All Out appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/16/wwe-worlds-collide-lineup-four-matches-added-to-the-show-running-against-aew-all-out/",
-      "t": "6h",
-      "dt": "2026-09-16T16:05:23+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "The Young Bucks Praise AEW All In 2026 Main Event",
-      "p": "The Young Bucks have reacted to the AEW All In 2026 main event between Kenny Omega and Will Ospreay and discussed what to expect from Omega next.",
-      "link": "https://www.wrestlinginc.com/2259901/young-bucks-praise-aew-all-in-2026-main-event/",
-      "t": "7h",
-      "dt": "2026-09-16T15:00:00+00:00"
+      "h": "AEW Dynamite results (9/16): Powell’s review of Will Ospreay, Andrade, and Francesco Akira vs. Jon Moxley, Gabe Kidd, and Pac, Chris Jericho vs. Nick Wayne",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite results (9/16): Powell’s review of Will Ospreay, Andrade, and Francesco Akira vs. Jon Moxley, Gabe Kidd, and Pac, Chris Jericho...",
+      "link": "https://prowrestling.net/site/2026/09/16/aew-dynamite-results-9-16-powells-review-of-will-ospreay-andrade-and-francesco-akira-vs-jon-moxley-gabe-kidd-and-pac-chris-jericho-vs-nick-wayne/",
+      "t": "1h",
+      "dt": "2026-09-16T23:30:41+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Kota Ibushi undergoing another surgery, will ‘absolutely return’ to AEW",
-      "p": "Kota Ibushi has to undergo another surgery, but he is still determined to return to AEW once recovered. The 44-year-old Ibushi suffered a broken femur in October 2025 while facing Josh Alexander...",
-      "link": "https://www.f4wonline.com/news/aew/kota-ibushi-undergoing-another-surgery-will-absolutely-return-to-aew/",
-      "t": "8h",
-      "dt": "2026-09-16T14:38:16+00:00"
+      "h": "AEW Dynamite live results: Will Ospreay, Andrade & Akira vs. Jon Moxley, Gabe Kidd & PAC",
+      "p": "AEW Dynamite is live tonight at the Ted Constant Convocation Center in Norfolk, Virginia. Scheduled for tonight’s show, AEW World Champion Will Ospreay will team with AEW National Champion Andrade...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-will-ospreay-andrade-akira-vs-jon-moxley-gabe-kidd-pac/",
+      "t": "2h",
+      "dt": "2026-09-16T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Health Update On Former AEW TBS Champion Maya World",
+      "p": "A health update on former AEW TBS Champion Maya World emerged in a new report ahead of \"AEW Dynamite\" on Wednesday.",
+      "link": "https://www.wrestlinginc.com/2260837/health-update-former-aew-tbs-champion-maya-world/",
+      "t": "2h",
+      "dt": "2026-09-16T23:13:10+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Results 9/16 - Jericho Takes On Nick Wayne, United Empire Face Death Riders",
+      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" Rebel Heart on September 16, 2026, with a singles match between Jericho and Nick Wayne!",
+      "link": "https://www.wrestlinginc.com/2259793/aew-dynamite-september-16-jericho-nick-wayne-united-empire-death-riders/",
+      "t": "2h",
+      "dt": "2026-09-16T23:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW FEUD TRACKER: Barber’s assessment of Ospreay vs. Moxley, Thekla vs. Mercedes, The Bucks and FTR and Copeland & Christian, Jericho and Wayne",
+      "p": "HOUSEKEEPING •Fightful reported this week that Ilja Dragunov is AEW bound. Look for him to probably join Will Ospreay’s AEW based United Empire. INTRO All Elite Wrestling had a tough task ahead of...",
+      "link": "https://www.pwtorch.com/site/2026/09/16/aew-feud-tracker-barbers-assessment-of-ospreay-vs-moxley-thekla-vs-mercedes-the-bucks-and-ftr-and-copeland-christian-jericho-and-wayne/",
+      "t": "2h",
+      "dt": "2026-09-16T22:54:38+00:00"
     }
   ]
 }

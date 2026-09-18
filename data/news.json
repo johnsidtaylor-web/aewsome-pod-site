@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-18T04:45:16.823673+00:00",
+  "updated": "2026-09-18T09:42:32.107477+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (5 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
   },
   "items": [
     {
@@ -16,7 +16,7 @@
       "h": "B&V: AEW Dynamite, NXT, a recap of the afternoon at Granny’s",
       "p": "The Bryan & Vinny Show is back with tons to talk about in our look at AEW Dynamite and NXT this week. Lots to talk about, and we’ll also discuss going to Granny’s retirement community for her...",
       "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/bv-aew-dynamite-nxt-a-recap-of-the-afternoon-at-grannys/",
-      "t": "34m",
+      "t": "5h",
       "dt": "2026-09-18T04:10:30+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "ROH TV Results (9/17): Bandido Competes",
       "p": "Ring of Honor aired the latest episode of ROH TV on September 17 from WTJC in Jacksonville, Florida. The event aired on HonorClub. Full results are below. ROH TV Results (9/17) ROH Women’s...",
       "link": "https://www.fightful.com/wrestling-news/roh-tv-results-9-17-bandido-competes/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-09-18T02:30:00+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "ROH TV live results: Bandido & Komander in tag action, Red Velvet defends TV title",
       "p": "Ring of Honor is back on HonorClub tonight. Several matches have been announced for this week’s episode, including Isla Dawn going one-on-one with Robyn Renegade. Mina Shirakawa and Queen Aminata...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-bandido-komander-in-tag-action-red-velvet-defends-tv-title/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-17T23:15:00+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "AEW's Jim Ross Pays Tribute To The Late Andy Williams, Aka The Butcher",
       "p": "AEW commentator Jim Ross is one of the latest to pay tribute to the Andy \"The Butcher\" Williams, the musician-turned-wrestler who sadly died in September.",
       "link": "https://www.wrestlinginc.com/2261902/aew-jim-ross-andy-williams-butcher/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-09-17T22:12:54+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "Big Vinny V: Nick Wayne needs some credibility right now",
       "p": "Quick, without looking it up: when was the last time Nick Wayne won a match on Dynamite? If you know the answer, you might be a Man Beast. On March 7, 2025, Wayne defeated Rhino in Detroit,...",
       "link": "https://www.f4wonline.com/opinion/big-vinny-v-nick-wayne-needs-some-credibility-right-now/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-09-17T20:53:12+00:00"
     },
     {
@@ -56,39 +56,23 @@
       "h": "Swerve Strickland Says New Level Theme Song Was Approved 24 Hours Before AEW All In",
       "p": "Swerve Strickland confirms his New Level teammates Austin Creed and Kofi had their theme song approved for use just 24 hours before their debut at AEW All In",
       "link": "https://www.wrestlinginc.com/2261785/swerve-strickland-new-level-theme-song-approved-24-hours-aew-all-in/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-09-17T19:56:06+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Lena Kross and Jamie Hayter highlight the night, Kazuchika Okada brings the giggles, Will Ospreay and Jon Moxley build towards All Out",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Lena Kross and Jamie Hayter highlight the night, Kazuchika Okada brings the giggles, Will...",
-      "link": "https://prowrestling.net/site/2026/09/17/pruetts-pause-10-thoughts-on-aew-dynamite-lena-kross-and-jamie-hayter-highlight-the-night-kazuchika-okada-brings-the-giggles-will-ospreay-and-jon-moxley-build-towards-all-out/",
-      "t": "9h",
-      "dt": "2026-09-17T19:05:31+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Jeff Jarrett Reportedly Wants To Be A 'Semi-Regular' In CMLL",
       "p": "Dave Meltzer reports that AEW's Jeff Jarrett is looking to become a \"semi-regular\" in CMLL, in hopes of having a similar run that Johnny TV had earlier in 2026",
       "link": "https://www.wrestlinginc.com/2261722/aew-jeff-jarrett-cmll-semi-regular/",
-      "t": "9h",
+      "t": "14h",
       "dt": "2026-09-17T19:05:07+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Intriguing possibilities for Jon Moxley and the Death Riders, Will Ospreay needs a friend the fans care about, Nick Wayne cares more about a necklace than winning",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Intriguing possibilities for Jon Moxley and the Death Riders, Will Ospreay needs a friend the fans care about,...",
-      "link": "https://prowrestling.net/site/2026/09/17/powells-aew-dynamite-hit-list-intriguing-possibilities-for-jon-moxley-and-the-death-riders-will-ospreay-needs-a-friend-the-fans-care-about-nick-wayne-cares-more-about-a-necklace-than-winning/",
-      "t": "10h",
-      "dt": "2026-09-17T18:11:35+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "TNA's Matt Hardy Comments On The Death Of AEW Star Andy 'The Butcher' Williams",
       "p": "TNA's Matt Hardy comments on the death of AEW star \"The Butcher\" Andy Williams, who Hardy was stablemates and later rivals with during his AEW tenure",
       "link": "https://www.wrestlinginc.com/2261616/tna-matt-hardy-aew-andy-butcher-williams-death/",
-      "t": "10h",
+      "t": "15h",
       "dt": "2026-09-17T18:09:55+00:00"
     },
     {
@@ -96,7 +80,7 @@
       "h": "AEW DYNAMITE HITS & MISSES (9/16): Christian Cage is the gift that keeps on giving, Nick Wayne’s necklace, United Empire vs. Death Riders, Kidd and Pac tension with Mox",
       "p": "HITS OPENING 8-MAN TAG MATCH This was a very entertaining way to start the show. I loved the mix of personalities and styles of the participants. The dynamic between Darby Allin and Christian...",
       "link": "https://www.pwtorch.com/site/2026/09/17/aew-dynamite-hits-misses-9-16-christiann-cage-is-the-gift-that-keeps-on-giving-nick-waynes-necklace-united-empire-vs-death-riders-kidd-and-pac-tension-with-mox/",
-      "t": "11h",
+      "t": "16h",
       "dt": "2026-09-17T17:19:14+00:00"
     },
     {
@@ -104,8 +88,24 @@
       "h": "AEW Announcer Comments On Whether He'd Want WWE's Bayley To Join The Company",
       "p": "Bayley's contract status has been a topic of conversation for months and many have speculated on if she would join AEW if she didn't re-sign with WWE.",
       "link": "https://www.wrestlinginc.com/2261515/aew-jim-ross-wwe-bayley-join-company/",
-      "t": "11h",
+      "t": "16h",
       "dt": "2026-09-17T17:13:52+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jim Ross praises Tony Khan after ‘absolute genius’ week for AEW",
+      "p": "Jim Ross had very kind words for his boss Tony Khan after what was an emotional stretch for AEW. On back-to-back television shows last week, AEW celebrated Rebel (Tanea Brooks) amid her battle...",
+      "link": "https://www.f4wonline.com/news/aew/jim-ross-praises-tony-khan-after-absolute-genius-week-for-aew/",
+      "t": "17h",
+      "dt": "2026-09-17T15:59:42+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Andrade El Idolo vs. Daniel Garcia, Thekla match added to 9/19 AEW Collision",
+      "p": "Two matches have been confirmed for this weekend’s live edition of AEW Collision. An in-ring appearance by Thekla, as well as a title showdown, will The post Andrade El Idolo vs. Daniel Garcia,...",
+      "link": "https://www.postwrestling.com/2026/09/17/andrade-el-idolo-vs-daniel-garcia-thekla-match-added-to-9-19-aew-collision/",
+      "t": "20h",
+      "dt": "2026-09-17T13:25:38+00:00"
     }
   ]
 }

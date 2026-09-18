@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-18T14:28:50.659967+00:00",
+  "updated": "2026-09-18T18:25:38.751370+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "Wrestling Inc",
-      "h": "Former ROH Star Flip Gordon Provides Update On Military Career",
-      "p": "Former Ring of Honor star Flip Gordon reveals that he will be away from a wrestling ring as he starts another chapter in his military career.",
-      "link": "https://www.wrestlinginc.com/2262211/former-roh-star-flip-gordon-provides-update-military-career/",
-      "t": "19m",
-      "dt": "2026-09-18T14:09:16+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on Walker Stewart’s NJPW, AEW, Stardom status",
-      "p": "After re-upping with NJPW, English-language commentator Walker Stewart has provided some further clarification on his contract status and how often we might be seeing him cross over into AEW....",
-      "link": "https://www.f4wonline.com/news/new-japan/update-on-walker-stewarts-njpw-aew-stardom-status/",
-      "t": "26m",
-      "dt": "2026-09-18T14:02:43+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Nattie Says Death Of AEW's Andy Williams Reminded Her Of Owen Hart",
-      "p": "WWE's Nattie has opened up about the death of former AEW star Andy \"The Butcher\" Williams and explained how it feels similar to when Owen Hart passed away.",
-      "link": "https://www.wrestlinginc.com/2262046/nattie-death-aew-andy-williams-reminded-owen-hart/",
-      "t": "28m",
-      "dt": "2026-09-18T14:00:00+00:00"
+      "h": "New Level Says Approval Of AEW Entrance Music Came Down To The Wire",
+      "p": "New Level's Austin Creed and Kofi describe how they retrieved clearance to use their theme song in the nick of time before their anticipated debut at AEW All In: London.",
+      "link": "https://www.wrestlinginc.com/2262664/aew-new-level-austin-creed-kofi-approval-entrance-music-down-wire/",
+      "t": "15m",
+      "dt": "2026-09-18T18:10:21+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Kurt Angle Says He’d Want To Lead Roman Reigns, Gunther, Kenny Omega, And CM Punk In A New Version Of The Main Event Mafia",
-      "p": "Kurt Angle picks a modern day lineup for the Main Event Mafia. Throughout two separate runs, the TNA group featured names like Sting, Kevin Nash, Booker T, Scott Steiner, Samoa Joe, and Magnus. In...",
-      "link": "https://www.fightful.com/wrestling-news/kurt-angle-roman-reigns-gunther-kenny-omega-cm-punk-329072/",
-      "t": "1h",
-      "dt": "2026-09-18T13:03:15+00:00"
+      "h": "Malakai Black Says He Was Presented With A ‘Dud’ Year In WWE That Was Nothing Close To ‘Mountains’ Of Promises Made",
+      "p": "Malakai Black (Aleister Black in WWE) returned to the promotion after WrestleMania 41, coming off a run in AEW where he was a member of House of Black. During his year in WWE, Malakai feuded with...",
+      "link": "https://www.fightful.com/wrestling-news/malakai-black-says-he-was-presented-with-a-dud-year-in-wwe-that-was-nothing-close-to-mountains-of-promises-made/",
+      "t": "16m",
+      "dt": "2026-09-18T18:08:57+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Collision Viewership & Ratings Report: 9/12/2026",
-      "p": "AEW Collision's viewership dropped slightly, while the key demographic ratings remained steady for the September 12 edition of the show.",
-      "link": "https://www.wrestlinginc.com/2262035/aew-collision-viewership-ratings-september-12-2026/",
-      "t": "1h",
-      "dt": "2026-09-18T13:00:00+00:00"
+      "h": "AEW's Nyla Rose Calls Oklahoma State Athletic Commission 'Hateful Bigots'",
+      "p": "In 2024, the Oklahoma State Athletic Commission issued a warning to AEW because they alleged AEW violated a 2021 law by allowing Nyla Rose to compete.",
+      "link": "https://www.wrestlinginc.com/2262587/aew-nyla-rose-oklahoma-state-athletic-commission-hateful-bigots/",
+      "t": "48m",
+      "dt": "2026-09-18T17:37:31+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Jake Hager suffers brutal knockout loss in Power Slap",
-      "p": "Former WWE and AEW wrestler Jake Hager suffered a brutal loss in his latest Power Slap fight. The former Jack Swagger was knocked out in the second round while facing Johnny Magna (an independent...",
-      "link": "https://www.f4wonline.com/news/other-wrestling/jake-hager-suffers-brutal-knockout-loss-in-power-slap/",
+      "src": "Wrestling Inc",
+      "h": "AEW's Jim Ross Comments On Rebel's Battle With ALS Following Tribute Dynamite",
+      "p": "Following the \"AEW Rebel Heart Dynamite\" special, Jim Ross implores everyone to send in donations for further ALS research.",
+      "link": "https://www.wrestlinginc.com/2262562/aew-jim-ross-rebel-battle-als-tribute-dynamite/",
+      "t": "59m",
+      "dt": "2026-09-18T17:25:51+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Ilja Dragunov Has Reportedly Signed With AEW, Will Debut 'Very Soon'",
+      "p": "After weeks of rumors and speculation, a new report has claimed that Ilja Dragunov has indeed signed a contract with AEW.",
+      "link": "https://www.wrestlinginc.com/2262513/aew-ilja-dragunov-signed-debut-very-soon/",
+      "t": "1h",
+      "dt": "2026-09-18T17:05:11+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's New Level Confirms Conversation With Big E About Their WWE Departure",
+      "p": "Kofi and Austin Creed outline the conversation they had with Big E about joining AEW after leaving WWE.",
+      "link": "https://www.wrestlinginc.com/2262458/aew-wwe-new-level-kofi-austin-creed-big-e-confirms-conversation-departure/",
+      "t": "1h",
+      "dt": "2026-09-18T16:33:51+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Former WWE & AEW Star Jake Hager Suffers Gruesome Injury On PowerSlap",
+      "p": "Former WWE World Heavyweight Champion and AEW star Jake Hager sustained brutal injury at Thursday's Power Slap 23 event.",
+      "link": "https://www.wrestlinginc.com/2262428/wwe-aew-powerslap-jake-hager-gruesome-injury/",
       "t": "2h",
-      "dt": "2026-09-18T12:03:59+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "B&V: AEW Dynamite, NXT, a recap of the afternoon at Granny’s",
-      "p": "The Bryan & Vinny Show is back with tons to talk about in our look at AEW Dynamite and NXT this week. Lots to talk about, and we’ll also discuss going to Granny’s retirement community for her...",
-      "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/bv-aew-dynamite-nxt-a-recap-of-the-afternoon-at-grannys/",
-      "t": "10h",
-      "dt": "2026-09-18T04:10:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH TV live results: Bandido & Komander in tag action, Red Velvet defends TV title",
-      "p": "Ring of Honor is back on HonorClub tonight. Several matches have been announced for this week’s episode, including Isla Dawn going one-on-one with Robyn Renegade. Mina Shirakawa and Queen Aminata...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-bandido-komander-in-tag-action-red-velvet-defends-tv-title/",
-      "t": "15h",
-      "dt": "2026-09-17T23:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jim Ross Pays Tribute To The Late Andy Williams, Aka The Butcher",
-      "p": "AEW commentator Jim Ross is one of the latest to pay tribute to the Andy \"The Butcher\" Williams, the musician-turned-wrestler who sadly died in September.",
-      "link": "https://www.wrestlinginc.com/2261902/aew-jim-ross-andy-williams-butcher/",
-      "t": "16h",
-      "dt": "2026-09-17T22:12:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Big Vinny V: Nick Wayne needs some credibility right now",
-      "p": "Quick, without looking it up: when was the last time Nick Wayne won a match on Dynamite? If you know the answer, you might be a Man Beast. On March 7, 2025, Wayne defeated Rhino in Detroit,...",
-      "link": "https://www.f4wonline.com/opinion/big-vinny-v-nick-wayne-needs-some-credibility-right-now/",
-      "t": "17h",
-      "dt": "2026-09-17T20:53:12+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Swerve Strickland Says New Level Theme Song Was Approved 24 Hours Before AEW All In",
-      "p": "Swerve Strickland confirms his New Level teammates Austin Creed and Kofi had their theme song approved for use just 24 hours before their debut at AEW All In",
-      "link": "https://www.wrestlinginc.com/2261785/swerve-strickland-new-level-theme-song-approved-24-hours-aew-all-in/",
-      "t": "18h",
-      "dt": "2026-09-17T19:56:06+00:00"
+      "dt": "2026-09-18T16:22:19+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Lena Kross and Jamie Hayter highlight the night, Kazuchika Okada brings the giggles, Will Ospreay and Jon Moxley build towards All Out",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Lena Kross and Jamie Hayter highlight the night, Kazuchika Okada brings the giggles, Will...",
-      "link": "https://prowrestling.net/site/2026/09/17/pruetts-pause-10-thoughts-on-aew-dynamite-lena-kross-and-jamie-hayter-highlight-the-night-kazuchika-okada-brings-the-giggles-will-ospreay-and-jon-moxley-build-towards-all-out/",
-      "t": "19h",
-      "dt": "2026-09-17T19:05:31+00:00"
+      "h": "AEW “The House Always Wins” report: Vetter’s review of Darby Allin defending the TNT Title against a battle royale winner, Death Triangle and the Sydals vs. The Elite, Konosuke Takeshita, and Michael Nakazawa",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post AEW “The House Always Wins” report: Vetter’s review of Darby Allin defending the TNT Title against a battle royale winner, Death Triangle...",
+      "link": "https://prowrestling.net/site/2026/09/18/aew-the-house-always-wins-report-vetters-review-of-darby-allin-defending-the-tnt-title-against-a-battle-royale-winner-death-triangle-and-the-sydals-vs-the-elite-konosuke-takeshita-and-micha/",
+      "t": "2h",
+      "dt": "2026-09-18T16:00:17+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: CMLL presents colossal anniversary bash, MARIGOLD wraps up Dream Star GP & more!",
+      "p": "A guide to this weekend's top professional wrestling events on TV & streaming, including shows from WWE, AEW, CMLL, NOAH & more. The post Weekend TV Guide: CMLL presents colossal anniversary bash,...",
+      "link": "https://www.postwrestling.com/2026/09/18/weekend-tv-guide-cmll-presents-colossal-anniversary-bash-marigold-wraps-up-dream-star-gp-more/",
+      "t": "2h",
+      "dt": "2026-09-18T15:58:33+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland Wants To Remove The Young Bucks Side Plates From AEW World Trios Titles",
+      "p": "Swerve Strickland wants to make a big change to the AEW Trios Championships. Alongside the duo of Kofi and Austin Creed, Strickland is in the midst of his first reign with the AEW World Trios...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-wants-to-remove-the-young-bucks-side-plates-from-aew-world-trios-titles/",
+      "t": "2h",
+      "dt": "2026-09-18T15:49:33+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland Says MJF’s Heatseeker Finisher Sucks, ‘It Was Stolen From Adam Cole’",
+      "p": "Swerve Strickland trashes MJF. In his latest sixty second interview, Don Chenz spoke with Swerve Strickland and asked him to name the wackest finishing move in AEW. Without hesitation, Strickland...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-mjf-329086/",
+      "t": "3h",
+      "dt": "2026-09-18T15:24:21+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Jake Hager suffers major eye injury at Power Slap event",
+      "p": "Former WWE & AEW wrestler Jake Hager suffered a brutal eye injury at Thursday’s Power Slap event. The post Jake Hager suffers major eye injury at Power Slap event appeared first on POST Wrestling...",
+      "link": "https://www.postwrestling.com/2026/09/18/jake-hager-suffers-major-eye-injury-at-power-slap-event/",
+      "t": "3h",
+      "dt": "2026-09-18T15:16:42+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T05:50:39.412710+00:00",
+  "updated": "2026-09-19T10:54:22.316264+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -8,7 +8,7 @@
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "FAILED (The read operation timed out)"
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
@@ -16,7 +16,7 @@
       "h": "Darby Allin To Defend AEW TNT Title On 9/19 AEW Collision",
       "p": "Darby Allin is set for his next title defense. Tony Khan announced that Allin will defend the AEW TNT Championship against Myron Reed on the September 19 episode of AEW Collision. This will be...",
       "link": "https://www.fightful.com/wrestling-news/darby-allin-to-defend-aew-tnt-title-on-9-19-aew-collision/",
-      "t": "2h",
+      "t": "8h",
       "dt": "2026-09-19T02:50:50+00:00"
     },
     {
@@ -24,7 +24,7 @@
       "h": "TNT title match announced for AEW Collision",
       "p": "The TNT Championship will be on the line this Saturday night on AEW Collision. One week before All Out, Collision takes place live from Charleston, West Virginia this Saturday. Tony Khan has...",
       "link": "https://www.f4wonline.com/news/aew/tnt-title-match-announced-for-aew-collision/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-09-19T02:44:27+00:00"
     },
     {
@@ -32,7 +32,7 @@
       "h": "WOR: CMLL Anniversary show, AEW Dynamite ratings",
       "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
       "link": "https://www.f4wonline.com/podcasts/wor-cmll-anniversary-show-aew-dynamite-ratings/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-09-19T02:21:59+00:00"
     },
     {
@@ -40,7 +40,7 @@
       "h": "AEW Dynamite ratings up without NFL competition",
       "p": "Wednesday night’s AEW Dynamite episode averaged 723,000 viewers on TBS, up 26.6 percent from the previous week (which went against the start of the NFL season). This is the second-lowest audience...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-up-without-nfl-competition/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-09-19T01:22:07+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "h": "Daily Update: CMLL Aniversario lineup, MLW, AEW Dynamite ratings",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update – We have our week in review...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-cmll-aniversario-lineup-mlw-aew-dynamite-ratings/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-09-19T01:18:12+00:00"
     },
     {
@@ -56,7 +56,7 @@
       "h": "Will Ospreay Reflects On AEW All In 2026 Entrance, 'Craziest Night Of My Life'",
       "p": "Will Ospreay comments on his emotional All In entrance and getting his mom to voiceover the opening video package for his match against Kenny Omega.",
       "link": "https://www.wrestlinginc.com/2257722/will-ospreay-aew-all-in-2026-entrance-craziest-night/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-09-19T01:00:00+00:00"
     },
     {
@@ -64,7 +64,7 @@
       "h": "New Report Confirms Former WWE Star Ilja Dragunov Is Heading To AEW",
       "p": "Another new report on Friday confirmed that former AEW star Ilja Dragunov is headed to AEW.",
       "link": "https://www.wrestlinginc.com/2263083/wwe-ilja-dragunov-aew-new-report-confirms/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-19T00:33:46+00:00"
     },
     {
@@ -72,15 +72,23 @@
       "h": "NJPW announcer Walker Stewart updates details of his contractual status with NJPW, Stardom, and AEW",
       "p": "NJPW, Stardom, and AEW announcer Walker Stewart has revealed more details about his contractual status with NJPW, Stardom, and AEW. Walker had recently announced that he had signed an extension...",
       "link": "https://www.pwtorch.com/site/2026/09/18/njpw-announcer-walker-stewart-updates-details-of-his-contractual-status-with-njpw-stardom-and-aew/",
-      "t": "9h",
+      "t": "14h",
       "dt": "2026-09-18T20:16:04+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "09/18 Dot Net Weekly audio show: Barnett and Powell on Sami Zayn and Stephanie Vaquer’s championship wins, AEW All Out developments, Cody Rhodes, CM Punk, Ilja Dragunov, AEW Dynamite",
+      "p": "By Jake Barnett (@jakebarnett) and... The post 09/18 Dot Net Weekly audio show: Barnett and Powell on Sami Zayn and Stephanie Vaquer’s championship wins, AEW All Out developments, Cody Rhodes, CM...",
+      "link": "https://prowrestling.net/site/2026/09/18/09-18-dot-net-weekly-audio-show-barnett-and-powell-on-sami-zayn-and-stephanie-vaquers-championship-wins-aew-all-out-developments-cody-rhodes-cm-punk-ilja-dragunov-aew-dynamite/",
+      "t": "14h",
+      "dt": "2026-09-18T20:00:37+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Dave Meltzer Says AEW Stars Have Legitimately Been Fined For Swearing On TV",
       "p": "Dave Meltzer has revealed that some AEW stars have legitimately been fined for some of their strong language.",
       "link": "https://www.wrestlinginc.com/2262750/dave-meltzer-aew-swearing-fined-tv-legitimate/",
-      "t": "10h",
+      "t": "15h",
       "dt": "2026-09-18T18:59:33+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "Jim Ross Doesn't Like WWE Counter-Programming AEW: 'Everybody Could Help Each Other'",
       "p": "Legendary commentator Jim Ross explains why he is not a fan of WWE's latest act of counter-programming AEW.",
       "link": "https://www.wrestlinginc.com/2262698/wwe-aew-jim-ross-doesnt-like-counter-programming-everybody-could-help-each-other/",
-      "t": "11h",
+      "t": "16h",
       "dt": "2026-09-18T18:34:39+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "New Level Says Approval Of AEW Entrance Music Came Down To The Wire",
       "p": "New Level's Austin Creed and Kofi describe how they retrieved clearance to use their theme song in the nick of time before their anticipated debut at AEW All In: London.",
       "link": "https://www.wrestlinginc.com/2262664/aew-new-level-austin-creed-kofi-approval-entrance-music-down-wire/",
-      "t": "11h",
+      "t": "16h",
       "dt": "2026-09-18T18:10:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Nyla Rose Calls Oklahoma State Athletic Commission 'Hateful Bigots'",
-      "p": "In 2024, the Oklahoma State Athletic Commission issued a warning to AEW because they alleged AEW violated a 2021 law by allowing Nyla Rose to compete.",
-      "link": "https://www.wrestlinginc.com/2262587/aew-nyla-rose-oklahoma-state-athletic-commission-hateful-bigots/",
-      "t": "12h",
-      "dt": "2026-09-18T17:37:31+00:00"
     }
   ]
 }

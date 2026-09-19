@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-18T21:39:01.668675+00:00",
+  "updated": "2026-09-19T00:17:44.803387+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -13,10 +13,18 @@
   "items": [
     {
       "src": "Fightful",
+      "h": "AEW Dynamite (9/16) Viewership Back Over 700,000 Viewers",
+      "p": "AEW Dynamite viewership and ratings information for the September 16 episode. Dave Meltzer of the Wrestling Observer reports that AEW Dynamite on September 16 drew 723,000 viewers on TBS. This...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-9-16-viewership-back-over-700000-viewers/",
+      "t": "30m",
+      "dt": "2026-09-18T23:46:45+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Tony Khan Insisted The Butcher And The Blade Remain On The Roster Page For AEW After They Became Free Agents",
       "p": "More on The Butcher and The Blade’s AEW exit. The Butcher and The Blade made their All Elite Wrestling debut in December 2019. Over the next few years, the duo would go on to wrestle numerous tag...",
       "link": "https://www.fightful.com/wrestling-news/tony-khan-insisted-the-butcher-and-the-blade-remain-on-the-roster-page-for-aew-after-they-became-free-agents/",
-      "t": "8m",
+      "t": "2h",
       "dt": "2026-09-18T21:30:40+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "NJPW announcer Walker Stewart updates details of his contractual status with NJPW, Stardom, and AEW",
       "p": "NJPW, Stardom, and AEW announcer Walker Stewart has revealed more details about his contractual status with NJPW, Stardom, and AEW. Walker had recently announced that he had signed an extension...",
       "link": "https://www.pwtorch.com/site/2026/09/18/njpw-announcer-walker-stewart-updates-details-of-his-contractual-status-with-njpw-stardom-and-aew/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-18T20:16:04+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "09/18 Dot Net Weekly audio show: Barnett and Powell on Sami Zayn and Stephanie Vaquer’s championship wins, AEW All Out developments, Cody Rhodes, CM Punk, Ilja Dragunov, AEW Dynamite",
       "p": "By Jake Barnett (@jakebarnett) and... The post 09/18 Dot Net Weekly audio show: Barnett and Powell on Sami Zayn and Stephanie Vaquer’s championship wins, AEW All Out developments, Cody Rhodes, CM...",
       "link": "https://prowrestling.net/site/2026/09/18/09-18-dot-net-weekly-audio-show-barnett-and-powell-on-sami-zayn-and-stephanie-vaquers-championship-wins-aew-all-out-developments-cody-rhodes-cm-punk-ilja-dragunov-aew-dynamite/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-18T20:00:37+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Dave Meltzer Says AEW Stars Have Legitimately Been Fined For Swearing On TV",
       "p": "Dave Meltzer has revealed that some AEW stars have legitimately been fined for some of their strong language.",
       "link": "https://www.wrestlinginc.com/2262750/dave-meltzer-aew-swearing-fined-tv-legitimate/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-18T18:59:33+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "Jim Ross Doesn't Like WWE Counter-Programming AEW: 'Everybody Could Help Each Other'",
       "p": "Legendary commentator Jim Ross explains why he is not a fan of WWE's latest act of counter-programming AEW.",
       "link": "https://www.wrestlinginc.com/2262698/wwe-aew-jim-ross-doesnt-like-counter-programming-everybody-could-help-each-other/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-09-18T18:34:39+00:00"
     },
     {
@@ -56,23 +64,15 @@
       "h": "New Level Says Approval Of AEW Entrance Music Came Down To The Wire",
       "p": "New Level's Austin Creed and Kofi describe how they retrieved clearance to use their theme song in the nick of time before their anticipated debut at AEW All In: London.",
       "link": "https://www.wrestlinginc.com/2262664/aew-new-level-austin-creed-kofi-approval-entrance-music-down-wire/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-18T18:10:21+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Malakai Black Says He Was Presented With A ‘Dud’ Year In WWE That Was Nothing Close To ‘Mountains’ Of Promises Made",
-      "p": "Malakai Black (Aleister Black in WWE) returned to the promotion after WrestleMania 41, coming off a run in AEW where he was a member of House of Black. During his year in WWE, Malakai feuded with...",
-      "link": "https://www.fightful.com/wrestling-news/malakai-black-says-he-was-presented-with-a-dud-year-in-wwe-that-was-nothing-close-to-mountains-of-promises-made/",
-      "t": "3h",
-      "dt": "2026-09-18T18:08:57+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Nyla Rose Calls Oklahoma State Athletic Commission 'Hateful Bigots'",
       "p": "In 2024, the Oklahoma State Athletic Commission issued a warning to AEW because they alleged AEW violated a 2021 law by allowing Nyla Rose to compete.",
       "link": "https://www.wrestlinginc.com/2262587/aew-nyla-rose-oklahoma-state-athletic-commission-hateful-bigots/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-09-18T17:37:31+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "AEW's Jim Ross Comments On Rebel's Battle With ALS Following Tribute Dynamite",
       "p": "Following the \"AEW Rebel Heart Dynamite\" special, Jim Ross implores everyone to send in donations for further ALS research.",
       "link": "https://www.wrestlinginc.com/2262562/aew-jim-ross-rebel-battle-als-tribute-dynamite/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-09-18T17:25:51+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "Ilja Dragunov Has Reportedly Signed With AEW, Will Debut 'Very Soon'",
       "p": "After weeks of rumors and speculation, a new report has claimed that Ilja Dragunov has indeed signed a contract with AEW.",
       "link": "https://www.wrestlinginc.com/2262513/aew-ilja-dragunov-signed-debut-very-soon/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-09-18T17:05:11+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "AEW “The House Always Wins” report: Vetter’s review of Darby Allin defending the TNT Title against a battle royale winner, Death Triangle and the Sydals vs. The Elite, Konosuke Takeshita, and Michael Nakazawa",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post AEW “The House Always Wins” report: Vetter’s review of Darby Allin defending the TNT Title against a battle royale winner, Death Triangle...",
       "link": "https://prowrestling.net/site/2026/09/18/aew-the-house-always-wins-report-vetters-review-of-darby-allin-defending-the-tnt-title-against-a-battle-royale-winner-death-triangle-and-the-sydals-vs-the-elite-konosuke-takeshita-and-micha/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-09-18T16:00:17+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Weekend TV Guide: CMLL presents colossal anniversary bash, MARIGOLD wraps up Dream Star GP & more!",
       "p": "A guide to this weekend's top professional wrestling events on TV & streaming, including shows from WWE, AEW, CMLL, NOAH & more. The post Weekend TV Guide: CMLL presents colossal anniversary bash,...",
       "link": "https://www.postwrestling.com/2026/09/18/weekend-tv-guide-cmll-presents-colossal-anniversary-bash-marigold-wraps-up-dream-star-gp-more/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-09-18T15:58:33+00:00"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-20T11:20:50.616815+00:00",
+  "updated": "2026-09-20T16:01:46.578115+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Andrade Set For AEW National Title Defense At All Out 2026",
+      "p": "AEW All Out 2026 just got bigger as Andrade El Idolo will defend his AEW National Championship against a man he knows very well.",
+      "link": "https://www.wrestlinginc.com/2263371/andrade-set-aew-national-title-defense-all-out-2026/",
+      "t": "32m",
+      "dt": "2026-09-20T15:29:08+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Rush Responds To Claims That He Is Injury Prone",
+      "p": "Rush has responded to claims that he is injury prone, noting that any assertion of that as a fact is false. Since signing with AEW in 2022, Rush has had various periods of time where he was off...",
+      "link": "https://www.fightful.com/wrestling-news/rush-responds-to-claims-that-he-is-injury-prone/",
+      "t": "54m",
+      "dt": "2026-09-20T15:07:23+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Speedball Mike Bailey: I Think Don Callis Is Running Some Kind Of Multi-Level Marketing Scheme",
+      "p": "Speedball Mike Bailey accuses Don Callis of running a marketing scheme with his Don Callis Family faction. Earlier this year, Kevin Knight would turn heel and would join the Don Callis Family,...",
+      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-i-think-don-callis-is-running-some-kind-of-multi-level-marketing-scheme/",
+      "t": "2h",
+      "dt": "2026-09-20T13:43:31+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Danhausen: Danhausen Wouldn’t Be A Wrestler Without CM Punk",
+      "p": "Danhausen credits CM Punk with being the reason that he was able to become a wrestler and take over the industry. Throughout his time in AEW and WWE, Danhausen has been connected to CM Punk, with...",
+      "link": "https://www.fightful.com/wrestling-news/danhausen-danhausen-wouldnt-be-a-wrestler-without-cm-punk/",
+      "t": "2h",
+      "dt": "2026-09-20T13:13:35+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Maria Kanellis Says AEW Extended Her Contract So She Could Recover From Surgery To Remove Tumor",
+      "p": "Maria Kanellis says that AEW extended her contract in late 2024 so she could recover from surgery to remove a tumor. In January of 2025, Maria would exit AEW after a run with the promotion that...",
+      "link": "https://www.fightful.com/wrestling-news/maria-kanellis-says-aew-extended-her-contract-so-she-could-recover-from-surgery-to-remove-tumor/",
+      "t": "3h",
+      "dt": "2026-09-20T12:52:43+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Kevin Knight Recalls 'Monotony' Of Katsuyori Shibata's Training At NJPW Dojo",
+      "p": "AEW star Kevin Knight recalls the \"monotony\" of training under his AEW co-worker Katsuyori Shibata years ago at the NJPW Dojo in Los Angeles",
+      "link": "https://www.wrestlinginc.com/2260223/aew-njpw-kevin-knight-katsuyori-shibata-monotony-training/",
+      "t": "3h",
+      "dt": "2026-09-20T12:30:00+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW All Out lineup: The latest card for Saturday’s pay-per-view event",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The latest card for Saturday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/20/aew-all-out-lineup-the-latest-card-for-saturdays-pay-per-view-event-2/",
-      "t": "20m",
+      "t": "5h",
       "dt": "2026-09-20T11:00:40+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Steph De Lander compares creative freedom in WWE, TNA & ROH",
       "p": "Are there really any creative freedom differences amongst WWE, ROH, and TNA? Steph De Lander has the answer to it. In a recent interview with TMZ Sports’ Inside The Ring, De Lander was asked what...",
       "link": "https://www.f4wonline.com/news/tna-wrestling/steph-de-lander-compares-creative-freedom-in-wwe-tna-roh/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-20T10:00:00+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "AEW COLLISION RESULTS (9/19): Moxley vs. Zachary Wentz, Darby vs. Myron Reed for the TNT title, Thekla vs. Zayda Steel, Andrade vs. Garcia for the National title",
       "p": "AEW COLLISION REPORT SEPTEMBER 19, 2026 CHARLESTON, W.VA. AT CHARLESTON COLISSEUM AIRED LIVE ON TNT & MAX BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Nigel McGuinnes, Paul Wight, Tony...",
       "link": "https://www.pwtorch.com/site/2026/09/19/aew-collision-results-9-19-moxley-vs-zachary-wentz-darby-vs-myron-reed-for-the-tnt-title-thekla-vs-zayda-steel-andrade-vs-garcia-for-the-national-title/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-09-20T04:16:49+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "AEW Collision results (9/19): Murphy’s review of Andrade El Idolo vs. Daniel Garcia for the AEW National Championship, Darby Allin vs. Myron Reed for the TNT Title",
       "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (9/19): Murphy’s review of Andrade El Idolo vs. Daniel Garcia for the AEW National Championship, Darby Allin vs. Myron...",
       "link": "https://prowrestling.net/site/2026/09/19/aew-collision-results-9-19-murphys-review-of-andrade-el-idolo-vs-daniel-garcia-for-the-aew-national-championship-darby-allin-vs-myron-reed-for-the-tnt-title/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-09-20T04:02:02+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Kevin Knight Explains Why Working In AEW Is A 'Dream Come True'",
       "p": "Kevin Knight has discussed what is surreal about being a part of AEW and why being part of Tony Khan's promotion is like a dream come true.",
       "link": "https://www.wrestlinginc.com/2259943/aew-kevin-knight-explains-working-dream-come-true/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-09-20T03:59:00+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "Andrade El Idolo to defend AEW National Title against PAC at All Out",
       "p": "Andrade El Idolo will defend the AEW National Championship against PAC at All Out next Saturday. The post Andrade El Idolo to defend AEW National Title against PAC at All Out appeared first on...",
       "link": "https://www.postwrestling.com/2026/09/19/andrade-el-idolo-to-defend-aew-national-title-against-pac-at-all-out/",
-      "t": "8h",
-      "dt": "2026-09-20T03:11:33+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "National title match added to AEW All Out card",
-      "p": "After some hints during a brawl on this past Wednesday’s AEW Dynamite, reigning National Champion Andrade El Idolo will defend against PAC at next Saturday’s All Out. Andrade successfully defended...",
-      "link": "https://www.f4wonline.com/news/aew/national-title-match-added-aew-all-out-2026/",
-      "t": "8h",
-      "dt": "2026-09-20T02:58:52+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Eight-man tag, Jack Perry vs. Shibata added to televised Tailgate Brawl leading into AEW All Out",
-      "p": "Two matches have been added to the one-hour Tailgate Brawl that will precede AEW All Out next Saturday. The post Eight-man tag, Jack Perry vs. Shibata added to televised Tailgate Brawl leading...",
-      "link": "https://www.postwrestling.com/2026/09/19/eight-man-tag-jack-perry-vs-shibata-added-to-televised-tailgate-brawl-leading-into-aew-all-out/",
-      "t": "8h",
-      "dt": "2026-09-20T02:42:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jack Perry match, eight-man tag team bout set for AEW All Out Tailgate Brawl",
-      "p": "Jack Perry will be in action on next Saturday’s AEW All Out, but it will not be against Samoa Joe as hinted on this past week’s AEW Dynamite. Announced during Saturday’s Collision, the former...",
-      "link": "https://www.f4wonline.com/news/aew/jack-perry-bang-bang-gang-dogs-aew-all-out-tailgate-brawl/",
-      "t": "8h",
-      "dt": "2026-09-20T02:31:03+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "More on WWE & AEW talent contracts coming due in the near future | Exclusive",
-      "p": "Some contracts are coming up in the next few months. It was reported earlier today that Dragon Lee and Dralistico’s contracts are expiring soon, and they have recently trademarked a possible new...",
-      "link": "https://www.f4wonline.com/news/wwe/more-on-wwe-aew-talent-contracts-coming-due-in-the-near-future-exclusive/",
-      "t": "11h",
-      "dt": "2026-09-19T23:53:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision live results: Andrade El Idolo & Darby Allin defend their titles",
-      "p": "Both the TNT and National titles will be on the line on tonight’s live AEW Collision from Charleston, West Virginia. Andrade El Idolo will defend the National title against Daniel Garcia one week...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-andrade-el-idolo-darby-allin-defend-their-titles/",
-      "t": "11h",
-      "dt": "2026-09-19T23:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Collision Results 9/19 - Two Titles On The Line, Thekla Vs. Zayda Steel",
-      "p": "\"AEW Collision\" will be live coast-to-coast. Andrade El Idolo will defend the National Championship and Darby Allin will defend the TNT Championship.",
-      "link": "https://www.wrestlinginc.com/2263276/aew-collision-september-19-2026-results/",
       "t": "12h",
-      "dt": "2026-09-19T22:58:52+00:00"
+      "dt": "2026-09-20T03:11:33+00:00"
     }
   ]
 }

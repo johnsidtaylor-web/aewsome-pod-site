@@ -1,30 +1,78 @@
 {
-  "updated": "2026-09-20T01:05:19.835032+00:00",
+  "updated": "2026-09-20T06:11:45.440680+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Bang Bang Gang Challenge Death Riders And The Dogs In 10-Man Tailgate Brawl At AEW Tailgate Brawl",
-      "p": "A challenge has been made by The Bang Bang Gang. On the 9/19 AEW Collision, The Bang Bang Gang (Juice Robinson, Austin Gunn, Colten Gunn, Ace Austin, and Jay White) challenged The Death Riders and...",
-      "link": "https://www.fightful.com/wrestling-news/bang-bang-gang-challenge-death-riders-and-the-dogs-in-10-man-tailgate-brawl-at-aew-tailgate-brawl/",
-      "t": "3m",
-      "dt": "2026-09-20T01:02:04+00:00"
+      "src": "PWTorch",
+      "h": "AEW COLLISION RESULTS (9/19): Moxley vs. Zachary Wentz, Darby vs. Myron Reed for the TNT title, Thekla vs. Zayda Steel, Andrade vs. Garcia for the National title",
+      "p": "AEW COLLISION REPORT SEPTEMBER 19, 2026 CHARLESTON, W.VA. AT CHARLESTON COLISSEUM AIRED LIVE ON TNT & MAX BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Nigel McGuinnes, Paul Wight, Tony...",
+      "link": "https://www.pwtorch.com/site/2026/09/19/aew-collision-results-9-19-moxley-vs-zachary-wentz-darby-vs-myron-reed-for-the-tnt-title-thekla-vs-zayda-steel-andrade-vs-garcia-for-the-national-title/",
+      "t": "1h",
+      "dt": "2026-09-20T04:16:49+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision results (9/19): Murphy’s review of Andrade El Idolo vs. Daniel Garcia for the AEW National Championship, Darby Allin vs. Myron Reed for the TNT Title",
+      "p": "By Don Murphy, ProWrestling.net Staffer... The post AEW Collision results (9/19): Murphy’s review of Andrade El Idolo vs. Daniel Garcia for the AEW National Championship, Darby Allin vs. Myron...",
+      "link": "https://prowrestling.net/site/2026/09/19/aew-collision-results-9-19-murphys-review-of-andrade-el-idolo-vs-daniel-garcia-for-the-aew-national-championship-darby-allin-vs-myron-reed-for-the-tnt-title/",
+      "t": "2h",
+      "dt": "2026-09-20T04:02:02+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kevin Knight Explains Why Working In AEW Is A 'Dream Come True'",
+      "p": "Kevin Knight has discussed what is surreal about being a part of AEW and why being part of Tony Khan's promotion is like a dream come true.",
+      "link": "https://www.wrestlinginc.com/2259943/aew-kevin-knight-explains-working-dream-come-true/",
+      "t": "2h",
+      "dt": "2026-09-20T03:59:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Andrade El Idolo to defend AEW National Title against PAC at All Out",
+      "p": "Andrade El Idolo will defend the AEW National Championship against PAC at All Out next Saturday. The post Andrade El Idolo to defend AEW National Title against PAC at All Out appeared first on...",
+      "link": "https://www.postwrestling.com/2026/09/19/andrade-el-idolo-to-defend-aew-national-title-against-pac-at-all-out/",
+      "t": "3h",
+      "dt": "2026-09-20T03:11:33+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "National title match added to AEW All Out card",
+      "p": "After some hints during a brawl on this past Wednesday’s AEW Dynamite, reigning National Champion Andrade El Idolo will defend against PAC at next Saturday’s All Out. Andrade successfully defended...",
+      "link": "https://www.f4wonline.com/news/aew/national-title-match-added-aew-all-out-2026/",
+      "t": "3h",
+      "dt": "2026-09-20T02:58:52+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Eight-man tag, Jack Perry vs. Shibata added to televised Tailgate Brawl leading into AEW All Out",
+      "p": "Two matches have been added to the one-hour Tailgate Brawl that will precede AEW All Out next Saturday. The post Eight-man tag, Jack Perry vs. Shibata added to televised Tailgate Brawl leading...",
+      "link": "https://www.postwrestling.com/2026/09/19/eight-man-tag-jack-perry-vs-shibata-added-to-televised-tailgate-brawl-leading-into-aew-all-out/",
+      "t": "3h",
+      "dt": "2026-09-20T02:42:24+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jack Perry match, eight-man tag team bout set for AEW All Out Tailgate Brawl",
+      "p": "Jack Perry will be in action on next Saturday’s AEW All Out, but it will not be against Samoa Joe as hinted on this past week’s AEW Dynamite. Announced during Saturday’s Collision, the former...",
+      "link": "https://www.f4wonline.com/news/aew/jack-perry-bang-bang-gang-dogs-aew-all-out-tailgate-brawl/",
+      "t": "3h",
+      "dt": "2026-09-20T02:31:03+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "More on WWE & AEW talent contracts coming due in the near future | Exclusive",
       "p": "Some contracts are coming up in the next few months. It was reported earlier today that Dragon Lee and Dralistico’s contracts are expiring soon, and they have recently trademarked a possible new...",
       "link": "https://www.f4wonline.com/news/wwe/more-on-wwe-aew-talent-contracts-coming-due-in-the-near-future-exclusive/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-19T23:53:07+00:00"
     },
     {
@@ -32,23 +80,15 @@
       "h": "AEW Collision live results: Andrade El Idolo & Darby Allin defend their titles",
       "p": "Both the TNT and National titles will be on the line on tonight’s live AEW Collision from Charleston, West Virginia. Andrade El Idolo will defend the National title against Daniel Garcia one week...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-andrade-el-idolo-darby-allin-defend-their-titles/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-19T23:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Results (9/19/2026): Andrade El Idolo vs. Daniel Garcia, THEKLA, Darby Allin, More",
-      "p": "Full results for the September 19, 2026, edition of AEW Collision from the Charleston Coliseum in Charleston, West Virginia. On September 19, 2026, All Elite Wrestling hosted the new episode of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-results-9-19-2026-andrade-el-idolo-vs-daniel-garcia-thekla-darby-allin-more/",
-      "t": "1h",
-      "dt": "2026-09-19T23:15:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW Collision Results 9/19 - Two Titles On The Line, Thekla Vs. Zayda Steel",
       "p": "\"AEW Collision\" will be live coast-to-coast. Andrade El Idolo will defend the National Championship and Darby Allin will defend the TNT Championship.",
       "link": "https://www.wrestlinginc.com/2263276/aew-collision-september-19-2026-results/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-09-19T22:58:52+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "Kevin Knight Talks AEW Vs. WWE Tribalism, Black Talent Supporting Each Other",
       "p": "Former TNT Champion Kevin Knight spoke about the tribalism between AEW and WWE fans, as well as Black talent supporting each other no matter the company.",
       "link": "https://www.wrestlinginc.com/2259553/kevin-knight-aew-wwe-tribalism-black-talent-supporting/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-19T20:00:00+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "WWE, AEW wrestlers nearing end of contracts, trademark potential team name | Exclusive",
       "p": "Dragon Lee and Dralistico are both nearing the end of their respective contracts. Lee first signed with WWE in 2022, while his brother Dralistico signed with AEW in November 2023. Our own Bryan...",
       "link": "https://www.f4wonline.com/news/wwe/wwe-aew-wrestlers-nearing-end-of-contracts-trademark-potential-team-name-exclusive/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-09-19T19:34:57+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kofi Puts A Smile On Kenny Jordan’s Face",
-      "p": "Kofi stays putting smiles on faces. Fans may not know Kenny Jordan, but he’s a wrestling fan who does a podcast with Mick Foley. He was backstage at a recent AEW event, dancing with Prince Nana,...",
-      "link": "https://www.fightful.com/wrestling-news/kofi-puts-a-smile-on-kenny-jordans-face/",
-      "t": "5h",
-      "dt": "2026-09-19T19:14:25+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Young Bucks Break Down Easter Eggs From 'Legacy' Gear Worn At All In 2026",
-      "p": "The Young Bucks' ring gear at AEW All In London 2026 was covered in easter eggs, and both Matt and Nick have revealed some of their favorites.",
-      "link": "https://www.wrestlinginc.com/2259118/aew-young-bucks-easter-eggs-legacy-gear-all-in-2026/",
-      "t": "6h",
-      "dt": "2026-09-19T18:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision ticket sales update ahead of tonight’s show (09-19-2026)",
-      "p": "AEW Collision takes place tonight from the Charleston Coliseum in Charleston, WV. According to the latest update from WrestleTix, 2,132 tickets have been distributed for the event thus far, which...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-sales-update-tonight-show-09-19-2026/",
-      "t": "6h",
-      "dt": "2026-09-19T18:08:28+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 9/19 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: The continued build for All Out, and how well will it do on PPV (84 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss the continued build for the sold out AEW All Out PPV. Despite...",
-      "link": "https://www.pwtorch.com/site/2026/09/19/free-podcast-9-19-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-the-continued-build-for-all-out-and-how-well-will-it-do-on-ppv-84-min/",
-      "t": "7h",
-      "dt": "2026-09-19T17:30:45+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Big Vinny V: Ranking AEW’s suddenly stacked trios division",
-      "p": "Since Swerve Strickland & the New Level won the AEW Trios Championships at All In, AEW’s trios division has exploded with potential challengers. Here’s a look at where the champions stand, along...",
-      "link": "https://www.f4wonline.com/opinion/big-vinny-v-ranking-aews-suddenly-stacked-trios-division/",
-      "t": "7h",
-      "dt": "2026-09-19T17:30:00+00:00"
     }
   ]
 }

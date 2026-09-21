@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-21T10:39:40.293505+00:00",
+  "updated": "2026-09-21T17:00:41.296974+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "PWTorch",
-      "h": "FREE PODCAST 9/20 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Did Cody & Brandi understand why fans were booing them? Punk addresses “Happy Punk” criticism, Omega vs. Danielson (158 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (9-22-2021), PWTorch editor Wade Keller is joined by PWTorch.com contributor Tyler Sage to...",
-      "link": "https://www.pwtorch.com/site/2026/09/20/free-podcast-9-20-wkpwp-aew-dynamite-post-show-5-yrs-ago-did-cody-brandi-understand-why-fans-were-booing-them-punk-addresses-happy-punk-criticism-omega-vs-danielson-158/",
-      "t": "6h",
-      "dt": "2026-09-21T04:00:24+00:00"
+      "h": "AEW COLLISION HITS & MISSES (9/19): Darby retains TNT Title against Myron, Andrade vs. Pac set for All Out, Thekla returns to the ring, Moxley in the main event",
+      "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HIT – DARBY ALLIN VS. MYRON REED This was fantastic. [...]",
+      "link": "https://www.pwtorch.com/site/2026/09/21/aew-collision-hits-misses-9-19-26-darby-retains-tnt-title-against-myron-andrade-vs-pac-set-for-all-out-thekla-returns-to-the-ring-moxley-in-the-main-event/",
+      "t": "11m",
+      "dt": "2026-09-21T16:49:11+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mara Sadé Listed As Now Being A Part Of AEW On Her Official Website",
+      "p": "Mara Sadé has seemingly spoiled an upcoming appearance in All Elite Wrestling with her new official website. Sadé has had a whirlwind year and change since being released by WWE, signing with TNA...",
+      "link": "https://www.fightful.com/wrestling-news/mara-sade-listed-as-now-being-a-part-of-aew-on-her-official-website/",
+      "t": "19m",
+      "dt": "2026-09-21T16:40:47+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "AEW Collision 9/19/26 Review | COLLISION COURSE",
-      "p": "Kate from Montreal & John Kleinchester deliver a Sunday review of this week’s AEW Collision, featuring National and TNT Championship matches. Plus, they chat All Out predictions, Dragon Lee &...",
-      "link": "https://www.postwrestling.com/2026/09/20/aew-collision-9-19-26-review-collision-course/",
-      "t": "7h",
-      "dt": "2026-09-21T03:13:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Rush says he’s ‘healthy and ready always’ amid AEW absence",
-      "p": "Rush is healthy despite being absent from AEW programming. On social media, Rush responded to speculation that he was injured again, reiterating that he has only been injured once during his AEW...",
-      "link": "https://www.f4wonline.com/news/aew/rush-says-hes-healthy-and-ready-always-amid-aew-absence/",
-      "t": "10h",
-      "dt": "2026-09-21T00:32:08+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "NWA Podcast: There’s Levels to This… | September 2026",
-      "p": "LIVE TONIGHT — The NWA Podcast discuss the arrival of The New Level in AEW. Plus, their All Out predictions and Nate's thoughts on attending Dynamite this past week in Norfolk. The post NWA...",
-      "link": "https://www.postwrestling.com/2026/09/20/nwa-podcast-theres-levels-to-this-september-2026/",
-      "t": "10h",
-      "dt": "2026-09-21T00:00:53+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: The sky is the limit for Myron Reed, but is AEW ready to give him the runway?",
-      "p": "It’s a new Sunday ad-free edition of Wrestling Observer Live with Josh Nason. In the leadoff spot is a discussion about Myron Reed who had a standout performance against Darby Allin on Saturday’s...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-sunday-myron-reed-club-wwe-worlds-collide-aew/",
-      "t": "13h",
-      "dt": "2026-09-20T21:00:00+00:00"
+      "h": "AEW announces return to Utah for November 11 Dynamite & Collision",
+      "p": "AEW's first trip to Utah in over two years will come in the form of a Dynamite and Collision double taping this November. The post AEW announces return to Utah for November 11 Dynamite & Collision...",
+      "link": "https://www.postwrestling.com/2026/09/21/aew-announces-return-to-utah-for-november-11-dynamite-collision/",
+      "t": "31m",
+      "dt": "2026-09-21T16:29:26+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Jim Ross Has Mixed Feelings On Sami Zayn Winning WWE World Title",
-      "p": "WWE Hall of Famer Jim Ross shares his mixed reaction to Sami Zayn winning the Undisputed WWE Championship for a second time.",
-      "link": "https://www.wrestlinginc.com/2263470/wwe-aew-jim-ross-sami-zayn-mixed-feelings-winning-world-title/",
-      "t": "13h",
-      "dt": "2026-09-20T20:58:53+00:00"
+      "h": "AEW's Kota Ibushi Says In-Ring Return 'Almost Impossible' Following Latest Surgery",
+      "p": "AEW star Kota Ibushi has had another surgery on his fractured femur, but an in-ring return looks less likely than ever for the \"Golden Star.\"",
+      "link": "https://www.wrestlinginc.com/2264201/aew-kota-ibushi-in-ring-return-almost-impossible-latest-surgery/",
+      "t": "36m",
+      "dt": "2026-09-21T16:23:48+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Garrett Borden (Son Of Sting) Wrestles First AEW Match",
+      "p": "This past weekend, Sting's son Garrett Borden wrestled a dark match in AEW, picking up his first win.",
+      "link": "https://www.wrestlinginc.com/2264192/aew-garrett-borden-sting-wrestles-first-match/",
+      "t": "39m",
+      "dt": "2026-09-21T16:21:27+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Rush Shuts Down Injury Speculation In The Midst Of AEW Absence",
+      "p": "After being absent from AEW television since July, Rush denies injury rumors as the reason he's been away from the ring.",
+      "link": "https://www.wrestlinginc.com/2264156/aew-rush-shuts-down-injury-speculation-absence/",
+      "t": "48m",
+      "dt": "2026-09-21T16:11:40+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "09/20 Pruett’s AEW Collision audio review: Andrade El Idolo vs. Daniel Garcia for the AEW National Championship, Darby Allin vs. Myron Reed for the TNT Title",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 09/20 Pruett’s AEW Collision audio review: Andrade El Idolo vs. Daniel Garcia for the AEW National Championship, Darby Allin vs. Myron Reed...",
-      "link": "https://prowrestling.net/site/2026/09/20/09-20-pruetts-aew-collision-audio-review-andrade-el-idolo-vs-daniel-garcia-for-the-aew-national-championship-darby-allin-vs-myron-reed-for-the-tnt-title/",
-      "t": "14h",
-      "dt": "2026-09-20T20:28:19+00:00"
+      "h": "Paramount settles antitrust lawsuit, set to finalize the acquisition of AEW media rights partner Warner Bros. Discovery",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Paramount settles antitrust lawsuit, set to finalize the acquisition of AEW media rights partner Warner Bros. Discovery appeared first on Pro...",
+      "link": "https://prowrestling.net/site/2026/09/21/paramount-settles-antitrust-lawsuit-set-to-finalize-the-acquisition-of-aew-media-rights-partner-warner-bros-discovery/",
+      "t": "58m",
+      "dt": "2026-09-21T16:01:45+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Motor City Machine Guns confirmed for Friday’s House of Glory show in Chicago",
+      "p": "AEW's Motor City Machine Guns will hit the indies for the first time since 2024 when they appear at House of Glory this Friday. The post Motor City Machine Guns confirmed for Friday’s House of...",
+      "link": "https://www.postwrestling.com/2026/09/21/motor-city-machine-guns-confirmed-for-fridays-house-of-glory-show-in-chicago/",
+      "t": "1h",
+      "dt": "2026-09-21T15:45:25+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Report: AEW Partner WBD Moves Closer To Merger As Paramount Settles With Opposition",
+      "p": "Paramount has reportedly reached a settlement in order to resume its acquisition of Warner Bros. Discovery.",
+      "link": "https://www.wrestlinginc.com/2264043/aew-wbd-paramount-moves-closer-merger-settles-opposition/",
+      "t": "1h",
+      "dt": "2026-09-21T15:36:31+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "‘Speedball’ Mike Bailey Speaks About Tony Khan’s Feedback, Says Khan Knows His Roster’s Strengths",
+      "p": "Mike Bailey states that Tony Khan knows what works and what doesn’t work for his talents. The latest guest to appear on the Battleground Podcast was ‘Speedball’ Mike Bailey. Bailey has been with...",
+      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-speaks-about-tony-khans-feedback-says-khan-knows-his-rosters-strengths/",
+      "t": "2h",
+      "dt": "2026-09-21T14:22:16+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Sting’s son Garrett Borden reportedly wrestles first AEW match",
-      "p": "Garrett Borden, the son of Sting and older brother of Steven Borden Jr., is believed to have wrestled his first AEW match on Saturday. Fan reports online state that Borden faced Kiran Grey in a...",
-      "link": "https://www.f4wonline.com/news/aew/stings-son-garrett-borden-reportedly-wrestles-first-aew-match/",
-      "t": "14h",
-      "dt": "2026-09-20T20:00:00+00:00"
+      "h": "Kota Ibushi gives post-surgery recovery update",
+      "p": "Kota Ibushi is determined to return to the ring after undergoing a successful surgery last week. The 44-year-old Ibushi broke his femur during an AEW match in October 2025 and, after the initial...",
+      "link": "https://www.f4wonline.com/news/aew/kota-ibushi-gives-post-surgery-recovery-update/",
+      "t": "3h",
+      "dt": "2026-09-21T13:25:44+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jim Ross Says He Was 'Embarrassed' To Be Booked In WWE TV Angles",
-      "p": "WWE Hall of Fame commentator, and current AEW voice, Jim Ross said he was \"embarrassed\" to be booked in various angles on WWE TV.",
-      "link": "https://www.wrestlinginc.com/2261540/aew-jim-ross-wwe-tv-angles-embarrassed/",
-      "t": "14h",
-      "dt": "2026-09-20T20:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Ex-WWE Star Malakai Black Pays Emotional Tribute To Late Andy 'The Butcher' Williams",
-      "p": "Former WWE and AEW star Malakai Black gets emotional while talking about his late friend Andy Williams, whom wrestling fans knew as The Butcher.",
-      "link": "https://www.wrestlinginc.com/2263459/wwe-malakai-black-andy-the-butcher-williams-emotional-tribute/",
-      "t": "14h",
-      "dt": "2026-09-20T19:53:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Latest on Britt Baker’s AEW status following Rebel Heart Dynamite",
-      "p": "Britt Baker is reportedly expected for several upcoming AEW TV appearances. Baker hasn’t wrestled for AEW following the Rebel Heart episode of Dynamite on September 9, where she returned to the...",
-      "link": "https://www.f4wonline.com/news/aew/latest-on-britt-bakers-aew-status-following-rebel-heart-dynamite/",
-      "t": "15h",
-      "dt": "2026-09-20T19:03:39+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Former WWE & AEW Star Jake Hager Undergoes Emergency Eye Surgery Following Power Slap",
-      "p": "After being on the receiving end of a frightful slap this past Thursday at Power Slap 23, new information has been released on Jake Hager's injury status.",
-      "link": "https://www.wrestlinginc.com/2263443/wwe-aew-jake-hager-emergency-eye-surgery-power-slap/",
-      "t": "16h",
-      "dt": "2026-09-20T18:10:08+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite/Collision preview: AEW Trios Title match set for Wednesday’s three-hour block",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: AEW Trios Title match set for Wednesday’s three-hour block appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/21/aew-dynamite-collision-preview-aew-trios-title-match-set-for-wednesdays-three-hour-block/",
+      "t": "3h",
+      "dt": "2026-09-21T13:15:59+00:00"
     }
   ]
 }

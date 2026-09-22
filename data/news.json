@@ -1,22 +1,46 @@
 {
-  "updated": "2026-09-22T09:54:27.479175+00:00",
+  "updated": "2026-09-22T14:49:39.653075+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Vaughn Vertigo Talks Killswitch Spot In AEW, Reveals How He Was Picked For It",
+      "p": "Vaughn Vertigo loves working for AEW. As his footprint on the indie scene has grown, Vertigo has started doing more extra work for big promotions like AEW and ROH. This has allowed him to share a...",
+      "link": "https://www.fightful.com/wrestling-news/vaughn-vertigo-talks-killswitch-spot-in-aew-reveals-how-he-was-picked-for-it/",
+      "t": "19m",
+      "dt": "2026-09-22T14:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Thekla Says She Will ‘Be For The Children’ Instead Of Willow Nightingale Once She Wins Back The AEW Women’s World Title",
+      "p": "Thekla sends a message to Willow Nightingale following her victory over Zayda Steel on Saturday’s edition of AEW Collision. At AEW All Out later this week, Willow Nightingale and Thekla will meet...",
+      "link": "https://www.fightful.com/wrestling-news/thekla-says-she-will-be-for-the-children-instead-of-willow-nightingale-once-she-wins-back-the-aew-womens-world-title/",
+      "t": "2h",
+      "dt": "2026-09-22T12:27:20+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jim Ross questions WWE’s motivation for running against AEW All Out",
+      "p": "AEW commentator and WWE Hall of Famer Jim Ross recently discussed the head-to-head running of AEW All Out and WWE World’s Collide this weekend. Speaking on his Grilling JR podcast, Ross explain...",
+      "link": "https://www.f4wonline.com/news/aew/jim-ross-wwe-worlds-collide-aew-all-out-2026/",
+      "t": "3h",
+      "dt": "2026-09-22T11:15:55+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite ticket sales update for this week’s show (09-22-2026)",
       "p": "AEW Dynamite takes place this week from the Fishers Event Center in Fishers, IN. According to the latest update from WrestleTix, 2,630 tickets have been distributed for the show thus far, which is...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-this-week-09-22-2026/",
-      "t": "24m",
+      "t": "5h",
       "dt": "2026-09-22T09:29:57+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Mike Bailey explains how Tony Khan has shown his faith in him in AEW",
       "p": "“Speedball” Mike Bailey has opened up about how AEW boss Tony Khan showed his faith in him after signing him in 2025. After finishing up with TNA Wrestling in 2024, Bailey signed up and became All...",
       "link": "https://www.f4wonline.com/news/aew/mike-bailey-explains-how-tony-khan-has-shown-his-faith-in-him-in-aew/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-09-22T06:30:00+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "AEW’s Tomasso Ciampa announced for House of Glory show",
       "p": "The Psycho Killer is coming to the Big Apple. This is the synopsis of Friday the 13th Part VIII: Jason Takes Manhattan. It is also a news story in the world of wrestling. House of Glory announced...",
       "link": "https://www.f4wonline.com/news/aew/aews-tomasso-ciampa-announced-for-house-of-glory-show/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-09-22T01:30:52+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Trailer released for documentary on AEW’s Jon Moxley",
       "p": "Jon Moxley broke out on the national scene as Dean Ambrose in WWE in 2012, but he had already been wrestling for nearly a decade by that point. Now, the story of early portion of his career is...",
       "link": "https://www.f4wonline.com/news/aew/trailer-released-for-documentary-on-aews-jon-moxley/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-09-22T01:17:12+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "Former AEW Women's World Champion Admits It's Frustrating Not Getting TV Time",
       "p": "TV time for pro wrestlers is often dictated by creative and the amount of time allotted on any given show. Sometimes even former champions don't make the cut.",
       "link": "https://www.wrestlinginc.com/2262671/aew-womens-world-champion-nyla-rose-frustrating-tv-time/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-09-22T01:00:00+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Additional Details On Mara Sadè Reportedly Signing With AEW",
       "p": "A report has shed some light on Mara Sade signing with AEW after it was inadvertently spoiled previously.",
       "link": "https://www.wrestlinginc.com/2264741/aew-mara-sade-additional-details-signing/",
-      "t": "12h",
+      "t": "17h",
       "dt": "2026-09-21T21:17:59+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "Report: Mara Sadé inks deal with AEW",
       "p": "Former NXT and TNA name Mara Sadé has reportedly signed a full-time, salaried deal with AEW. The post Report: Mara Sadé inks deal with AEW appeared first on POST Wrestling | Podcasts, News,...",
       "link": "https://www.postwrestling.com/2026/09/21/report-mara-sade-inks-deal-with-aew/",
-      "t": "13h",
+      "t": "18h",
       "dt": "2026-09-21T20:28:43+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW's Jim Ross Offers Update On Latest Health Struggles",
       "p": "WWE Hall of Fame commentator, and current AEW voice, Jim Ross offered an update on his latest health struggles on an episode of \"Grilling JR.\"",
       "link": "https://www.wrestlinginc.com/2264569/aew-jim-ross-update-latest-health-struggles/",
-      "t": "14h",
+      "t": "19h",
       "dt": "2026-09-21T19:32:59+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "AEW tag team announced for House of Glory event",
       "p": "Motor City Machine Guns will be in action outside of AEW this Friday night. Indie promotion House of Glory has announced that Alex Shelley & Chris Sabin will be competing at their September 25...",
       "link": "https://www.f4wonline.com/news/aew/aew-tag-team-announced-for-house-of-glory-event/",
-      "t": "14h",
+      "t": "19h",
       "dt": "2026-09-21T19:22:57+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "Kota Ibushi updates injury status",
-      "p": "AEW wrestler Kota Ibushi has posted a video on his Instagram updating his injury status. Ibushi broke his femur during a match against Josh Alexander in October 2025. Since having surgery, he has...",
-      "link": "https://www.pwtorch.com/site/2026/09/21/kota-ibushi-updates-injury-status/",
-      "t": "14h",
-      "dt": "2026-09-21T19:12:11+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "CZW Promoter Releasing Jon Moxley Documentary In October",
-      "p": "A Jon Moxley documentary produced by CZW's Promoters will be released in October.",
-      "link": "https://www.wrestlinginc.com/2264495/czw-promoter-releasing-jon-moxley-documentary-october/",
-      "t": "15h",
-      "dt": "2026-09-21T18:43:20+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Jonathan Gresham announces new ‘Modern Age Grappling’ promotion Round 1",
-      "p": "Former ROH talent Jonathan Gresham says a \"Modern Age Grappling\" style will be showcased in the new promotion. The post Jonathan Gresham announces new ‘Modern Age Grappling’ promotion Round 1...",
-      "link": "https://www.postwrestling.com/2026/09/21/jonathan-gresham-announces-new-modern-age-grappling-promotion-round-1/",
-      "t": "15h",
-      "dt": "2026-09-21T18:28:50+00:00"
     }
   ]
 }

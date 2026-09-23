@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-23T20:18:33.291785+00:00",
+  "updated": "2026-09-23T23:39:22.564893+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite and Collision results (9/23): Powell’s live review of the All Out go-home block with Swerve Strickland, Kofi, and Austin Creed vs. The Demand for the AEW Trios Titles",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite and Collision results (9/23): Powell’s live review of the All Out go-home block with Swerve Strickland, Kofi, and Austin Creed vs....",
+      "link": "https://prowrestling.net/site/2026/09/23/aew-dynamite-and-collision-results-9-23-powells-live-review-of-the-all-out-go-home-block-with-swerve-strickland-kofi-and-austin-creed-vs-the-demand-for-the-aew-trios-titles/",
+      "t": "9m",
+      "dt": "2026-09-23T23:30:21+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Results (9/23/2026): Persephone vs. Hyan, Swerve & New Level vs. Demand, Will Ospreay, More",
+      "p": "Full results for the September 23, 2026, edition of AEW Dynamite on TBS, live from Fisher’s Event Center in Indianapolis, Indiana. On September 23, 2026, All Elite Wrestling hosted a new episode...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-9-23-2026-persephone-vs-hyan-swerve-new-level-vs-demand-will-ospreay-more/",
+      "t": "24m",
+      "dt": "2026-09-23T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite live results: World Trios title match, Will Ospreay in action",
+      "p": "AEW Dynamite is live from the Fishers Event Center in Fishers, Indiana. Tonight’s show will be a three-hour block of Dynamite and Collision. The AEW World Trios Championships will be on the line...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-live-results-world-trios-title-match-will-ospreay-in-action/",
+      "t": "24m",
+      "dt": "2026-09-23T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite And Collision Results 9/23 - World Trios Championship On The Line & More",
+      "p": "This is Wrestling Inc.'s coverage for \"Dynamite\" and \"Collision\" on September 23, with Swerve Strickland & New Level defending their World Trios Championship!",
+      "link": "https://www.wrestlinginc.com/2266091/aew-dynamite-collision-september-23-world-trios-championship-on-line-more/",
+      "t": "39m",
+      "dt": "2026-09-23T23:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan Talks Upcoming Paramount Skydance-WBD Merger, Praises David Ellison",
+      "p": "AEW President Tony Khan took to his pre-\"AEW Dynamite\" live stream to speak on the upcoming Paramount Skydance-WBD merger and what it means for AEW.",
+      "link": "https://www.wrestlinginc.com/2267131/aew-tony-khan-paramount-skydance-wbd-merger-david-ellison/",
+      "t": "1h",
+      "dt": "2026-09-23T22:13:49+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan comments on Paramount-WBD merger, WBD reps attending AEW Dynamite",
+      "p": "Tony Khan commented on the Warner Bros.-Paramount merger ahead of tonight’s AEW Dynamite. In a video posted to social media just hours before Dynamite, Khan said representatives from Warner Bros....",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-comments-on-paramount-wbd-merger-wbd-reps-attending-aew-dynamite/",
+      "t": "2h",
+      "dt": "2026-09-23T21:27:06+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Report: The Acclaimed’s AEW contracts to come due at start of October",
+      "p": "Max Caster and Anthony Bowens' current AEW deals are set to conclude at the start of October, per Fightful Select. The post Report: The Acclaimed’s AEW contracts to come due at start of October...",
+      "link": "https://www.postwrestling.com/2026/09/23/report-the-acclaimeds-aew-contracts-to-come-due-at-start-of-october/",
+      "t": "2h",
+      "dt": "2026-09-23T21:23:38+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Says WBD Officials Are Attending AEW Dynamite, Reiterates Excitement For WBD-Paramount Merger",
+      "p": "Tony Khan remains excited for the WBD-Paramount merger. Since reports of Paramount purchasing WBD emerged earlier in the year, Tony Khan has expressed his excitement about the possibilities. Khan...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-wbd-officials-are-attending-aew-dynamite-reiterates-excitement-for-wbd-paramount-merger/",
+      "t": "2h",
+      "dt": "2026-09-23T21:18:52+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Anthony Bowens Provides One-Word Answer On Whether The Acclaimed Will Reunite",
+      "p": "AEW's Anthony Bowens had a simple, one-word answer as to whether or not The Acclaimed will ever reunite in a response to a fan on X.",
+      "link": "https://www.wrestlinginc.com/2267050/aew-anthony-bowens-acclaimed-reunite-max-caster-no/",
+      "t": "2h",
+      "dt": "2026-09-23T20:53:23+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Backstage Update On AEW Contract Status Of Max Caster & Anthony Bowens",
       "p": "It appears the former members of AEW's Acclaimed are approaching the end of their contracts, with a new update shedding light on expectations for the duo.",
       "link": "https://www.wrestlinginc.com/2266968/aew-contract-status-max-caster-anthony-bowens-october/",
-      "t": "27m",
+      "t": "3h",
       "dt": "2026-09-23T19:51:19+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kevin Knight Says Will Ospreay & Gabe Kidd Have The Worst Music Taste In AEW",
-      "p": "Kevin Knight politely disses Will Ospreay and Gabe Kidd. During a recent interview with Hot 100.9, Kevin Knight was asked to name the person in AEW that has the worst taste in music. Simply...",
-      "link": "https://www.fightful.com/wrestling-news/kevin-knight-says-will-ospreay-gabe-kidd-have-the-worst-music-taste-in-aew/",
-      "t": "43m",
-      "dt": "2026-09-23T19:34:38+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kevin Knight: Swerve Strickland And Lio Rush Were My Two Biggest Inspirations When I Got Into The Business",
-      "p": "Kevin Knight wanted to create what he wanted to see in wrestling. In a new interview with Hot 100.9, Knight detailed the main goal that inspired him to pursue wrestling as a career. “I feel like I...",
-      "link": "https://www.fightful.com/wrestling-news/kevin-knight-swerve-strickland-and-lio-rush-were-my-two-biggest-inspirations-when-i-got-into-the-business/",
-      "t": "59m",
-      "dt": "2026-09-23T19:18:48+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Orange Cassidy Says He Can Rely On Roderick Strong And Kyle O’Reilly In A Different Way Compared To His Other Friends",
-      "p": "Orange Cassidy on his bond with Kyle O’Reilly and Roderick Strong. Cassidy has been friends with a ton of people throughout his time in AEW. Aside from O’Reilly and Strong, he’s currently aligned...",
-      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-says-he-can-rely-on-roderick-strong-and-kyle-oreilly-in-a-different-way-compared-to-his-other-friends/",
-      "t": "1h",
-      "dt": "2026-09-23T19:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Update on The Acclaimed’s AEW contract status",
       "p": "An update is available regarding the AEW status of The Acclaimed. The AEW contracts for both Max Caster and Anthony Bowens are believed to expire at the start of October. Fightful Select reported...",
       "link": "https://www.f4wonline.com/news/aew/update-on-the-acclaimeds-aew-contract-status/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-23T18:51:39+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Contract Update On Anthony Bowens And Max Caster",
-      "p": "New details on the AEW future of Max Caster and Anthony Bowens. Fightful Select reports, “We recently reported that the Acclaimed AEW contracts are set to expire at the start of October. In...",
-      "link": "https://www.fightful.com/wrestling-news/contract-update-on-anthony-bowens-and-max-caster/",
-      "t": "1h",
-      "dt": "2026-09-23T18:48:26+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW All Out 2026: Draws & Duds",
       "p": "From Will Ospreay's first title defense to the son of Sting's PPV debut, here are WINC's biggest draws and biggest duds for AEW All Out 2026!",
       "link": "https://www.wrestlinginc.com/2266822/aew-all-out-2026-draws-duds-will-ospreay-jon-moxley-steven-borden/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-09-23T18:25:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Bishop Kaun Explains Why He Wants To Be In The AEW Continental Classic: Let Me Go Swim With The Sharks And See How I Can Keep Up",
-      "p": "Bishop Kaun discusses potentially having a run in the AEW Continental Classic, noting that he wants to swim with the sharks. While Kaun is currently in the midst of a run in the trios division...",
-      "link": "https://www.fightful.com/wrestling-news/bishop-kaun-explains-why-he-wants-to-be-in-the-aew-continental-classic-let-me-go-swim-with-the-sharks-and-see-how-i-can-keep-up/",
-      "t": "2h",
-      "dt": "2026-09-23T17:32:46+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Zayda Steel Recalls Being A 'Guinea Pig' For WWE ID Program",
-      "p": "AEW star Zayda Steel was the first person announced as part of the WWE ID program in 2024.",
-      "link": "https://www.wrestlinginc.com/2266722/wwe-id-aew-zayda-steel-guinea-pig/",
-      "t": "2h",
-      "dt": "2026-09-23T17:32:11+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: Kline’s case for who in AEW is on the rise and who are floundering including Darby and Bang Bang Gang",
-      "p": "Welcome everyone! It’s PPV week! While I am excited for the show I do miss when AEW ran less PPV’s. All Out feels like a quick turn around but it’s nothing close to the quick [...]",
-      "link": "https://www.pwtorch.com/site/2026/09/23/aew-rising-and-fading-stars-klines-case-for-who-in-aew-is-on-the-rise-and-who-are-floundering-including-darby-and-bang-bang-gang/",
-      "t": "2h",
-      "dt": "2026-09-23T17:19:32+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star MJF appears in ‘Stranglehold’ trailer",
-      "p": "The trailer for “Stranglehold” provides a quick look at AEW star MJF in his next movie role. MJF is part of the supporting cast for the crime comedy, which is directed by Clark Duke and stars...",
-      "link": "https://www.f4wonline.com/news/aew/aew-star-mjf-appears-in-stranglehold-trailer/",
-      "t": "2h",
-      "dt": "2026-09-23T17:19:11+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Bishop Kaun Calls The New Level ‘Two Future Hall Of Famers’",
-      "p": "Bishop Kaun discusses The New Level ahead of The Demand’s Trios Championship opportunity on this week’s AEW Dynamite. On tonight’s edition of AEW Dynamite, The Demand will challenge The New Level...",
-      "link": "https://www.fightful.com/wrestling-news/bishop-kaun-calls-the-new-level-two-future-hall-of-famers/",
-      "t": "3h",
-      "dt": "2026-09-23T17:05:18+00:00"
     }
   ]
 }

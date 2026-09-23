@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-23T11:29:31.919800+00:00",
+  "updated": "2026-09-23T16:53:22.794400+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,100 +12,100 @@
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "AEW All Out 2026 Match Card",
-      "p": "AEW All Out 2026 will be taking place on Saturday, September 26 from the NOW Arena in Hoffman Estates, IL and the full card appears to now be confirmed for the show (barring any last minute...",
-      "link": "https://www.f4wonline.com/event-guides/aew-all-out-2026-match-card/",
-      "t": "13m",
-      "dt": "2026-09-23T11:15:42+00:00"
+      "src": "ProWrestling.net",
+      "h": "AEW All Out lineup: The current card for Saturday’s pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The current card for Saturday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/23/aew-all-out-lineup-the-current-card-for-saturdays-pay-per-view-event/",
+      "t": "43m",
+      "dt": "2026-09-23T16:10:13+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Bryan Keith Reflects On Teaming With Big Cass In AEW: “Being Around Him Made Me Constantly Wanna Be Better”",
-      "p": "Bryan Keith looks back on his time with the former Big Bill. For two years in All Elite Wrestling, Bryan Keith and Big Bill were paired together. For a portion of that time, they were known as...",
-      "link": "https://www.fightful.com/wrestling-news/bryan-keith-reflects-on-teaming-with-big-cass-in-aew-being-around-him-made-me-constantly-wanna-be-better/",
-      "t": "29m",
-      "dt": "2026-09-23T11:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ticket sales update for tonight’s show (09-23-2026)",
-      "p": "AEW Dynamite takes place tonight from the Fishers Event Center in Fishers, IN. According to the latest update from WrestleTix, 2,683 tickets have been distributed for the show thus far, which is...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-tonight-show-09-23-2026/",
-      "t": "35m",
-      "dt": "2026-09-23T10:53:56+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Nyla Rose reveals scrapped AEW plans for Vickie Guerrero street fight",
-      "p": "Nyla Rose was once supposed to be in a street fight with Vickie Guerrero in AEW; however, the plans for it were later scrapped. While still a part of the AEW roster, Nyla Rose was once an active...",
-      "link": "https://www.f4wonline.com/news/aew/nyla-rose-reveals-scrapped-aew-plans-for-vickie-guerrero-street-fight/",
-      "t": "2h",
-      "dt": "2026-09-23T08:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (09-23-2026)",
-      "p": "AEW Dynamite takes place tonight from the Fishers Event Center in Fishers, IN, with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. Tonight’s show is a three-hour block with Collision,...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-09-23-2026/",
-      "t": "3h",
-      "dt": "2026-09-23T07:43:10+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (09-23-2026)",
-      "p": "AEW Dynamite takes place tonight from the Fishers Event Center in Fishers, IN, and there are a number of matches and segments already confirmed for the broadcast. Tonight’s show is a three-hour...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-09-23-2026/",
-      "t": "3h",
-      "dt": "2026-09-23T07:33:32+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Thekla explains why she sometimes shuts down fans at airports",
-      "p": "AEW star Thekla recently explained that she can be really harsh when stopped at airports by fans. Recently appearing and speaking on TMZ’s Inside The Ring, Thekla opened up about her approach to...",
-      "link": "https://www.f4wonline.com/news/aew/thekla-explains-why-she-sometimes-shuts-down-fans-at-airports/",
-      "t": "3h",
-      "dt": "2026-09-23T07:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Brawling Birds To Go Face-To-Face With Divine Dominion, Jon Moxley vs. Dezmond Xavier Added To 9/23 AEW Dynamite/Collision",
-      "p": "The Brawling Birds to standoff with Divine Dominion. One of the matches on the card for the 2026 installment of All Elite Wrestling’s All Out pay-per-view is a Chicago Street Fight for the AEW...",
-      "link": "https://www.fightful.com/wrestling-news/brawling-birds-to-go-face-to-face-with-divine-dominion-on-9-23-aew-dynamite-collision/",
-      "t": "7h",
-      "dt": "2026-09-23T04:18:34+00:00"
+      "h": "MJF, Kayla Becker And David Arquette Feature In First Trailer For ‘Stranglehold’",
+      "p": "MJF, along with Kayla Becker and former WCW World Champion David Arquette feature in the first trailer for ‘Stranglehold.’ While MJF is well known in the wrestling world already thanks to his run...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-kayla-becker-and-david-arquette-feature-in-first-trailer-for-stranglehold/",
+      "t": "1h",
+      "dt": "2026-09-23T15:31:06+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "VIP PODCAST 9/22 – Everything with Rich & Wade: Janel Grant interview, 946 kidnapping storyline, LA Knight and Penta popularity, AEW All Out preview, more (85 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Janel Grant’s interview with Post Wrestling The problem with the 946...",
-      "link": "https://www.pwtorch.com/site/2026/09/22/vip-podcast-9-22-everything-with-rich-wade-janel-grant-interview-946-kidnapping-storyline-la-knight-and-penta-popularity-aew-all-out-preview-more-85-min/",
-      "t": "7h",
-      "dt": "2026-09-23T04:17:40+00:00"
+      "h": "AEW DYNAMITE PREVIEW (9/23): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, SEPTEMBER 23, 2026 Where: INDIANAPOLIS, IND. AT FISHERS EVENT CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,715 tickets had...",
+      "link": "https://www.pwtorch.com/site/2026/09/23/aew-dynamite-preview-9-23-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "1h",
+      "dt": "2026-09-23T15:23:25+00:00"
     },
     {
       "src": "Fightful",
-      "h": "The Hardys To Call Out Mystery Attackers On 9/24 TNA iMPACT",
-      "p": "The mystery attackers have been called out. For several months, there have been mystery attacks happening in TNA Wrestling. Talents such as Leon Slater, Moose, Elijah, Jeff Hardy, Cedric...",
-      "link": "https://www.fightful.com/wrestling-news/the-hardys-to-call-out-mystery-attackers-on-9-24-tna-impact/",
-      "t": "8h",
-      "dt": "2026-09-23T03:13:03+00:00"
+      "h": "Vaughn Vertigo Recalls ‘Sign Vaughn Vertigo’ Sign At AEW All Out 2025, ‘I Didn’t Pay Them’",
+      "p": "Vaughn Vertigo was a topic of conversation during All Out in 2025, with fans pointing out a ‘Sign Vaughn Vertigo’ sign in the crowd. In a new interview with Fightful Overbooked’s Joel Pearl,...",
+      "link": "https://www.fightful.com/wrestling-news/vaughn-vertigo-recalls-sign-vaughn-vertigo-sign-at-aew-all-out-2025-i-didnt-pay-them/",
+      "t": "1h",
+      "dt": "2026-09-23T15:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star reveals freak gym accident that forced change in appearance",
+      "p": "AEW star Juice Robinson got rid of his signature beard but it was not for fashion reasons. On What Happened When with Tony Schiavone Robinson recalled a gym accident when a lat pulldown cable...",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-reveals-freak-gym-accident-that-forced-change-in-appearance/",
+      "t": "2h",
+      "dt": "2026-09-23T14:04:31+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite/Collision preview: AEW Trios Title match set for tonight’s three-hour block",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: AEW Trios Title match set for tonight’s three-hour block appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/23/aew-dynamite-collision-preview-aew-trios-title-match-set-for-tonights-three-hour-block/",
+      "t": "2h",
+      "dt": "2026-09-23T14:00:49+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jim Ross believes Death Riders member could be a “main event level” talent",
+      "p": "AEW commentator and WWE Hall of Famer Jim Ross recently discussed The Death Riders on his Grilling JR podcast, saying that at least one member of the group could move into a main event-level...",
+      "link": "https://www.f4wonline.com/news/aew/jim-ross-death-riders-pac-aew-main-event/",
+      "t": "3h",
+      "dt": "2026-09-23T13:39:58+00:00"
     },
     {
       "src": "Fightful",
-      "h": "TBS Title Bout, Will Ospreay Match Added To 9/23 AEW Dynamite/Collision",
-      "p": "New bouts have been added to Wednesday’s AEW Dynamite and Collision. Tony Khan announced that Persephone will defend her TBS Title against Hyan on the September 23 episode of Dynamite and...",
-      "link": "https://www.fightful.com/wrestling-news/tbs-title-bout-will-ospreay-match-added-to-9-23-aew-dynamite-collision/",
-      "t": "9h",
-      "dt": "2026-09-23T02:16:55+00:00"
+      "h": "Stu Grayson ‘Super Grateful’ For His Time In AEW",
+      "p": "A look back at Stu Grayson’s time in AEW. Stu Grayson and Evil Uno arrived at All Elite Wrestling at the first-ever Double or Nothing pay-per-view in 2019. Grayson was with the company full-time...",
+      "link": "https://www.fightful.com/wrestling-news/stu-grayson-super-grateful-for-his-time-in-aew/",
+      "t": "3h",
+      "dt": "2026-09-23T13:30:00+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Kevin Knight Cites WWE HOFers & NFL Players As Inspiration For His Character",
-      "p": "Former AEW TNT and World Trios Champion Kevin Knight reveals which pro wrestlers and NFL stars helped shape his in-ring character.",
-      "link": "https://www.wrestlinginc.com/2262867/aew-wwe-nfl-kevin-knight-mr-perfect-rock-jeff-hardy-deion-sanders-cam-newton/",
-      "t": "10h",
-      "dt": "2026-09-23T01:00:00+00:00"
+      "h": "Update On Kip Sabian & Penelope Ford's AEW Futures",
+      "p": "A new update has revealed the futures of Kip Sabian and Penelope Ford in AEW, following recent suggestions that their contracts could expire later this year.",
+      "link": "https://www.wrestlinginc.com/2266165/update-kip-sabian-penelope-ford-aew-futures/",
+      "t": "3h",
+      "dt": "2026-09-23T13:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Thunder Rosa Says Looks With ‘Really Big Head Pieces’ Are Her Favorites From Her Career",
+      "p": "Thunder Rosa discusses her favorite look that she has had throughout her wrestling career, pointing to her ‘really big head pieces.’ Rosa is one of the most unique talents in AEW when it comes to...",
+      "link": "https://www.fightful.com/wrestling-news/thunder-rosa-says-looks-with-really-big-head-pieces-are-her-favorites-from-her-career/",
+      "t": "3h",
+      "dt": "2026-09-23T13:29:39+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Thunder Rosa: I Think The Characters In AEW Are Completely Edgy In Comparison To Other Places",
+      "p": "Thunder Rosa speaks about the characters in AEW and the difference between them and characters in other wrestling companies. All Elite Wrestling has been a company that has produced content with a...",
+      "link": "https://www.fightful.com/wrestling-news/thunder-rosa-i-think-the-characters-in-aew-are-completely-edgy-in-comparison-to-other-places/",
+      "t": "3h",
+      "dt": "2026-09-23T13:06:18+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite and Collision in Indianapolis, WWE Evolve, last week’s Dynamite and Collision grades, Matt Hardy, Romeo Roselli, Anthony Thomas, Kairi Sane, Stanislaus Zbyszko",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite and Collision in Indianapolis, WWE Evolve, last week’s Dynamite and Collision grades, Matt Hardy, Romeo Roselli, Anthony Thomas,...",
+      "link": "https://prowrestling.net/site/2026/09/23/aew-dynamite-and-collision-in-indianapolis-wwe-evolve-last-weeks-dynamite-and-collision-grades-matt-hardy-romeo-roselli-anthony-thomas-kairi-sane-stanislaus-zbyszko/",
+      "t": "4h",
+      "dt": "2026-09-23T12:00:43+00:00"
     }
   ]
 }

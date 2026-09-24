@@ -1,30 +1,78 @@
 {
-  "updated": "2026-09-24T04:44:38.723987+00:00",
+  "updated": "2026-09-24T09:57:07.229316+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
-    "PWInsider": "FAILED (<urlopen error _ssl.c:993: The handshake operation timed out>)",
+    "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "WOR: Janel Grant interview recap, Dynamite and Collision, tons of news",
+      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including Santo’s 109th birthday, Tony Khan happy about the Paramount news, notes from the Janel Grant...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-janel-grant-interview-recap-dynamite-and-collision-tons-of-news/",
+      "t": "1h",
+      "dt": "2026-09-24T08:19:02+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Thunder Rosa reflects on helping change the trajectory of AEW’s women’s division",
+      "p": "A former AEW Women’s World Champion, Thunder Rosa recently opened up about how she helped change the trajectory of the division. Speaking to Zach Johnson, Rosa reflected on how her Lights Out...",
+      "link": "https://www.f4wonline.com/news/aew/thunder-rosa-reflects-on-helping-change-the-trajectory-of-aews-womens-division/",
+      "t": "1h",
+      "dt": "2026-09-24T08:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 9/23 – WKH – AEW Dynamite: Final build for All Out including in-ring face-off between Ospreay and Mox, New Day quiz Swerve on controversial background, more (28 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the September 23 episode of AEW Dynamite start to finish including the final build for All Out...",
+      "link": "https://www.pwtorch.com/site/2026/09/24/vip-podcast-9-23-wkh-aew-dynamite-final-build-for-all-out-including-in-ring-face-off-between-ospreay-and-mox-new-day-quiz-swerve-on-controversial-background-more-28-min/",
+      "t": "3h",
+      "dt": "2026-09-24T06:09:28+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 9/23 – WKPWP after Dynamite: Keller & JB discuss Ospreay not flinching when Mox confronted him, Tag Team Segment Going Off Track, more All Out hype (143 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Jerud Buhagiar (JB) to review AEW Dynamite with analysis of the Will Ospreay-Jon Moxley confrontation and how Ospreay didn’t flinch...",
+      "link": "https://www.pwtorch.com/site/2026/09/24/free-podcast-9-23-wkpwp-after-dynamite-keller-jb-discuss-ospreay-not-flinching-when-mox-confronted-him-tag-team-segment-going-off-track-more-all-out-hype-143-min/",
+      "t": "4h",
+      "dt": "2026-09-24T05:50:04+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "09/23 Powell’s AEW Dynamite and Collision audio review: All Out go-home block with Swerve Strickland, Kofi, and Austin Creed vs. The Demand for the AEW Trios Titles",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 09/23 Powell’s AEW Dynamite and Collision audio review: All Out go-home block with Swerve Strickland, Kofi, and Austin Creed vs. The Demand for...",
+      "link": "https://prowrestling.net/site/2026/09/24/09-23-powells-aew-dynamite-and-collision-audio-review-all-out-go-home-block-with-swerve-strickland-kofi-and-austin-creed-vs-the-demand-for-the-aew-trios-titles/",
+      "t": "4h",
+      "dt": "2026-09-24T05:12:56+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW TBS Title Open Challenge Announced For All Out",
       "p": "One final match has been added to the AEW All Out 2026 card as Persephone has issued an open challenge for the AEW TBS Championship.",
       "link": "https://www.wrestlinginc.com/2267310/aew-tbs-title-open-challenge-announced-all-out/",
-      "t": "54m",
+      "t": "6h",
       "dt": "2026-09-24T03:49:57+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite 9/23/26 Review | REWIND-A-DYNAMITE",
+      "p": "John Pollock & Wai Ting review a 3-hour AEW Dynamite/Collision: Swerve & New Level defend Trios titles, Speedball joins United Empire, final build to All Out. XL: Janel Grant interview, Nikita...",
+      "link": "https://www.postwrestling.com/2026/09/23/aew-dynamite-9-23-26-review-rewind-a-dynamite-xl-live-1105pm-et/",
+      "t": "6h",
+      "dt": "2026-09-24T03:45:03+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW Dynamite/Collision - 9/23/2026: 3 Things We Hated & 3 We Loved",
       "p": "The best and the worst of the supersized Dynamite/Collision go-home show before AEW All Out.",
       "link": "https://www.wrestlinginc.com/2267306/aew-dynamite-collision-september-23-2026-3-things-hated-loved-opinion-review/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-24T03:42:59+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "TBS title match signed for AEW All Out",
       "p": "What could be the final match signed for this Saturday’s AEW All Out was announced during the Collision portion of Wednesday’s three-hour go-home block of programming. During a backstage promo,...",
       "link": "https://www.f4wonline.com/news/aew/persephone-tbs-title-match-signed-aew-all-out-2026/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-24T03:30:55+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "First match set for AEW Grand Slam France & for next week’s Dynamite",
       "p": "Even with the focus on this Saturday’s All Out, plans are already underway for AEW’s France debut in addition to next week’s Dynamite. Chris Jericho vs. Nick Wayne rematch During the Collision...",
       "link": "https://www.f4wonline.com/news/aew/aew-notes-first-grand-slam-france-challenge-next-week-dynamite/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-24T03:22:09+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Persephone & Britt Baker To Face Thunder Rosa & Hyan On 9/30 AEW Dynamite",
       "p": "A women’s tag bout has been announced for the final AEW Dynamite of September. The contest will see the team of Britt Baker and Persephone face off against Hyan and Thunder Rosa. Due to Maya...",
       "link": "https://www.fightful.com/wrestling-news/aew-dynamite-330140/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-24T03:21:29+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "Persephone Announces TBS Title Open Challenge For AEW All Out",
       "p": "Persephone has announced a new title bout for AEW All Out. On Wednesday’s episode of AEW Collision, Persephone revealed that she’ll be defending her TBS Championship at the All Out pay-per-view...",
       "link": "https://www.fightful.com/wrestling-news/persephone-aew-all-out-330136/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-24T03:15:25+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Chris Jericho And Nick Wayne Heading To France For AEW Rematch",
-      "p": "Chris Jericho and Nick Wayne will meet in a rematch at AEW Grand Slam: France.",
-      "link": "https://www.wrestlinginc.com/2267295/chris-jericho-nick-wayne-france-aew-rematch/",
-      "t": "1h",
-      "dt": "2026-09-24T03:08:19+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Thunder Rosa says she hasn’t been on AEW TV as much as she would like",
-      "p": "Thunder Rosa has opened up about her lack of AEW TV time. Recently speaking to Zach Johnson, Rosa added that she believes people like her have to keep outdoing themselves. “Well, it’s a big...",
-      "link": "https://www.f4wonline.com/news/aew/thunder-rosa-says-she-hasnt-been-on-aew-tv-as-much-as-she-would-like/",
-      "t": "1h",
-      "dt": "2026-09-24T03:00:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION RESULTS (9/23): Pac vs. Ace Austin, Skye Blue vs. Queen Aminata, Fletcher & Knight vs. The Outrunners, Jericho calls out Nick Wayne",
-      "p": "AEW DYNAMITE REPORT SEPTEMBER 23, 2026 INDIANAPOLIS, IND. AT FISHERS EVENT CENTER AIRED LIVE ON TBS & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR -The third hour of Dynamite, henceforth...",
-      "link": "https://www.pwtorch.com/site/2026/09/23/aew-collision-results-9-23-pac-vs-ace-austin-skye-blue-vs-queen-aminata-fletcher-knight-vs-the-outrunners-jericho-calls-out-nick-wayne/",
-      "t": "1h",
-      "dt": "2026-09-24T02:56:17+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Nick Wayne vs. Chris Jericho Set For AEW Grand Slam France",
-      "p": "A big rematch has been announced for AEW Grand Slam France. Wednesday’s AEW Collision featured a in-ring confrontation between Chris Jericho and Nick Wayne. Jericho was upset with Wayne and his...",
-      "link": "https://www.fightful.com/wrestling-news/nick-wayne-vs-chris-jericho-set-for-aew-grand-slam-france/",
-      "t": "1h",
-      "dt": "2026-09-24T02:55:21+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite and Collision poll: Grade the September 23 three-hour block",
-      "p": "Loading… The post AEW Dynamite and Collision poll: Grade the September 23 three-hour block appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/23/aew-dynamite-and-collision-poll-grade-the-september-23-three-hour-block/",
-      "t": "1h",
-      "dt": "2026-09-24T02:45:18+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay’s United Empire gains new member on AEW Dynamite",
-      "p": "On the Dynamite following All In, AEW World Champion Will Ospreay made a pledge to start his own version of United Empire in AEW and a month later, he’s making good on his promise. On Wednesday’s...",
-      "link": "https://www.f4wonline.com/news/aew/speedball-mike-bailey-joins-aew-united-empire-will-ospreay/",
-      "t": "1h",
-      "dt": "2026-09-24T02:44:19+00:00"
     }
   ]
 }

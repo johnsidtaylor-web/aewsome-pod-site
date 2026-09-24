@@ -1,54 +1,94 @@
 {
-  "updated": "2026-09-24T19:06:31.714341+00:00",
+  "updated": "2026-09-24T22:21:08.508015+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "FAILED (HTTP Error 500: Internal Server Error)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Tony Khan Confirms AEW Worlds End Will Return In 2026",
-      "p": "Tony Khan says that Worlds End will return in 2026. There was online speculation about AEW potentially skipping out on a pay-per-view in December, primarily due to the lack of news regarding a...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-confirms-aew-worlds-end-will-return-in-2026/",
-      "t": "2m",
-      "dt": "2026-09-24T19:03:26+00:00"
+      "src": "POST Wrestling",
+      "h": "Tony Khan All Out 2026 media call notes: Paramount-WBD merger, Buy-In & Tailgate Brawl spillovers, Andy Williams’ backstage role talks",
+      "p": "Tony Khan addressed multiple topics during the All Out 2026 media call, including the Paramount-WBD merger and details of his meeting with Andy Williams. The post Tony Khan All Out 2026 media call...",
+      "link": "https://www.postwrestling.com/2026/09/24/tony-khan-all-out-2026-media-call-notes-paramount-wbd-merger-buy-in-tailgate-brawl-spillovers-andy-williams-backstage-role-talks/",
+      "t": "1h",
+      "dt": "2026-09-24T21:14:08+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "09/24 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW All Out",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 09/24 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW All Out appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/24/09-24-prowrestling-net-free-podcast-aew-media-call-with-tony-khan-before-aew-all-out/",
+      "t": "1h",
+      "dt": "2026-09-24T20:32:41+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Big Vinny V: Your guide to Worlds Collide, WWE/AAA’s top secret event",
+      "p": "There are a pair of big shows in Chicago on Saturday. Both are going to draw thousands of fans. One will also be televised to a global audience. The other? Who knows? While AEW’s All Out is going...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-your-guide-to-worlds-collide-wwe-aaas-top-secret-event/",
+      "t": "1h",
+      "dt": "2026-09-24T20:30:34+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating (9/19): How did the show perform with AEW Continental Champion Jon Moxley vs. Zachary Wentz in an eliminator match as the main event?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (9/19): How did the show perform with AEW Continental Champion Jon Moxley vs. Zachary Wentz in an eliminator match as the...",
+      "link": "https://prowrestling.net/site/2026/09/24/aew-collision-rating-9-19-how-did-the-show-perform-with-aew-continental-champion-jon-moxley-vs-zachary-wentz-in-an-eliminator-match-as-the-main-event/",
+      "t": "1h",
+      "dt": "2026-09-24T20:25:29+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Tony Khan: AEW Has Seen An Uptick In PPV Buys When The Buy In/Tailgate Brawl Bleeds Into The Show",
-      "p": "Tony Khan comments on AEW’s pay-per-view success. The pre-show for AEW All In featured a Casino Trios Royale bout that ended up bleeding into the main card. This allowed for the New Level to debut...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-aew-has-seen-an-uptick-in-ppv-buys-when-the-buy-in-tailgate-brawl-bleeds-into-the-show/",
-      "t": "14m",
-      "dt": "2026-09-24T18:52:22+00:00"
+      "h": "Tony Khan Opens Up About Conversations With ‘The Butcher’ Andy Williams Before His Passing",
+      "p": "Andy Williams had been in talks with Tony Khan. ‘The Butcher’ Andy Williams passed away at the age of 48 on September 5th. His former employer, All Elite Wrestling, did a series of tributes for...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-opens-up-about-conversations-with-the-butcher-andy-williams-before-his-passing/",
+      "t": "2h",
+      "dt": "2026-09-24T20:12:22+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan calls former NXT, TNA wrestler ‘somebody to keep an eye on’ ahead of AEW All Out",
+      "p": "Tony Khan isn’t giving anything away about whether Mara Sadè could be coming into AEW in the near future. Earlier this week, Sadè’s official website appeared to confirm that she was on her way to...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-calls-former-nxt-tna-wrestler-somebody-to-keep-an-eye-on-ahead-of-aew-all-out/",
+      "t": "2h",
+      "dt": "2026-09-24T19:44:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan details AEW discussions with Andy ‘The Butcher’ Williams before his passing",
+      "p": "Tony Khan revealed more details about discussions AEW had with Andy “The Butcher” Williams shortly before Williams’s passing. Khan previously said that Williams spoke to AEW about potentially...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-details-aew-discussions-with-andy-the-butcher-williams-before-his-passing/",
+      "t": "2h",
+      "dt": "2026-09-24T19:25:35+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Tony Khan Speaks About Paramount-WBD Merger: “I Think I’ve Proven Time After Time That I Am The Ultimate Corporate Soldier”",
-      "p": "Tony Khan shares his thoughts about the merger. Paramount has reached a settlement with California and other states about the merger with Warner Bros. Discovery, to move forward with the process...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-speaks-about-paramount-wbd-merger-i-think-ive-proven-time-after-time-that-i-am-the-ultimate-corporate-soldier/",
-      "t": "27m",
-      "dt": "2026-09-24T18:38:39+00:00"
+      "h": "Tony Khan Addresses Mara Sadè’s Status With AEW: “She’s Somebody That Is Of Great Interest”",
+      "p": "Mara Sadè’s status in All Elite Wrestling. Now-former TNA Wrestling talent Mara Sadè launched her website, and on the site, she listed All Elite Wrestling as one of the companies she’s been...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-addresses-mara-sades-status-with-aew-shes-somebody-that-is-of-great-interest/",
+      "t": "3h",
+      "dt": "2026-09-24T19:17:00+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "MJF: Trick Williams Is A Great Guy. Boatload Of Potential",
-      "p": "MJF has love for Trick Williams. MJF topped the annual PWI 500 list, coming off an impressive year where he won the AEW World Title twice during the evaluation period, headlined multiple...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-trick-williams-is-a-great-guy-boatload-of-potential/",
-      "t": "56m",
-      "dt": "2026-09-24T18:10:09+00:00"
+      "src": "ProWrestling.net",
+      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – Will Ospreay and Jon Moxley deliver their final statements before All Out, New Level catch up on Swerve and Hangman lore",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – Will Ospreay and Jon Moxley deliver their final statements before All Out, New Level catch up...",
+      "link": "https://prowrestling.net/site/2026/09/24/pruetts-pause-10-thoughts-on-aew-dynamite-will-ospreay-and-jon-moxley-deliver-their-final-statements-before-all-out-new-level-catch-up-on-swerve-and-hangman-lore/",
+      "t": "3h",
+      "dt": "2026-09-24T19:16:23+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW media call report: Tony Khan takes media questions heading into Saturday’s AEW All Out pay-per-view",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW media call report: Tony Khan takes media questions heading into Saturday’s AEW All Out pay-per-view appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/24/aew-media-call-report-tony-khan-takes-media-questions-heading-into-saturdays-aew-all-out-pay-per-view/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-24T17:52:39+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW DYNAMITE HITS & MISSES (9/23): New Day learn about Swerve’s past, Speedball hanging with Ospreay, Britt on color commentary, lack of order to six-man tag, Ciampa-Okada confusion",
       "p": "HITS SWERVE & NEW LEVEL VS. THE DEMAND If this was billed as a tornado tag match, it would have been near perfect. It was chaotic and I am not a fan of three guys [...]",
       "link": "https://www.pwtorch.com/site/2026/09/24/aew-dynamite-hits-misses-9-23-new-day-learn-about-swerves-past-speedball-hanging-with-ospreay-britt-on-color-commentary-lack-of-order-to-six-man-tag-ciampa-okada-confusion/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-24T17:48:33+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on the final push for All Out with Will Ospreay and Jon Moxley, the show peaking early, security guard abuse, an overly competitive match",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the final push for All Out with Will Ospreay and Jon Moxley, the show peaking early, security guard...",
       "link": "https://prowrestling.net/site/2026/09/24/powells-aew-dynamite-hit-list-thoughts-on-the-final-push-for-all-out-with-will-ospreay-and-jon-moxley-the-show-peaking-early-security-guard-abuse-an-overly-competitive-match/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-24T17:40:15+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW All Out lineup: The updated card for Saturday’s pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup: The updated card for Saturday’s pay-per-view event appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/24/aew-all-out-lineup-the-updated-card-for-saturdays-pay-per-view-event-2/",
-      "t": "2h",
-      "dt": "2026-09-24T16:41:25+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's MVP Sees Big Things Ahead For Zilla Fatu In WWE",
-      "p": "AEW star MVP has analyzed Zilla Fatu's potential and what he can achieve in WWE, as well as how he will have to live up to his father's legacy.",
-      "link": "https://www.wrestlinginc.com/2267378/wwe-aew-mvp-zilla-fatu-big-things-ahead/",
-      "t": "4h",
-      "dt": "2026-09-24T15:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Thekla Says Mercedes Mone's 'Dumb Blonde' Jab Was Directed At Someone Else",
-      "p": "AEW star Thekla has discussed Mercedes Mone's five-foot dumb blonde line aimed at her, clarifying that it wasn't directed at her.",
-      "link": "https://www.wrestlinginc.com/2267375/aew-thekla-mercedes-mone-dumb-blonde-jab-directed-someone-else/",
-      "t": "4h",
-      "dt": "2026-09-24T14:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Alvarez’s AEW Dynamite & Collision September 23, 2026 report for subscribers",
-      "p": "Bryan Alvarez’s report on Wednesday’s editions of AEW Dynamite and Collision is now available for subscribers.",
-      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-collision-september-23-2026-report-for-subscribers/",
-      "t": "4h",
-      "dt": "2026-09-24T14:20:23+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jim Ross AEW commentary return update",
-      "p": "Jim Ross won’t be making his return to AEW commentary at All Out 2026 this weekend. Though Ross was hopeful that he would be able to make the trip to Chicago for the September 26 pay-per-view, it...",
-      "link": "https://www.f4wonline.com/news/aew/jim-ross-aew-commentary-return-update/",
-      "t": "4h",
-      "dt": "2026-09-24T14:13:15+00:00"
     }
   ]
 }

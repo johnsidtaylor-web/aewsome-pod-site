@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-25T18:33:21.082013+00:00",
+  "updated": "2026-09-25T22:16:57.104885+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "Wrestling Observer",
-      "h": "Wrestling Weekly: AEW All Out predictions, is Penta’s WWE future in the main event?",
-      "p": "AEW All Out is here, and Les Thatcher and Vic Sosa give their predictions on the PPV. We’ll also discuss WWE brass seeing Penta in a different light lately, who the next entrants into the upcoming...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-weekly-aew-all-out-predictions-is-pentas-wwe-future-in-the-main-event/",
-      "t": "21m",
-      "dt": "2026-09-25T18:11:59+00:00"
+      "h": "AEW All Out 2026 preview & predictions: All Apologies",
+      "p": "I owe Will Ospreay an apology. In my All In preview last month, I wrote that the main event did not carry the weight that a new champion deserved, that Ospreay was more attraction than foundation,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-preview-predictions/",
+      "t": "30m",
+      "dt": "2026-09-25T21:46:34+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Persephone’s AEW All Out 2026 challenger reportedly revealed",
-      "p": "The identity of Persephone’s challenger at AEW All Out 2026 might have been revealed. Persephone will be defending her TBS Championship in an open challenge this Saturday, and Self Made Pro...",
-      "link": "https://www.f4wonline.com/news/aew/persephones-aew-all-out-2026-challenger-reportedly-revealed/",
-      "t": "23m",
-      "dt": "2026-09-25T18:09:57+00:00"
+      "h": "Update on Kairi Sane potentially joining AEW",
+      "p": "Fans probably shouldn’t expect to see Kairi Sane make her AEW debut this weekend. After reporting that there had been talks between Sane and AEW, Fightful Select provided an update today and noted...",
+      "link": "https://www.f4wonline.com/news/aew/update-on-kairi-sane-potentially-joining-aew/",
+      "t": "1h",
+      "dt": "2026-09-25T21:06:36+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Steven Borden Says His Journey In Wrestling Has Been A Fun Ride So Far",
-      "p": "It was at his father’s final match that Steven Borden knew he wanted to pursue wrestling. Steven Borden, the son of Sting, is in the mix of AEW programming, and at All Out, he’ll be teaming with...",
-      "link": "https://www.fightful.com/wrestling-news/steven-borden-says-his-journey-in-wrestling-has-been-a-fun-ride-so-far/",
-      "t": "39m",
-      "dt": "2026-09-25T17:53:38+00:00"
+      "h": "Hangman Adam Page To Donate His Share From PWT Live Auction To Clean Air Task Force",
+      "p": "Hangman Adam Page will be donating his earnings from his PWT Live auction stream to charity. On September 26, Adam Page will be going live on PWTLive.com from the AEW All Out Afternoon Block Party...",
+      "link": "https://www.fightful.com/wrestling-news/hangman-adam-page-to-donate-proceeds-from-pwt-live-auction-to-clean-air-task-force/",
+      "t": "1h",
+      "dt": "2026-09-25T20:18:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Thunder Rosa Details Spot That Sidelined Her With A Back Injury In 2022",
+      "p": "In 2022, Thunder Rosa was forced to relinquish the AEW Women’s Championship due to a back injury that kept her sidelined for over a year. Rosa won the title from Britt Baker in a cage match in...",
+      "link": "https://www.fightful.com/wrestling-news/thunder-rosa-details-spot-that-sidelined-her-with-a-back-injury-in-2022/",
+      "t": "2h",
+      "dt": "2026-09-25T20:16:40+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Tony Khan Gets Emotional While Discussing Late AEW Star Andy 'The Butcher' Williams",
-      "p": "AEW CEO Tony Khan reveals that he and the late Andy 'The Butcher' Williams had recently met to discuss the idea of bridging his music with wrestling.",
-      "link": "https://www.wrestlinginc.com/2269135/tony-khan-emotional-late-aew-andy-williams-butcher/",
-      "t": "58m",
-      "dt": "2026-09-25T17:34:59+00:00"
+      "h": "Report Reveals Plans For Persephone's Mystery Challenger At AEW All Out",
+      "p": "A new report revealed the plans for TBS Champion Persephone's mystery challenger at AEW All Out on Saturday.",
+      "link": "https://www.wrestlinginc.com/2269418/aew-all-out-2026-persephone-dani-luna-plans-mystery-challenger/",
+      "t": "2h",
+      "dt": "2026-09-25T20:11:43+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Update On Contract Status Of Sheamus, Kairi Sane & Dani Luna Ahead Of AEW All Out",
+      "p": "Ahead of AEW All Out on September 26, a new report sheds light on the contract statuses of Sheamus, Kairi Sane, and Dani Luna.",
+      "link": "https://www.wrestlinginc.com/2269412/aew-all-out-2026-sheamus-kairi-sane-dani-luna-contract-status-update/",
+      "t": "2h",
+      "dt": "2026-09-25T20:08:41+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Update on timeline for Maya World’s AEW return | Exclusive",
-      "p": "It might be a couple of months before Maya World is back in action. In the new issue of the Wrestling Observer Newsletter, Dave Meltzer followed up on the situation after it was reported that Maya...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-timeline-for-maya-worlds-aew-return-exclusive/",
+      "h": "WOL: All Out, Worlds Collide, Main Event move raises questions, plus Tom is JIM THORPE",
+      "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including Smackdown, All Out and Worlds Collide this weekend, why Main Event moving to Wednesday’s...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-all-out-worlds-collide-main-event-move-raises-questions-plus-tom-is-jim-thorpe/",
       "t": "2h",
-      "dt": "2026-09-25T16:21:23+00:00"
+      "dt": "2026-09-25T20:04:22+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW Star MVP Isn't Sure WWE's Roman Reigns Has 'Mainstream Crossover Potential'",
-      "p": "According to MVP, Roman Reigns is undeniably successful in the world of wrestling, but he has yet to reach the heights of fame achieved by his predecessors.",
-      "link": "https://www.wrestlinginc.com/2269027/aew-wwe-mvp-roman-reigns-mainstream-crossover-appeal/",
+      "src": "POST Wrestling",
+      "h": "POST NEWS: AEW & WWE’s Worlds Won’t Collide on Saturday [Free tier]",
+      "p": "John Pollock and Jack Wannan preview the weekend with AEW All Out having the night to itself, the strange handling of Worlds Collide & more. Available today on the free tier at...",
+      "link": "https://www.postwrestling.com/2026/09/25/post-news-aew-wwes-worlds-wont-collide-on-saturday-free-tier/",
       "t": "2h",
-      "dt": "2026-09-25T16:20:56+00:00"
+      "dt": "2026-09-25T19:49:01+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW Collision Viewership & Ratings Report, 9/19/2026",
-      "p": "AEW Collision's viewership dropped once again, reaching its second-lowest level since June, while the ratings fell as well.",
-      "link": "https://www.wrestlinginc.com/2268552/aew-collision-viewership-ratings-report-september-19-2026/",
-      "t": "3h",
-      "dt": "2026-09-25T15:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Promises AEW Worlds End PPV Will Happen In 2026",
-      "p": "As the last quarter approaches, AEW CEO Tony Khan promises that the Worlds End pay-per-view will indeed take place in 2026.",
-      "link": "https://www.wrestlinginc.com/2268924/tony-khan-aew-worlds-end-2026-promises/",
-      "t": "3h",
-      "dt": "2026-09-25T15:27:52+00:00"
+      "src": "PWTorch",
+      "h": "FREE PODCAST 9/25 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: AEW All Out full preview and predictions + Tony Khan media Q&A (175 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner preview Saturday’s AEW All Out PPV taking place in Hoffman Estates, Ill....",
+      "link": "https://www.pwtorch.com/site/2026/09/25/free-podcast-9-25-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-aew-all-out-full-preview-and-predictions-tony-khan-media-qa-175-min/",
+      "t": "2h",
+      "dt": "2026-09-25T19:39:29+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "ROH on HonorClub results (9/24): Lethal Twist vs. Dark Order for the ROH Six-Man Tag Titles, Deonna Purrazzo and Lee Moriarty in Proving Ground matches",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (9/24): Lethal Twist vs. Dark Order for the ROH Six-Man Tag Titles, Deonna Purrazzo and Lee Moriarty in Proving Ground...",
-      "link": "https://prowrestling.net/site/2026/09/25/roh-on-honorclub-results-9-24-lethal-twist-vs-dark-order-for-the-roh-six-man-tag-titles-deonna-purrazzo-and-lee-moriarty-in-proving-ground-matches/",
-      "t": "3h",
-      "dt": "2026-09-25T15:00:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "September 28, 2026 Observer Newsletter: AEW All Out preview, Paramount/WBD merger clears major hurdle, Mistico’s big week",
-      "p": "The new Wrestling Observer Newsletter has gone live. Dave Meltzer looks at the big news this week that the Paramount/WBD merger cleared a major legal hurdle and what the future could mean for AEW....",
-      "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/september-28-2026-observer-newsletter-aew-all-out-preview-paramount-wbd-merger-clears-major-hurdle-cmll-anniversary-show-review/",
-      "t": "4h",
-      "dt": "2026-09-25T14:31:46+00:00"
+      "h": "09/25 Dot Net Weekly audio show: Barnett and Powell on Paramount moving closer to acquiring WBD, AEW All Out predictions, Janel Grant’s interview, AEW attendance, WWE’s abduction angle",
+      "p": "By Jake Barnett (@jakebarnett) and... The post 09/25 Dot Net Weekly audio show: Barnett and Powell on Paramount moving closer to acquiring WBD, AEW All Out predictions, Janel Grant’s interview,...",
+      "link": "https://prowrestling.net/site/2026/09/25/09-25-dot-net-weekly-audio-show-barnett-and-powell-on-paramount-moving-closer-to-acquiring-wbd-aew-all-out-predictions-janel-grants-interview-aew-attendance-wwes-abduction-angle/",
+      "t": "2h",
+      "dt": "2026-09-25T19:27:29+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Women's Champion Mercedes Mone Was Set To Wrestle At All Out 2026 Before Injury",
-      "p": "Tony Khan has disclosed that AEW Women's World Champion Mercedes Mone was supposed to wrestle at All Out, but was unable to after suffering an injury.",
-      "link": "https://www.wrestlinginc.com/2268538/aew-womens-champion-mercedes-mone-all-out-2026-injury/",
-      "t": "4h",
-      "dt": "2026-09-25T14:30:00+00:00"
+      "h": "Dax Harwood: It's 'Almost Undeniable' That AEW Is The Home Of Tag Team Wrestling",
+      "p": "With several new tag teams combined with longtime talent and younger duos, Dax Harwood believes it's evident that AEW is the best place for tag team wrestling.",
+      "link": "https://www.wrestlinginc.com/2269308/aew-dax-harwood-ftr-almost-undeniable-home-tag-team-wrestling/",
+      "t": "3h",
+      "dt": "2026-09-25T19:05:28+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "AEW name announced for rare indie date",
-      "p": "Fans in Texas will have the rare opportunity to see Katsuyori Shibata compete on the indies next month. New Texas Pro Wrestling has announced that Shibata will debut for the promotion in Houston...",
-      "link": "https://www.f4wonline.com/news/aew/aew-name-announced-for-rare-indie-date/",
-      "t": "4h",
-      "dt": "2026-09-25T14:19:45+00:00"
+      "src": "Fightful",
+      "h": "Dani Luna Has Joined AEW, Expected To Debut Fairly Soon",
+      "p": "Dani Luna is All Elite. On September 15, Fightful Select reported that Dani Luna was expected to be headed to All Elite Wrestling. Luna previously worked for TNA and departed the promotion back in...",
+      "link": "https://www.fightful.com/wrestling-news/dani-luna-has-joined-aew-expected-to-debut-fairly-soon/",
+      "t": "3h",
+      "dt": "2026-09-25T18:41:04+00:00"
     }
   ]
 }

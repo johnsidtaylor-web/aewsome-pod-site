@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-25T13:43:03.558784+00:00",
+  "updated": "2026-09-25T18:33:21.082013+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Gets Coy About Prospect Of Former WWE Star Mara Sade Debuting At AEW All Out",
-      "p": "Tony Khan has discussed signing Mara Sade, formerly known as Jakara Jackson in WWE, praising her talent without confirming if she has been signed.",
-      "link": "https://www.wrestlinginc.com/2268516/tony-khah-mara-sade-former-wwe-aew-all-out-2026-coy/",
-      "t": "43m",
-      "dt": "2026-09-25T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Nattie Makes A Case For Dynamite Kid Entering WWE Hall Of Fame",
-      "p": "Nattie made the case for Dynamite Kid to enter the WWE Hall of Fame.",
-      "link": "https://www.wrestlinginc.com/2263892/wwe-nattie-natalya-neidhart-dynamite-kid-makes-case-hall-fame/",
-      "t": "43m",
-      "dt": "2026-09-25T13:00:00+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Weekend TV Guide: AEW goes All Out, NJPW heads to Kobe, NOAH’s N-1 rolls on & more!",
-      "p": "A preview of this weekend's top wrestling events on TV & streaming, including: AEW, WWE, NJPW, NOAH & more. The post Weekend TV Guide: AEW goes All Out, NJPW heads to Kobe, NOAH’s N-1 rolls on &...",
-      "link": "https://www.postwrestling.com/2026/09/25/weekend-tv-guide-aew-goes-all-out-njpw-heads-to-kobe-noahs-n-1-rolls-on-more/",
-      "t": "44m",
-      "dt": "2026-09-25T12:58:26+00:00"
+      "src": "Wrestling Observer",
+      "h": "Wrestling Weekly: AEW All Out predictions, is Penta’s WWE future in the main event?",
+      "p": "AEW All Out is here, and Les Thatcher and Vic Sosa give their predictions on the PPV. We’ll also discuss WWE brass seeing Penta in a different light lately, who the next entrants into the upcoming...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-weekly-aew-all-out-predictions-is-pentas-wwe-future-in-the-main-event/",
+      "t": "21m",
+      "dt": "2026-09-25T18:11:59+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "MJF says Trick Williams and Oba Femi have ‘boatload of potential’",
-      "p": "AEW’s MJF was announced in the No.1 rank in PWI100 list. The Top 10 names include multiple WWE stars, notably 2026’s emerging, breakout WWE stars Trick Williams and Oba Femi. Speaking with Pro...",
-      "link": "https://www.f4wonline.com/news/aew/mjf-says-trick-williams-and-oba-femi-have-boatload-of-potential/",
-      "t": "2h",
-      "dt": "2026-09-25T11:39:36+00:00"
+      "h": "Persephone’s AEW All Out 2026 challenger reportedly revealed",
+      "p": "The identity of Persephone’s challenger at AEW All Out 2026 might have been revealed. Persephone will be defending her TBS Championship in an open challenge this Saturday, and Self Made Pro...",
+      "link": "https://www.f4wonline.com/news/aew/persephones-aew-all-out-2026-challenger-reportedly-revealed/",
+      "t": "23m",
+      "dt": "2026-09-25T18:09:57+00:00"
     },
     {
       "src": "Fightful",
-      "h": "FSW Collision Course Results (9/18)",
-      "p": "Future Stars of Wrestling held its FSW Collision Course event on September 18 from HyperX Arena in Las Vegas, NV. The event aired on Title Match Network. Full results are below. FSW Collision...",
-      "link": "https://www.fightful.com/wrestling-news/fsw-collision-course-results-9-18/",
-      "t": "2h",
-      "dt": "2026-09-25T11:37:07+00:00"
+      "h": "Steven Borden Says His Journey In Wrestling Has Been A Fun Ride So Far",
+      "p": "It was at his father’s final match that Steven Borden knew he wanted to pursue wrestling. Steven Borden, the son of Sting, is in the mix of AEW programming, and at All Out, he’ll be teaming with...",
+      "link": "https://www.fightful.com/wrestling-news/steven-borden-says-his-journey-in-wrestling-has-been-a-fun-ride-so-far/",
+      "t": "39m",
+      "dt": "2026-09-25T17:53:38+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Gets Emotional While Discussing Late AEW Star Andy 'The Butcher' Williams",
+      "p": "AEW CEO Tony Khan reveals that he and the late Andy 'The Butcher' Williams had recently met to discuss the idea of bridging his music with wrestling.",
+      "link": "https://www.wrestlinginc.com/2269135/tony-khan-emotional-late-aew-andy-williams-butcher/",
+      "t": "58m",
+      "dt": "2026-09-25T17:34:59+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Will Ospreay: Ilja Dragunov AEW match could ‘main event any show anywhere in the world’",
-      "p": "Will Ospreay has hyped up Ilja Dragunov’s much-awaited AEW presence. Recently speaking on The Takedown on SI, Ospreay opened up and heaped praise on Dragunov and his skill set. While the two were...",
-      "link": "https://www.f4wonline.com/news/aew/will-ospreay-ilja-dragunov-aew-match-could-main-event-any-show-anywhere-in-the-world/",
+      "h": "Update on timeline for Maya World’s AEW return | Exclusive",
+      "p": "It might be a couple of months before Maya World is back in action. In the new issue of the Wrestling Observer Newsletter, Dave Meltzer followed up on the situation after it was reported that Maya...",
+      "link": "https://www.f4wonline.com/news/aew/update-on-timeline-for-maya-worlds-aew-return-exclusive/",
+      "t": "2h",
+      "dt": "2026-09-25T16:21:23+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Star MVP Isn't Sure WWE's Roman Reigns Has 'Mainstream Crossover Potential'",
+      "p": "According to MVP, Roman Reigns is undeniably successful in the world of wrestling, but he has yet to reach the heights of fame achieved by his predecessors.",
+      "link": "https://www.wrestlinginc.com/2269027/aew-wwe-mvp-roman-reigns-mainstream-crossover-appeal/",
+      "t": "2h",
+      "dt": "2026-09-25T16:20:56+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Viewership & Ratings Report, 9/19/2026",
+      "p": "AEW Collision's viewership dropped once again, reaching its second-lowest level since June, while the ratings fell as well.",
+      "link": "https://www.wrestlinginc.com/2268552/aew-collision-viewership-ratings-report-september-19-2026/",
+      "t": "3h",
+      "dt": "2026-09-25T15:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Promises AEW Worlds End PPV Will Happen In 2026",
+      "p": "As the last quarter approaches, AEW CEO Tony Khan promises that the Worlds End pay-per-view will indeed take place in 2026.",
+      "link": "https://www.wrestlinginc.com/2268924/tony-khan-aew-worlds-end-2026-promises/",
+      "t": "3h",
+      "dt": "2026-09-25T15:27:52+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub results (9/24): Lethal Twist vs. Dark Order for the ROH Six-Man Tag Titles, Deonna Purrazzo and Lee Moriarty in Proving Ground matches",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (9/24): Lethal Twist vs. Dark Order for the ROH Six-Man Tag Titles, Deonna Purrazzo and Lee Moriarty in Proving Ground...",
+      "link": "https://prowrestling.net/site/2026/09/25/roh-on-honorclub-results-9-24-lethal-twist-vs-dark-order-for-the-roh-six-man-tag-titles-deonna-purrazzo-and-lee-moriarty-in-proving-ground-matches/",
+      "t": "3h",
+      "dt": "2026-09-25T15:00:17+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "September 28, 2026 Observer Newsletter: AEW All Out preview, Paramount/WBD merger clears major hurdle, Mistico’s big week",
+      "p": "The new Wrestling Observer Newsletter has gone live. Dave Meltzer looks at the big news this week that the Paramount/WBD merger cleared a major legal hurdle and what the future could mean for AEW....",
+      "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/september-28-2026-observer-newsletter-aew-all-out-preview-paramount-wbd-merger-clears-major-hurdle-cmll-anniversary-show-review/",
       "t": "4h",
-      "dt": "2026-09-25T09:30:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW ALL OUT PPV PREVIEW & PREDICTIONS: JB’s look at Ospreay vs. Moxley, Christian & Copeland vs. FTR vs. Young Bucks, Willow vs. Thekla, Okada vs. Ciampa, Swerve & New Level vs. Demand",
-      "p": "Zero Hour/Buy-In Bang Bang Gang (Jay White & Ace Austin & Austin Gunn & Colten Gunn (with Juice Robinson) vs. Death Riders (Daniel Garcia & Wheeler Yuta) and The Dogs (David Finlay & Clark...",
-      "link": "https://www.pwtorch.com/site/2026/09/24/aew-all-out-ppv-preview-predictions-jbs-look-at-ospreay-vs-moxley-christian-copeland-vs-ftr-vs-young-bucks-willow-vs-thekla-okada-vs-ciampa-swerve-new-level-vs-demand/",
-      "t": "9h",
-      "dt": "2026-09-25T04:33:28+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "B&V: Dynamite and Collision and Overrun go-home show, plus a quite good NXT",
-      "p": "The Bryan & Vinny Show is back with tons to talk about including a full recap of a very long and quite average go-home edition of Dynamite and Collision and Overrun, then a look at NXT which, with...",
-      "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/bv-dynamite-and-collision-and-overrun-go-home-show-plus-a-quite-good-nxt/",
-      "t": "9h",
-      "dt": "2026-09-25T04:21:57+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "The Hardys To Call Out Joseph Sawyer & Samuel Shaw, X Division Title Match Qualifier, More Set For 10/1 TNA iMPACT",
-      "p": "The Hardys want war with Syx. For several months, multiple members of the TNA Wrestling roster have been getting attacked backstage. On the 9/24 Thursday Night iMPACT, The Hardys (Matt Hardy &...",
-      "link": "https://www.fightful.com/wrestling-news/the-hardys-to-call-out-joseph-sawyer-samuel-shaw-x-division-title-match-qualifier-more-set-for-10-1-tna-impact/",
-      "t": "10h",
-      "dt": "2026-09-25T03:34:41+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Former Wyatt Sicks members make surprise appearance on TNA Impact",
-      "p": "Two members of the former Wyatt Sicks in WWE have landed in TNA. After last week’s mysterious backstage attack, Matt and Jeff Hardy appeared in the ring on tonight’s Impact to call out the...",
-      "link": "https://www.f4wonline.com/news/tna-wrestling/two-former-wyatt-sicks-members-make-tna-impact-appearance/",
-      "t": "11h",
-      "dt": "2026-09-25T02:37:14+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 9/24 – The Fix w/Todd & Wade (pt. 1 of 2): Gable Steveson’s humiliating UFC loss, Paramount-WBD merge approval, All Out preview, TV reviews (78 min.)",
-      "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: Gable Steveson humiliated last weekend in...",
-      "link": "https://www.pwtorch.com/site/2026/09/24/vip-podcast-9-24-the-fix-w-todd-wade-pt-1-of-2-gable-stevesons-humiliating-ufc-loss-paramount-wbd-merge-approval-all-out-preview-tv-reviews-78-min/",
-      "t": "11h",
-      "dt": "2026-09-25T02:21:21+00:00"
+      "dt": "2026-09-25T14:31:46+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Tony Schiavone Says Recent AEW Match Has Parallels With Ric Flair Vs. Ricky Steamboat",
-      "p": "Tony Schiavone was reminded of the classic rivalry between Ric Flair and Ricky \"The Dragon\" Steamboat while watching one recent AEW main event.",
-      "link": "https://www.wrestlinginc.com/2268440/aew-tony-schiavone-kenny-omega-will-ospreay-ric-flair-ricky-steamboat-parallels/",
-      "t": "13h",
-      "dt": "2026-09-24T23:51:27+00:00"
+      "h": "AEW Women's Champion Mercedes Mone Was Set To Wrestle At All Out 2026 Before Injury",
+      "p": "Tony Khan has disclosed that AEW Women's World Champion Mercedes Mone was supposed to wrestle at All Out, but was unable to after suffering an injury.",
+      "link": "https://www.wrestlinginc.com/2268538/aew-womens-champion-mercedes-mone-all-out-2026-injury/",
+      "t": "4h",
+      "dt": "2026-09-25T14:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW name announced for rare indie date",
+      "p": "Fans in Texas will have the rare opportunity to see Katsuyori Shibata compete on the indies next month. New Texas Pro Wrestling has announced that Shibata will debut for the promotion in Houston...",
+      "link": "https://www.f4wonline.com/news/aew/aew-name-announced-for-rare-indie-date/",
+      "t": "4h",
+      "dt": "2026-09-25T14:19:45+00:00"
     }
   ]
 }

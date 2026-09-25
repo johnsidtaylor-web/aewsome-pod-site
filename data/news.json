@@ -1,22 +1,70 @@
 {
-  "updated": "2026-09-25T07:44:04.364530+00:00",
+  "updated": "2026-09-25T13:43:03.558784+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Gets Coy About Prospect Of Former WWE Star Mara Sade Debuting At AEW All Out",
+      "p": "Tony Khan has discussed signing Mara Sade, formerly known as Jakara Jackson in WWE, praising her talent without confirming if she has been signed.",
+      "link": "https://www.wrestlinginc.com/2268516/tony-khah-mara-sade-former-wwe-aew-all-out-2026-coy/",
+      "t": "43m",
+      "dt": "2026-09-25T13:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Nattie Makes A Case For Dynamite Kid Entering WWE Hall Of Fame",
+      "p": "Nattie made the case for Dynamite Kid to enter the WWE Hall of Fame.",
+      "link": "https://www.wrestlinginc.com/2263892/wwe-nattie-natalya-neidhart-dynamite-kid-makes-case-hall-fame/",
+      "t": "43m",
+      "dt": "2026-09-25T13:00:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: AEW goes All Out, NJPW heads to Kobe, NOAH’s N-1 rolls on & more!",
+      "p": "A preview of this weekend's top wrestling events on TV & streaming, including: AEW, WWE, NJPW, NOAH & more. The post Weekend TV Guide: AEW goes All Out, NJPW heads to Kobe, NOAH’s N-1 rolls on &...",
+      "link": "https://www.postwrestling.com/2026/09/25/weekend-tv-guide-aew-goes-all-out-njpw-heads-to-kobe-noahs-n-1-rolls-on-more/",
+      "t": "44m",
+      "dt": "2026-09-25T12:58:26+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "MJF says Trick Williams and Oba Femi have ‘boatload of potential’",
+      "p": "AEW’s MJF was announced in the No.1 rank in PWI100 list. The Top 10 names include multiple WWE stars, notably 2026’s emerging, breakout WWE stars Trick Williams and Oba Femi. Speaking with Pro...",
+      "link": "https://www.f4wonline.com/news/aew/mjf-says-trick-williams-and-oba-femi-have-boatload-of-potential/",
+      "t": "2h",
+      "dt": "2026-09-25T11:39:36+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "FSW Collision Course Results (9/18)",
+      "p": "Future Stars of Wrestling held its FSW Collision Course event on September 18 from HyperX Arena in Las Vegas, NV. The event aired on Title Match Network. Full results are below. FSW Collision...",
+      "link": "https://www.fightful.com/wrestling-news/fsw-collision-course-results-9-18/",
+      "t": "2h",
+      "dt": "2026-09-25T11:37:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay: Ilja Dragunov AEW match could ‘main event any show anywhere in the world’",
+      "p": "Will Ospreay has hyped up Ilja Dragunov’s much-awaited AEW presence. Recently speaking on The Takedown on SI, Ospreay opened up and heaped praise on Dragunov and his skill set. While the two were...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-ilja-dragunov-aew-match-could-main-event-any-show-anywhere-in-the-world/",
+      "t": "4h",
+      "dt": "2026-09-25T09:30:00+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "AEW ALL OUT PPV PREVIEW & PREDICTIONS: JB’s look at Ospreay vs. Moxley, Christian & Copeland vs. FTR vs. Young Bucks, Willow vs. Thekla, Okada vs. Ciampa, Swerve & New Level vs. Demand",
       "p": "Zero Hour/Buy-In Bang Bang Gang (Jay White & Ace Austin & Austin Gunn & Colten Gunn (with Juice Robinson) vs. Death Riders (Daniel Garcia & Wheeler Yuta) and The Dogs (David Finlay & Clark...",
       "link": "https://www.pwtorch.com/site/2026/09/24/aew-all-out-ppv-preview-predictions-jbs-look-at-ospreay-vs-moxley-christian-copeland-vs-ftr-vs-young-bucks-willow-vs-thekla-okada-vs-ciampa-swerve-new-level-vs-demand/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-09-25T04:33:28+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "B&V: Dynamite and Collision and Overrun go-home show, plus a quite good NXT",
       "p": "The Bryan & Vinny Show is back with tons to talk about including a full recap of a very long and quite average go-home edition of Dynamite and Collision and Overrun, then a look at NXT which, with...",
       "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/bv-dynamite-and-collision-and-overrun-go-home-show-plus-a-quite-good-nxt/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-09-25T04:21:57+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "The Hardys To Call Out Joseph Sawyer & Samuel Shaw, X Division Title Match Qualifier, More Set For 10/1 TNA iMPACT",
       "p": "The Hardys want war with Syx. For several months, multiple members of the TNA Wrestling roster have been getting attacked backstage. On the 9/24 Thursday Night iMPACT, The Hardys (Matt Hardy &...",
       "link": "https://www.fightful.com/wrestling-news/the-hardys-to-call-out-joseph-sawyer-samuel-shaw-x-division-title-match-qualifier-more-set-for-10-1-tna-impact/",
-      "t": "4h",
+      "t": "10h",
       "dt": "2026-09-25T03:34:41+00:00"
     },
     {
@@ -40,31 +88,15 @@
       "h": "Former Wyatt Sicks members make surprise appearance on TNA Impact",
       "p": "Two members of the former Wyatt Sicks in WWE have landed in TNA. After last week’s mysterious backstage attack, Matt and Jeff Hardy appeared in the ring on tonight’s Impact to call out the...",
       "link": "https://www.f4wonline.com/news/tna-wrestling/two-former-wyatt-sicks-members-make-tna-impact-appearance/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-09-25T02:37:14+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kevin Knight Set To Host Seminars At NJPW Academy In October",
-      "p": "Kevin Knight will do seminars at the NJPW Academy. New Japan Pro-Wrestling pushed out the news that current AEW star and two-time IWGP Junior Heavyweight Tag Team Champion Kevin Knight will be...",
-      "link": "https://www.fightful.com/wrestling-news/kevin-knight-set-to-host-seminars-at-njpw-academy-in-october/",
-      "t": "5h",
-      "dt": "2026-09-25T02:30:48+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Results (9/24): Athena And Billie Starkz Team",
-      "p": "Ring of Honor aired the latest episode of ROH TV on September 24. The event aired on HonorClub. Full results are below. ROH TV Results (9/24) ROH Men’s Pure Championship Proving Ground: Lee...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-9-24-athena-and-billie-starkz-team/",
-      "t": "5h",
-      "dt": "2026-09-25T02:30:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 9/24 – The Fix w/Todd & Wade (pt. 1 of 2): Gable Steveson’s humiliating UFC loss, Paramount-WBD merge approval, All Out preview, TV reviews (78 min.)",
       "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: Gable Steveson humiliated last weekend in...",
       "link": "https://www.pwtorch.com/site/2026/09/24/vip-podcast-9-24-the-fix-w-todd-wade-pt-1-of-2-gable-stevesons-humiliating-ufc-loss-paramount-wbd-merge-approval-all-out-preview-tv-reviews-78-min/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-09-25T02:21:21+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Tony Schiavone Says Recent AEW Match Has Parallels With Ric Flair Vs. Ricky Steamboat",
       "p": "Tony Schiavone was reminded of the classic rivalry between Ric Flair and Ricky \"The Dragon\" Steamboat while watching one recent AEW main event.",
       "link": "https://www.wrestlinginc.com/2268440/aew-tony-schiavone-kenny-omega-will-ospreay-ric-flair-ricky-steamboat-parallels/",
-      "t": "7h",
+      "t": "13h",
       "dt": "2026-09-24T23:51:27+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: 348 hour AEW Dynamite & Collision",
-      "p": "Wrestling Observer Live is back on the air with Tom Lawlor and Royce Isaacs as we get down and filthy with a neverending report of the daunting saga that was AEW Dynamite & Collision, and more! A...",
-      "link": "https://www.f4wonline.com/podcasts/wol-348-hour-aew-dynamite-collision/",
-      "t": "8h",
-      "dt": "2026-09-24T23:26:26+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH TV live results: Athena & Billie Starkz vs. Viva Van & VertVixen",
-      "p": "Ring of Honor is back on Honor Club tonight. Scheduled for this week’s show will be ROH Women’s World Champion Athena teaming with Billie Starkz against Viva Van and VertVixen. Also scheduled for...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-athena-billie-starkz-vs-viva-van-vertvixen/",
-      "t": "8h",
-      "dt": "2026-09-24T23:15:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "Tony Khan details next steps for AEW after Paramount/WBD merger is finalized, calls himself the “ultimate corporate solider”",
-      "p": "AEW president Tony Khan said he is “very excited” about the pending merger between Paramount and Warner Brothers Discover after a settlement with California and other states was reached to allow...",
-      "link": "https://www.pwtorch.com/site/2026/09/24/tony-khan-details-next-steps-for-aew-after-once-paramount-wbd-merger-is-finalized-calls-himself-the-ultimate-corporate-solider/",
-      "t": "8h",
-      "dt": "2026-09-24T23:01:34+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Tony Khan All Out 2026 media call notes: Paramount-WBD merger, Buy-In & Tailgate Brawl spillovers, Andy Williams’ backstage role talks",
-      "p": "Tony Khan addressed multiple topics during the All Out 2026 media call, including the Paramount-WBD merger and details of his meeting with Andy Williams. The post Tony Khan All Out 2026 media call...",
-      "link": "https://www.postwrestling.com/2026/09/24/tony-khan-all-out-2026-media-call-notes-paramount-wbd-merger-buy-in-tailgate-brawl-spillovers-andy-williams-backstage-role-talks/",
-      "t": "10h",
-      "dt": "2026-09-24T21:14:08+00:00"
     }
   ]
 }

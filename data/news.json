@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-26T13:01:57.911484+00:00",
+  "updated": "2026-09-26T17:07:28.791988+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "Fightful",
-      "h": "AEW All Out 2026 Preview, Start Time, How To Watch, Location (9/26)",
-      "p": "Viewing information and lineup for AEW All Out on September 26, 2026 AEW All Out (September 26, 2026) Venue: NOW Arena City: Chicago, IL Time: 8 pm ET Channel: HBO Max, PPV, MyAEW Lineup AEW World...",
-      "link": "https://www.fightful.com/wrestling-news/aew-all-out-2026-preview-start-time-how-to-watch-location-9-26/",
-      "t": "1h",
-      "dt": "2026-09-26T12:00:00+00:00"
+      "h": "Steve Maclin Won’t Reveal Who Let Him Into AEW Dynamite, Comments On Possibly Joining Don Callis Family",
+      "p": "Steve Maclin comments on his possible future with AEW. Maclin made an unauthorized appearance at a recent AEW Dynamite taping, attacking Adam Copeland in the process. In a new interview with...",
+      "link": "https://www.fightful.com/wrestling-news/steve-maclin-wont-reveal-who-let-him-into-aew-dynamite-comments-on-possibly-joining-don-callis-family/",
+      "t": "7m",
+      "dt": "2026-09-26T17:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "AEW All Out lineup (Live Coverage Tonight): Will Ospreay vs. Jon Moxley for the AEW World Championship headlines tonight’s pay-per-view",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out lineup (Live Coverage Tonight): Will Ospreay vs. Jon Moxley for the AEW World Championship headlines tonight’s pay-per-view...",
-      "link": "https://prowrestling.net/site/2026/09/26/aew-all-out-lineup-live-coverage-tonight-will-ospreay-vs-jon-moxley-for-the-aew-world-championship-headlines-tonights-pay-per-view/",
-      "t": "2h",
-      "dt": "2026-09-26T11:00:48+00:00"
+      "h": "Murphy’s Blog: AEW All Out predictions – Will Jon Moxley play spoiler in Will Ospreay’s first AEW World Championship defense? Who will be Persephone’s open challenger for the TBS Championship?",
+      "p": "By Don Murphy, ProWrestling.net Contributor... The post Murphy’s Blog: AEW All Out predictions – Will Jon Moxley play spoiler in Will Ospreay’s first AEW World Championship defense? Who will be...",
+      "link": "https://prowrestling.net/site/2026/09/26/murphys-blog-aew-all-out-predictions-will-jon-moxley-play-spoiler-in-will-ospreays-first-aew-world-championship-defense-who-will-be-persephones-open-challenger-for-the-tbs-championship/",
+      "t": "7m",
+      "dt": "2026-09-26T17:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Thekla comments on possibility of Kairi Sane joining AEW",
+      "p": "Thekla has commented on the possibility of Kairi Sane joining AEW. Thekla and Sane have only met once previously, and that was at a Stardom show on May 27, 2023, when the team of Giulia, Mai...",
+      "link": "https://www.f4wonline.com/news/aew/thekla-comments-on-possibility-of-kairi-sane-joining-aew/",
+      "t": "28m",
+      "dt": "2026-09-26T16:39:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "News on WWE’s plans for future shows opposite AEW pay-per-views | Exclusive",
+      "p": "WWE plans to continue running events opposite AEW pay-per-views. WWE’s Worlds Collide from Chicago today has over 13,000 tickets distributed. WWE announced on Friday’s SmackDown that the event...",
+      "link": "https://www.f4wonline.com/news/aew/news-on-wwes-plans-for-future-shows-opposite-aew-pay-per-views-exclusive/",
+      "t": "59m",
+      "dt": "2026-09-26T16:07:56+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW All Out Tailgate Brawl Preview, Start Time, How To Watch",
-      "p": "Viewing information and lineup for AEW All Out Tailgate Brawl on September 26, 2026. AEW All Out Tailgate Brawl (September 26, 2026) Venue: NOW Arena City: Chicago, IL Time: 7 pm ET Channel: TNT,...",
-      "link": "https://www.fightful.com/wrestling-news/aew-all-out-tailgate-brawl-preview-start-time-how-to-watch/",
-      "t": "2h",
-      "dt": "2026-09-26T11:00:00+00:00"
+      "h": "Wheeler Yuta On ‘Yuta Scale’ Memes: It’s Incredibly Flattering To Be Mentioned In The Same Breath As The Great Muta",
+      "p": "Wheeler Yuta is flattered by the memes. After spilling buckets of blood during his AEW Rampage match with Jon Moxley in 2022, fans joked that Wheeler Yuta should be the new namesake for ‘The Muta...",
+      "link": "https://www.fightful.com/wrestling-news/wheeler-yuta-on-yuta-scale-memes-its-incredibly-flattering-to-be-mentioned-in-the-same-breath-as-the-great-muta/",
+      "t": "1h",
+      "dt": "2026-09-26T16:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW All Out 2026 Predictions: Wrestling Inc. Picks The Winners",
-      "p": "AEW All Out 2026 is officially upon us, and as always, the Wrestling Inc. staff are here to predict the winners of each and every match!",
-      "link": "https://www.wrestlinginc.com/2269718/aew-all-out-2026-predictions-winners/",
+      "h": "Ex-WWE Star Simone Johnson Names Current AEW Talent As Favorite Wrestler Of All Time",
+      "p": "Former \"WWE NXT\" General Manager Simone Johnson named her favorite wrestler of all time, as well as her favorite match.",
+      "link": "https://www.wrestlinginc.com/2264856/wwe-simone-johnson-aew-edge-adam-copeland-favorite-wrestler-match/",
+      "t": "1h",
+      "dt": "2026-09-26T16:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Thunder Rosa reflects on ‘real heat’ with Britt Baker ahead of AEW Dynamite match",
+      "p": "Thunder Rosa says she now views her rivalry with Britt Baker through “a different set of eyes.” Baker and Rosa’s feud in AEW from 2021 to 2022 will be revisited on AEW Dynamite in Pittsburgh on...",
+      "link": "https://www.f4wonline.com/news/aew/thunder-rosa-reflects-on-real-heat-with-britt-baker-ahead-of-aew-reunion/",
+      "t": "1h",
+      "dt": "2026-09-26T15:36:31+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Speedball Mike Bailey Reflects On AEW's Tribute To The Butcher",
+      "p": "\"Speedball\" Mike Bailey has opened up about the tribute AEW did for the late Andy \"The Butcher\" Williams on \"AEW Collision.\"",
+      "link": "https://www.wrestlinginc.com/2269811/speedball-mike-bailey-reflects-aew-tribute-butcher/",
+      "t": "1h",
+      "dt": "2026-09-26T15:17:11+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan: AEW All Out Is Mocha Joe’s",
+      "p": "Tony Khan can curb your enthusiasm. On Saturday, AEW All Out and AAA x WWE Worlds Collide will both take place in the Chicago area of Illinois, less than an hour away from each other. The...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-aew-all-out-is-mocha-joes/",
       "t": "3h",
-      "dt": "2026-09-26T10:00:00+00:00"
+      "dt": "2026-09-26T14:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Darby Allin on why he goes all out in matches: ‘There’s no room to have an off night’",
-      "p": "Darby Allin isn’t going to take it easy. The former AEW World Champion is known for taking huge risks during his matches, doing something that can make even the most ardent wrestling fans wince....",
-      "link": "https://www.f4wonline.com/news/aew/darby-allin-on-why-he-goes-all-out-in-matches-theres-no-room-to-have-an-off-night/",
-      "t": "10h",
-      "dt": "2026-09-26T02:31:28+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "John Morrison Compares Tony Khan To Vince McMahon: ‘I Sometimes Think He’s A Lot Like Vince Except With A Good Heart’",
-      "p": "John Morrison compares Tony Khan to Vince McMahon. Both Tony Khan and Vince McMahon are widely known names in the world of professional wrestling. Many talents who previously worked for Vince in...",
-      "link": "https://www.fightful.com/wrestling-news/john-morrison-compares-tony-khan-to-vince-mcmahon-i-sometimes-think-hes-a-lot-like-vince-except-with-a-good-heart/",
-      "t": "10h",
-      "dt": "2026-09-26T02:18:39+00:00"
+      "h": "Big Vinny V: Your AEW All Out 2026 watchability index",
+      "p": "There are a pair of big shows in Chicago on Saturday. There are also dozens of college football games around the country, not to mention the last weekend of Major League Baseball. With so much...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-your-aew-all-out-2026-watchability-index/",
+      "t": "3h",
+      "dt": "2026-09-26T14:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Steven Borden feels he was ‘pushed away’ from pro wrestling initially",
-      "p": "Steven Borden eventually embraced his father’s career path, but it took a while. Speaking to Renee Paquette, one of the newest members of the AEW roster spoke about his path to professional...",
-      "link": "https://www.f4wonline.com/news/aew/steven-borden-feels-he-was-pushed-away-from-pro-wrestling-initally/",
-      "t": "12h",
-      "dt": "2026-09-26T00:59:22+00:00"
+      "h": "Updated AEW All Out 2026 betting odds released",
+      "p": "Updated betting odds for today’s AEW All Out pay-per-view have been released. The odds below are courtesy of BetOnline. Will Ospreay is a -5000 favorite over Jon Moxley at +1200 in the AEW World...",
+      "link": "https://www.f4wonline.com/news/aew/updated-aew-all-out-2026-betting-odds-released/",
+      "t": "3h",
+      "dt": "2026-09-26T13:27:31+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Backstage Update On AEW Star Maya World's Injury Status",
-      "p": "A backstage update offered more information on the injury status of former AEW TBS Champion Maya World.",
-      "link": "https://www.wrestlinginc.com/2269668/aew-maya-world-backstage-update-injury-status/",
-      "t": "13h",
-      "dt": "2026-09-25T23:48:58+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: AEW All In preview, more on the Paramount deal",
-      "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. We talked about: Click here to listen (subscription...",
-      "link": "https://www.f4wonline.com/podcasts/wor-aew-all-in-preview-more-on-the-paramount-deal/",
-      "t": "13h",
-      "dt": "2026-09-25T23:23:53+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW All Out 2026 preview & predictions: All Apologies",
-      "p": "I owe Will Ospreay an apology. In my All In preview last month, I wrote that the main event did not carry the weight that a new champion deserved, that Ospreay was more attraction than foundation,...",
-      "link": "https://www.f4wonline.com/news/aew/aew-all-out-2026-preview-predictions/",
-      "t": "15h",
-      "dt": "2026-09-25T21:46:34+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on Kairi Sane potentially joining AEW",
-      "p": "Fans probably shouldn’t expect to see Kairi Sane make her AEW debut this weekend. After reporting that there had been talks between Sane and AEW, Fightful Select provided an update today and noted...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-kairi-sane-potentially-joining-aew/",
-      "t": "15h",
-      "dt": "2026-09-25T21:06:36+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Report Reveals Plans For Persephone's Mystery Challenger At AEW All Out",
-      "p": "A new report revealed the plans for TBS Champion Persephone's mystery challenger at AEW All Out on Saturday.",
-      "link": "https://www.wrestlinginc.com/2269418/aew-all-out-2026-persephone-dani-luna-plans-mystery-challenger/",
-      "t": "16h",
-      "dt": "2026-09-25T20:11:43+00:00"
+      "h": "AEW All Out 2026 Full & Final Card",
+      "p": "AEW All Out 2026 is upon us, and ahead of the big event, this is the full and final card the sold out Chicago card have to look forward to.",
+      "link": "https://www.wrestlinginc.com/2269010/aew-all-out-2026-full-final-card-matches/",
+      "t": "4h",
+      "dt": "2026-09-26T13:00:00+00:00"
     }
   ]
 }

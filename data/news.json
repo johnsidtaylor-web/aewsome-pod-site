@@ -1,22 +1,70 @@
 {
-  "updated": "2026-09-26T19:48:53.517724+00:00",
+  "updated": "2026-09-26T22:45:50.053041+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Watch: AEW All Out: BUY IN",
+      "p": "Watch: AEW All Out: BUY IN The post Watch: AEW All Out: BUY IN appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
+      "link": "https://www.fightful.com/wrestling-news/watch-aew-all-out-buy-in/",
+      "t": "17m",
+      "dt": "2026-09-26T22:28:01+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW All Out “Tailgate Brawl” pre-show results: Jack Perry vs. Katsuyori Shibata, Bang Bang Gang vs. David Finlay, Clark Connors, Wheeler Yuta, and Daniel Garcia",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out “Tailgate Brawl” pre-show results: Jack Perry vs. Katsuyori Shibata, Bang Bang Gang vs. David Finlay, Clark Connors, Wheeler Yuta,...",
+      "link": "https://prowrestling.net/site/2026/09/26/aew-all-out-tailgate-brawl-pre-show-results-jack-perry-vs-katsuyori-shibata-bang-bang-gang-vs-david-finlay-clark-connors-wheeler-yuta-and-daniel-garcia/",
+      "t": "35m",
+      "dt": "2026-09-26T22:10:39+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW All Out Results (9/26/2026): Will Ospreay vs. Jon Moxley, Ladder Match, THEKLA, Persephone, Andrade, More",
+      "p": "Full results for the September 26, 2026, edition of AEW All Out live from the NOW Arena in Chicago, Illinois. On September 26, 2026, All Elite Wrestling hosted a new edition of All Out on PPV, TNT...",
+      "link": "https://www.fightful.com/wrestling-news/aew-all-out-results-9-26-2026-will-ospreay-vs-jon-moxley-ladder-match-thekla-persephone-andrade-more/",
+      "t": "45m",
+      "dt": "2026-09-26T22:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW All Out 2026 live results: Will Ospreay vs. Jon Moxley",
+      "p": "AEW All Out 2026 is live tonight at the NOW Arena in Hoffman Estates, Illinois, The show will feature AEW World Champion Will Ospreay defending his title against Jon Moxley. The AEW Women’s World...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-all-out-2026-live-results-will-ospreay-vs-jon-moxley/",
+      "t": "45m",
+      "dt": "2026-09-26T22:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW All Out Results 9/26 - Several Titles On The Line, Two #1 Contenders Matches",
+      "p": "This is Wrestling Inc.'s coverage for AEW All Out 2026, with several championships on the line including Will Ospreay defending his AEW World Championship!",
+      "link": "https://www.wrestlinginc.com/2269727/aew-all-out-2026-several-titles-on-line-two-number-one-contenders-matches/",
+      "t": "45m",
+      "dt": "2026-09-26T22:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "Tony Khan details how he met Stephen Borden, says he will be in the ring with three wrestlers that have been at close to or at the top of AEW at All Out",
+      "p": "Tony Khan said he first met Stephen Borden when he was a tight end playing football at Kentucky, which is also how he met Stephen’s father Sting. “Well, I first met Steven when he was [...]",
+      "link": "https://www.pwtorch.com/site/2026/09/26/tony-khan-details-how-he-met-stephen-borden-says-he-will-be-in-the-ring-with-three-wrestlers-that-have-been-at-close-to-or-at-the-top-of-aew-at-all-out/",
+      "t": "2h",
+      "dt": "2026-09-26T20:16:45+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "WOL: When Worlds Barely Touch — AEW vs. AAA/WWE in Chicago",
       "p": "It’s the Saturday Wrestling Observer Live with Jim Valley. This week’s show is about when worlds are supposed to collide, but they don’t. They just kind of brush up against each other. That’s...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/when-worlds-barely-touch-aew-vs-aaa-wwe-in-chicago/",
-      "t": "27m",
+      "t": "3h",
       "dt": "2026-09-26T19:21:17+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Steven Borden: I Spent My Whole Life Running From Wrestling, But It Eventually Caught Up To Me",
       "p": "Steven Borden is set to make his in-ring debut on a pay-per-view at AEW All Out when he teams with with Darby Allin at AEW All Out. In a new vignette, Borden, the son of Sting, said, “I have spent...",
       "link": "https://www.fightful.com/wrestling-news/steven-borden-i-spent-my-whole-life-running-from-wrestling-but-it-eventually-caught-up-to-me/",
-      "t": "29m",
+      "t": "3h",
       "dt": "2026-09-26T19:18:55+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "Mike Bailey names AEW wrestlers he wants long-term programs with",
       "p": "Mike Bailey has named several wrestlers in AEW that he would like to have a long-term program with. Bailey recently joined United Empire after being invited into the group by AEW World Champion...",
       "link": "https://www.f4wonline.com/news/aew/mike-bailey-names-aew-wrestlers-he-wants-long-term-programs-with/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-26T18:40:37+00:00"
     },
     {
@@ -40,39 +88,15 @@
       "h": "There Were A Lot Of Inquiries Within AEW And WWE About The Status Of Evolve",
       "p": "Inquiries within WWE and AEW about the status of Evolve. WWE recently announced that starting in October, Main Event will be air exclusively on Rumble every Wednesday at 8 p.m. ET. This means the...",
       "link": "https://www.fightful.com/wrestling-news/there-were-a-lot-of-inquiries-within-aew-and-wwe-about-the-status-of-evolve/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-26T18:29:44+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kenny Omega Was Not Planned For AEW All Out",
-      "p": "Kenny Omega wasn’t planned for AEW All Out. Omega’s last televised match in All Elite Wrestling was at All In: London, where he lost the AEW World Championship to Will Ospreay. Since this match,...",
-      "link": "https://www.fightful.com/wrestling-news/kenny-omega-was-not-planned-for-aew-all-out/",
-      "t": "1h",
-      "dt": "2026-09-26T18:16:56+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Dax Harwood: I Don’t Know If Any Team Stepped Up And Taken What We’ve Built, We’re Begging Any Team To Take Our Spot",
-      "p": "FTR (Dax Harwood & Cash Wheeler) are one of the most decorated tag teams in wrestling history, winning titles in WWE, AEW, and NJPW. They’ll return to the ring at AEW All Out, competing in their...",
-      "link": "https://www.fightful.com/wrestling-news/dax-harwood-i-dont-know-if-any-team-stepped-up-and-taken-what-weve-built-were-begging-any-team-to-take-our-spot/",
-      "t": "1h",
-      "dt": "2026-09-26T18:11:11+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW’s Plan Is To Keep The Butcher On The AEW Roster Page Permanently",
-      "p": "The Butcher will remain on AEW’s roster page permanently. Earlier this month, on September 6, Andy Williams, who wrestled as The Butcher, passed away. The September 12 edition of AEW Collision was...",
-      "link": "https://www.fightful.com/wrestling-news/aews-plan-is-to-keep-the-butcher-on-the-aew-roster-page-permanently/",
-      "t": "1h",
-      "dt": "2026-09-26T18:10:36+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "Murphy’s Blog: AEW All Out predictions – Will Jon Moxley play spoiler in Will Ospreay’s first AEW World Championship defense? Who will be Persephone’s open challenger for the TBS Championship?",
       "p": "By Don Murphy, ProWrestling.net Contributor... The post Murphy’s Blog: AEW All Out predictions – Will Jon Moxley play spoiler in Will Ospreay’s first AEW World Championship defense? Who will be...",
       "link": "https://prowrestling.net/site/2026/09/26/murphys-blog-aew-all-out-predictions-will-jon-moxley-play-spoiler-in-will-ospreays-first-aew-world-championship-defense-who-will-be-persephones-open-challenger-for-the-tbs-championship/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-26T17:00:00+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "Thekla comments on possibility of Kairi Sane joining AEW",
       "p": "Thekla has commented on the possibility of Kairi Sane joining AEW. Thekla and Sane have only met once previously, and that was at a Stardom show on May 27, 2023, when the team of Giulia, Mai...",
       "link": "https://www.f4wonline.com/news/aew/thekla-comments-on-possibility-of-kairi-sane-joining-aew/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-09-26T16:39:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "News on WWE’s plans for future shows opposite AEW pay-per-views | Exclusive",
-      "p": "WWE plans to continue running events opposite AEW pay-per-views. WWE’s Worlds Collide from Chicago today has over 13,000 tickets distributed. WWE announced on Friday’s SmackDown that the event...",
-      "link": "https://www.f4wonline.com/news/aew/news-on-wwes-plans-for-future-shows-opposite-aew-pay-per-views-exclusive/",
-      "t": "3h",
-      "dt": "2026-09-26T16:07:56+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Ex-WWE Star Simone Johnson Names Current AEW Talent As Favorite Wrestler Of All Time",
-      "p": "Former \"WWE NXT\" General Manager Simone Johnson named her favorite wrestler of all time, as well as her favorite match.",
-      "link": "https://www.wrestlinginc.com/2264856/wwe-simone-johnson-aew-edge-adam-copeland-favorite-wrestler-match/",
-      "t": "3h",
-      "dt": "2026-09-26T16:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Thunder Rosa reflects on ‘real heat’ with Britt Baker ahead of AEW Dynamite match",
-      "p": "Thunder Rosa says she now views her rivalry with Britt Baker through “a different set of eyes.” Baker and Rosa’s feud in AEW from 2021 to 2022 will be revisited on AEW Dynamite in Pittsburgh on...",
-      "link": "https://www.f4wonline.com/news/aew/thunder-rosa-reflects-on-real-heat-with-britt-baker-ahead-of-aew-reunion/",
-      "t": "4h",
-      "dt": "2026-09-26T15:36:31+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-27T18:20:26.173123+00:00",
+  "updated": "2026-09-27T22:06:40.100348+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -13,10 +13,50 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "AEW All Out 2026: Biggest Winners & Losers",
+      "p": "The winners and the losers from the 2026 edition of AEW All Out.",
+      "link": "https://www.wrestlinginc.com/2270197/aew-all-out-2026-biggest-winners-losers-opinion-review/",
+      "t": "1h",
+      "dt": "2026-09-27T20:33:55+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland Comments On WWE x AAA Worlds Collide And AEW All Out Taking Place On The Same Night",
+      "p": "Swerve Strickland comments on AEW All Out and WWE Worlds Collide taking place on the same night. This Saturday (September 26), WWE and All Elite Wrestling held their shows, Worlds Collide and All...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-comments-on-wwe-x-aaa-worlds-collide-and-aew-all-out-taking-place-on-the-same-night/",
+      "t": "1h",
+      "dt": "2026-09-27T20:06:36+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Thunder Rosa Names AC/DC’s ‘Thunderstruck’ As Her Dream Entrance Theme In AEW",
+      "p": "Thunder Rosa would love to come out to AC/DC’s Thunderstruck. Former AEW Women’s World Champion Thunder Rosa currently uses “Blood and Fire” by Lexly Nirvana as her theme song in All Elite...",
+      "link": "https://www.fightful.com/wrestling-news/thunder-rosa-names-ac-dcs-thunderstruck-as-her-dream-entrance-theme-in-aew/",
+      "t": "2h",
+      "dt": "2026-09-27T19:53:30+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Will Ospreay Comments On WWE Running Worlds Collide Against AEW All Out In Chicago",
+      "p": "AEW World Champion Will Ospreay gets fired up when talking about All Out running opposite WWE x AAA Worlds Collide.",
+      "link": "https://www.wrestlinginc.com/2270167/will-ospreay-wwe-worlds-collide-aew-all-out-chicago/",
+      "t": "2h",
+      "dt": "2026-09-27T19:14:49+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Worlds End set for Minneapolis on December 19, Holiday Bash heading to Chicago",
+      "p": "AEW will bring Worlds End to Minneapolis for the first time on December 19, with its Holiday Bash television tapings following four days later in Chicago. The post AEW Worlds End set for...",
+      "link": "https://www.postwrestling.com/2026/09/27/aew-worlds-end-set-for-minneapolis-on-december-19-holiday-bash-heading-to-chicago/",
+      "t": "3h",
+      "dt": "2026-09-27T18:57:05+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "AEW's Anthony Henry Doesn't Know If He'll Be Able To Return To Pro Wrestling",
       "p": "AEW and ROH Anthony Henry reveals that his future is pro wrestling is currently up in the air due to a serious reoccurring neck issue.",
       "link": "https://www.wrestlinginc.com/2270139/aew-anthony-henry-doesnt-know-return-pro-wrestling-surgery/",
-      "t": "14m",
+      "t": "4h",
       "dt": "2026-09-27T18:05:38+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "NJPW DESTRUCTION IN KOBE (9/27) – Pomares’s results & analysis of Tsuji vs. Goto, Kidd vs. Moloney, Takagi vs. Castagnoli, Takeshita vs. Skywalker, Newman vs. Cobb, more",
       "p": "NJPW DESTRUCTION IN KOBE REPORT SEPTEMBER 27, 2026 KOBE, HYOGO, JAPAN AT KOBE WORLD MEMORIAL HALL AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentators: Chris...",
       "link": "https://www.pwtorch.com/site/2026/09/27/njpw-destruction-in-kobe-9-27-pomaress-results-analysis-of-tsuji-vs-goto-kidd-vs-moloney-takagi-vs-castagnoli-takeshita-vs-skywalker-newman-vs-cobb-more/",
-      "t": "17m",
+      "t": "4h",
       "dt": "2026-09-27T18:02:23+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Andrade: ‘Pac Has To Be A World Champion In The Future, But He Needs To Leave The Death Riders’",
       "p": "Andrade comments after wrestling Pac at AEW All Out. On the show, he defended his AEW National Championship against Pac and retained the belt successfully. Following their match, El Idolo made a...",
       "link": "https://www.fightful.com/wrestling-news/andrade-pac-has-to-be-a-world-champion-in-the-future-but-he-needs-to-leave-the-death-riders/",
-      "t": "19m",
+      "t": "4h",
       "dt": "2026-09-27T18:00:53+00:00"
     },
     {
@@ -40,72 +80,32 @@
       "h": "Kenny Omega Elaborates On Anime Inspiration Behind AEW All In Entrance & Match",
       "p": "Kenny Omega has opened up about his \"My Hero Academia\" inspired entrance and ring gear from his match at AEW All In London 2026.",
       "link": "https://www.wrestlinginc.com/2265703/aew-all-in-2026-kenny-omega-anime-inspiration-entrance-match-my-hero-academia/",
-      "t": "50m",
+      "t": "4h",
       "dt": "2026-09-27T17:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Dani Luna Comments After AEW Debut",
-      "p": "Dani Luna comments after her All Elite Wrestling debut. At AEW All Out, Persephone issued an open challenge for her TBS Championship, which was answered by Dani Luna. Fightful Select had...",
-      "link": "https://www.fightful.com/wrestling-news/dani-luna-comments-after-aew-debut/",
-      "t": "1h",
-      "dt": "2026-09-27T17:09:23+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Tony Khan Responds To Report That AEW Selling Out All Out 2026 Surprised WWE",
       "p": "AEW CEO Tony Khan reacts to a report of WWE officials being surprised by the sell crowd for All Out at Chicago's NOW Arena.",
       "link": "https://www.wrestlinginc.com/2270117/tony-khan-aew-all-out-2026-selling-out-surprised-wwe-report/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-09-27T16:35:00+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Kenny Omega And Kota Ibushi Reunite",
-      "p": "Kenny Omega and Kota Ibushi reunited in Japan. Ibushi posted a photo with Omega on Instagram, with the caption, “Thank you so much, Kenny! ✨ We had a secret meeting and watched boxing together! A...",
-      "link": "https://www.fightful.com/wrestling-news/kenny-omega-and-kota-ibushi-reunite/",
-      "t": "2h",
-      "dt": "2026-09-27T16:03:02+00:00"
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay addresses live crowd in Chicago following AEW All Out",
+      "p": "Will Ospreay addressed the live crowd following the end of AEW All Out 2026 on Saturday. Ospreay defeated Jon Moxley in the main event of the show. The broadcast went off the air with Ospreay...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-addresses-live-crowd-in-chicago-following-aew-all-out/",
+      "t": "6h",
+      "dt": "2026-09-27T16:05:27+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Worlds End date and location set for the final pay-per-view of 2027",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Worlds End date and location set for the final pay-per-view of 2027 appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/09/27/aew-worlds-end-date-and-location-set-for-the-final-pay-per-view-of-2027/",
-      "t": "2h",
-      "dt": "2026-09-27T15:47:48+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay To Defend AEW World Title Against Kazuchika Okada At Grand Slam France",
-      "p": "Following his successful title defense at AEW All Out, AEW World Champion Will Ospreay pivots his attention to Kazuchika Okada at Grand Slam France.",
-      "link": "https://www.wrestlinginc.com/2270108/will-ospreay-aew-world-title-kazuchika-okada-grand-slam-france/",
-      "t": "3h",
-      "dt": "2026-09-27T15:12:37+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage News On Why WWE Chose Not To Broadcast Worlds Collide 2026 Live",
-      "p": "A report has explained why WWE decided not to air Worlds Collide on Saturday, with the show taking place at the same time as All Out in Chicago.",
-      "link": "https://www.wrestlinginc.com/2270097/wwe-worlds-collide-2026-not-broadcast-live/",
-      "t": "3h",
-      "dt": "2026-09-27T14:56:42+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Provides Medical Update On Injured Steven Borden Following AEW All Out 2026",
-      "p": "AEW CEO Tony Khan has provided a positive update on Steven Borden's health after the wrestler suffered a nasty injury during his tag team match at All Out.",
-      "link": "https://www.wrestlinginc.com/2270081/tony-khan-medical-update-steven-borden-aew-all-out-2026/",
-      "t": "4h",
-      "dt": "2026-09-27T14:20:05+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW All Out press conference notes: Ospreay vs. Okada set for Grand Slam France",
-      "p": "Will Ospreay will defend the AEW World Championship against Kazuchika Okada at Grand Slam France on October 6 in Paris. The post AEW All Out press conference notes: Ospreay vs. Okada set for Grand...",
-      "link": "https://www.postwrestling.com/2026/09/27/aew-all-out-press-conference-notes-ospreay-vs-okada-set-for-grand-slam-france/",
       "t": "6h",
-      "dt": "2026-09-27T12:00:37+00:00"
+      "dt": "2026-09-27T15:47:48+00:00"
     }
   ]
 }

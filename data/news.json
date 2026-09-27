@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-27T13:54:49.118303+00:00",
+  "updated": "2026-09-27T18:20:26.173123+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (3 AEW items)",
+    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "Wrestling Inc",
-      "h": "Date And Location Announced For AEW Worlds End 2026",
-      "p": "AEW Worlds End will once again take place in December but won't be held in the final week of the year, as has been the case with the previous three editions.",
-      "link": "https://www.wrestlinginc.com/2270067/aew-worlds-end-2026-date-location-announced/",
-      "t": "11m",
-      "dt": "2026-09-27T13:42:55+00:00"
+      "h": "AEW's Anthony Henry Doesn't Know If He'll Be Able To Return To Pro Wrestling",
+      "p": "AEW and ROH Anthony Henry reveals that his future is pro wrestling is currently up in the air due to a serious reoccurring neck issue.",
+      "link": "https://www.wrestlinginc.com/2270139/aew-anthony-henry-doesnt-know-return-pro-wrestling-surgery/",
+      "t": "14m",
+      "dt": "2026-09-27T18:05:38+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "NJPW DESTRUCTION IN KOBE (9/27) – Pomares’s results & analysis of Tsuji vs. Goto, Kidd vs. Moloney, Takagi vs. Castagnoli, Takeshita vs. Skywalker, Newman vs. Cobb, more",
+      "p": "NJPW DESTRUCTION IN KOBE REPORT SEPTEMBER 27, 2026 KOBE, HYOGO, JAPAN AT KOBE WORLD MEMORIAL HALL AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentators: Chris...",
+      "link": "https://www.pwtorch.com/site/2026/09/27/njpw-destruction-in-kobe-9-27-pomaress-results-analysis-of-tsuji-vs-goto-kidd-vs-moloney-takagi-vs-castagnoli-takeshita-vs-skywalker-newman-vs-cobb-more/",
+      "t": "17m",
+      "dt": "2026-09-27T18:02:23+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Andrade: ‘Pac Has To Be A World Champion In The Future, But He Needs To Leave The Death Riders’",
+      "p": "Andrade comments after wrestling Pac at AEW All Out. On the show, he defended his AEW National Championship against Pac and retained the belt successfully. Following their match, El Idolo made a...",
+      "link": "https://www.fightful.com/wrestling-news/andrade-pac-has-to-be-a-world-champion-in-the-future-but-he-needs-to-leave-the-death-riders/",
+      "t": "19m",
+      "dt": "2026-09-27T18:00:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kenny Omega Elaborates On Anime Inspiration Behind AEW All In Entrance & Match",
+      "p": "Kenny Omega has opened up about his \"My Hero Academia\" inspired entrance and ring gear from his match at AEW All In London 2026.",
+      "link": "https://www.wrestlinginc.com/2265703/aew-all-in-2026-kenny-omega-anime-inspiration-entrance-match-my-hero-academia/",
+      "t": "50m",
+      "dt": "2026-09-27T17:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Dani Luna Comments After AEW Debut",
+      "p": "Dani Luna comments after her All Elite Wrestling debut. At AEW All Out, Persephone issued an open challenge for her TBS Championship, which was answered by Dani Luna. Fightful Select had...",
+      "link": "https://www.fightful.com/wrestling-news/dani-luna-comments-after-aew-debut/",
+      "t": "1h",
+      "dt": "2026-09-27T17:09:23+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Responds To Report That AEW Selling Out All Out 2026 Surprised WWE",
+      "p": "AEW CEO Tony Khan reacts to a report of WWE officials being surprised by the sell crowd for All Out at Chicago's NOW Arena.",
+      "link": "https://www.wrestlinginc.com/2270117/tony-khan-aew-all-out-2026-selling-out-surprised-wwe-report/",
+      "t": "1h",
+      "dt": "2026-09-27T16:35:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kenny Omega And Kota Ibushi Reunite",
+      "p": "Kenny Omega and Kota Ibushi reunited in Japan. Ibushi posted a photo with Omega on Instagram, with the caption, “Thank you so much, Kenny! ✨ We had a secret meeting and watched boxing together! A...",
+      "link": "https://www.fightful.com/wrestling-news/kenny-omega-and-kota-ibushi-reunite/",
+      "t": "2h",
+      "dt": "2026-09-27T16:03:02+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Worlds End date and location set for the final pay-per-view of 2027",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Worlds End date and location set for the final pay-per-view of 2027 appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/27/aew-worlds-end-date-and-location-set-for-the-final-pay-per-view-of-2027/",
+      "t": "2h",
+      "dt": "2026-09-27T15:47:48+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Will Ospreay To Defend AEW World Title Against Kazuchika Okada At Grand Slam France",
+      "p": "Following his successful title defense at AEW All Out, AEW World Champion Will Ospreay pivots his attention to Kazuchika Okada at Grand Slam France.",
+      "link": "https://www.wrestlinginc.com/2270108/will-ospreay-aew-world-title-kazuchika-okada-grand-slam-france/",
+      "t": "3h",
+      "dt": "2026-09-27T15:12:37+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage News On Why WWE Chose Not To Broadcast Worlds Collide 2026 Live",
+      "p": "A report has explained why WWE decided not to air Worlds Collide on Saturday, with the show taking place at the same time as All Out in Chicago.",
+      "link": "https://www.wrestlinginc.com/2270097/wwe-worlds-collide-2026-not-broadcast-live/",
+      "t": "3h",
+      "dt": "2026-09-27T14:56:42+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Provides Medical Update On Injured Steven Borden Following AEW All Out 2026",
+      "p": "AEW CEO Tony Khan has provided a positive update on Steven Borden's health after the wrestler suffered a nasty injury during his tag team match at All Out.",
+      "link": "https://www.wrestlinginc.com/2270081/tony-khan-medical-update-steven-borden-aew-all-out-2026/",
+      "t": "4h",
+      "dt": "2026-09-27T14:20:05+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW All Out press conference notes: Ospreay vs. Okada set for Grand Slam France",
       "p": "Will Ospreay will defend the AEW World Championship against Kazuchika Okada at Grand Slam France on October 6 in Paris. The post AEW All Out press conference notes: Ospreay vs. Okada set for Grand...",
       "link": "https://www.postwrestling.com/2026/09/27/aew-all-out-press-conference-notes-ospreay-vs-okada-set-for-grand-slam-france/",
-      "t": "1h",
-      "dt": "2026-09-27T12:00:37+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Shingo Takagi Scores Win Over Claudio Castagnoli At NJPW Destruction In Kobe",
-      "p": "Shingo Takagi picked up a victory for NJPW over AEW at Destruction in Kobe. Takagi won the special singles match with the Last of the Dragon. Before the finish, Shingo hit a pumping bomber and the...",
-      "link": "https://www.fightful.com/wrestling-news/shingo-takagi-scores-win-over-claudio-castagnoli-at-njpw-destruction-in-kobe/",
-      "t": "4h",
-      "dt": "2026-09-27T09:33:12+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Shun Skywalker captures NJPW World TV Title, dethroning Konosuke Takeshita at Destruction in Kobe",
-      "p": "Former Dragon Gate talent Shun Skywalker won his first NJPW title on Sunday, putting an end to Konosuke Takeshita's reign. The post Shun Skywalker captures NJPW World TV Title, dethroning Konosuke...",
-      "link": "https://www.postwrestling.com/2026/09/27/shun-skywalker-captures-njpw-world-tv-title-dethroning-konosuke-takeshita-at-destruction-in-kobe/",
-      "t": "4h",
-      "dt": "2026-09-27T09:08:05+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Shun Skywalker Def. Konosuke Takeshita To Become NJPW World TV Champion At Destruction In Kobe",
-      "p": "Shun Skywalker is the new champion. The first title match of the night at New Japan Pro-Wrestling’s Destruction in Kobe show was Konosuke Takeshita defending the NJPW World Television Championship...",
-      "link": "https://www.fightful.com/wrestling-news/shun-skywalker-def-konosuke-takeshita-to-become-njpw-world-tv-champion-at-destruction-in-kobe/",
-      "t": "4h",
-      "dt": "2026-09-27T09:06:56+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: AEW All Out recap",
-      "p": "Dave Meltzer and I are back on Wrestling Observer Radio to recap AEW’s All Out PPV. We talked about: Click here to listen (subscription required) or watch on YouTube.",
-      "link": "https://www.f4wonline.com/podcasts/wor-aew-all-out-recap/",
-      "t": "5h",
-      "dt": "2026-09-27T08:40:45+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 9/27 – PWTorch Dailycast – Wrestling Night in America – AEW All Out post-show: Parks & White break down the full card including Thekla vs. Willow, Tag Team Ladder match, Moxley vs. Ospreay, more (103 min.)",
-      "p": "SHOW SUMMARY: In our post-PPV “Wrestling Night in America” format, PWTorch columnist Greg Parks is joined by PWTorch.com contributor Joshua White to discuss in-depth AEW All Out, including...",
-      "link": "https://www.pwtorch.com/site/2026/09/27/free-podcast-9-27-pwtorch-dailycast-wrestling-night-in-america-aew-all-out-post-show-parks-white-break-down-the-full-card-including-thekla-vs-willow-tag-team-ladder-match-moxley-vs-osprea/",
-      "t": "5h",
-      "dt": "2026-09-27T08:06:23+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan responds to report WWE didn’t expect AEW All Out to sell as well as it did",
-      "p": "Tony Khan is surprised WWE would be surprised at their success. During the All Out media scrum that took place following Saturday’s show in Chicago, Tony Khan took time to bring up a Fightful...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-responds-to-report-wwe-didnt-expect-aew-all-out-to-sell-as-well-as-it-did/",
       "t": "6h",
-      "dt": "2026-09-27T07:01:35+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "09/27 AEW All Out audio review: Will Ospreay vs. Jon Moxley for the AEW World Championship, Adam Copeland and Christian Cage vs. FTR vs. Young Bucks in a CLT match for the AEW Tag Titles",
-      "p": "By Jake Barnett (@barnettjake), Will Pruett (@itswilltime),... The post 09/27 AEW All Out audio review: Will Ospreay vs. Jon Moxley for the AEW World Championship, Adam Copeland and Christian Cage...",
-      "link": "https://prowrestling.net/site/2026/09/27/09-27-aew-all-out-audio-review-will-ospreay-vs-jon-moxley-for-the-aew-world-championship-adam-copeland-and-christian-cage-vs-ftr-vs-young-bucks-in-a-clt-match-for-the-aew-tag-titles/",
-      "t": "7h",
-      "dt": "2026-09-27T06:25:42+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 9/26 – AEW All Out PPV Audio Roundtable: Keller & Martin & Lansdell review Moxley vs. Ospreay, Borden injury, New Level & Swerve vs. Hangman & Brody & Bandido, Bucks-FTR-Copeland & Christian (64 min.)",
-      "p": "SHOW SUMMARY: In this VIP Post-Event Audio Roundtable covering the AEW All Out PPV event, PWTorch editor Wade Keller, PWTorch VIP analyst Todd Martin, and PWTorch contributor Chris Lansdell...",
-      "link": "https://www.pwtorch.com/site/2026/09/27/vip-podcast-9-26-aew-all-out-ppv-audio-roundtable-keller-martin-lansdell-review-moxley-vs-ospreay-borden-injury-new-level-swerve-vs-hangman-brody-bandido-bucks-ftr-copeland/",
-      "t": "7h",
-      "dt": "2026-09-27T06:17:21+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Holiday Bash Announced For December 23",
-      "p": "AEW Holiday Bash returns. All Elite Wrestling announced that Holiday Bash will be held on Wednesday, December 23 from the Wintrust Arena in Chicago, IL. The event will feature a live episode of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-holiday-bash-announced-for-december-23/",
-      "t": "7h",
-      "dt": "2026-09-27T06:01:36+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Thinks Aztec Stadium In Mexico Could Be A Great Venue For Wrestling",
-      "p": "Tony Khan thinks the stadium could be a great wrestling venue. Coming off the heels of the 2026 AEW All Out pay-per-view, the post-show media scrum took place, and while AEW President Tony Khan...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-thinks-aztec-stadium-in-mexico-could-be-a-great-venue-for-wrestling/",
-      "t": "7h",
-      "dt": "2026-09-27T05:57:50+00:00"
+      "dt": "2026-09-27T12:00:37+00:00"
     }
   ]
 }

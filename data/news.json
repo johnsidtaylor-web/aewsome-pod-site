@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T08:05:04.350949+00:00",
+  "updated": "2026-09-27T13:54:49.118303+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
@@ -12,11 +12,67 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Date And Location Announced For AEW Worlds End 2026",
+      "p": "AEW Worlds End will once again take place in December but won't be held in the final week of the year, as has been the case with the previous three editions.",
+      "link": "https://www.wrestlinginc.com/2270067/aew-worlds-end-2026-date-location-announced/",
+      "t": "11m",
+      "dt": "2026-09-27T13:42:55+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW All Out press conference notes: Ospreay vs. Okada set for Grand Slam France",
+      "p": "Will Ospreay will defend the AEW World Championship against Kazuchika Okada at Grand Slam France on October 6 in Paris. The post AEW All Out press conference notes: Ospreay vs. Okada set for Grand...",
+      "link": "https://www.postwrestling.com/2026/09/27/aew-all-out-press-conference-notes-ospreay-vs-okada-set-for-grand-slam-france/",
+      "t": "1h",
+      "dt": "2026-09-27T12:00:37+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Shingo Takagi Scores Win Over Claudio Castagnoli At NJPW Destruction In Kobe",
+      "p": "Shingo Takagi picked up a victory for NJPW over AEW at Destruction in Kobe. Takagi won the special singles match with the Last of the Dragon. Before the finish, Shingo hit a pumping bomber and the...",
+      "link": "https://www.fightful.com/wrestling-news/shingo-takagi-scores-win-over-claudio-castagnoli-at-njpw-destruction-in-kobe/",
+      "t": "4h",
+      "dt": "2026-09-27T09:33:12+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Shun Skywalker captures NJPW World TV Title, dethroning Konosuke Takeshita at Destruction in Kobe",
+      "p": "Former Dragon Gate talent Shun Skywalker won his first NJPW title on Sunday, putting an end to Konosuke Takeshita's reign. The post Shun Skywalker captures NJPW World TV Title, dethroning Konosuke...",
+      "link": "https://www.postwrestling.com/2026/09/27/shun-skywalker-captures-njpw-world-tv-title-dethroning-konosuke-takeshita-at-destruction-in-kobe/",
+      "t": "4h",
+      "dt": "2026-09-27T09:08:05+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Shun Skywalker Def. Konosuke Takeshita To Become NJPW World TV Champion At Destruction In Kobe",
+      "p": "Shun Skywalker is the new champion. The first title match of the night at New Japan Pro-Wrestling’s Destruction in Kobe show was Konosuke Takeshita defending the NJPW World Television Championship...",
+      "link": "https://www.fightful.com/wrestling-news/shun-skywalker-def-konosuke-takeshita-to-become-njpw-world-tv-champion-at-destruction-in-kobe/",
+      "t": "4h",
+      "dt": "2026-09-27T09:06:56+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOR: AEW All Out recap",
+      "p": "Dave Meltzer and I are back on Wrestling Observer Radio to recap AEW’s All Out PPV. We talked about: Click here to listen (subscription required) or watch on YouTube.",
+      "link": "https://www.f4wonline.com/podcasts/wor-aew-all-out-recap/",
+      "t": "5h",
+      "dt": "2026-09-27T08:40:45+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 9/27 – PWTorch Dailycast – Wrestling Night in America – AEW All Out post-show: Parks & White break down the full card including Thekla vs. Willow, Tag Team Ladder match, Moxley vs. Ospreay, more (103 min.)",
+      "p": "SHOW SUMMARY: In our post-PPV “Wrestling Night in America” format, PWTorch columnist Greg Parks is joined by PWTorch.com contributor Joshua White to discuss in-depth AEW All Out, including...",
+      "link": "https://www.pwtorch.com/site/2026/09/27/free-podcast-9-27-pwtorch-dailycast-wrestling-night-in-america-aew-all-out-post-show-parks-white-break-down-the-full-card-including-thekla-vs-willow-tag-team-ladder-match-moxley-vs-osprea/",
+      "t": "5h",
+      "dt": "2026-09-27T08:06:23+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Tony Khan responds to report WWE didn’t expect AEW All Out to sell as well as it did",
       "p": "Tony Khan is surprised WWE would be surprised at their success. During the All Out media scrum that took place following Saturday’s show in Chicago, Tony Khan took time to bring up a Fightful...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-responds-to-report-wwe-didnt-expect-aew-all-out-to-sell-as-well-as-it-did/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-27T07:01:35+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "09/27 AEW All Out audio review: Will Ospreay vs. Jon Moxley for the AEW World Championship, Adam Copeland and Christian Cage vs. FTR vs. Young Bucks in a CLT match for the AEW Tag Titles",
       "p": "By Jake Barnett (@barnettjake), Will Pruett (@itswilltime),... The post 09/27 AEW All Out audio review: Will Ospreay vs. Jon Moxley for the AEW World Championship, Adam Copeland and Christian Cage...",
       "link": "https://prowrestling.net/site/2026/09/27/09-27-aew-all-out-audio-review-will-ospreay-vs-jon-moxley-for-the-aew-world-championship-adam-copeland-and-christian-cage-vs-ftr-vs-young-bucks-in-a-clt-match-for-the-aew-tag-titles/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-09-27T06:25:42+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "VIP PODCAST 9/26 – AEW All Out PPV Audio Roundtable: Keller & Martin & Lansdell review Moxley vs. Ospreay, Borden injury, New Level & Swerve vs. Hangman & Brody & Bandido, Bucks-FTR-Copeland & Christian (64 min.)",
       "p": "SHOW SUMMARY: In this VIP Post-Event Audio Roundtable covering the AEW All Out PPV event, PWTorch editor Wade Keller, PWTorch VIP analyst Todd Martin, and PWTorch contributor Chris Lansdell...",
       "link": "https://www.pwtorch.com/site/2026/09/27/vip-podcast-9-26-aew-all-out-ppv-audio-roundtable-keller-martin-lansdell-review-moxley-vs-ospreay-borden-injury-new-level-swerve-vs-hangman-brody-bandido-bucks-ftr-copeland/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-09-27T06:17:21+00:00"
     },
     {
@@ -40,7 +96,7 @@
       "h": "AEW Holiday Bash Announced For December 23",
       "p": "AEW Holiday Bash returns. All Elite Wrestling announced that Holiday Bash will be held on Wednesday, December 23 from the Wintrust Arena in Chicago, IL. The event will feature a live episode of...",
       "link": "https://www.fightful.com/wrestling-news/aew-holiday-bash-announced-for-december-23/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-09-27T06:01:36+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "Tony Khan Thinks Aztec Stadium In Mexico Could Be A Great Venue For Wrestling",
       "p": "Tony Khan thinks the stadium could be a great wrestling venue. Coming off the heels of the 2026 AEW All Out pay-per-view, the post-show media scrum took place, and while AEW President Tony Khan...",
       "link": "https://www.fightful.com/wrestling-news/tony-khan-thinks-aztec-stadium-in-mexico-could-be-a-great-venue-for-wrestling/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-09-27T05:57:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay vs. Kazuchika Okada announced for AEW Grand Slam France",
-      "p": "Will Ospreay is now set to defend his World Championship against Kazuchika Okada at AEW Grand Slam France. At the AEW All Out post-show media scrum, Ospreay called out and challenged Kazuchika...",
-      "link": "https://www.f4wonline.com/news/aew/will-ospreay-vs-kazuchika-okada-announced-for-aew-grand-slam-france/",
-      "t": "2h",
-      "dt": "2026-09-27T05:46:25+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Was Surprised That WWE Was Surprised AEW All Out Sold So Well, ‘We’ve Sold Out This Arena Many Times’",
-      "p": "Tony Khan replies to a Fightful report. Fightful Select noted ahead of AEW All Out, “Regarding Worlds Collide, it doesn’t take much to figure this out, but WWE ran this show directly to impact AEW...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-was-surprised-that-wwe-was-surprised-aew-all-out-sold-so-well-weve-sold-out-this-arena-many-times/",
-      "t": "2h",
-      "dt": "2026-09-27T05:44:10+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW All Out 2026: 3 Things We Hated & 3 Things We Loved",
-      "p": "On a night that saw Will Ospreay make his first AEW world title defense, here are three things we hated and three things we loved about AEW All Out 2026!",
-      "link": "https://www.wrestlinginc.com/2270010/aew-all-out-2026-hated-loved-opinion-review/",
-      "t": "2h",
-      "dt": "2026-09-27T05:40:12+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay To Defend AEW World Title Against Kazuchika Okada At Grand Slam: France",
-      "p": "Will Ospreay calls out Kazuchika Okada. The main event of the 2026 All Elite Wrestling All Out pay-per-view was Will Ospreay defending the AEW World Championship against Jon Moxley. Ospreay...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-to-defend-aew-world-title-against-kazuchika-okada-at-grand-slam-france/",
-      "t": "2h",
-      "dt": "2026-09-27T05:36:49+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Tony Khan says Steven Borden’s hospital tests were good, can hopefully fly home tomorrow",
-      "p": "Tony Khan opened the post-AEW All Out press conference with a further positive update on Steven Borden. The post Tony Khan says Steven Borden’s hospital tests were good, can hopefully fly home...",
-      "link": "https://www.postwrestling.com/2026/09/27/tony-khan-says-steven-bordens-hospital-tests-were-good-can-hopefully-fly-home-tomorrow/",
-      "t": "2h",
-      "dt": "2026-09-27T05:29:14+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tony Khan Provides Update On Steven Borden: “He Had A CT Scan & All The Tests Have Come Back Good”",
-      "p": "The latest update on Steven Borden. The 2026 All Elite Wrestling All Out pay-per-view featured a tag team match that saw The Don Callis Family’s Kevin Knight and Kyle Fletcher versus Steven Borden...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-provides-update-on-steven-borden-he-had-a-ct-scan-all-the-tests-have-come-back-good/",
-      "t": "2h",
-      "dt": "2026-09-27T05:27:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay: Everyone Who Came To AEW All Out Made The Right Choice, Do Not Fucking Step To Us",
-      "p": "Will Ospreay speaks on WWE running against AEW in Chicago. On Saturday, AEW held AEW All Out at the NOW Arena in Chicago, while WWE held Worlds Collide at the Allstate Arena in Chicago. Will...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-everyone-who-came-to-aew-all-out-made-the-right-choice-do-not-fucking-step-to-us/",
-      "t": "2h",
-      "dt": "2026-09-27T05:26:23+00:00"
     }
   ]
 }

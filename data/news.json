@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-26T22:45:50.053041+00:00",
+  "updated": "2026-09-27T01:24:08.455073+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Watch: AEW All Out: BUY IN",
-      "p": "Watch: AEW All Out: BUY IN The post Watch: AEW All Out: BUY IN appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
-      "link": "https://www.fightful.com/wrestling-news/watch-aew-all-out-buy-in/",
-      "t": "17m",
-      "dt": "2026-09-26T22:28:01+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW All Out “Tailgate Brawl” pre-show results: Jack Perry vs. Katsuyori Shibata, Bang Bang Gang vs. David Finlay, Clark Connors, Wheeler Yuta, and Daniel Garcia",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW All Out “Tailgate Brawl” pre-show results: Jack Perry vs. Katsuyori Shibata, Bang Bang Gang vs. David Finlay, Clark Connors, Wheeler Yuta,...",
-      "link": "https://prowrestling.net/site/2026/09/26/aew-all-out-tailgate-brawl-pre-show-results-jack-perry-vs-katsuyori-shibata-bang-bang-gang-vs-david-finlay-clark-connors-wheeler-yuta-and-daniel-garcia/",
-      "t": "35m",
-      "dt": "2026-09-26T22:10:39+00:00"
+      "src": "POST Wrestling",
+      "h": "Persephone retains TBS Championship against surprise challenger Dani Luna at AEW All Out",
+      "p": "Persephone retained the TBS Championship against surprise challenger Dani Luna at AEW All Out. The post Persephone retains TBS Championship against surprise challenger Dani Luna at AEW All Out...",
+      "link": "https://www.postwrestling.com/2026/09/26/persephone-retains-tbs-championship-against-surprise-challenger-dani-luna-at-aew-all-out/",
+      "t": "3m",
+      "dt": "2026-09-27T01:21:05+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW All Out Results (9/26/2026): Will Ospreay vs. Jon Moxley, Ladder Match, THEKLA, Persephone, Andrade, More",
-      "p": "Full results for the September 26, 2026, edition of AEW All Out live from the NOW Arena in Chicago, Illinois. On September 26, 2026, All Elite Wrestling hosted a new edition of All Out on PPV, TNT...",
-      "link": "https://www.fightful.com/wrestling-news/aew-all-out-results-9-26-2026-will-ospreay-vs-jon-moxley-ladder-match-thekla-persephone-andrade-more/",
-      "t": "45m",
-      "dt": "2026-09-26T22:00:00+00:00"
+      "h": "Persephone Def. Dani Luna To Retain TBS Championship At AEW All Out",
+      "p": "All Out featured a TBS Title open challenge. One of the title matches on the card for the 2026 All Elite Wrestling All Out pay-per-view was Persephone issuing an open challenge for her TBS...",
+      "link": "https://www.fightful.com/wrestling-news/persephone-def-dani-luna-to-retain-tbs-championship-at-aew-all-out/",
+      "t": "5m",
+      "dt": "2026-09-27T01:18:56+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW All Out 2026 live results: Will Ospreay vs. Jon Moxley",
-      "p": "AEW All Out 2026 is live tonight at the NOW Arena in Hoffman Estates, Illinois, The show will feature AEW World Champion Will Ospreay defending his title against Jon Moxley. The AEW Women’s World...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-all-out-2026-live-results-will-ospreay-vs-jon-moxley/",
-      "t": "45m",
-      "dt": "2026-09-26T22:00:00+00:00"
+      "h": "Number one contender’s match stopped during AEW All Out 2026 following Steven Borden injury",
+      "p": "The number one contender’s match at AEW All Out was stopped following an injury. As Darby Allin & Steven Borden were wrestling Kevin Knight & Kyle Fletcher on Saturday in Chicago, Borden and...",
+      "link": "https://www.f4wonline.com/news/aew/number-one-contenders-match-stopped-during-aew-all-out-2026-following-steven-borden-injury/",
+      "t": "9m",
+      "dt": "2026-09-27T01:14:22+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW All Out Results 9/26 - Several Titles On The Line, Two #1 Contenders Matches",
-      "p": "This is Wrestling Inc.'s coverage for AEW All Out 2026, with several championships on the line including Will Ospreay defending his AEW World Championship!",
-      "link": "https://www.wrestlinginc.com/2269727/aew-all-out-2026-several-titles-on-line-two-number-one-contenders-matches/",
-      "t": "45m",
-      "dt": "2026-09-26T22:00:00+00:00"
+      "h": "AEW All Out 2026 Tag Match Stopped By Referee After Apparent Injury To Steven Borden",
+      "p": "Steven Borden made his pay-per-view debut alongside Darby Allin against Kyle Fletcher and Kevin Knight at AEW All In 2026. The match ended due to ref stoppage.",
+      "link": "https://www.wrestlinginc.com/2269933/aew-all-out-2026-stopped-referee-injury-steven-borden/",
+      "t": "16m",
+      "dt": "2026-09-27T01:07:29+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kyle Fletcher And Kevin Knight Become #1 Contenders To AEW World Tag Team Titles At AEW All Out, Match Ends Via Referee Stoppage",
+      "p": "Kyle Fletcher and Kevin Knight win at AEW All Out 2026. For the AEW All Out 2026 pay-per-view, the company announced a #1 contendership match for the AEW World Tag Team Championship pitting Darby...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-and-kevin-knight-become-1-contenders-to-aew-world-tag-team-titles-at-aew-all-out-match-ends-via-referee-stoppage/",
+      "t": "18m",
+      "dt": "2026-09-27T01:05:36+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Steven Borden match stopped by ringside doctor after apparent head impact at AEW All Out",
+      "p": "Steven Borden’s match at AEW All Out was stopped by the ringside doctor after he appeared to strike the back of his head on the mat. The post Steven Borden match stopped by ringside doctor after...",
+      "link": "https://www.postwrestling.com/2026/09/26/steven-borden-match-stopped-by-ringside-doctor-after-apparent-head-impact-at-aew-all-out/",
+      "t": "21m",
+      "dt": "2026-09-27T01:02:34+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "Tony Khan details how he met Stephen Borden, says he will be in the ring with three wrestlers that have been at close to or at the top of AEW at All Out",
-      "p": "Tony Khan said he first met Stephen Borden when he was a tight end playing football at Kentucky, which is also how he met Stephen’s father Sting. “Well, I first met Steven when he was [...]",
-      "link": "https://www.pwtorch.com/site/2026/09/26/tony-khan-details-how-he-met-stephen-borden-says-he-will-be-in-the-ring-with-three-wrestlers-that-have-been-at-close-to-or-at-the-top-of-aew-at-all-out/",
-      "t": "2h",
-      "dt": "2026-09-26T20:16:45+00:00"
+      "h": "Steven Borden appears to be seriously injured during match on AEW All Out PPV, match stopped immediately",
+      "p": "Steven Borden, the son of Sting, appeared to suffer a serious injury during the second match on the AEW All Out PPV. The match was called off after Borden stopped moving after a hard landing. [...]",
+      "link": "https://www.pwtorch.com/site/2026/09/26/steven-borden-appears-to-be-seriously-injured-during-match-on-aew-all-out-ppv-match-stopped-immediately/",
+      "t": "23m",
+      "dt": "2026-09-27T01:00:10+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "WOL: When Worlds Barely Touch — AEW vs. AAA/WWE in Chicago",
-      "p": "It’s the Saturday Wrestling Observer Live with Jim Valley. This week’s show is about when worlds are supposed to collide, but they don’t. They just kind of brush up against each other. That’s...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/when-worlds-barely-touch-aew-vs-aaa-wwe-in-chicago/",
-      "t": "3h",
-      "dt": "2026-09-26T19:21:17+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Steven Borden: I Spent My Whole Life Running From Wrestling, But It Eventually Caught Up To Me",
-      "p": "Steven Borden is set to make his in-ring debut on a pay-per-view at AEW All Out when he teams with with Darby Allin at AEW All Out. In a new vignette, Borden, the son of Sting, said, “I have spent...",
-      "link": "https://www.fightful.com/wrestling-news/steven-borden-i-spent-my-whole-life-running-from-wrestling-but-it-eventually-caught-up-to-me/",
-      "t": "3h",
-      "dt": "2026-09-26T19:18:55+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mike Bailey names AEW wrestlers he wants long-term programs with",
-      "p": "Mike Bailey has named several wrestlers in AEW that he would like to have a long-term program with. Bailey recently joined United Empire after being invited into the group by AEW World Champion...",
-      "link": "https://www.f4wonline.com/news/aew/mike-bailey-names-aew-wrestlers-he-wants-long-term-programs-with/",
-      "t": "4h",
-      "dt": "2026-09-26T18:40:37+00:00"
+      "src": "POST Wrestling",
+      "h": "AEW All Out 2026 Review, Results & Analysis (LIVE TONIGHT)",
+      "p": "TONIGHT 12:30am ET — John Pollock and Wai Ting review AEW All Out 2026 featuring Will Ospreay vs. Jon Moxley for the AEW World Championship. The post AEW All Out 2026 Review, Results & Analysis...",
+      "link": "https://www.postwrestling.com/2026/09/26/aew-all-out-2026-review-results-analysis-live-tonight/",
+      "t": "23m",
+      "dt": "2026-09-27T01:00:09+00:00"
     },
     {
       "src": "Fightful",
-      "h": "There Were A Lot Of Inquiries Within AEW And WWE About The Status Of Evolve",
-      "p": "Inquiries within WWE and AEW about the status of Evolve. WWE recently announced that starting in October, Main Event will be air exclusively on Rumble every Wednesday at 8 p.m. ET. This means the...",
-      "link": "https://www.fightful.com/wrestling-news/there-were-a-lot-of-inquiries-within-aew-and-wwe-about-the-status-of-evolve/",
-      "t": "4h",
-      "dt": "2026-09-26T18:29:44+00:00"
+      "h": "Dani Luna Answers TBS Title Open Challenge At AEW All Out",
+      "p": "Dani Luna answered the call. Heading into the 2026 All Elite Wrestling All Out pay-per-view, it was advertised that Persephone would issue an open challenge for her TBS Championship. At match...",
+      "link": "https://www.fightful.com/wrestling-news/dani-luna-answers-tbs-title-open-challenge-at-aew-all-out/",
+      "t": "24m",
+      "dt": "2026-09-27T01:00:00+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "Murphy’s Blog: AEW All Out predictions – Will Jon Moxley play spoiler in Will Ospreay’s first AEW World Championship defense? Who will be Persephone’s open challenger for the TBS Championship?",
-      "p": "By Don Murphy, ProWrestling.net Contributor... The post Murphy’s Blog: AEW All Out predictions – Will Jon Moxley play spoiler in Will Ospreay’s first AEW World Championship defense? Who will be...",
-      "link": "https://prowrestling.net/site/2026/09/26/murphys-blog-aew-all-out-predictions-will-jon-moxley-play-spoiler-in-will-ospreays-first-aew-world-championship-defense-who-will-be-persephones-open-challenger-for-the-tbs-championship/",
-      "t": "5h",
-      "dt": "2026-09-26T17:00:00+00:00"
+      "src": "Wrestling Inc",
+      "h": "Andrade El Idolo Defeats Pac, Retains AEW National Title In All Out 2026 Opener",
+      "p": "Andrade El Idolo is still AEW National Champion, despite Marina Shafir's best efforts, after a victory over Pac in the opener of AEW All Out 2026.",
+      "link": "https://www.wrestlinginc.com/2269917/aew-all-out-2026-andrade-el-idolo-defeats-pac-national-title/",
+      "t": "43m",
+      "dt": "2026-09-27T00:40:48+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Thekla comments on possibility of Kairi Sane joining AEW",
-      "p": "Thekla has commented on the possibility of Kairi Sane joining AEW. Thekla and Sane have only met once previously, and that was at a Stardom show on May 27, 2023, when the team of Giulia, Mai...",
-      "link": "https://www.f4wonline.com/news/aew/thekla-comments-on-possibility-of-kairi-sane-joining-aew/",
-      "t": "6h",
-      "dt": "2026-09-26T16:39:00+00:00"
+      "src": "POST Wrestling",
+      "h": "Andrade El Idolo retains AEW National Title against PAC at All Out",
+      "p": "Andrade El Idolo retained the AEW National Championship against PAC in the opening match of Saturday’s All Out pay-per-view. The post Andrade El Idolo retains AEW National Title against PAC at All...",
+      "link": "https://www.postwrestling.com/2026/09/26/andrade-el-idolo-retains-aew-national-title-against-pac-at-all-out/",
+      "t": "45m",
+      "dt": "2026-09-27T00:39:05+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Andrade El Idolo Scores Win Over PAC To Retain AEW National Title At All Out",
+      "p": "Andrade El Idolo holds onto the gold. The opening match of the main card at All Elite Wrestling’s 2026 All Out pay-per-view was PAC challenging Andrade El Idolo for the AEW National Championship....",
+      "link": "https://www.fightful.com/wrestling-news/andrade-el-idolo-scores-win-over-pac-to-retain-aew-national-title-at-all-out/",
+      "t": "49m",
+      "dt": "2026-09-27T00:34:26+00:00"
     }
   ]
 }

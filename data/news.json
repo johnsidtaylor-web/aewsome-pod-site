@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-27T22:06:40.100348+00:00",
+  "updated": "2026-09-28T00:42:06.333372+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "Tony Khan gives update on Steven Borden’s condition after All Out, says he is hopeful he will fly home with his family",
+      "p": "Tony Khan issued an update on Steven Border during the All Out post-show press conference. Khan said Borden had a CT scan and the results of his tests were good. “First and foremost, [...]",
+      "link": "https://www.pwtorch.com/site/2026/09/27/tony-khan-gives-update-on-steven-bordens-condition-after-all-out-says-he-is-hopeful-he-will-fly-home-with-his-family/",
+      "t": "27m",
+      "dt": "2026-09-28T00:14:49+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay-Assassin’s Creed Entrance Worked On For Over A Month",
+      "p": "Details on the Assassin’s Creed entrance for Will Ospreay at AEW Out. Fightful Select reports, “Assassin’s Creed sponsored Will Ospreay’s AEW All Out entrance and gave him Black Flag lead voice...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-assassins-creed-entrance-worked-on-for-over-a-month/",
+      "t": "1h",
+      "dt": "2026-09-27T23:32:23+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Details On Dani Luna Signing With AEW",
+      "p": "More details on Dani Luna signing with AEW. Fightful Select reports, “Dani Luna was confirmed as being signed by AEW. We were told that even if she hadn’t signed by that point, there had been...",
+      "link": "https://www.fightful.com/wrestling-news/details-on-dani-luna-signing-with-aew/",
+      "t": "1h",
+      "dt": "2026-09-27T23:26:06+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "RevPro Live In Paris Results (9/27)",
+      "p": "Revolution Pro Wrestling held its RevPro Live In Paris event on September 27 from Studio Jenny in Paris, France. The event aired on RevPro On Demand. Full results are below. RevPro Live In Paris...",
+      "link": "https://www.fightful.com/wrestling-news/revpro-live-in-paris-results-9-27/",
+      "t": "1h",
+      "dt": "2026-09-27T22:54:57+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: Steven Borden & Raoni Barcelos injuries, more on WWE & AEW head-to-head",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Sunday Update —...",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-steven-borden-raoni-barcelos-injuries-more-on-wwe-aew-head-to-head/",
+      "t": "2h",
+      "dt": "2026-09-27T22:08:09+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "AEW All Out 2026: Biggest Winners & Losers",
       "p": "The winners and the losers from the 2026 edition of AEW All Out.",
       "link": "https://www.wrestlinginc.com/2270197/aew-all-out-2026-biggest-winners-losers-opinion-review/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-27T20:33:55+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "Swerve Strickland Comments On WWE x AAA Worlds Collide And AEW All Out Taking Place On The Same Night",
       "p": "Swerve Strickland comments on AEW All Out and WWE Worlds Collide taking place on the same night. This Saturday (September 26), WWE and All Elite Wrestling held their shows, Worlds Collide and All...",
       "link": "https://www.fightful.com/wrestling-news/swerve-strickland-comments-on-wwe-x-aaa-worlds-collide-and-aew-all-out-taking-place-on-the-same-night/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-27T20:06:36+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Thunder Rosa Names AC/DC’s ‘Thunderstruck’ As Her Dream Entrance Theme In AEW",
       "p": "Thunder Rosa would love to come out to AC/DC’s Thunderstruck. Former AEW Women’s World Champion Thunder Rosa currently uses “Blood and Fire” by Lexly Nirvana as her theme song in All Elite...",
       "link": "https://www.fightful.com/wrestling-news/thunder-rosa-names-ac-dcs-thunderstruck-as-her-dream-entrance-theme-in-aew/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-09-27T19:53:30+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Will Ospreay Comments On WWE Running Worlds Collide Against AEW All Out In Chicago",
       "p": "AEW World Champion Will Ospreay gets fired up when talking about All Out running opposite WWE x AAA Worlds Collide.",
       "link": "https://www.wrestlinginc.com/2270167/will-ospreay-wwe-worlds-collide-aew-all-out-chicago/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-09-27T19:14:49+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "AEW Worlds End set for Minneapolis on December 19, Holiday Bash heading to Chicago",
       "p": "AEW will bring Worlds End to Minneapolis for the first time on December 19, with its Holiday Bash television tapings following four days later in Chicago. The post AEW Worlds End set for...",
       "link": "https://www.postwrestling.com/2026/09/27/aew-worlds-end-set-for-minneapolis-on-december-19-holiday-bash-heading-to-chicago/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-09-27T18:57:05+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW's Anthony Henry Doesn't Know If He'll Be Able To Return To Pro Wrestling",
       "p": "AEW and ROH Anthony Henry reveals that his future is pro wrestling is currently up in the air due to a serious reoccurring neck issue.",
       "link": "https://www.wrestlinginc.com/2270139/aew-anthony-henry-doesnt-know-return-pro-wrestling-surgery/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-09-27T18:05:38+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "NJPW DESTRUCTION IN KOBE (9/27) – Pomares’s results & analysis of Tsuji vs. Goto, Kidd vs. Moloney, Takagi vs. Castagnoli, Takeshita vs. Skywalker, Newman vs. Cobb, more",
       "p": "NJPW DESTRUCTION IN KOBE REPORT SEPTEMBER 27, 2026 KOBE, HYOGO, JAPAN AT KOBE WORLD MEMORIAL HALL AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentators: Chris...",
       "link": "https://www.pwtorch.com/site/2026/09/27/njpw-destruction-in-kobe-9-27-pomaress-results-analysis-of-tsuji-vs-goto-kidd-vs-moloney-takagi-vs-castagnoli-takeshita-vs-skywalker-newman-vs-cobb-more/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-09-27T18:02:23+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Andrade: ‘Pac Has To Be A World Champion In The Future, But He Needs To Leave The Death Riders’",
-      "p": "Andrade comments after wrestling Pac at AEW All Out. On the show, he defended his AEW National Championship against Pac and retained the belt successfully. Following their match, El Idolo made a...",
-      "link": "https://www.fightful.com/wrestling-news/andrade-pac-has-to-be-a-world-champion-in-the-future-but-he-needs-to-leave-the-death-riders/",
-      "t": "4h",
-      "dt": "2026-09-27T18:00:53+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kenny Omega Elaborates On Anime Inspiration Behind AEW All In Entrance & Match",
-      "p": "Kenny Omega has opened up about his \"My Hero Academia\" inspired entrance and ring gear from his match at AEW All In London 2026.",
-      "link": "https://www.wrestlinginc.com/2265703/aew-all-in-2026-kenny-omega-anime-inspiration-entrance-match-my-hero-academia/",
-      "t": "4h",
-      "dt": "2026-09-27T17:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Responds To Report That AEW Selling Out All Out 2026 Surprised WWE",
-      "p": "AEW CEO Tony Khan reacts to a report of WWE officials being surprised by the sell crowd for All Out at Chicago's NOW Arena.",
-      "link": "https://www.wrestlinginc.com/2270117/tony-khan-aew-all-out-2026-selling-out-surprised-wwe-report/",
-      "t": "5h",
-      "dt": "2026-09-27T16:35:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay addresses live crowd in Chicago following AEW All Out",
-      "p": "Will Ospreay addressed the live crowd following the end of AEW All Out 2026 on Saturday. Ospreay defeated Jon Moxley in the main event of the show. The broadcast went off the air with Ospreay...",
-      "link": "https://www.f4wonline.com/news/aew/will-ospreay-addresses-live-crowd-in-chicago-following-aew-all-out/",
-      "t": "6h",
-      "dt": "2026-09-27T16:05:27+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Worlds End date and location set for the final pay-per-view of 2027",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Worlds End date and location set for the final pay-per-view of 2027 appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/27/aew-worlds-end-date-and-location-set-for-the-final-pay-per-view-of-2027/",
-      "t": "6h",
-      "dt": "2026-09-27T15:47:48+00:00"
     }
   ]
 }

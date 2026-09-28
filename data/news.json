@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-28T06:49:29.383956+00:00",
+  "updated": "2026-09-28T15:23:19.102733+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,83 @@
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "NJPW “Destruction in Kobe” results (9/27): Vetter’s review of Yota Tsuji vs. Hirooki Goto for the IWGP Heavyweight Championship, Konosuke Takeshita vs. Shun Skywalker for the NJPW TV Title",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “Destruction in Kobe” results (9/27): Vetter’s review of Yota Tsuji vs. Hirooki Goto for the IWGP Heavyweight Championship, Konosuke...",
+      "link": "https://prowrestling.net/site/2026/09/28/njpw-destruction-in-kobe-results-9-27-vetters-review-of-yota-tsuji-vs-hirooki-goto-for-the-iwgp-heavyweight-championship-konosuke-takeshita-vs-shun-skywalker-for-the-njpw-tv-title/",
+      "t": "1m",
+      "dt": "2026-09-28T15:22:13+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Dragon Gate mourns death of former roster member PAC",
+      "p": "Dragon Gate, where PAC spent some of the most important years of his career, has joined the wrestling world in mourning this unthinkable loss. Before his WWE and AEW careers began, PAC broke out...",
+      "link": "https://www.f4wonline.com/news/japan/dragon-gate-mourns-death-of-former-roster-member-pac/",
+      "t": "49m",
+      "dt": "2026-09-28T14:33:25+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Schiavone Comments On Decision To Replicate Sting Call For Steven Borden",
+      "p": "AEW commentator Tony Schiavone has discussed his decision to recreate the \"It's Sting\" call for Sting's son, Steven Borden, and how it happened spontaneously.",
+      "link": "https://www.wrestlinginc.com/2270298/aew-tony-schiavone-sting-steven-borden-decision-replicate-call/",
+      "t": "53m",
+      "dt": "2026-09-28T14:30:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "WWE and Bleacher Report announce highlights deal, WBD emphasizes agreement doesn’t displace AEW",
+      "p": "Bleacher Report and WWE announced a new multi-year agreement on Monday that gives the Warner Bros. Discovery-owned sports media platform global highlight rights to WWE programming. The post WWE...",
+      "link": "https://www.postwrestling.com/2026/09/28/wwe-and-bleacher-report-announce-highlights-deal-wbd-emphasizes-agreement-doesnt-displace-aew/",
+      "t": "1h",
+      "dt": "2026-09-28T14:11:15+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Additional insights on WWE & Bleacher Report deal, how it affects AEW",
+      "p": "With Monday’s news of the new content partnership deal between WWE and WBD-owned Bleacher Report (B/R) has come the expected conversation points on social media about what this means for AEW given...",
+      "link": "https://www.f4wonline.com/news/aew/wwe-bleacher-report-media-deal-aew-affects/",
+      "t": "1h",
+      "dt": "2026-09-28T13:56:05+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Wrestling Personalities Continue To Pay Tribute To PAC (Benjamin Satterley)",
+      "p": "Wrestling personalities from across the industry have continued to pay tribute to PAC following his tragic passing over the weekend. Late on September 27th, All Elite Wrestling would announce that...",
+      "link": "https://www.fightful.com/wrestling-news/wrestling-personalities-continue-to-pay-tribute-to-pac-benjamin-satterley/",
+      "t": "1h",
+      "dt": "2026-09-28T13:54:33+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH announces special PAC tribute",
+      "p": "ROH will honor PAC by releasing matches from his AEW run and the promotion’s archives following his passing at age 40. PAC made his first ROH appearance at The Fifth Year Festival: Liverpool held...",
+      "link": "https://www.f4wonline.com/news/aew/roh-announces-special-pac-tribute/",
+      "t": "1h",
+      "dt": "2026-09-28T13:51:48+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The All Out fallout show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The All Out fallout show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/28/aew-dynamite-preview-the-all-out-fallout-show-2/",
+      "t": "2h",
+      "dt": "2026-09-28T13:15:56+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Wrestling World Reacts To The Death Of AEW Star PAC",
+      "p": "Figures from all over the wrestling world have paid tribute to AEW star PAC, who has passed away at the age of 40.",
+      "link": "https://www.wrestlinginc.com/2270375/wrestling-world-reacts-death-aew-pac/",
+      "t": "3h",
+      "dt": "2026-09-28T12:11:02+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Marina Shafir, Lance Archer pay tribute to PAC during Warrior Wrestling event",
       "p": "Marina Shafir and Lance Archer both shared statements following the passing of PAC on Sunday. They were part of a Warrior Wrestling event that took place after AEW announced that PAC had suddenly...",
       "link": "https://www.f4wonline.com/news/aew/marina-shafir-lance-archer-pay-tribute-to-pac-during-warrior-wrestling-event/",
-      "t": "2h",
+      "t": "10h",
       "dt": "2026-09-28T04:24:41+00:00"
     },
     {
@@ -24,88 +96,16 @@
       "h": "FREE PODCAST 9/27 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: CM Punk on commentary, Guevara wins TNT Title, Jungle Boy vs. Adam Cole, Danielson and Elite confrontation, more (123 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (9-29-2021), PWTorch assistant editor Zack Heydorn was joined by Joel Dehnel of PWTorch.com to...",
       "link": "https://www.pwtorch.com/site/2026/09/27/free-podcast-9-27-wkpwp-aew-dynamite-post-show-5-yrs-ago-cm-punk-on-commentary-guevara-wins-tnt-title-jungle-boy-vs-adam-cole-danielson-and-elite-confrontation-more-123-min/",
-      "t": "2h",
+      "t": "11h",
       "dt": "2026-09-28T04:00:30+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Wrestling World Continues To Remember Pac (Benjamin Satterley)",
-      "p": "More wrestlers remember Benjamin Satterley, also known to fans as Pac. As one of the AEW originals, Pac entertained the fans with his incredible athleticism and ruthlessness in the ring. He was...",
-      "link": "https://www.fightful.com/wrestling-news/wrestling-world-continues-to-remember-pac-benjamin-satterley/",
-      "t": "3h",
-      "dt": "2026-09-28T03:33:37+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Tony Khan pays tribute to PAC, says he ‘defined excellence’",
       "p": "Tony Khan pays tribute to PAC. Shortly after AEW announced the sudden passing of PAC on Sunday, Tony Khan issued his own statement, praising him for his professionalism and dedication to pro...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-pays-tribute-to-pac-says-he-defined-excellence/",
-      "t": "3h",
+      "t": "12h",
       "dt": "2026-09-28T03:20:34+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Tony Khan’s first comments regarding the death “Pac” Benjamin Satterley",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Tony Khan’s first comments regarding the death “Pac” Benjamin Satterley appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/27/tony-khans-first-comments-regarding-the-death-pac-benjamin-satterley/",
-      "t": "3h",
-      "dt": "2026-09-28T03:13:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay, Saraya, Rhea Ripley, Paul Heyman, Kevin Owens & others across wrestling post tributes to PAC",
-      "p": "Less than an hour after the surprise news of his passing broke on social media, waves of wrestlers from both AEW and WWE paid tribute to PAC on X in addition to organizations, media and others...",
-      "link": "https://www.f4wonline.com/news/aew/pac-social-media-tributes-wwe-aew-ospreay-heyman-ripley/",
-      "t": "4h",
-      "dt": "2026-09-28T02:19:54+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW wrestler Ben “Pac” Satterley dead at age 40",
-      "p": "Ben “Pac” Satterley is dead at age 40. AEW announced Pac’s death on social media Sunday night and issued the following statement: All Elite Wrestling is saddened to announce the passing of...",
-      "link": "https://www.pwtorch.com/site/2026/09/27/aew-wrestler-ben-pac-satterley-dead-at-age-40/",
-      "t": "4h",
-      "dt": "2026-09-28T02:07:52+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Wrestling World Remembers Pac (Benjamin Satterley)",
-      "p": "The wrestling world honors Pac after his passing. On September 27, All Elite Wrestling announced the passing of Benjamin Satterley, also known to wrestling fans as Pac. Less than 24 hours ago, he...",
-      "link": "https://www.fightful.com/wrestling-news/wrestling-world-remembers-pac-benjamin-satterley/",
-      "t": "4h",
-      "dt": "2026-09-28T02:06:26+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Pac Dead, Former AEW Trios Champ & Ex-WWE Star Dies At Age 40",
-      "p": "Benjamin Satterly, also known as All Elite Wrestling star Pac, has died at the age of 40. AEW announced his passing on social media Sunday night.",
-      "link": "https://www.wrestlinginc.com/2270234/pac-dead-aew-trios-champ-wwe-age-40/",
-      "t": "4h",
-      "dt": "2026-09-28T01:53:32+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Benjamin ‘PAC’ Satterley passes away at 40 years old",
-      "p": "Benjamin Satterley, best known to professional wrestling fans as PAC, has passed away. AEW announced on Sunday night that PAC, who had just wrestled for the company the previous night in Chicago,...",
-      "link": "https://www.f4wonline.com/news/aew/benjamin-pac-satterley-passes-away-at-40-years-old/",
-      "t": "5h",
-      "dt": "2026-09-28T01:48:01+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "All Elite Wrestling announces the passing of PAC (Benjamin Satterley) at 40",
-      "p": "All Elite Wrestling has announced the death of Benjamin Satterley, better known to wrestling fans as PAC. He was 40. The post All Elite Wrestling announces the passing of PAC (Benjamin Satterley)...",
-      "link": "https://www.postwrestling.com/2026/09/27/all-elite-wrestling-announces-the-passing-of-pac-benjamin-satterley-at-40/",
-      "t": "5h",
-      "dt": "2026-09-28T01:32:43+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "PAC (Benjamin Satterley) Passes Away",
-      "p": "Benjamin Satterley, better known to wrestling fans as PAC in AEW, has passed away at the age of 40. AEW announced the news on Sunday night. From AEW: All Elite Wrestling is saddened to announce...",
-      "link": "https://www.fightful.com/wrestling-news/pac-benjamin-satterley-passes-away/",
-      "t": "5h",
-      "dt": "2026-09-28T01:16:22+00:00"
     }
   ]
 }

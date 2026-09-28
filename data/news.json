@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-28T00:42:06.333372+00:00",
+  "updated": "2026-09-28T06:49:29.383956+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,100 +12,100 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Marina Shafir, Lance Archer pay tribute to PAC during Warrior Wrestling event",
+      "p": "Marina Shafir and Lance Archer both shared statements following the passing of PAC on Sunday. They were part of a Warrior Wrestling event that took place after AEW announced that PAC had suddenly...",
+      "link": "https://www.f4wonline.com/news/aew/marina-shafir-lance-archer-pay-tribute-to-pac-during-warrior-wrestling-event/",
+      "t": "2h",
+      "dt": "2026-09-28T04:24:41+00:00"
+    },
+    {
       "src": "PWTorch",
-      "h": "Tony Khan gives update on Steven Borden’s condition after All Out, says he is hopeful he will fly home with his family",
-      "p": "Tony Khan issued an update on Steven Border during the All Out post-show press conference. Khan said Borden had a CT scan and the results of his tests were good. “First and foremost, [...]",
-      "link": "https://www.pwtorch.com/site/2026/09/27/tony-khan-gives-update-on-steven-bordens-condition-after-all-out-says-he-is-hopeful-he-will-fly-home-with-his-family/",
-      "t": "27m",
-      "dt": "2026-09-28T00:14:49+00:00"
+      "h": "FREE PODCAST 9/27 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: CM Punk on commentary, Guevara wins TNT Title, Jungle Boy vs. Adam Cole, Danielson and Elite confrontation, more (123 min.)",
+      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (9-29-2021), PWTorch assistant editor Zack Heydorn was joined by Joel Dehnel of PWTorch.com to...",
+      "link": "https://www.pwtorch.com/site/2026/09/27/free-podcast-9-27-wkpwp-aew-dynamite-post-show-5-yrs-ago-cm-punk-on-commentary-guevara-wins-tnt-title-jungle-boy-vs-adam-cole-danielson-and-elite-confrontation-more-123-min/",
+      "t": "2h",
+      "dt": "2026-09-28T04:00:30+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Will Ospreay-Assassin’s Creed Entrance Worked On For Over A Month",
-      "p": "Details on the Assassin’s Creed entrance for Will Ospreay at AEW Out. Fightful Select reports, “Assassin’s Creed sponsored Will Ospreay’s AEW All Out entrance and gave him Black Flag lead voice...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-assassins-creed-entrance-worked-on-for-over-a-month/",
-      "t": "1h",
-      "dt": "2026-09-27T23:32:23+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Details On Dani Luna Signing With AEW",
-      "p": "More details on Dani Luna signing with AEW. Fightful Select reports, “Dani Luna was confirmed as being signed by AEW. We were told that even if she hadn’t signed by that point, there had been...",
-      "link": "https://www.fightful.com/wrestling-news/details-on-dani-luna-signing-with-aew/",
-      "t": "1h",
-      "dt": "2026-09-27T23:26:06+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "RevPro Live In Paris Results (9/27)",
-      "p": "Revolution Pro Wrestling held its RevPro Live In Paris event on September 27 from Studio Jenny in Paris, France. The event aired on RevPro On Demand. Full results are below. RevPro Live In Paris...",
-      "link": "https://www.fightful.com/wrestling-news/revpro-live-in-paris-results-9-27/",
-      "t": "1h",
-      "dt": "2026-09-27T22:54:57+00:00"
+      "h": "Wrestling World Continues To Remember Pac (Benjamin Satterley)",
+      "p": "More wrestlers remember Benjamin Satterley, also known to fans as Pac. As one of the AEW originals, Pac entertained the fans with his incredible athleticism and ruthlessness in the ring. He was...",
+      "link": "https://www.fightful.com/wrestling-news/wrestling-world-continues-to-remember-pac-benjamin-satterley/",
+      "t": "3h",
+      "dt": "2026-09-28T03:33:37+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Daily Update: Steven Borden & Raoni Barcelos injuries, more on WWE & AEW head-to-head",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Sunday Update —...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-steven-borden-raoni-barcelos-injuries-more-on-wwe-aew-head-to-head/",
-      "t": "2h",
-      "dt": "2026-09-27T22:08:09+00:00"
+      "h": "Tony Khan pays tribute to PAC, says he ‘defined excellence’",
+      "p": "Tony Khan pays tribute to PAC. Shortly after AEW announced the sudden passing of PAC on Sunday, Tony Khan issued his own statement, praising him for his professionalism and dedication to pro...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-pays-tribute-to-pac-says-he-defined-excellence/",
+      "t": "3h",
+      "dt": "2026-09-28T03:20:34+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW All Out 2026: Biggest Winners & Losers",
-      "p": "The winners and the losers from the 2026 edition of AEW All Out.",
-      "link": "https://www.wrestlinginc.com/2270197/aew-all-out-2026-biggest-winners-losers-opinion-review/",
+      "src": "ProWrestling.net",
+      "h": "Tony Khan’s first comments regarding the death “Pac” Benjamin Satterley",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Tony Khan’s first comments regarding the death “Pac” Benjamin Satterley appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/27/tony-khans-first-comments-regarding-the-death-pac-benjamin-satterley/",
+      "t": "3h",
+      "dt": "2026-09-28T03:13:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay, Saraya, Rhea Ripley, Paul Heyman, Kevin Owens & others across wrestling post tributes to PAC",
+      "p": "Less than an hour after the surprise news of his passing broke on social media, waves of wrestlers from both AEW and WWE paid tribute to PAC on X in addition to organizations, media and others...",
+      "link": "https://www.f4wonline.com/news/aew/pac-social-media-tributes-wwe-aew-ospreay-heyman-ripley/",
       "t": "4h",
-      "dt": "2026-09-27T20:33:55+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Swerve Strickland Comments On WWE x AAA Worlds Collide And AEW All Out Taking Place On The Same Night",
-      "p": "Swerve Strickland comments on AEW All Out and WWE Worlds Collide taking place on the same night. This Saturday (September 26), WWE and All Elite Wrestling held their shows, Worlds Collide and All...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-comments-on-wwe-x-aaa-worlds-collide-and-aew-all-out-taking-place-on-the-same-night/",
-      "t": "4h",
-      "dt": "2026-09-27T20:06:36+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Thunder Rosa Names AC/DC’s ‘Thunderstruck’ As Her Dream Entrance Theme In AEW",
-      "p": "Thunder Rosa would love to come out to AC/DC’s Thunderstruck. Former AEW Women’s World Champion Thunder Rosa currently uses “Blood and Fire” by Lexly Nirvana as her theme song in All Elite...",
-      "link": "https://www.fightful.com/wrestling-news/thunder-rosa-names-ac-dcs-thunderstruck-as-her-dream-entrance-theme-in-aew/",
-      "t": "4h",
-      "dt": "2026-09-27T19:53:30+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay Comments On WWE Running Worlds Collide Against AEW All Out In Chicago",
-      "p": "AEW World Champion Will Ospreay gets fired up when talking about All Out running opposite WWE x AAA Worlds Collide.",
-      "link": "https://www.wrestlinginc.com/2270167/will-ospreay-wwe-worlds-collide-aew-all-out-chicago/",
-      "t": "5h",
-      "dt": "2026-09-27T19:14:49+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Worlds End set for Minneapolis on December 19, Holiday Bash heading to Chicago",
-      "p": "AEW will bring Worlds End to Minneapolis for the first time on December 19, with its Holiday Bash television tapings following four days later in Chicago. The post AEW Worlds End set for...",
-      "link": "https://www.postwrestling.com/2026/09/27/aew-worlds-end-set-for-minneapolis-on-december-19-holiday-bash-heading-to-chicago/",
-      "t": "5h",
-      "dt": "2026-09-27T18:57:05+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Anthony Henry Doesn't Know If He'll Be Able To Return To Pro Wrestling",
-      "p": "AEW and ROH Anthony Henry reveals that his future is pro wrestling is currently up in the air due to a serious reoccurring neck issue.",
-      "link": "https://www.wrestlinginc.com/2270139/aew-anthony-henry-doesnt-know-return-pro-wrestling-surgery/",
-      "t": "6h",
-      "dt": "2026-09-27T18:05:38+00:00"
+      "dt": "2026-09-28T02:19:54+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "NJPW DESTRUCTION IN KOBE (9/27) – Pomares’s results & analysis of Tsuji vs. Goto, Kidd vs. Moloney, Takagi vs. Castagnoli, Takeshita vs. Skywalker, Newman vs. Cobb, more",
-      "p": "NJPW DESTRUCTION IN KOBE REPORT SEPTEMBER 27, 2026 KOBE, HYOGO, JAPAN AT KOBE WORLD MEMORIAL HALL AIRED LIVE ON NJPW WORLD REPORT BY MAURICIO POMARES, PWTORCH CONTRIBUTOR Commentators: Chris...",
-      "link": "https://www.pwtorch.com/site/2026/09/27/njpw-destruction-in-kobe-9-27-pomaress-results-analysis-of-tsuji-vs-goto-kidd-vs-moloney-takagi-vs-castagnoli-takeshita-vs-skywalker-newman-vs-cobb-more/",
-      "t": "6h",
-      "dt": "2026-09-27T18:02:23+00:00"
+      "h": "AEW wrestler Ben “Pac” Satterley dead at age 40",
+      "p": "Ben “Pac” Satterley is dead at age 40. AEW announced Pac’s death on social media Sunday night and issued the following statement: All Elite Wrestling is saddened to announce the passing of...",
+      "link": "https://www.pwtorch.com/site/2026/09/27/aew-wrestler-ben-pac-satterley-dead-at-age-40/",
+      "t": "4h",
+      "dt": "2026-09-28T02:07:52+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Wrestling World Remembers Pac (Benjamin Satterley)",
+      "p": "The wrestling world honors Pac after his passing. On September 27, All Elite Wrestling announced the passing of Benjamin Satterley, also known to wrestling fans as Pac. Less than 24 hours ago, he...",
+      "link": "https://www.fightful.com/wrestling-news/wrestling-world-remembers-pac-benjamin-satterley/",
+      "t": "4h",
+      "dt": "2026-09-28T02:06:26+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Pac Dead, Former AEW Trios Champ & Ex-WWE Star Dies At Age 40",
+      "p": "Benjamin Satterly, also known as All Elite Wrestling star Pac, has died at the age of 40. AEW announced his passing on social media Sunday night.",
+      "link": "https://www.wrestlinginc.com/2270234/pac-dead-aew-trios-champ-wwe-age-40/",
+      "t": "4h",
+      "dt": "2026-09-28T01:53:32+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Benjamin ‘PAC’ Satterley passes away at 40 years old",
+      "p": "Benjamin Satterley, best known to professional wrestling fans as PAC, has passed away. AEW announced on Sunday night that PAC, who had just wrestled for the company the previous night in Chicago,...",
+      "link": "https://www.f4wonline.com/news/aew/benjamin-pac-satterley-passes-away-at-40-years-old/",
+      "t": "5h",
+      "dt": "2026-09-28T01:48:01+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "All Elite Wrestling announces the passing of PAC (Benjamin Satterley) at 40",
+      "p": "All Elite Wrestling has announced the death of Benjamin Satterley, better known to wrestling fans as PAC. He was 40. The post All Elite Wrestling announces the passing of PAC (Benjamin Satterley)...",
+      "link": "https://www.postwrestling.com/2026/09/27/all-elite-wrestling-announces-the-passing-of-pac-benjamin-satterley-at-40/",
+      "t": "5h",
+      "dt": "2026-09-28T01:32:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "PAC (Benjamin Satterley) Passes Away",
+      "p": "Benjamin Satterley, better known to wrestling fans as PAC in AEW, has passed away at the age of 40. AEW announced the news on Sunday night. From AEW: All Elite Wrestling is saddened to announce...",
+      "link": "https://www.fightful.com/wrestling-news/pac-benjamin-satterley-passes-away/",
+      "t": "5h",
+      "dt": "2026-09-28T01:16:22+00:00"
     }
   ]
 }

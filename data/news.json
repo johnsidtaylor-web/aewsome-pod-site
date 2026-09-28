@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-28T15:23:19.102733+00:00",
+  "updated": "2026-09-28T21:57:12.817985+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,100 +12,100 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "Medical examiner’s office comments on Ben Satterley’s passing, AEW announces tribute special",
+      "p": "Several details have emerged after the sudden passing of Benjamin Satterley, a.k.a. Pac. The post Medical examiner’s office comments on Ben Satterley’s passing, AEW announces tribute special...",
+      "link": "https://www.postwrestling.com/2026/09/28/medical-examiners-office-comments-on-ben-satterleys-passing-aew-announces-tribute-special/",
+      "t": "4m",
+      "dt": "2026-09-28T21:53:00+00:00"
+    },
+    {
       "src": "ProWrestling.net",
-      "h": "NJPW “Destruction in Kobe” results (9/27): Vetter’s review of Yota Tsuji vs. Hirooki Goto for the IWGP Heavyweight Championship, Konosuke Takeshita vs. Shun Skywalker for the NJPW TV Title",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “Destruction in Kobe” results (9/27): Vetter’s review of Yota Tsuji vs. Hirooki Goto for the IWGP Heavyweight Championship, Konosuke...",
-      "link": "https://prowrestling.net/site/2026/09/28/njpw-destruction-in-kobe-results-9-27-vetters-review-of-yota-tsuji-vs-hirooki-goto-for-the-iwgp-heavyweight-championship-konosuke-takeshita-vs-shun-skywalker-for-the-njpw-tv-title/",
-      "t": "1m",
-      "dt": "2026-09-28T15:22:13+00:00"
+      "h": "Tony Khan says Wednesday’s AEW Dynamite will be a Pac tribute show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Tony Khan says Wednesday’s AEW Dynamite will be a Pac tribute show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/09/28/tony-khan-says-wednesdays-aew-dynamite-will-be-a-pac-tribute-show/",
+      "t": "6m",
+      "dt": "2026-09-28T21:50:19+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Dragon Gate mourns death of former roster member PAC",
-      "p": "Dragon Gate, where PAC spent some of the most important years of his career, has joined the wrestling world in mourning this unthinkable loss. Before his WWE and AEW careers began, PAC broke out...",
-      "link": "https://www.f4wonline.com/news/japan/dragon-gate-mourns-death-of-former-roster-member-pac/",
-      "t": "49m",
-      "dt": "2026-09-28T14:33:25+00:00"
+      "h": "Tony Khan addresses fans, announces PAC tribute show for AEW Dynamite",
+      "p": "At Ring of Honor’s television taping in Jacksonville on Monday, Tony Khan opened the show with a tribute to late AEW star PAC. Khan addressed the ROH crowd and announced that Wednesday night’s...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-addresses-fans-announces-pac-tribute-show-for-aew-dynamite/",
+      "t": "13m",
+      "dt": "2026-09-28T21:43:07+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Tony Schiavone Comments On Decision To Replicate Sting Call For Steven Borden",
-      "p": "AEW commentator Tony Schiavone has discussed his decision to recreate the \"It's Sting\" call for Sting's son, Steven Borden, and how it happened spontaneously.",
-      "link": "https://www.wrestlinginc.com/2270298/aew-tony-schiavone-sting-steven-borden-decision-replicate-call/",
-      "t": "53m",
-      "dt": "2026-09-28T14:30:00+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "WWE and Bleacher Report announce highlights deal, WBD emphasizes agreement doesn’t displace AEW",
-      "p": "Bleacher Report and WWE announced a new multi-year agreement on Monday that gives the Warner Bros. Discovery-owned sports media platform global highlight rights to WWE programming. The post WWE...",
-      "link": "https://www.postwrestling.com/2026/09/28/wwe-and-bleacher-report-announce-highlights-deal-wbd-emphasizes-agreement-doesnt-displace-aew/",
-      "t": "1h",
-      "dt": "2026-09-28T14:11:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Additional insights on WWE & Bleacher Report deal, how it affects AEW",
-      "p": "With Monday’s news of the new content partnership deal between WWE and WBD-owned Bleacher Report (B/R) has come the expected conversation points on social media about what this means for AEW given...",
-      "link": "https://www.f4wonline.com/news/aew/wwe-bleacher-report-media-deal-aew-affects/",
-      "t": "1h",
-      "dt": "2026-09-28T13:56:05+00:00"
+      "h": "Emotional Tony Khan Honors The Late Pac, Announces Tribute Show For AEW Dynamite",
+      "p": "An emotional Tony Khan revealed ahead of Monday's ROH tapings that Wednesday's edition of \"AEW Dynamite\" will be a tribute show for the late Pac.",
+      "link": "https://www.wrestlinginc.com/2271421/pac-emotional-tony-khan-aew-dynamite-tribute-show/",
+      "t": "20m",
+      "dt": "2026-09-28T21:36:41+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Wrestling Personalities Continue To Pay Tribute To PAC (Benjamin Satterley)",
-      "p": "Wrestling personalities from across the industry have continued to pay tribute to PAC following his tragic passing over the weekend. Late on September 27th, All Elite Wrestling would announce that...",
-      "link": "https://www.fightful.com/wrestling-news/wrestling-personalities-continue-to-pay-tribute-to-pac-benjamin-satterley/",
-      "t": "1h",
-      "dt": "2026-09-28T13:54:33+00:00"
+      "h": "AEW Dynamite To Be A Tribute To PAC",
+      "p": "AEW will pay tribute to PAC on the September 30th episode of AEW Dynamite. Tony Khan made the announcement during the ROH tapings on Monday. The show will be held in Pittsburgh, and Tony noted...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-to-be-a-tribute-to-pac/",
+      "t": "35m",
+      "dt": "2026-09-28T21:21:44+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Ten Bell Salute Held For PAC At ROH Tapings",
+      "p": "ROH honors PAC. Ring of Honor held its latest set of TV tapings on Monday, September 28 at WTJC Studios in Jacksonville, FL. Ahead of the tapings, Tony Khan spoke to the crowd about PAC, who...",
+      "link": "https://www.fightful.com/wrestling-news/ten-bell-salute-held-for-pac-at-roh-tapings/",
+      "t": "40m",
+      "dt": "2026-09-28T21:16:59+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "ROH announces special PAC tribute",
-      "p": "ROH will honor PAC by releasing matches from his AEW run and the promotion’s archives following his passing at age 40. PAC made his first ROH appearance at The Fifth Year Festival: Liverpool held...",
-      "link": "https://www.f4wonline.com/news/aew/roh-announces-special-pac-tribute/",
+      "h": "New details emerge regarding death of AEW star PAC",
+      "p": "While the full picture remains unclear, some new details have emerged regarding the death of PAC. The California Post obtained 911 dispatch call audio confirming that PAC (40-year-old Benjamin...",
+      "link": "https://www.f4wonline.com/news/aew/new-details-emerge-regarding-death-of-aew-star-pac/",
       "t": "1h",
-      "dt": "2026-09-28T13:51:48+00:00"
+      "dt": "2026-09-28T20:34:26+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The All Out fallout show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The All Out fallout show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/28/aew-dynamite-preview-the-all-out-fallout-show-2/",
-      "t": "2h",
-      "dt": "2026-09-28T13:15:56+00:00"
+      "src": "Fightful",
+      "h": "Darby Allin Had A Ruptured Eardrum When He Won AEW World Title",
+      "p": "Darby Allin was depleted before his AEW World Championship win. Allin won the title from MJF in shocking fashion on the April 15 episode of AEW Dynamite. As it turns out, the rest of the day was...",
+      "link": "https://www.fightful.com/wrestling-news/darby-allin-had-a-ruptured-eardrum-when-he-won-aew-world-title/",
+      "t": "1h",
+      "dt": "2026-09-28T20:20:06+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Wrestling World Reacts To The Death Of AEW Star PAC",
-      "p": "Figures from all over the wrestling world have paid tribute to AEW star PAC, who has passed away at the age of 40.",
-      "link": "https://www.wrestlinginc.com/2270375/wrestling-world-reacts-death-aew-pac/",
-      "t": "3h",
-      "dt": "2026-09-28T12:11:02+00:00"
+      "h": "New Details Regarding Death Of AEW Star PAC",
+      "p": "New details emerged on Monday regarding the tragic death of AEW star Pac, after the company confirmed his passing Sunday night.",
+      "link": "https://www.wrestlinginc.com/2271305/new-details-death-aew-star-pac/",
+      "t": "1h",
+      "dt": "2026-09-28T20:09:39+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Report: No Indications Of Foul Play Or Trauma In Death of PAC (Benjamin Satterley)",
+      "p": "On Sunday night, All Elite Wrestling announced the passing of PAC (Benjamin Satterley). The news came as a shock to the wrestling world, as he had just wrestled Andrade El Idolo at AEW All Out on...",
+      "link": "https://www.fightful.com/wrestling-news/report-no-indications-of-foul-play-or-trauma-in-death-of-pac-benjamin-satterley/",
+      "t": "1h",
+      "dt": "2026-09-28T20:05:10+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Marina Shafir, Lance Archer pay tribute to PAC during Warrior Wrestling event",
-      "p": "Marina Shafir and Lance Archer both shared statements following the passing of PAC on Sunday. They were part of a Warrior Wrestling event that took place after AEW announced that PAC had suddenly...",
-      "link": "https://www.f4wonline.com/news/aew/marina-shafir-lance-archer-pay-tribute-to-pac-during-warrior-wrestling-event/",
-      "t": "10h",
-      "dt": "2026-09-28T04:24:41+00:00"
+      "h": "WOL: PAC and WWE Sign Guy pass away, Steven Borden, All Out, more",
+      "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including a timeline of a pretty horrible weekend with injuries at both All Out and UFC, then the...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-pac-and-wwe-sign-guy-pass-away-steven-borden-all-out-more/",
+      "t": "1h",
+      "dt": "2026-09-28T20:03:48+00:00"
     },
     {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 9/27 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: CM Punk on commentary, Guevara wins TNT Title, Jungle Boy vs. Adam Cole, Danielson and Elite confrontation, more (123 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (9-29-2021), PWTorch assistant editor Zack Heydorn was joined by Joel Dehnel of PWTorch.com to...",
-      "link": "https://www.pwtorch.com/site/2026/09/27/free-podcast-9-27-wkpwp-aew-dynamite-post-show-5-yrs-ago-cm-punk-on-commentary-guevara-wins-tnt-title-jungle-boy-vs-adam-cole-danielson-and-elite-confrontation-more-123-min/",
-      "t": "11h",
-      "dt": "2026-09-28T04:00:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan pays tribute to PAC, says he ‘defined excellence’",
-      "p": "Tony Khan pays tribute to PAC. Shortly after AEW announced the sudden passing of PAC on Sunday, Tony Khan issued his own statement, praising him for his professionalism and dedication to pro...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-pays-tribute-to-pac-says-he-defined-excellence/",
-      "t": "12h",
-      "dt": "2026-09-28T03:20:34+00:00"
+      "src": "Wrestling Inc",
+      "h": "Dave Meltzer Explains Early Start Time For WWE Worlds Collide Broadcast",
+      "p": "With reports indicating that WWE will stream Worlds Collide on YouTube against \"AEW Dynamite,\" Dave Meltzer has elaborated on the strategy.",
+      "link": "https://www.wrestlinginc.com/2271247/dave-meltzer-explains-early-start-time-wwe-worlds-collide-broadcast/",
+      "t": "2h",
+      "dt": "2026-09-28T19:36:17+00:00"
     }
   ]
 }

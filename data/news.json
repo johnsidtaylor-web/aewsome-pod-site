@@ -1,22 +1,94 @@
 {
-  "updated": "2026-09-29T15:46:38.284283+00:00",
+  "updated": "2026-09-29T20:44:00.909477+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "WWE's The Rock Issues Heartfelt Statement On The Death Of AEW Star Pac",
+      "p": "WWE's Dwayne \"The Rock\" Johnson issued a heartfelt statement on social media following the death of AEW star Pac.",
+      "link": "https://www.wrestlinginc.com/2272686/wwe-the-rock-statement-death-aew-star-pac/",
+      "t": "9m",
+      "dt": "2026-09-29T20:34:37+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "The Rock pays tribute to PAC, sends condolences to AEW and Tony Khan",
+      "p": "Dwayne “The Rock” Johnson has joined the wrestling community in mourning PAC (Benjamin Satterley) and sending his condolences to the Satterley family. In an Instagram video today, Johnson praised...",
+      "link": "https://www.f4wonline.com/news/aew/the-rock-pays-tribute-to-pac-sends-condolences-to-aew-and-tony-khan/",
+      "t": "1h",
+      "dt": "2026-09-29T19:30:33+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "The Rock Pays Tribute To PAC",
+      "p": "The Rock remembers PAC. The wrestling world sadly lost Ben Satterley (PAC in AEW, Neville in WWE) on Sunday. The wrestling community has come together to pay tribute to PAC in the days since his...",
+      "link": "https://www.fightful.com/wrestling-news/the-rock-pays-tribute-to-pac/",
+      "t": "1h",
+      "dt": "2026-09-29T19:18:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Cassie Lee: Winning The AEW Women’s Tag Titles Is My Top Goal In Wrestling",
+      "p": "Cassie Lee wants to win the AEW Women’s Tag Team Championships. Since arriving to AEW/ROH earlier this year, Lee and Jessie McKay have shared the ring with names like Jamie Hayter, Alex Windsor,...",
+      "link": "https://www.fightful.com/wrestling-news/cassie-lee-winning-the-aew-womens-tag-titles-is-my-top-goal-in-wrestling/",
+      "t": "2h",
+      "dt": "2026-09-29T18:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Buddy Matthews, ‘Speedball’ Mike Bailey, John Cena honor AEW star PAC",
+      "p": "Following the death of PAC, tributes continue to pour in honoring him for his excellence in the ring and kindness as a person. Buddy Matthews worked with PAC in both WWE and AEW — and they finally...",
+      "link": "https://www.f4wonline.com/news/aew/buddy-matthews-speedball-mike-bailey-john-cena-honor-aew-star-pac/",
+      "t": "2h",
+      "dt": "2026-09-29T17:51:17+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ACT for ALS legislation backed by AEW’s Rebel passes Congress",
+      "p": "An update is available on the petition that Rebel urged fans to sign regarding the Accelerating Access to Critical Therapies for ALS Act, commonly known as ACT for ALS. The act was set to expire...",
+      "link": "https://www.f4wonline.com/news/aew/act-for-als-legislation-backed-by-aews-rebel-passes-congress/",
+      "t": "2h",
+      "dt": "2026-09-29T17:50:30+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mike Bailey Pays Tribute To PAC, ‘The World Is A Better Place Because Of Him’",
+      "p": "Mike Bailey pays tribute to PAC. On this week’s episode of his vlog, Bailey spoke about the recent passing of Benjamin Satterley, who fans knew as PAC in AEW or Neville in WWE. Bailey had nothing...",
+      "link": "https://www.fightful.com/wrestling-news/mike-bailey-pays-tribute-to-pac-the-world-is-a-better-place-because-of-him/",
+      "t": "3h",
+      "dt": "2026-09-29T17:33:05+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Report On What Kept PAC Out Of Inaugural AEW Double Or Nothing",
+      "p": "Dave Meltzer has opened up about the reason PAC never appeared on the inaugural AEW Double or Nothing event in 2019 against Hangman Page.",
+      "link": "https://www.wrestlinginc.com/2272269/aew-double-or-nothing-2019-pac-adam-page/",
+      "t": "3h",
+      "dt": "2026-09-29T17:23:21+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Steven Borden Injury Update After AEW All Out 2026",
+      "p": "During AEW All Out 2026, Steven Borden was injured after colliding with Kevin Knight in a mid-air spot. Dave Meltzer provided an update on Borden.",
+      "link": "https://www.wrestlinginc.com/2272136/aew-all-out-2026-steven-borden-injury-update/",
+      "t": "4h",
+      "dt": "2026-09-29T16:29:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "AEW's Darby Allin Describes Traits Of Steven Borden That Remind Him Of Sting",
       "p": "AEW star Darby Allin has had the privilege of wrestling alongside Sting and his son, Steven Borden, and has pointed out the similarities between them.",
       "link": "https://www.wrestlinginc.com/2271684/aew-darby-allin-steven-borden-sting-traits-remind/",
-      "t": "16m",
+      "t": "5h",
       "dt": "2026-09-29T15:30:00+00:00"
     },
     {
@@ -24,88 +96,16 @@
       "h": "Eric Bischoff talks positives for AEW ahead of television rights negotiations",
       "p": "Former WCW President Eric Bischoff recently discussed AEW and what he believes the company needs to do when trying to sell itself during television rights agreements. Speaking on his 83 Weeks...",
       "link": "https://www.f4wonline.com/news/aew/eric-bischoff-aew-positives-television-rights-negotiations/",
-      "t": "36m",
+      "t": "5h",
       "dt": "2026-09-29T15:10:21+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Darby Allin: Gabe Kidd Brings A Certain Level Of Intensity That I Get Excited About",
-      "p": "Darby Allin has high praise for Gabe Kidd. Since officially signing with the company earlier this year, Gabe Kidd has been featured as a prominent name in AEW. With multiple pay-per-view matches...",
-      "link": "https://www.fightful.com/wrestling-news/darby-allin-gabe-kidd-brings-a-certain-level-of-intensity-that-i-get-excited-about/",
-      "t": "1h",
-      "dt": "2026-09-29T14:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's MJF Praises WWE Stars Trick Williams & Oba Femi",
       "p": "Former AEW World Champion MJF has lavished praise on Oba Femi and Trick Williams, explaining why he believes the two WWE stars have great potential.",
       "link": "https://www.wrestlinginc.com/2271622/aew-wwe-mjf-trick-williams-oba-femi-praises/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-09-29T14:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Mick Foley Says He Has No Regrets Over Leaving WWE",
-      "p": "WWE Hall of Famer Mick Foley has revealed the primary reason for his departure from WWE and explained why he has no regrets about leaving the promotion.",
-      "link": "https://www.wrestlinginc.com/2271614/aew-wwe-mick-foley-no-regrets-leaving/",
-      "t": "2h",
-      "dt": "2026-09-29T13:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Spoilers (Taped On 9/28)",
-      "p": "Ring of Honor held its latest round of TV tapings on September 28 from WJCT Studios in Jacksonville, FL. Full spoilers (courtesy of Wrestling Observer) are below. ROH TV Spoilers (Taped On 9/28)...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-spoilers-taped-on-9-28/",
-      "t": "2h",
-      "dt": "2026-09-29T13:07:12+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH TV taping spoilers from Jacksonville",
-      "p": "On what was a difficult day for AEW and the pro wrestling world in general, Ring of Honor was in Jacksonville for a television taping on Monday. An emotional Tony Khan opened the show by speaking...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-tv-taping-spoilers-from-jacksonville-5/",
-      "t": "3h",
-      "dt": "2026-09-29T12:25:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ticket sales update for this week’s show (09-29-2026)",
-      "p": "AEW Dynamite will be taking place this week from the Petersen Events Center in Pittsburgh, PA, and will be a tribute show to Benjamin Satterley, aka PAC. According to the latest update from...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-this-weeks-show-09-29-2026/",
-      "t": "5h",
-      "dt": "2026-09-29T10:42:10+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan says AEW’s expanded pay-per-view schedule has helped its bottom line",
-      "p": "Tony Khan believes AEW’s extended PPV schedule has helped the promotion. Speaking at the AEW All Out post-show, Khan opened up about his promotion’s growth, media rights, and the extended PPV...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-says-aews-expanded-pay-per-view-schedule-has-helped-its-bottom-line/",
-      "t": "8h",
-      "dt": "2026-09-29T07:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan says he wants New Level to have a ‘big digital presence’ for AEW",
-      "p": "Kofi and Austin Creed are now in AEW as The New Level, and Tony Khan wants them to have a big digital presence for the brand. At AEW All In 2026, The New Level made their All Elite debut along...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-says-he-wants-new-level-to-have-a-big-digital-presence-for-aew/",
-      "t": "9h",
-      "dt": "2026-09-29T06:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's MJF On Topping PWI 500: 'What Took So Long?'",
-      "p": "MJF topped this year's PWI 500 list, but according to the former AEW World Champion, it should have happened a long time ago.",
-      "link": "https://www.wrestlinginc.com/2271581/aew-mjf-pwi-500-what-took-so-long/",
-      "t": "11h",
-      "dt": "2026-09-29T04:13:41+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "CMLL’s KeMalito and Mistico pay tribute to PAC",
-      "p": "Tributes continue to flow hours after AEW wrestler PAC’s passing. On Sunday, Sept. 27, 2026, PAC passed away at the age of 40. As more details about his death recently emerged, his fellow...",
-      "link": "https://www.f4wonline.com/news/aew/cmlls-kemalito-and-mistico-pay-tribute-to-pac/",
-      "t": "12h",
-      "dt": "2026-09-29T03:44:59+00:00"
     }
   ]
 }

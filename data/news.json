@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-29T08:25:07.129070+00:00",
+  "updated": "2026-09-29T15:46:38.284283+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "FAILED (HTTP Error 403: Forbidden)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "AEW's Darby Allin Describes Traits Of Steven Borden That Remind Him Of Sting",
+      "p": "AEW star Darby Allin has had the privilege of wrestling alongside Sting and his son, Steven Borden, and has pointed out the similarities between them.",
+      "link": "https://www.wrestlinginc.com/2271684/aew-darby-allin-steven-borden-sting-traits-remind/",
+      "t": "16m",
+      "dt": "2026-09-29T15:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Eric Bischoff talks positives for AEW ahead of television rights negotiations",
+      "p": "Former WCW President Eric Bischoff recently discussed AEW and what he believes the company needs to do when trying to sell itself during television rights agreements. Speaking on his 83 Weeks...",
+      "link": "https://www.f4wonline.com/news/aew/eric-bischoff-aew-positives-television-rights-negotiations/",
+      "t": "36m",
+      "dt": "2026-09-29T15:10:21+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Darby Allin: Gabe Kidd Brings A Certain Level Of Intensity That I Get Excited About",
+      "p": "Darby Allin has high praise for Gabe Kidd. Since officially signing with the company earlier this year, Gabe Kidd has been featured as a prominent name in AEW. With multiple pay-per-view matches...",
+      "link": "https://www.fightful.com/wrestling-news/darby-allin-gabe-kidd-brings-a-certain-level-of-intensity-that-i-get-excited-about/",
+      "t": "1h",
+      "dt": "2026-09-29T14:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's MJF Praises WWE Stars Trick Williams & Oba Femi",
+      "p": "Former AEW World Champion MJF has lavished praise on Oba Femi and Trick Williams, explaining why he believes the two WWE stars have great potential.",
+      "link": "https://www.wrestlinginc.com/2271622/aew-wwe-mjf-trick-williams-oba-femi-praises/",
+      "t": "1h",
+      "dt": "2026-09-29T14:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Mick Foley Says He Has No Regrets Over Leaving WWE",
+      "p": "WWE Hall of Famer Mick Foley has revealed the primary reason for his departure from WWE and explained why he has no regrets about leaving the promotion.",
+      "link": "https://www.wrestlinginc.com/2271614/aew-wwe-mick-foley-no-regrets-leaving/",
+      "t": "2h",
+      "dt": "2026-09-29T13:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH TV Spoilers (Taped On 9/28)",
+      "p": "Ring of Honor held its latest round of TV tapings on September 28 from WJCT Studios in Jacksonville, FL. Full spoilers (courtesy of Wrestling Observer) are below. ROH TV Spoilers (Taped On 9/28)...",
+      "link": "https://www.fightful.com/wrestling-news/roh-tv-spoilers-taped-on-9-28/",
+      "t": "2h",
+      "dt": "2026-09-29T13:07:12+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH TV taping spoilers from Jacksonville",
+      "p": "On what was a difficult day for AEW and the pro wrestling world in general, Ring of Honor was in Jacksonville for a television taping on Monday. An emotional Tony Khan opened the show by speaking...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-tv-taping-spoilers-from-jacksonville-5/",
+      "t": "3h",
+      "dt": "2026-09-29T12:25:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite ticket sales update for this week’s show (09-29-2026)",
+      "p": "AEW Dynamite will be taking place this week from the Petersen Events Center in Pittsburgh, PA, and will be a tribute show to Benjamin Satterley, aka PAC. According to the latest update from...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-this-weeks-show-09-29-2026/",
+      "t": "5h",
+      "dt": "2026-09-29T10:42:10+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan says AEW’s expanded pay-per-view schedule has helped its bottom line",
+      "p": "Tony Khan believes AEW’s extended PPV schedule has helped the promotion. Speaking at the AEW All Out post-show, Khan opened up about his promotion’s growth, media rights, and the extended PPV...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-says-aews-expanded-pay-per-view-schedule-has-helped-its-bottom-line/",
+      "t": "8h",
+      "dt": "2026-09-29T07:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan says he wants New Level to have a ‘big digital presence’ for AEW",
+      "p": "Kofi and Austin Creed are now in AEW as The New Level, and Tony Khan wants them to have a big digital presence for the brand. At AEW All In 2026, The New Level made their All Elite debut along...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-says-he-wants-new-level-to-have-a-big-digital-presence-for-aew/",
+      "t": "9h",
+      "dt": "2026-09-29T06:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "AEW's MJF On Topping PWI 500: 'What Took So Long?'",
       "p": "MJF topped this year's PWI 500 list, but according to the former AEW World Champion, it should have happened a long time ago.",
       "link": "https://www.wrestlinginc.com/2271581/aew-mjf-pwi-500-what-took-so-long/",
-      "t": "4h",
+      "t": "11h",
       "dt": "2026-09-29T04:13:41+00:00"
     },
     {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 9/28 – Greg Parks Outloud! A look at Steven Borden’s prospects for success in AEW, including positives and negatives, plus reasons to stay babyface as well as reasons to turn heel (21 min.)",
-      "p": "SHOW SUMMARY:In this edition of “Greg Parks Outloud!,” PWTorch columnist Greg Parks presents a podcast version of his weekly PWTorch Newsletter column. This week’s show is a look at Steven Borden...",
-      "link": "https://www.pwtorch.com/site/2026/09/28/vip-podcast-9-28-greg-parks-outloud-a-look-at-steven-bordens-prospects-for-success-in-aew-including-positives-and-negatives-plus-reasons-to-stay-babyface-as-well-as-reasons-to-turn-heel/",
-      "t": "5h",
-      "dt": "2026-09-29T02:29:53+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Yota Tsuji Says He Didn’t Boycott Forbidden Door, Will Wrestle Non-Title Match In AEW",
-      "p": "Yota Tsuji clarifies past comments about AEW x NJPW Forbidden Door. Ahead of AEW x NJPW Forbidden Door, IWGP Heavyweight Champion Yota Tsuji suggested boycotting the event given how AEW had...",
-      "link": "https://www.fightful.com/wrestling-news/yota-tsuji-says-he-didnt-boycott-forbidden-door-will-wrestle-non-title-match-in-aew/",
-      "t": "6h",
-      "dt": "2026-09-29T01:35:36+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "WWE Pays Tribute To PAC (Neville)",
-      "p": "WWE pays tribute to PAC. This week’s episode of Raw opened with a graphic that acknowledged the recent passing of Benjamin Satterley, who was known as (Adrian) Neville in WWE. In AEW, fans knew...",
-      "link": "https://www.fightful.com/wrestling-news/331089-pac-wwe/",
-      "t": "8h",
-      "dt": "2026-09-29T00:12:58+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Medical examiner’s office comments on Ben Satterley’s passing, AEW announces tribute special",
-      "p": "Several details have emerged after the sudden passing of Benjamin Satterley, a.k.a. Pac. The post Medical examiner’s office comments on Ben Satterley’s passing, AEW announces tribute special...",
-      "link": "https://www.postwrestling.com/2026/09/28/medical-examiners-office-comments-on-ben-satterleys-passing-aew-announces-tribute-special/",
-      "t": "10h",
-      "dt": "2026-09-28T21:53:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Tony Khan says Wednesday’s AEW Dynamite will be a Pac tribute show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Tony Khan says Wednesday’s AEW Dynamite will be a Pac tribute show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/09/28/tony-khan-says-wednesdays-aew-dynamite-will-be-a-pac-tribute-show/",
-      "t": "10h",
-      "dt": "2026-09-28T21:50:19+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Emotional Tony Khan Honors The Late Pac, Announces Tribute Show For AEW Dynamite",
-      "p": "An emotional Tony Khan revealed ahead of Monday's ROH tapings that Wednesday's edition of \"AEW Dynamite\" will be a tribute show for the late Pac.",
-      "link": "https://www.wrestlinginc.com/2271421/pac-emotional-tony-khan-aew-dynamite-tribute-show/",
-      "t": "10h",
-      "dt": "2026-09-28T21:36:41+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "New Details Regarding Death Of AEW Star PAC",
-      "p": "New details emerged on Monday regarding the tragic death of AEW star Pac, after the company confirmed his passing Sunday night.",
-      "link": "https://www.wrestlinginc.com/2271305/new-details-death-aew-star-pac/",
+      "src": "Wrestling Observer",
+      "h": "CMLL’s KeMalito and Mistico pay tribute to PAC",
+      "p": "Tributes continue to flow hours after AEW wrestler PAC’s passing. On Sunday, Sept. 27, 2026, PAC passed away at the age of 40. As more details about his death recently emerged, his fellow...",
+      "link": "https://www.f4wonline.com/news/aew/cmlls-kemalito-and-mistico-pay-tribute-to-pac/",
       "t": "12h",
-      "dt": "2026-09-28T20:09:39+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Explains Early Start Time For WWE Worlds Collide Broadcast",
-      "p": "With reports indicating that WWE will stream Worlds Collide on YouTube against \"AEW Dynamite,\" Dave Meltzer has elaborated on the strategy.",
-      "link": "https://www.wrestlinginc.com/2271247/dave-meltzer-explains-early-start-time-wwe-worlds-collide-broadcast/",
-      "t": "12h",
-      "dt": "2026-09-28T19:36:17+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE Signs Content Deal With AEW Partner WBD",
-      "p": "WWE has agreed a new multi-year content deal with Bleacher Report, who are owned by AEW's broadcast partner, Warner Brothers Discovery.",
-      "link": "https://www.wrestlinginc.com/2271070/aew-wwe-wbd-warner-bros-discovery-content-deal-highlights-partner/",
-      "t": "14h",
-      "dt": "2026-09-28T17:58:01+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW All Out Hit List: The standout matches, interference in the pay-per-view main event, the Swerve Strickland and Hangman Page feud heats up again, Steven Borden’s injury",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW All Out Hit List: The standout matches, interference in the pay-per-view main event, the Swerve Strickland and Hangman Page feud...",
-      "link": "https://prowrestling.net/site/2026/09/28/powells-aew-all-out-hit-list-the-standout-matches-interference-in-the-pay-per-view-main-event-the-swerve-strickland-and-hangman-page-feud-heats-up-again-steven-bordens-injury/",
-      "t": "15h",
-      "dt": "2026-09-28T17:08:52+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "NJPW “Destruction in Kobe” results (9/27): Vetter’s review of Yota Tsuji vs. Hirooki Goto for the IWGP Heavyweight Championship, Konosuke Takeshita vs. Shun Skywalker for the NJPW TV Title",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “Destruction in Kobe” results (9/27): Vetter’s review of Yota Tsuji vs. Hirooki Goto for the IWGP Heavyweight Championship, Konosuke...",
-      "link": "https://prowrestling.net/site/2026/09/28/njpw-destruction-in-kobe-results-9-27-vetters-review-of-yota-tsuji-vs-hirooki-goto-for-the-iwgp-heavyweight-championship-konosuke-takeshita-vs-shun-skywalker-for-the-njpw-tv-title/",
-      "t": "17h",
-      "dt": "2026-09-28T15:22:13+00:00"
+      "dt": "2026-09-29T03:44:59+00:00"
     }
   ]
 }

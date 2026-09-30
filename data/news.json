@@ -1,111 +1,111 @@
 {
-  "updated": "2026-09-30T13:38:53.358095+00:00",
+  "updated": "2026-09-30T19:15:42.796307+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
-      "h": "LA Knight: I Have Plenty Of Memories From Living With Jon Moxley That I Cannot Even Dare Talk About, We Had A Lot Of Fun Nights",
-      "p": "LA Knight says that he has plenty of memories from living with Jon Moxley that he cannot dare talk about. For a lot of professional wrestlers, being roommates with their colleagues is not...",
-      "link": "https://www.fightful.com/wrestling-news/la-knight-i-have-plenty-of-memories-from-living-with-jon-moxley-that-i-cannot-even-dare-talk-about-we-had-a-lot-of-fun-nights/",
-      "t": "16m",
-      "dt": "2026-09-30T13:22:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Schiavone gives positive update on Steven Borden after AEW All Out 2026",
-      "p": "On his What Happened When podcast, Tony Schiavone shared a positive update on Steven Borden after AEW All Out 2026. A scary moment happened at Saturday’s pay-per-view when Borden hit his head...",
-      "link": "https://www.f4wonline.com/news/aew/tony-schiavone-gives-positive-update-on-steven-borden-after-aew-all-out-2026/",
-      "t": "16m",
-      "dt": "2026-09-30T13:22:16+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Remembering Pac: 6 Great Matches From The Late AEW & WWE Star",
-      "p": "In honor of AEW star & former WWE star Benjamin Satterley, Wrestling Inc. presents six astounding matches performed by the late Pac.",
-      "link": "https://www.wrestlinginc.com/2272812/remembering-pac-6-great-matches-aew-wwe-pwg/",
-      "t": "38m",
-      "dt": "2026-09-30T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jeff Jarrett says WWE’s business model under TKO has changed what ‘matters’ creatively",
-      "p": "WWE Hall of Famer and AEW name Jeff Jarrett recently discussed WWE’s creative direction under TKO, and how signing confirmed streaming deals has completely changed the game when it comes to...",
-      "link": "https://www.f4wonline.com/news/wwe/jeff-jarrett-tko-wwe-ple-business-model-changed/",
-      "t": "43m",
-      "dt": "2026-09-30T12:55:20+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite in Pittsburgh, WWE Worlds Collide, WWE Evolve, last week’s Dynamite and Collision grades, Swerve Strickland, Candice Michelle, Trevor Lee, Chris Von Erich, Bobby Jaggers",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in Pittsburgh, WWE Worlds Collide, WWE Evolve, last week’s Dynamite and Collision grades, Swerve Strickland, Candice Michelle,...",
-      "link": "https://prowrestling.net/site/2026/09/30/aew-dynamite-in-pittsburgh-wwe-worlds-collide-wwe-evolve-last-weeks-dynamite-and-collision-grades-swerve-strickland-candice-michelle-trevor-lee-chris-von-erich-bobby-jaggers/",
+      "h": "AEW Shop Releases New PAC Merchandise, All Proceeds To Go To The Satterley Family",
+      "p": "AEW shop have released new merchandise for PAC, with all proceeds from sales set to go to the Satterley Family. It was announced over the weekend that PAC (Benjamin Satterley) had tragically...",
+      "link": "https://www.fightful.com/wrestling-news/aew-shop-releases-new-pac-merchandise-all-proceeds-to-go-to-the-satterley-family/",
       "t": "1h",
-      "dt": "2026-09-30T12:00:59+00:00"
+      "dt": "2026-09-30T17:41:17+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (9/30): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, SEPTEMBER 30, 2026 Where: PITTSBURGH, PA. AT PETERSEN EVENTS CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,894 tickets had...",
+      "link": "https://www.pwtorch.com/site/2026/09/30/aew-dynamite-preview-9-30-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "1h",
+      "dt": "2026-09-30T17:31:09+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: The Young Bucks stepping up as elder leaders of the locker room, Andrade taking a step backwards by leaning too hard into comedic aspects",
+      "p": "Welcome everyone! Well, our AEW family lost another member this week. I have seen this written before, but it works. Pac may have been “The Bastard,” but he was our bastard. Rest in peace. What [...]",
+      "link": "https://www.pwtorch.com/site/2026/09/30/aew-rising-and-fading-stars-the-young-bucks-stepping-up-as-elder-leaders-of-the-locker-room-andrade-taking-a-step-backwards-by-leaning-too-hard-into-comedic-aspects/",
+      "t": "1h",
+      "dt": "2026-09-30T17:25:34+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (9/30)",
-      "p": "Viewing information and lineup for AEW Dynamite on September 30, 2026. AEW Dynamite (September 30, 2026) Venue: Petersen Events Center City: Pittsburgh, PA Time: 8pm ET Channel: TBS, Max Lineup A...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-9-30/",
+      "h": "Bryan Danielson: I’m Only On Social Media When Someone In AEW Gets In Trouble",
+      "p": "Bryan Danielson is not a fan of social media. Danielson does not tweet often, and even when he does, it might not be coming directly from him. Unless someone in AEW is getting in trouble as he is...",
+      "link": "https://www.fightful.com/wrestling-news/bryan-danielson-im-only-on-social-media-when-someone-in-aew-gets-in-trouble/",
       "t": "1h",
-      "dt": "2026-09-30T12:00:00+00:00"
+      "dt": "2026-09-30T17:21:36+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ticket sales ahead of tonight’s show (09-30-2026)",
-      "p": "AEW Dynamite will be taking place tonight from the Petersen Events Center in Pittsburgh, PA, and will be a tribute show to Benjamin Satterley, aka PAC. According to the latest update from...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-tonight-show-09-30-2026/",
+      "src": "POST Wrestling",
+      "h": "Tony Schiavone shares update on Steven Borden, says he isn’t experiencing headaches or dizziness",
+      "p": "Tony Schiavone shared an update on Steven Borden, stating that the rookie performer is recovering from his injury at All Out. The post Tony Schiavone shares update on Steven Borden, says he isn’t...",
+      "link": "https://www.postwrestling.com/2026/09/30/tony-schiavone-shares-update-on-steven-borden-says-he-isnt-experiencing-headaches-or-dizziness/",
+      "t": "1h",
+      "dt": "2026-09-30T17:15:49+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Schiavone Says He Spoke With Steven Borden, Steven Says He Is Fine After AEW All Out Injury",
+      "p": "Steven Borden suffered a scary injury at AEW All Out that caused his tag team match to be stopped. Borden performed a springboard across the ring, trying to meet in the middle with Kevin Knight,...",
+      "link": "https://www.fightful.com/wrestling-news/tony-schiavone-says-he-spoke-with-steven-borden-steven-says-he-is-fine-after-aew-all-out-injury/",
       "t": "2h",
-      "dt": "2026-09-30T11:18:06+00:00"
+      "dt": "2026-09-30T17:10:25+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (09-30-2026)",
-      "p": "AEW Dynamite takes place tonight from the Petersen Events Center in Pittsburgh, PA with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. There are two matches confirmed for the show as of...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-09-30-2026/",
-      "t": "6h",
-      "dt": "2026-09-30T07:36:25+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (09-30-2026)",
-      "p": "AEW Dynamite takes place tonight from the Petersen Events Center in Pittsburgh, PA, and several matches and segments have been confirmed for what will be a tribute show for Benjamin Satterley/PAC....",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-09-30-2026/",
-      "t": "6h",
-      "dt": "2026-09-30T07:22:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Mustafa Ali, Andrade El Idolo pay their respects to PAC",
-      "p": "AEW’s Andrade El Idolo and TNA’s Mustafa Ali have now joined in to pay their respects to PAC. Recently on social media, Ali reacted to AEW filmmaker Giancarlo’s emotional tribute to PAC. Giancarlo...",
-      "link": "https://www.f4wonline.com/news/aew/mustafa-ali-andrade-el-idolo-pay-their-respects-to-pac/",
-      "t": "11h",
-      "dt": "2026-09-30T02:18:20+00:00"
+      "src": "POST Wrestling",
+      "h": "Andrade El Idolo: “I’ll never forget this match! Forever Pac”",
+      "p": "Andrade El Idolo shared his reaction to the sudden passing of Pac, the man he wrestled less than 24 hours earlier at All Out. The post Andrade El Idolo: “I’ll never forget this match! Forever Pac”...",
+      "link": "https://www.postwrestling.com/2026/09/30/andrade-el-idolo-ill-never-forget-this-match-forever-pac/",
+      "t": "3h",
+      "dt": "2026-09-30T16:02:39+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Eddie Kingston Posts Emotional Video Following Death Of Fellow AEW Star Pac",
-      "p": "Eddie Kingston has opened up about his relationship with the late Benjamin \"PAC\" Slattery in an emotional video on Instagram.",
-      "link": "https://www.wrestlinginc.com/2272882/eddie-kingston-emotional-video-death-aew-pac/",
-      "t": "11h",
-      "dt": "2026-09-30T02:09:21+00:00"
+      "h": "AEW's Andrade El Idolo Pens Tribute To PAC",
+      "p": "AEW star Andrade El Idolo has penned a heartfelt tribute to PAC just days after wrestling the Englishman in what would turn out to be his final match.",
+      "link": "https://www.wrestlinginc.com/2273358/aew-andrade-el-idolo-pac-pens-tribute/",
+      "t": "3h",
+      "dt": "2026-09-30T15:57:23+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Nick Jackson posts tribute honoring AEW star PAC",
+      "p": "Before tonight’s AEW Dynamite tribute show, Nick Jackson of The Young Bucks was able to gather his thoughts for an Instagram post honoring PAC (Benjamin Satterley). Jackson reflected on how PAC...",
+      "link": "https://www.f4wonline.com/news/aew/nick-jackson-posts-tribute-honoring-aew-star-pac/",
+      "t": "4h",
+      "dt": "2026-09-30T15:13:27+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite results (9/30): Powell’s review of the Benjamin “Pac” Satterley tribute show featuring AEW World Champion Will Ospreay vs. Ricochet",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite results (9/30): Powell’s review of the Benjamin “Pac” Satterley tribute show featuring AEW World Champion Will Ospreay vs....",
+      "link": "https://prowrestling.net/site/2026/09/30/aew-dynamite-results-9-30-powells-review-of-the-benjamin-pac-satterley-tribute-show-featuring-aew-world-champion-will-ospreay-vs-ricochet/",
+      "t": "5h",
+      "dt": "2026-09-30T14:00:41+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Former TNA star expresses interest in AEW signing",
+      "p": "With his wife, Deonna Purrazzo, and many close friends and former TNA colleagues now in AEW, Steve Maclin has considered the possibility of joining the promotion. Maclin highlighted that Josh...",
+      "link": "https://www.f4wonline.com/news/aew/former-tna-star-expresses-interest-in-aew-signing/",
+      "t": "5h",
+      "dt": "2026-09-30T13:51:17+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Report: WWE Won't Move Worlds Collide Air Date Despite Going Against AEW Tribute Show",
-      "p": "A new report indicates that despite the new circumstances surrounding this week's \"AEW Dynamite,\" WWE will not move its air date for Worlds Collide.",
-      "link": "https://www.wrestlinginc.com/2272793/wwe-worlds-collide-air-date-aew-tribute-show-pac/",
-      "t": "15h",
-      "dt": "2026-09-29T22:19:52+00:00"
+      "h": "AEW's Will Ospreay Thinks A Match With This Former WWE Star Would Draw 'Big Money'",
+      "p": "AEW World Champion Will Ospreay has spoken glowingly about a former WWE star, praising his intensity and expressing an interest in facing him.",
+      "link": "https://www.wrestlinginc.com/2272943/aew-will-ospreay-wwe-ilja-dragunov-big-money/",
+      "t": "5h",
+      "dt": "2026-09-30T13:30:00+00:00"
     }
   ]
 }

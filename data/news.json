@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T20:44:00.909477+00:00",
+  "updated": "2026-09-30T00:24:07.584326+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
@@ -13,10 +13,74 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "Report: WWE Won't Move Worlds Collide Air Date Despite Going Against AEW Tribute Show",
+      "p": "A new report indicates that despite the new circumstances surrounding this week's \"AEW Dynamite,\" WWE will not move its air date for Worlds Collide.",
+      "link": "https://www.wrestlinginc.com/2272793/wwe-worlds-collide-air-date-aew-tribute-show-pac/",
+      "t": "2h",
+      "dt": "2026-09-29T22:19:52+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW On HBO Max Schedule Announced For October",
+      "p": "Warner Bros Discovery has announced the content schedule for HBO Max in October, which includes All Elite Wrestling programming. Full schedule All Elite Wrestling (AEW) October 3 AEW Collision, 8...",
+      "link": "https://www.fightful.com/wrestling-news/aew-on-hbo-max-schedule-announced-for-october/",
+      "t": "2h",
+      "dt": "2026-09-29T22:17:03+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Announces High-Profile Singles Match For AEW Dynamite: A Tribute To Pac",
+      "p": "AEW President Tony Khan announced a high-profile main event for \"AEW Dynamite: A Tribute to Pac\" set for Wednesday.",
+      "link": "https://www.wrestlinginc.com/2272783/tony-khan-main-event-aew-tribute-pac-ricochet-will-ospreay/",
+      "t": "2h",
+      "dt": "2026-09-29T22:04:14+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Will Ospreay and Ricochet to have a tribute match for Pac",
+      "p": "Will Ospreay and Ricochet will have a match in honor of the late Benjamin Satterley, a.k.a. Pac, this Wednesday. The post Will Ospreay and Ricochet to have a tribute match for Pac appeared first...",
+      "link": "https://www.postwrestling.com/2026/09/29/will-ospreay-and-ricochet-to-have-a-tribute-match-for-pac/",
+      "t": "2h",
+      "dt": "2026-09-29T22:02:23+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay vs. Ricochet announced for AEW Dynamite: A Tribute to PAC",
+      "p": "A new match has been added to the lineup for AEW Dynamite. Tony Khan announced on Tuesday that Will Ospreay vs. Ricochet is now scheduled for the show. Khan wrote: “A Tribute to @BASTARDPAC 8/7c,...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-vs-ricochet-announced-for-aew-dynamite-a-tribute-to-pac/",
+      "t": "2h",
+      "dt": "2026-09-29T21:30:44+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay vs. Ricochet Announced For 9/30 AEW Dynamite",
+      "p": "Will Ospreay and Ricochet will clash again on AEW Dynamite. Tony Khan announced that World Champion Will Ospreay will take on Ricochet on the September 30 episode of Dynamite, which is a tribute...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-vs-ricochet-announced-for-9-30-aew-dynamite/",
+      "t": "3h",
+      "dt": "2026-09-29T21:11:13+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW TV & HBO Max schedule updates for October 2026",
+      "p": "AEW’s full schedule for October on TBS, TNT and HBO Max has been released with only a few changes outside the norm. The biggest change will be the previously announced Dynamite shift on Tuesday,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-tnt-tbs-hbo-max-schedule-updates-october-2026/",
+      "t": "3h",
+      "dt": "2026-09-29T21:10:30+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Big Vinny V: Predicting a card for AEW WrestleDream",
+      "p": "The story in wrestling never ends. When one pay per view concludes, it’s time to look forward to the next one. So, with All Out in the rearview mirror, it’s time to get ready for AEW’s next pay...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-predicting-a-card-for-aew-wrestledream/",
+      "t": "3h",
+      "dt": "2026-09-29T21:05:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "WWE's The Rock Issues Heartfelt Statement On The Death Of AEW Star Pac",
       "p": "WWE's Dwayne \"The Rock\" Johnson issued a heartfelt statement on social media following the death of AEW star Pac.",
       "link": "https://www.wrestlinginc.com/2272686/wwe-the-rock-statement-death-aew-star-pac/",
-      "t": "9m",
+      "t": "3h",
       "dt": "2026-09-29T20:34:37+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "The Rock pays tribute to PAC, sends condolences to AEW and Tony Khan",
       "p": "Dwayne “The Rock” Johnson has joined the wrestling community in mourning PAC (Benjamin Satterley) and sending his condolences to the Satterley family. In an Instagram video today, Johnson praised...",
       "link": "https://www.f4wonline.com/news/aew/the-rock-pays-tribute-to-pac-sends-condolences-to-aew-and-tony-khan/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-09-29T19:30:33+00:00"
     },
     {
@@ -32,80 +96,16 @@
       "h": "The Rock Pays Tribute To PAC",
       "p": "The Rock remembers PAC. The wrestling world sadly lost Ben Satterley (PAC in AEW, Neville in WWE) on Sunday. The wrestling community has come together to pay tribute to PAC in the days since his...",
       "link": "https://www.fightful.com/wrestling-news/the-rock-pays-tribute-to-pac/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-09-29T19:18:43+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Cassie Lee: Winning The AEW Women’s Tag Titles Is My Top Goal In Wrestling",
-      "p": "Cassie Lee wants to win the AEW Women’s Tag Team Championships. Since arriving to AEW/ROH earlier this year, Lee and Jessie McKay have shared the ring with names like Jamie Hayter, Alex Windsor,...",
-      "link": "https://www.fightful.com/wrestling-news/cassie-lee-winning-the-aew-womens-tag-titles-is-my-top-goal-in-wrestling/",
-      "t": "2h",
-      "dt": "2026-09-29T18:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Buddy Matthews, ‘Speedball’ Mike Bailey, John Cena honor AEW star PAC",
       "p": "Following the death of PAC, tributes continue to pour in honoring him for his excellence in the ring and kindness as a person. Buddy Matthews worked with PAC in both WWE and AEW — and they finally...",
       "link": "https://www.f4wonline.com/news/aew/buddy-matthews-speedball-mike-bailey-john-cena-honor-aew-star-pac/",
-      "t": "2h",
-      "dt": "2026-09-29T17:51:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ACT for ALS legislation backed by AEW’s Rebel passes Congress",
-      "p": "An update is available on the petition that Rebel urged fans to sign regarding the Accelerating Access to Critical Therapies for ALS Act, commonly known as ACT for ALS. The act was set to expire...",
-      "link": "https://www.f4wonline.com/news/aew/act-for-als-legislation-backed-by-aews-rebel-passes-congress/",
-      "t": "2h",
-      "dt": "2026-09-29T17:50:30+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mike Bailey Pays Tribute To PAC, ‘The World Is A Better Place Because Of Him’",
-      "p": "Mike Bailey pays tribute to PAC. On this week’s episode of his vlog, Bailey spoke about the recent passing of Benjamin Satterley, who fans knew as PAC in AEW or Neville in WWE. Bailey had nothing...",
-      "link": "https://www.fightful.com/wrestling-news/mike-bailey-pays-tribute-to-pac-the-world-is-a-better-place-because-of-him/",
-      "t": "3h",
-      "dt": "2026-09-29T17:33:05+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Report On What Kept PAC Out Of Inaugural AEW Double Or Nothing",
-      "p": "Dave Meltzer has opened up about the reason PAC never appeared on the inaugural AEW Double or Nothing event in 2019 against Hangman Page.",
-      "link": "https://www.wrestlinginc.com/2272269/aew-double-or-nothing-2019-pac-adam-page/",
-      "t": "3h",
-      "dt": "2026-09-29T17:23:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Steven Borden Injury Update After AEW All Out 2026",
-      "p": "During AEW All Out 2026, Steven Borden was injured after colliding with Kevin Knight in a mid-air spot. Dave Meltzer provided an update on Borden.",
-      "link": "https://www.wrestlinginc.com/2272136/aew-all-out-2026-steven-borden-injury-update/",
-      "t": "4h",
-      "dt": "2026-09-29T16:29:53+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Darby Allin Describes Traits Of Steven Borden That Remind Him Of Sting",
-      "p": "AEW star Darby Allin has had the privilege of wrestling alongside Sting and his son, Steven Borden, and has pointed out the similarities between them.",
-      "link": "https://www.wrestlinginc.com/2271684/aew-darby-allin-steven-borden-sting-traits-remind/",
-      "t": "5h",
-      "dt": "2026-09-29T15:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Eric Bischoff talks positives for AEW ahead of television rights negotiations",
-      "p": "Former WCW President Eric Bischoff recently discussed AEW and what he believes the company needs to do when trying to sell itself during television rights agreements. Speaking on his 83 Weeks...",
-      "link": "https://www.f4wonline.com/news/aew/eric-bischoff-aew-positives-television-rights-negotiations/",
-      "t": "5h",
-      "dt": "2026-09-29T15:10:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's MJF Praises WWE Stars Trick Williams & Oba Femi",
-      "p": "Former AEW World Champion MJF has lavished praise on Oba Femi and Trick Williams, explaining why he believes the two WWE stars have great potential.",
-      "link": "https://www.wrestlinginc.com/2271622/aew-wwe-mjf-trick-williams-oba-femi-praises/",
       "t": "6h",
-      "dt": "2026-09-29T14:00:00+00:00"
+      "dt": "2026-09-29T17:51:17+00:00"
     }
   ]
 }

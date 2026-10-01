@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-01T05:46:19.551166+00:00",
+  "updated": "2026-10-01T13:07:30.127491+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,75 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Jon Moxley shares memorable PAC story after AEW Dynamite went off air",
+      "p": "Jon Moxley addressed the crowd after AEW’s Dynamite tribute to PAC went off the air. While thanking the Pittsburgh crowd for attending the special tribute show, Moxley shared a story about PAC...",
+      "link": "https://www.f4wonline.com/news/aew/jon-moxley-shares-memorable-pac-story-after-aew-dynamite-went-off-air/",
+      "t": "3m",
+      "dt": "2026-10-01T13:03:34+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Tuesday’s Grand Slam Paris",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tuesday’s Grand Slam Paris appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/01/aew-dynamite-preview-tuesdays-grand-slam-paris/",
+      "t": "5m",
+      "dt": "2026-10-01T13:01:42+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay reacts to hitting Black Arrow on AEW Dynamite PAC tribute",
+      "p": "Will Ospreay followed PAC’s lead in his Black Arrow attempt on AEW Dynamite last night. To win his match against Ricochet, Ospreay was able to land his own version of the Black Arrow before...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-reacts-to-hitting-black-arrow-on-aew-dynamite-pac-tribute/",
+      "t": "17m",
+      "dt": "2026-10-01T12:49:34+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Bayley pens heartfelt note after AEW Dynamite tribute to PAC",
+      "p": "Bayley shared a note on the impact of pro wrestling following the special AEW Dynamite for PAC after his sudden passing on September 27. The WWE star penned a heartfelt note on X citing how pro...",
+      "link": "https://www.f4wonline.com/news/aew/bayley-pens-heartfelt-note-after-aew-dynamite-tribute-to-pac/",
+      "t": "1h",
+      "dt": "2026-10-01T11:46:50+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Bryan Alvarez’s AEW Dynamite A Tribute to PAC report for subscribers",
+      "p": "Bryan Alvarez’s report on the September 30 edition of AEW Dynamite is now available for subscribers.",
+      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-a-tribute-to-pac-report-for-subscribers/",
+      "t": "1h",
+      "dt": "2026-10-01T11:40:04+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jeff Jarrett claims Kazuchika Okada needed to evolve his character for American wrestling",
+      "p": "AEW performer and former owner of TNA Wrestling Jeff Jarrett recently discussed Kazuchika Okada and the changes he has made to be successful on US television. Speaking on his My World podcast,...",
+      "link": "https://www.f4wonline.com/news/aew/jeff-jarrett-kazuchika-okada-evolve-aew-gimmick/",
+      "t": "1h",
+      "dt": "2026-10-01T11:38:13+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "The story of Kenta Kobashi in ROH | WON Flashback",
+      "p": "October 1 2005 was the date of Kenta Kobashi vs Samoa Joe, a ***** classic that still holds up over 20 years later as one of the Japanese wrestling greats came over from Pro Wrestling NOAH to take...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/kenta-kobashi-roh-2005-won-flashback/",
+      "t": "3h",
+      "dt": "2026-10-01T10:02:33+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 9/30 – WKPWP after Dynamite: Keller & Lansdell discuss magnificent and moving tribute show to Pac (123 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Chris Lansdell to discuss AEW’s magnificent and moving tribute to Ben “Pac” Satterly, with praise for how AEW handled it start to...",
+      "link": "https://www.pwtorch.com/site/2026/10/01/free-podcast-9-30-wkpwp-after-dynamite-keller-lansdell-discuss-magnificent-and-moving-tribute-show-to-pac-123-min/",
+      "t": "7h",
+      "dt": "2026-10-01T05:52:06+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Jon Moxley Shares Story About PAC After AEW Dynamite",
       "p": "Jon Moxley speaks about PAC. The September 30th edition of AEW Dynamite was a tribute to Benjamin Satterley, a.k.a. PAC, who passed away earlier this week. Members of PAC’s faction, the Death...",
       "link": "https://www.fightful.com/wrestling-news/jon-moxley-shares-story-about-pac-after-aew-dynamite/",
-      "t": "2m",
+      "t": "7h",
       "dt": "2026-10-01T05:43:48+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "VIP PODCAST 9/30 – WKH – AEW Dynamite: Pac Tribute Show including wrestlers sharing their love and respect for him, Bryan Danielson comes out of retirement, Ospreay vs. Ricochet (24 min.)",
       "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the September 30 episode of AEW Dynamite start to finish including a tribute to Pac with wrestlers...",
       "link": "https://www.pwtorch.com/site/2026/10/01/vip-podcast-9-30-wkh-aew-dynamite-pac-tribute-show-including-wrestlers-sharing-their-love-and-respect-for-him-bryan-danielson-comes-out-of-retirement-ospreay-vs-ricochet-24-min/",
-      "t": "12m",
+      "t": "7h",
       "dt": "2026-10-01T05:33:36+00:00"
     },
     {
@@ -32,7 +96,7 @@
       "h": "09/30 Powell’s AEW Dynamite audio review: The Pac tribute show with The Death Riders vs. The Callis Family in a ten-man tag, Jon Moxley vs. Orange Cassidy for the AEW Continental Championship",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 09/30 Powell’s AEW Dynamite audio review: The Pac tribute show with The Death Riders vs. The Callis Family in a ten-man tag, Jon Moxley vs....",
       "link": "https://prowrestling.net/site/2026/09/30/09-30-powells-aew-dynamite-audio-review-the-pac-tribute-show-with-the-death-riders-vs-the-callis-family-in-a-ten-man-tag-jon-moxley-vs-orange-cassidy-for-the-aew-continental-championship/",
-      "t": "1h",
+      "t": "8h",
       "dt": "2026-10-01T04:33:08+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "AEW Dynamite 9/30/2026: 3 Things We Loved",
       "p": "On a night of mourning and tribute for the late AEW star Pac, here are three things we loved about the 9/30/26 episode of \"AEW Dynamite.\"",
       "link": "https://www.wrestlinginc.com/2274177/aew-dynamite-september-30-2026-tribute-pac-loved-opinion-review/",
-      "t": "1h",
+      "t": "9h",
       "dt": "2026-10-01T03:52:50+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "A Tribute to PAC: AEW Dynamite 9/30/26 Review | RAD",
-      "p": "John Pollock & Wai Ting review AEW Dynamite: A Tribute to PAC, honouring Benjamin Satterley. Feat. Ospreay vs Ricochet. XL: Keanu Carver protection order, Raja Jackson update Live 10:35pm ET for...",
-      "link": "https://www.postwrestling.com/2026/09/30/a-tribute-to-pac-aew-dynamite-9-30-26-review-rad-xl-live-1035pm-et/",
-      "t": "2h",
-      "dt": "2026-10-01T03:45:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Wardlow wrestles for first time in over 900 days on AEW Dynamite PAC tribute show",
-      "p": "Wardlow wrestled his first match in 932 days on Wednesday’s PAC tribute edition of AEW Dynamite. As was the case before he got injured in his first return spot at August 2025’s Forbidden Door, the...",
-      "link": "https://www.f4wonline.com/news/aew/wardlow-wrestles-for-first-time-in-over-900-days-aew-dynamite/",
-      "t": "2h",
-      "dt": "2026-10-01T03:41:37+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW’s Motor City Machine Guns announced for indie wrestling show",
-      "p": "Having wrestled just one match for AEW, Motor City Machine Guns are now set to appear on an indie wrestling show. Last seen wrestling for AEW on the Sept. 2, 2026 episode of Collision, Chris Sabin...",
-      "link": "https://www.f4wonline.com/news/aew/aews-motor-city-machine-guns-announced-for-indie-wrestling-show/",
-      "t": "2h",
-      "dt": "2026-10-01T03:40:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Finn Balor & Drew McIntyre Pay Tribute To PAC",
-      "p": "Finn Balor and Drew McIntyre honor PAC. Ahead of All Elite Wrestling paying tribute to PAC with an episode of Dynamite, several WWE talents paid tribute to PAC, real name Benjamin Satterly. Among...",
-      "link": "https://www.fightful.com/wrestling-news/finn-balor-drew-mcintyre-pay-tribute-to-pac/",
-      "t": "2h",
-      "dt": "2026-10-01T03:22:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Danielson: ‘I can’t even understand why people would want to be on social media’",
-      "p": "AEW’s Bryan Danielson does not understand why people want to be on social media. Social media is both a boon and a bane. While good for keeping track of current affairs, it can often turn out to...",
-      "link": "https://www.f4wonline.com/news/aew/bryan-danielson-i-cant-even-understand-why-people-would-want-to-be-on-social-media/",
-      "t": "2h",
-      "dt": "2026-10-01T03:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Danielson makes surprise in-ring return on AEW Dynamite PAC tribute episode",
-      "p": "Nearly two years after retiring from active in-ring competition and nearly two hours after making amends with Jon Moxley, Bryan Danielson returned to the ring on Wednesday’s PAC tribute edition of...",
-      "link": "https://www.f4wonline.com/news/aew/bryan-danielson-in-ring-return-aew-dynamite-pac-tribute/",
-      "t": "2h",
-      "dt": "2026-10-01T03:14:18+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 9/30 – WKPWP Flagship from 5 Yrs Ago: Keller & Martin blunt review of the premiere of “Rhodes to the Top,” Big E so far as champ, Guevara’s big title win, New Japan G1, NXT, MJF promo, more (172 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Podcast “Flagship” episode (9-30-2021), PWTorch editor Wade Keller was joined by PWTorch VIP analyst Todd...",
-      "link": "https://www.pwtorch.com/site/2026/09/30/free-podcast-9-30-wkpwp-flagship-from-5-yrs-ago-keller-martin-blunt-review-of-the-premiere-of-rhodes-to-the-top-big-e-so-far-as-champ-guevaras-big-title-win/",
-      "t": "2h",
-      "dt": "2026-10-01T03:00:41+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Marina Shafir Scores AEW Dynamite Tribute Show Trios Win With Pac's Brutalizer",
-      "p": "Marina Shafir scored victory during the \"AEW Dynamite\" tribute to PAC with his own Brutalizer.",
-      "link": "https://www.wrestlinginc.com/2274170/aew-dynamite-marina-shafir-tribute-show-trios-win-pac-brutalizer/",
-      "t": "3h",
-      "dt": "2026-10-01T02:44:03+00:00"
     }
   ]
 }

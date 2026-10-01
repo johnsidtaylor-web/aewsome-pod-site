@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-01T18:51:10.653493+00:00",
+  "updated": "2026-10-01T23:09:50.601304+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,75 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW Releases Pac Tribute Videos From Wrestlers That Didn't Make Dynamite Broadcast",
+      "p": "Following an emotional episode of \"AEW Dynamite,\" several unseen tributes to Pac from the AEW roster have been uploaded to YouTube.",
+      "link": "https://www.wrestlinginc.com/2275264/aew-pac-tribute-videos-wrestlers-dynamite-broadcast/",
+      "t": "1h",
+      "dt": "2026-10-01T21:44:34+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: AEW notes, Ethan Page, Lucha Kingdom",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Thursday Update...",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-notes-ethan-page-lucha-kingdom/",
+      "t": "1h",
+      "dt": "2026-10-01T21:15:58+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony D’Angelo Wants To Be A Grand Slam Champion On The Main Roster",
+      "p": "Tony D’Angelo names his goals in WWE. D’Angelo has done it all in NXT, winning the NXT Title, NXT North American Title, and NXT Tag Team Titles. With little left to accomplish on the brand, what’s...",
+      "link": "https://www.fightful.com/wrestling-news/tony-dangelo-wants-to-be-a-grand-slam-champion-on-the-main-roster/",
+      "t": "2h",
+      "dt": "2026-10-01T20:10:24+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW stars share tributes for Ben “Pac” Satterley",
+      "p": "AEW released a video featuring more AEW stars give emotional tributes to Ben \"Pac\" Satterley that didn't air on Dynamite. The post AEW stars share tributes for Ben “Pac” Satterley appeared first...",
+      "link": "https://www.postwrestling.com/2026/10/01/aew-stars-share-tributes-for-ben-pac-satterley/",
+      "t": "3h",
+      "dt": "2026-10-01T19:37:11+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Chris Jericho remembers PAC, AEW shares extended tributes",
+      "p": "More than two dozen AEW wrestlers have recorded video tributes to PAC. Chris Jericho wasn’t able to be at last night’s Dynamite tribute show, but he filmed his own video sharing his memories of...",
+      "link": "https://www.f4wonline.com/news/aew/chris-jericho-remembers-pac-aew-shares-extended-tributes/",
+      "t": "3h",
+      "dt": "2026-10-01T19:33:32+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Watch: Extended Tributes to PAC: AEW Stars remember and honor Benjamin “PAC” Satterley",
+      "p": "We have so much love for you, PAC. In addition to all of the messages of love and remembrance during last night’s AEW Dynamite “A Tribute to PAC,” even more AEW Stars honored our fallen friend,...",
+      "link": "https://www.fightful.com/wrestling-news/watch-extended-tributes-to-pac-aew-stars-remember-and-honor-benjamin-pac-satterley/",
+      "t": "3h",
+      "dt": "2026-10-01T19:11:35+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: The card for tonight’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/01/roh-on-honorclub-lineup-the-card-for-tonights-show-45/",
+      "t": "3h",
+      "dt": "2026-10-01T19:10:28+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Chris Jericho Set For ‘Dead Of Night’ Q&A In November, AEW Dynamite Highlights, More | Fight Size",
+      "p": "Here is your fight size update for Thursday, October 1, 2026. – Chris Jericho is set for a ‘Dead Of Night’ Q&A session on Friday, November 13: View this post on Instagram A post shared by Chris...",
+      "link": "https://www.fightful.com/wrestling-news/chris-jericho-set-for-dead-of-night-qa-in-november-aew-dynamite-highlights-more-fight-size/",
+      "t": "4h",
+      "dt": "2026-10-01T19:00:00+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "TNA name set for MyAEW PPV debut this Friday",
       "p": "TNA name Mila Moore is set to make her debut with Pro Wrestling EVE this Friday as part of the GLOBAL THUNDER QUEENS ATTACK card from the Big Penny Social in London, England. EVE confirmed that...",
       "link": "https://www.f4wonline.com/news/other-wrestling/mila-moore-tna-myaew-ppv-pro-wrestling-eve-clockwork-orange/",
-      "t": "12m",
+      "t": "4h",
       "dt": "2026-10-01T18:38:52+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "Steve Maclin: Darby Allin Is My #1 In AEW, I’d Love To Get In The Ring With Him",
       "p": "Steve Maclin wants to share the ring with Darby Allin. Given his free agent status, many fans are expecting Maclin to eventually turn up in AEW. At the tail end of September, Maclin himself...",
       "link": "https://www.fightful.com/wrestling-news/steve-maclin-darby-allin-is-my-1-in-aew-id-love-to-get-in-the-ring-with-him/",
-      "t": "27m",
+      "t": "4h",
       "dt": "2026-10-01T18:23:38+00:00"
     },
     {
@@ -32,7 +96,7 @@
       "h": "WWE Stars Finn Balor, Drew McIntyre Pay Tribute To Late AEW Star Pac",
       "p": "Days after PAC (Ben Satterly) passed away, tributes are still being posted by friends and former colleagues as they remember him and his impact.",
       "link": "https://www.wrestlinginc.com/2274881/wwe-finn-balor-drew-mcintyre-tribute-late-aew-pac/",
-      "t": "39m",
+      "t": "4h",
       "dt": "2026-10-01T18:11:28+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "Backstage Update On Sheamus Potentially Joining AEW As WWE Contract Expires",
       "p": "With Sheamus now officially a free agent, a new report has suggested that some AEW talents would be happy to have him in the company.",
       "link": "https://www.wrestlinginc.com/2274851/sheamus-potentially-joining-aew-wwe-contract-expires/",
-      "t": "55m",
+      "t": "5h",
       "dt": "2026-10-01T17:56:05+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause on AEW Dynamite – AEW pays tribute to Benjamin “Pac” Satterley",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause on AEW Dynamite – AEW pays tribute to Benjamin “Pac” Satterley appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/01/pruetts-pause-on-aew-dynamite-aew-pays-tribute-to-benjamin-pac-satterley/",
-      "t": "57m",
-      "dt": "2026-10-01T17:54:06+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Cassie Lee: I Wouldn’t Want My Tag Partner To Be Anyone Else But Jessie McKay",
-      "p": "Cassie Lee never wants to tag with anyone else. Since debuting in 2015, Lee and Jessie McKay have shared the ring in hundreds of tag matches across promotions like WWE, TNA, AEW, and Ring Of...",
-      "link": "https://www.fightful.com/wrestling-news/cassie-lee-mckay-327065/",
-      "t": "1h",
-      "dt": "2026-10-01T17:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Sheamus Expected To Draw Interest From AEW",
-      "p": "AEW is interested in Sheamus. On the latest episode of WrestleVotes Radio, it was noted that Sheamus is expected to draw interest from AEW now that he is a free agent. Furthermore, WV Radio spoke...",
-      "link": "https://www.fightful.com/wrestling-news/sheamus-expected-to-draw-interest-from-aew/",
-      "t": "1h",
-      "dt": "2026-10-01T16:57:48+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE HITS & MISSES (9/30): A cathartic, touching tribute to Ben “Pac” Satterly from Moxley’s prophetic promo to Ospreay hitting the Black Arrow to a perfect closing video",
-      "p": "Man, there has been way too much of this recently. Hey, I may watch, write, and talk about AEW, but I can’t put myself in the heads of all those in the company from the [...]",
-      "link": "https://www.pwtorch.com/site/2026/10/01/aew-dynamite-hits-misses-9-30-a-cathartic-touching-tribute-to-ben-pac-satterly-from-moxleys-prophetic-promo-to-ospreay-hitting-the-black-arrow-to-a-perfect-closing-video/",
-      "t": "2h",
-      "dt": "2026-10-01T16:49:37+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Will Ospreay Comments On Hitting Pac's Black Arrow Finisher On Tribute AEW Dynamite",
-      "p": "Will Ospreay and Ricochet paid tribute to PAC on \"AEW Dynamite\" with Ospreay connecting with the Black Arrow to pick up the victory on an emotional night.",
-      "link": "https://www.wrestlinginc.com/2274694/will-ospreay-pac-black-arrow-finisher-tribute-aew-dynamite/",
-      "t": "2h",
-      "dt": "2026-10-01T16:37:27+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kenny Omega And Others Made Special Accommodations To Make AEW Tribute To PAC",
-      "p": "Many AEW stars, including Kenny Omega, made special arrangements to be part of the emotional tribute to PAC on \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2274645/kenny-omega-others-made-special-accommodations-aew-tribute-pac/",
-      "t": "2h",
-      "dt": "2026-10-01T16:07:54+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Chris Jericho, Bayley and Will Ospreay share tributes to Pac after Dynamite",
-      "p": "Chris Jericho, Bayley and Will Ospreay shared heartfelt messages after AEW's tribute to Pac went off the air. The post Chris Jericho, Bayley and Will Ospreay share tributes to Pac after Dynamite...",
-      "link": "https://www.postwrestling.com/2026/10/01/chris-jericho-bayley-and-will-ospreay-share-tributes-to-pac-after-dynamite/",
-      "t": "2h",
-      "dt": "2026-10-01T16:06:03+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jim Ross experiencing ‘blistering headaches’ after brain surgery",
-      "p": "Jim Ross is hoping to find a solution for the post-brain surgery complications he’s been experiencing. Following Wednesday night’s AEW Dynamite, Ross went live on YouTube for a new episode of his...",
-      "link": "https://www.f4wonline.com/news/aew/jim-ross-experiencing-blistering-headaches-after-brain-surgery/",
-      "t": "3h",
-      "dt": "2026-10-01T15:24:55+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-03T06:28:46.516346+00:00",
+  "updated": "2026-10-03T12:29:44.316903+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,43 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "People in WWE ‘very surprised’ by The Rock’s AEW praise | Exclusive",
+      "p": "Some in WWE were “very surprised” by The Rock’s praise for AEW in his recent tribute video to PAC. Earlier this week, The Rock released a video on Instagram sending his condolences on PAC’s...",
+      "link": "https://www.f4wonline.com/news/wwe/people-in-wwe-very-surprised-by-the-rocks-aew-praise-exclusive/",
+      "t": "23m",
+      "dt": "2026-10-03T12:06:37+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision Preview, Start Time, How To Watch, Location (10/3)",
+      "p": "Viewing information and lineup for AEW Collision on October 3, 2026 AEW Collision (October 3, 2026) Venue: Truist Arena City: Highland Heights, KY Time: 8 pm ET Channel: TNT, HBO Max Lineup Kofi...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-10-3/",
+      "t": "29m",
+      "dt": "2026-10-03T12:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Don Callis: A Lot Of The Guys Looked Up To PAC & With Very Good Reason",
+      "p": "Don Callis shares his thoughts about PAC. Maple Leaf Pro Wrestling’s Northern Rising event is on October 3rd at the Mattamy Athletic Centre, f.k.a. Maple Leaf Gardens. The MLP commentary team...",
+      "link": "https://www.fightful.com/wrestling-news/don-callis-a-lot-of-the-guys-looked-up-to-pac-with-very-good-reason/",
+      "t": "34m",
+      "dt": "2026-10-03T11:55:14+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: The card for tonight’s live show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for tonight’s live show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/03/aew-collision-lineup-the-card-for-tonights-live-show-9/",
+      "t": "1h",
+      "dt": "2026-10-03T11:00:54+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Tony Schiavone Reveals The Last Time He Spoke To Pac During AEW All Out 2026",
       "p": "AEW commentator Tony Schiavone has recalled the final conversation he had with Pac before the Englishman's passing.",
       "link": "https://www.wrestlinginc.com/2276493/tony-schiavone-pac-aew-all-out-2026-last-time-spoke-andrade/",
-      "t": "2h",
+      "t": "8h",
       "dt": "2026-10-03T03:30:32+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "DEFY ALL HEART Results (10/1): Jon Moxley, Daniel Garcia, And Marina Shafir Team",
       "p": "DEFY Wrestling held its DEFY ALL HEART event on October 1 from the Lincoln Factory in Detroit, MI. The event aired on DEFY Patreon. Full results are below. DEFY ALL HEART Results (10/1) DEFY Lucha...",
       "link": "https://www.fightful.com/wrestling-news/defy-all-heart-results-10-1-jon-moxley-daniel-garcia-and-marina-shafir-team/",
-      "t": "2h",
+      "t": "8h",
       "dt": "2026-10-03T03:30:00+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "First matches announced for AEW Collision",
       "p": "A match for AEW Collision has been announced. Tony Khan announced that Kofi will have his first singles match in AEW in Highland Heights, Kentucky on Saturday, as he will be taking on ROH Pure...",
       "link": "https://www.f4wonline.com/news/aew/first-match-announced-for-aew-collision/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-10-03T02:55:00+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Kofi Vs. Lee Moriarty, More Set For 10/3 AEW Collision",
       "p": "Kofi to make his singles debut on AEW Collision. Tony Khan recently announced on social media that Kofi will be making his singles debut in All Elite Wrestling on the 10/3 edition of AEW...",
       "link": "https://www.fightful.com/wrestling-news/kofi-vs-lee-moriarty-set-for-10-3-aew-collision/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-10-03T02:46:44+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "VIP PODCAST 10/2 – Everything with Rich & Wade: On-site report from Pac memorial episode of Dynamite in Pittsburgh, plus Seth Rollins-NFL, Acclaimed, Sheamus, WBD-Paramount, Road Dogg (70 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Rich discusses what it was like to be in the arena on Wednesday for [...]",
       "link": "https://www.pwtorch.com/site/2026/10/02/vip-podcast-10-2-everything-with-rich-wade-on-site-report-from-pac-memorial-episode-of-dynamite-in-pittsburgh-plus-seth-rollins-nfl-acclaimed-sheamus-wbd-paramount-road-dogg-70-min/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-10-03T01:09:47+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "AEW Dynamite was a beautiful, heartbreaking tribute to PAC | Opinion",
       "p": "I don’t know if I was mentally ready to watch Wednesday’s Dynamite. But I did, and it was incredible. I am still struggling to accept PAC’s untimely death on Sunday, less than 24 hours after a...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-was-a-beautiful-heartbreaking-tribute-to-pac-opinion/",
-      "t": "7h",
+      "t": "13h",
       "dt": "2026-10-02T23:00:00+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "Daily Update: Weekend notes, AEW ratings, Collision",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update —...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-weekend-notes-aew-ratings-collision/",
-      "t": "8h",
+      "t": "14h",
       "dt": "2026-10-02T22:26:20+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "AEW Dynamite Viewership & Ratings Report: 9/16/2026",
       "p": "The September 16 edition of \"AEW Dynamite\" was up in viewership from the previous episode, less than two weeks out from AEW All Out 2026.",
       "link": "https://www.wrestlinginc.com/2276434/aew-dynamite-viewership-ratings-september-16-2026/",
-      "t": "8h",
+      "t": "14h",
       "dt": "2026-10-02T22:22:43+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 10/2 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: In memory of Ben “Pac” Satterley (109 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss the passing of Ben “Pac” Satterley and AEW’s best Dynamite ever to...",
-      "link": "https://www.pwtorch.com/site/2026/10/02/free-podcast-10-2-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-in-memory-of-ben-pac-satterley-109-min/",
-      "t": "8h",
-      "dt": "2026-10-02T22:22:05+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: McGregor perjury update, Jericho Cruise & The Acclaimed’s status",
-      "p": "Jack Wannan covers the news for Friday, October 2, including an update on a perjury case tied to Conor McGregor’s failed appeal, a reported roster move in AEW, a look at this weekend’s top events,...",
-      "link": "https://www.postwrestling.com/2026/10/02/post-news-mcgregor-perjury-update-jericho-cruise-the-acclaimeds-status/",
-      "t": "8h",
-      "dt": "2026-10-02T21:58:56+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Schiavone Says Women's Division Star Is 'Banged Up' Following AEW All Out 2026",
-      "p": "AEW commentator Tony Schiavone said one women's division star was \"banged up\" following AEW All Out 2026.",
-      "link": "https://www.wrestlinginc.com/2276328/tony-schiavone-jamie-hayter-banged-up-aew-all-out-2026/",
-      "t": "9h",
-      "dt": "2026-10-02T20:37:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: AEW & WBD, Bound for Glory, Jericho Cruise Collision",
-      "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including all the news from the past few days, thoughts on the future of AEW on WBD and what is pretty...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-aew-and-wbd-bound-for-glory-collision-on-jericho-cruise-tons-more/",
-      "t": "10h",
-      "dt": "2026-10-02T20:10:35+00:00"
     }
   ]
 }

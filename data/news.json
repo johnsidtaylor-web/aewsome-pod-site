@@ -1,38 +1,78 @@
 {
-  "updated": "2026-10-03T17:14:04.879100+00:00",
+  "updated": "2026-10-03T19:51:27.537040+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
-      "h": "EVE Global Thunder Queens Attack Results (10/2)",
-      "p": "Pro Wrestling EVE held its EVE Global Thunder Queens Attack event on October 2 from Big Penny Social in London, England. The event aired on YouTube and MyAEW. Full results are below. EVE Global...",
-      "link": "https://www.fightful.com/wrestling-news/eve-global-thunder-queens-attack-results-10-2/",
-      "t": "13m",
-      "dt": "2026-10-03T17:00:00+00:00"
+      "h": "Scorpio Sky Has Not Signed New AEW Deal",
+      "p": "An update on Scorpio Sky. Fightful Select has a contract note about All Elite Wrestling’s Scorpio Sky. As of the 2026 All Out pay-per-view, he has not inked a new deal with AEW. “It was previously...",
+      "link": "https://www.fightful.com/wrestling-news/scorpio-sky-has-not-signed-new-aew-deal/",
+      "t": "9m",
+      "dt": "2026-10-03T19:42:02+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tommy End/Malakai Black opponent confirmed for PROGRESS Wrestling Bonestorm event",
+      "p": "Tommy End, who was previously known as Malakai Black in AEW and Aleister Black in WWE, will be wrestling at PROGRESS Wrestling Chapter 199: Bonestorm. End confirmed that he was going by his older...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/tommy-end-malakai-black-luke-jacobs-progress-wrestling-chapter-199-bonestorm/",
+      "t": "18m",
+      "dt": "2026-10-03T19:32:31+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Zayda Steel Names Wrestlers Who Inspired Her Growing Up",
+      "p": "AEW star Zayda Steel names The Four Horsewomen, The Undertaker, and other former WWE champions as her childhood favorite wrestlers.",
+      "link": "https://www.wrestlinginc.com/2273778/aew-zayda-steel-wrestlers-inspired-growing-up/",
+      "t": "51m",
+      "dt": "2026-10-03T19:00:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Josh Alexander reflects on PAC and wrestling Bryan Danielson ahead of MLP Northern Rising",
+      "p": "Josh Alexander has spoken about his final conversation with Benjamin Satterley, the catharsis of AEW’s tribute to PAC, and the unexpected opportunity to share the ring with Bryan Danielson. The...",
+      "link": "https://www.postwrestling.com/2026/10/03/josh-alexander-reflects-on-pac-and-wrestling-bryan-danielson-ahead-of-mlp-northern-rising/",
+      "t": "56m",
+      "dt": "2026-10-03T18:54:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Marina Shafir confirmed for title match on MyAEW PPV show",
+      "p": "AEW name, and member of the Death Riders, Marina Shafir has been confirmed for a title match on MyAEW PPV in November. Shafir will be facing Pro Wrestling EVE International Champion Miyu...",
+      "link": "https://www.f4wonline.com/news/aew/marina-shafir-vs-miyu-yamashita-pro-wrestling-eve-elite-encounters-2/",
+      "t": "1h",
+      "dt": "2026-10-03T18:19:18+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Chris Jericho: I’m In The Hall Of Fame In My Head And In The Heads Of Anybody That Appreciates The Work I’ve Done",
-      "p": "Chris Jericho is in his own Hall Of Fame. With his current residence in AEW, some fans believe that it could be a while before we see Chris Jericho join the WWE Hall Of Fame. As it turns out,...",
-      "link": "https://www.fightful.com/wrestling-news/chris-jericho-im-in-the-hall-of-fame-in-my-head-and-in-the-heads-of-anybody-that-appreciates-the-work-ive-done/",
+      "h": "Templario Pays Tribute To Pac (Benjamin Satterley)",
+      "p": "Templario pays tribute to Pac. Last month, All Elite Wrestling shared the news of Pac’s (Benjamin Satterley) passing. The company dedicated the September 30 edition of AEW Dynamite as a tribute to...",
+      "link": "https://www.fightful.com/wrestling-news/templario-pays-tribute-to-pac-benjamin-satterley/",
       "t": "1h",
-      "dt": "2026-10-03T16:00:00+00:00"
+      "dt": "2026-10-03T18:16:35+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision ticket sales update ahead of tonight’s show (10-03-2026)",
+      "p": "AEW Collision takes place tonight from the Truist Arena in Highland Heights, KY. According to the latest update from WrestleTix, 1,936 tickets have been distributed for the show thus far, which is...",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-sales-update-tonight-show-10-03-2026/",
+      "t": "1h",
+      "dt": "2026-10-03T18:01:51+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "MJF Contemplates Lessons Learned During First AEW World Title Run",
       "p": "MJF admits that he had to learn a lot over the course of his first AEW World Title reign.",
       "link": "https://www.wrestlinginc.com/2273702/aew-mjf-contemplates-lessons-learned-first-world-title-run/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-10-03T16:00:00+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "AEW Star Steven Borden Explains When He Decided To Pursue Pro Wrestling",
       "p": "Steven Borden has revealed when he knew he wanted to become a wrestler like his legendary father, Sting, naming the AEW event that convinced him.",
       "link": "https://www.wrestlinginc.com/2271705/aew-steven-borden-decided-pursue-pro-wrestling/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-10-03T13:30:00+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "People in WWE ‘very surprised’ by The Rock’s AEW praise | Exclusive",
       "p": "Some in WWE were “very surprised” by The Rock’s praise for AEW in his recent tribute video to PAC. Earlier this week, The Rock released a video on Instagram sending his condolences on PAC’s...",
       "link": "https://www.f4wonline.com/news/wwe/people-in-wwe-very-surprised-by-the-rocks-aew-praise-exclusive/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-10-03T12:06:37+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW Collision lineup: The card for tonight’s live show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for tonight’s live show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/10/03/aew-collision-lineup-the-card-for-tonights-live-show-9/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-10-03T11:00:54+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Tony Schiavone Reveals The Last Time He Spoke To Pac During AEW All Out 2026",
       "p": "AEW commentator Tony Schiavone has recalled the final conversation he had with Pac before the Englishman's passing.",
       "link": "https://www.wrestlinginc.com/2276493/tony-schiavone-pac-aew-all-out-2026-last-time-spoke-andrade/",
-      "t": "13h",
-      "dt": "2026-10-03T03:30:32+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "First matches announced for AEW Collision",
-      "p": "A match for AEW Collision has been announced. Tony Khan announced that Kofi will have his first singles match in AEW in Highland Heights, Kentucky on Saturday, as he will be taking on ROH Pure...",
-      "link": "https://www.f4wonline.com/news/aew/first-match-announced-for-aew-collision/",
-      "t": "14h",
-      "dt": "2026-10-03T02:55:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 10/2 – Everything with Rich & Wade: On-site report from Pac memorial episode of Dynamite in Pittsburgh, plus Seth Rollins-NFL, Acclaimed, Sheamus, WBD-Paramount, Road Dogg (70 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: Rich discusses what it was like to be in the arena on Wednesday for [...]",
-      "link": "https://www.pwtorch.com/site/2026/10/02/vip-podcast-10-2-everything-with-rich-wade-on-site-report-from-pac-memorial-episode-of-dynamite-in-pittsburgh-plus-seth-rollins-nfl-acclaimed-sheamus-wbd-paramount-road-dogg-70-min/",
       "t": "16h",
-      "dt": "2026-10-03T01:09:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite was a beautiful, heartbreaking tribute to PAC | Opinion",
-      "p": "I don’t know if I was mentally ready to watch Wednesday’s Dynamite. But I did, and it was incredible. I am still struggling to accept PAC’s untimely death on Sunday, less than 24 hours after a...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-was-a-beautiful-heartbreaking-tribute-to-pac-opinion/",
-      "t": "18h",
-      "dt": "2026-10-02T23:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: Weekend notes, AEW ratings, Collision",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update —...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-weekend-notes-aew-ratings-collision/",
-      "t": "18h",
-      "dt": "2026-10-02T22:26:20+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report: 9/16/2026",
-      "p": "The September 16 edition of \"AEW Dynamite\" was up in viewership from the previous episode, less than two weeks out from AEW All Out 2026.",
-      "link": "https://www.wrestlinginc.com/2276434/aew-dynamite-viewership-ratings-september-16-2026/",
-      "t": "18h",
-      "dt": "2026-10-02T22:22:43+00:00"
+      "dt": "2026-10-03T03:30:32+00:00"
     }
   ]
 }

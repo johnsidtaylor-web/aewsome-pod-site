@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-04T19:34:32.090394+00:00",
+  "updated": "2026-10-04T23:06:12.530853+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,27 +12,35 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "WOL: The politics of tribute shows, the Death Riders’ future & confusing rules",
+      "p": "After a week away, it’s a new ad-free and early edition of the Sunday Wrestling Observer Live with Josh Nason featuring a heavy emphasis on AEW. It was an emotional week both in AEW and in the...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-the-politics-of-tribute-shows-the-death-riders-future-confusing-rules/",
+      "t": "2h",
+      "dt": "2026-10-04T21:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Thunder Rosa Reveals What It Would Take For Her To Do A Blood & Guts Match",
+      "p": "Former AEW Women's World Champion Thunder Rosa reveals what it would take for her to compete in another extreme match, such as Blood & Guts.",
+      "link": "https://www.wrestlinginc.com/2273774/aew-thunder-rosa-blood-guts-what-would-take/",
+      "t": "2h",
+      "dt": "2026-10-04T20:24:16+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Ex-AEW Star Ryan Nemeth Says He Was Hesitant To Get Back Into Wrestling Before TNA",
       "p": "According to a new interview, after Nic Nemeth's controversial exit from AEW, he was hesitant to get back into wrestling by going to TNA.",
       "link": "https://www.wrestlinginc.com/2274919/aew-ryan-nemeth-hesitant-get-back-into-wrestling-before-tna/",
-      "t": "4m",
+      "t": "3h",
       "dt": "2026-10-04T19:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Big E Speaks About New Level: “I’m So Proud Of Them”",
-      "p": "Big E is proud of his guys. The New Level (Kofi & Austin Creed) are a month into their run with All Elite Wrestling. They are two-thirds of the AEW World Trios Champions with Swerve Strickland....",
-      "link": "https://www.fightful.com/wrestling-news/big-e-speaks-about-new-level-im-so-proud-of-them/",
-      "t": "2h",
-      "dt": "2026-10-04T17:00:48+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Dax Harwood Says Alliance With Stokely Hathaway Was First Pitched In WWE",
       "p": "Dax Harwood had been hoping to team with Stokely Hathaway long before both men were in AEW.",
       "link": "https://www.wrestlinginc.com/2275191/aew-wwe-dax-harwood-stokely-hathaway-ftr-alliance-first-pitched/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-10-04T16:30:00+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Update On Scorpio Sky's AEW Contract",
       "p": "New information has been revealed on how soon Scorpio Sky's current deal will expire and whether the AEW star has re-signed with the company.",
       "link": "https://www.wrestlinginc.com/2276760/update-scorpio-sky-aew-contract/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-10-04T16:26:17+00:00"
     },
     {
@@ -48,23 +56,15 @@
       "h": "Young Bucks Set To Defend Tag Titles At AEW WrestleDream 2026",
       "p": "Following their record breaking win at AEW All Out 2026, The Young Bucks will make their first AEW Tag Title defense at WrestleDream in two weeks.",
       "link": "https://www.wrestlinginc.com/2276756/young-bucks-set-defend-tag-titles-aew-wrestledream-2026/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-10-04T16:08:38+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Zayda Steel Says ‘It Means A Lot’ To Be The First Arab Woman In AEW",
-      "p": "Zayda Steel comments about being the first Arab woman to compete in All Elite Wrestling, maintaining that representation matters. Steel is a young professional wrestler who is currently signed to...",
-      "link": "https://www.fightful.com/wrestling-news/zayda-steel-says-it-means-a-lot-to-be-the-first-arab-woman-in-aew/",
-      "t": "3h",
-      "dt": "2026-10-04T16:03:10+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "10/04 Pruett’s AEW Collision audio review: AEW Continental Champion Jon Moxley vs. Jake Doyle in an eliminator match, Kofi vs. Lee Moriarty, Julia Hart vs. Queen Aminata",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 10/04 Pruett’s AEW Collision audio review: AEW Continental Champion Jon Moxley vs. Jake Doyle in an eliminator match, Kofi vs. Lee Moriarty,...",
       "link": "https://prowrestling.net/site/2026/10/04/10-04-pruetts-aew-collision-audio-review-aew-continental-champion-jon-moxley-vs-jake-doyle-in-an-eliminator-match-kofi-vs-lee-moriarty-julia-hart-vs-queen-aminata/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-10-04T15:32:09+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Chris Jericho reveals how he and Samoa Joe handled Tony Khan idea they didn’t like",
       "p": "Chris Jericho says he and Samoa Joe once reworked an idea from Tony Khan that neither wrestler initially liked. Speaking on TMZ’s Inside the Ring, Jericho recalled how he and Joe responded to a...",
       "link": "https://www.f4wonline.com/news/aew/chris-jericho-samoa-joe-tony-khan-idea/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-10-04T15:00:00+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "The Rock explains why he praised AEW in PAC tribute",
       "p": "The Rock has further explained why he praised AEW while paying tribute to PAC. Rock responded in the comments section of an Instagram video discussing Dave Meltzer’s recent remarks on Wrestling...",
       "link": "https://www.f4wonline.com/news/wwe/the-rock-explains-why-he-praised-aew-in-pac-tribute/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-10-04T14:31:37+00:00"
     },
     {
@@ -88,24 +88,24 @@
       "h": "ROH, TNT, And More AEW Titles Set To Be Defended At Grand Slam: France",
       "p": "A total of four championship matches will take place at AEW Grand Slam France, including bouts for the TNT and ROH World Titles.",
       "link": "https://www.wrestlinginc.com/2276738/roh-tnt-more-aew-titles-set-defended-grand-slam-france/",
-      "t": "5h",
+      "t": "8h",
       "dt": "2026-10-04T14:27:01+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW World Title To Be Defended In Clockwork Carnage Match At WrestleDream 2026",
-      "p": "The first-ever Clockwork Carnage Match will take place at AEW WrestleDream 2026, and the AEW World Championship will be on the line.",
-      "link": "https://www.wrestlinginc.com/2276735/aew-world-title-first-ever-clockwork-carnage-match-wrestledream-2026/",
-      "t": "5h",
-      "dt": "2026-10-04T13:56:35+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Swerve Strickland hopes Hangman Page rivalry goes down as one of wrestling’s greatest",
       "p": "Swerve Strickland hopes his rivalry with Hangman Page will be remembered as one of the greatest in wrestling history. Speaking to The Takedown on SI, Swerve discussed his history with Page after...",
       "link": "https://www.f4wonline.com/news/aew/swerve-strickland-hangman-page-rivalry/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-10-04T12:58:05+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision on-site report: The crowd’s reaction to Jon Moxley compared to the other Death Riders, Garrett Borden’s dark match, Arkady Aura gives away merch between matches",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision on-site report: The crowd’s reaction to Jon Moxley compared to the other Death Riders, Garrett Borden’s dark match, Arkady Aura...",
+      "link": "https://prowrestling.net/site/2026/10/04/aew-collision-on-site-report-the-crowds-reaction-to-jon-moxley-compared-to-the-other-death-riders-garrett-bordens-dark-match-arkady-aura-gives-away-merch-between-matches/",
+      "t": "11h",
+      "dt": "2026-10-04T11:30:42+00:00"
     }
   ]
 }

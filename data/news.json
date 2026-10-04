@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-03T22:59:51.944964+00:00",
+  "updated": "2026-10-04T02:33:56.985515+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "MLP Northern Rising Results (10/3): Adam Copeland vs. Steve Maclin",
-      "p": "Maple Leaf Pro Wrestling held its MLP Northern Rising event on October 3 from Maple Leaf Gardens in Toronto, Ontario, Canada. The event aired on MyAEW and PPV. Full results are below. MLP Northern...",
-      "link": "https://www.fightful.com/wrestling-news/mlp-northern-rising-results-10-3-adam-copeland-vs-steve-maclin/",
-      "t": "19m",
-      "dt": "2026-10-03T22:39:48+00:00"
+      "src": "POST Wrestling",
+      "h": "AEW adds four matches to Grand Slam France, Tag Title match set for WrestleDream",
+      "p": "AEW added four matches to Tuesday’s Grand Slam France card during Collision, while also confirming a World Tag Team Championship match for WrestleDream. The post AEW adds four matches to Grand...",
+      "link": "https://www.postwrestling.com/2026/10/03/aew-adds-four-matches-to-grand-slam-france-tag-title-match-set-for-wrestledream/",
+      "t": "9m",
+      "dt": "2026-10-04T02:24:19+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Brock Lesnar inducted into Minnesota M Club Hall of Fame, AEW roster member in attendance",
-      "p": "Former WWE and UFC champion Brock Lesnar is now a Hall of Famer for the second time, getting inducted into the University of Minnesota’s M Club Hall of Fame Saturday. The bespectacled Lesnar was...",
-      "link": "https://www.f4wonline.com/news/wwe/brock-lesnar-inducted-minnesota-hall-of-fame-shelton-benjamin/",
-      "t": "21m",
-      "dt": "2026-10-03T22:38:43+00:00"
+      "h": "Three title matches, Clockwork Carnage qualifier added to AEW Grand Slam France",
+      "p": "Four new matches have been added to Grand Slam France. The AEW Women’s Championship will be on the line in Paris this Tuesday when Mercedes Mone defends against Queen Aminata, who scored a victory...",
+      "link": "https://www.f4wonline.com/news/aew/three-title-matches-clockwork-carnage-qualifier-added-to-aew-grand-slam-france/",
+      "t": "23m",
+      "dt": "2026-10-04T02:10:07+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Three more matches added to AEW Collision lineup",
-      "p": "Three new matches have been added to Collision. Jon Moxley will have a title eliminator match on Saturday’s show in Highland Heights, Kentucky, taking on Don Callis Family member Jake Doyle. Mark...",
-      "link": "https://www.f4wonline.com/news/aew/three-more-matches-added-to-aew-collision-lineup/",
-      "t": "27m",
-      "dt": "2026-10-03T22:32:14+00:00"
+      "h": "Jay White out of action with undisclosed injury",
+      "p": "AEW’s Jay White has again been ruled out of action with an injury. On the latest edition of the Oct. 3, 2026 edition of AEW Collision, announcer Tony Schiavone shared that White sustained an...",
+      "link": "https://www.f4wonline.com/news/aew/jay-white-out-of-action-with-undisclosed-injury/",
+      "t": "24m",
+      "dt": "2026-10-04T02:09:42+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Watch: MLP Countdown to Northern Rising",
-      "p": "Watch: MLP Countdown to Northern Rising The post Watch: MLP Countdown to Northern Rising appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
-      "link": "https://www.fightful.com/wrestling-news/watch-mlp-countdown-to-northern-rising/",
-      "t": "29m",
-      "dt": "2026-10-03T22:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Former AEW champion reportedly hasn’t signed new contract as expiration looms",
-      "p": "The seven-year run of Scorpio Sky in AEW could be coming to an end. Fightful Select reported on Saturday that as of last weekend, Sky has not signed a new contract as his deal is set to expire at...",
-      "link": "https://www.f4wonline.com/news/aew/scorpio-sky-yet-to-sign-new-contract-aew-expiration/",
-      "t": "41m",
-      "dt": "2026-10-03T22:18:01+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: The card for tonight’s live show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for tonight’s live show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/03/aew-collision-lineup-the-card-for-tonights-live-show-9/",
-      "t": "1h",
-      "dt": "2026-10-03T21:44:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: The passion & leadership of Jon Moxley",
-      "p": "It’s Saturday’s Wrestling Observer Live with Jim Valley who is on the road this weekend, makin’ towns in Tennessee. He’s still feeling the emotion and poignancy of AEW’s tribute to PAC/Ben...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-the-passion-leadership-of-jon-moxley/",
-      "t": "1h",
-      "dt": "2026-10-03T21:26:46+00:00"
+      "src": "POST Wrestling",
+      "h": "Jay White expected to miss one to two months with undisclosed injury",
+      "p": "Jay White is expected to miss one to two months of action after suffering an undisclosed injury, AEW announced on Saturday. The post Jay White expected to miss one to two months with undisclosed...",
+      "link": "https://www.postwrestling.com/2026/10/03/jay-white-expected-to-miss-one-to-two-months-with-undisclosed-injury/",
+      "t": "25m",
+      "dt": "2026-10-04T02:08:41+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Death Riders To Compete On 10/3 AEW Collision",
-      "p": "The Death Riders will be back in action on AEW Collision. Tony Khan announced that the trio of Daniel Garcia, Wheeler Yuta, and Claudio Castagnoli will team up to face the Bang Bang Gang trio of...",
-      "link": "https://www.fightful.com/wrestling-news/death-riders-to-compete-on-10-3-aew-collision/",
+      "h": "Multiple Title Matches, Clockwork Carnage Qualifier Added To AEW Grand Slam France",
+      "p": "Lineup for AEW Grand Slam France. On 10/3 Collision, the company announced several new matches for the upcoming Grand Slam France on October 6. In a backstage segment, Kofi challenged Bandido for...",
+      "link": "https://www.fightful.com/wrestling-news/multiple-title-matches-clockwork-carnage-qualifier-added-to-aew-grand-slam-france/",
+      "t": "31m",
+      "dt": "2026-10-04T02:02:41+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Young Bucks To Defend AEW World Tag Team Championship Against Kevin Knight And Kyle Fletcher At AEW WrestleDream",
+      "p": "The Young Bucks will defend the AEW World Tag Team Championship at AEW WrestleDream. On the 10/3 AEW Collision, the company announced that the Young Bucks will face Kevin Knight and Kyle Fletcher...",
+      "link": "https://www.fightful.com/wrestling-news/young-bucks-to-defend-aew-world-tag-team-championship-against-kevin-knight-and-kyle-fletcher-at-aew-wrestledream/",
+      "t": "56m",
+      "dt": "2026-10-04T01:36:56+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW announces ‘Clockwork Carnage’ match for World Championship at WrestleDream",
+      "p": "The AEW World Championship will be defended in an eight-man 'Clockwork Carnage' match at WrestleDream on October 17. The post AEW announces ‘Clockwork Carnage’ match for World Championship at...",
+      "link": "https://www.postwrestling.com/2026/10/03/aew-announces-clockwork-carnage-match-for-world-championship-at-wrestledream/",
+      "t": "58m",
+      "dt": "2026-10-04T01:35:18+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jay White Suffered Injury At AEW All Out, Will Be Out For 1-2 Months",
+      "p": "Jay White suffered an injury at AEW All Out. White last competed at AEW Tailgate Brawl, where Bang Bang Gang (Jay White, Ace Austin, Austin Gunn, and Colten Gunn) defeated Death Riders (Daniel...",
+      "link": "https://www.fightful.com/wrestling-news/jay-white-suffered-injury-at-aew-all-out-will-be-out-for-1-2-months/",
       "t": "1h",
-      "dt": "2026-10-03T21:04:04+00:00"
+      "dt": "2026-10-04T01:15:35+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Clockwork Carnage World title match part of updated AEW WrestleDream lineup",
+      "p": "A new stipulation match is set for WrestleDream. On Saturday’s Collision, Tony Schiavone announced that Will Ospreay will be defending the AEW World title in a Clockwork Carnage match on October...",
+      "link": "https://www.f4wonline.com/news/aew/clockwork-carnage-world-title-match-announced-for-aew-wrestledream/",
+      "t": "1h",
+      "dt": "2026-10-04T01:07:24+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 10/3/26 Review | COLLISION COURSE (Live 10:30pm ET)",
+      "p": "TONIGHT 10:30PM ET — Kate from Montreal & Wai Ting review of this week’s AEW Collision, featuring Kofi's singles debut and Jon Moxley vs. Jake Doyle. The post AEW Collision 10/3/26 Review |...",
+      "link": "https://www.postwrestling.com/2026/10/03/aew-collision-10-3-26-review-collision-course-live-1030pm-et/",
+      "t": "2h",
+      "dt": "2026-10-03T23:45:24+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision live results: Jon Moxley vs. Jake Doyle, Kofi vs. Lee Moriarty",
+      "p": "AEW Collision is live tonight from the Truist Arena in Highland Heights, Kentucky, as the push to next weekend’s WrestleDream continues. In an AEW Continental Championship eliminator match,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-jon-moxley-vs-jake-doyle-kofi-vs-lee-moriarty/",
+      "t": "3h",
+      "dt": "2026-10-03T23:15:00+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Trios Star Thinks Austin Creed & Kofi Are 'Future Hall Of Famers'",
-      "p": "One former AEW World Trios Champion put over Austin Creed and Kofi as \"future hall of famers.\"",
-      "link": "https://www.wrestlinginc.com/2273981/aew-trios-star-bishop-kaun-austin-creed-kofi-future-hall-famers/",
-      "t": "2h",
-      "dt": "2026-10-03T20:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating (9/30): The Pac tribute show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (9/30): The Pac tribute show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/03/aew-dynamite-rating-9-30-the-pac-tribute-show/",
+      "h": "AEW Collision Live Coverage - 10/3/2026: Kofi Makes AEW Singles Debut, More",
+      "p": "\"AEW Collision\" is live coast-to coast. Kofi will make his singles debut. DCF's Jake Doyle will face Jon Moxley in a Continental Title Eliminator match.",
+      "link": "https://www.wrestlinginc.com/2276628/aew-collision-results-october-3-2026-kofi-aew-singles-debut/",
       "t": "3h",
-      "dt": "2026-10-03T19:59:23+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision rating (9/23): How did the one-hour show perform after Dynamite?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (9/23): How did the one-hour show perform after Dynamite? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/03/aew-collision-rating-9-23-how-did-the-one-hour-show-perform-after-dynamite/",
-      "t": "3h",
-      "dt": "2026-10-03T19:57:49+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating (9/23): How did the All Out go-home show perform",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (9/23): How did the All Out go-home show perform appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/03/aew-dynamite-rating-9-23-how-did-the-all-out-go-home-show-perform/",
-      "t": "3h",
-      "dt": "2026-10-03T19:54:37+00:00"
+      "dt": "2026-10-03T22:55:56+00:00"
     }
   ]
 }

@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-06T23:50:15.096416+00:00",
+  "updated": "2026-10-07T05:53:06.083231+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Comments On Bringing Will Ospreay's Clockwork Carnage Match Into AEW",
-      "p": "AEW President Tony Khan commented on bringing Will Ospreay's unique Clockwork Carnage match stipulation into AEW.",
-      "link": "https://www.wrestlinginc.com/2279572/tony-khan-will-ospreay-clockwork-carnage-match-aew/",
-      "t": "4m",
-      "dt": "2026-10-06T23:45:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Grand Slam France live results: Will Ospreay vs. Kazuchika Okada",
-      "p": "AEW debuts in Paris, France, for tonight’s first-ever Grand Slam Paris from the Adidas Arena. The show is headlined by AEW World Champion Will Ospreay defending against reigning International...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-grand-slam-france-live-results-will-ospreay-vs-kazuchika-okada/",
-      "t": "15m",
-      "dt": "2026-10-06T23:35:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite results (10/6): Powell’s review of Will Ospreay vs. Kazuchika Okada for the AEW World Championship, Darby Allin vs. Kyle Fletcher for the TNT Title",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite results (10/6): Powell’s review of Will Ospreay vs. Kazuchika Okada for the AEW World Championship, Darby Allin vs. Kyle Fletcher...",
-      "link": "https://prowrestling.net/site/2026/10/06/aew-dynamite-results-10-6-powells-review-of-will-ospreay-vs-kazuchika-okada-for-the-aew-world-championship-darby-allin-vs-kyle-fletcher-for-the-tnt-title/",
-      "t": "19m",
-      "dt": "2026-10-06T23:30:34+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan Comments On 'My First Day Working For Skydance'",
-      "p": "AEW President Tony Khan commented ahead of \"AEW Dynamite: Grand Slam Paris\" about working for Skydance after WBD's merger with Paramount became official.",
-      "link": "https://www.wrestlinginc.com/2279566/aew-tony-khan-my-first-day-working-skydance/",
-      "t": "25m",
-      "dt": "2026-10-06T23:24:33+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "QT Marshall Defends Steven Borden From Lack Of Training Criticism Following AEW All Out",
-      "p": "Steven Borden suffered a scary injury at AEW All Out that caused his tag team match to be stopped. Borden performed a springboard across the ring, trying to meet in the middle with Kevin Knight,...",
-      "link": "https://www.fightful.com/wrestling-news/qt-marshall-defends-steven-borden-from-lack-of-training-criticism-following-aew-all-out/",
-      "t": "27m",
-      "dt": "2026-10-06T23:23:06+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Grand Slam France Spoilers (Taped On 10/6)",
-      "p": "All Elite Wrestling taped the October 10 episode of AEW Collision Grand Slam France on October 6 from Paris, France. Full spoilers are below. AEW Collision Grand Slam France Spoilers (Taped On...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-grand-slam-france-spoilers-taped-on-10-6/",
-      "t": "45m",
-      "dt": "2026-10-06T23:04:24+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Grand Slam France Results (10/6): Will Ospreay vs. Kazuchika Okada",
-      "p": "All Elite Wrestling aired its AEW Dynamite Grand Slam France event on October 6 from Adidas Arena in Paris, France. The event aired on TBS, MyAEW, and HBO Max. Full results are below. AEW Dynamite...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-grand-slam-france-results-10-6-will-ospreay-vs-kazuchika-okada/",
-      "t": "51m",
-      "dt": "2026-10-06T22:58:27+00:00"
+      "src": "PWTorch",
+      "h": "Will Ospreay says his match with Ricochet at Pac tribute show was “one of the most difficult” of his career, discusses use of Black Arrow as finish",
+      "p": "AEW World Hvt. Champion Will Ospreay believes his match against Ricochet at the Pac Tribute show on Dynamite last week was one of the most difficult of his career. Ospreay addressed the difficulty...",
+      "link": "https://www.pwtorch.com/site/2026/10/07/will-ospreay-says-his-match-with-ricochet-at-pac-tribute-show-was-one-of-the-most-difficult-of-his-career-discusses-use-of-black-arrow-as-finish/",
+      "t": "26m",
+      "dt": "2026-10-07T05:26:03+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "PARKS’S TAKE: The new AEW concept match Clockwork Orange is an embodiment of Tony Khan’s excesses as a booker",
-      "p": "For as successful as Tony Khan has been as booker in creating a number two professional wrestling brand from scratch, there is definitely a “more is more” quality to how he operates. Whether it’s...",
-      "link": "https://www.pwtorch.com/site/2026/10/06/parkss-take-the-new-aew-concept-match-clockwork-orange-is-an-embodiment-of-tony-khans-excesses-as-a-booker/",
+      "h": "FREE PODCAST 10/6 – WKPWP Tuesday Flagship: Keller & Powell talk Roman-Knight and what WWE is aiming for, MITB preview, Pac tribute, Clockwork Orange, Moxley, Ospreay, TNA Bound for Glory preview (117 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Jason Powell from ProWrestling.net. They discuss these...",
+      "link": "https://www.pwtorch.com/site/2026/10/06/free-podcast-10-6-wkpwp-tuesday-flagship-keller-powell-talk-roman-knight-and-what-wwe-is-aiming-for-mitb-preview-pac-tribute-clockwork-orange-moxley-ospreay-tna-bound-for-glory-prev/",
       "t": "1h",
-      "dt": "2026-10-06T22:35:52+00:00"
+      "dt": "2026-10-07T03:59:14+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "QT Marshall defends Steven Borden after Eric Bischoff criticism",
-      "p": "QT Marshall is looking to clear up the facts after Eric Bischoff levied criticism against AEW over Steven Borden’s All Out injury. The biggest match of Borden’s career so far didn’t go as planned,...",
-      "link": "https://www.f4wonline.com/news/aew/qt-marshall-defends-steven-borden-after-eric-bischoff-criticism/",
+      "src": "PWTorch",
+      "h": "VIP PODCAST 10/6 – WKH – AEW Dynamite: Ospreay vs. Okada for World Title, Mercedes vs. Aminata for World Title, Bandido vs. Kofi for ROH Title, Darby vs. Fletcher for TNT Title, more (18 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the Oct. 6 episode of AEW Dynamite “Grand Slam Paris” edition start to finish including Will Ospreay...",
+      "link": "https://www.pwtorch.com/site/2026/10/06/vip-podcast-10-6-wkh-aew-dynamite-ospreay-vs-okada-for-world-title-mercedes-vs-aminata-for-world-title-bandido-vs-kofi-for-roh-title-darby-vs-fletcher-for-tnt-title-more-18-min/",
       "t": "2h",
-      "dt": "2026-10-06T21:29:50+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Grand Slam Paris 10/6/26 Results W/ Live Updates",
-      "p": "Wrestling Inc.'s live coverage of the Grand Slam: Paris edition of \"AEW Dynamite\" on October 6, 2026 comes to you from the Adidas Arena in Paris, France!",
-      "link": "https://www.wrestlinginc.com/2279500/aew-dynamite-grand-slam-paris-october-26-2026-results/",
-      "t": "2h",
-      "dt": "2026-10-06T21:28:21+00:00"
+      "dt": "2026-10-07T03:48:42+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "TNA changes start time for Bound for Glory",
-      "p": "TNA has moved the start time of Sunday’s Bound for Glory. The post TNA changes start time for Bound for Glory appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT NJPW.",
-      "link": "https://www.postwrestling.com/2026/10/06/tna-changes-start-time-for-bound-for-glory/",
+      "h": "Will Ospreay retains AEW Championship, Two title matches added to WrestleDream",
+      "p": "Will Ospreay retained the AEW Championship to ensure his spot in the Clockwork Carnage match at WrestleDream. The post Will Ospreay retains AEW Championship, Two title matches added to...",
+      "link": "https://www.postwrestling.com/2026/10/06/will-ospreay-retains-aew-championship-two-title-matches-added-to-wrestledream/",
       "t": "2h",
-      "dt": "2026-10-06T21:23:00+00:00"
+      "dt": "2026-10-07T03:35:21+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Full lineup revealed for AEW Grand Slam France episode of Collision",
+      "p": "This Saturday’s Grand Slam France edition of AEW Collision will feature two title matches and a qualifier for the Clockwork Carnage match for next weekend’s WrestleDream. AEW World Tag Team...",
+      "link": "https://www.f4wonline.com/news/aew/aew-grand-slam-france-collision-lineup/",
+      "t": "3h",
+      "dt": "2026-10-07T02:40:15+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Will Ospreay Wants To Bring Back A 'Sports Presentation' With AEW World Title Reign",
-      "p": "Will Ospreay has big goals for his run as the AEW World Champion, with one of them being bringing back a sports presentation to the business.",
-      "link": "https://www.wrestlinginc.com/2279474/aew-will-ospreay-sports-presentation-world-title-reign/",
-      "t": "2h",
-      "dt": "2026-10-06T21:06:58+00:00"
+      "h": "Will Ospreay Overcomes Kazuchika Okada In France To Retain AEW World Title",
+      "p": "Will Ospreay conquered his long-time rival Kazuchika Okada to retain the AEW World Championship in the main event of \"AEW Dynamite: Grand Slam France.\"",
+      "link": "https://www.wrestlinginc.com/2279633/will-ospreay-overcomes-kazuchika-okada-france-retain-aew-world-title/",
+      "t": "3h",
+      "dt": "2026-10-07T02:28:05+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Grand Slam France Collision spoilers from Paris",
+      "p": "The following are full spoilers for this Saturday’s Grand Slam France edition of AEW Collision from the Adidas Arena, courtesy of Fightful and taped after Dynamite on Tuesday.",
+      "link": "https://www.f4wonline.com/news/aew/aew-grand-slam-france-collision-spoilers-from-paris/",
+      "t": "3h",
+      "dt": "2026-10-07T02:21:29+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Two title matches added to AEW WrestleDream",
+      "p": "Two new title matches have been added to AEW WrestleDream. Jon Moxley will defend the AEW Continental title against Mark Davis on October 17 in Orlando. Meanwhile, Swerve Strickland & The New...",
+      "link": "https://www.f4wonline.com/news/aew/two-title-matches-added-to-aew-wrestledream/",
+      "t": "3h",
+      "dt": "2026-10-07T02:13:04+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Will Ospreay To Enter Clockwork Carnage Match As AEW Champion At AEW WrestleDream",
+      "p": "Will Ospreay is officially headed to AEW WrestleDream as the AEW World Champion. Ospreay defeated Kazuchika Okada at AEW Dynamite Grand Slam France to retain the AEW World Title. As a result of...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-to-enter-clockwork-carnage-match-as-aew-champion-at-aew-wrestledream/",
+      "t": "3h",
+      "dt": "2026-10-07T02:12:12+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Young Bucks Title Bout, More Set For AEW Collision Grand Slam France",
+      "p": "The lineup is set for AEW Collision Grand Slam France. All Elite Wrestling announced that the Young Bucks (Matt Jackson & Nick Jackson) will defend the Tag Team Titles against The Dogs (David...",
+      "link": "https://www.fightful.com/wrestling-news/young-bucks-title-bout-more-set-for-aew-collision-grand-slam-france/",
+      "t": "3h",
+      "dt": "2026-10-07T02:10:54+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW World Trios Titles To Be Defended In 2/3 Falls Match",
+      "p": "Swerve Strickland and the New Level will defend their AEW World Trios Championships in a two-out-of-three falls match at AEW WrestleDream.",
+      "link": "https://www.wrestlinginc.com/2279621/aew-world-trios-titles-defended-2-3-falls-match/",
+      "t": "3h",
+      "dt": "2026-10-07T02:03:36+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Samoa Joe qualifies for Clockwork Carnage at AEW WrestleDream",
+      "p": "In his first match since Double or Nothing, Joe returned at Grand Slam France, defeating Jack Perry to qualify for the unique match. The post Samoa Joe qualifies for Clockwork Carnage at AEW...",
+      "link": "https://www.postwrestling.com/2026/10/06/samoa-joe-qualifies-for-clockwork-carnage-at-wrestledream/",
+      "t": "3h",
+      "dt": "2026-10-07T01:59:56+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-08T05:57:18.192147+00:00",
+  "updated": "2026-10-08T13:22:15.286856+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW's Brian Cage Reveals Proposed Darby Allin Spot That He Turned Down",
+      "p": "Darby Allin has done some insane things in AEW, but there are some ideas that even someone like Brian Cage has to turn down.",
+      "link": "https://www.wrestlinginc.com/2276704/aew-brian-cage-darby-allin-proposed-spot-turned-down-duct-tape-ladder/",
+      "t": "52m",
+      "dt": "2026-10-08T12:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW WrestleDream 2026 ticket sales update as show trails 2025 number (10-08-2026)",
+      "p": "AEW WrestleDream 2026 is set to take place on Saturday, October 17 from the Addition Financial Arena in Orlando, Florida. According to the latest update from WrestleTix, 4,497 tickets have been...",
+      "link": "https://www.f4wonline.com/news/aew/aew-wrestledream-2026-ticket-sales-update-10-08-2026/",
+      "t": "1h",
+      "dt": "2026-10-08T11:41:32+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "AEW representatives for CMLL Women’s Grand Prix 2026 named",
       "p": "CMLL has announced the AEW representatives for the 2026 women’s Grand Prix. Earlier on social media, the 2026 CMLL Women’s Grand Prix participant list was unveiled. There will be representatives...",
       "link": "https://www.f4wonline.com/news/mexico/aew-representatives-for-cmll-womens-grand-prix-2026-named/",
-      "t": "57m",
+      "t": "8h",
       "dt": "2026-10-08T05:00:00+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "FREE PODCAST 10/7 – WKPWP Flagship from 5 Yrs Ago: Keller & Powell discuss WWE draft roster reshuffling, was Cody avoiding being the centerpiece AEW star, “Rhodes to the Top” early impressions (220 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Podcast “Flagship” episode (10-5-2021), PWTorch editor Wade Keller was joined by Jason Powell from...",
       "link": "https://www.pwtorch.com/site/2026/10/07/free-podcast-10-7-wkpwp-flagship-from-5-yrs-ago-keller-powell-discuss-wwe-draft-roster-reshuffling-was-cody-avoiding-being-the-centerpiece-aew-star-rhodes-to-the-top-early-impressio/",
-      "t": "2h",
+      "t": "9h",
       "dt": "2026-10-08T03:23:57+00:00"
     },
     {
@@ -32,7 +48,7 @@
       "h": "Kofi Comments On ROH World Title Loss To Bandido At AEW Dynamite Grand Slam Paris",
       "p": "Kofi might not have left AEW Grand Slam France with the ROH World Title, but he had a very fun time wrestling Bandido.",
       "link": "https://www.wrestlinginc.com/2280808/kofi-roh-world-title-bandido-aew-dynamite-grand-slam-paris/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-10-08T02:22:01+00:00"
     },
     {
@@ -40,7 +56,7 @@
       "h": "Kofi Reflects On AEW Grand Slam France, Says Bandido Is Special",
       "p": "Kofi comments on AEW Grand Slam France. Tuesday’s episode of Dynamite featured an ROH World Championship match that pitted the current champion, Bandido, against Kofi. Despite losing, Kofi is in...",
       "link": "https://www.fightful.com/wrestling-news/kofi-reflects-on-aew-grand-slam-france-says-bandido-is-special/",
-      "t": "4h",
+      "t": "11h",
       "dt": "2026-10-08T01:45:20+00:00"
     },
     {
@@ -48,7 +64,7 @@
       "h": "AEW Star Swerve Strickland Opens Up About Dealing With The Loss Of Pac",
       "p": "Swerve Strickland has opened up about how he and the rest of the AEW locker room are dealing with the loss of Pac.",
       "link": "https://www.wrestlinginc.com/2280796/aew-swerve-strickland-pac-dealing-loss/",
-      "t": "4h",
+      "t": "11h",
       "dt": "2026-10-08T01:40:19+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "10/07 Dot Net Weekly audio show: Barnett and Powell share WWE MITB predictions and discuss TNA BFG, Skydance, AEW’s Clockwork Carnage, and AEW Grand Slam France",
       "p": "By Jake Barnett (@jakebarnett) and... The post 10/07 Dot Net Weekly audio show: Barnett and Powell share WWE MITB predictions and discuss TNA BFG, Skydance, AEW’s Clockwork Carnage, and AEW Grand...",
       "link": "https://prowrestling.net/site/2026/10/07/10-07-dot-net-weekly-audio-show-barnett-and-powell-share-wwe-mitb-predictions-and-discuss-tna-bfg-skydance-aews-clockwork-carnage-and-aew-grand-slam-france/",
-      "t": "6h",
+      "t": "14h",
       "dt": "2026-10-07T23:07:55+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "NJPW “Road to King of Pro Wrestling” results (10/7): Vetter’s review of Yoh vs. Robbie X for the IWGP Jr. Hvt. Championship, AEW star MJF’s big screen appearance",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “Road to King of Pro Wrestling” results (10/7): Vetter’s review of Yoh vs. Robbie X for the IWGP Jr. Hvt. Championship, AEW star...",
       "link": "https://prowrestling.net/site/2026/10/07/njpw-road-to-king-of-pro-wrestling-results-10-7-vetters-review-of-yoh-vs-robbie-x-for-the-iwgp-jr-hvt-championship-aew-star-mjfs-big-screen-appearance/",
-      "t": "7h",
+      "t": "14h",
       "dt": "2026-10-07T22:33:55+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Daily Update: New John Cena movie role, MJF, Yuto-Ice",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter Among the topics covered: FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Wednesday Update...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-new-john-cena-movie-role-mjf-yuto-ice/",
-      "t": "7h",
+      "t": "15h",
       "dt": "2026-10-07T21:59:03+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Jim Ross recovering following second brain surgery",
       "p": "AEW commentator Jim Ross is recovering following a second brain procedure, those close to him announced on Wednesday. The post Jim Ross recovering following second brain surgery appeared first on...",
       "link": "https://www.postwrestling.com/2026/10/07/jim-ross-recovering-following-second-brain-surgery/",
-      "t": "9h",
+      "t": "16h",
       "dt": "2026-10-07T20:26:46+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Conrad Thompson Provides Update On AEW Commentator Jim Ross' Latest Brain Surgery",
       "p": "Conrad Thompson provided a positive update on AEW commentator Jim Ross following his latest brain surgery on Wednesday.",
       "link": "https://www.wrestlinginc.com/2280534/conrad-thompson-jim-ross-brain-surgery-aew-commentator/",
-      "t": "10h",
+      "t": "17h",
       "dt": "2026-10-07T19:40:47+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE Stars Kevin Owens, Sami Zayn, Penta & More Remember Late AEW Star Pac",
-      "p": "WWE stars Penta, Sami Zayn, Kevin Owens, and more remembered late AEW star Pac in a tribute video posted to WWE's YouTube channel.",
-      "link": "https://www.wrestlinginc.com/2280460/wwe-kevin-owens-sami-zayn-penta-aew-pac-benjamin-satterley-neville/",
-      "t": "10h",
-      "dt": "2026-10-07T19:03:22+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: The Grand Slam France edition with Will Ospreay vs. Kazuchika Okada for the AEW World Championship, Darby Allin vs. Kyle Fletcher for the TNT Title",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: The Grand Slam France edition with Will Ospreay vs. Kazuchika Okada for the AEW World Championship, Darby Allin...",
-      "link": "https://prowrestling.net/site/2026/10/07/powells-aew-dynamite-hit-list-the-grand-slam-france-edition-with-will-ospreay-vs-kazuchika-okada-for-the-aew-world-championship-darby-allin-vs-kyle-fletcher-for-the-tnt-title/",
-      "t": "10h",
-      "dt": "2026-10-07T19:00:40+00:00"
     }
   ]
 }

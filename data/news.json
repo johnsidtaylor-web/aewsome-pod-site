@@ -1,30 +1,62 @@
 {
-  "updated": "2026-10-08T19:54:49.100253+00:00",
+  "updated": "2026-10-09T00:20:00.665209+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "AEW Collision (10/3) Draws Over 400,000 Viewers",
-      "p": "AEW Collision viewership information for October 3. Wrestlenomics reports that AEW Collision drew 415,000 viewers on TNT on Saturday, October 3. This number is up from the 337,000 viewers the show...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-viewership-october-3/",
+      "src": "Wrestling Observer",
+      "h": "ROH on HonorClub live results: Ortiz vs. Mark Davis, Billie Starkz vs. Hyan",
+      "p": "Ring of Honor is back on HonorClub tonight with several matches announced for this week’s episode. Ortiz will face Mark Davis of the Don Callis Family. Davis was recently announced as the...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-on-honorclub-live-results-ortiz-vs-mark-davis-billie-starkz-vs-hyan/",
       "t": "1h",
-      "dt": "2026-10-08T18:24:29+00:00"
+      "dt": "2026-10-08T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Chris Jericho says AEW no longer needs to recruit wrestlers",
+      "p": "Chris Jericho believes AEW has reached a point where the company no longer needs to actively recruit wrestlers. During an appearance on TMZ’s Inside the Ring, Jericho reflected on AEW’s early...",
+      "link": "https://www.f4wonline.com/news/aew/chris-jericho-aew-recruit-wrestlers/",
+      "t": "3h",
+      "dt": "2026-10-08T21:15:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating (10/3): How did Saturday’s live show perform?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (10/3): How did Saturday’s live show perform? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/08/aew-collision-rating-10-3-how-did-saturdays-live-show-perform/",
+      "t": "3h",
+      "dt": "2026-10-08T20:45:33+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Former WWE Star Kairi Announced For Chris Jericho's Rock N Wrestling Rager At Sea",
+      "p": "Former WWE star Kairi is announced for Chris Jericho's Rock N Wrestling Rager At Sea as rumors continue to abound that she's in talks with AEW",
+      "link": "https://www.wrestlinginc.com/2281698/wwe-kairi-chris-jericho-rock-wrestling-rager-sea-cruise-aew/",
+      "t": "4h",
+      "dt": "2026-10-08T20:18:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Free agent with AEW interest announced for Chris Jericho cruise",
+      "p": "Chris Jericho has announced a big addition to the lineup for his next cruise. Former WWE wrestler Kairi Sane, who has been linked with a possible move to AEW, will be setting sail on the Chris...",
+      "link": "https://www.f4wonline.com/news/aew/free-agent-with-aew-interest-announced-for-chris-jericho-cruise/",
+      "t": "4h",
+      "dt": "2026-10-08T20:17:39+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite: Grand Slam France – Will Ospreay vs. Kazuchika Okada impresses, the build to Clockwork Carnage begins",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite: Grand Slam France – Will Ospreay vs. Kazuchika Okada impresses, the build to Clockwork Carnage...",
       "link": "https://prowrestling.net/site/2026/10/08/pruetts-pause-10-thoughts-on-aew-dynamite-grand-slam-france-will-ospreay-vs-kazuchika-okada-impresses-the-build-to-clockwork-carnage-begins/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-10-08T16:32:04+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Josh Alexander Reflects On Wrestling Bryan Danielson On 'Cathartic' AEW PAC Tribute Show",
       "p": "AEW's Josh Alexander has discussed Bryan Danielson's return to the ring and how wrestling in Pac's tribute show was cathartic for him and the locker room.",
       "link": "https://www.wrestlinginc.com/2280902/josh-alexander-reflects-wrestling-bryan-danielson-cathartic-aew-pac-tribute-show/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-10-08T15:00:00+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "CMLL Grand Prix de Amazonas 2026 teams finalized",
       "p": "The teams for the CMLL Grand Prix de Amazonas 2026 were finalized with reps for AEW confirmed and replacements reps for MLW and MLP. The post CMLL Grand Prix de Amazonas 2026 teams finalized...",
       "link": "https://www.postwrestling.com/2026/10/08/cmll-grand-prix-de-amazonas-2026-teams-finalized/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-10-08T14:30:52+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "AEW's Young Bucks Mourn PAC",
       "p": "The Young Bucks has paid an emotional tribute to Pac following AEW Dynamite, reflecting on their early years in Japan and a recent conversation with him.",
       "link": "https://www.wrestlinginc.com/2280887/aew-young-bucks-mourn-pac/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-10-08T14:30:00+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "WWE HOFer Jim Ross Gives His Thoughts On Possible MITB Winner",
       "p": "AEW commentator Jim Ross has discussed his favorites to win the men's Money in the Bank ladder match, naming CM Punk as one of the frontrunners.",
       "link": "https://www.wrestlinginc.com/2280866/wwe-hofer-jim-ross-gives-thoughts-possible-mitb-winner/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-10-08T14:00:00+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "WWE's Cody Rhodes Pays Tribute To Late AEW Star Pac: 'Heaven Has The Best Matches'",
       "p": "Cody Rhodes has paid tribute to Pac, highlighting how he was not just a phenomenal wrestler but an even better human being who had remarkable humility.",
       "link": "https://www.wrestlinginc.com/2280865/wwe-cody-rhodes-tribute-aew-pac-heaven-best-matches/",
-      "t": "6h",
+      "t": "10h",
       "dt": "2026-10-08T13:30:00+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "AEW's Brian Cage Reveals Proposed Darby Allin Spot That He Turned Down",
       "p": "Darby Allin has done some insane things in AEW, but there are some ideas that even someone like Brian Cage has to turn down.",
       "link": "https://www.wrestlinginc.com/2276704/aew-brian-cage-darby-allin-proposed-spot-turned-down-duct-tape-ladder/",
-      "t": "7h",
+      "t": "11h",
       "dt": "2026-10-08T12:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW WrestleDream 2026 ticket sales update as show trails 2025 number (10-08-2026)",
-      "p": "AEW WrestleDream 2026 is set to take place on Saturday, October 17 from the Addition Financial Arena in Orlando, Florida. According to the latest update from WrestleTix, 4,497 tickets have been...",
-      "link": "https://www.f4wonline.com/news/aew/aew-wrestledream-2026-ticket-sales-update-10-08-2026/",
-      "t": "8h",
-      "dt": "2026-10-08T11:41:32+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW representatives for CMLL Women’s Grand Prix 2026 named",
-      "p": "CMLL has announced the AEW representatives for the 2026 women’s Grand Prix. Earlier on social media, the 2026 CMLL Women’s Grand Prix participant list was unveiled. There will be representatives...",
-      "link": "https://www.f4wonline.com/news/mexico/aew-representatives-for-cmll-womens-grand-prix-2026-named/",
-      "t": "14h",
-      "dt": "2026-10-08T05:00:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 10/7 – WKPWP Flagship from 5 Yrs Ago: Keller & Powell discuss WWE draft roster reshuffling, was Cody avoiding being the centerpiece AEW star, “Rhodes to the Top” early impressions (220 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Podcast “Flagship” episode (10-5-2021), PWTorch editor Wade Keller was joined by Jason Powell from...",
-      "link": "https://www.pwtorch.com/site/2026/10/07/free-podcast-10-7-wkpwp-flagship-from-5-yrs-ago-keller-powell-discuss-wwe-draft-roster-reshuffling-was-cody-avoiding-being-the-centerpiece-aew-star-rhodes-to-the-top-early-impressio/",
-      "t": "16h",
-      "dt": "2026-10-08T03:23:57+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kofi Comments On ROH World Title Loss To Bandido At AEW Dynamite Grand Slam Paris",
-      "p": "Kofi might not have left AEW Grand Slam France with the ROH World Title, but he had a very fun time wrestling Bandido.",
-      "link": "https://www.wrestlinginc.com/2280808/kofi-roh-world-title-bandido-aew-dynamite-grand-slam-paris/",
-      "t": "17h",
-      "dt": "2026-10-08T02:22:01+00:00"
     }
   ]
 }

@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-09T15:15:27.975381+00:00",
+  "updated": "2026-10-09T20:51:09.332359+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (1 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Observer",
-      "h": "Former AEW Tag Team Champion to make TNA debut at Bound for Glory 2026",
-      "p": "A former AEW Tag Team Champion is set to make his TNA Wrestling debut this weekend at Bound for Glory 2026. TNA has confirmed that the newly free agent Max Caster is answering Moose’s open...",
-      "link": "https://www.f4wonline.com/news/tna-wrestling/former-aew-tag-team-champion-to-make-tna-debut-at-bound-for-glory-2026/",
-      "t": "17m",
-      "dt": "2026-10-09T14:58:18+00:00"
+      "h": "Max Caster removed from AEW roster page, Anthony Bowens still listed",
+      "p": "Max Caster is officially departing AEW, though things seem less certain with his former tag team partner Anthony Bowens. Both members of The Acclaimed became free agents at the start of October,...",
+      "link": "https://www.f4wonline.com/news/aew/max-caster-removed-from-aew-roster-page-anthony-bowens-still-listed/",
+      "t": "51m",
+      "dt": "2026-10-09T19:59:20+00:00"
     },
     {
-      "src": "POST Wrestling",
-      "h": "MLP’s Northern Rising to air over three weeks on MyAEW, TSN & Fight Nation",
-      "p": "Maple Leaf Pro Wrestling’s Northern Rising event will receive a three-week broadcast window on TSN, MyAEW, and Fight Nation. The post MLP’s Northern Rising to air over three weeks on MyAEW, TSN &...",
-      "link": "https://www.postwrestling.com/2026/10/09/mlps-northern-rising-to-air-over-three-weeks-on-myaew-tsn-fight-nation/",
-      "t": "21m",
-      "dt": "2026-10-09T14:54:05+00:00"
+      "src": "PWTorch",
+      "h": "FREE PODCAST 10/9 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: Review of Grand Slam France including Ospreay vs. Okada, discussion of WrestleDream card including Clockwork Carnage main event, more (92 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss Grand Slam France from this past Tuesday. Ospreay vs. Okada on free...",
+      "link": "https://www.pwtorch.com/site/2026/10/09/free-podcast-10-9-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-review-of-grand-slam-france-including-ospreay-vs-okada-discussion-of-wrestledream-card-inclu/",
+      "t": "52m",
+      "dt": "2026-10-09T19:58:23+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Jeff Jarrett Reflects On Working Arena Mexico For CMLL 93 Aniversario",
-      "p": "Jeff Jarrett finally got to work in Arena Mexico last month, and the AEW star has called it a \"bucket list\" moment in his career.",
-      "link": "https://www.wrestlinginc.com/2276864/aew-jeff-jarrett-arena-mexico-cmll-93/",
+      "h": "AEW Dynamite Viewership & Ratings Report, 10/6/2026",
+      "p": "Viewership was down for \"AEW Dynamite Grand Slam France\" on October 6, with the show airing outside of its usual Wednesday timeslot thanks to the MLB playoffs.",
+      "link": "https://www.wrestlinginc.com/2282673/aew-dynamite-viewership-ratings-report-october-6-2026/",
+      "t": "1h",
+      "dt": "2026-10-09T19:30:33+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Announces Dates For Winter Is Coming Editions Of Dynamite & Collision From Mexico",
+      "p": "Winter is Coming to Monterrey as AEW will bring on of its signature TV specials to Mexico this December.",
+      "link": "https://www.wrestlinginc.com/2282604/aew-dynamite-collision-winter-is-coming-2026-mexico/",
       "t": "2h",
-      "dt": "2026-10-09T12:30:00+00:00"
+      "dt": "2026-10-09T18:48:15+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating (10/6): How did Tuesday’s Grand Slam France perform while running head-to-head with NXT?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (10/6): How did Tuesday’s Grand Slam France perform while running head-to-head with NXT? appeared first on Pro Wrestling...",
-      "link": "https://prowrestling.net/site/2026/10/08/aew-dynamite-rating-10-6-how-did-tuesdays-grand-slam-france-perform-while-running-head-to-head-with-nxt/",
-      "t": "11h",
-      "dt": "2026-10-09T03:28:14+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP NEWSLETTER – PRO WRESTLING TORCH #1988 (October. 8, 2026): Keller’s cover story on AEW’s Pac Tribute Show, Parks feature column on Steven Borden’s potential, Radican column on Pac",
-      "p": "PWTorch Newsletter #1988 Cover-dated October 8, 2026 LINK: 1988 PWTorch Newsletter PDF –LIST OF ALL LATEST NEWSLETTERS –CLICK HERE FOR DIRECTORY OF ALL PAST NEWSLETTERS BY YEAR SUMMARY: This...",
-      "link": "https://www.pwtorch.com/site/2026/10/08/vip-newsletter-pro-wrestling-torch-1988-october-8-2026-kellers-cover-story-on-aews-pac-tribute-show-parks-feature-column-on-steven-bordens-potential-radican-column-on-pac/",
-      "t": "12h",
-      "dt": "2026-10-09T02:17:11+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH on HonorClub live results: Ortiz vs. Mark Davis, Billie Starkz vs. Hyan",
-      "p": "Ring of Honor is back on HonorClub tonight with several matches announced for this week’s episode. Ortiz will face Mark Davis of the Don Callis Family. Davis was recently announced as the...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-on-honorclub-live-results-ortiz-vs-mark-davis-billie-starkz-vs-hyan/",
-      "t": "16h",
-      "dt": "2026-10-08T23:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Jericho says AEW no longer needs to recruit wrestlers",
-      "p": "Chris Jericho believes AEW has reached a point where the company no longer needs to actively recruit wrestlers. During an appearance on TMZ’s Inside the Ring, Jericho reflected on AEW’s early...",
-      "link": "https://www.f4wonline.com/news/aew/chris-jericho-aew-recruit-wrestlers/",
-      "t": "18h",
-      "dt": "2026-10-08T21:15:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision rating (10/3): How did Saturday’s live show perform?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (10/3): How did Saturday’s live show perform? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/08/aew-collision-rating-10-3-how-did-saturdays-live-show-perform/",
-      "t": "18h",
-      "dt": "2026-10-08T20:45:33+00:00"
+      "src": "Fightful",
+      "h": "Dann Read: Tony Khan And AEW Have Been Wonderful To Pro Wrestling EVE",
+      "p": "Dann Read speaks on the growth of EVE and how Tony Khan and AEW have helped play a part in said growth. Over the past couple of years, AEW stars have made a habit of appearing for Pro Wrestling...",
+      "link": "https://www.fightful.com/wrestling-news/dann-read-tony-khan-and-aew-have-been-wonderful-to-pro-wrestling-eve/",
+      "t": "2h",
+      "dt": "2026-10-09T18:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Former WWE Star Kairi Announced For Chris Jericho's Rock N Wrestling Rager At Sea",
-      "p": "Former WWE star Kairi is announced for Chris Jericho's Rock N Wrestling Rager At Sea as rumors continue to abound that she's in talks with AEW",
-      "link": "https://www.wrestlinginc.com/2281698/wwe-kairi-chris-jericho-rock-wrestling-rager-sea-cruise-aew/",
-      "t": "18h",
-      "dt": "2026-10-08T20:18:07+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite: Grand Slam France – Will Ospreay vs. Kazuchika Okada impresses, the build to Clockwork Carnage begins",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite: Grand Slam France – Will Ospreay vs. Kazuchika Okada impresses, the build to Clockwork Carnage...",
-      "link": "https://prowrestling.net/site/2026/10/08/pruetts-pause-10-thoughts-on-aew-dynamite-grand-slam-france-will-ospreay-vs-kazuchika-okada-impresses-the-build-to-clockwork-carnage-begins/",
-      "t": "22h",
-      "dt": "2026-10-08T16:32:04+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "CMLL Grand Prix de Amazonas 2026 teams finalized",
-      "p": "The teams for the CMLL Grand Prix de Amazonas 2026 were finalized with reps for AEW confirmed and replacements reps for MLW and MLP. The post CMLL Grand Prix de Amazonas 2026 teams finalized...",
-      "link": "https://www.postwrestling.com/2026/10/08/cmll-grand-prix-de-amazonas-2026-teams-finalized/",
-      "t": "1d",
-      "dt": "2026-10-08T14:30:52+00:00"
+      "h": "Dave Meltzer Assesses Potential Entrants In AEW WrestleDream 2026 Clockwork Carnage",
+      "p": "WrestleDream 2026 will see the first ever Clockwork Carnage match in AEW. The fist participants were determined at AEW's shows in Paris this week.",
+      "link": "https://www.wrestlinginc.com/2282404/aew-wrestledream-2026-dave-meltzer-entrants-clockwork-carnage/",
+      "t": "4h",
+      "dt": "2026-10-09T16:47:51+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "FREE PODCAST 10/7 – WKPWP Flagship from 5 Yrs Ago: Keller & Powell discuss WWE draft roster reshuffling, was Cody avoiding being the centerpiece AEW star, “Rhodes to the Top” early impressions (220 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Podcast “Flagship” episode (10-5-2021), PWTorch editor Wade Keller was joined by Jason Powell from...",
-      "link": "https://www.pwtorch.com/site/2026/10/07/free-podcast-10-7-wkpwp-flagship-from-5-yrs-ago-keller-powell-discuss-wwe-draft-roster-reshuffling-was-cody-avoiding-being-the-centerpiece-aew-star-rhodes-to-the-top-early-impressio/",
-      "t": "1d",
-      "dt": "2026-10-08T03:23:57+00:00"
+      "h": "AEW FEUD TRACKER: Barber’s look at the latest feuds in the lead up to WrestleDream including Mercedes Mone and Thekla, Swerve and Hangman",
+      "p": "HOUSEKEEPING • MJF showed up via video at NJPW event over the weekend to declare war on the promotion and challenge G1 Climax winner Ryohei Oiwa to a match vowing to beat him with a [...]",
+      "link": "https://www.pwtorch.com/site/2026/10/09/aew-feud-tracker-barbers-look-at-the-latest-feuds-in-the-lead-up-to-wrestledream-including-mercedes-mone-and-thekla-swerve-and-hangman/",
+      "t": "4h",
+      "dt": "2026-10-09T16:44:37+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Arena Monterrey to host AEW “Winter is Coming” in December",
+      "p": "AEW will make its Monterrey debut with Winter is Coming on December 9 at Arena Monterrey. The post Arena Monterrey to host AEW “Winter is Coming” in December appeared first on POST Wrestling |...",
+      "link": "https://www.postwrestling.com/2026/10/09/arena-monterrey-to-host-aew-winter-is-coming-in-december/",
+      "t": "4h",
+      "dt": "2026-10-09T16:42:35+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW announces Mexico return for December 2026",
+      "p": "AEW isn’t waiting until 2027 to make its return to Mexico. The promotion revealed today that Winter is Coming 2026 will be held at Arena Monterrey in Monterrey, Mexico on Wednesday, December 9. A...",
+      "link": "https://www.f4wonline.com/news/aew/aew-announces-mexico-return-for-december-2026/",
+      "t": "4h",
+      "dt": "2026-10-09T16:38:37+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Mike Bailey Pulls Back Curtain On Emotional AEW Tribute To PAC",
+      "p": "AEW star \"Speedball\" Mike Bailey reflects on the tribute show made for PAC just days after his passing in late September.",
+      "link": "https://www.wrestlinginc.com/2282363/mike-bailey-pulls-back-curtain-emotional-aew-tribute-pac/",
+      "t": "4h",
+      "dt": "2026-10-09T16:22:17+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Latest Update On Investigation Into Death Of Former AEW & WWE Star Pac",
+      "p": "A new update has provided more information into the investigation surrounding the passing of former AEW and WWE star Pac.",
+      "link": "https://www.wrestlinginc.com/2282309/pac-benjamin-satterly-neville-aew-wwe-death-investigation-update/",
+      "t": "4h",
+      "dt": "2026-10-09T15:59:38+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Anthony Henry Confirms He Needs Neck Surgery, Offers Update On Return Timeline",
+      "p": "AEW and ROH star, Anthony Henry has had to undergo the knife several times in the last two years and unfortunately will be undergoing neck surgery.",
+      "link": "https://www.wrestlinginc.com/2282233/aew-anthony-henry-workhorsemen-confirms-neck-surgery-update-return-timeline/",
+      "t": "5h",
+      "dt": "2026-10-09T15:21:20+00:00"
     }
   ]
 }

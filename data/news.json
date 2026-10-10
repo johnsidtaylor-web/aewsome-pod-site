@@ -1,30 +1,70 @@
 {
-  "updated": "2026-10-10T13:36:47.067157+00:00",
+  "updated": "2026-10-10T18:32:17.862111+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (4 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW TNT Champion Darby Allin Ascends Mont Blanc: 'Nice To Be In The Mountains Again'",
+      "p": "Never one to rest on his laurels, the three-time TNT Champion Darby Allin has conquered yet another mountain outside of pro wrestling.",
+      "link": "https://www.wrestlinginc.com/2283104/aew-tnt-champion-darby-allin-mont-blanc-mountains-everest/",
+      "t": "21m",
+      "dt": "2026-10-10T18:10:19+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Chris Jericho Explains Thought Process Behind His AEW Factions & Current Solo Run",
+      "p": "After spending several years leading factions in AEW, Chris Jericho has explained why he's gone solo once again.",
+      "link": "https://www.wrestlinginc.com/2279280/aew-chris-jericho-thought-process-factions-solo-run/",
+      "t": "2h",
+      "dt": "2026-10-10T16:30:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Will Ospreay makes unannounced NJPW appearance ahead of King of Pro Wrestling",
+      "p": "Will Ospreay made a surprise appearance at New Japan Pro Wrestling’s Road to King of Pro-Wrestling event in Niigata on Saturday. The post Will Ospreay makes unannounced NJPW appearance ahead of...",
+      "link": "https://www.postwrestling.com/2026/10/10/will-ospreay-makes-unannounced-njpw-appearance-ahead-of-king-of-pro-wrestling/",
+      "t": "2h",
+      "dt": "2026-10-10T15:50:56+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "AEW Collision Grand Slam France Preview, Start Time, How To Watch, Location (10/10)",
-      "p": "Viewing information and lineup for AEW Collision Grand Slam France on October 10, 2026 AEW Collision Grand Slam France (October 10, 2026) Venue: Adidas Arena City: Paris, France Time: 8 pm ET...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-grand-slam-france-preview-start-time-how-to-watch-location-10-10/",
-      "t": "1h",
-      "dt": "2026-10-10T12:00:00+00:00"
+      "h": "WWE, AEW, TNA, NJPW Wrestler Injury Report List: Expected Returns, Inactives | Fightful",
+      "p": "Fightful.com will keep a running injury report and inactive list and update each accordingly. You can also see our updated contract expiration list at this link. WWE RAW Brie Bella: Brie announced...",
+      "link": "https://www.fightful.com/wrestling-news/wwe-impact-njpw-roh-injury-report-expected-returns-more/",
+      "t": "2h",
+      "dt": "2026-10-10T15:33:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay makes surprise appearance at NJPW event",
+      "p": "Will Ospreay made a surprise appearance at an NJPW event on Saturday. Ospreay is scheduled to team with his United Empire stablemates HENARE and Great-O-Khan against Jeff Cobb, Yuto-Ice, and OSKAR...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-surprise-appearance-njpw-event/",
+      "t": "3h",
+      "dt": "2026-10-10T14:49:43+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Chris Jericho Says He Recruited Jon Moxley & Pac For AEW",
+      "p": "AEW star Chris Jericho says that he helped recruit both Jon Moxley and the late AEW star PAC to the promotion back when AEW formed in early 2019",
+      "link": "https://www.wrestlinginc.com/2278985/aew-chris-jericho-jon-moxley-pac-recruited/",
+      "t": "4h",
+      "dt": "2026-10-10T14:30:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 10/9 – Radican Worldwide: Top news stories with Zack Heydorn + Chris Lansdell on MJF challenging Oiwa, NJPW King of Pro Wrestling preview, more (82 min.)",
       "p": "SHOW SUMMARY: PWTorch columnist Sean Radican is back with another blockbuster edition of Radican Worldwide. The show begins with Radican breaking down the top news stories of the week with Zack...",
       "link": "https://www.pwtorch.com/site/2026/10/10/vip-podcast-10-9-radican-worldwide-top-news-stories-with-zack-heydorn-chris-lansdell-on-mjf-challenging-oiwa-njpw-king-of-pro-wrestling-preview-more-82-min/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-10-10T06:19:10+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "AEW Collision Viewership & Ratings Report: 10/3/2026",
       "p": "\"AEW Collision\" returned to its regular timeslot on October 3, and it resulted in a surprising twist in the TV ratings.",
       "link": "https://www.wrestlinginc.com/2282960/aew-collision-viewership-ratings-october-3-2026/",
-      "t": "10h",
+      "t": "14h",
       "dt": "2026-10-10T03:33:41+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "AEW's Juice Robinson Recalls Deciding To Leave WWE Developmental System In 2014",
       "p": "AEW star Juice Robinson recalls his decision to leave the WWE developmental system in 2014, months before he would leave, and which WWE PC trainer helped him",
       "link": "https://www.wrestlinginc.com/2277397/aew-wwe-juice-robinson-cj-parker-deciding-leave-developmental-system/",
-      "t": "12h",
+      "t": "17h",
       "dt": "2026-10-10T01:00:00+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "AEW announces three-hour Dynamite for December",
       "p": "The Wednesday, December 2 episode of AEW Dynamite will be an expanded edition. It was announced today that Sames Auto Arena in Laredo, Texas will host the first Dynamite of December, which will be...",
       "link": "https://www.f4wonline.com/news/aew/aew-announces-three-hour-dynamite-for-december/",
-      "t": "12h",
+      "t": "17h",
       "dt": "2026-10-10T00:46:35+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW World Champion Will Ospreay Opens Up About PAC Tribute Move",
       "p": "Will Ospreay has detailed what it took to pull off Pac's Black Arrow during the \"AEW Dynamite\" episode dedicated to his late friend.",
       "link": "https://www.wrestlinginc.com/2282937/aew-world-champion-will-ospreay-opens-up-pac-tribute-move/",
-      "t": "13h",
+      "t": "17h",
       "dt": "2026-10-10T00:34:58+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "AEW Dynamite viewership plummets over 400,000 viewers on Tuesday this week compared to Pac tribute episode last week",
       "p": "AEW Dynamite aired on Tuesday night this week on TBS instead of Wednedsday and took a huge hit in viewership as a result, averaging 495,000 viewers over the course of the two-plus hours. The prior...",
       "link": "https://www.pwtorch.com/site/2026/10/09/aew-dynamite-viewership-plummets-over-400000-viewers-on-tuesday-this-week-compared-to-pac-tribute-episode-last-week/",
-      "t": "16h",
+      "t": "21h",
       "dt": "2026-10-09T21:23:26+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Former AEW Star Accepts Moose's Open Challenge For TNA Bound For Glory 2026",
-      "p": "Moose issued an open challenge for anyone to answer at TNA Bound For Glory 2026, and a former AEW star has already stepped up.",
-      "link": "https://www.wrestlinginc.com/2282822/tna-bound-for-glory-moose-open-challenge-aew-max-caster/",
-      "t": "16h",
-      "dt": "2026-10-09T21:16:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Max Caster removed from AEW roster page, Anthony Bowens still listed",
-      "p": "Max Caster is officially departing AEW, though things seem less certain with his former tag team partner Anthony Bowens. Both members of The Acclaimed became free agents at the start of October,...",
-      "link": "https://www.f4wonline.com/news/aew/max-caster-removed-from-aew-roster-page-anthony-bowens-still-listed/",
-      "t": "17h",
-      "dt": "2026-10-09T19:59:20+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 10/9 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: Review of Grand Slam France including Ospreay vs. Okada, discussion of WrestleDream card including Clockwork Carnage main event, more (92 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner discuss Grand Slam France from this past Tuesday. Ospreay vs. Okada on free...",
-      "link": "https://www.pwtorch.com/site/2026/10/09/free-podcast-10-9-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-review-of-grand-slam-france-including-ospreay-vs-okada-discussion-of-wrestledream-card-inclu/",
-      "t": "17h",
-      "dt": "2026-10-09T19:58:23+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report, 10/6/2026",
-      "p": "Viewership was down for \"AEW Dynamite Grand Slam France\" on October 6, with the show airing outside of its usual Wednesday timeslot thanks to the MLB playoffs.",
-      "link": "https://www.wrestlinginc.com/2282673/aew-dynamite-viewership-ratings-report-october-6-2026/",
-      "t": "18h",
-      "dt": "2026-10-09T19:30:33+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW FEUD TRACKER: Barber’s look at the latest feuds in the lead up to WrestleDream including Mercedes Mone and Thekla, Swerve and Hangman",
-      "p": "HOUSEKEEPING • MJF showed up via video at NJPW event over the weekend to declare war on the promotion and challenge G1 Climax winner Ryohei Oiwa to a match vowing to beat him with a [...]",
-      "link": "https://www.pwtorch.com/site/2026/10/09/aew-feud-tracker-barbers-look-at-the-latest-feuds-in-the-lead-up-to-wrestledream-including-mercedes-mone-and-thekla-swerve-and-hangman/",
-      "t": "20h",
-      "dt": "2026-10-09T16:44:37+00:00"
     }
   ]
 }

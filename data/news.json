@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-12T15:15:16.475779+00:00",
+  "updated": "2026-10-12T22:30:14.672255+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Yota Tsuji Discusses Idea Of Doing NJPW vs. AEW Matches At Tokyo Dome",
+      "p": "Yota Tsuji threw the idea out there. It had already been revealed that MJF will be coming to New Japan Pro-Wrestling, and he’s coming after Ryohei Oiwa. Following the King of Pro-Wrestling event,...",
+      "link": "https://www.fightful.com/wrestling-news/yota-tsuji-discusses-idea-of-doing-njpw-vs-aew-matches-at-tokyo-dome/",
+      "t": "2m",
+      "dt": "2026-10-12T22:27:17+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Anna Jay To Undergo Surgery",
+      "p": "AEW star Anna Jay revealed in a Twitch stream she's set to undergo shoulder surgery.",
+      "link": "https://www.wrestlinginc.com/2284754/aew-anna-jay-undergo-surgery-shoulder/",
+      "t": "23m",
+      "dt": "2026-10-12T22:06:45+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Natalie Satterley, Wife Of Pac, Shares Social Media Remembrance Of Her Late Husband",
+      "p": "Natalie Satterley, the wife of late AEW star PAC, shares an emotional remembrance of her late husband in a touching Instagram post on Monday",
+      "link": "https://www.wrestlinginc.com/2284705/aew-natalie-satterley-ben-pac-social-media-remembrance-late-husband/",
+      "t": "1h",
+      "dt": "2026-10-12T21:09:55+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "NJPW “King of Pro Wrestling” results (10/12): Vetter’s review of Yota Tsuji vs. Ryohei Oiwa for the IWGP World Heavyweight Championship, appearances by two AEW stars",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “King of Pro Wrestling” results (10/12): Vetter’s review of Yota Tsuji vs. Ryohei Oiwa for the IWGP World Heavyweight Championship,...",
+      "link": "https://prowrestling.net/site/2026/10/12/njpw-king-of-pro-wrestling-results-10-12-vetters-review-of-yota-tsuji-vs-ryohei-oiwa-for-the-iwgp-world-heavyweight-championship-appearances-by-two-aew-stars/",
+      "t": "1h",
+      "dt": "2026-10-12T20:30:22+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: Kenny Omega takes out Yota Tsuji in Tokyo & Riyadh update",
+      "p": "Jack Wannan covers the news, including results from King of Pro Wrestling, an update on Riyadh following the attacks, a weekend recap & more. Available for Double Double & Espresso members at...",
+      "link": "https://www.postwrestling.com/2026/10/12/post-news-kenny-omega-takes-out-yota-tsuji-in-tokyo-riyadh-update/",
+      "t": "2h",
+      "dt": "2026-10-12T20:22:47+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "New Japan looks to AEW to help sell tickets for Wrestle Kingdom 21, a list of six key AEW vs. NJPW matches that could take place",
+      "p": "After drawing a super full, no vacancy sellout of the Tokyo Dome at the start of the year for Hiroshi Tanahashi’s retirement match, New Japan Pro Wrestling faced a dilemma: How do we do it [...]",
+      "link": "https://www.pwtorch.com/site/2026/10/12/new-japan-looks-to-aew-to-help-sell-tickets-for-wrestle-kingdom-21-a-list-of-six-key-aew-vs-njpw-matches-that-could-take-place/",
+      "t": "2h",
+      "dt": "2026-10-12T20:03:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Max Caster could be done with TNA after ‘unscripted, unapproved’ Riyadh line",
+      "p": "After just one appearance with the company, Max Caster could already be done with TNA Wrestling. The former AEW Tag Team Champion made his TNA debut in a loss to Moose at Bound for Glory 2026 last...",
+      "link": "https://www.f4wonline.com/news/tna-wrestling/max-caster-could-be-done-with-tna-after-unscripted-unapproved-riyadh-line/",
+      "t": "2h",
+      "dt": "2026-10-12T19:33:04+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW wrestler Anna Jay undergoing shoulder surgery",
+      "p": "AEW wrestler Anna Jay is either preparing for shoulder surgery or has already undergone the operation. During a Twitch stream in late September, Jay gave an update on her injury and shared that...",
+      "link": "https://www.f4wonline.com/news/aew/aew-wrestler-anna-jay-undergoing-shoulder-surgery/",
+      "t": "3h",
+      "dt": "2026-10-12T19:03:59+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Kenny Omega challenges Yota Tsuji, Boltin Oleg to three-way match for NJPW Power Struggle Hiroshima",
+      "p": "Shortly after returning to NJPW on Monday, Kenny Omega outlined his path toward the IWGP Heavyweight Championship. The post Kenny Omega challenges Yota Tsuji, Boltin Oleg to three-way match for...",
+      "link": "https://www.postwrestling.com/2026/10/12/kenny-omega-challenges-yota-tsuji-boltin-oleg-to-three-way-match-for-njpw-power-struggle-hiroshima/",
+      "t": "5h",
+      "dt": "2026-10-12T16:41:30+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Kenny Omega & Jon Moxley Set For NJPW In-Ring Returns",
+      "p": "AEW stars Kenny Omega and Jon Moxley are on their way back to NJPW following King of Pro Wrestling, and one of them has title aspirations.",
+      "link": "https://www.wrestlinginc.com/2283994/aew-njpw-kenny-omega-jon-moxley-returns-set/",
+      "t": "6h",
+      "dt": "2026-10-12T16:04:31+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Kenny Omega proposes match for NJPW Power Struggle 2026",
       "p": "Kenny Omega has his sights set on the IWGP Heavyweight Championship — and he could earn his title shot with a victory at Power Struggle 2026. Following his surprise appearance at Monday’s King of...",
       "link": "https://www.f4wonline.com/news/new-japan/kenny-omega-proposes-match-for-njpw-power-struggle-2026/",
-      "t": "36m",
+      "t": "7h",
       "dt": "2026-10-12T14:38:11+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Anna Jay Gives Update On Shoulder Injury",
-      "p": "Anna Jay provided an update on her shoulder injury in a Twitch stream two weeks ago, noting that she would require surgery. During the pre-AEW Redemption media call, company President Tony Khan...",
-      "link": "https://www.fightful.com/wrestling-news/anna-jay-gives-update-on-shoulder-injury/",
-      "t": "44m",
-      "dt": "2026-10-12T14:30:54+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite/Collision preview: Big tag team match, Clockwork Carnage qualifiers, trios matches set for Wednesday’s three-hour block",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: Big tag team match, Clockwork Carnage qualifiers, trios matches set for Wednesday’s three-hour block appeared...",
       "link": "https://prowrestling.net/site/2026/10/12/aew-dynamite-collision-preview-big-tag-team-match-clockwork-carnage-qualifiers-trios-matches-set-for-wednesdays-three-hour-block/",
-      "t": "1h",
+      "t": "9h",
       "dt": "2026-10-12T13:15:42+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST SCHEDULE: NJPW King of Pro Wrestling, AEW WrestleDream & TALK",
-      "p": "The return of TALK with John Pollock & Wai Ting, a live show following AEW WrestleDream, and The N.W.A. Podcast is live on Sunday night. The post POST SCHEDULE: NJPW King of Pro Wrestling, AEW...",
-      "link": "https://www.postwrestling.com/2026/10/12/post-schedule-njpw-king-of-pro-wrestling-aew-wrestledream-talk/",
-      "t": "2h",
-      "dt": "2026-10-12T13:00:40+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Don Callis Believes Kyle Fletcher Will Go Down As The Greatest Of All Time",
-      "p": "Don Callis is already high on AEW star Kyle Fletcher, but he believes the \"Protostar\" could go down as the greatest wrestler ever.",
-      "link": "https://www.wrestlinginc.com/2283612/aew-don-callis-kyle-fletcher-greatest-all-time/",
-      "t": "2h",
-      "dt": "2026-10-12T13:00:23+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Deonna Purrazzo Explains The Importance Of Winning The ROH Women’s Pure Championship",
-      "p": "Deonna Purrazzo comments on her ROH Women’s Pure Championship reign. At ROH Final Battle 2025, Deonna Purrazzo became the first-ever ROH Women’s Pure Champion by defeating Billie Starkz. Since...",
-      "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-explains-the-importance-of-winning-the-roh-womens-pure-championship/",
-      "t": "2h",
-      "dt": "2026-10-12T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW’s Skye Blue confirmed for MyAEW PPV event in the UK",
-      "p": "AEW performer Skye Blue has been confirmed for an upcoming Pro Wrestling EVE MyAEW PPV on Sunday, November 8 from The Hanger in Wolverhampton, England. Blue will be challenging for the new Spirit...",
-      "link": "https://www.f4wonline.com/news/aew/aew-skye-blue-myaew-pro-wrestling-eve-ppv-elite-encounters-2/",
-      "t": "3h",
-      "dt": "2026-10-12T11:51:01+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Max Caster getting backlash online following TNA debut promo that referenced Riyadh attacks",
-      "p": "Former AEW star Max Caster made his TNA debut at Bound for Glory. However, his entrance rap quickly became a subject of controversy after he referenced the recent attack at King Khalid...",
-      "link": "https://www.f4wonline.com/news/tna-wrestling/max-caster-getting-backlash-online-following-tna-debut-promo-that-referenced-riyadh-attacks/",
-      "t": "3h",
-      "dt": "2026-10-12T11:37:01+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW WrestleDream 2026 Global Start Times: US, UK, Australia and more",
-      "p": "AEW WrestleDream 2026 is set to take place on Saturday, October 17 from the Addition Financial Arena in Orlando, Florida, with a start time of 7pm Eastern, 6pm Central and 4pm Pacific. The main...",
-      "link": "https://www.f4wonline.com/event-guides/aew-wrestledream-2026-global-start-times-us-uk-australia/",
-      "t": "3h",
-      "dt": "2026-10-12T11:16:10+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "NJPW King of Pro-Wrestling 2026 Results: Yota Tsuji turns back Ryohei Oiwa to retain IWGP Heavyweight Title, Kenny Omega issues challenge",
-      "p": "Kenny Omega made his return to NJPW following a stellar main event between Yota Tsuji and Ryohei Oiwa on Monday night. The post NJPW King of Pro-Wrestling 2026 Results: Yota Tsuji turns back...",
-      "link": "https://www.postwrestling.com/2026/10/12/njpw-king-of-pro-wrestling-2026-results-yota-tsuji-turns-back-ryohei-oiwa-to-retain-iwgp-heavyweight-title-kenny-omega-issues-challenge/",
-      "t": "4h",
-      "dt": "2026-10-12T11:05:14+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kenny Omega appears, calls out the IWGP World Heavyweight Champion at NJPW King of Pro Wrestling 2026",
-      "p": "Former IWGP World Heavyweight Champion Kenny Omega appeared on camera, and then in the ring, at the end of NJPW King of Pro Wrestling 2026, challenging Yota Tsuji for the title. Speaking in...",
-      "link": "https://www.f4wonline.com/news/new-japan/kenny-omega-iwgp-world-heavyweight-champion-njpw-king-of-pro-wrestling-2026-yota-tsuji/",
-      "t": "4h",
-      "dt": "2026-10-12T11:02:39+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Will Ospreay loses title at NJPW King of Pro Wrestling 2026, tag title match set for Power Struggle",
-      "p": "Will Ospreay and the United Empire (Great-O-Khan and HENARE) defended their NEVER Openweight Six Man Tag Team Title at NJPW King of Pro Wrestling 2026 earlier today. Ospreay and UE would lose the...",
-      "link": "https://www.f4wonline.com/news/new-japan/will-ospreay-loses-title-njpw-king-of-pro-wrestling-2026-tag-title-match-set-power-struggle/",
-      "t": "5h",
-      "dt": "2026-10-12T09:48:48+00:00"
     }
   ]
 }

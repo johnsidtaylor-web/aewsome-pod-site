@@ -1,110 +1,110 @@
 {
-  "updated": "2026-10-13T11:43:12.824306+00:00",
+  "updated": "2026-10-13T19:13:26.642818+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (5 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Anthony Bowens Looks Back On AEW Singles Run, Says He Was Supposed To Turn Heel",
-      "p": "Insight into Anthony Bowens’ solo run. Michael Fairman interviewed former AEW World Tag Team Champion Anthony Bowens. As the conversation moved along, Bowens opened up about his singles run in All...",
-      "link": "https://www.fightful.com/wrestling-news/anthony-bowens-looks-back-on-aew-singles-run-says-he-was-supposed-to-turn-heel/",
-      "t": "13m",
-      "dt": "2026-10-13T11:30:00+00:00"
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Kyle Fletch and Jay White going in opposite direction, plus an unconventional choice",
+      "p": "Welcome everyone! I have not written anything since the Pac tribute show. The show was so touching and heartfelt, there was nothing I wanted to be negative about. So I just let that week sit. [...]",
+      "link": "https://www.pwtorch.com/site/2026/10/13/aew-rising-and-fading-stars-kyle-fletch-and-jay-white-going-in-opposite-direction-plus-an-unconventional-choice/",
+      "t": "1h",
+      "dt": "2026-10-13T18:12:14+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Yota Tsuji vs. Oleg Boltin vs. Kenny Omega Made Official, Jon Moxley & Wheeler Yuta Added To NJPW Power Struggle",
-      "p": "Oleg Boltin, Kenny Omega, and Yota Tsuji to meet in a three-way. After Yota Tsuji’s successful defense of the IWGP Heavyweight Championship at NJPW King of Pro-Wrestling, a video message aired...",
-      "link": "https://www.fightful.com/wrestling-news/yota-tsuji-vs-oleg-boltin-vs-kenny-omega-made-official-jon-moxley-wheeler-yuta-added-to-njpw-power-struggle/",
-      "t": "16m",
-      "dt": "2026-10-13T11:26:59+00:00"
+      "src": "PWTorch",
+      "h": "AEW COLLISION HITS & MISSES (10/10): Nick Wayne defeats Jericho, Statlander and Cameron earn tag title shot, Andrade retains against Oku, Bucks vs. The Dogs",
+      "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HIT — NICK WAYNE vs. CHRIS JERICHO Nick Wayne may [...]",
+      "link": "https://www.pwtorch.com/site/2026/10/13/aew-collision-hits-misses-10-10-nick-wayne-defeats-jericho-statlander-and-cameron-earn-tag-title-shot-andrade-retains-against-oku-bucks-vs-the-dogs/",
+      "t": "1h",
+      "dt": "2026-10-13T17:56:35+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "MLP’s Northern Rising airing on TSN, MyAEW & Fight Nation moved to Oct. 21",
+      "p": "MLP’s Northern Rising will be airing a week later than originally announced, with new information released by the promotion. The post MLP’s Northern Rising airing on TSN, MyAEW & Fight Nation...",
+      "link": "https://www.postwrestling.com/2026/10/13/mlps-northern-rising-airing-on-tsn-myaew-fight-nation-moved-to-oct-21/",
+      "t": "3h",
+      "dt": "2026-10-13T15:59:22+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kenny Omega & Jon Moxley Matches Announced For NJPW Power Struggle",
+      "p": "NJPW Power Struggle 2026 will see Kenny Omega, Jon Moxley, and other AEW stars compete in several high-profile matches.",
+      "link": "https://www.wrestlinginc.com/2285416/aew-njpw-power-struggle-2026-kenny-omega-jon-moxley-matches-announced/",
+      "t": "3h",
+      "dt": "2026-10-13T15:53:34+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Commentator Jim Ross Announces He's Back In The Hospital",
+      "p": "Only one week after being in the hospital for brain surgery, AEW commentator Jim Ross reveals he's back in the hospital due to low oxygen levels",
+      "link": "https://www.wrestlinginc.com/2285359/aew-jim-ross-hospital-low-oxygen/",
+      "t": "3h",
+      "dt": "2026-10-13T15:27:48+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Kenny Omega, Will Ospreay & Jon Moxley officially added to NJPW Power Struggle",
+      "p": "During King of Pro Wrestling on Monday, multiple angles set up matches for November 3, including Kenny Omega’s return to an NJPW ring. The post Kenny Omega, Will Ospreay & Jon Moxley officially...",
+      "link": "https://www.postwrestling.com/2026/10/13/kenny-omega-will-ospreay-jon-moxley-officially-added-to-njpw-power-struggle/",
+      "t": "3h",
+      "dt": "2026-10-13T15:24:35+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Anthony Bowens reveals he is dealing with a knee injury",
+      "p": "Anthony Bowens revealed he is dealing with a torn meniscus in his right knee. During an interview with Michael Fairman, the former AEW star discussed his history of injuries, including diagnosed...",
+      "link": "https://www.f4wonline.com/news/aew/anthony-bowens-reveals-he-is-dealing-with-a-knee-injury/",
+      "t": "6h",
+      "dt": "2026-10-13T12:52:06+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW stars announced for NJPW Power Struggle 2026",
+      "p": "A few of the top names in AEW are coming to Japan for NJPW Power Struggle 2026. Kenny Omega, Will Ospreay, Jon Moxley, Gabe Kidd, and Wheeler Yuta are all confirmed for the Power Struggle event,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-stars-announced-for-njpw-power-struggle-2026/",
+      "t": "7h",
+      "dt": "2026-10-13T11:54:23+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW WrestleDream 2026 Match Card",
+      "p": "AEW WrestleDream 2026 is set to take place on Saturday, October 17 from the Addition Financial Arena in Orlando, Florida, and most of the card has now been confirmed. The main event of the show is...",
+      "link": "https://www.f4wonline.com/event-guides/aew-wrestledream-2026-match-card/",
+      "t": "7h",
+      "dt": "2026-10-13T11:45:27+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Mick Foley compares Tony Khan’s AEW management style to WWE’s",
       "p": "A WWE Hall of Famer and a former part of the promotion, Mick Foley has now compared it to Tony Khan’s AEW management style, which happens to be his current promotion. A few months ago, Foley...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-compares-tony-khans-aew-management-style-to-wwes/",
-      "t": "6h",
+      "t": "13h",
       "dt": "2026-10-13T05:15:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Anthony Bowens: “I Currently Have A Slightly Torn Meniscus In My Right Knee”",
-      "p": "A health update from Anthony Bowens. There’s a new interview with former AEW World Tag Team Champion Anthony Bowens that was conducted by Michael Fairman. Bowens was asked about the injuries he’s...",
-      "link": "https://www.fightful.com/wrestling-news/anthony-bowens-i-currently-have-a-slightly-torn-meniscus-in-my-right-knee/",
-      "t": "7h",
-      "dt": "2026-10-13T03:49:37+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Jim Ross Shares That He’s Back In Hospital Due To Low Oxygen",
-      "p": "The latest from Jim Ross. Taking to his social media pages, AEW commentator Jim Ross shared that he is back in the hospital due to low oxygen. “Back in the hospital due to low oxygen. Weighed 198....",
-      "link": "https://www.fightful.com/wrestling-news/jim-ross-shares-that-hes-back-in-hospital-due-to-low-oxygen/",
-      "t": "8h",
-      "dt": "2026-10-13T03:37:49+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Anthony Bowens Addresses His Future: “I Know Deep Down What I Want To Do & We’ll See If It Works Out”",
-      "p": "Anthony Bowens discusses his future. At the start of October 2026, Fightful Select reported that former AEW World Tag Team Champions Anthony Bowens and Max Caster were free agents. During a new...",
-      "link": "https://www.fightful.com/wrestling-news/anthony-bowens-addresses-his-future-i-know-deep-down-what-i-want-to-do-well-see-if-it-works-out/",
-      "t": "8h",
-      "dt": "2026-10-13T03:29:41+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Eric Bischoff Contrasts AEW's Tony Khan With Former WWE CEO Vince McMahon",
-      "p": "Hall of Famer Eric Bischoff compares how AEW President Tony Khan and former WWE CEO Vince McMahon are similar when it comes to this industry.",
-      "link": "https://www.wrestlinginc.com/2283116/eric-bischoff-aew-tony-khan-wwe-ceo-vince-mcmahon/",
-      "t": "10h",
-      "dt": "2026-10-13T01:00:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 10/12 – Radican Worldwide – Interview with Speedball Mike Bailey: Transitioning from TNA to AEW, being married to someone else in pro wrestling, representing the LGBTQ+ community, Clockwork Carnage match at WrestleDream, more (24 min.)",
       "p": "SHOW SUMMARY: In this episode of Radican Worldwide, “Speedball” Mike Bailey discusses with PWTorch columnist Sean Radican the following topics: How TNA got them ready for eventually landing a deal...",
       "link": "https://www.pwtorch.com/site/2026/10/12/vip-podcast-10-12-radican-worldwide-interview-with-speedball-mike-bailey-transitioning-from-tna-to-aew-being-married-to-someone-else-in-pro-wrestling-representing-the-lgbtq-community/",
-      "t": "10h",
+      "t": "18h",
       "dt": "2026-10-13T00:48:19+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "TNA's Matt Hardy On AEW Tribute To Pac: 'Very Classy, Well-Done'",
-      "p": "TNA Star Matt Hardy thinks that AEW did a very good job paying tribute to the late PAC.",
-      "link": "https://www.wrestlinginc.com/2284781/aew-tna-matt-hardy-pac-benjamin-satterly-tribute-classy-well-done/",
-      "t": "12h",
-      "dt": "2026-10-12T22:45:12+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Anna Jay To Undergo Surgery",
-      "p": "AEW star Anna Jay revealed in a Twitch stream she's set to undergo shoulder surgery.",
-      "link": "https://www.wrestlinginc.com/2284754/aew-anna-jay-undergo-surgery-shoulder/",
-      "t": "13h",
-      "dt": "2026-10-12T22:06:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Natalie Satterley, Wife Of Pac, Shares Social Media Remembrance Of Her Late Husband",
-      "p": "Natalie Satterley, the wife of late AEW star PAC, shares an emotional remembrance of her late husband in a touching Instagram post on Monday",
-      "link": "https://www.wrestlinginc.com/2284705/aew-natalie-satterley-ben-pac-social-media-remembrance-late-husband/",
-      "t": "14h",
-      "dt": "2026-10-12T21:09:55+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "NJPW “King of Pro Wrestling” results (10/12): Vetter’s review of Yota Tsuji vs. Ryohei Oiwa for the IWGP World Heavyweight Championship, appearances by two AEW stars",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “King of Pro Wrestling” results (10/12): Vetter’s review of Yota Tsuji vs. Ryohei Oiwa for the IWGP World Heavyweight Championship,...",
       "link": "https://prowrestling.net/site/2026/10/12/njpw-king-of-pro-wrestling-results-10-12-vetters-review-of-yota-tsuji-vs-ryohei-oiwa-for-the-iwgp-world-heavyweight-championship-appearances-by-two-aew-stars/",
-      "t": "15h",
+      "t": "22h",
       "dt": "2026-10-12T20:30:22+00:00"
     }
   ]

@@ -1,22 +1,70 @@
 {
-  "updated": "2026-10-14T15:05:09.922390+00:00",
+  "updated": "2026-10-14T19:20:08.583411+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "FAILED (HTTP Error 404: Not Found)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "Wrestling Inc": "ok (5 AEW items)",
+    "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW WrestleDream lineup: Clockwork Carnage match for the AEW World Championship headlines Saturday’s pay-per-view event",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream lineup: Clockwork Carnage match for the AEW World Championship headlines Saturday’s pay-per-view event appeared first on Pro...",
+      "link": "https://prowrestling.net/site/2026/10/14/aew-wrestledream-lineup-clockwork-carnage-match-for-the-aew-world-championship-headlines-saturdays-pay-per-view-event-2/",
+      "t": "4m",
+      "dt": "2026-10-14T19:15:26+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Samoa Joe On Losing Pac & Andy Williams: 'In These Times We Band Together'",
+      "p": "Samoa Joe has commented on the recent deaths of AEW stars Pac and Andy Williams (AKA The Butcher).",
+      "link": "https://www.wrestlinginc.com/2286904/aew-samoa-joe-pac-ben-satterley-andy-williams-butcher-losing-band-together/",
+      "t": "32m",
+      "dt": "2026-10-14T18:47:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW WrestleDream 2026: Draws & Duds",
+      "p": "From the Clockwork Carnage match to two-out-of-three-falls, here are our biggest draws and biggest duds for AEW WrestleDream 2026!",
+      "link": "https://www.wrestlinginc.com/2286867/aew-wrestledream-2026-draws-duds-clockwork-carnage-will-ospreay-new-level-bandido/",
+      "t": "1h",
+      "dt": "2026-10-14T18:13:17+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kalisto Remembers PAC, Says He ‘Looked Up To Him A Lot’",
+      "p": "Kalisto remembers the late PAC, recalling getting to work with him and noting that he ‘looked up to him a lot.’ On the weekend of AEW All Out last month, it was announced by AEW that PAC had...",
+      "link": "https://www.fightful.com/wrestling-news/kalisto-remembers-pac-says-he-looked-up-to-him-a-lot/",
+      "t": "1h",
+      "dt": "2026-10-14T18:01:33+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (10/14): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, OCTOBER 14, 2026 Where: CLEVELAND, OHIO AT WOLSTEIN CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,771 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/10/14/aew-dynamite-preview-10-14-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "2h",
+      "dt": "2026-10-14T17:05:45+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "David Finlay Details Aspects Of AEW He's Still Adjusting To",
+      "p": "David Finlay, who joined AEW earlier this year, has discussed the major changes he has had to get used to since leaving NJPW.",
+      "link": "https://www.wrestlinginc.com/2286335/aew-david-final-aspects-adjusting/",
+      "t": "3h",
+      "dt": "2026-10-14T15:30:00+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "AEW Reveals Date And Location For ROH Final Battle 2026",
       "p": "Ring of Honor will be returning to Texas this December as ROH Final Battle 2026 will take place in San Antonio.",
       "link": "https://www.wrestlinginc.com/2286499/aew-roh-final-battle-2026-december-4-boeing-center-san-antonio/",
-      "t": "22m",
+      "t": "4h",
       "dt": "2026-10-14T14:42:28+00:00"
     },
     {
@@ -24,23 +72,15 @@
       "h": "AEW Dynamite/Collision preview: Big tag team match, Clockwork Carnage qualifiers, trios matches on tonight’s three-hour block",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: Big tag team match, Clockwork Carnage qualifiers, trios matches on tonight’s three-hour block appeared first on...",
       "link": "https://prowrestling.net/site/2026/10/14/aew-dynamite-collision-preview-big-tag-team-match-clockwork-carnage-qualifiers-trios-matches-on-tonights-three-hour-block/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-10-14T14:00:20+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Deonna Purrazzo Explains What A Match Against Athena Would Mean To Her",
-      "p": "Deonna Purrazzo comments on having a potential singles match against Athena. Both Deonna Purrazzo and Athena are part of the Ring of Honor roster. Purrazzo is the brand’s Women’s Pure Champion,...",
-      "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-explains-what-a-match-against-athena-would-mean-to-her/",
-      "t": "2h",
-      "dt": "2026-10-14T13:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Kevin Knight spent the night at the hospital with Steven Borden after AEW All Out spot",
       "p": "Kevin Knight checked up on Steven Borden and spent the night at the hospital with him after he hit his head on the mat during a spot in their AEW All Out match. During the tag team match at AEW...",
       "link": "https://www.f4wonline.com/news/aew/kevin-knight-spent-the-night-at-the-hospital-with-steven-borden-after-aew-all-out-spot/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-10-14T12:39:54+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "AEW's Zayda Steel Plans To 'Run It Back' With Mercedes Mone",
       "p": "Zayda Steel has already had a taste of what it's like to wrestle Mercedes Mone in AEW, but she is ready for round two.",
       "link": "https://www.wrestlinginc.com/2283335/aew-zayda-steel-mercedes-mone-plans-run-back/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-10-14T12:30:00+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "AEW Dynamite and Collision in Cleveland, WWE Evolve, WWE Main Event, last week’s Dynamite and Collision grades, Dan Spivey, Stacy Keibler, Blackjack Lanza, Nikolai Volkoff, Lou Albano",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite and Collision in Cleveland, WWE Evolve, WWE Main Event, last week’s Dynamite and Collision grades, Dan Spivey, Stacy Keibler,...",
       "link": "https://prowrestling.net/site/2026/10/14/aew-dynamite-and-collision-in-cleveland-wwe-evolve-wwe-main-event-last-weeks-dynamite-and-collision-grades-dan-spivey-stacy-keibler-blackjack-lanza-nikolai-volkoff-lou-albano/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-10-14T12:00:54+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "STARDOM names confirmed for MyAEW PPV event in November",
       "p": "Pro Wrestling EVE will be bringing MAIKA & HANAKO (HAI HIGH MATE) of STARDOM’s STARS faction to the UK in November. HAI HIGH MATE will be appearing on the Friday, November 6th event from the Big...",
       "link": "https://www.f4wonline.com/news/other-wrestling/stardom-names-confirmed-myaew-ppv-event-november-maika-hanaki-hai-high-mate/",
-      "t": "3h",
-      "dt": "2026-10-14T11:23:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kenny Omega reveals NJPW Wrestle Kingdom 21 ambitions",
-      "p": "Kenny Omega recently made his return to New Japan Pro Wrestling, appearing during the King of Pro Wrestling event and taking out IWGP Heavyweight Champion Yota Tsuji and Oleg Boltin. Omega will...",
-      "link": "https://www.f4wonline.com/news/new-japan/kenny-omega-reveals-njpw-wrestle-kingdom-21-ambitions/",
-      "t": "4h",
-      "dt": "2026-10-14T10:40:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ticket sales update ahead of tonight’s show (10-14-2026)",
-      "p": "Tonight’s episode of AEW Dynamite takes place from the Wolstein Center at CSU in Cleveland, OH. According to the latest update from WrestleTix, there have been around 2,771 tickets distributed for...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-tonight-show-10-14-2026/",
-      "t": "4h",
-      "dt": "2026-10-14T10:20:12+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Samoa Joe names three AEW stars with untapped potential",
-      "p": "A former World Champion and an industry veteran, Samoa Joe has now named three AEW stars with major potential. Speaking to TV Insider in a recent interview, Joe was asked about wrestlers in AEW,...",
-      "link": "https://www.f4wonline.com/news/aew/samoa-joe-names-three-aew-stars-with-untapped-potential/",
-      "t": "6h",
-      "dt": "2026-10-14T08:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (10-14-2026)",
-      "p": "AEW Dynamite takes place tonight from the Wolstein Center at CSU in Cleveland, OH, with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. Several Clockwork Carnage qualifying matches will...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-10-14-2026/",
       "t": "7h",
-      "dt": "2026-10-14T07:35:09+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 10/13 – WKPWP Tuesday Flagship: Keller & Fann talk Bloodline-946, AEW WrestleDream preview, WB-Paramount-AEW, strong praise for TNA’s Bound for Glory, death of referee in the ring, Penta (106 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Rich Fann, a PWTorch columnist. They discuss the...",
-      "link": "https://www.pwtorch.com/site/2026/10/13/free-podcast-10-13-wkpwp-tuesday-flagship-keller-fann-talk-bloodline-946-aew-wrestledream-preview-wb-paramount-aew-strong-praise-for-tnas-bound-for-glory-death-of-referee-in-the-rin/",
-      "t": "10h",
-      "dt": "2026-10-14T04:17:27+00:00"
+      "dt": "2026-10-14T11:23:50+00:00"
     }
   ]
 }

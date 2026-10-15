@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-15T13:22:32.989599+00:00",
+  "updated": "2026-10-15T18:14:56.946028+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Deonna Purrazzo: ‘My Time In TNA Gave Me The Confidence To Know I Could Lead A Division And Do It Without Compromising Who I Am And What I Stood For’",
-      "p": "Deonna Purrazzo says her time in TNA Wrestling shaped her the most as a performer. While Deonna Purrazzo is currently signed to AEW/ROH, she’s worked for many other wrestling promotions in the...",
-      "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-my-time-in-tna-gave-me-the-confidence-to-know-i-could-lead-a-division-and-do-it-without-compromising-who-i-am-and-what-i-stood-for/",
-      "t": "22m",
-      "dt": "2026-10-15T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan announces injury to former AEW Women’s World Champion",
-      "p": "One-half of the AEW Women’s Tag Team Champions is currently sidelined due to injury. In a social media video after Dynamite/Collision last night, Tony Khan addressed the injury situation in AEW...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-announces-injury-to-former-aew-womens-world-champion/",
-      "t": "1h",
-      "dt": "2026-10-15T12:05:29+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Alvarez’s AEW Dynamite & Collision October 14 report for subscribers",
-      "p": "Bryan Alvarez’s report on the October 14 editions of AEW Dynamite and Collision is now available for subscribers.",
-      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-collision-october-14-report-for-subscribers/",
-      "t": "1h",
-      "dt": "2026-10-15T11:57:25+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: AEW Dynamite & Collision review, WrestleDream preview, NXT, NJPW Power Struggle",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including a very long AEW block on Wednesday leading into WrestleDream this coming Saturday, NXT TV...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-dynamite-and-collision-wrestledream-nxt-tv-new-japan-more/",
-      "t": "4h",
-      "dt": "2026-10-15T08:37:43+00:00"
-    },
-    {
       "src": "Wrestling Inc",
-      "h": "AEW Dynamite/Collision - 10/14/2026: 3 Things We Hated & 3 Things We Loved",
-      "p": "The best and the worst of the AEW Dynamite and Collision Double Bill.",
-      "link": "https://www.wrestlinginc.com/2287280/aew-dynamite-collision-october-14-2026-3-things-hated-loved-opinion-review/",
-      "t": "5h",
-      "dt": "2026-10-15T07:59:10+00:00"
+      "h": "TNA & Swole Announce Benefit For IBD Charity",
+      "p": "Former AEW wrestler and ASÉ Wrestling commentator, Big Swole and TNA Wrestling are teaming up for a special raffle and silent auction to benefit IBD foundation",
+      "link": "https://www.wrestlinginc.com/2287928/swole-tna-announce-benefit-ibd-charity/",
+      "t": "18m",
+      "dt": "2026-10-15T17:56:33+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "10/14 Powell’s AEW Dynamite and Collision audio review: WrestleDream go-home block with Will Ospreay and Andrade vs. Samoa Joe and Tommaso Ciampa, Clockwork Carnage qualifying matches",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 10/14 Powell’s AEW Dynamite and Collision audio review: WrestleDream go-home block with Will Ospreay and Andrade vs. Samoa Joe and Tommaso...",
-      "link": "https://prowrestling.net/site/2026/10/15/10-14-powells-aew-dynamite-and-collision-audio-review-wrestledream-go-home-block-with-will-ospreay-and-andrade-vs-samoa-joe-and-tommaso-ciampa-clockwork-carnage-qualifying-matches/",
-      "t": "7h",
-      "dt": "2026-10-15T05:50:52+00:00"
+      "h": "AEW media call report: Tony Khan takes media questions heading into Saturday’s AEW WrestleDream pay-per-view",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW media call report: Tony Khan takes media questions heading into Saturday’s AEW WrestleDream pay-per-view appeared first on Pro Wrestling...",
+      "link": "https://prowrestling.net/site/2026/10/15/aew-media-call-report-tony-khan-takes-media-questions-heading-into-saturdays-aew-wrestledream-pay-per-view/",
+      "t": "29m",
+      "dt": "2026-10-15T17:45:07+00:00"
     },
     {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 10/14 – WKPWP after Dynamite: Keller & Kline discuss Copeland’s retirement announcement, Clockwork Carnage build, FTR-MCMG Best of Five, more (108 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Dennis Kline to discuss the three-and-a-half hour Dynamite/Collision episode including Adam Copeland announcing his plan to retire...",
-      "link": "https://www.pwtorch.com/site/2026/10/15/free-podcast-10-14-wkpwp-after-dynamite-keller-kline-discuss-copelands-retirement-announcement-clockwork-carnage-build-ftr-mcmg-best-of-five-more-108-min/",
-      "t": "8h",
-      "dt": "2026-10-15T05:16:37+00:00"
+      "src": "ProWrestling.net",
+      "h": "Powell’s AEW Dynamite Hit List: A long night of predictable Clockwork Carnage qualifying matches, a better third hour than usual, Mojo Brookzz bombs",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: A long night of predictable Clockwork Carnage qualifying matches, a better third hour than usual, Mojo Brookzz...",
+      "link": "https://prowrestling.net/site/2026/10/15/powells-aew-dynamite-hit-list-a-long-night-of-predictable-clockwork-carnage-qualifying-matches-a-better-third-hour-than-usual-mojo-brookzz-bombs/",
+      "t": "47m",
+      "dt": "2026-10-15T17:27:25+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Tony Khan Announces Jamie Hayter Is Injured, Hopes She’ll Be Back In ‘A Couple Of Weeks’",
-      "p": "Jamie Hayter is sidelined, as announced by Tony Khan. Following the three-hour broadcast of AEW Dynamite/Collision, All Elite Wrestling President Tony Khan went live on X. He broke the news that...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-announces-jamie-hayter-is-injured-hopes-shell-be-back-in-a-couple-of-weeks/",
-      "t": "8h",
-      "dt": "2026-10-15T04:35:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tease for incoming wrestler airs on AEW Dynamite/Collision WrestleDream go-home show",
-      "p": "The impending arrival of former WWE titleholder Ilja Dragunov in AEW appears to be imminent. During Wednesday’s three-hour Dynamite and Collision, a 22-second vignette aired showing a well-dressed...",
-      "link": "https://www.f4wonline.com/news/aew/ilja-dragunov-aew-debut-vignette/",
-      "t": "9h",
-      "dt": "2026-10-15T03:55:11+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "TBS title four-way match, Jericho vs. Nick Wayne 3 among late additions to AEW WrestleDream",
-      "p": "Four matches were added to AEW WrestleDream on Wednesday night, including the trilogy between Chris Jericho and Nick Wayne. The post TBS title four-way match, Jericho vs. Nick Wayne 3 among late...",
-      "link": "https://www.postwrestling.com/2026/10/14/tbs-title-four-way-match-jericho-vs-nick-wayne-3-among-late-additions-to-aew-wrestledream/",
-      "t": "9h",
-      "dt": "2026-10-15T03:48:00+00:00"
+      "h": "Kyle Fletcher Can’t Put A Timeline On His Potential AEW World Title Win",
+      "p": "Kyle Fletcher doesn’t want to put a timeline on a potential AEW World Championship win. Fletcher is at the top of the list when it comes to wrestlers that are expected to be a world champion in...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-cant-put-a-timeline-on-his-potential-aew-world-title-win/",
+      "t": "1h",
+      "dt": "2026-10-15T16:19:09+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Darby Allin Retains TNT Title, Qualifies For Clockwork Carnage In AEW Collision Main Event",
-      "p": "Darby Allin retained the TNT Championship and qualified for this weekend's Clockwork Carnage in the main event of \"AEW Collision.\"",
-      "link": "https://www.wrestlinginc.com/2287229/darby-allin-retains-tnt-title-qualifies-clockwork-carnage-aew-collision-main-event/",
-      "t": "9h",
-      "dt": "2026-10-15T03:37:58+00:00"
+      "h": "Former ROH Star 'Cauliflower' Chase Brown Reportedly Dies",
+      "p": "Independent wrestler \"Cauliflower\" Chase Brown passed away at 41. He had a brief stint in ROH. Tributes for Brown poured in from the wrestling world.",
+      "link": "https://www.wrestlinginc.com/2287754/roh-cauliflower-chase-brown-dead/",
+      "t": "1h",
+      "dt": "2026-10-15T16:16:40+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mike Bailey: Clockwork Carnage Is The Kind Of Match That I’ve Worked So Hard To Be Perfectly Prepared For",
+      "p": "Mike Bailey is fired up for AEW WrestleDream. The pay-per-view is set to feature the company’s first Clockwork Carnage match. With the intrigue of a new stipulation and the stacked lineup of...",
+      "link": "https://www.fightful.com/wrestling-news/mike-bailey-clockwork-carnage-is-the-kind-of-match-that-ive-worked-so-hard-to-be-perfectly-prepared-for/",
+      "t": "2h",
+      "dt": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kevin Knight: Nobody Got Into This Business To Be A Heel Or Babyface",
+      "p": "Kevin Knight just wants to win. Throughout his current stint with AEW, Knight has spent time as both a babyface and a heel. Aligned with the Don Callis Family, ‘The Jet’ currently sits on the evil...",
+      "link": "https://www.fightful.com/wrestling-news/kevin-knight-nobody-got-into-this-business-to-be-a-heel-or-babyface/",
+      "t": "3h",
+      "dt": "2026-10-15T15:14:13+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW WrestleDream lineup: Clockwork Carnage match for the AEW World Championship finalized, the card for Saturday’s pay-per-view and pre-show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream lineup: Clockwork Carnage match for the AEW World Championship finalized, the card for Saturday’s pay-per-view and pre-show...",
+      "link": "https://prowrestling.net/site/2026/10/15/aew-wrestledream-lineup-clockwork-carnage-match-for-the-aew-world-championship-finalized-the-card-for-saturdays-pay-per-view-and-pre-show/",
+      "t": "3h",
+      "dt": "2026-10-15T15:00:48+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Mick Foley Says He's Better Suited To Tony Khan's Management Style",
+      "p": "Mick Foley is pleased to be part of AEW, praising the management style of the promotion's president, Tony Khan, which resonates deeply with him.",
+      "link": "https://www.wrestlinginc.com/2287310/aew-mick-foley-tony-khan-better-suited-management-style/",
+      "t": "3h",
+      "dt": "2026-10-15T15:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Injury Forcing Change To AEW WrestleDream 2026 Card",
+      "p": "The AEW WrestleDream 2026 card has been forced to change due to an injury to a current champion.",
+      "link": "https://www.wrestlinginc.com/2287519/aew-wrestledream-2026-jamie-hayter-injury-change-card/",
+      "t": "4h",
+      "dt": "2026-10-15T14:02:14+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Challengers finalized for Clockwork Carnage match at AEW WrestleDream",
-      "p": "After a set of qualifiers on Wednesday, the field of challengers is now confirmed for the first-ever Clockwork Carnage match at AEW WrestleDream. Joining AEW World Champion Will Ospreay, Samoa Joe...",
-      "link": "https://www.f4wonline.com/news/aew/challengers-finalized-clockwork-carnage-aew-wrestledream/",
-      "t": "9h",
-      "dt": "2026-10-15T03:37:44+00:00"
+      "h": "AEW performer to replace Tommy End/Malakai Black for UK booking",
+      "p": "It was recently confirmed that Tommy End/Malakai Black/Aleister Black would not be available for the upcoming PROGRESS Wrestling Chapter 199: BoneStorm event. Former WWE name and PROGRESS co-owner...",
+      "link": "https://www.f4wonline.com/news/aew/eddie-kingston-aew-malakai-black-tommy-end-progress-bonestorm/",
+      "t": "4h",
+      "dt": "2026-10-15T13:47:08+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub lineup: Title matches set for tonight’s show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: Title matches set for tonight’s show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/15/roh-on-honorclub-lineup-title-matches-set-for-tonights-show-2/",
+      "t": "4h",
+      "dt": "2026-10-15T13:30:46+00:00"
     }
   ]
 }

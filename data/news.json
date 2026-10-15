@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-14T23:11:10.901039+00:00",
+  "updated": "2026-10-15T01:26:48.397381+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "ok (5 AEW items)"
+    "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "PWTorch",
-      "h": "Mike Bailey believes he is very close to being in the position he wants to be in AEW with spot in Clockwork Carnage match at WrestleDream",
-      "p": "Mike Bailey has had several opportunities at singles titles in AEW to date and although they have come up short, they have impressed with each opportunity given to them in those matches. They...",
-      "link": "https://www.pwtorch.com/site/2026/10/14/mike-bailey-believes-he-is-very-close-to-being-in-the-position-he-wants-to-be-in-aew-with-spot-in-clockwork-carnage-match-at-wrestledream/",
-      "t": "0m",
-      "dt": "2026-10-14T23:10:17+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kenny Omega Eyeing NJPW Wrestle Kingdom Return: 'I'm Aiming For The Dome'",
-      "p": "Former AEW World Champion Kenny Omega is back in New Japan Pro Wrestling, and he has championship aspirations at the Tokyo Dome.",
-      "link": "https://www.wrestlinginc.com/2287138/aew-njpw-wrestle-kingdom-kenny-omega-eyeing-return-aiming-dome/",
-      "t": "1h",
-      "dt": "2026-10-14T22:10:56+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite/Collision preview: Big tag team match, Clockwork Carnage qualifiers, trios matches on tonight’s three-hour block",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: Big tag team match, Clockwork Carnage qualifiers, trios matches on tonight’s three-hour block appeared first on...",
-      "link": "https://prowrestling.net/site/2026/10/14/aew-dynamite-collision-preview-big-tag-team-match-clockwork-carnage-qualifiers-trios-matches-on-tonights-three-hour-block/",
-      "t": "1h",
-      "dt": "2026-10-14T21:55:20+00:00"
-    },
-    {
       "src": "Fightful",
-      "h": "Mike Bailey Was Hesitant To Join Another Group In AEW, Says It Was Interesting To Be A Lone Wolf",
-      "p": "Mike Bailey is happy with his spot in United Empire. Bailey surprised fans by joining the group on the September 23 episode of AEW Dynamite. Whether it be luck or a wave of momentum, ‘Speedball’...",
-      "link": "https://www.fightful.com/wrestling-news/mike-bailey-was-hesitant-to-join-another-group-in-aew-says-it-was-interesting-to-be-a-lone-wolf/",
-      "t": "2h",
-      "dt": "2026-10-14T21:00:36+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite And Collision Results 10/14/26 W/ Live Updates",
-      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" and \"AEW Collision\" on October 14, 2026, with the remaining WrestleDream Clockwork Carnage Match!",
-      "link": "https://www.wrestlinginc.com/2286195/aew-dynamite-collision-october-14-2026-results/",
-      "t": "2h",
-      "dt": "2026-10-14T21:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW WrestleDream lineup: Clockwork Carnage match for the AEW World Championship headlines Saturday’s pay-per-view event",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream lineup: Clockwork Carnage match for the AEW World Championship headlines Saturday’s pay-per-view event appeared first on Pro...",
-      "link": "https://prowrestling.net/site/2026/10/14/aew-wrestledream-lineup-clockwork-carnage-match-for-the-aew-world-championship-headlines-saturdays-pay-per-view-event-2/",
-      "t": "3h",
-      "dt": "2026-10-14T19:15:26+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Samoa Joe On Losing Pac & Andy Williams: 'In These Times We Band Together'",
-      "p": "Samoa Joe has commented on the recent deaths of AEW stars Pac and Andy Williams (AKA The Butcher).",
-      "link": "https://www.wrestlinginc.com/2286904/aew-samoa-joe-pac-ben-satterley-andy-williams-butcher-losing-band-together/",
-      "t": "4h",
-      "dt": "2026-10-14T18:47:53+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW WrestleDream 2026: Draws & Duds",
-      "p": "From the Clockwork Carnage match to two-out-of-three-falls, here are our biggest draws and biggest duds for AEW WrestleDream 2026!",
-      "link": "https://www.wrestlinginc.com/2286867/aew-wrestledream-2026-draws-duds-clockwork-carnage-will-ospreay-new-level-bandido/",
-      "t": "4h",
-      "dt": "2026-10-14T18:13:17+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE PREVIEW (10/14): Announced matches, location, ticket sales, how to watch",
-      "p": "When: WEDNESDAY, OCTOBER 14, 2026 Where: CLEVELAND, OHIO AT WOLSTEIN CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,771 tickets had been...",
-      "link": "https://www.pwtorch.com/site/2026/10/14/aew-dynamite-preview-10-14-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "6h",
-      "dt": "2026-10-14T17:05:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "David Finlay Details Aspects Of AEW He's Still Adjusting To",
-      "p": "David Finlay, who joined AEW earlier this year, has discussed the major changes he has had to get used to since leaving NJPW.",
-      "link": "https://www.wrestlinginc.com/2286335/aew-david-final-aspects-adjusting/",
-      "t": "7h",
-      "dt": "2026-10-14T15:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Reveals Date And Location For ROH Final Battle 2026",
-      "p": "Ring of Honor will be returning to Texas this December as ROH Final Battle 2026 will take place in San Antonio.",
-      "link": "https://www.wrestlinginc.com/2286499/aew-roh-final-battle-2026-december-4-boeing-center-san-antonio/",
-      "t": "8h",
-      "dt": "2026-10-14T14:42:28+00:00"
+      "h": "FTR And Motor City Machine Guns To Battle In Best-Of-Five Series, First Match Set For AEW WrestleDream",
+      "p": "FTR. Motor City Machine Guns. Best-Of-Five. On this week’s episode of AEW Dynamite, the duo of Dax Harwood and Cash Wheeler came out to complain about not being the number one contenders to the...",
+      "link": "https://www.fightful.com/wrestling-news/ftr-and-motor-city-machine-guns-to-battle-in-best-of-five-series-first-match-set-for-aew-wrestledream/",
+      "t": "1m",
+      "dt": "2026-10-15T01:24:46+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Kevin Knight spent the night at the hospital with Steven Borden after AEW All Out spot",
-      "p": "Kevin Knight checked up on Steven Borden and spent the night at the hospital with him after he hit his head on the mat during a spot in their AEW All Out match. During the tag team match at AEW...",
-      "link": "https://www.f4wonline.com/news/aew/kevin-knight-spent-the-night-at-the-hospital-with-steven-borden-after-aew-all-out-spot/",
-      "t": "10h",
-      "dt": "2026-10-14T12:39:54+00:00"
+      "h": "Adam Copeland reveals 2027 will be his last year in wrestling",
+      "p": "On AEW Dynamite tonight, Adam Copeland made a big announcement about his in-ring future. The 52-year-old Copeland cut a promo on the episode where he revealed that 2027 will be his last year as an...",
+      "link": "https://www.f4wonline.com/news/aew/adam-copeland-reveals-2027-will-be-his-last-year-in-wrestling/",
+      "t": "20m",
+      "dt": "2026-10-15T01:06:28+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Adam Copeland Announces 2027 Retirement, Provides Injury Update On Christian Cage",
+      "p": "Adam Copeland announced that 2027 will be his final year in the ring, and provided an injury update on Christian Cage following his victory on \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2287200/adam-copeland-announces-2027-retirement-provides-injury-update-christian-cage/",
+      "t": "26m",
+      "dt": "2026-10-15T01:00:19+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Adam Copeland: 2027 Will Be My Last Year In Professional Wrestling",
+      "p": "Adam Copeland provides an update on his in-ring career. On this week’s episode of AEW Dynamite, Adam Copeland was able to defeat Josh Alexander to qualify for the Clockwork Carnage match at AEW...",
+      "link": "https://www.fightful.com/wrestling-news/adam-copeland-2027-will-be-my-last-year-in-professional-wrestling/",
+      "t": "28m",
+      "dt": "2026-10-15T00:57:45+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Adam Copeland Says Christian Cage Suffered Broken Ribs And Punctured Lung At AEW All Out",
+      "p": "Adam Copeland provides an update on Christian Cage. On this week’s episode of AEW Dynamite, Adam Copeland was able to defeat Josh Alexander to qualify for the Clockwork Carnage match at AEW...",
+      "link": "https://www.fightful.com/wrestling-news/adam-copeland-says-christian-cage-suffered-broken-ribs-and-punctured-lung-at-aew-all-out/",
+      "t": "37m",
+      "dt": "2026-10-15T00:49:25+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jon Moxley Suffers Rare Pinfall Loss On 10/14 AEW Dynamite",
+      "p": "Jake Doyle scores a historic win over Jon Moxley. This week’s episode of AEW Dynamite opened with a trios contest that pitted Death Riders (Jon Moxley, Gabe Kidd, & Daniel Garcia) against the Don...",
+      "link": "https://www.fightful.com/wrestling-news/jon-moxley-suffers-rare-pinfall-loss-on-10-14-aew-dynamite/",
+      "t": "44m",
+      "dt": "2026-10-15T00:42:06+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE RESULTS (10/14): Keller’s report on Ospreay & Andrade vs. Ciampa & Joe, Darby vs. Hechicero, Copeland vs. Alexander, Death Riders vs. Callis Family",
+      "p": "AEW DYNAMITE REPORT OCTOBER 14, 2026 CLEVELAND, OHIO AT WOLSTEIN CENTER AIRED ON DELAY ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Walke Stewart...",
+      "link": "https://www.pwtorch.com/site/2026/10/14/aew-dynamite-results-10-14-kellers-report-on-ospreay-andrade-vs-ciampa-joe-darby-vs-hechicero-copeland-vs-alexander-death-riders-vs-callis-family/",
+      "t": "55m",
+      "dt": "2026-10-15T00:31:11+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite/Collision 10/14/26 Review (XL Live 11:05pm ET)",
+      "p": "TONIGHT — John Pollock & Wai Ting review AEW Dynamite/Collision feat. Ospreay & Andrade vs Joe & Ciampa. XL: Saudi tennis postponement, Max Caster on TNA firing Live 11:05pm ET for Café members....",
+      "link": "https://www.postwrestling.com/2026/10/14/aew-dynamite-collision-10-14-26-review-xl-live-1105pm-et/",
+      "t": "1h",
+      "dt": "2026-10-14T23:45:01+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite/Collision results (10/14): Powell’s live review of Will Ospreay and Andrade vs. Samoa Joe and Tommaso Ciampa, Clockwork Carnage qualifying matches",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision results (10/14): Powell’s live review of Will Ospreay and Andrade vs. Samoa Joe and Tommaso Ciampa, Clockwork Carnage...",
+      "link": "https://prowrestling.net/site/2026/10/14/aew-dynamite-collision-results-10-14-powells-live-review-of-will-ospreay-and-andrade-vs-samoa-joe-and-tommaso-ciampa-clockwork-carnage-qualifying-matches/",
+      "t": "1h",
+      "dt": "2026-10-14T23:30:11+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Results (10/14/2026): Will Ospreay & Andrade in Tag Action, Clockwork Carnage Qualifiers, Mercedes Mone, Dani Luna, More",
+      "p": "Full results for the October 14, 2026, edition of AEW Dynamite on TBS, live from the Wolstein Center in Cleveland, Ohio. On October 14, 2026, All Elite Wrestling hosted a new episode of Dynamite...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-10-14-2026-will-ospreay-andrade-in-tag-action-clockwork-carnage-qualifiers-mercedes-mone-dani-luna-more/",
+      "t": "2h",
+      "dt": "2026-10-14T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite & Collision live results: Five Clockwork Carnage qualifiers",
+      "p": "AEW presents a three-hour block of programming tonight, with Dynamite and Collision from the Wolstein Center in Cleveland, Ohio. This week’s show is the final stop before Saturday’s WrestleDream...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-collision-live-results-october-14-2026/",
+      "t": "2h",
+      "dt": "2026-10-14T23:15:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Samoa Joe Names Queen Aminata & Trish Adora As AEW Wrestlers That People Need To Pay More Attention To",
+      "p": "Samoa Joe puts the spotlight on the future. There’s a new interview with Samoa Joe that was conducted by TV Insider. Joe was asked to mention some talents in AEW who he thinks people should be...",
+      "link": "https://www.fightful.com/wrestling-news/samoa-joe-names-queen-aminata-trish-adora-as-aew-wrestlers-that-people-need-to-pay-more-attention-to/",
+      "t": "2h",
+      "dt": "2026-10-14T23:14:04+00:00"
     }
   ]
 }

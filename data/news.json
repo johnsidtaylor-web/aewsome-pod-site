@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-15T18:14:56.946028+00:00",
+  "updated": "2026-10-15T21:24:44.587541+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
-    "ProWrestling.net": "ok (6 AEW items)"
+    "ProWrestling.net": "FAILED (HTTP Error 403: Forbidden)"
   },
   "items": [
     {
-      "src": "Wrestling Inc",
-      "h": "TNA & Swole Announce Benefit For IBD Charity",
-      "p": "Former AEW wrestler and ASÉ Wrestling commentator, Big Swole and TNA Wrestling are teaming up for a special raffle and silent auction to benefit IBD foundation",
-      "link": "https://www.wrestlinginc.com/2287928/swole-tna-announce-benefit-ibd-charity/",
+      "src": "Wrestling Observer",
+      "h": "AEW star Mike Bailey reflects on emotional homecoming in Montreal",
+      "p": "Mike Bailey recently reflected on his emotional Montreal homecoming during AEW Redemption. Earlier this year, Bailey participated in and won the AEW International Title number one Contender Ladder...",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-mike-bailey-reflects-on-emotional-homecoming-in-montreal/",
+      "t": "4m",
+      "dt": "2026-10-15T21:20:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: Adam Copeland sets final year, Tony Khan on Skydance & Crown Jewel concerns",
+      "p": "John Kleinchester covers the news, including Adam Copeland’s retirement, Tony Khan on AEW’s future under Skydance & concern over Crown Jewel. Available for Double Double & Espresso members at...",
+      "link": "https://www.postwrestling.com/2026/10/15/post-news-adam-copeland-sets-final-year-tony-khan-on-skydance-crown-jewel-concerns/",
+      "t": "14m",
+      "dt": "2026-10-15T21:10:31+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Pollock & Ting: TALK (Vol. 21)",
+      "p": "Take a stroll through the neighbourhood with John Pollock and Wai Ting for their first-ever WALK & TALK, discussing parenthood, 3-hour Dynamites, and tipping culture. The post Pollock & Ting: TALK...",
+      "link": "https://www.postwrestling.com/2026/10/15/pollock-ting-talk-vol-21/",
       "t": "18m",
-      "dt": "2026-10-15T17:56:33+00:00"
+      "dt": "2026-10-15T21:06:31+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "AEW media call report: Tony Khan takes media questions heading into Saturday’s AEW WrestleDream pay-per-view",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW media call report: Tony Khan takes media questions heading into Saturday’s AEW WrestleDream pay-per-view appeared first on Pro Wrestling...",
-      "link": "https://prowrestling.net/site/2026/10/15/aew-media-call-report-tony-khan-takes-media-questions-heading-into-saturdays-aew-wrestledream-pay-per-view/",
-      "t": "29m",
-      "dt": "2026-10-15T17:45:07+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: A long night of predictable Clockwork Carnage qualifying matches, a better third hour than usual, Mojo Brookzz bombs",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: A long night of predictable Clockwork Carnage qualifying matches, a better third hour than usual, Mojo Brookzz...",
-      "link": "https://prowrestling.net/site/2026/10/15/powells-aew-dynamite-hit-list-a-long-night-of-predictable-clockwork-carnage-qualifying-matches-a-better-third-hour-than-usual-mojo-brookzz-bombs/",
-      "t": "47m",
-      "dt": "2026-10-15T17:27:25+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kyle Fletcher Can’t Put A Timeline On His Potential AEW World Title Win",
-      "p": "Kyle Fletcher doesn’t want to put a timeline on a potential AEW World Championship win. Fletcher is at the top of the list when it comes to wrestlers that are expected to be a world champion in...",
-      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-cant-put-a-timeline-on-his-potential-aew-world-title-win/",
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE HITS & MISSES (10/14): Adam Copeland retirement plan announcement, Mojo Brookzz with New Level, Death Riders vs. Callis Family, Andrade still not serious enough",
+      "p": "We are on the cusp of another AEW PPV with a go-home show in Cleveland setting the stage. I’m handling the first two hours of the three hour broadcast here so let’s go! HITS – [...]",
+      "link": "https://www.pwtorch.com/site/2026/10/15/aew-dynamite-hits-misses-10-14-adam-copeland-retirement-plan-announcement-mojo-brookzz-with-new-level-death-riders-vs-callis-family-andrade-still-not-serious-enough/",
       "t": "1h",
-      "dt": "2026-10-15T16:19:09+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Former ROH Star 'Cauliflower' Chase Brown Reportedly Dies",
-      "p": "Independent wrestler \"Cauliflower\" Chase Brown passed away at 41. He had a brief stint in ROH. Tributes for Brown poured in from the wrestling world.",
-      "link": "https://www.wrestlinginc.com/2287754/roh-cauliflower-chase-brown-dead/",
-      "t": "1h",
-      "dt": "2026-10-15T16:16:40+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mike Bailey: Clockwork Carnage Is The Kind Of Match That I’ve Worked So Hard To Be Perfectly Prepared For",
-      "p": "Mike Bailey is fired up for AEW WrestleDream. The pay-per-view is set to feature the company’s first Clockwork Carnage match. With the intrigue of a new stipulation and the stacked lineup of...",
-      "link": "https://www.fightful.com/wrestling-news/mike-bailey-clockwork-carnage-is-the-kind-of-match-that-ive-worked-so-hard-to-be-perfectly-prepared-for/",
-      "t": "2h",
-      "dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kevin Knight: Nobody Got Into This Business To Be A Heel Or Babyface",
-      "p": "Kevin Knight just wants to win. Throughout his current stint with AEW, Knight has spent time as both a babyface and a heel. Aligned with the Don Callis Family, ‘The Jet’ currently sits on the evil...",
-      "link": "https://www.fightful.com/wrestling-news/kevin-knight-nobody-got-into-this-business-to-be-a-heel-or-babyface/",
-      "t": "3h",
-      "dt": "2026-10-15T15:14:13+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW WrestleDream lineup: Clockwork Carnage match for the AEW World Championship finalized, the card for Saturday’s pay-per-view and pre-show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream lineup: Clockwork Carnage match for the AEW World Championship finalized, the card for Saturday’s pay-per-view and pre-show...",
-      "link": "https://prowrestling.net/site/2026/10/15/aew-wrestledream-lineup-clockwork-carnage-match-for-the-aew-world-championship-finalized-the-card-for-saturdays-pay-per-view-and-pre-show/",
-      "t": "3h",
-      "dt": "2026-10-15T15:00:48+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Mick Foley Says He's Better Suited To Tony Khan's Management Style",
-      "p": "Mick Foley is pleased to be part of AEW, praising the management style of the promotion's president, Tony Khan, which resonates deeply with him.",
-      "link": "https://www.wrestlinginc.com/2287310/aew-mick-foley-tony-khan-better-suited-management-style/",
-      "t": "3h",
-      "dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Injury Forcing Change To AEW WrestleDream 2026 Card",
-      "p": "The AEW WrestleDream 2026 card has been forced to change due to an injury to a current champion.",
-      "link": "https://www.wrestlinginc.com/2287519/aew-wrestledream-2026-jamie-hayter-injury-change-card/",
-      "t": "4h",
-      "dt": "2026-10-15T14:02:14+00:00"
+      "dt": "2026-10-15T20:20:10+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW performer to replace Tommy End/Malakai Black for UK booking",
-      "p": "It was recently confirmed that Tommy End/Malakai Black/Aleister Black would not be available for the upcoming PROGRESS Wrestling Chapter 199: BoneStorm event. Former WWE name and PROGRESS co-owner...",
-      "link": "https://www.f4wonline.com/news/aew/eddie-kingston-aew-malakai-black-tommy-end-progress-bonestorm/",
-      "t": "4h",
-      "dt": "2026-10-15T13:47:08+00:00"
+      "h": "Tony Khan AEW media call notes: Skydance changes, updates on Mick Foley, Hurt Syndicate & Taya Valkyrie",
+      "p": "Ahead of this weekend’s AEW WrestleDream, Tony Khan held his customary Thursday media call where he was asked about his new media partners at Skydance, Adam Copeland’s retirement, Christian Cage’s...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-aew-media-skydance-changes-mick-foley-hurt-syndicate-taya-valkyrie/",
+      "t": "1h",
+      "dt": "2026-10-15T20:11:05+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub lineup: Title matches set for tonight’s show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: Title matches set for tonight’s show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/15/roh-on-honorclub-lineup-title-matches-set-for-tonights-show-2/",
-      "t": "4h",
-      "dt": "2026-10-15T13:30:46+00:00"
+      "src": "Wrestling Observer",
+      "h": "WOL: Death of Chase Brown, Dynamite, another slap on the wrist for Vince",
+      "p": "Wrestling Observer Live with Bryan Alvarez and Filthy Tom Lawlor is back with tons to talk about including the death of Chase Brown, AEW Dynamite and Collision recap from Wednesday night leading...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-death-of-chase-brown-dynamite-another-slap-on-the-wrist-for-vince/",
+      "t": "1h",
+      "dt": "2026-10-15T20:09:42+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Tony Khan WrestleDream media call notes: Skydance’s potential effect on AEW, Adam Copeland in the Tokyo Dome, Jon Moxley as locker room leader",
+      "p": "On the AEW WrestleDream media call, Tony Khan addressed Skydance's potential effect on AEW, as well as Adam Copeland's retirement plans. The post Tony Khan WrestleDream media call notes:...",
+      "link": "https://www.postwrestling.com/2026/10/15/tony-khan-wrestledream-media-call-notes-skydances-potential-effect-on-aew-adam-copeland-in-the-tokyo-dome-jon-moxley-as-locker-room-leader/",
+      "t": "1h",
+      "dt": "2026-10-15T20:05:26+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan gives hint on Adam Copeland wrestling at the Tokyo Dome",
+      "p": "If Adam Copeland is going to wrestle at the Tokyo Dome before his career is done, AEW head Tony Khan isn’t giving any answers as to whether that is going to happen…but didn’t say it won’t. During...",
+      "link": "https://www.f4wonline.com/news/aew/adam-copeland-tony-khan-tokyo-dome-aew-njpw-2027/",
+      "t": "2h",
+      "dt": "2026-10-15T19:18:46+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mystery Wrestling Direct Set For 11/5, AEW Dynamite Highlights, More | Fight Size",
+      "p": "Here is your fight size update for Thursday, October 15, 2026. – Mystery Wrestling will be hosting a Direct event to reveal their future plans: What's coming up for #MysteryWrestling in 2027? Find...",
+      "link": "https://www.fightful.com/wrestling-news/mystery-wrestling-direct-set-for-11-5-aew-dynamite-highlights-more-fight-size/",
+      "t": "2h",
+      "dt": "2026-10-15T19:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan: Jon Moxley Has Been A Great Leader For AEW Both In And Out Of The Ring",
+      "p": "Tony Khan continues to praise Jon Moxley. Ahead of AEW WrestleDream on October 17, Tony Khan hosted his usual media call. Bill Bodkin of Pop Break took a moment to ask Khan about Jon Moxley and...",
+      "link": "https://www.fightful.com/wrestling-news/334110-tony-khan-jon-moxley/",
+      "t": "2h",
+      "dt": "2026-10-15T18:57:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Addresses Possibility Of Adam Copeland Wrestling At Tokyo Dome: “I’ll Leave Some Mystery To That”",
+      "p": "The possibility of Adam Copeland working The Dome. On the three-hour broadcast of AEW Dynamite/Collision on October 14th, Adam Copeland revealed that he’ll be retiring from pro wrestling in 2027....",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-addresses-possibility-of-adam-copeland-wrestling-at-tokyo-dome-ill-leave-some-mystery-to-that/",
+      "t": "2h",
+      "dt": "2026-10-15T18:44:58+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Doesn’t Know How Far Adam Copeland Will Wrestle Into 2027",
+      "p": "Tony Khan comments on Adam Copeland’s retirement. On this week’s episode of AEW Dynamite, Copeland shocked fans around the world by revealing that 2027 will be his last year in professional...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-doesnt-know-how-far-adam-copeland-will-wrestle-into-2027/",
+      "t": "2h",
+      "dt": "2026-10-15T18:27:44+00:00"
     }
   ]
 }

@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-16T16:34:20.985240+00:00",
+  "updated": "2026-10-16T19:55:43.361311+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Observer",
-      "h": "Two injured wrestlers reportedly backstage at AEW Dynamite",
-      "p": "It sounds like Steven Borden is continuing to progress well following the scary injury he suffered at AEW All Out 2026. PWInsider reports that Borden was backstage this Wednesday at AEW’s...",
-      "link": "https://www.f4wonline.com/news/aew/two-injured-wrestlers-reportedly-backstage-at-aew-dynamite/",
-      "t": "7m",
-      "dt": "2026-10-16T16:26:34+00:00"
+      "h": "Tony Khan announces ROH Final Battle 2026 details",
+      "p": "The date and location for ROH Final Battle 2026 are now officially locked in. After listings for the event began appearing online earlier this week, Tony Khan confirmed today that Final Battle...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-announces-roh-final-battle-2026-details/",
+      "t": "13m",
+      "dt": "2026-10-16T19:42:06+00:00"
     },
     {
       "src": "Fightful",
-      "h": "ROH TV Results (10/15): Action Andretti vs. ELP",
-      "p": "Ring of Honor Wrestling aired the latest episode of ROH TV on October 15. The event aired on HonorClub. Full results (via 411Mania) are below. ROH TV Results (10/15) AR Fox & Top Flight (Dante...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-10-15-action-andretti-vs-elp/",
-      "t": "11m",
-      "dt": "2026-10-16T16:23:06+00:00"
+      "h": "ROH Final Battle Officially Announced For December 4",
+      "p": "ROH Final Battle is official. Tony Khan announced that ROH Final Battle will take place on December 4 from the Boeing Center in San Antonio, Texas. Ticket on-sale dates: VIP/Premium: Tues, 10/20,...",
+      "link": "https://www.fightful.com/wrestling-news/roh-final-battle-officially-announced-for-december-4/",
+      "t": "23m",
+      "dt": "2026-10-16T19:32:03+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Tony Khan Provides Injury Update On AEW's Steven Borden",
-      "p": "Steven Borden was injured during his debut pay-per-view match at AEW All Out 2026. Tony Khan provided an update during the WrestleDream media call.",
-      "link": "https://www.wrestlinginc.com/2288867/aew-tony-khan-steven-borden-injury-update/",
-      "t": "28m",
-      "dt": "2026-10-16T16:05:43+00:00"
+      "h": "AEW Collision Viewership & Ratings Report: 10/10/26",
+      "p": "Viewership for \"AEW Collision Grand Slam: France\" on October 10 was down slightly in viewership compared to the previous week's episode.",
+      "link": "https://www.wrestlinginc.com/2289184/aew-collision-viewership-ratings-october-10-2026/",
+      "t": "29m",
+      "dt": "2026-10-16T19:25:54+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Mike Bailey: If I Wanted To Make Money With Foot Content, I Would Have To Do Some Very Specific Stuff, Which I Will Not",
-      "p": "Don’t expect Mike Bailey to enter the feet market. During a recent interview, Sean Ross Sapp took a moment to show Bailey a photo that he took at a recent episode of AEW Collision. The picture...",
-      "link": "https://www.fightful.com/wrestling-news/333937-mike-bailey-piggies/",
-      "t": "34m",
-      "dt": "2026-10-16T16:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Exclusive note on AEW’s original Clockwork Carnage plans",
-      "p": "The lineup for AEW’s Clockwork Carnage match at WrestleDream 2026 might have looked different had Jay White not gotten injured. A first-of-its-kind match will headline this Saturday’s pay-per-view...",
-      "link": "https://www.f4wonline.com/news/aew/exclusive-note-on-aews-original-clockwork-carnage-plans/",
-      "t": "47m",
-      "dt": "2026-10-16T15:46:50+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Collision Grand Slam France Dips Below 400,000 Viewers On TNT, Key Demo Rating Also Down",
-      "p": "AEW Collision viewership information for October 10. Wrestlenomics reports that AEW Collision drew 372,000 viewers on TNT on Saturday, October 10. This number is down from the 415,000 viewers the...",
-      "link": "https://www.fightful.com/wrestling-news/aew-collision-grand-slam-france-dips-below-400000-viewers-on-tnt-key-demo-rating-also-down/",
+      "src": "POST Wrestling",
+      "h": "AEW hopes to find a pay-per-view attraction in Clockwork Carnage | Column",
+      "p": "WrestleDream will set out to launch a new concept with the hope that the stipulation and eight of its top stars will be a recipe for success. The post AEW hopes to find a pay-per-view attraction...",
+      "link": "https://www.postwrestling.com/2026/10/16/aew-hopes-to-find-a-pay-per-view-attraction-in-clockwork-carnage-column/",
       "t": "1h",
-      "dt": "2026-10-16T15:27:40+00:00"
+      "dt": "2026-10-16T18:55:13+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Samoa Joe Highlights Two AEW Stars With 'Unrealized' Potential",
-      "p": "Samoa Joe sees a lot of potential in several AEW stars, but there are some who he feels haven't reached their full potential.",
-      "link": "https://www.wrestlinginc.com/2288826/aew-samoa-joe-queen-aminata-action-andretti-unrealized-potential/",
+      "h": "Backstage Update On AEW Status Of Ilja Dragunov & Kairi Sane Ahead Of WrestleDream",
+      "p": "A new report clarifies the statuses of former WWE stars Ilja Dragunov and Kairi Sane ahead of this weekend's AEW WrestleDream event.",
+      "link": "https://www.wrestlinginc.com/2289111/aew-wrestledream-2026-ilja-dragunov-kairi-sane-status/",
       "t": "1h",
-      "dt": "2026-10-16T15:24:04+00:00"
+      "dt": "2026-10-16T18:40:12+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "AEW Collision rating (10/10): How did Grand Slam France Night Two perform?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (10/10): How did Grand Slam France Night Two perform? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/16/aew-collision-rating-10-10-how-did-grand-slam-france-night-two-perform/",
+      "h": "10/16 Dot Net Weekly audio show: Barnett and Powell share AEW WrestleDream predictions and discuss Adam Copeland retiring in 2027, Christian Cage, the 946, Max Caster",
+      "p": "By Jake Barnett (@jakebarnett) and... The post 10/16 Dot Net Weekly audio show: Barnett and Powell share AEW WrestleDream predictions and discuss Adam Copeland retiring in 2027, Christian Cage,...",
+      "link": "https://prowrestling.net/site/2026/10/16/10-16-dot-net-weekly-audio-show-barnett-and-powell-share-aew-wrestledream-predictions-and-discuss-adam-copeland-retiring-in-2027-christian-cage-the-946-max-caster/",
       "t": "1h",
-      "dt": "2026-10-16T15:00:10+00:00"
+      "dt": "2026-10-16T18:32:24+00:00"
     },
     {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub results (10/15): Action Andretti vs. El Phantasmo for the ROH TV Title, Deonna Purrazzo vs. Emi Sakura for the ROH Pure Championship, The Beast Mortos vs. QT Marshall",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (10/15): Action Andretti vs. El Phantasmo for the ROH TV Title, Deonna Purrazzo vs. Emi Sakura for the ROH Pure...",
-      "link": "https://prowrestling.net/site/2026/10/16/roh-on-honorclub-results-10-15-action-andretti-vs-el-phantasmo-for-the-roh-tv-title-deonna-purrazzo-vs-emi-sakura-for-the-roh-pure-championship-the-beast-mortos-vs-qt-marshall/",
+      "src": "Fightful",
+      "h": "Update On KAIRI-AEW",
+      "p": "Update on KAIRI and All Elite Wrestling. Earlier in September, Fightful Select reported that KAIRI and AEW had held talks. In an update to the situation weeks later, it was reported that she...",
+      "link": "https://www.fightful.com/wrestling-news/update-on-kairi-aew/",
       "t": "1h",
-      "dt": "2026-10-16T14:50:12+00:00"
+      "dt": "2026-10-16T18:14:21+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Backstage Report On AEW's Early Plans For Adam Copeland's 2027 Retirement",
-      "p": "AEW's Adam Copeland is set to retire in 2027, and a new report has revealed where he could potentially wrestle the final match of his legendary career.",
-      "link": "https://www.wrestlinginc.com/2288533/aew-adam-copeland-early-plans-2027-retirement-backstage-report/",
-      "t": "2h",
-      "dt": "2026-10-16T14:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's New Level Detail How Swerve Strickland Pitched Them On Forming A Trio",
-      "p": "The New Level have settled into AEW almost seamlessly thanks to Swerve Strickland, who reportedly pitched the idea of the three men being a trio.",
-      "link": "https://www.wrestlinginc.com/2288701/aew-kofi-austin-creed-swerve-strickland-new-level-pitched-forming-trio/",
-      "t": "2h",
-      "dt": "2026-10-16T13:51:16+00:00"
+      "h": "AEW's Jeff Jarrett Weighs In On Max Caster's Controversial Rap From TNA BFG 2026",
+      "p": "Listen, listen. Hall of Famer Jeff Jarrett reacts to Max Caster's controversial rap promo from TNA Bound for Glory.",
+      "link": "https://www.wrestlinginc.com/2289069/aew-jeff-jarrett-max-caster-rap-tna-bound-for-glory-2026-controversy/",
+      "t": "1h",
+      "dt": "2026-10-16T18:14:21+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Former champion reacts to Tony Khan considering him as one of the pillars of AEW",
-      "p": "Kevin Knight reacted to Tony Khan naming him one of the future pillars of AEW. Speaking with TMZ’s Inside The Ring, Knight expressed gratitude for the recognition by Khan especially when he feels...",
-      "link": "https://www.f4wonline.com/news/aew/former-champion-reacts-to-tony-khan-considering-him-as-one-of-the-pillars-of-aew/",
-      "t": "3h",
-      "dt": "2026-10-16T12:48:20+00:00"
+      "h": "AEW updates Full Gear 2026 logo to pay tribute to PAC",
+      "p": "PAC helped inspire the name of AEW Full Gear — and the logo for this year’s edition has been updated to pay tribute to him. The new Full Gear logo includes multiple nods to PAC. A “Black Arrow...",
+      "link": "https://www.f4wonline.com/uncategorized/aew-updates-full-gear-2026-logo-to-pay-tribute-to-pac/",
+      "t": "1h",
+      "dt": "2026-10-16T18:08:23+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tony Khan Discusses Jay White & Jamie Hayter Missing AEW WrestleDream Due To Injuries",
+      "p": "Ahead of WrestleDream, AEW CEO Tony Khan addresses the recent injuries sustained by Jay White and Jamie Hayter.",
+      "link": "https://www.wrestlinginc.com/2289004/aew-wrestledream-2026-tony-khan-switchblade-jay-white-jamie-hayter-missing-injuries/",
+      "t": "2h",
+      "dt": "2026-10-16T17:33:21+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan On Adam Copeland Wrestling In NJPW: 'Stay Tuned'",
+      "p": "On \"AEW Dynamite\", Adam Copeland announced 2027 would be his last year as a wrestler. He recently posted a list of venue he wants to wrestle in and has one left",
+      "link": "https://www.wrestlinginc.com/2288999/aew-njpw-tony-khan-adam-copeland-tokyo-dome-stay-tuned/",
+      "t": "2h",
+      "dt": "2026-10-16T17:30:10+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW pays tribute to PAC in updated graphic for Full Gear pay-per-view",
+      "p": "AEW is honoring the late Benjamin Satterley ‘PAC’ in its artwork for next month’s Full Gear pay-per-view. The post AEW pays tribute to PAC in updated graphic for Full Gear pay-per-view appeared...",
+      "link": "https://www.postwrestling.com/2026/10/16/aew-pays-tribute-to-pac-in-updated-graphic-for-full-gear-pay-per-view/",
+      "t": "2h",
+      "dt": "2026-10-16T17:27:38+00:00"
     }
   ]
 }

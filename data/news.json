@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T05:48:40.098737+00:00",
+  "updated": "2026-10-16T11:16:55.295752+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -13,10 +13,34 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "CM Punk and Samoa Joe go 60 minutes – ROH Joe vs Punk II | WON Flashback",
+      "p": "October 16 2004 was the date of ROH Joe vs Punk II, which saw CM Punk and Samoa Joe go 60 minutes in the main event for a bonafide ***** classic. You can find Dave’s review of the matches from ROH...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/cm-punk-samoa-joe-60-minutes-roh-joe-vs-punk-ii-won-flashback/",
+      "t": "1h",
+      "dt": "2026-10-16T09:41:02+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW WrestleDream 2026 ticket sales update (10-16-2026)",
+      "p": "AEW WrestleDream 2026 takes place on Saturday, October 17 from the Addition Financial Arena in Orlando, Florida. According to the latest update from WrestleTix, there have been 6,005 tickets...",
+      "link": "https://www.f4wonline.com/news/aew/aew-wrestledream-2026-ticket-sales-update-10-16-2026/",
+      "t": "3h",
+      "dt": "2026-10-16T07:46:13+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tommaso Ciampa discusses possibility of wrestling in NJPW",
+      "p": "Having wrestled in Japan just once, and that too under WWE, AEW’s Tommaso Ciampa recently discussed the possibility of wrestling in NJPW. Recently, speaking to James Dator in an interview on SB...",
+      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-discusses-possibility-of-wrestling-in-njpw/",
+      "t": "4h",
+      "dt": "2026-10-16T07:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "Austin Creed reveals Swerve Strickland’s original pitch for New Level in AEW",
       "p": "After parting ways with WWE in early 2026, the New Level [Austin Creed & Kofi] made their AEW debut at All In 2026 in London, UK, where they teamed up with Swerve Strickland. Just minutes after...",
       "link": "https://www.f4wonline.com/news/aew/austin-creed-reveals-swerve-stricklands-original-pitch-for-new-level-in-aew/",
-      "t": "18m",
+      "t": "5h",
       "dt": "2026-10-16T05:30:00+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Tony Khan media call highlights: Paramount Skydance purchase, potential PPV distribution changes under Paramout Skydance, Cage injury at All Out, injury updates, more",
       "p": "The following are highlights from Tony Khan’s media call held on Thursday ahead of AEW’s WrestleDream PPV on Oct. 17… -Dave Meltzer of The Wrestling Observer asked Tony Khan about the Paramount...",
       "link": "https://www.pwtorch.com/site/2026/10/15/tony-khan-media-call-highlights-paramount-skydance-purchase-ppv-distribution-changes-under-paramout-skydance-cage-injury-at-all-out-injury-update-more/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-10-16T04:22:05+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "B&V: AEW Dynamite and Collision and Overrun and a poor edition of NXT. A struggle.",
       "p": "The Bryan & Vinny Show is back and it was a rougher week than usual, Dynamite and Collision and Overrun was a whopping three hours and 28 minutes of really not that great a show, and worse, NXT...",
       "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/bv-aew-dynamite-and-collision-and-overrun-and-a-poor-edition-of-nxt-a-struggle/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-10-16T04:14:45+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "New details reported on Adam Copeland’s AEW retirement speculated location",
       "p": "With Adam Copeland set to retire in 2027, a new report has emerged regarding his retirement location. According to WrestleVotes Radio on Fightful Select, recent speculation suggests that Tony...",
       "link": "https://www.f4wonline.com/news/aew/new-details-reported-on-adam-copelands-aew-retirement-speculated-location/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-10-16T04:14:13+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "AEW COLLISION HITS & MISSES (10/14): Ricochet qualifies for Clockwork Carnage, Moxley shows rare emotion, Wayne and Jericho interact, Darby vs. Hechicero",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HIT — NICK WAYNE SEGMENT The entire Nick Wayne segment [...]",
       "link": "https://www.pwtorch.com/site/2026/10/15/aew-collision-hits-misses-10-14-ricochet-qualifies-for-clockwork-carnage-moxley-shows-rare-emotion-wayne-and-jericho-interact-darby-vs-hechicero/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-10-16T03:46:57+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "AEW Could Hold Adam Copeland’s Final Match In Toronto",
       "p": "A note about Adam Copeland’s retirement announcement. On the three-hour broadcast of AEW Dynamite/Collision on October 14th, Adam Copeland made the announcement that 2027 will be the final year of...",
       "link": "https://www.fightful.com/wrestling-news/aew-could-hold-adam-copelands-final-match-in-toronto/",
-      "t": "2h",
+      "t": "8h",
       "dt": "2026-10-16T03:06:26+00:00"
     },
     {
@@ -64,23 +88,15 @@
       "h": "VIP PODCAST 10/15 – The Fix w/Todd & Wade (pt. 1 of 2): MITB review, Bound for Glory review, Max Caster, Crown Jewel location concerns, KOPW review, AEW WrestleDream preview, more (120 min.)",
       "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: A review of New Japan King of Pro...",
       "link": "https://www.pwtorch.com/site/2026/10/15/vip-podcast-10-15-the-fix-w-todd-wade-pt-1-of-2-mitb-review-bound-for-glory-review-max-caster-crown-jewel-location-concerns-kopw-review-aew-wrestledream-preview-more-120-min/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-10-16T02:45:28+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH TV live results: Action Andretti vs. ELP, Deonna Purrazzo vs. Emi Sakura",
-      "p": "Ring of Honor is back on HonorClub tonight. Scheduled for this week’s show, we will see Tony Nese, Ariya Daivari, and Beef together in a six-man tag team match. Their opponents have not been...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-action-andretti-elp-deonna-purrazzo-emi-sakura/",
-      "t": "6h",
-      "dt": "2026-10-15T23:15:00+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW president Tony Khan reveals how he acted as a leader and kept the AEW roster tied together before and after Pac’s death, says he draws inspiration from Jaguars head coach Liam Coen",
       "p": "AEW president Tony Khan has to juggle a large roster of talented men and women and recently with the untimely deaths of Pac and The Butcher Andy Williams, Khan has shown his ability as a [...]",
       "link": "https://www.pwtorch.com/site/2026/10/15/aew-president-tony-khan-reveals-how-he-acted-as-a-leader-and-kept-the-aew-roster-tied-together-before-and-after-pacs-death-says-he-draws-inspiration-to-make-tough-decisions-from-jacksonville-jaguar/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-10-15T22:19:28+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Adam Copeland Reportedly Replaced Injured AEW Star In Clockwork Carnage",
       "p": "Adam Copeland's spot in the upcoming Clockwork Carnage match reportedly came about because of an injury to another AEW star.",
       "link": "https://www.wrestlinginc.com/2288299/adam-copeland-reportedly-replaced-injured-aew-star-jay-white-clockwork-carnage/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-10-15T21:39:14+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Former WWE wrestler announces retirement after 24-year career",
-      "p": "Zach Gowen has officially retired from wrestling. Gowen posted to Facebook on Wednesday, expressing his gratitude to the fans who supported him. He also called wrestling for AEW in front of his...",
-      "link": "https://www.f4wonline.com/news/wwe/former-wwe-wrestler-announces-retirement-after-24-year-career/",
-      "t": "8h",
-      "dt": "2026-10-15T21:33:56+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star Mike Bailey reflects on emotional homecoming in Montreal",
-      "p": "Mike Bailey recently reflected on his emotional Montreal homecoming during AEW Redemption. Earlier this year, Bailey participated in and won the AEW International Title number one Contender Ladder...",
-      "link": "https://www.f4wonline.com/news/aew/aew-star-mike-bailey-reflects-on-emotional-homecoming-in-montreal/",
-      "t": "8h",
-      "dt": "2026-10-15T21:20:00+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-16T19:55:43.361311+00:00",
+  "updated": "2026-10-16T22:48:26.968077+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,75 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW WrestleDream 2026 Predictions: Wrestling Inc. Picks The Winners",
+      "p": "We're one night away from ﻿AEW WrestleDream 2026, and as always, it's time for Wrestling Inc. to predict the winners of each and every match!",
+      "link": "https://www.wrestlinginc.com/2289390/aew-wrestledream-2026-predictions-winners/",
+      "t": "42m",
+      "dt": "2026-10-16T22:06:05+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "Mike Bailey on having a spot in the Clockwork Carnage match at AEW WrestleDream, and his marriage to Veda Scott",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post Mike Bailey on having a spot in the Clockwork Carnage match at AEW WrestleDream, and his marriage to Veda Scott appeared first on Pro Wrestling...",
+      "link": "https://prowrestling.net/site/2026/10/16/mike-bailey-on-having-a-spot-in-the-clockwork-carnage-match-at-aew-wrestledream-and-his-marriage-to-veda-scott/",
+      "t": "1h",
+      "dt": "2026-10-16T21:37:12+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Austin Creed teases new video game channel following AEW arrival",
+      "p": "Austin Creed isn’t able to host UpUpDownDown anymore, but he might have another video game-related project in the works. The former Xavier Woods was the face of WWE’s UpUpDownDown gaming channel...",
+      "link": "https://www.f4wonline.com/news/aew/austin-creed-teases-new-video-game-channel-following-aew-arrival/",
+      "t": "1h",
+      "dt": "2026-10-16T21:25:24+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Big Vinny V: Is there any chance Will Ospreay loses in Clockwork Carnage?",
+      "p": "AEW is trying a wacky new match at WrestleDream called Clockwork Carnage. The match will feature AEW World Champion Will Ospreay defending his title against seven different contenders … though...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-is-there-any-chance-will-ospreay-loses-in-clockwork-carnage/",
+      "t": "1h",
+      "dt": "2026-10-16T21:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Wrestling Weekly: Carmelo Hayes joins The 946 & our AEW WrestleDream predictions",
+      "p": "There’s been a Carmelo Hayes sighting and it’s a big one! On a new Wrestling Weely, Les Thatcher and Vic Sosa share their thoughts on ‘Melo as the latest member of The 946 as well as predictions...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-carmelo-hayes-joins-the-946-our-aew-wrestledream-predictions/",
+      "t": "2h",
+      "dt": "2026-10-16T20:30:58+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOL: Montez Ford gets sued, Hardys’ 35th anniversary & AEW WrestleDream preview",
+      "p": "Wrestling Observer Live is back on a FILTHY FUN FRIDAY with Tom Lawlor solo talking all the news and notes including Montez Ford thrusting himself in to a lawsuit, the 35-year anniversary of The...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-montez-lawsuit-hardys-35th-wrestledream-preview/",
+      "t": "2h",
+      "dt": "2026-10-16T20:30:27+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "All Elite Wrestling Updates AEW Full Gear 2026 Poster With Black Arrows And Pac’s Empty Chair",
+      "p": "All Elite Wrestling has updated the poster for AEW Full Gear. AEW Full Gear 2026 takes place on November 14 at the Mortgage Matchup Center in Phoenix, Arizona. The first Full Gear event took place...",
+      "link": "https://www.fightful.com/wrestling-news/all-elite-wrestling-updates-aew-full-gear-2026-poster-with-black-arrows-and-pacs-empty-chair/",
+      "t": "2h",
+      "dt": "2026-10-16T20:23:54+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW name replacing Shotzi Blackheart in CMLL Women’s Grand Prix",
+      "p": "An AEW name has been added to CMLL’s 2026 Women’s International Grand Prix in place of Shotzi Blackheart. Earlier this week, Blackheart shared that she wouldn’t be able to make her scheduled trip...",
+      "link": "https://www.f4wonline.com/news/aew/aew-name-replacing-shotzi-blackheart-in-cmll-womens-grand-prix/",
+      "t": "2h",
+      "dt": "2026-10-16T20:22:35+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Tony Khan announces ROH Final Battle 2026 details",
       "p": "The date and location for ROH Final Battle 2026 are now officially locked in. After listings for the event began appearing online earlier this week, Tony Khan confirmed today that Final Battle...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-announces-roh-final-battle-2026-details/",
-      "t": "13m",
+      "t": "3h",
       "dt": "2026-10-16T19:42:06+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "ROH Final Battle Officially Announced For December 4",
       "p": "ROH Final Battle is official. Tony Khan announced that ROH Final Battle will take place on December 4 from the Boeing Center in San Antonio, Texas. Ticket on-sale dates: VIP/Premium: Tues, 10/20,...",
       "link": "https://www.fightful.com/wrestling-news/roh-final-battle-officially-announced-for-december-4/",
-      "t": "23m",
+      "t": "3h",
       "dt": "2026-10-16T19:32:03+00:00"
     },
     {
@@ -32,7 +96,7 @@
       "h": "AEW Collision Viewership & Ratings Report: 10/10/26",
       "p": "Viewership for \"AEW Collision Grand Slam: France\" on October 10 was down slightly in viewership compared to the previous week's episode.",
       "link": "https://www.wrestlinginc.com/2289184/aew-collision-viewership-ratings-october-10-2026/",
-      "t": "29m",
+      "t": "3h",
       "dt": "2026-10-16T19:25:54+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "AEW hopes to find a pay-per-view attraction in Clockwork Carnage | Column",
       "p": "WrestleDream will set out to launch a new concept with the hope that the stipulation and eight of its top stars will be a recipe for success. The post AEW hopes to find a pay-per-view attraction...",
       "link": "https://www.postwrestling.com/2026/10/16/aew-hopes-to-find-a-pay-per-view-attraction-in-clockwork-carnage-column/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-10-16T18:55:13+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Update On AEW Status Of Ilja Dragunov & Kairi Sane Ahead Of WrestleDream",
-      "p": "A new report clarifies the statuses of former WWE stars Ilja Dragunov and Kairi Sane ahead of this weekend's AEW WrestleDream event.",
-      "link": "https://www.wrestlinginc.com/2289111/aew-wrestledream-2026-ilja-dragunov-kairi-sane-status/",
-      "t": "1h",
-      "dt": "2026-10-16T18:40:12+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "10/16 Dot Net Weekly audio show: Barnett and Powell share AEW WrestleDream predictions and discuss Adam Copeland retiring in 2027, Christian Cage, the 946, Max Caster",
-      "p": "By Jake Barnett (@jakebarnett) and... The post 10/16 Dot Net Weekly audio show: Barnett and Powell share AEW WrestleDream predictions and discuss Adam Copeland retiring in 2027, Christian Cage,...",
-      "link": "https://prowrestling.net/site/2026/10/16/10-16-dot-net-weekly-audio-show-barnett-and-powell-share-aew-wrestledream-predictions-and-discuss-adam-copeland-retiring-in-2027-christian-cage-the-946-max-caster/",
-      "t": "1h",
-      "dt": "2026-10-16T18:32:24+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Update On KAIRI-AEW",
-      "p": "Update on KAIRI and All Elite Wrestling. Earlier in September, Fightful Select reported that KAIRI and AEW had held talks. In an update to the situation weeks later, it was reported that she...",
-      "link": "https://www.fightful.com/wrestling-news/update-on-kairi-aew/",
-      "t": "1h",
-      "dt": "2026-10-16T18:14:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Jeff Jarrett Weighs In On Max Caster's Controversial Rap From TNA BFG 2026",
-      "p": "Listen, listen. Hall of Famer Jeff Jarrett reacts to Max Caster's controversial rap promo from TNA Bound for Glory.",
-      "link": "https://www.wrestlinginc.com/2289069/aew-jeff-jarrett-max-caster-rap-tna-bound-for-glory-2026-controversy/",
-      "t": "1h",
-      "dt": "2026-10-16T18:14:21+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW updates Full Gear 2026 logo to pay tribute to PAC",
-      "p": "PAC helped inspire the name of AEW Full Gear — and the logo for this year’s edition has been updated to pay tribute to him. The new Full Gear logo includes multiple nods to PAC. A “Black Arrow...",
-      "link": "https://www.f4wonline.com/uncategorized/aew-updates-full-gear-2026-logo-to-pay-tribute-to-pac/",
-      "t": "1h",
-      "dt": "2026-10-16T18:08:23+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Discusses Jay White & Jamie Hayter Missing AEW WrestleDream Due To Injuries",
-      "p": "Ahead of WrestleDream, AEW CEO Tony Khan addresses the recent injuries sustained by Jay White and Jamie Hayter.",
-      "link": "https://www.wrestlinginc.com/2289004/aew-wrestledream-2026-tony-khan-switchblade-jay-white-jamie-hayter-missing-injuries/",
-      "t": "2h",
-      "dt": "2026-10-16T17:33:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan On Adam Copeland Wrestling In NJPW: 'Stay Tuned'",
-      "p": "On \"AEW Dynamite\", Adam Copeland announced 2027 would be his last year as a wrestler. He recently posted a list of venue he wants to wrestle in and has one left",
-      "link": "https://www.wrestlinginc.com/2288999/aew-njpw-tony-khan-adam-copeland-tokyo-dome-stay-tuned/",
-      "t": "2h",
-      "dt": "2026-10-16T17:30:10+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW pays tribute to PAC in updated graphic for Full Gear pay-per-view",
-      "p": "AEW is honoring the late Benjamin Satterley ‘PAC’ in its artwork for next month’s Full Gear pay-per-view. The post AEW pays tribute to PAC in updated graphic for Full Gear pay-per-view appeared...",
-      "link": "https://www.postwrestling.com/2026/10/16/aew-pays-tribute-to-pac-in-updated-graphic-for-full-gear-pay-per-view/",
-      "t": "2h",
-      "dt": "2026-10-16T17:27:38+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T06:53:18.894628+00:00",
+  "updated": "2026-10-17T11:34:27.325970+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "AEW WrestleDream Tailgate Brawl Preview, Start Time, How To Watch (10/17)",
+      "p": "Viewing information and lineup for AEW WrestleDream Tailgate Brawl on October 17, 2026. AEW WrestleDream Tailgate Brawl (October 17, 2026) Venue: Addition Financial Arena City: Orlando, FL Time: 7...",
+      "link": "https://www.fightful.com/wrestling-news/aew-wrestledream-tailgate-brawl-preview-start-time-how-to-watch-10-17/",
+      "t": "34m",
+      "dt": "2026-10-17T11:00:00+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "AEW WrestleDream lineup (Live Coverage Tonight): Clockwork Carnage match for the AEW World Championship headlines tonight’s pay-per-view",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream lineup (Live Coverage Tonight): Clockwork Carnage match for the AEW World Championship headlines tonight’s pay-per-view...",
       "link": "https://prowrestling.net/site/2026/10/17/aew-wrestledream-lineup-live-coverage-tonight-clockwork-carnage-match-for-the-aew-world-championship-headlines-tonights-pay-per-view/",
-      "t": "23m",
+      "t": "5h",
       "dt": "2026-10-17T06:30:05+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Austin Creed Had Thoughts About Joining AEW While He Was In WWE, Says He & Kofi Feel ‘Revitalized’",
       "p": "Austin Creed was curious about what that would look like. It is coming up on two full months since The New Level (Austin Creed & Kofi) arrived at All Elite Wrestling at All In 2026. They teamed...",
       "link": "https://www.fightful.com/wrestling-news/austin-creed-had-thoughts-about-joining-aew-while-he-was-in-wwe-says-he-kofi-feel-revitalized/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-10-17T04:00:00+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Speedball Mike Bailey says “the moves I do are the things I do best” is reason why their offense looks so realistic",
       "p": "AEW wrestler Mike Bailey, who is a high-flyer, has shown that they are capable of wrestling that style while also appearing to be in a real fight when they are in the ring. Not only [...]",
       "link": "https://www.pwtorch.com/site/2026/10/16/speedball-mike-bailey-says-the-moves-i-do-are-the-things-i-do-best-is-why-their-offense-in-the-ring-is-crisp-and-their-matches-look-like-they-are-in-a-fight/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-10-17T02:08:25+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "ROH Final Battle heading to Texas in December",
       "p": "Ring of Honor is taking its annual year-end show to Texas in December. The post ROH Final Battle heading to Texas in December appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW...",
       "link": "https://www.postwrestling.com/2026/10/16/roh-final-battle-heading-to-texas-in-december/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-10-17T02:08:05+00:00"
     },
     {
@@ -48,7 +56,7 @@
       "h": "AEW posts video teasing debut at WrestleDream pay-per-view",
       "p": "Another vignette has been posted by AEW with the tease of a debut at WrestleDream. The post AEW posts video teasing debut at WrestleDream pay-per-view appeared first on POST Wrestling | Podcasts,...",
       "link": "https://www.postwrestling.com/2026/10/16/aew-posts-video-teasing-debut-at-wrestledream-pay-per-view/",
-      "t": "4h",
+      "t": "9h",
       "dt": "2026-10-17T01:59:13+00:00"
     },
     {
@@ -56,7 +64,7 @@
       "h": "AEW posts second teaser for new wrestler, will debut at WrestleDream",
       "p": "Ilja Dragunov appears to be heading to WrestleDream. A second vignette aired on AEW’s social media channels on Friday afternoon, just two days after the first aired during the three-hour Dynamite...",
       "link": "https://www.f4wonline.com/news/aew/aew-posts-second-teaser-for-new-wrestler-will-debut-at-wrestledream/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-10-17T01:20:40+00:00"
     },
     {
@@ -64,7 +72,7 @@
       "h": "Big Audio Nightmare: NJPW King of Pro Wrestling recap, Wrestle Kingdom build & news",
       "p": "The Big Audio Nightmare is back with a solo edition as Adam Summers discusses the NJPW King of Pro Wrestling card, the build to Wrestle Kingdom, AEW’s Tokyo Dome involvement, and the latest news...",
       "link": "https://www.f4wonline.com/podcasts/big-audio-nightmare/big-audio-nightmare-njpw-king-of-pro-wrestling-recap-wrestle-kingdom-build-news/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-10-17T01:16:35+00:00"
     },
     {
@@ -72,23 +80,15 @@
       "h": "Adam Copeland Explains How Joining AEW Opened The Door To Historic Venues",
       "p": "AEW star Adam Copeland has stated that his ability to cross certain venues off his bucket list has helped him stay excited about wrestling.",
       "link": "https://www.wrestlinginc.com/2285813/adam-copeland-explains-aew-opened-door-historic-venues/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-10-17T01:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Posts New Teaser For Ilja Dragunov With AEW WrestleDream Tag",
-      "p": "Ilja Dragunov is coming to AEW. On Friday evening, AEW posted a new vignette for the impending arrival of Ilja Dragunov. Much like the vignette on AEW Collision, this vignette features Dragunov...",
-      "link": "https://www.fightful.com/wrestling-news/aew-posts-new-teaser-for-ilja-dragunov-with-aew-wrestledream-tag/",
-      "t": "6h",
-      "dt": "2026-10-17T00:10:12+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Late AEW Star Pac's Cause Of Death Reportedly Revealed",
       "p": "The cause of death for late AEW star Pac, real name Benjamin Satterley, was reportedly revealed.",
       "link": "https://www.wrestlinginc.com/2289441/aew-pac-cause-of-death-revealed-wwe-neville/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-10-16T23:25:33+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "Report On S. Farrelly (FKA Sheamus) Booking Convention On Same Day As AEW Full Gear",
       "p": "A new report revealed more on former WWE star Sheamus, now going by S. Farrelly, booking a convention date the same day as AEW Full Gear.",
       "link": "https://www.wrestlinginc.com/2289407/aew-full-gear-2026-s-farrelly-sheamus-booking-convention-same-day/",
-      "t": "7h",
+      "t": "12h",
       "dt": "2026-10-16T22:55:53+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW WrestleDream 2026 Predictions: Wrestling Inc. Picks The Winners",
       "p": "We're one night away from ﻿AEW WrestleDream 2026, and as always, it's time for Wrestling Inc. to predict the winners of each and every match!",
       "link": "https://www.wrestlinginc.com/2289390/aew-wrestledream-2026-predictions-winners/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-10-16T22:06:05+00:00"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-17T18:27:24.993058+00:00",
+  "updated": "2026-10-17T21:25:32.903471+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -13,10 +13,74 @@
   "items": [
     {
       "src": "Fightful",
+      "h": "Kenny Omega Not Originally Planned To Wrestle The Week of PAC Tribute Show",
+      "p": "Details on Kenny Omega returning to AEW. Fightful Select reports, “Kenny Omega was originally not supposed to wrestle the week of the PAC tribute show, but he decided to the day of. He returned to...",
+      "link": "https://www.fightful.com/wrestling-news/kenny-omega-not-originally-planned-to-wrestle-the-week-of-pac-tribute-show/",
+      "t": "4m",
+      "dt": "2026-10-17T21:21:21+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "More AEW Wrestlers Planned For NJPW Spots",
+      "p": "Details on AEW and NJPW plans. Fightful Select reports, “There are more AEW wrestlers planned for upcoming spots in Japan that will be revealed in the coming weeks.” Full details are available for...",
+      "link": "https://www.fightful.com/wrestling-news/more-aew-wrestlers-planned-for-njpw-spots/",
+      "t": "7m",
+      "dt": "2026-10-17T21:17:42+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kevin Nash Says He Was 'Moved' By Will Ospreay Vs. Kenny Omega At AEW All In",
+      "p": "WWE Hall of Famer Kevin Nash admits he was \"moved\" by the Will Ospreay vs. Kenny Omega AEW Men's World Championship main event match at All In",
+      "link": "https://www.wrestlinginc.com/2286111/aew-all-in-2026-kevin-nash-will-ospreay-kenny-omega-moved/",
+      "t": "1h",
+      "dt": "2026-10-17T20:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW WrestleDream Results 10/17/26 W/ Live Updates",
+      "p": "This is Wrestling Inc.'s live coverage for AEW WrestleDream 2026, with the first ever Clockwork Carnage Match for the AEW World Championship!",
+      "link": "https://www.wrestlinginc.com/2289498/aew-wrestledream-october-17-2026-results/",
+      "t": "1h",
+      "dt": "2026-10-17T20:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Anthony Bowens Details 'I'm Gay' Segment In AEW",
+      "p": "Anthony Bowens details his perspective regarding the \"I'm Gay\" segment in AEW, including confirming who pitched it and the crowd response to the segment",
+      "link": "https://www.wrestlinginc.com/2287662/aew-anthony-bowens-im-gay-segment-details/",
+      "t": "1h",
+      "dt": "2026-10-17T19:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Vignette For New AEW Star (Presumed To Be Ilja Dragunov) Promises WrestleDream Debut",
+      "p": "A vignette has teased a new arrival at AEW WrestleDream, and it's looking like it might be former WWE star Ilja Dragunov.",
+      "link": "https://www.wrestlinginc.com/2289637/aew-ilja-dragunov-vignette-wrestledream-2026-debut-wwe/",
+      "t": "2h",
+      "dt": "2026-10-17T19:25:25+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW WrestleDream Results (10/17/2026): Mercedes Moné vs. Thekla, Clockwork Carnage, More",
+      "p": "Results for the October 17, 2026, edition of AEW WrestleDream live from the Addition Financial Arena in Orlando, Florida. On October 17, 2026, All Elite Wrestling hosted a new edition of...",
+      "link": "https://www.fightful.com/wrestling-news/aew-wrestledream-results-10-17-2026-mercedes-mone-vs-thekla-clockwork-carnage-more/",
+      "t": "2h",
+      "dt": "2026-10-17T19:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 10/17 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: WrestleDream Preview + Tony Khan Media Q&A (164 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner preview Sunday’s WrestleDream pay-per-view from Orlando, Fla. They also...",
+      "link": "https://www.pwtorch.com/site/2026/10/17/free-podcast-10-17-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-wrestledream-preview-tony-khan-media-qa-164-min/",
+      "t": "2h",
+      "dt": "2026-10-17T18:49:00+00:00"
+    },
+    {
+      "src": "Fightful",
       "h": "Mercedes Mone: My Wrestle Dream Is To Wrestle Aja Kong",
       "p": "Mercedes Mone wants to wrestle Aja Kong. Aja Kong made her wrestling debut back in 1986 with All Japan Women’s Pro-Wrestling. Over the course of her wrestling career, she’s won numerous title...",
       "link": "https://www.fightful.com/wrestling-news/mercedes-mone-my-wrestle-dream-is-to-wrestle-aja-kong/",
-      "t": "32m",
+      "t": "3h",
       "dt": "2026-10-17T17:55:01+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "AEW's Willow Nightingale Explains How She Deals With Imposter Syndrome",
       "p": "Former AEW Women's World Champion Willow Nightingale has revealed how she is able to talk herself out of feeling imposter syndrome leading up to major shows.",
       "link": "https://www.wrestlinginc.com/2287036/aew-willow-nightingale-deals-imposter-syndrome/",
-      "t": "57m",
+      "t": "3h",
       "dt": "2026-10-17T17:30:00+00:00"
     },
     {
@@ -32,7 +96,7 @@
       "h": "AEW FEUD TRACKER: Barber’s evaluation of the feuds headed into WrestleDream including Clockwork Carnage, Wayne-Jericho, Mercedes-Thekla",
       "p": "INTRO Another PPV is upon us as WresteDream takes places tonight live from Orlando, Fla. Look, the build to this PPV has been rushed and barely surface-level, but it’s hard for me to be too [...]",
       "link": "https://www.pwtorch.com/site/2026/10/17/aew-feud-tracker-barbers-evaluation-of-the-feuds-headed-into-wrestledream-including-clockwork-carnage-wayne-jericho-mercedes-thekla/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-10-17T17:24:24+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "AEW WRESTLEDREAM PPV PREVIEW: JB’s look at full line-up with predictions including Clockwork Carnage, New Level & Swerve vs. Hangman & Brody & Bandido, Mox vs. Davis",
       "p": "PRE-SHOW FTR (Cash Wheeler & Dax Harwood) vs. Motor City Machine Guns (Alex Shelley & Chris Sabin) – match one in a best of five series Preview: This match was set up, impromptu, when The [...]",
       "link": "https://www.pwtorch.com/site/2026/10/17/aew-wrestledream-ppv-preview-jbs-look-at-full-line-up-with-predictions-including-clockwork-carnage-new-level-swerve-vs-hangman-brody-bandido-mox-vs-davis/",
-      "t": "1h",
-      "dt": "2026-10-17T16:53:06+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Darby Allin And Steve Borden Say Sting Had 'More Fun In AEW Than Anyone Else'",
-      "p": "Darby Allin and Steve Borden pull back the curtain on Sting's joyful time in AEW.",
-      "link": "https://www.wrestlinginc.com/2287271/darby-allin-steve-borden-say-sting-more-fun-aew-anyone-else/",
-      "t": "1h",
-      "dt": "2026-10-17T16:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's David Finlay Recalls WWE Ambitions Prior To NJPW Run",
-      "p": "AEW star David Finlay recalls having WWE ambitions prior to his New Japan run, and how his plan of six months in NJPW turned into eleven years",
-      "link": "https://www.wrestlinginc.com/2286138/aew-wwe-njpw-david-finlay-ambitions/",
-      "t": "3h",
-      "dt": "2026-10-17T15:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW WrestleDream 2026 ticket sales update on day of show",
-      "p": "AEW WrestleDream has just under 6,700 tickets distributed. According to a report from WrestleTix on Saturday morning, 6,695 tickets have been distributed for tonight’s AEW pay-per-view at Addition...",
-      "link": "https://www.f4wonline.com/news/aew/aew-wrestledream-2026-ticket-sales-update-on-day-of-show/",
-      "t": "3h",
-      "dt": "2026-10-17T14:38:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Updated AEW WrestleDream betting odds released",
-      "p": "Updated betting odds have been released for AEW WrestleDream. As of press time for this week’s edition of the Wrestling Observer Newsletter, odds were not available for the Clockwork Carnage match...",
-      "link": "https://www.f4wonline.com/news/aew/updated-aew-wrestledream-betting-odds-released/",
       "t": "4h",
-      "dt": "2026-10-17T14:19:03+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP 2006 BACK ISSUE – Pro Wrestling Torch #936 (October 14, 2006): Scott Hall Torch Talk part five, Radican reviews Pillman DVD, Keller’s ROH DVD review, WWE Family Reunion episode of Raw, WWE No Mercy PPV",
-      "p": "SUMMARY of #936 cover-dated October 14, 2006: This issue includes a cover story on WWE’s Family Reunion episode of Raw with main events set for the November PPVs… Sean Radican’s review of the...",
-      "link": "https://www.pwtorch.com/site/2026/10/17/vip-2006-back-issue-pro-wrestling-torch-936-october-14-2006-scott-hall-torch-talk-part-five-radican-reviews-pillman-dvd-kellers-roh-dvd-review-wwe-family-reunion-episode-of-raw-ww/",
-      "t": "5h",
-      "dt": "2026-10-17T13:00:30+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW WrestleDream 2026 Full & Final Card",
-      "p": "Orlando, Florida is ready for AEW WrestleDream 2026, and this is what fans have to look forward to on tonight's show.",
-      "link": "https://www.wrestlinginc.com/2288331/aew-wrestledream-2026-full-final-card-matches/",
-      "t": "5h",
-      "dt": "2026-10-17T13:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW WrestleDream preview & predictions: Born to run",
-      "p": "In the span of a few weeks, AEW lost two of its own in “The Butcher” Andy Williams and and PAC, aka Ben Satterley. Two active wrestlers, two people who were still working, doing the thing they...",
-      "link": "https://www.f4wonline.com/news/aew/born-to-run-aew-wrestledream-preview-and-predictions/",
-      "t": "6h",
-      "dt": "2026-10-17T12:18:08+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Murphy’s Blog: AEW WrestleDream predictions – Who will leave Clockwork Collision with the AEW World Championship? Will other titles change hands?",
-      "p": "By Don Murphy, ProWrestling.net Contributor... The post Murphy’s Blog: AEW WrestleDream predictions – Who will leave Clockwork Collision with the AEW World Championship? Will other titles change...",
-      "link": "https://prowrestling.net/site/2026/10/17/murphys-blog-aew-wrestledream-predictions-who-will-leave-clockwork-collision-with-the-aew-world-championship-will-other-titles-change-hands/",
-      "t": "6h",
-      "dt": "2026-10-17T12:00:43+00:00"
+      "dt": "2026-10-17T16:53:06+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-17T15:29:02.823271+00:00",
+  "updated": "2026-10-17T18:27:24.993058+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -13,66 +13,74 @@
   "items": [
     {
       "src": "Fightful",
-      "h": "Andrade El Idolo Explains Why He Left AEW In 2023",
-      "p": "Andrade El Idolo left AEW in 2023, returning to WWE, where Charlotte Flair, his wife at the time, worked. Andrade would leave WWE in September 2025, a year after he and Charlotte had divorced. He...",
-      "link": "https://www.fightful.com/wrestling-news/andrade-el-idolo-explains-why-he-left-aew-in-2023/",
-      "t": "1m",
-      "dt": "2026-10-17T15:27:32+00:00"
+      "h": "Mercedes Mone: My Wrestle Dream Is To Wrestle Aja Kong",
+      "p": "Mercedes Mone wants to wrestle Aja Kong. Aja Kong made her wrestling debut back in 1986 with All Japan Women’s Pro-Wrestling. Over the course of her wrestling career, she’s won numerous title...",
+      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-my-wrestle-dream-is-to-wrestle-aja-kong/",
+      "t": "32m",
+      "dt": "2026-10-17T17:55:01+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Willow Nightingale Explains How She Deals With Imposter Syndrome",
+      "p": "Former AEW Women's World Champion Willow Nightingale has revealed how she is able to talk herself out of feeling imposter syndrome leading up to major shows.",
+      "link": "https://www.wrestlinginc.com/2287036/aew-willow-nightingale-deals-imposter-syndrome/",
+      "t": "57m",
+      "dt": "2026-10-17T17:30:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW FEUD TRACKER: Barber’s evaluation of the feuds headed into WrestleDream including Clockwork Carnage, Wayne-Jericho, Mercedes-Thekla",
+      "p": "INTRO Another PPV is upon us as WresteDream takes places tonight live from Orlando, Fla. Look, the build to this PPV has been rushed and barely surface-level, but it’s hard for me to be too [...]",
+      "link": "https://www.pwtorch.com/site/2026/10/17/aew-feud-tracker-barbers-evaluation-of-the-feuds-headed-into-wrestledream-including-clockwork-carnage-wayne-jericho-mercedes-thekla/",
+      "t": "1h",
+      "dt": "2026-10-17T17:24:24+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW WRESTLEDREAM PPV PREVIEW: JB’s look at full line-up with predictions including Clockwork Carnage, New Level & Swerve vs. Hangman & Brody & Bandido, Mox vs. Davis",
+      "p": "PRE-SHOW FTR (Cash Wheeler & Dax Harwood) vs. Motor City Machine Guns (Alex Shelley & Chris Sabin) – match one in a best of five series Preview: This match was set up, impromptu, when The [...]",
+      "link": "https://www.pwtorch.com/site/2026/10/17/aew-wrestledream-ppv-preview-jbs-look-at-full-line-up-with-predictions-including-clockwork-carnage-new-level-swerve-vs-hangman-brody-bandido-mox-vs-davis/",
+      "t": "1h",
+      "dt": "2026-10-17T16:53:06+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Darby Allin And Steve Borden Say Sting Had 'More Fun In AEW Than Anyone Else'",
+      "p": "Darby Allin and Steve Borden pull back the curtain on Sting's joyful time in AEW.",
+      "link": "https://www.wrestlinginc.com/2287271/darby-allin-steve-borden-say-sting-more-fun-aew-anyone-else/",
+      "t": "1h",
+      "dt": "2026-10-17T16:30:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's David Finlay Recalls WWE Ambitions Prior To NJPW Run",
       "p": "AEW star David Finlay recalls having WWE ambitions prior to his New Japan run, and how his plan of six months in NJPW turned into eleven years",
       "link": "https://www.wrestlinginc.com/2286138/aew-wwe-njpw-david-finlay-ambitions/",
-      "t": "29m",
+      "t": "3h",
       "dt": "2026-10-17T15:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tommaso Ciampa: I’m A Unicorn In AEW In The Sense That I’m Like This Chameleon",
-      "p": "Tommaso Ciampa speaks on the fact he can switch from being character that leans babyface to one that leans heel in a short time. Since arriving in All Elite Wrestling, Ciampa has been a character...",
-      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-im-a-unicorn-in-aew-in-the-sense-that-im-like-this-chameleon/",
-      "t": "46m",
-      "dt": "2026-10-17T14:41:58+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW WrestleDream 2026 ticket sales update on day of show",
       "p": "AEW WrestleDream has just under 6,700 tickets distributed. According to a report from WrestleTix on Saturday morning, 6,695 tickets have been distributed for tonight’s AEW pay-per-view at Addition...",
       "link": "https://www.f4wonline.com/news/aew/aew-wrestledream-2026-ticket-sales-update-on-day-of-show/",
-      "t": "50m",
+      "t": "3h",
       "dt": "2026-10-17T14:38:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tommaso Ciampa Says His Match With Andrade El Idolo Will Be Special Because ‘He Is So Darn Talented’",
-      "p": "Tommaso Ciampa puts over Andrade El Idolo before their match at AEW WrestleDream, noting that he is ‘so darn talented.’ At AEW WrestleDream later tonight, Ciampa is set to challenge for Andrade El...",
-      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-says-his-match-with-andrade-el-idolo-will-be-special-because-he-is-so-darn-talented/",
-      "t": "1h",
-      "dt": "2026-10-17T14:20:40+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Updated AEW WrestleDream betting odds released",
       "p": "Updated betting odds have been released for AEW WrestleDream. As of press time for this week’s edition of the Wrestling Observer Newsletter, odds were not available for the Clockwork Carnage match...",
       "link": "https://www.f4wonline.com/news/aew/updated-aew-wrestledream-betting-odds-released/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-10-17T14:19:03+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay: Callum Newman Is Stuck In His Ways And I Just See Him As A Little Bit Of A Dickhead Right Now",
-      "p": "Will Ospreay speaks about the continuously growing tension between himself and NJPW’s United Empire leader Callum Newman. Over the past year or so, Newman and Ospreay have been inches away from...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-callum-newman-is-stuck-in-his-ways-and-i-just-see-him-as-a-little-bit-of-a-dickhead-right-now/",
-      "t": "1h",
-      "dt": "2026-10-17T13:35:28+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP 2006 BACK ISSUE – Pro Wrestling Torch #936 (October 14, 2006): Scott Hall Torch Talk part five, Radican reviews Pillman DVD, Keller’s ROH DVD review, WWE Family Reunion episode of Raw, WWE No Mercy PPV",
       "p": "SUMMARY of #936 cover-dated October 14, 2006: This issue includes a cover story on WWE’s Family Reunion episode of Raw with main events set for the November PPVs… Sean Radican’s review of the...",
       "link": "https://www.pwtorch.com/site/2026/10/17/vip-2006-back-issue-pro-wrestling-torch-936-october-14-2006-scott-hall-torch-talk-part-five-radican-reviews-pillman-dvd-kellers-roh-dvd-review-wwe-family-reunion-episode-of-raw-ww/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-10-17T13:00:30+00:00"
     },
     {
@@ -80,7 +88,7 @@
       "h": "AEW WrestleDream 2026 Full & Final Card",
       "p": "Orlando, Florida is ready for AEW WrestleDream 2026, and this is what fans have to look forward to on tonight's show.",
       "link": "https://www.wrestlinginc.com/2288331/aew-wrestledream-2026-full-final-card-matches/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-10-17T13:00:00+00:00"
     },
     {
@@ -88,7 +96,7 @@
       "h": "AEW WrestleDream preview & predictions: Born to run",
       "p": "In the span of a few weeks, AEW lost two of its own in “The Butcher” Andy Williams and and PAC, aka Ben Satterley. Two active wrestlers, two people who were still working, doing the thing they...",
       "link": "https://www.f4wonline.com/news/aew/born-to-run-aew-wrestledream-preview-and-predictions/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-10-17T12:18:08+00:00"
     },
     {
@@ -96,16 +104,8 @@
       "h": "Murphy’s Blog: AEW WrestleDream predictions – Who will leave Clockwork Collision with the AEW World Championship? Will other titles change hands?",
       "p": "By Don Murphy, ProWrestling.net Contributor... The post Murphy’s Blog: AEW WrestleDream predictions – Who will leave Clockwork Collision with the AEW World Championship? Will other titles change...",
       "link": "https://prowrestling.net/site/2026/10/17/murphys-blog-aew-wrestledream-predictions-who-will-leave-clockwork-collision-with-the-aew-world-championship-will-other-titles-change-hands/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-10-17T12:00:43+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW WrestleDream lineup (Live Coverage Tonight): Clockwork Carnage match for the AEW World Championship headlines tonight’s pay-per-view",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream lineup (Live Coverage Tonight): Clockwork Carnage match for the AEW World Championship headlines tonight’s pay-per-view...",
-      "link": "https://prowrestling.net/site/2026/10/17/aew-wrestledream-lineup-live-coverage-tonight-clockwork-carnage-match-for-the-aew-world-championship-headlines-tonights-pay-per-view/",
-      "t": "8h",
-      "dt": "2026-10-17T06:30:05+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-17T21:25:32.903471+00:00",
+  "updated": "2026-10-18T00:00:21.941365+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,27 +12,91 @@
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Kenny Omega Not Originally Planned To Wrestle The Week of PAC Tribute Show",
-      "p": "Details on Kenny Omega returning to AEW. Fightful Select reports, “Kenny Omega was originally not supposed to wrestle the week of the PAC tribute show, but he decided to the day of. He returned to...",
-      "link": "https://www.fightful.com/wrestling-news/kenny-omega-not-originally-planned-to-wrestle-the-week-of-pac-tribute-show/",
-      "t": "4m",
-      "dt": "2026-10-17T21:21:21+00:00"
+      "src": "PWTorch",
+      "h": "AEW WRESTLEDREAM RESULTS (10/17): Keller’s report on Clockwork Carnage, Mercedes vs. Thekla for AEW Title, Bucks vs. Knight & Fletcher for AEW Tag Titles, Moxley vs. Davis",
+      "p": "AEW WRESTLEDREAM PPV REPORT OCTOBER 17, 2026 ORLANDO, FLA. AT ADDITION FINANCIAL ARENA LIVE ON PPV (including PPV.com, HBO Max, Amazon Prime) REPORT BY WADE KELLER, PWTORCH EDITOR PRE-SHOW...",
+      "link": "https://www.pwtorch.com/site/2026/10/17/aew-wrestledream-results-10-17-kellers-report-on-clockwork-carnage-mercedes-vs-thekla-for-aew-title-bucks-vs-knight-fletcher-for-aew-tag-titles-moxley-vs-davis/",
+      "t": "10m",
+      "dt": "2026-10-17T23:49:51+00:00"
     },
     {
       "src": "Fightful",
-      "h": "More AEW Wrestlers Planned For NJPW Spots",
-      "p": "Details on AEW and NJPW plans. Fightful Select reports, “There are more AEW wrestlers planned for upcoming spots in Japan that will be revealed in the coming weeks.” Full details are available for...",
-      "link": "https://www.fightful.com/wrestling-news/more-aew-wrestlers-planned-for-njpw-spots/",
-      "t": "7m",
-      "dt": "2026-10-17T21:17:42+00:00"
+      "h": "Maya World Announces She’s Cleared",
+      "p": "Maya World cleared to return. Renee Paquette, Jeff Jarrett, and R.J. City are co-hosting the 2026 AEW WrestleDream BUY-IN. One of the guests they invited was former TBS Champion Maya World. World...",
+      "link": "https://www.fightful.com/wrestling-news/maya-world-announces-shes-cleared/",
+      "t": "16m",
+      "dt": "2026-10-17T23:43:40+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jay White Returns At AEW WrestleDream",
+      "p": "Jay White is back earlier than expected. White made his return at AEW WrestleDream Tailgate Brawl, teaming with The Gunns (Austin & Colten Gunn) & The Conglomeration (Orange Cassidy, Roderick...",
+      "link": "https://www.fightful.com/wrestling-news/jay-white-returns-at-aew-wrestledream/",
+      "t": "18m",
+      "dt": "2026-10-17T23:41:35+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW WrestleDream results: Powell’s live review of Clockwork Carnage for the AEW World Championship, Mercedes Mone vs. Thekla for the AEW Women’s Championship",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream results: Powell’s live review of Clockwork Carnage for the AEW World Championship, Mercedes Mone vs. Thekla for the AEW...",
+      "link": "https://prowrestling.net/site/2026/10/17/aew-wrestledream-results-powells-live-review-of-clockwork-carnage-for-the-aew-world-championship-mercedes-mone-vs-thekla-for-the-aew-womens-championship/",
+      "t": "29m",
+      "dt": "2026-10-17T23:30:46+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Don Callis Family Easily Wins At AEW WrestleDream",
+      "p": "It was light work for the Don Callis Family at AEW WrestleDream. During AEW WrestleDream Tailgate Brawl, the Don Callis Family trio of Jake Doyle, Josh Alexander, and Wardlow easily defeated Alex...",
+      "link": "https://www.fightful.com/wrestling-news/don-callis-family-easily-wins-at-aew-wrestledream/",
+      "t": "36m",
+      "dt": "2026-10-17T23:24:07+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Divine Dominion Defeat Sisters of Sin At AEW WrestleDream",
+      "p": "Divine Dominion (Lena Kross & Megan Bayne) get back on track at AEW WrestleDream At AEW WrestleDream Tailgate Brawl, Divine Dominion picked up a victory over Sisters of Sin (Julia Hart & Skye...",
+      "link": "https://www.fightful.com/wrestling-news/divine-dominion-defeat-sisters-of-sin-at-aew-wrestledream/",
+      "t": "41m",
+      "dt": "2026-10-17T23:18:21+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Watch: AEW WrestleDream BUY IN",
+      "p": "Watch: AEW WrestleDream BUY IN The post Watch: AEW WrestleDream BUY IN appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
+      "link": "https://www.fightful.com/wrestling-news/watch-aew-wrestledream-buy-in/",
+      "t": "1h",
+      "dt": "2026-10-17T22:55:22+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW WrestleDream live results: Will Ospreay defends world title in Clockwork Carnage match",
+      "p": "AEW WrestleDream takes place tonight at Addition Financial Arena in Orlando, Florida. The main event of the show will see AEW World Champion Will Ospreay defend his title in a Clockwork Carnage...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-wrestledream-2026-live-results/",
+      "t": "1h",
+      "dt": "2026-10-17T22:15:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW WrestleDream “Tailgate Brawl” pre-show results: Motor City Machine Guns vs. FTR in the first match of a best-of-five series",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream “Tailgate Brawl” pre-show results: Motor City Machine Guns vs. FTR in the first match of a best-of-five series appeared first...",
+      "link": "https://prowrestling.net/site/2026/10/17/aew-wrestledream-tailgate-brawl-pre-show-results-motor-city-machine-guns-vs-ftr-in-the-first-match-of-a-best-of-five-series/",
+      "t": "1h",
+      "dt": "2026-10-17T22:10:22+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite And Collision Averages Over 600,000 Viewers On Cable TV",
+      "p": "AEW Dynamite and Collision viewership and ratings information for the October 14 episode. Wrestlenomics reports that AEW Dynamite and Collision on October 14 averaged 614,000 viewers on TBS. This...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-and-collision-averages-over-600000-viewers-on-cable-tv/",
+      "t": "2h",
+      "dt": "2026-10-17T21:40:16+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Kevin Nash Says He Was 'Moved' By Will Ospreay Vs. Kenny Omega At AEW All In",
       "p": "WWE Hall of Famer Kevin Nash admits he was \"moved\" by the Will Ospreay vs. Kenny Omega AEW Men's World Championship main event match at All In",
       "link": "https://www.wrestlinginc.com/2286111/aew-all-in-2026-kevin-nash-will-ospreay-kenny-omega-moved/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-10-17T20:00:00+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "AEW WrestleDream Results 10/17/26 W/ Live Updates",
       "p": "This is Wrestling Inc.'s live coverage for AEW WrestleDream 2026, with the first ever Clockwork Carnage Match for the AEW World Championship!",
       "link": "https://www.wrestlinginc.com/2289498/aew-wrestledream-october-17-2026-results/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-10-17T20:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Anthony Bowens Details 'I'm Gay' Segment In AEW",
-      "p": "Anthony Bowens details his perspective regarding the \"I'm Gay\" segment in AEW, including confirming who pitched it and the crowd response to the segment",
-      "link": "https://www.wrestlinginc.com/2287662/aew-anthony-bowens-im-gay-segment-details/",
-      "t": "1h",
-      "dt": "2026-10-17T19:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Vignette For New AEW Star (Presumed To Be Ilja Dragunov) Promises WrestleDream Debut",
-      "p": "A vignette has teased a new arrival at AEW WrestleDream, and it's looking like it might be former WWE star Ilja Dragunov.",
-      "link": "https://www.wrestlinginc.com/2289637/aew-ilja-dragunov-vignette-wrestledream-2026-debut-wwe/",
-      "t": "2h",
-      "dt": "2026-10-17T19:25:25+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW WrestleDream Results (10/17/2026): Mercedes Moné vs. Thekla, Clockwork Carnage, More",
-      "p": "Results for the October 17, 2026, edition of AEW WrestleDream live from the Addition Financial Arena in Orlando, Florida. On October 17, 2026, All Elite Wrestling hosted a new edition of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-wrestledream-results-10-17-2026-mercedes-mone-vs-thekla-clockwork-carnage-more/",
-      "t": "2h",
-      "dt": "2026-10-17T19:00:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 10/17 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: WrestleDream Preview + Tony Khan Media Q&A (164 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner preview Sunday’s WrestleDream pay-per-view from Orlando, Fla. They also...",
-      "link": "https://www.pwtorch.com/site/2026/10/17/free-podcast-10-17-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-wrestledream-preview-tony-khan-media-qa-164-min/",
-      "t": "2h",
-      "dt": "2026-10-17T18:49:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mercedes Mone: My Wrestle Dream Is To Wrestle Aja Kong",
-      "p": "Mercedes Mone wants to wrestle Aja Kong. Aja Kong made her wrestling debut back in 1986 with All Japan Women’s Pro-Wrestling. Over the course of her wrestling career, she’s won numerous title...",
-      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-my-wrestle-dream-is-to-wrestle-aja-kong/",
-      "t": "3h",
-      "dt": "2026-10-17T17:55:01+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Willow Nightingale Explains How She Deals With Imposter Syndrome",
-      "p": "Former AEW Women's World Champion Willow Nightingale has revealed how she is able to talk herself out of feeling imposter syndrome leading up to major shows.",
-      "link": "https://www.wrestlinginc.com/2287036/aew-willow-nightingale-deals-imposter-syndrome/",
-      "t": "3h",
-      "dt": "2026-10-17T17:30:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW FEUD TRACKER: Barber’s evaluation of the feuds headed into WrestleDream including Clockwork Carnage, Wayne-Jericho, Mercedes-Thekla",
-      "p": "INTRO Another PPV is upon us as WresteDream takes places tonight live from Orlando, Fla. Look, the build to this PPV has been rushed and barely surface-level, but it’s hard for me to be too [...]",
-      "link": "https://www.pwtorch.com/site/2026/10/17/aew-feud-tracker-barbers-evaluation-of-the-feuds-headed-into-wrestledream-including-clockwork-carnage-wayne-jericho-mercedes-thekla/",
-      "t": "4h",
-      "dt": "2026-10-17T17:24:24+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW WRESTLEDREAM PPV PREVIEW: JB’s look at full line-up with predictions including Clockwork Carnage, New Level & Swerve vs. Hangman & Brody & Bandido, Mox vs. Davis",
-      "p": "PRE-SHOW FTR (Cash Wheeler & Dax Harwood) vs. Motor City Machine Guns (Alex Shelley & Chris Sabin) – match one in a best of five series Preview: This match was set up, impromptu, when The [...]",
-      "link": "https://www.pwtorch.com/site/2026/10/17/aew-wrestledream-ppv-preview-jbs-look-at-full-line-up-with-predictions-including-clockwork-carnage-new-level-swerve-vs-hangman-brody-bandido-mox-vs-davis/",
-      "t": "4h",
-      "dt": "2026-10-17T16:53:06+00:00"
     }
   ]
 }

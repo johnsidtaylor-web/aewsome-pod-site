@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-18T23:07:46.576995+00:00",
+  "updated": "2026-10-19T01:12:27.566373+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Will Ospreay Says He’s Proud Of ‘Daring To Try Something New’ At AEW WrestleDream With Clockwork Carnage",
+      "p": "Will Ospreay reflects on the Clockwork Carnage match. At AEW WrestleDream, Will Ospreay defended his AEW World Title in a Clockwork Carnage match. Ospreay was the one who came up with this idea....",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-hes-proud-of-daring-to-try-something-new-at-aew-wrestledream-with-clockwork-carnage/",
+      "t": "11m",
+      "dt": "2026-10-19T01:00:22+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Mercedes Moné provides update on broken nose following AEW WrestleDream",
       "p": "Mercedes Moné gave an update on her broken nose during the AEW WrestleDream post-show press conference on Saturday. Moné suffered the injury at AEW All In on August 30, at the beginning of her...",
       "link": "https://www.f4wonline.com/news/aew/mercedes-mone-broken-nose-injury-update-aew-wrestledream/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-10-18T21:16:35+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "Exodus Pro Heat Of The Moment Results (10/16)",
       "p": "Exodus Pro Wrestling held its Exodus Pro Heat of the Moment event on October 16 from Collision Bend Brewery in Euclid, OH. Full results are below. Exodus Pro Heat Of The Moment Results (10/16)...",
       "link": "https://www.fightful.com/wrestling-news/exodus-pro-heat-of-the-moment-results-10-16/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-10-18T20:37:15+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "AEW WrestleDream 2026: Biggest Winners & Losers",
       "p": "Wrestling is a genre full of winners and losers, and here are the big ones from AEW WrestleDream 2026.",
       "link": "https://www.wrestlinginc.com/2289801/aew-wrestledream-2026-biggest-winners-losers-opinion-review/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-10-18T19:42:36+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "Tony Khan 'Very Intrigued By The Possibility' Of Another Former WWE Star Joining AEW",
       "p": "AEW CEO Tony Khan says he's \"very intrigued\" by the possibility of another former WWE star coming into his company.",
       "link": "https://www.wrestlinginc.com/2289798/tony-khan-kairi-wwe-joining-aew-intrigued-possibility/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-10-18T18:39:49+00:00"
     },
     {
@@ -48,23 +56,15 @@
       "h": "Austin Creed Reacts To Losing AEW World Trios Title At AEW WrestleDream",
       "p": "Austin Creed reacts to losing the AEW World Trios Title at AEW WrestleDream. On the show, Swerve Strickland and New Level (Austin Creed and Kofi) defended the AEW World Trios Championship against...",
       "link": "https://www.fightful.com/wrestling-news/austin-creed-reacts-to-losing-aew-world-trios-title-at-aew-wrestledream/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-10-18T18:36:11+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tommaso Ciampa Reflects On AEW WrestleDream: ‘Each Test, Each Loss, All Part Of The Journey. I Run Marathons, Not Sprints’",
-      "p": "Tommaso Ciampa reflects on AEW WrestleDream. On the show, Tommaso Ciampa challenged Andrade El Idolo for the AEW National Championship. The bout ended with Andrade retaining his title. Ciampa has...",
-      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-reflects-on-aew-wrestledream-each-test-each-loss-all-part-of-the-journey-i-run-marathons-not-sprints/",
-      "t": "5h",
-      "dt": "2026-10-18T17:42:06+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Mercedes Mone Provides Update On Broken Nose, Says She Had Surgery",
       "p": "Following her successful title defense at WrestleDream, AEW Women's Champion Mercedes Mone provides an update on her broken nose.",
       "link": "https://www.wrestlinginc.com/2289793/aew-mercedes-mone-broken-nose-surgery/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-10-18T17:33:45+00:00"
     },
     {
@@ -72,23 +72,15 @@
       "h": "Tommaso Ciampa Explains How Jumping To AEW Has Been Good For His Family",
       "p": "Tommaso Ciampa's first year in AEW has been a success for the \"Psycho Killer,\" but it's his family who have benefited the most from his move to the company.",
       "link": "https://www.wrestlinginc.com/2288979/aew-tommaso-ciampa-jumping-good-family/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-10-18T17:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MJF Shares His AEW WrestleDream Synopsis",
-      "p": "MJF shares his AEW WrestleDream synopsis with fans. All Elite Wrestling held its WrestleDream pay-per-view on October 17. The show featured a Clockwork Carnage match in the main event, where Will...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-shares-his-aew-wrestledream-synopsis/",
-      "t": "5h",
-      "dt": "2026-10-18T17:09:03+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Ilja Dragunov To Make AEW In-Ring Debut On Wednesday's Dynamite",
       "p": "AEW CEO Tony Khan confirms that the company's newest signee, Ilja Dragunov, will make his in-ring debut on this Wednesday's episode of \"AEW Dynamite.\"",
       "link": "https://www.wrestlinginc.com/2289781/ilja-dragunov-aew-in-ring-debut-wednesday-dynamite/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-10-18T16:26:27+00:00"
     },
     {
@@ -96,7 +88,7 @@
       "h": "Max Caster: 'I Will Be Stepping Away From The Ring For An Extended Period Of Time'",
       "p": "Former AEW star Max Caster has announced that he'll be taking an indefinite hiatus from pro wrestling one week after his TNA Bound for Glory appearance.",
       "link": "https://www.wrestlinginc.com/2289780/aew-tna-max-caster-stepping-away-ring-extended-period-time/",
-      "t": "6h",
+      "t": "8h",
       "dt": "2026-10-18T16:24:30+00:00"
     },
     {
@@ -104,8 +96,16 @@
       "h": "Tony Khan provides update on Toni Storm’s AEW return",
       "p": "We don’t know where and we don’t know when, but Tony Khan is confident that Toni Storm will return to AEW. Khan was asked about the former AEW Women’s World Champion during Saturday’s AEW...",
       "link": "https://www.f4wonline.com/news/aew/tony-khan-toni-storm-aew-return-update/",
-      "t": "7h",
+      "t": "9h",
       "dt": "2026-10-18T15:39:01+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Tony Khan says he has held “a few great conversations” with Skydance CEO David Ellison about AEW",
+      "p": "AEW President Tony Khan says he has held several conversations with Skydance CEO David Ellison about the future of the promotion. The post Tony Khan says he has held “a few great conversations”...",
+      "link": "https://www.postwrestling.com/2026/10/18/tony-khan-says-he-has-held-a-few-great-conversations-with-skydance-ceo-david-ellison-about-aew/",
+      "t": "9h",
+      "dt": "2026-10-18T15:21:42+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-19T06:12:12.620586+00:00",
+  "updated": "2026-10-19T13:11:16.817532+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Kyle Fletcher Recalls Bump That Felt Like ‘His Insides Fell Out Of His Butthole’",
+      "p": "Kyle Fletcher recalls a bump that made him feel like he was pissing blood and made his ‘insides fall out of his butthole.’ Fletcher has been a wrestler on the AEW roster who has never been afraid...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-recalls-bump-that-felt-like-his-insides-fell-out-of-his-butthole/",
+      "t": "33m",
+      "dt": "2026-10-19T12:38:07+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Billy Gunn Says Triple H’s Shot At AEW At 2019 WWE Hall Of Fame Was ‘A Dick Move’ That Only Hurt Him",
+      "p": "D-Generation X was inducted into the WWE Hall of Fame in 2019, with Triple H, Road Dogg, Sean Waltman, Billy Gunn, Shawn Michaels, and Chyna all going into the Hall. Gunn was already working for...",
+      "link": "https://www.fightful.com/wrestling-news/billy-gunn-says-triple-hs-shot-at-aew-at-2019-wwe-hall-of-fame-was-a-dick-move-that-only-hurt-him/",
+      "t": "41m",
+      "dt": "2026-10-19T12:29:30+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kyle Fletcher: I Try And Watch Every Single Match Of Mine Back",
+      "p": "Kyle Fletcher shares that he tries to watch every single matches he participates in back to take feedback and apply it to himself. Fletcher has been one of the top rising talents in AEW over the...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-i-try-and-watch-every-single-match-of-mine-back/",
+      "t": "1h",
+      "dt": "2026-10-19T11:55:25+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Contents of Toni Storm Tapes from AEW WrestleDream revealed",
+      "p": "AEW WrestleDream took an unexpected turn as mysterious cassette tapes attributed to Toni Storm surfaced at the pay-per-view, offering a bizarre and unsettling glimpse into the former AEW Women’s...",
+      "link": "https://www.f4wonline.com/news/aew/contents-of-toni-storm-tapes-from-aew-wrestledream-revealed/",
+      "t": "1h",
+      "dt": "2026-10-19T11:49:37+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Andrade El Idolo Didn’t Realize Fans Were Chanting For Him To Take His Pants Off At First",
+      "p": "Andrade El Idolo has become one of the most popular stars in AEW, and it all started when he began to take his pants off. Andrade removing his bottoms has become commonplace in AEW, but even he...",
+      "link": "https://www.fightful.com/wrestling-news/andrade-el-idolo-didnt-realize-fans-were-chanting-for-him-to-take-his-pants-off-at-first/",
+      "t": "1h",
+      "dt": "2026-10-19T11:21:38+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "(Not) Bryan & Vinny Show: AEW WrestleDream with Clockwork Carnage",
+      "p": "We’re a day late and a host short, but it’s finally time to review AEW WrestleDream. The big story was the main event, with Will Ospreay defending the AEW World Championship against seven other...",
+      "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/not-bryan-vinny-show-aew-wrestledream-with-clockwork-carnage/",
+      "t": "6h",
+      "dt": "2026-10-19T06:33:14+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "FREE PODCAST 10/18 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller & Krol react to Cody being booed, on-site reports, Tourney Speculation (155 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (10-23-2021), PWTorch editor Wade Keller was joined by former PWTorch Newsletter columnist Eric...",
       "link": "https://www.pwtorch.com/site/2026/10/18/free-podcast-10-18-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-krol-react-to-cody-being-booed-on-site-reports-tourney-speculation-155-min/",
-      "t": "2h",
+      "t": "9h",
       "dt": "2026-10-19T04:00:08+00:00"
     },
     {
@@ -24,39 +72,23 @@
       "h": "Will Ospreay says he’s proud of ‘daring to try’ Clockwork Carnage match at AEW WrestleDream 2026",
       "p": "Will Ospreay comments following the Clockwork Carnage match at WrestleDream. In a social media post, he thanked fans for their response to the match that headlined Saturday’s AEW pay-per-view,...",
       "link": "https://www.f4wonline.com/news/aew/will-ospreay-says-hes-proud-of-daring-to-try-clockwork-carnage-match-at-aew-wrestledream-2026/",
-      "t": "3h",
+      "t": "10h",
       "dt": "2026-10-19T02:18:44+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Toni Storm Tapes Discovered At AEW WrestleDream",
-      "p": "A clue as to the whereabouts of Toni Storm. Content creator Astrid Pizarro discovered what turned out to be the Toni Storm Tapes at AEW WrestleDream in Florida. The cassette tape was sealed with a...",
-      "link": "https://www.fightful.com/wrestling-news/toni-storm-tapes-discovered-at-aew-wrestledream/",
-      "t": "4h",
-      "dt": "2026-10-19T02:02:04+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite & Collision ratings for WrestleDream go-home show",
       "p": "Back in its usual day and ahead of this past weekend’s WrestleDream pay-per-view, the first two hours of this past Wednesday’s AEW Dynamite were up from the prior Tuesday’s special episode but...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-collision-ratings-for-wrestledream-go-home-show/",
-      "t": "4h",
+      "t": "11h",
       "dt": "2026-10-19T01:22:19+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay Says He’s Proud Of ‘Daring To Try Something New’ At AEW WrestleDream With Clockwork Carnage",
-      "p": "Will Ospreay reflects on the Clockwork Carnage match. At AEW WrestleDream, Will Ospreay defended his AEW World Title in a Clockwork Carnage match. Ospreay was the one who came up with this idea....",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-says-hes-proud-of-daring-to-try-something-new-at-aew-wrestledream-with-clockwork-carnage/",
-      "t": "5h",
-      "dt": "2026-10-19T01:00:22+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Mercedes Moné provides update on broken nose following AEW WrestleDream",
       "p": "Mercedes Moné gave an update on her broken nose during the AEW WrestleDream post-show press conference on Saturday. Moné suffered the injury at AEW All In on August 30, at the beginning of her...",
       "link": "https://www.f4wonline.com/news/aew/mercedes-mone-broken-nose-injury-update-aew-wrestledream/",
-      "t": "8h",
+      "t": "15h",
       "dt": "2026-10-18T21:16:35+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "AEW WrestleDream 2026: Biggest Winners & Losers",
       "p": "Wrestling is a genre full of winners and losers, and here are the big ones from AEW WrestleDream 2026.",
       "link": "https://www.wrestlinginc.com/2289801/aew-wrestledream-2026-biggest-winners-losers-opinion-review/",
-      "t": "10h",
+      "t": "17h",
       "dt": "2026-10-18T19:42:36+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Tony Khan 'Very Intrigued By The Possibility' Of Another Former WWE Star Joining AEW",
       "p": "AEW CEO Tony Khan says he's \"very intrigued\" by the possibility of another former WWE star coming into his company.",
       "link": "https://www.wrestlinginc.com/2289798/tony-khan-kairi-wwe-joining-aew-intrigued-possibility/",
-      "t": "11h",
+      "t": "18h",
       "dt": "2026-10-18T18:39:49+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Mercedes Mone Provides Update On Broken Nose, Says She Had Surgery",
-      "p": "Following her successful title defense at WrestleDream, AEW Women's Champion Mercedes Mone provides an update on her broken nose.",
-      "link": "https://www.wrestlinginc.com/2289793/aew-mercedes-mone-broken-nose-surgery/",
-      "t": "12h",
-      "dt": "2026-10-18T17:33:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tommaso Ciampa Explains How Jumping To AEW Has Been Good For His Family",
-      "p": "Tommaso Ciampa's first year in AEW has been a success for the \"Psycho Killer,\" but it's his family who have benefited the most from his move to the company.",
-      "link": "https://www.wrestlinginc.com/2288979/aew-tommaso-ciampa-jumping-good-family/",
-      "t": "12h",
-      "dt": "2026-10-18T17:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Ilja Dragunov To Make AEW In-Ring Debut On Wednesday's Dynamite",
-      "p": "AEW CEO Tony Khan confirms that the company's newest signee, Ilja Dragunov, will make his in-ring debut on this Wednesday's episode of \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2289781/ilja-dragunov-aew-in-ring-debut-wednesday-dynamite/",
-      "t": "13h",
-      "dt": "2026-10-18T16:26:27+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Max Caster: 'I Will Be Stepping Away From The Ring For An Extended Period Of Time'",
-      "p": "Former AEW star Max Caster has announced that he'll be taking an indefinite hiatus from pro wrestling one week after his TNA Bound for Glory appearance.",
-      "link": "https://www.wrestlinginc.com/2289780/aew-tna-max-caster-stepping-away-ring-extended-period-time/",
-      "t": "13h",
-      "dt": "2026-10-18T16:24:30+00:00"
     }
   ]
 }

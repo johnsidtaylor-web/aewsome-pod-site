@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-20T19:11:53.970456+00:00",
+  "updated": "2026-10-20T22:16:49.217738+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,10 +13,66 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "Billy Gunn On CM Punk & Young Bucks AEW Brawl: 'Poke The Bear, Get Ready To Get Bit'",
+      "p": "AEW coach Billy Gunn commented on the 2022 backstage brawl between CM Punk and Young Bucks during an interview with \"Inside the Ropes.\"",
+      "link": "https://www.wrestlinginc.com/2292410/aew-billy-gunn-cm-punk-young-bucks-brawl-poke-bear-get-bit/",
+      "t": "13m",
+      "dt": "2026-10-20T22:03:25+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "New AEW signee Ilja Dragunov explains why he left WWE",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post New AEW signee Ilja Dragunov explains why he left WWE appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/20/new-aew-signee-ilja-dragunov-explains-why-he-left-wwe/",
+      "t": "15m",
+      "dt": "2026-10-20T22:00:53+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Ilja Dragunov says he ‘needs to wrestle in Japan’",
+      "p": "Ilja Dragunov says he “needs to wrestle in Japan,” believing his in-ring style would connect with the people. During an interview with TMZ on Tuesday, the new AEW signing was asked who he would...",
+      "link": "https://www.f4wonline.com/news/aew/ilja-dragunov-needs-to-wrestle-in-japan/",
+      "t": "27m",
+      "dt": "2026-10-20T21:48:45+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "RUSH: “I’m happy at my home, AEW, and my visa has expired”",
+      "p": "AEW’s RUSH has confirmed that his visa has expired. The post RUSH: “I’m happy at my home, AEW, and my visa has expired” appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT NJPW.",
+      "link": "https://www.postwrestling.com/2026/10/20/rush-im-happy-at-my-home-aew-and-my-visa-has-expired/",
+      "t": "34m",
+      "dt": "2026-10-20T21:41:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Billy Gunn off indie show due to ‘contractual obligations,’ top AEW name added",
+      "p": "Billy Gunn won’t be making his scheduled appearance for Create-A-Pro Wrestling this weekend, but the Long Island fans are getting a significant makegood. Create-A-Pro announced today that, due to...",
+      "link": "https://www.f4wonline.com/news/aew/billy-gunn-off-indie-show-due-to-contractual-obligations-top-aew-name-added/",
+      "t": "54m",
+      "dt": "2026-10-20T21:21:57+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Andrade’s star is fading, should there be another Clockwork Carnage match, plus Fletcher & Knight, Young Bucks",
+      "p": "Welcome everyone! Four weeks after All Out and we have our second AEW PPV, WrestleDream, in a row that felt inconsequential. Predictable match after predictable match. Right up to, and including,...",
+      "link": "https://www.pwtorch.com/site/2026/10/20/aew-rising-and-fading-stars-andrades-star-is-fading-should-there-be-another-clockwork-carnage-match-plus-fletcher-knight-young-bucks/",
+      "t": "1h",
+      "dt": "2026-10-20T20:23:06+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Rush Confirms His Visa Has Expired, Addresses Whether He's Happy In AEW",
+      "p": "AEW star Rush took to social media on Tuesday to confirm his visa has expired, and he addressed whether or not he's happy in the company.",
+      "link": "https://www.wrestlinginc.com/2292236/rush-visa-expired-happy-aew/",
+      "t": "2h",
+      "dt": "2026-10-20T19:34:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "AEW's Tommaso Ciampa Hopes To Face Former IWGP Champ In NJPW",
       "p": "Tommaso Ciampa has aspirations of wrestling in NJPW and there's one former IWGP Heavyweight Champion that he has his sights set on.",
       "link": "https://www.wrestlinginc.com/2292185/aew-njpw-tommaso-ciampa-shingo-takagi-hopes-face-former-iwgp-champ/",
-      "t": "12m",
+      "t": "3h",
       "dt": "2026-10-20T18:59:12+00:00"
     },
     {
@@ -24,47 +80,23 @@
       "h": "Latest Backstage Update On AEW Contract Situations Of Rush And Dralistico",
       "p": "A backstage update on the AEW contract situations of Rush and Dralistico reveals two different stories regarding this pair of lucha libre brothers",
       "link": "https://www.wrestlinginc.com/2292139/aew-contract-situations-rush-dralistico-december/",
-      "t": "34m",
+      "t": "3h",
       "dt": "2026-10-20T18:36:58+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "RUSH Confirms His Visa Has Expired",
-      "p": "RUSH sets the record straight. On Monday, RUSH tweeted, “See you 2027,” leading to speculation that he might be leaving AEW. It was reported by Bryan Alvarez of the Wrestling Observer that RUSH’s...",
-      "link": "https://www.fightful.com/wrestling-news/rush-confirms-his-visa-has-expired/",
-      "t": "41m",
-      "dt": "2026-10-20T18:30:37+00:00"
     },
     {
       "src": "PWTorch",
       "h": "AEW PPV FALLOUT – WRESTLEDREAM EDITION: Where do we go from here? Assessing what’s next for Mercedes, Ospreay, Copeland, Ciampa, Aminata, Fletcher, more",
       "p": "Mercedes Mone (c) defeated Thekla to retain the AEW Women’s World Title This was a match that was possibly floated as the main event for this show and, judging by what we got in the [...]",
       "link": "https://www.pwtorch.com/site/2026/10/20/aew-ppv-fallout-wrestledream-edition-where-do-we-go-from-here-assessing-whats-next-for-mercedes-ospreay-copeland-ciampa-aminata-fletcher-more/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-10-20T17:39:55+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay: I Feel Like I’d Be Okay At Acting",
-      "p": "Will Ospreay discusses the possibility of branching out into the world of acting, noting that he feels he’d be okay at the job. Acting and professional wrestling are two things that are becoming...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-i-feel-like-id-be-okay-at-acting/",
-      "t": "2h",
-      "dt": "2026-10-20T17:06:56+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Report: Dralistico’s AEW Contract To Expire In December",
-      "p": "New details on Dralistico and AEW. Bryan Alvarez of the Wrestling Observer reports that Dralistico’s contract with AEW is slated to expire in December. On Monday, Dralistico posted an AI photo of...",
-      "link": "https://www.fightful.com/wrestling-news/report-dralistico-aew-contract-to-expire-in-december/",
-      "t": "2h",
-      "dt": "2026-10-20T16:59:36+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Details On Dralistico's AEW Contract Situation",
       "p": "Dralistico's recent social media post have fans wondering if his contract is up soon. On Wrestling Observer Radio, Bryan Alvarez and Dave Meltzer gave more info",
       "link": "https://www.wrestlinginc.com/2291892/aew-dralistico-rush-contract-situation-details/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-10-20T16:47:01+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "AEW Releases Behind-The-Scenes Footage From Ilja Dragunov's WrestleDream 2026 Debut",
       "p": "To celebrate him joining the promotion, AEW releases some behind-the-scenes footage from Ilja Dragunov's debut at AEW WrestleDream this past weekend",
       "link": "https://www.wrestlinginc.com/2291836/aew-ilja-dragunov-wrestledream-2026-debut-behind-the-scenes-footage/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-10-20T16:22:03+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Exclusive update on Dralistico, Rush’s AEW status",
-      "p": "Our Bryan Alvarez has an update on Dralistico and Rush’s AEW status after the two created a lot of conversation on social media yesterday. In an October 19 tweet, Dralistico posted an AI-generated...",
-      "link": "https://www.f4wonline.com/news/aew/exclusive-update-on-dralistico-rushs-aew-status/",
-      "t": "2h",
-      "dt": "2026-10-20T16:15:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Details Past Health Issues Faced By Late AEW Star Pac",
-      "p": "Benjamin \"PAC\" Satterly died unexpectedly in September at age 40. Dave Meltzer provided more info on Satterly's past health issues.",
-      "link": "https://www.wrestlinginc.com/2291717/aew-dave-meltzer-pace-past-health-issues-details/",
-      "t": "3h",
-      "dt": "2026-10-20T15:21:52+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Limitless Wrestling “Fresh Blood” results (10/18): Vetter’s review of an AEW mystery wrestler vs. Anthony Greene, Joseph Sawyer vs. Donovan Dijak, Jordan Oliver and Alec Price vs. Cowboy Way",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post Limitless Wrestling “Fresh Blood” results (10/18): Vetter’s review of an AEW mystery wrestler vs. Anthony Greene, Joseph Sawyer vs....",
-      "link": "https://prowrestling.net/site/2026/10/20/limitless-wrestling-fresh-blood-results-10-18-vetters-review-of-an-aew-mystery-wrestler-vs-anthony-greene-joseph-sawyer-vs-donovan-dijak-jordan-oliver-and-alec-price-vs-cowboy-way/",
-      "t": "4h",
-      "dt": "2026-10-20T15:06:24+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer: WWE Made Ilja Dragunov's Visa Situation 'Difficult' Ahead Of AEW Debut",
-      "p": "Dave Meltzer seems to suggest that WWE was behind Ilja Dragunov's visa situation becoming \"difficult\" ahead of Dragunov's AEW debut at WrestleDream",
-      "link": "https://www.wrestlinginc.com/2291687/dave-meltzer-wwe-ilja-dragunov-visa-difficult-aew-debut-wrestledream/",
-      "t": "4h",
-      "dt": "2026-10-20T15:05:10+00:00"
     }
   ]
 }

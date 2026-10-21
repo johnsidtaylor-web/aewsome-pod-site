@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-20T22:16:49.217738+00:00",
+  "updated": "2026-10-21T01:32:07.812137+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -13,10 +13,58 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "Mick Foley Explains How He Became An Early Supporter Of AEW's Willow Nightingale",
+      "p": "WWE Hall of Famer and AEW personality Mick Foley explains how he became an early supporter of his co-worker, former AEW Women's Champion Willow Nightingale",
+      "link": "https://www.wrestlinginc.com/2286591/aew-mick-foley-willow-nightingale-early-supporter/",
+      "t": "32m",
+      "dt": "2026-10-21T01:00:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Dynamite: Will Ospreay teams with Adam Copeland, Dragunov’s opponent revealed, Maya World returns",
+      "p": "Will Ospreay will team with Adam Copeland, and an opponent has been revealed for Ilja Dragunov’s AEW in-ring debut. The post AEW Dynamite: Will Ospreay teams with Adam Copeland, Dragunov’s...",
+      "link": "https://www.postwrestling.com/2026/10/20/aew-dynamite-will-ospreay-teams-with-adam-copeland-dragunovs-opponent-revealed-maya-world-returns/",
+      "t": "41m",
+      "dt": "2026-10-21T00:50:08+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay & Adam Copeland vs. Kyle Fletcher & Kevin Knight added to AEW Dynamite",
+      "p": "Two matches are confirmed for AEW Dynamite. Will Ospreay and Adam Copeland will team together on Wednesday in Coral Gables to take on Kyle Fletcher and Kevin Knight. Meanwhile, Ilja Dragunov will...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-adam-copeland-vs-kyle-fletcher-kevin-knight-added-to-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-10-21T00:25:56+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Ilja Dragunov To Face Mike Bailey, Will Ospreay Teams With Adam Copeland On 10/21 AEW Dynamite",
+      "p": "Ilja Dragunov gets an opponent for his AEW in-ring debut. Tony Khan announced that Dragunov will face “Speedball” Mike Bailey on the October 21 episode of AEW Dynamite. This will be Dragunov’s AEW...",
+      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-to-face-mike-bailey-on-10-21-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-10-20T23:53:25+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Ilja Dragunov Talks WWE Departure, Says Their Offer To Retain Him Wasn't 'Satisfying'",
+      "p": "AEW's newest signee Ilja Dragunov spoke about his WWE departure back in August and said the company's offer to retain him wasn't \"satisfying.\"",
+      "link": "https://www.wrestlinginc.com/2292465/ilja-draunov-wwe-departure-offer-satisfying-aew/",
+      "t": "2h",
+      "dt": "2026-10-20T23:28:36+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Andrade opens up about his decision to leave AEW for WWE",
+      "p": "A few years ago, Andrade El Idolo parted ways with AEW and joined WWE; He has now opened up about that decision. After spending a couple of years in AEW from 2021 to 2023, Andrade parted ways with...",
+      "link": "https://www.f4wonline.com/news/aew/andrade-opens-up-about-his-decision-to-leave-aew-for-wwe/",
+      "t": "2h",
+      "dt": "2026-10-20T23:07:04+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "Billy Gunn On CM Punk & Young Bucks AEW Brawl: 'Poke The Bear, Get Ready To Get Bit'",
       "p": "AEW coach Billy Gunn commented on the 2022 backstage brawl between CM Punk and Young Bucks during an interview with \"Inside the Ropes.\"",
       "link": "https://www.wrestlinginc.com/2292410/aew-billy-gunn-cm-punk-young-bucks-brawl-poke-bear-get-bit/",
-      "t": "13m",
+      "t": "3h",
       "dt": "2026-10-20T22:03:25+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "New AEW signee Ilja Dragunov explains why he left WWE",
       "p": "By Jason Powell, ProWrestling.net Editor... The post New AEW signee Ilja Dragunov explains why he left WWE appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/10/20/new-aew-signee-ilja-dragunov-explains-why-he-left-wwe/",
-      "t": "15m",
+      "t": "3h",
       "dt": "2026-10-20T22:00:53+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "Ilja Dragunov says he ‘needs to wrestle in Japan’",
       "p": "Ilja Dragunov says he “needs to wrestle in Japan,” believing his in-ring style would connect with the people. During an interview with TMZ on Tuesday, the new AEW signing was asked who he would...",
       "link": "https://www.f4wonline.com/news/aew/ilja-dragunov-needs-to-wrestle-in-japan/",
-      "t": "27m",
+      "t": "3h",
       "dt": "2026-10-20T21:48:45+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "RUSH: “I’m happy at my home, AEW, and my visa has expired”",
       "p": "AEW’s RUSH has confirmed that his visa has expired. The post RUSH: “I’m happy at my home, AEW, and my visa has expired” appeared first on POST Wrestling | Podcasts, News, Reviews | WWE AEW NXT NJPW.",
       "link": "https://www.postwrestling.com/2026/10/20/rush-im-happy-at-my-home-aew-and-my-visa-has-expired/",
-      "t": "34m",
+      "t": "3h",
       "dt": "2026-10-20T21:41:51+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Billy Gunn off indie show due to ‘contractual obligations,’ top AEW name added",
       "p": "Billy Gunn won’t be making his scheduled appearance for Create-A-Pro Wrestling this weekend, but the Long Island fans are getting a significant makegood. Create-A-Pro announced today that, due to...",
       "link": "https://www.f4wonline.com/news/aew/billy-gunn-off-indie-show-due-to-contractual-obligations-top-aew-name-added/",
-      "t": "54m",
+      "t": "4h",
       "dt": "2026-10-20T21:21:57+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "AEW RISING AND FADING STARS: Andrade’s star is fading, should there be another Clockwork Carnage match, plus Fletcher & Knight, Young Bucks",
       "p": "Welcome everyone! Four weeks after All Out and we have our second AEW PPV, WrestleDream, in a row that felt inconsequential. Predictable match after predictable match. Right up to, and including,...",
       "link": "https://www.pwtorch.com/site/2026/10/20/aew-rising-and-fading-stars-andrades-star-is-fading-should-there-be-another-clockwork-carnage-match-plus-fletcher-knight-young-bucks/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-10-20T20:23:06+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Rush Confirms His Visa Has Expired, Addresses Whether He's Happy In AEW",
-      "p": "AEW star Rush took to social media on Tuesday to confirm his visa has expired, and he addressed whether or not he's happy in the company.",
-      "link": "https://www.wrestlinginc.com/2292236/rush-visa-expired-happy-aew/",
-      "t": "2h",
-      "dt": "2026-10-20T19:34:53+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tommaso Ciampa Hopes To Face Former IWGP Champ In NJPW",
-      "p": "Tommaso Ciampa has aspirations of wrestling in NJPW and there's one former IWGP Heavyweight Champion that he has his sights set on.",
-      "link": "https://www.wrestlinginc.com/2292185/aew-njpw-tommaso-ciampa-shingo-takagi-hopes-face-former-iwgp-champ/",
-      "t": "3h",
-      "dt": "2026-10-20T18:59:12+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Latest Backstage Update On AEW Contract Situations Of Rush And Dralistico",
-      "p": "A backstage update on the AEW contract situations of Rush and Dralistico reveals two different stories regarding this pair of lucha libre brothers",
-      "link": "https://www.wrestlinginc.com/2292139/aew-contract-situations-rush-dralistico-december/",
-      "t": "3h",
-      "dt": "2026-10-20T18:36:58+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW PPV FALLOUT – WRESTLEDREAM EDITION: Where do we go from here? Assessing what’s next for Mercedes, Ospreay, Copeland, Ciampa, Aminata, Fletcher, more",
-      "p": "Mercedes Mone (c) defeated Thekla to retain the AEW Women’s World Title This was a match that was possibly floated as the main event for this show and, judging by what we got in the [...]",
-      "link": "https://www.pwtorch.com/site/2026/10/20/aew-ppv-fallout-wrestledream-edition-where-do-we-go-from-here-assessing-whats-next-for-mercedes-ospreay-copeland-ciampa-aminata-fletcher-more/",
-      "t": "4h",
-      "dt": "2026-10-20T17:39:55+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Details On Dralistico's AEW Contract Situation",
-      "p": "Dralistico's recent social media post have fans wondering if his contract is up soon. On Wrestling Observer Radio, Bryan Alvarez and Dave Meltzer gave more info",
-      "link": "https://www.wrestlinginc.com/2291892/aew-dralistico-rush-contract-situation-details/",
-      "t": "5h",
-      "dt": "2026-10-20T16:47:01+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Releases Behind-The-Scenes Footage From Ilja Dragunov's WrestleDream 2026 Debut",
-      "p": "To celebrate him joining the promotion, AEW releases some behind-the-scenes footage from Ilja Dragunov's debut at AEW WrestleDream this past weekend",
-      "link": "https://www.wrestlinginc.com/2291836/aew-ilja-dragunov-wrestledream-2026-debut-behind-the-scenes-footage/",
-      "t": "5h",
-      "dt": "2026-10-20T16:22:03+00:00"
     }
   ]
 }

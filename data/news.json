@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-21T18:34:49.413018+00:00",
+  "updated": "2026-10-21T22:18:04.105683+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "ProWrestling.net",
-      "h": "AEW WrestleDream poll results for best match and the overall grade",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream poll results for best match and the overall grade appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/21/aew-wrestledream-poll-results-for-best-match-and-the-overall-grade-2/",
-      "t": "19m",
-      "dt": "2026-10-21T18:15:44+00:00"
+      "src": "Wrestling Inc",
+      "h": "Ilja Dragunov Recalls Visa Process That Allowed Him To Debut At AEW WrestleDream 2026",
+      "p": "New AEW star Ilja Dragunov recalls the long, yet quick process that led to him getting his visa renewed just in time for him to debut at AEW WrestleDream",
+      "link": "https://www.wrestlinginc.com/2293680/ilja-dragunov-visa-process-aew-wrestledream-2026-debut/",
+      "t": "24m",
+      "dt": "2026-10-21T21:53:56+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Swerve Strickland Doesn’t Think We’ll See A WWE-AEW Cross Promotional Event In His Lifetime",
-      "p": "Swerve Strickland comments on a WWE and AEW crossover. For years, fans have discussed potential WWE and AEW dream matches, but aside from a handful of independent matches featuring WWE ID talents...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-doesnt-think-well-see-a-wwe-aew-cross-promotional-event-in-his-lifetime/",
-      "t": "34m",
-      "dt": "2026-10-21T18:00:10+00:00"
+      "src": "Wrestling Observer",
+      "h": "Big Vinny V: What did and didn’t work in AEW’s Clockwork Carnage match at WrestleDream",
+      "p": "All Elite Wrestling tried something new at WrestleDream, and innovation is always a good thing. Now that Clockwork Carnage has happened, was it a success? What worked in the match, what didn’t,...",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-what-did-and-didnt-work-in-aews-clockwork-carnage-match-at-wrestledream/",
+      "t": "1h",
+      "dt": "2026-10-21T21:10:00+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Bandido Names Ilja Dragunov And Kenny Omega As His Dream AEW Opponents",
-      "p": "Bandido speaks about his dream AEW opponents, naming Kenny Omega and the newly signed Ilja Dragunov as potential future opponents. Since signing with All Elite Wrestling, Bandido has squared off...",
-      "link": "https://www.fightful.com/wrestling-news/bandido-names-ilja-dragunov-and-kenny-omega-as-his-dream-aew-opponents/",
-      "t": "41m",
-      "dt": "2026-10-21T17:52:54+00:00"
+      "src": "Wrestling Observer",
+      "h": "Swerve Strickland doubts WWE x AEW show will ever happen: ‘Not in my lifetime at least’",
+      "p": "Swerve Strickland doubts that we’ll ever see AEW and WWE come together for a cross-promotional event. Though Tony Khan has sounded open to collaboration if the logistics were to make sense, a...",
+      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-doubts-wwe-x-aew-show-will-ever-happen-not-in-my-lifetime-at-least/",
+      "t": "1h",
+      "dt": "2026-10-21T21:09:06+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Ilja Dragunov Reflects On AEW WrestleDream Debut, Return To Original Entrance Music",
-      "p": "Ilja Dragunov reflects on his AEW WrestleDream debut, the collaborative effort putting his entrance together, and how happy he is to have his old theme music",
-      "link": "https://www.wrestlinginc.com/2293281/ilja-dragunov-aew-wrestledream-debut-original-entrance-music/",
-      "t": "52m",
-      "dt": "2026-10-21T17:42:29+00:00"
+      "h": "AEW Dynamite Results 10/21/26 W/ Live Updates",
+      "p": "This is Wrestling Inc.'s live coverage for \"AEW Dynamite\" on October 21, 2026, with a singles match between Ilja Dragunov and \"Speedball\" Mike Baliey!",
+      "link": "https://www.wrestlinginc.com/2292521/aew-dynamite-october-21-2026-results/",
+      "t": "1h",
+      "dt": "2026-10-21T21:00:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: Syko Stu on recovery process, Dragon Lee re-signs with WWE & Dynamite preview",
+      "p": "Jack Wannan covers the news, including a WWE re-signing, an update from Syko Stu, MVP on an MMA union, and a preview of tonight’s AEW show. Available for Double Double & Espresso members at...",
+      "link": "https://www.postwrestling.com/2026/10/21/post-news-syko-stu-on-recovery-process-dragon-lee-re-signs-with-wwe-dynamite-preview/",
+      "t": "1h",
+      "dt": "2026-10-21T20:51:54+00:00"
     },
     {
       "src": "PWTorch",
-      "h": "AEW DYNAMITE PREVIEW (10/21): Announced matches, location, ticket sales, how to watch",
-      "p": "When: WEDNESDAY, OCTOBER 21, 2026 Where: CORAL GABLES, FLA. AT WATSCO CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,112 tickets had been...",
-      "link": "https://www.pwtorch.com/site/2026/10/21/aew-dynamite-preview-10-21-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "1h",
-      "dt": "2026-10-21T17:05:13+00:00"
+      "h": "VIP NEWSLETTER – PRO WRESTLING TORCH #1990 (Oct. 21, 2026): Keller’s report on AEW WrestleDream and Roundtable Reviews, Parks reviews Steve Keirn book, TV reports",
+      "p": "PWTorch Newsletter #1990 Cover-dated October 21, 2026 LINK: 1990 PWTorch Newsletter PDF –LIST OF ALL LATEST NEWSLETTERS –CLICK HERE FOR DIRECTORY OF ALL PAST NEWSLETTERS BY YEAR SUMMARY: This...",
+      "link": "https://www.pwtorch.com/site/2026/10/21/vip-newsletter-pro-wrestling-torch-1990-oct-21-2026-kellers-report-on-aew-wrestledream-and-roundtable-reviews-parks-reviews-steve-keirn-book-tv-reports/",
+      "t": "2h",
+      "dt": "2026-10-21T20:13:46+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Ilja Dragunov Comments On The New Level’s AEW Debuts Catching His Attention",
-      "p": "Ilja Dragunov has commented on The New Level’s AEW debuts catching his attention, especially how they performed in AEW. On tonight’s edition of AEW Dynamite, Ilja is currently set to face off with...",
-      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-comments-on-the-new-levels-aew-debuts-catching-his-attention/",
-      "t": "1h",
-      "dt": "2026-10-21T16:50:22+00:00"
+      "h": "David Finlay: AEW Money Is Way Better Than NJPW Money",
+      "p": "In March 2026, David Finlay and Clark Connors were officially announced as being All Elite. Connors had been competing on AEW TV since the beginning of the year alongside Gabe Kidd, but Finlay...",
+      "link": "https://www.fightful.com/wrestling-news/david-finlay-aew-money-is-way-better-than-njpw-money/",
+      "t": "2h",
+      "dt": "2026-10-21T20:10:26+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW Champ Will Ospreay Comments On Facing Adam Copeland Before His Retirement",
-      "p": "AEW Men's World Champion Will Ospreay comments on facing Adam Copeland before Copeland's retirement, telling Copeland to \"save a date\" for him",
-      "link": "https://www.wrestlinginc.com/2292956/aew-will-ospreay-adam-copeland-facing-before-retirement/",
+      "src": "Wrestling Observer",
+      "h": "AEW star MJF to serve as special guest referee for indie match",
+      "p": "AEW star MJF will be donning a referee shirt when he appears for Create-A-Pro Wrestling this weekend. The indie promotion has announced that MJF will serve as the special guest referee for a...",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-mjf-to-serve-as-special-guest-referee-for-indie-match/",
+      "t": "2h",
+      "dt": "2026-10-21T19:47:05+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Carlie Bravo Defends ROH, Says It Has ‘More Killers’ Than AEW",
+      "p": "Carlie Bravo sticks up for Ring Of Honor. Competing alongside Shane Taylor Promotions, Carlie Bravo has been a essential part of the promotion since 2023. Pushing back against the online...",
+      "link": "https://www.fightful.com/wrestling-news/carlie-bravo-defends-roh-says-it-has-more-killers-than-aew/",
+      "t": "2h",
+      "dt": "2026-10-21T19:46:06+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Clark Connors reveals alternative name pitched for The Dogs in AEW",
+      "p": "Clark Connors says The Dogs originally had a different name in mind when the former Bullet Club War Dogs arrived in AEW. Connors, David Finlay, and Gabe Kidd are known simply as The Dogs in AEW....",
+      "link": "https://www.f4wonline.com/news/aew/clark-connors-reveals-alternative-name-pitched-for-the-dogs/",
+      "t": "2h",
+      "dt": "2026-10-21T19:39:38+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW FEUD TRACKER: Barber’s look at the latest news, overview and analysis of latest feuds coming out of WrestleDream",
+      "p": "HOUSEKEEPING • Jon Moxley and Kenny Omega joined MJF and Will Ospreay as part of the AEW talent building towards major matches at WrestleKingdom. Mox is headed towards a rematch with Shingo Takagi...",
+      "link": "https://www.pwtorch.com/site/2026/10/21/aew-feud-tracker-barbers-look-at-the-latest-news-overview-and-analysis-of-latest-feuds-coming-out-of-wrestledream/",
+      "t": "2h",
+      "dt": "2026-10-21T19:36:40+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Ric Flair Speaks About Tony Khan: “He’s A Nice Guy… I Work For Him & I Don’t Do Anything”",
+      "p": "Ric Flair heaps praise onto Tony Khan. Biff Poggi of NewsNation conducted an interview with two-time WWE Hall of Famer Ric Flair. As the conversation moved along, Flair opened up about his...",
+      "link": "https://www.fightful.com/wrestling-news/ric-flair-speaks-about-tony-khan-hes-a-nice-guy-i-work-for-him-i-dont-do-anything/",
       "t": "3h",
-      "dt": "2026-10-21T14:58:09+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Willow Nightingale Reacts To Four Year Anniversary Of Her AEW Signing",
-      "p": "Willow Nightingale has reacted to the four year anniversary of her signing with AEW, noting her success since the signing in her post. Four years ago on a 2022 edition of AEW Rampage, Willow would...",
-      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-reacts-to-four-year-anniversary-of-her-aew-signing/",
-      "t": "4h",
-      "dt": "2026-10-21T14:32:41+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Tonight’s WrestleDream fallout show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s WrestleDream fallout show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/21/aew-dynamite-preview-tonights-wrestledream-fallout-show-3/",
-      "t": "4h",
-      "dt": "2026-10-21T14:00:41+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Ric Flair praises Tony Khan’s generosity: ‘I work for him, and I don’t do anything’",
-      "p": "Ric Flair appreciates the generosity Tony Khan has shown him during their friendship. Since 2023, Flair has been under contract with AEW despite only making very rare appearances for the company....",
-      "link": "https://www.f4wonline.com/news/aew/ric-flair-praises-tony-khans-generosity-i-work-for-him-and-i-dont-do-anything/",
-      "t": "4h",
-      "dt": "2026-10-21T13:41:38+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite, WWE Evolve, WWE Main Event, last week’s Dynamite and Collision three-hour block poll results and grade, Horace Hogan, Butch Miller",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, WWE Evolve, WWE Main Event, last week’s Dynamite and Collision three-hour block poll results and grade, Horace Hogan, Butch...",
-      "link": "https://prowrestling.net/site/2026/10/21/aew-dynamite-wwe-evolve-wwe-main-event-last-weeks-dynamite-and-collision-three-hour-block-poll-results-and-grade-horace-hogan-butch-miller/",
-      "t": "6h",
-      "dt": "2026-10-21T12:00:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jeff Jarrett defends comedy spot from AEW WrestleDream PPV",
-      "p": "AEW performer Jeff Jarrett recently discussed the comedy spot from the Tommaso Ciampa vs Andrade match at WrestleDream this past weekend. Speaking on his My World podcast, the former TNA owner...",
-      "link": "https://www.f4wonline.com/news/aew/jeff-jarrett-comedy-spot-aew-wrestledream-ppv/",
-      "t": "7h",
-      "dt": "2026-10-21T11:00:00+00:00"
+      "dt": "2026-10-21T18:58:53+00:00"
     }
   ]
 }

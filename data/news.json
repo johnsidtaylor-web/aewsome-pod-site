@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-21T13:43:54.126334+00:00",
+  "updated": "2026-10-21T18:34:49.413018+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "ProWrestling.net",
+      "h": "AEW WrestleDream poll results for best match and the overall grade",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW WrestleDream poll results for best match and the overall grade appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/21/aew-wrestledream-poll-results-for-best-match-and-the-overall-grade-2/",
+      "t": "19m",
+      "dt": "2026-10-21T18:15:44+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland Doesn’t Think We’ll See A WWE-AEW Cross Promotional Event In His Lifetime",
+      "p": "Swerve Strickland comments on a WWE and AEW crossover. For years, fans have discussed potential WWE and AEW dream matches, but aside from a handful of independent matches featuring WWE ID talents...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-doesnt-think-well-see-a-wwe-aew-cross-promotional-event-in-his-lifetime/",
+      "t": "34m",
+      "dt": "2026-10-21T18:00:10+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Bandido Names Ilja Dragunov And Kenny Omega As His Dream AEW Opponents",
+      "p": "Bandido speaks about his dream AEW opponents, naming Kenny Omega and the newly signed Ilja Dragunov as potential future opponents. Since signing with All Elite Wrestling, Bandido has squared off...",
+      "link": "https://www.fightful.com/wrestling-news/bandido-names-ilja-dragunov-and-kenny-omega-as-his-dream-aew-opponents/",
+      "t": "41m",
+      "dt": "2026-10-21T17:52:54+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Ilja Dragunov Reflects On AEW WrestleDream Debut, Return To Original Entrance Music",
+      "p": "Ilja Dragunov reflects on his AEW WrestleDream debut, the collaborative effort putting his entrance together, and how happy he is to have his old theme music",
+      "link": "https://www.wrestlinginc.com/2293281/ilja-dragunov-aew-wrestledream-debut-original-entrance-music/",
+      "t": "52m",
+      "dt": "2026-10-21T17:42:29+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (10/21): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, OCTOBER 21, 2026 Where: CORAL GABLES, FLA. AT WATSCO CENTER How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,112 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/10/21/aew-dynamite-preview-10-21-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "1h",
+      "dt": "2026-10-21T17:05:13+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Ilja Dragunov Comments On The New Level’s AEW Debuts Catching His Attention",
+      "p": "Ilja Dragunov has commented on The New Level’s AEW debuts catching his attention, especially how they performed in AEW. On tonight’s edition of AEW Dynamite, Ilja is currently set to face off with...",
+      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-comments-on-the-new-levels-aew-debuts-catching-his-attention/",
+      "t": "1h",
+      "dt": "2026-10-21T16:50:22+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Champ Will Ospreay Comments On Facing Adam Copeland Before His Retirement",
+      "p": "AEW Men's World Champion Will Ospreay comments on facing Adam Copeland before Copeland's retirement, telling Copeland to \"save a date\" for him",
+      "link": "https://www.wrestlinginc.com/2292956/aew-will-ospreay-adam-copeland-facing-before-retirement/",
+      "t": "3h",
+      "dt": "2026-10-21T14:58:09+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Willow Nightingale Reacts To Four Year Anniversary Of Her AEW Signing",
+      "p": "Willow Nightingale has reacted to the four year anniversary of her signing with AEW, noting her success since the signing in her post. Four years ago on a 2022 edition of AEW Rampage, Willow would...",
+      "link": "https://www.fightful.com/wrestling-news/willow-nightingale-reacts-to-four-year-anniversary-of-her-aew-signing/",
+      "t": "4h",
+      "dt": "2026-10-21T14:32:41+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Tonight’s WrestleDream fallout show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s WrestleDream fallout show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/21/aew-dynamite-preview-tonights-wrestledream-fallout-show-3/",
+      "t": "4h",
+      "dt": "2026-10-21T14:00:41+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Ric Flair praises Tony Khan’s generosity: ‘I work for him, and I don’t do anything’",
       "p": "Ric Flair appreciates the generosity Tony Khan has shown him during their friendship. Since 2023, Flair has been under contract with AEW despite only making very rare appearances for the company....",
       "link": "https://www.f4wonline.com/news/aew/ric-flair-praises-tony-khans-generosity-i-work-for-him-and-i-dont-do-anything/",
-      "t": "2m",
+      "t": "4h",
       "dt": "2026-10-21T13:41:38+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Billy Gunn Says His AEW Contract Was For 12 Dates A Year",
-      "p": "Billy Gunn was one of the first signings in AEW, originally signed to work as a coach and producer, but he did end up in the ring. Speaking to Kenny McIntosh of Inside The Ropes, Gunn revealed his...",
-      "link": "https://www.fightful.com/wrestling-news/billy-gunn-says-his-aew-contract-was-for-12-dates-a-year/",
-      "t": "13m",
-      "dt": "2026-10-21T13:30:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ilja Dragunov Speaks On A Potential Rematch With Kyle Fletcher And Why It Is Interesting To Him",
-      "p": "Ilja Dragunov speaks on a potential rematch with Kyle Fletcher in the future, noting why it is an interesting matchup to him. At AEW WrestleDream, Dragunov would make his debut for the promotion,...",
-      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-speaks-on-a-potential-rematch-with-kyle-fletcher-and-why-it-is-interesting-to-him/",
-      "t": "36m",
-      "dt": "2026-10-21T13:06:58+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ilja Dragunov Says Bandido Is ‘Straight Out Of A Video Game’",
-      "p": "Bandido is in Ilja Dragunov’s sights. Ilja Dragunov is making the media rounds ahead of his in-ring debut for All Elite Wrestling. He’ll be facing ‘Speedball’ Mike Bailey on the 10/21 Dynamite....",
-      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-says-bandido-is-straight-out-of-a-video-game/",
-      "t": "40m",
-      "dt": "2026-10-21T13:03:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ilja Dragunov Thinks He Sticks Out From The Rest Of AEW Roster",
-      "p": "Ilja Dragunov states that he bet on himself. Upon Ilja Dragunov’s in-ring debut for All Elite Wrestling, he spoke to TMZ’s Inside The Ring podcast. During the chat, he stated that he thinks he...",
-      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-thinks-he-sticks-out-from-the-rest-of-aew-roster/",
-      "t": "59m",
-      "dt": "2026-10-21T12:44:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ilja Dragunov Reflects On Entrance At AEW WrestleDream: “Something That I Possibly Will Carry In My Heart For The Rest Of My Life”",
-      "p": "Ilja Dragunov speaks about his debut. The 2026 All Elite Wrestling WrestleDream pay-per-view featured the debut of Ilja Dragunov. He is making the media rounds ahead of his in-ring debut for the...",
-      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-reflects-on-entrance-at-aew-wrestledream-something-that-i-possibly-will-carry-in-my-heart-for-the-rest-of-my-life/",
-      "t": "1h",
-      "dt": "2026-10-21T12:13:58+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Dynamite, WWE Evolve, WWE Main Event, last week’s Dynamite and Collision three-hour block poll results and grade, Horace Hogan, Butch Miller",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite, WWE Evolve, WWE Main Event, last week’s Dynamite and Collision three-hour block poll results and grade, Horace Hogan, Butch...",
       "link": "https://prowrestling.net/site/2026/10/21/aew-dynamite-wwe-evolve-wwe-main-event-last-weeks-dynamite-and-collision-three-hour-block-poll-results-and-grade-horace-hogan-butch-miller/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-10-21T12:00:50+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (10/21)",
-      "p": "Viewing information and lineup for AEW Dynamite on October 21, 2026. AEW Dynamite (October 21, 2026) Venue: Watsco Center City: Coral Gables, FL Time: 8pm ET Channel: TBS, Max Lineup Ilja Dragunov...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-10-21/",
-      "t": "1h",
-      "dt": "2026-10-21T12:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Jeff Jarrett defends comedy spot from AEW WrestleDream PPV",
       "p": "AEW performer Jeff Jarrett recently discussed the comedy spot from the Tommaso Ciampa vs Andrade match at WrestleDream this past weekend. Speaking on his My World podcast, the former TNA owner...",
       "link": "https://www.f4wonline.com/news/aew/jeff-jarrett-comedy-spot-aew-wrestledream-ppv/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-10-21T11:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (10-21-2026)",
-      "p": "AEW Dynamite takes place tonight from the Watsco Center at the University of Miami in Coral Gables, FL, and a couple of matches and segments have been confirmed for the broadcast. All we know...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-10-20-2026/",
-      "t": "5h",
-      "dt": "2026-10-21T08:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (10-21-2026)",
-      "p": "AEW Dynamite takes place tonight from the Watsco Center at the University of Miami in Coral Gables, FL, and a couple of matches and segments have been confirmed for the broadcast. All we know...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-10-20-2026/",
-      "t": "5h",
-      "dt": "2026-10-21T08:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Billy Gunn says he refused to get his sons hired by AEW",
-      "p": "A part of AEW since 2020, Billy Gunn was never in favor of his sons getting hired by Tony Khan’s promotion before they graduated from college. Speaking to Kenny McIntosh of Inside The Ropes, Gunn...",
-      "link": "https://www.f4wonline.com/news/aew/billy-gunn-says-he-refused-to-get-his-sons-hired-by-aew/",
-      "t": "8h",
-      "dt": "2026-10-21T05:05:00+00:00"
     }
   ]
 }

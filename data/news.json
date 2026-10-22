@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-22T01:28:30.609174+00:00",
+  "updated": "2026-10-22T07:30:28.540327+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (6 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "Steven Borden returns from injury on AEW Dynamite, issues Blood & Guts challenge",
-      "p": "Not only did Steven Borden make his return on Wednesday’s AEW Dynamite, but the budding second generation star issued quite a challenge: next month’s Blood & Guts match. After Kyle Fletcher and...",
-      "link": "https://www.f4wonline.com/news/aew/steven-borden-returns-aew-dynamite-blood-guts-challenge/",
-      "t": "7m",
-      "dt": "2026-10-22T01:20:30+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Two Title Matches Set For AEW Full Gear",
-      "p": "Two big title matches has been added to AEW Full Gear. Following their squash victory over the Young Bucks to open this week’s episode of Dynamite, the duo of Mark Davis and Jake Doyle will now...",
-      "link": "https://www.fightful.com/wrestling-news/335065-aew-full-gear-tag/",
-      "t": "21m",
-      "dt": "2026-10-22T01:07:12+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "World Tag Team title match set for AEW Full Gear",
-      "p": "In a surprise that opened up Wednesday’s AEW Dynamite, new challengers were crowned for the Young Bucks and the AEW World Tag Team titles in Mark Davis & Jake Doyle. In a title eliminator, the Don...",
-      "link": "https://www.f4wonline.com/news/aew/young-bucks-next-aew-title-challengers-set/",
-      "t": "25m",
-      "dt": "2026-10-22T01:03:17+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "New Level-AEW Contract Details",
-      "p": "Details on the AEW contracts of New Level. Fightful Select reports, “New Level signed five-year AEW contracts.” Full details are available for subscribers. Austin Creed & Kofi joined AEW at AEW...",
-      "link": "https://www.fightful.com/wrestling-news/new-level-aew-contract-details/",
-      "t": "29m",
-      "dt": "2026-10-22T00:58:27+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Women’s Tag Team Title Bout Added To AEW Full Gear",
-      "p": "Harley Cameron & Kris Statlander will be going for gold. At AEW Collision Grand Slam France, Harley Cameron & Kris Statlander defeated Divine Dominion (Lena Kross & Megan Bayne) and Sisters of Sin...",
-      "link": "https://www.fightful.com/wrestling-news/aew-womens-tag-team-title-bout-added-to-aew-full-gear/",
-      "t": "33m",
-      "dt": "2026-10-22T00:55:06+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Steve Borden Returns To AEW To Make Blood & Guts Challenge",
-      "p": "Steve Borden made his return on \"AEW Dynamite\" to challenge the Don Callis Family to a Blood & Guts match, alongside a team of babyfaces including Darby Allin.",
-      "link": "https://www.wrestlinginc.com/2293745/steve-borden-returns-aew-make-blood-guts-challenge/",
-      "t": "42m",
-      "dt": "2026-10-22T00:46:07+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Steven Borden Returns, Issues Blood & Guts Challenge To Don Callis Family",
-      "p": "Steven Borden returns with a big challenge. This week’s episode of AEW Dynamite featured a tag team bout that pitted Adam Copeland and Will Ospreay against the Don Callis Family duo of Kevin...",
-      "link": "https://www.fightful.com/wrestling-news/335060-steven-borden-blood-guts/",
-      "t": "43m",
-      "dt": "2026-10-22T00:44:24+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Davis & Doyle Dominate AEW World Tag Champions To Earn Title Match",
-      "p": "Mark Davis and Jake Doyle dominated AEW World Tag Team Champions The Young Bucks to open \"AEW Dynamite\" and earn themselves a future title shot.",
-      "link": "https://www.wrestlinginc.com/2293740/davis-doyle-dominate-aew-world-tag-champions-earn-title-match/",
+      "src": "PWTorch",
+      "h": "FREE PODCAST 10/21 – WKPWP after Dynamite: Keller & Halley discuss Dragunov’s debut, Davis & Doyle decimating Bucks, Shafir stepping up to Mercedes, more (112 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Taylor Halley to discuss AEW Dynamite including the debut of Ilja Dragunov’s debut. What did AEW get right, but what did they also...",
+      "link": "https://www.pwtorch.com/site/2026/10/22/free-podcast-10-21-wkpwp-after-dynamite-keller-halley-discuss-dragunovs-debut-davis-doyle-decimating-bucks-shafir-stepping-up-to-mercedes-more-112-min/",
       "t": "1h",
-      "dt": "2026-10-22T00:18:50+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mark Davis & Jake Doyle Squash The Young Bucks In Tag Title Eliminator Match On AEW Dynamite",
-      "p": "Mark Davis and Jake Doyle score a huge win. This week’s episode of AEW Dynamite opened with a AEW World Tag Team Championship Eliminator Match that pitted the Young Bucks (c) against the Don...",
-      "link": "https://www.fightful.com/wrestling-news/mark-davis-jake-doyle-squash-the-young-bucks-in-tag-title-eliminator-match-on-aew-dynamite/",
-      "t": "1h",
-      "dt": "2026-10-22T00:17:49+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Dynamite 10/21/26 Review (XL Live 10:35pm ET)",
-      "p": "TONIGHT — John Pollock & Wai Ting review AEW Dynamite featuring Ilja Dragunov’s in-ring debut, Ospreay & Cope teaming, and more. XL: Dusty Classic semis set, Dragon Lee re-signs, UFC 333 Live...",
-      "link": "https://www.postwrestling.com/2026/10/21/aew-dynamite-10-21-26-review-xl-live-1035pm-et/",
-      "t": "1h",
-      "dt": "2026-10-21T23:45:51+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Wrestling Contract Expiration Dates: WWE, AEW, NJPW, TNA, Misc.",
-      "p": "Fightful has compiled an ongoing list featuring confirmed Wrestling Contract Expiration Dates: WWE, AEW, NJPW, TNA, Misc. reported by respected news outlets or the talent. You can also find...",
-      "link": "https://www.fightful.com/wrestling-news/confirmed-wrestling-contract-expirations/",
-      "t": "1h",
-      "dt": "2026-10-21T23:37:00+00:00"
+      "dt": "2026-10-22T06:16:51+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "AEW Dynamite results (10/21): Powell’s review of the WrestleDream fallout show with Will Ospreay and Adam Copeland vs. Kyle Fletcher and Kevin Knight, Ilja Dragunov vs. Mike Bailey",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite results (10/21): Powell’s review of the WrestleDream fallout show with Will Ospreay and Adam Copeland vs. Kyle Fletcher and Kevin...",
-      "link": "https://prowrestling.net/site/2026/10/21/aew-dynamite-results-10-21-powells-review-of-the-wrestledream-fallout-show-with-will-ospreay-and-adam-copeland-vs-kyle-fletcher-and-kevin-knight-ilja-dragunov-vs-mike-bailey/",
+      "h": "10/21 Powell’s AEW Dynamite audio review: Ilja Dragunov vs. Mike Bailey, AEW World Champion Will Ospreay and Adam Copeland vs. Kyle Fletcher and Kevin Knight",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 10/21 Powell’s AEW Dynamite audio review: Ilja Dragunov vs. Mike Bailey, AEW World Champion Will Ospreay and Adam Copeland vs. Kyle Fletcher...",
+      "link": "https://prowrestling.net/site/2026/10/22/10-21-powells-aew-dynamite-audio-review-ilja-dragunov-vs-mike-bailey-aew-world-champion-will-ospreay-and-adam-copeland-vs-kyle-fletcher-and-kevin-knight/",
       "t": "1h",
-      "dt": "2026-10-21T23:30:39+00:00"
+      "dt": "2026-10-22T05:39:37+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite - 10/21/2026: 3 Things We Hated & 3 Things We Loved",
+      "p": "The best and the worst of the October 21 edition of AEW Dynamite.",
+      "link": "https://www.wrestlinginc.com/2293776/aew-dynamite-october-21-2026-3-things-hated-loved-opinion-review/",
+      "t": "1h",
+      "dt": "2026-10-22T05:38:39+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Bandido names Ilja Dragunov among his dream AEW opponents",
+      "p": "AEW Trios and ROH World Champion Bandido has named Ilja Dragunov as one of his dream AEW opponents. During a recent interview with Good Karma Wrestling, Bandido opened up about his possible AEW...",
+      "link": "https://www.f4wonline.com/news/aew/bandido-names-ilja-dragunov-among-his-dream-aew-opponents/",
+      "t": "2h",
+      "dt": "2026-10-22T05:30:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 10/21 – WKH – AEW Dynamite: Blood & Guts set up, Shafir steps up to Mercedes, Dragunov debuts against Speedball, Ospreay & Copeland vs. Knight & Fletcher, Jericho-Wayne interact (21 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the Oct. 21 episode of AEW Dynamite start to finish including the Blood & Guts set up, Marina Shafir...",
+      "link": "https://www.pwtorch.com/site/2026/10/22/vip-podcast-10-21-wkh-aew-dynamite-blood-guts-set-up-shafir-steps-up-to-mercedes-dragunov-debuts-against-speedball-ospreay-copeland-vs-knight-fletcher-jericho-wayne-interact-21-min/",
+      "t": "2h",
+      "dt": "2026-10-22T05:11:16+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Ilja Dragunov Debuts: AEW Dynamite 10/21/26 Review",
+      "p": "John Pollock & Wai Ting review AEW Dynamite featuring Ilja Dragunov’s in-ring debut, Ospreay & Cope teaming, and more. XL: Dusty Classic semis set, Dragon Lee re-signs, UFC 333. The post Ilja...",
+      "link": "https://www.postwrestling.com/2026/10/21/aew-dynamite-10-21-26-review-xl-live-1035pm-et/",
+      "t": "3h",
+      "dt": "2026-10-22T03:45:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Early lineups released for AEW Collision & Fright Night Dynamite",
+      "p": "The early lineups are out for both this Saturday’s AEW Collision and next Wednesday’s annual Fright Night edition of Dynamite. On the Collision front, the show will feature the second bout in the...",
+      "link": "https://www.f4wonline.com/news/aew/early-lineups-released-for-aew-collision-fright-night-dynamite/",
+      "t": "3h",
+      "dt": "2026-10-22T03:32:34+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Queen Aminata to challenge TBS Champion Persephone as part of 10/28 AEW Fright Night Dynamite",
+      "p": "Queen Aminata will get a shot at TBS Champion Persephone as part of next week's \"Fright Night' edition of AEW Dynamite. The post Queen Aminata to challenge TBS Champion Persephone as part of 10/28...",
+      "link": "https://www.postwrestling.com/2026/10/21/queen-aminata-to-challenge-tbs-champion-persephone-as-part-of-10-28-aew-fright-night-dynamite/",
+      "t": "4h",
+      "dt": "2026-10-22T03:25:03+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Teams announced for men’s AEW Blood and Guts match",
+      "p": "Both men’s teams are now official for next month’s AEW Blood & Guts match after the events of Wednesday’s AEW Dynamite. Reigning AEW World Champion Will Ospreay will team with Adam Copeland,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-blood-and-guts-2026-mens-teams/",
+      "t": "4h",
+      "dt": "2026-10-22T03:19:04+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Swerve Strickland compares his in-ring ability to legendary WWE stars",
+      "p": "Swerve Strickland has opened up in detail and compared his in-ring ability to WWE legends. In a recent interview with Billboard’s Carl Lamarre, Strickland reflected on his career and compared...",
+      "link": "https://www.f4wonline.com/news/aew/swerve-strickland-compares-his-in-ring-ability-to-legendary-wwe-stars/",
+      "t": "4h",
+      "dt": "2026-10-22T03:15:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Two tag title matchups set for AEW Full Gear",
+      "p": "AEW's two main tag team championships have been booked for Full Gear, which is now just a few weeks away. The post Two tag title matchups set for AEW Full Gear appeared first on POST Wrestling |...",
+      "link": "https://www.postwrestling.com/2026/10/21/two-tag-title-matchups-set-for-aew-full-gear/",
+      "t": "4h",
+      "dt": "2026-10-22T03:12:33+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Don Callis Family vs. Team Ospreay set for AEW Blood & Guts 2026",
+      "p": "Team Ospreay (including a returning Steve Borden) will face off against the Don Callis Family in this year's AEW Blood & Guts. The post Don Callis Family vs. Team Ospreay set for AEW Blood & Guts...",
+      "link": "https://www.postwrestling.com/2026/10/21/don-callis-family-vs-team-ospreay-set-for-aew-blood-guts-2026/",
+      "t": "4h",
+      "dt": "2026-10-22T03:05:32+00:00"
     }
   ]
 }

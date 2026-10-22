@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T18:29:36.875344+00:00",
+  "updated": "2026-10-22T22:16:55.790046+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -12,11 +12,51 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "Penta Says His Family Helped Him Choose Between WWE & AEW",
+      "p": "Former AEW Tag Team Champion Penta explains how his family helped him decide between staying with AEW or signing with WWE in 2024.",
+      "link": "https://www.wrestlinginc.com/2294871/wwe-aew-penta-family-helped-choose/",
+      "t": "1h",
+      "dt": "2026-10-22T21:09:20+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: Latest on Saudi Arabia, Blood and Guts set & Ilja Dragunov debuts",
+      "p": "John Kleinchester covers the news, including concern over Crown Jewel, the men's Blood and Guts teams, Ilja Dragunov's AEW debut, and more. The post POST NEWS: Latest on Saudi Arabia, Blood and...",
+      "link": "https://www.postwrestling.com/2026/10/22/post-news-latest-on-saudi-arabia-blood-and-guts-set-ilja-dragunov-debuts/",
+      "t": "1h",
+      "dt": "2026-10-22T20:27:14+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Full Gear lineup: The early card for next month’s pay-per-view",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Full Gear lineup: The early card for next month’s pay-per-view appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/22/aew-full-gear-lineup-the-early-card-for-next-months-pay-per-view/",
+      "t": "2h",
+      "dt": "2026-10-22T19:30:55+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Swerve Strickland: I Perform At 'Highest Level' For A Black Wrestler In History",
+      "p": "AEW's Swerve Strickland told Billboard that he feels that he performs at the \"highest level\" you could see in pro wrestling history for a Black star.",
+      "link": "https://www.wrestlinginc.com/2294698/aew-swerve-strickland-perform-highest-level-black-wrestler-history/",
+      "t": "3h",
+      "dt": "2026-10-22T19:10:02+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Penta Attends Pachuca vs. Cruz Azul Game, AEW Dynamite Highlights, More | Fight Size",
+      "p": "Here is your fight size update for Thursday, October 22, 2026. – Penta attended the recent match between Pachuca and Cruz Azul: 🛡️| Zero Miedo y PURO PACHUCA 🤍💙 pic.twitter.com/nrR31IUTVH — Club...",
+      "link": "https://www.fightful.com/wrestling-news/penta-attends-pachuca-vs-cruz-azul-game-aew-dynamite-highlights-more-fight-size/",
+      "t": "3h",
+      "dt": "2026-10-22T19:00:00+00:00"
+    },
+    {
       "src": "PWTorch",
       "h": "PARKS’S TAKE: Looking at Ilja Dragunov’s list of standout potential opponents on AEW roster",
       "p": "Ilja Dragunov made his AEW last night on Dynamite, defeating “Speedball” Mike Bailey in the show’s main event. The positioning of Dragunov in the last match immediately put him on the map as...",
       "link": "https://www.pwtorch.com/site/2026/10/22/parkss-take-looking-at-ilja-dragunovs-list-of-standout-potential-opponents-on-aew-roster/",
-      "t": "16m",
+      "t": "4h",
       "dt": "2026-10-22T18:12:35+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "Judge Denies AEW’s Request To Move Production Worker Lawsuit To Florida",
       "p": "A judge has denied AEW and Jon Moxley’s request to move a civil lawsuit to a Florida court. Brandon Thurston of POST Wrestling first reported the news on Thursday, referencing the lawsuit that...",
       "link": "https://www.fightful.com/wrestling-news/335161-aew-moxley/",
-      "t": "40m",
+      "t": "4h",
       "dt": "2026-10-22T17:49:00+00:00"
     },
     {
@@ -32,23 +72,15 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on the Mark Davis and Jake Doyle squashing the Young Bucks, Ilja Dragunov’s debut match, the build to Blood & Guts",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the Mark Davis and Jake Doyle squashing the Young Bucks, Ilja Dragunov’s debut match, the build to...",
       "link": "https://prowrestling.net/site/2026/10/22/powells-aew-dynamite-hit-list-thoughts-on-the-mark-davis-and-jake-doyle-squashing-the-young-bucks-ilja-dragunovs-debut-match-the-build-to-blood-guts/",
-      "t": "46m",
+      "t": "4h",
       "dt": "2026-10-22T17:42:51+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Ilja Dragunov: AEW Is A Company That Is Working For Fans Of Professional Wrestling",
-      "p": "Ilja Dragunov knows why the fans come to AEW. The ‘Mad Dragon’ kicked off his AEW career in a big way by defeating ‘Speedball’ Mike Bailey on the October 21 episode of AEW Dynamite. This match was...",
-      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-aew-is-a-company-that-is-working-for-fans-of-professional-wrestling/",
-      "t": "1h",
-      "dt": "2026-10-22T16:38:32+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Dispensa lawsuit against AEW and Jon Moxley will stay in Michigan where incident occurred",
       "p": "Injury case brought by production worker shoved at 2023 AEW Dynamite in Detroit will not be moved to Florida The post Dispensa lawsuit against AEW and Jon Moxley will stay in Michigan where...",
       "link": "https://www.postwrestling.com/2026/10/22/dispensa-lawsuit-against-aew-and-jon-moxley-will-stay-in-michigan-where-incident-occurred/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-10-22T15:54:28+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "AEW Dynamite preview: Blood & Guts headlines the November 4 show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Blood & Guts headlines the November 4 show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/10/22/aew-dynamite-preview-blood-guts-headlines-the-november-4-show/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-10-22T15:45:40+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "Former WWE Star Ilja Dragunov On His Experience Since Joining AEW: 'I Feel Freedom'",
       "p": "Ilja Dragunov has praised his AEW experience so far, explaining how joining the promotion has given him a sense of freedom.",
       "link": "https://www.wrestlinginc.com/2293830/wwe-ilja-dragunov-experience-aew-i-feel-freedom/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-10-22T14:00:00+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "ROH on HonorClub lineup: ROH Pure Championship match headlines tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: ROH Pure Championship match headlines tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/10/22/roh-on-honorclub-lineup-roh-pure-championship-match-headlines-tonights-show/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-10-22T13:30:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Producer Scotty 2 Hotty Praises Kyle Fletcher: 'He's My Guy'",
-      "p": "Scotty 2 Hotty has discussed Kyle Fletcher's growth in AEW, expressing how impressed he is with the former TNT Champion and his potential.",
-      "link": "https://www.wrestlinginc.com/2293818/aew-scotty-2-hotty-kyle-fletcher-producer-praises-my-guy/",
-      "t": "4h",
-      "dt": "2026-10-22T13:30:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: The Fright Night edition",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Fright Night edition appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/22/aew-dynamite-preview-the-fright-night-edition/",
-      "t": "5h",
-      "dt": "2026-10-22T13:15:53+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: The card for Saturday’s live show",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for Saturday’s live show appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/22/aew-collision-lineup-the-card-for-saturdays-live-show-15/",
-      "t": "5h",
-      "dt": "2026-10-22T13:00:44+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Alvarez’s AEW Dynamite October 21 report for subscribers",
-      "p": "Bryan Alvarez’s report on the October 21 edition of AEW Dynamite is now available for subscribers.",
-      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-october-21-report-for-subscribers/",
-      "t": "6h",
-      "dt": "2026-10-22T11:40:56+00:00"
     }
   ]
 }

@@ -1,46 +1,86 @@
 {
-  "updated": "2026-10-23T07:25:41.630699+00:00",
+  "updated": "2026-10-23T13:21:37.837073+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Gabe Kidd Confronts Clark Connors & David Finlay At PRODUCE Volume 6",
+      "p": "Even outside of AEW, Gabe Kidd isn’t on good terms with Clark Connors and David Finlay. PRODUCE hosted their Hell Comes To Dogtown event in Los Angeles, California on Thursday, October 22. The...",
+      "link": "https://www.fightful.com/wrestling-news/gabe-kidd-confronts-clark-connors-david-finlay-at-produce-volume-6/",
+      "t": "20m",
+      "dt": "2026-10-23T13:01:01+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: NOAH & MARIGOLD visit Ryogoku, NJPW begins Jr. Tag League, AAA goes live & more!",
+      "p": "A preview of this weekend's top professional wrestling events on TV & streaming, including shows from WWE, AEW, NJPW, NOAH, AAA, and more. The post Weekend TV Guide: NOAH & MARIGOLD visit Ryogoku,...",
+      "link": "https://www.postwrestling.com/2026/10/23/weekend-tv-guide-noah-marigold-visit-ryogoku-njpw-begins-jr-tag-league-aaa-goes-live-more/",
+      "t": "1h",
+      "dt": "2026-10-23T12:00:09+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Schiavone reveals AEW sometimes puts shows together with ‘not that much prep’",
+      "p": "AEW commentator Tony Schiavone recently discussed how AEW shows are put together, revealing on his What Happened When? podcast that shows are put together with ‘not that much prep.’ Tony Schiavone...",
+      "link": "https://www.f4wonline.com/news/aew/tony-schiavone-aew-show-not-much-prep/",
+      "t": "2h",
+      "dt": "2026-10-23T10:53:28+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Several AEW names appearing at tonight’s CMLL International Women’s Grand Prix 2026",
+      "p": "CMLL will be hosting the International Women’s Grand Prix 2026 tonight from Arena Mexico in Mexico City, Distrito Federal. The full card for the show has been announced, and several AEW names are...",
+      "link": "https://www.f4wonline.com/news/aew/aew-names-appearing-tonight-cmll-international-womens-grand-prix-2026/",
+      "t": "2h",
+      "dt": "2026-10-23T10:21:39+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Schiavone admits backstage concern over new AEW match concept",
+      "p": "AEW commentator Tony Schiavone recently discussed the Clockwork Carnage match from AEW WrestleDream, explaining how he was concerned that the match concept might not work on PPV in practice....",
+      "link": "https://www.f4wonline.com/news/aew/tony-schiavone-clockwork-carnage-aew-wrestledream-2026-gimmick-concept/",
+      "t": "3h",
+      "dt": "2026-10-23T09:56:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "1k tickets have been distributed for AEW Dynamite Blood and Guts over the last week",
+      "p": "The AEW Dynamite Blood and Guts episode will be taking place on Wednesday, November 4 from the VyStar Veterans Memorial Arena un Jacksonville, FL. According to the latest update from WrestleTix,...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-blood-and-guts-2026-tickets-1k/",
+      "t": "3h",
+      "dt": "2026-10-23T09:42:06+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Wren Sinclair explains why WWE Total Divas was important for women’s wrestling",
+      "p": "Emerged as a revolutionary step in women’s wrestling sports entertainment, WWE’s Wren Sinclair feels that the show was empowering. Speaking on No-Contest Wrestling, Sinclair shared her thoughts on...",
+      "link": "https://www.f4wonline.com/news/wwe/wren-sinclair-explains-why-wwe-total-divas-was-important-for-womens-wrestling/",
+      "t": "3h",
+      "dt": "2026-10-23T09:30:00+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "Billy Gunn explains why AEW paired him with The Acclaimed",
       "p": "Despite having his sons in AEW, Billy Gunn was paired with The Acclaimed in the promotion. Speaking with Inside The Ropes during his latest UK tour, Gunn was asked about his partnership with Max...",
       "link": "https://www.f4wonline.com/news/aew/billy-gunn-explains-why-aew-paired-him-with-the-acclaimed/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-10-23T06:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "B&V: Dynamite post-WrestleDream show, rotten edition of NXT",
-      "p": "The Bryan & Vinny Show is back with tons to talk about including a full recap of the post-WrestleDream edition of Dynamite, including some big angles to lead into Blood and Guts and Full Gear, and...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/bv-dynamite-post-wrestledream-show-rotten-edition-of-nxt/",
-      "t": "3h",
-      "dt": "2026-10-23T04:12:02+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Jericho to play Gorgeous George in upcoming Muhammad Ali series",
-      "p": "Current AEW star Chris Jericho will be appearing on the small screen in an acting role once again, playing a role he is familiar with and of someone many wrestling fans are familiar with as well....",
-      "link": "https://www.f4wonline.com/news/aew/chris-jericho-gorgeous-george-muhammad-ali-series-prime/",
-      "t": "4h",
-      "dt": "2026-10-23T02:58:02+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 10/22 – The Fix w/Todd & Wade (pt. 1 of 2): Crown Jewel-Saudi Arabia, Dragunov’s AEW debut, Roman-Sami, AEW Full Gear options, TV reviews, more (82 min.)",
       "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: A review of this week’s AEW Dynamite...",
       "link": "https://www.pwtorch.com/site/2026/10/22/vip-podcast-10-22-the-fix-w-todd-wade-pt-1-of-2-crown-jewel-saudi-arabia-dragunovs-aew-debut-roman-sami-aew-full-gear-options-tv-reviews-more-82-min/",
-      "t": "4h",
+      "t": "10h",
       "dt": "2026-10-23T02:33:46+00:00"
     },
     {
@@ -48,23 +88,15 @@
       "h": "ROH TV Results (10/22): ROH Pure Title Bout Headlines",
       "p": "Ring of Honor Wrestling aired the latest episode of ROH TV on October 22. The event aired on Honor Club. Full results are below. ROH TV Results (10/22) Shane Taylor puts over Shane Taylor...",
       "link": "https://www.fightful.com/wrestling-news/roh-tv-results-10-22-roh-pure-title-bout-headlines/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-10-23T02:00:20+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH live results: Lee Moriarty vs. Mance Warner, Mina Shirakawa vs. Isla Dawn",
-      "p": "Ring of Honor is back on HonorClub tonight. The ROH Men’s Pure Championship will be on the line as Lee Moriarty will defend against Mance Warner. Mina Shirakawa versus Isla Dawn is also scheduled...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-live-results-lee-moriarty-mance-warner-october-22-2026/",
-      "t": "8h",
-      "dt": "2026-10-22T23:15:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Penta Says His Family Helped Him Choose Between WWE & AEW",
       "p": "Former AEW Tag Team Champion Penta explains how his family helped him decide between staying with AEW or signing with WWE in 2024.",
       "link": "https://www.wrestlinginc.com/2294871/wwe-aew-penta-family-helped-choose/",
-      "t": "10h",
+      "t": "16h",
       "dt": "2026-10-22T21:09:20+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "POST NEWS: Latest on Saudi Arabia, Blood and Guts set & Ilja Dragunov debuts",
       "p": "John Kleinchester covers the news, including concern over Crown Jewel, the men's Blood and Guts teams, Ilja Dragunov's AEW debut, and more. The post POST NEWS: Latest on Saudi Arabia, Blood and...",
       "link": "https://www.postwrestling.com/2026/10/22/post-news-latest-on-saudi-arabia-blood-and-guts-set-ilja-dragunov-debuts/",
-      "t": "10h",
+      "t": "16h",
       "dt": "2026-10-22T20:27:14+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Full Gear lineup: The early card for next month’s pay-per-view",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Full Gear lineup: The early card for next month’s pay-per-view appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/22/aew-full-gear-lineup-the-early-card-for-next-months-pay-per-view/",
-      "t": "11h",
-      "dt": "2026-10-22T19:30:55+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Swerve Strickland: I Perform At 'Highest Level' For A Black Wrestler In History",
-      "p": "AEW's Swerve Strickland told Billboard that he feels that he performs at the \"highest level\" you could see in pro wrestling history for a Black star.",
-      "link": "https://www.wrestlinginc.com/2294698/aew-swerve-strickland-perform-highest-level-black-wrestler-history/",
-      "t": "12h",
-      "dt": "2026-10-22T19:10:02+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "PARKS’S TAKE: Looking at Ilja Dragunov’s list of standout potential opponents on AEW roster",
-      "p": "Ilja Dragunov made his AEW last night on Dynamite, defeating “Speedball” Mike Bailey in the show’s main event. The positioning of Dragunov in the last match immediately put him on the map as...",
-      "link": "https://www.pwtorch.com/site/2026/10/22/parkss-take-looking-at-ilja-dragunovs-list-of-standout-potential-opponents-on-aew-roster/",
-      "t": "13h",
-      "dt": "2026-10-22T18:12:35+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Thoughts on the Mark Davis and Jake Doyle squashing the Young Bucks, Ilja Dragunov’s debut match, the build to Blood & Guts",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the Mark Davis and Jake Doyle squashing the Young Bucks, Ilja Dragunov’s debut match, the build to...",
-      "link": "https://prowrestling.net/site/2026/10/22/powells-aew-dynamite-hit-list-thoughts-on-the-mark-davis-and-jake-doyle-squashing-the-young-bucks-ilja-dragunovs-debut-match-the-build-to-blood-guts/",
-      "t": "13h",
-      "dt": "2026-10-22T17:42:51+00:00"
     }
   ]
 }

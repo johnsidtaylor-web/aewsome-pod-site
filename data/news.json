@@ -1,30 +1,102 @@
 {
-  "updated": "2026-10-23T13:21:37.837073+00:00",
+  "updated": "2026-10-23T18:16:50.283223+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "AEW New Year’s Smash announced for January 1 & 2 in Georgia",
+      "p": "The promotion announced on Friday that New Year’s Smash will occur on January 1 & 2 at the Gateway Center Arena in College Park, Georgia. The post AEW New Year’s Smash announced for January 1 & 2...",
+      "link": "https://www.postwrestling.com/2026/10/23/aew-new-years-smash-announced-for-january-1-2-in-georgia/",
+      "t": "48m",
+      "dt": "2026-10-23T17:28:06+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "The Peteani Briefing: The AEW Full Gear build and how the card was shaped by WrestleDream and the Dynamite fallout show",
+      "p": "By Frank Peteani, ProWrestling.net Contributor... The post The Peteani Briefing: The AEW Full Gear build and how the card was shaped by WrestleDream and the Dynamite fallout show appeared first on...",
+      "link": "https://prowrestling.net/site/2026/10/23/the-peteani-briefing-the-aew-full-gear-build-and-how-the-card-was-shaped-by-wrestledream-and-the-dynamite-fallout-show/",
+      "t": "1h",
+      "dt": "2026-10-23T17:15:55+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Chris Jericho To Play Famed Wrestler In Upcoming Streaming Series",
+      "p": "Even though he lost twice to Nick Wayne, AEW's Chris Jericho continues to add his acting resume and landed an important role in an upcoming series.",
+      "link": "https://www.wrestlinginc.com/2295463/aew-chris-jericho-gorgeous-george-famed-wrestler-streaming-series/",
+      "t": "1h",
+      "dt": "2026-10-23T16:43:43+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW announces two-night New Year’s Smash 2027 special",
+      "p": "AEW is kicking off 2027 with a special two-night event. The promotion announced today that New Year’s Smash 2027 will be held in Atlanta on January 1-2. It begins with a special Friday episode of...",
+      "link": "https://www.f4wonline.com/news/aew/aew-announces-two-night-new-years-smash-2027-special/",
+      "t": "1h",
+      "dt": "2026-10-23T16:27:11+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "ROH on HonorClub results (10/22): Lee Moriarty vs. Mance Warner for the ROH Pure Championship, Mina Shirakawa vs. Isla Dawn",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (10/22): Lee Moriarty vs. Mance Warner for the ROH Pure Championship, Mina Shirakawa vs. Isla Dawn appeared first on...",
+      "link": "https://prowrestling.net/site/2026/10/23/roh-on-honorclub-results-10-22-lee-moriarty-vs-mance-warner-for-the-roh-pure-championship-mina-shirakawa-vs-isla-dawn/",
+      "t": "2h",
+      "dt": "2026-10-23T16:03:21+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Austin Creed On Adapting To AEW's Style: 'Kofi And I Are Very Much Chameleons'",
+      "p": "Austin Creed is confident that he and Kofi can adapt to their new surroundings in AEW, explaining how he did the same during his time in TNA Wrestling.",
+      "link": "https://www.wrestlinginc.com/2295079/aew-austin-creed-kofi-new-level-adapting-style-chameleons/",
+      "t": "2h",
+      "dt": "2026-10-23T16:00:00+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Gabe Kidd Confronts Clark Connors & David Finlay At PRODUCE Volume 6",
-      "p": "Even outside of AEW, Gabe Kidd isn’t on good terms with Clark Connors and David Finlay. PRODUCE hosted their Hell Comes To Dogtown event in Los Angeles, California on Thursday, October 22. The...",
-      "link": "https://www.fightful.com/wrestling-news/gabe-kidd-confronts-clark-connors-david-finlay-at-produce-volume-6/",
-      "t": "20m",
-      "dt": "2026-10-23T13:01:01+00:00"
+      "h": "AEW New Year’s Smash Announced For January 1 And 2",
+      "p": "AEW New Year’s Smash returns. All Elite Wrestling announced that Dynamite New Year’s Smash will take place on Friday, January 1 and Collision New Year’s Smash will take place on Saturday, January...",
+      "link": "https://www.fightful.com/wrestling-news/aew-new-years-smash-announced-for-january-1-and-2/",
+      "t": "2h",
+      "dt": "2026-10-23T15:38:52+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Deeper Look At Austin Creed & Kofi's AEW Deals",
+      "p": "Austin Creed and Kofi, who debuted in AEW at All In, look set to remain with the promotion for a long time, as details of their contract lengths emerge.",
+      "link": "https://www.wrestlinginc.com/2295030/deeper-look-austin-creed-kofi-aew-deals/",
+      "t": "3h",
+      "dt": "2026-10-23T14:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "October 26, 2026 Observer Newsletter: AEW WrestleDream review & ratings, Saudi travel situation worsens",
+      "p": "Dave Meltzer has posted a new edition of the Wrestling Observer Newsletter. He leads off with the latest on the precarious travel situation in Saudi Arabia and TKO’s continued persistence in...",
+      "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/october-26-2026-observer-newsletter-aew-wrestledream-reviews-ratings-saudi-travel-situation-worsens/",
+      "t": "4h",
+      "dt": "2026-10-23T13:54:53+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Ilja Dragunov Says AEW Success Of Ex-WWE Stars The New Level Caught His Attention",
+      "p": "Ilja Dragunov has discussed the role The New Level, the duo of Kofi and Austin Creed, played in convincing him to join AEW after leaving WWE.",
+      "link": "https://www.wrestlinginc.com/2295020/ilja-dragunov-aew-wwe-new-level-caught-attention/",
+      "t": "4h",
+      "dt": "2026-10-23T13:30:00+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Weekend TV Guide: NOAH & MARIGOLD visit Ryogoku, NJPW begins Jr. Tag League, AAA goes live & more!",
       "p": "A preview of this weekend's top professional wrestling events on TV & streaming, including shows from WWE, AEW, NJPW, NOAH, AAA, and more. The post Weekend TV Guide: NOAH & MARIGOLD visit Ryogoku,...",
       "link": "https://www.postwrestling.com/2026/10/23/weekend-tv-guide-noah-marigold-visit-ryogoku-njpw-begins-jr-tag-league-aaa-goes-live-more/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-10-23T12:00:09+00:00"
     },
     {
@@ -32,80 +104,8 @@
       "h": "Tony Schiavone reveals AEW sometimes puts shows together with ‘not that much prep’",
       "p": "AEW commentator Tony Schiavone recently discussed how AEW shows are put together, revealing on his What Happened When? podcast that shows are put together with ‘not that much prep.’ Tony Schiavone...",
       "link": "https://www.f4wonline.com/news/aew/tony-schiavone-aew-show-not-much-prep/",
-      "t": "2h",
-      "dt": "2026-10-23T10:53:28+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Several AEW names appearing at tonight’s CMLL International Women’s Grand Prix 2026",
-      "p": "CMLL will be hosting the International Women’s Grand Prix 2026 tonight from Arena Mexico in Mexico City, Distrito Federal. The full card for the show has been announced, and several AEW names are...",
-      "link": "https://www.f4wonline.com/news/aew/aew-names-appearing-tonight-cmll-international-womens-grand-prix-2026/",
-      "t": "2h",
-      "dt": "2026-10-23T10:21:39+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Schiavone admits backstage concern over new AEW match concept",
-      "p": "AEW commentator Tony Schiavone recently discussed the Clockwork Carnage match from AEW WrestleDream, explaining how he was concerned that the match concept might not work on PPV in practice....",
-      "link": "https://www.f4wonline.com/news/aew/tony-schiavone-clockwork-carnage-aew-wrestledream-2026-gimmick-concept/",
-      "t": "3h",
-      "dt": "2026-10-23T09:56:18+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "1k tickets have been distributed for AEW Dynamite Blood and Guts over the last week",
-      "p": "The AEW Dynamite Blood and Guts episode will be taking place on Wednesday, November 4 from the VyStar Veterans Memorial Arena un Jacksonville, FL. According to the latest update from WrestleTix,...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-blood-and-guts-2026-tickets-1k/",
-      "t": "3h",
-      "dt": "2026-10-23T09:42:06+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Wren Sinclair explains why WWE Total Divas was important for women’s wrestling",
-      "p": "Emerged as a revolutionary step in women’s wrestling sports entertainment, WWE’s Wren Sinclair feels that the show was empowering. Speaking on No-Contest Wrestling, Sinclair shared her thoughts on...",
-      "link": "https://www.f4wonline.com/news/wwe/wren-sinclair-explains-why-wwe-total-divas-was-important-for-womens-wrestling/",
-      "t": "3h",
-      "dt": "2026-10-23T09:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Billy Gunn explains why AEW paired him with The Acclaimed",
-      "p": "Despite having his sons in AEW, Billy Gunn was paired with The Acclaimed in the promotion. Speaking with Inside The Ropes during his latest UK tour, Gunn was asked about his partnership with Max...",
-      "link": "https://www.f4wonline.com/news/aew/billy-gunn-explains-why-aew-paired-him-with-the-acclaimed/",
       "t": "7h",
-      "dt": "2026-10-23T06:00:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 10/22 – The Fix w/Todd & Wade (pt. 1 of 2): Crown Jewel-Saudi Arabia, Dragunov’s AEW debut, Roman-Sami, AEW Full Gear options, TV reviews, more (82 min.)",
-      "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: A review of this week’s AEW Dynamite...",
-      "link": "https://www.pwtorch.com/site/2026/10/22/vip-podcast-10-22-the-fix-w-todd-wade-pt-1-of-2-crown-jewel-saudi-arabia-dragunovs-aew-debut-roman-sami-aew-full-gear-options-tv-reviews-more-82-min/",
-      "t": "10h",
-      "dt": "2026-10-23T02:33:46+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Results (10/22): ROH Pure Title Bout Headlines",
-      "p": "Ring of Honor Wrestling aired the latest episode of ROH TV on October 22. The event aired on Honor Club. Full results are below. ROH TV Results (10/22) Shane Taylor puts over Shane Taylor...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-10-22-roh-pure-title-bout-headlines/",
-      "t": "11h",
-      "dt": "2026-10-23T02:00:20+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Penta Says His Family Helped Him Choose Between WWE & AEW",
-      "p": "Former AEW Tag Team Champion Penta explains how his family helped him decide between staying with AEW or signing with WWE in 2024.",
-      "link": "https://www.wrestlinginc.com/2294871/wwe-aew-penta-family-helped-choose/",
-      "t": "16h",
-      "dt": "2026-10-22T21:09:20+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: Latest on Saudi Arabia, Blood and Guts set & Ilja Dragunov debuts",
-      "p": "John Kleinchester covers the news, including concern over Crown Jewel, the men's Blood and Guts teams, Ilja Dragunov's AEW debut, and more. The post POST NEWS: Latest on Saudi Arabia, Blood and...",
-      "link": "https://www.postwrestling.com/2026/10/22/post-news-latest-on-saudi-arabia-blood-and-guts-set-ilja-dragunov-debuts/",
-      "t": "16h",
-      "dt": "2026-10-22T20:27:14+00:00"
+      "dt": "2026-10-23T10:53:28+00:00"
     }
   ]
 }

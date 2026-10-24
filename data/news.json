@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-23T22:06:11.084531+00:00",
+  "updated": "2026-10-24T00:37:46.114951+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -12,11 +12,43 @@
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW Star Willow Nightingale Provides Update On Hand Injury",
+      "p": "Former AEW Women's World Champion Willow Nightingale took to her Instagram stories to provide an update on her hand injury.",
+      "link": "https://www.wrestlinginc.com/2296057/aew-willow-nightingale-hand-injury-update/",
+      "t": "48m",
+      "dt": "2026-10-23T23:49:39+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "An Update On Sheamus And AEW",
+      "p": "Details on Sheamus and AEW. Fightful Select reports, “There doesn’t seem to be a huge urgency in bringing him in, but there are some heavy hitters like Claudio Castagnoli and Adam Copeland that...",
+      "link": "https://www.fightful.com/wrestling-news/an-update-on-sheamus-and-aew/",
+      "t": "2h",
+      "dt": "2026-10-23T22:37:22+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "CMLL HITS & MISSES: A look at the highs and lows of August and September including Thunder Rosa & Tessa Blanchard, Flip Gordon, Mistico, Don Callis Family",
+      "p": "Surprise! You get a two-for-one special today. Instead of one month of CMLL, I’ll be covering two: August and September. I already did a special Hits & Misses for the 93rd Anniversario (go check...",
+      "link": "https://www.pwtorch.com/site/2026/10/23/cmll-hits-misses-a-look-at-the-highs-and-lows-of-august-and-september-including-thunder-rosa-tessa-blanchard-flip-gordon-mistico-don-callis-family/",
+      "t": "2h",
+      "dt": "2026-10-23T22:35:24+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "An Update On The Status Of Samantha Irvin",
+      "p": "Details on the status of Samantha Irvin. Fightful Select reports, “Samantha Irvin is set to be a free agent this month as her two-year WWE non-compete expires. Fightful Select can confirm that AEW...",
+      "link": "https://www.fightful.com/wrestling-news/an-update-on-the-status-of-samantha-irvin/",
+      "t": "2h",
+      "dt": "2026-10-23T22:09:21+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Willow Nightingale gives update on AEW hand injury recovery",
       "p": "Willow Nightingale is still working her way back to 100 percent after the hand injury she suffered this summer. On the road to AEW All In 2026, Nightingale’s status for the pay-per-view was...",
       "link": "https://www.f4wonline.com/news/aew/willow-nightingale-gives-update-on-aew-hand-injury-recovery/",
-      "t": "29m",
+      "t": "3h",
       "dt": "2026-10-23T21:36:51+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW's Tony Khan Talks Adam Copeland Retirement Announcement, Christian Cage's Injury",
       "p": "AEW CEO Tony Khan addresses Adam Copeland's retirement announcement and the recent injuries sustained by his tag team partner, Christian Cage.",
       "link": "https://www.wrestlinginc.com/2295935/aew-tony-khan-adam-copeland-christian-cage-retirement-injury/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-10-23T20:58:14+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "Report: Some Within WWE Feeling 'Sting' Over The Rock's Comments On Tony Khan",
       "p": "According to a new report, there are some within WWE still feeling the \"sting\" over Dwayne \"The Rock\" Johnson's comments about AEW and its president, Tony Khan.",
       "link": "https://www.wrestlinginc.com/2295919/wwe-rock-dwayne-johnson-tony-khan-sting-comments/",
-      "t": "1h",
+      "t": "3h",
       "dt": "2026-10-23T20:49:48+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "Ric Flair hospitalized after ‘bleeding extensively’ from fall",
       "p": "Ric Flair was taken to the hospital after suffering a fall outside of a Tampa, Florida restaurant on Friday. TMZ reports that Flair “suddenly fell and injured his face” after he got up from the...",
       "link": "https://www.f4wonline.com/news/aew/ric-flair-hospitalized-after-bleeding-extensively-from-fall/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-10-23T20:25:46+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "Wrestling Weekly: The road to a big November for WWE & AEW",
       "p": "WWE and AEW are working toward big events for November and on a new Wrestling Weekly, Les Thatcher and Vic Sosa are back to talk about it all. We’ll look at WWE’s road to both Crown Jewel and...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-podcast-road-to-big-november-wwe-aew/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-10-23T20:24:32+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "Alice Crowley Looks Back On Match Against Red Velvet At ROH x MLP Global Wars Canada",
       "p": "Alice Crowley looks back on the bout. Back in March 2026, Tony Khan’s Ring of Honor and Scott D’Amore’s Maple Leaf Pro Wrestling came together to present Global Wars Canada. Crowley faced off with...",
       "link": "https://www.fightful.com/wrestling-news/alice-crowley-looks-back-on-match-against-red-velvet-at-roh-x-mlp-global-wars-canada/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-10-23T19:45:22+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "AEW New Year’s Smash announced for January 1 & 2 in Georgia",
       "p": "The promotion announced on Friday that New Year’s Smash will occur on January 1 & 2 at the Gateway Center Arena in College Park, Georgia. The post AEW New Year’s Smash announced for January 1 & 2...",
       "link": "https://www.postwrestling.com/2026/10/23/aew-new-years-smash-announced-for-january-1-2-in-georgia/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-10-23T17:28:06+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "The Peteani Briefing: The AEW Full Gear build and how the card was shaped by WrestleDream and the Dynamite fallout show",
       "p": "By Frank Peteani, ProWrestling.net Contributor... The post The Peteani Briefing: The AEW Full Gear build and how the card was shaped by WrestleDream and the Dynamite fallout show appeared first on...",
       "link": "https://prowrestling.net/site/2026/10/23/the-peteani-briefing-the-aew-full-gear-build-and-how-the-card-was-shaped-by-wrestledream-and-the-dynamite-fallout-show/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-10-23T17:15:55+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Chris Jericho To Play Famed Wrestler In Upcoming Streaming Series",
-      "p": "Even though he lost twice to Nick Wayne, AEW's Chris Jericho continues to add his acting resume and landed an important role in an upcoming series.",
-      "link": "https://www.wrestlinginc.com/2295463/aew-chris-jericho-gorgeous-george-famed-wrestler-streaming-series/",
-      "t": "5h",
-      "dt": "2026-10-23T16:43:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW announces two-night New Year’s Smash 2027 special",
-      "p": "AEW is kicking off 2027 with a special two-night event. The promotion announced today that New Year’s Smash 2027 will be held in Atlanta on January 1-2. It begins with a special Friday episode of...",
-      "link": "https://www.f4wonline.com/news/aew/aew-announces-two-night-new-years-smash-2027-special/",
-      "t": "5h",
-      "dt": "2026-10-23T16:27:11+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH on HonorClub results (10/22): Lee Moriarty vs. Mance Warner for the ROH Pure Championship, Mina Shirakawa vs. Isla Dawn",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (10/22): Lee Moriarty vs. Mance Warner for the ROH Pure Championship, Mina Shirakawa vs. Isla Dawn appeared first on...",
-      "link": "https://prowrestling.net/site/2026/10/23/roh-on-honorclub-results-10-22-lee-moriarty-vs-mance-warner-for-the-roh-pure-championship-mina-shirakawa-vs-isla-dawn/",
-      "t": "6h",
-      "dt": "2026-10-23T16:03:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Austin Creed On Adapting To AEW's Style: 'Kofi And I Are Very Much Chameleons'",
-      "p": "Austin Creed is confident that he and Kofi can adapt to their new surroundings in AEW, explaining how he did the same during his time in TNA Wrestling.",
-      "link": "https://www.wrestlinginc.com/2295079/aew-austin-creed-kofi-new-level-adapting-style-chameleons/",
-      "t": "6h",
-      "dt": "2026-10-23T16:00:00+00:00"
     }
   ]
 }

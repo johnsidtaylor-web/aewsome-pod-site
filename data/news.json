@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-24T10:52:25.035274+00:00",
+  "updated": "2026-10-24T14:28:44.783382+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
@@ -13,42 +13,82 @@
   "items": [
     {
       "src": "Wrestling Observer",
-      "h": "Jay White to speak, new match added to AEW Collision",
-      "p": "A new match and segment have been added to Collision. Saturday’s show in Winston-Salem, North Carolina will see Jay White speak following the events that took place on Dynamite. The Bang Bang Gang...",
-      "link": "https://www.f4wonline.com/news/aew/jay-white-to-speak-new-match-added-to-aew-collision/",
-      "t": "5h",
-      "dt": "2026-10-24T05:41:51+00:00"
+      "h": "Anthony Bowens sparks NJPW speculation after AEW contract expires",
+      "p": "Anthony Bowens has sparked speculation that he could be headed to NJPW after a recent social media post. On Friday, Bowens posted a photo of himself outside New Japan’s LA Dojo. AEW’s Kevin Knight...",
+      "link": "https://www.f4wonline.com/news/aew/anthony-bowens-njpw-speculation-aew-contract/",
+      "t": "0m",
+      "dt": "2026-10-24T14:27:47+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Skadi Wins 2026 CMLL Amazonas Grand Prix",
-      "p": "Skadi emerges victorious. The 2026 CMLL Amazonas Grand Prix concluded on October 23rd, and the winner was determined. The final result saw Skadi pin former AEW Women’s World Tag Team Champion...",
-      "link": "https://www.fightful.com/wrestling-news/skadi-wins-2026-cmll-amazonas-grand-prix/",
-      "t": "5h",
-      "dt": "2026-10-24T05:22:34+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Women’s Tag Team Bout, More Added To 10/24 AEW Collision",
-      "p": "A new bout has been added to the October 24 episode of AEW Collision. Tony Khan announced that Divine Dominion (Megan Bayne & Lena Kross) will take on Wrathlander (Kris Statlander & Harley...",
-      "link": "https://www.fightful.com/wrestling-news/womens-tag-team-bout-added-to-10-24-aew-collision/",
-      "t": "7h",
-      "dt": "2026-10-24T03:21:58+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Viewership & Ratings Report, 10/21/2026",
+      "p": "After an action packed WrestleDream pay-per-view, the October 21 episode of \"AEW Dynamite\" had an interesting week in the TV ratings.",
+      "link": "https://www.wrestlinginc.com/2296150/aew-dynamite-viewership-ratings-report-october-21-2026/",
+      "t": "1h",
+      "dt": "2026-10-24T13:13:16+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Daily Update: Ric Flair, AEW Dynamite ratings, Skydance/Women of Wrestling",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update – Our weekend schedule is...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-ric-flair-aew-dynamite-ratings-skydance-women-of-wrestling/",
-      "t": "9h",
-      "dt": "2026-10-24T01:46:35+00:00"
+      "h": "Ilja Dragunov explains why he brought back his original entrance music in AEW",
+      "p": "Ilja Dragunov says the entrance music he used for his AEW debut at WrestleDream brought back memories of the earliest years of his professional wrestling career. Dragunov made his AEW debut on...",
+      "link": "https://www.f4wonline.com/news/aew/ilja-dragunov-aew-entrance-music-meaning/",
+      "t": "1h",
+      "dt": "2026-10-24T13:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW WrestleDream 2026 PPV buys trending near yearly low | Exclusive",
+      "p": "AEW WrestleDream 2026 is trending toward 100,000 to 110,000 pay-per-view buys, similar to AEW Redemption, which was the company’s lowest pay-per-view number of the year. Dave Meltzer addressed the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-wrestledream-2026-ppv-buys/",
+      "t": "1h",
+      "dt": "2026-10-24T12:58:40+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Backstage update on Sheamus potentially joining AEW",
+      "p": "There reportedly isn’t a “huge urgency” to bring former WWE star Sheamus into AEW. Fightful Select reported on Friday that despite AEW wrestlers such as Claudio Castagnoli and Adam Copeland making...",
+      "link": "https://www.f4wonline.com/news/aew/backstage-update-sheamus-potentially-joining-aew/",
+      "t": "1h",
+      "dt": "2026-10-24T12:40:33+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision Preview, Start Time, How To Watch, Location (10/24)",
+      "p": "Viewing information and lineup for AEW Collision on October 24, 2026 AEW Collision (October 24, 2026) Venue: LJVM Coliseum City: Winston-Salem, NC Time: 8 pm ET Channel: TNT, HBO Max Lineup...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-preview-start-time-how-to-watch-location-10-24/",
+      "t": "2h",
+      "dt": "2026-10-24T12:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Samantha Irvin reportedly not expected to join AEW immediately",
+      "p": "Samantha Irvin is not expected to join AEW immediately upon becoming a free agent, according to a new report. Fightful Select reported Friday that AEW has internally discussed bringing in the...",
+      "link": "https://www.f4wonline.com/news/aew/samantha-irvin-reportedly-not-expected-to-join-aew-immediately/",
+      "t": "2h",
+      "dt": "2026-10-24T11:57:15+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: The card for tonight’s live show",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: The card for tonight’s live show appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/24/aew-collision-lineup-the-card-for-tonights-live-show-10/",
+      "t": "3h",
+      "dt": "2026-10-24T11:00:37+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tommaso Ciampa says Andrade is at his best in AEW",
+      "p": "Tommaso Ciampa believes AEW National Champion Andrade El Idolo is performing at the highest level of his career, despite the ongoing rivalry between the two wrestlers. In an interview prior to AEW...",
+      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-andrade-best-version-aew/",
+      "t": "3h",
+      "dt": "2026-10-24T11:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW Star Willow Nightingale Provides Update On Hand Injury",
       "p": "Former AEW Women's World Champion Willow Nightingale took to her Instagram stories to provide an update on her hand injury.",
       "link": "https://www.wrestlinginc.com/2296057/aew-willow-nightingale-hand-injury-update/",
-      "t": "11h",
+      "t": "14h",
       "dt": "2026-10-23T23:49:39+00:00"
     },
     {
@@ -56,56 +96,16 @@
       "h": "CMLL HITS & MISSES: A look at the highs and lows of August and September including Thunder Rosa & Tessa Blanchard, Flip Gordon, Mistico, Don Callis Family",
       "p": "Surprise! You get a two-for-one special today. Instead of one month of CMLL, I’ll be covering two: August and September. I already did a special Hits & Misses for the 93rd Anniversario (go check...",
       "link": "https://www.pwtorch.com/site/2026/10/23/cmll-hits-misses-a-look-at-the-highs-and-lows-of-august-and-september-including-thunder-rosa-tessa-blanchard-flip-gordon-mistico-don-callis-family/",
-      "t": "12h",
+      "t": "15h",
       "dt": "2026-10-23T22:35:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Willow Nightingale gives update on AEW hand injury recovery",
-      "p": "Willow Nightingale is still working her way back to 100 percent after the hand injury she suffered this summer. On the road to AEW All In 2026, Nightingale’s status for the pay-per-view was...",
-      "link": "https://www.f4wonline.com/news/aew/willow-nightingale-gives-update-on-aew-hand-injury-recovery/",
-      "t": "13h",
-      "dt": "2026-10-23T21:36:51+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Tony Khan Talks Adam Copeland Retirement Announcement, Christian Cage's Injury",
       "p": "AEW CEO Tony Khan addresses Adam Copeland's retirement announcement and the recent injuries sustained by his tag team partner, Christian Cage.",
       "link": "https://www.wrestlinginc.com/2295935/aew-tony-khan-adam-copeland-christian-cage-retirement-injury/",
-      "t": "13h",
-      "dt": "2026-10-23T20:58:14+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Report: Some Within WWE Feeling 'Sting' Over The Rock's Comments On Tony Khan",
-      "p": "According to a new report, there are some within WWE still feeling the \"sting\" over Dwayne \"The Rock\" Johnson's comments about AEW and its president, Tony Khan.",
-      "link": "https://www.wrestlinginc.com/2295919/wwe-rock-dwayne-johnson-tony-khan-sting-comments/",
-      "t": "14h",
-      "dt": "2026-10-23T20:49:48+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Ric Flair hospitalized after ‘bleeding extensively’ from fall",
-      "p": "Ric Flair was taken to the hospital after suffering a fall outside of a Tampa, Florida restaurant on Friday. TMZ reports that Flair “suddenly fell and injured his face” after he got up from the...",
-      "link": "https://www.f4wonline.com/news/aew/ric-flair-hospitalized-after-bleeding-extensively-from-fall/",
-      "t": "14h",
-      "dt": "2026-10-23T20:25:46+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Wrestling Weekly: The road to a big November for WWE & AEW",
-      "p": "WWE and AEW are working toward big events for November and on a new Wrestling Weekly, Les Thatcher and Vic Sosa are back to talk about it all. We’ll look at WWE’s road to both Crown Jewel and...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-weekly/wrestling-weekly-podcast-road-to-big-november-wwe-aew/",
-      "t": "14h",
-      "dt": "2026-10-23T20:24:32+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW New Year’s Smash announced for January 1 & 2 in Georgia",
-      "p": "The promotion announced on Friday that New Year’s Smash will occur on January 1 & 2 at the Gateway Center Arena in College Park, Georgia. The post AEW New Year’s Smash announced for January 1 & 2...",
-      "link": "https://www.postwrestling.com/2026/10/23/aew-new-years-smash-announced-for-january-1-2-in-georgia/",
       "t": "17h",
-      "dt": "2026-10-23T17:28:06+00:00"
+      "dt": "2026-10-23T20:58:14+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-25T16:09:44.520137+00:00",
+  "updated": "2026-10-25T19:00:14.263275+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 10/24/26 Review",
+      "p": "Kate from Montreal & Jey Lacey review AEW Collision featuring FTR vs Motor City Machine Guns (Best of Five, Match 2) and Swerve Strickland vs. Myron Reed. The post AEW Collision 10/24/26 Review...",
+      "link": "https://www.postwrestling.com/2026/10/25/aew-collision-10-24-26-review-live-1015pm-et/",
+      "t": "0m",
+      "dt": "2026-10-25T19:00:05+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Defends CMLL Appearance",
+      "p": "AEW's Jeff Jarrett defends his recent appearance in CMLL, which garnered some negativity from the online wrestling community.",
+      "link": "https://www.wrestlinginc.com/2296377/aew-jeff-jarrett-defends-cmll-appearance/",
+      "t": "7m",
+      "dt": "2026-10-25T18:52:13+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Women's Blood & Guts Match Set For AEW Special",
+      "p": "For only the second time in history, the AEW women's division will step inside Blood and Guts on November 4.",
+      "link": "https://www.wrestlinginc.com/2296374/womens-blood-guts-match-set-aew-special/",
+      "t": "26m",
+      "dt": "2026-10-25T18:34:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tommaso Ciampa cuts promo on Andrade El Idolo following AEW Collision",
+      "p": "Tommaso Ciampa cut a promo directed at AEW National Champion Andrade El Idolo following AEW Collision. Andrade retained the title against Ciampa at AEW WrestleDream, picking up the win after...",
+      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-cuts-promo-andrade-el-idolo-aew-collision/",
+      "t": "47m",
+      "dt": "2026-10-25T18:12:57+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Anthony Bowens Looks Back On Signing With AEW, Forming The Acclaimed",
+      "p": "Anthony Bowens looks back on his big break of signing with All Elite Wrestling and forming The Acclaimed in 2020.",
+      "link": "https://www.wrestlinginc.com/2294911/aew-anthony-bowens-signing-forming-acclaimed/",
+      "t": "2h",
+      "dt": "2026-10-25T16:30:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Jay White’s new AEW faction renamed ‘The Cut’ shortly after Collision",
+      "p": "Jay White’s newly formed AEW faction has apparently undergone a name change just hours after being introduced as The Last Outfit. White opened Collision alongside The post Jay White’s new AEW...",
+      "link": "https://www.postwrestling.com/2026/10/25/jay-whites-new-aew-faction-renamed-the-cut-shortly-after-collision/",
+      "t": "2h",
+      "dt": "2026-10-25T16:16:24+00:00"
+    },
+    {
       "src": "ProWrestling.net",
       "h": "10/25 Pruett’s AEW Collision audio review: Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve Strickland vs. Myron Reed",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 10/25 Pruett’s AEW Collision audio review: Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve Strickland...",
       "link": "https://prowrestling.net/site/2026/10/25/10-25-pruetts-aew-collision-audio-review-motor-city-machine-guns-vs-ftr-in-the-second-match-of-a-best-of-five-series-swerve-strickland-vs-myron-reed/",
-      "t": "22m",
+      "t": "3h",
       "dt": "2026-10-25T15:46:51+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "AEW's Samoa Joe Shares Thoughts On In-Ring Retirement",
       "p": "Former AEW World Champion Samoa Joe discusses his priorities.",
       "link": "https://www.wrestlinginc.com/2294865/aew-samoa-joe-thoughts-in-ring-retirement/",
-      "t": "39m",
+      "t": "3h",
       "dt": "2026-10-25T15:30:00+00:00"
     },
     {
@@ -32,23 +80,15 @@
       "h": "AEW Star Samoa Joe Names His Hardest-Hitting Opponent",
       "p": "Former AEW World Champion Samoa Joe named the opponent who hit him hardest in the ring.",
       "link": "https://www.wrestlinginc.com/2294458/aew-samoa-joe-brock-lesnar-hardest-hitting-opponent/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Garrett Borden Hits Stinger Splash In Dark Match Before 10/24 AEW Collision",
-      "p": "Garrett Borden was back in the ring ahead of the October 24 episode of AEW Collision. Borden took on Kiran Grey in singles competition, picking up the victory. During the bout, Borden hit multiple...",
-      "link": "https://www.fightful.com/wrestling-news/garrett-borden-hits-stinger-splash-in-dark-match-before-10-24-aew-collision/",
-      "t": "1h",
-      "dt": "2026-10-25T14:49:09+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Jeff Jarrett Wishes He'd Have Gotten Rematch With This WWE Hall Of Famer",
       "p": "AEW star Jeff Jarrett revealed on \"My World\" that he wishes he could have gotten a rematch with one fellow WWE Hall of Famer.",
       "link": "https://www.wrestlinginc.com/2294297/wwe-aew-jeff-jarrett-rematch-hbk-shawn-michaels/",
-      "t": "1h",
+      "t": "4h",
       "dt": "2026-10-25T14:30:00+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "Marina Shafir cuts promo on Mercedes Moné following AEW Collision",
       "p": "Marina Shafir cut a promo directed at AEW Women’s World Champion Mercedes Moné following AEW Collision. On Saturday’s show in Winston-Salem, North Carolina, Shafir made Trish Adora tap out to...",
       "link": "https://www.f4wonline.com/news/aew/marina-shafir-cuts-promo-mercedes-mone-aew-collision/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-10-25T13:36:38+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Title defense made official for AEW Full Gear",
       "p": "After a challenge was issued this past Wednesday, a rematch for the AEW Trios titles is now official for next month’s Full Gear — albeit with a likely stipulation that has yet to be added....",
       "link": "https://www.f4wonline.com/news/aew/aew-full-gear-2026-trios-titles-brodido-hangman-page-new-level-swerve-strickland/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-10-25T13:33:37+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Cody Rhodes Remembers Pac, Says Kevin Owens Set Up Camera For WWE Stars To Pay Tribute",
-      "p": "Cody Rhodes remembered late AEW star Pac, and said that Kevin Owens set up a camera for other WWE stars to pay tribute to the former Neville.",
-      "link": "https://www.wrestlinginc.com/2294223/cody-rhodes-pac-kevin-owens-camera-wwe-tribute-aew/",
-      "t": "2h",
-      "dt": "2026-10-25T13:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Artist of Stardom title match announced for AEW Fright Night Collision",
-      "p": "AEW has officially announced an Artist of Stardom Championship match for the Halloween Fright Night edition of Collision on Saturday, October 31. The Triangle of Madness (Thekla, Julia Hart, and...",
-      "link": "https://www.f4wonline.com/news/aew/artist-of-stardom-title-match-aew-fright-night-collision/",
-      "t": "3h",
-      "dt": "2026-10-25T12:40:31+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jay White’s AEW faction changes name hours after Collision announcement",
-      "p": "Jay White’s new AEW faction has already changed its name to The Cut, just hours after being introduced as The Last Outfit on AEW Collision. Following Saturday’s show in Winston-Salem, AEW posted a...",
-      "link": "https://www.f4wonline.com/news/aew/jay-white-aew-faction-name-change-the-cut/",
-      "t": "3h",
-      "dt": "2026-10-25T12:15:58+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: UFC 333 recap, AEW & WWE news",
-      "p": "Dave Meltzer and I are back with the post-UFC 333 episode of Wrestling Observer Radio. Paul Fontaine joined us to discuss the main card and what was notable on the prelims. We also talked about:...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-ufc-333-recap-aew-wwe-news/",
-      "t": "8h",
-      "dt": "2026-10-25T07:19:54+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision results (10/24): Murphy’s review of Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve Strickland vs. Myron Reed",
-      "p": "By Don Murphy, ProWrestling.net Contributor... The post AEW Collision results (10/24): Murphy’s review of Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve...",
-      "link": "https://prowrestling.net/site/2026/10/24/aew-collision-results-10-24-murphys-review-of-motor-city-machine-guns-vs-ftr-in-the-second-match-of-a-best-of-five-series-swerve-strickland-vs-myron-reed/",
-      "t": "11h",
-      "dt": "2026-10-25T04:54:18+00:00"
     }
   ]
 }

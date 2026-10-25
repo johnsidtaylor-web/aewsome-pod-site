@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-25T06:03:29.071648+00:00",
+  "updated": "2026-10-25T11:18:59.795508+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,19 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "WOR: UFC 333 recap, AEW & WWE news",
+      "p": "Dave Meltzer and I are back with the post-UFC 333 episode of Wrestling Observer Radio. Paul Fontaine joined us to discuss the main card and what was notable on the prelims. We also talked about:...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-ufc-333-recap-aew-wwe-news/",
+      "t": "3h",
+      "dt": "2026-10-25T07:19:54+00:00"
+    },
+    {
       "src": "Fightful",
       "h": "Artist Of Stardom Championship Match To Take Place At AEW Fright Night Collision",
       "p": "The Artist of Stardom Titles will be on the line. Chaifetz Arena in St. Louis, Missouri, is going to host AEW: Fright Night Dynamite on October 29th. All Elite Wrestling pushed out the...",
       "link": "https://www.fightful.com/wrestling-news/artist-of-stardom-championship-match-to-take-place-at-aew-fright-night-collision/",
-      "t": "54m",
+      "t": "6h",
       "dt": "2026-10-25T05:08:37+00:00"
     },
     {
@@ -24,7 +32,7 @@
       "h": "AEW Collision results (10/24): Murphy’s review of Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve Strickland vs. Myron Reed",
       "p": "By Don Murphy, ProWrestling.net Contributor... The post AEW Collision results (10/24): Murphy’s review of Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve...",
       "link": "https://prowrestling.net/site/2026/10/24/aew-collision-results-10-24-murphys-review-of-motor-city-machine-guns-vs-ftr-in-the-second-match-of-a-best-of-five-series-swerve-strickland-vs-myron-reed/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-10-25T04:54:18+00:00"
     },
     {
@@ -32,7 +40,7 @@
       "h": "Women’s Blood & Guts teams set, Jay White unveils ‘The Last Outfit’ faction on AEW Collision",
       "p": "AEW finalized the teams for its women’s Blood & Guts match on Saturday’s Collision, while Jay White named his new faction and Josh Alexander earned a TNT Championship opportunity. The post Women’s...",
       "link": "https://www.postwrestling.com/2026/10/24/womens-blood-guts-teams-set-jay-white-unveils-the-last-outfit-on-aew-collision/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-10-25T03:02:48+00:00"
     },
     {
@@ -40,7 +48,7 @@
       "h": "AEW COLLISION RESULTS (11/24): Kyle O’Reilly vs. Jay White, FTR vs. Motor City Machine Guns, Divine Dominion vs. Wrathlander, Swerve vs. Myron Reed, Death Riders in action, and more",
       "p": "AEW COLLISION REPORT OCTOBER 24, 2026 WINSTON SALEM, N.C. at LAWRENCE JOEL VETERANS MEMORIAL COLISEUM AIRED LIVE ON TBS & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Nigel...",
       "link": "https://www.pwtorch.com/site/2026/10/24/aew-collision-results-11-24-kyle-oreilly-vs-jay-white-ftr-vs-motor-city-machine-guns-divine-dominion-vs-wrathlander-swerve-vs-myron-reed-death-riders-in-action-and-more/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-10-25T02:47:09+00:00"
     },
     {
@@ -48,23 +56,15 @@
       "h": "Teams revealed for women’s AEW Blood & Guts match",
       "p": "The Women’s Blood and Guts match is now set. Willow Nightingale threw out the challenge on Saturday’s Collision, announcing that she and Wrathlander (Kris Statlander & Harley Cameron) would team...",
       "link": "https://www.f4wonline.com/news/aew/teams-revealed-for-womens-aew-blood-guts-match/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-10-25T02:40:27+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Women’s Blood And Guts Match Made On 10/24 AEW Collision",
-      "p": "A challenge for Women’s Blood and Guts has been made on AEW Collision. On the 10/24 edition of AEW Collision, Divine Dominion (Megan Bayne and Lena Kross) faced Wrathlander (Kris Statlander and...",
-      "link": "https://www.fightful.com/wrestling-news/womens-blood-and-guts-challenge-made-on-10-24-aew-collision/",
-      "t": "3h",
-      "dt": "2026-10-25T02:27:48+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "TNT title match added to AEW Fright Night Dynamite",
       "p": "A TNT title match has been added to Wednesday’s Dynamite. After making quick work of his opponent on Saturday, Josh Alexander challenged Darby Allin to a TNT title match for Fright Night Dynamite,...",
       "link": "https://www.f4wonline.com/news/aew/tnt-title-match-added-to-aew-fright-night-dynamite/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-10-25T02:10:09+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Jay White reveals name of new stable on AEW Collision",
       "p": "There’s a new name for Jay White’s stable. White, along with members of The Dogs and the Bang Bang Gang, appeared in the opening segment of this week’s Collision. After teasing a return to the...",
       "link": "https://www.f4wonline.com/news/aew/jay-white-reveals-name-of-new-stable-on-aew-collision/",
-      "t": "5h",
+      "t": "10h",
       "dt": "2026-10-25T00:54:21+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "AEW Collision live results: FTR vs. MCMG, Swerve Strickland vs. Myron Reed",
       "p": "AEW Collision is live tonight from the LJVM Coliseum in Winston-Salem, North Carolina and will be broadcast on TNT and HBO Max. Match two in the best-of-five series between the Motor City Machine...",
       "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-ftr-vs-mcmg-swerve-strickland-vs-myron-reed/",
-      "t": "6h",
+      "t": "12h",
       "dt": "2026-10-24T23:15:00+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "AEW Collision Results 10/24/26 W/ Live Updates",
       "p": "This is Wrestling Inc.'s live coverage of \"AEW Collision,\" emanating from the LJVM Coliseum Winston-Salem, North Carolina.",
       "link": "https://www.wrestlinginc.com/2296264/aew-collision-october-24-2026-results/",
-      "t": "6h",
+      "t": "12h",
       "dt": "2026-10-24T23:05:11+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "Billy Gunn Says He Wrestled Much More Than Expected In AEW",
       "p": "When Billy Gunn started with AEW, he expected to mainly be a coach while wrestling a handful of matches each year, but that quickly expanded.",
       "link": "https://www.wrestlinginc.com/2293264/aew-billy-gunn-wrestled-more-than-expected/",
-      "t": "9h",
+      "t": "14h",
       "dt": "2026-10-24T21:00:00+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "MVP denies claims Hurt Syndicate refused to put wrestlers over in AEW",
       "p": "MVP is refuting the rumors that the Hurt Syndicate have refused to put people over in AEW. In a series of social media posts on Saturday, MVP stated that he had seen lies being reported about him,...",
       "link": "https://www.f4wonline.com/news/aew/mvp-denies-hurt-syndicate-refused-to-put-wrestlers-over-aew/",
-      "t": "9h",
+      "t": "14h",
       "dt": "2026-10-24T20:23:54+00:00"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T11:18:59.795508+00:00",
+  "updated": "2026-10-25T16:09:44.520137+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -7,105 +7,105 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "10/25 Pruett’s AEW Collision audio review: Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve Strickland vs. Myron Reed",
+      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 10/25 Pruett’s AEW Collision audio review: Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve Strickland...",
+      "link": "https://prowrestling.net/site/2026/10/25/10-25-pruetts-aew-collision-audio-review-motor-city-machine-guns-vs-ftr-in-the-second-match-of-a-best-of-five-series-swerve-strickland-vs-myron-reed/",
+      "t": "22m",
+      "dt": "2026-10-25T15:46:51+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Samoa Joe Shares Thoughts On In-Ring Retirement",
+      "p": "Former AEW World Champion Samoa Joe discusses his priorities.",
+      "link": "https://www.wrestlinginc.com/2294865/aew-samoa-joe-thoughts-in-ring-retirement/",
+      "t": "39m",
+      "dt": "2026-10-25T15:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Star Samoa Joe Names His Hardest-Hitting Opponent",
+      "p": "Former AEW World Champion Samoa Joe named the opponent who hit him hardest in the ring.",
+      "link": "https://www.wrestlinginc.com/2294458/aew-samoa-joe-brock-lesnar-hardest-hitting-opponent/",
+      "t": "1h",
+      "dt": "2026-10-25T15:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Garrett Borden Hits Stinger Splash In Dark Match Before 10/24 AEW Collision",
+      "p": "Garrett Borden was back in the ring ahead of the October 24 episode of AEW Collision. Borden took on Kiran Grey in singles competition, picking up the victory. During the bout, Borden hit multiple...",
+      "link": "https://www.fightful.com/wrestling-news/garrett-borden-hits-stinger-splash-in-dark-match-before-10-24-aew-collision/",
+      "t": "1h",
+      "dt": "2026-10-25T14:49:09+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Jeff Jarrett Wishes He'd Have Gotten Rematch With This WWE Hall Of Famer",
+      "p": "AEW star Jeff Jarrett revealed on \"My World\" that he wishes he could have gotten a rematch with one fellow WWE Hall of Famer.",
+      "link": "https://www.wrestlinginc.com/2294297/wwe-aew-jeff-jarrett-rematch-hbk-shawn-michaels/",
+      "t": "1h",
+      "dt": "2026-10-25T14:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Marina Shafir cuts promo on Mercedes Moné following AEW Collision",
+      "p": "Marina Shafir cut a promo directed at AEW Women’s World Champion Mercedes Moné following AEW Collision. On Saturday’s show in Winston-Salem, North Carolina, Shafir made Trish Adora tap out to...",
+      "link": "https://www.f4wonline.com/news/aew/marina-shafir-cuts-promo-mercedes-mone-aew-collision/",
+      "t": "2h",
+      "dt": "2026-10-25T13:36:38+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Title defense made official for AEW Full Gear",
+      "p": "After a challenge was issued this past Wednesday, a rematch for the AEW Trios titles is now official for next month’s Full Gear — albeit with a likely stipulation that has yet to be added....",
+      "link": "https://www.f4wonline.com/news/aew/aew-full-gear-2026-trios-titles-brodido-hangman-page-new-level-swerve-strickland/",
+      "t": "2h",
+      "dt": "2026-10-25T13:33:37+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Cody Rhodes Remembers Pac, Says Kevin Owens Set Up Camera For WWE Stars To Pay Tribute",
+      "p": "Cody Rhodes remembered late AEW star Pac, and said that Kevin Owens set up a camera for other WWE stars to pay tribute to the former Neville.",
+      "link": "https://www.wrestlinginc.com/2294223/cody-rhodes-pac-kevin-owens-camera-wwe-tribute-aew/",
+      "t": "2h",
+      "dt": "2026-10-25T13:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Artist of Stardom title match announced for AEW Fright Night Collision",
+      "p": "AEW has officially announced an Artist of Stardom Championship match for the Halloween Fright Night edition of Collision on Saturday, October 31. The Triangle of Madness (Thekla, Julia Hart, and...",
+      "link": "https://www.f4wonline.com/news/aew/artist-of-stardom-title-match-aew-fright-night-collision/",
+      "t": "3h",
+      "dt": "2026-10-25T12:40:31+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jay White’s AEW faction changes name hours after Collision announcement",
+      "p": "Jay White’s new AEW faction has already changed its name to The Cut, just hours after being introduced as The Last Outfit on AEW Collision. Following Saturday’s show in Winston-Salem, AEW posted a...",
+      "link": "https://www.f4wonline.com/news/aew/jay-white-aew-faction-name-change-the-cut/",
+      "t": "3h",
+      "dt": "2026-10-25T12:15:58+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "WOR: UFC 333 recap, AEW & WWE news",
       "p": "Dave Meltzer and I are back with the post-UFC 333 episode of Wrestling Observer Radio. Paul Fontaine joined us to discuss the main card and what was notable on the prelims. We also talked about:...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-ufc-333-recap-aew-wwe-news/",
-      "t": "3h",
+      "t": "8h",
       "dt": "2026-10-25T07:19:54+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Artist Of Stardom Championship Match To Take Place At AEW Fright Night Collision",
-      "p": "The Artist of Stardom Titles will be on the line. Chaifetz Arena in St. Louis, Missouri, is going to host AEW: Fright Night Dynamite on October 29th. All Elite Wrestling pushed out the...",
-      "link": "https://www.fightful.com/wrestling-news/artist-of-stardom-championship-match-to-take-place-at-aew-fright-night-collision/",
-      "t": "6h",
-      "dt": "2026-10-25T05:08:37+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision results (10/24): Murphy’s review of Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve Strickland vs. Myron Reed",
       "p": "By Don Murphy, ProWrestling.net Contributor... The post AEW Collision results (10/24): Murphy’s review of Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve...",
       "link": "https://prowrestling.net/site/2026/10/24/aew-collision-results-10-24-murphys-review-of-motor-city-machine-guns-vs-ftr-in-the-second-match-of-a-best-of-five-series-swerve-strickland-vs-myron-reed/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-10-25T04:54:18+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Women’s Blood & Guts teams set, Jay White unveils ‘The Last Outfit’ faction on AEW Collision",
-      "p": "AEW finalized the teams for its women’s Blood & Guts match on Saturday’s Collision, while Jay White named his new faction and Josh Alexander earned a TNT Championship opportunity. The post Women’s...",
-      "link": "https://www.postwrestling.com/2026/10/24/womens-blood-guts-teams-set-jay-white-unveils-the-last-outfit-on-aew-collision/",
-      "t": "8h",
-      "dt": "2026-10-25T03:02:48+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION RESULTS (11/24): Kyle O’Reilly vs. Jay White, FTR vs. Motor City Machine Guns, Divine Dominion vs. Wrathlander, Swerve vs. Myron Reed, Death Riders in action, and more",
-      "p": "AEW COLLISION REPORT OCTOBER 24, 2026 WINSTON SALEM, N.C. at LAWRENCE JOEL VETERANS MEMORIAL COLISEUM AIRED LIVE ON TBS & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Nigel...",
-      "link": "https://www.pwtorch.com/site/2026/10/24/aew-collision-results-11-24-kyle-oreilly-vs-jay-white-ftr-vs-motor-city-machine-guns-divine-dominion-vs-wrathlander-swerve-vs-myron-reed-death-riders-in-action-and-more/",
-      "t": "8h",
-      "dt": "2026-10-25T02:47:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Teams revealed for women’s AEW Blood & Guts match",
-      "p": "The Women’s Blood and Guts match is now set. Willow Nightingale threw out the challenge on Saturday’s Collision, announcing that she and Wrathlander (Kris Statlander & Harley Cameron) would team...",
-      "link": "https://www.f4wonline.com/news/aew/teams-revealed-for-womens-aew-blood-guts-match/",
-      "t": "8h",
-      "dt": "2026-10-25T02:40:27+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "TNT title match added to AEW Fright Night Dynamite",
-      "p": "A TNT title match has been added to Wednesday’s Dynamite. After making quick work of his opponent on Saturday, Josh Alexander challenged Darby Allin to a TNT title match for Fright Night Dynamite,...",
-      "link": "https://www.f4wonline.com/news/aew/tnt-title-match-added-to-aew-fright-night-dynamite/",
-      "t": "9h",
-      "dt": "2026-10-25T02:10:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jay White reveals name of new stable on AEW Collision",
-      "p": "There’s a new name for Jay White’s stable. White, along with members of The Dogs and the Bang Bang Gang, appeared in the opening segment of this week’s Collision. After teasing a return to the...",
-      "link": "https://www.f4wonline.com/news/aew/jay-white-reveals-name-of-new-stable-on-aew-collision/",
-      "t": "10h",
-      "dt": "2026-10-25T00:54:21+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision live results: FTR vs. MCMG, Swerve Strickland vs. Myron Reed",
-      "p": "AEW Collision is live tonight from the LJVM Coliseum in Winston-Salem, North Carolina and will be broadcast on TNT and HBO Max. Match two in the best-of-five series between the Motor City Machine...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-ftr-vs-mcmg-swerve-strickland-vs-myron-reed/",
-      "t": "12h",
-      "dt": "2026-10-24T23:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Collision Results 10/24/26 W/ Live Updates",
-      "p": "This is Wrestling Inc.'s live coverage of \"AEW Collision,\" emanating from the LJVM Coliseum Winston-Salem, North Carolina.",
-      "link": "https://www.wrestlinginc.com/2296264/aew-collision-october-24-2026-results/",
-      "t": "12h",
-      "dt": "2026-10-24T23:05:11+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Billy Gunn Says He Wrestled Much More Than Expected In AEW",
-      "p": "When Billy Gunn started with AEW, he expected to mainly be a coach while wrestling a handful of matches each year, but that quickly expanded.",
-      "link": "https://www.wrestlinginc.com/2293264/aew-billy-gunn-wrestled-more-than-expected/",
-      "t": "14h",
-      "dt": "2026-10-24T21:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "MVP denies claims Hurt Syndicate refused to put wrestlers over in AEW",
-      "p": "MVP is refuting the rumors that the Hurt Syndicate have refused to put people over in AEW. In a series of social media posts on Saturday, MVP stated that he had seen lies being reported about him,...",
-      "link": "https://www.f4wonline.com/news/aew/mvp-denies-hurt-syndicate-refused-to-put-wrestlers-over-aew/",
-      "t": "14h",
-      "dt": "2026-10-24T20:23:54+00:00"
     }
   ]
 }

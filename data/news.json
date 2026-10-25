@@ -1,22 +1,70 @@
 {
-  "updated": "2026-10-24T23:09:05.130451+00:00",
+  "updated": "2026-10-25T01:06:10.397873+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Jay White reveals name of new stable on AEW Collision",
+      "p": "There’s a new name for Jay White’s stable. White, along with members of The Dogs and the Bang Bang Gang, appeared in the opening segment of this week’s Collision. After teasing a return to the...",
+      "link": "https://www.f4wonline.com/news/aew/jay-white-reveals-name-of-new-stable-on-aew-collision/",
+      "t": "11m",
+      "dt": "2026-10-25T00:54:21+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Bang Bang Gang And The Dogs Alliance Officially Named ‘The Last Outfit’ On 10/24 AEW Collision",
+      "p": "The Bang Bang Gang and The Dogs are now known as The Last Outfit. On this week’s AEW Dynamite, The Dogs (David Finlay and Clark Connors) aligned with The Bang Bang Gang (Jay White, Juice Robinson,...",
+      "link": "https://www.fightful.com/wrestling-news/bang-bang-gang-and-the-dogs-alliance-officially-named-the-last-outfit-on-10-24-aew-collision/",
+      "t": "27m",
+      "dt": "2026-10-25T00:38:42+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 10/24/26 Review (Live 10:15pm ET)",
+      "p": "LIVE 10:15pm ET: Kate from Montreal & Jey Lacey review AEW Grand Slam France: Collision featuring FTR vs Motor City Machine Guns (Best of Five, Match 2) and Swerve Strickland vs. Myron Reed. The...",
+      "link": "https://www.postwrestling.com/2026/10/24/aew-collision-10-24-26-review-live-1015pm-et/",
+      "t": "1h",
+      "dt": "2026-10-24T23:45:05+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision Results (10/24/2026): MCMG vs. FTR, Divine Dominion vs. Wrathlander, Jay White Speak, Swerve Strickalnd, More",
+      "p": "Full results for the October 24, 2026, edition of AEW Collision from LJVM Coliseum in Winston-Salem, North Carolina. On October 24, 2026, All Elite Wrestling hosted the new episode of Collision on...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-results-10-24-2026-mcmg-vs-ftr-divine-dominion-vs-wrathlander-jay-white-speak-swerve-strickalnd-more/",
+      "t": "1h",
+      "dt": "2026-10-24T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision live results: FTR vs. MCMG, Swerve Strickland vs. Myron Reed",
+      "p": "AEW Collision is live tonight from the LJVM Coliseum in Winston-Salem, North Carolina and will be broadcast on TNT and HBO Max. Match two in the best-of-five series between the Motor City Machine...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-ftr-vs-mcmg-swerve-strickland-vs-myron-reed/",
+      "t": "1h",
+      "dt": "2026-10-24T23:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Results 10/24/26 W/ Live Updates",
+      "p": "This is Wrestling Inc.'s live coverage of \"AEW Collision,\" emanating from the LJVM Coliseum Winston-Salem, North Carolina.",
+      "link": "https://www.wrestlinginc.com/2296264/aew-collision-october-24-2026-results/",
+      "t": "2h",
+      "dt": "2026-10-24T23:05:11+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Billy Gunn Says He Wrestled Much More Than Expected In AEW",
       "p": "When Billy Gunn started with AEW, he expected to mainly be a coach while wrestling a handful of matches each year, but that quickly expanded.",
       "link": "https://www.wrestlinginc.com/2293264/aew-billy-gunn-wrestled-more-than-expected/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-10-24T21:00:00+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "MVP denies claims Hurt Syndicate refused to put wrestlers over in AEW",
       "p": "MVP is refuting the rumors that the Hurt Syndicate have refused to put people over in AEW. In a series of social media posts on Saturday, MVP stated that he had seen lies being reported about him,...",
       "link": "https://www.f4wonline.com/news/aew/mvp-denies-hurt-syndicate-refused-to-put-wrestlers-over-aew/",
-      "t": "2h",
+      "t": "4h",
       "dt": "2026-10-24T20:23:54+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "VIP PODCAST 10/24 – WKH – The News: Ric Flair hospitalized after a bad fall, Jim Ross update, AEW Collision preview, injury and roster updates, Jericho’s latest gigs (13 min.)",
       "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: Ric Flair hospitalized last night after a fall in public The...",
       "link": "https://www.pwtorch.com/site/2026/10/24/vip-podcast-10-24-wkh-the-news-ric-flair-hospitalized-after-a-bad-fall-jim-ross-update-aew-collision-preview-injury-and-roster-updates-jerichos-latest-gigs-13-min/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-10-24T19:36:44+00:00"
     },
     {
@@ -40,23 +88,15 @@
       "h": "Billy Gunn Details Thought Process Behind Joining The Acclaimed In AEW",
       "p": "Billy Gunn recently shared his thoughts on the reasoning behind his pairing with Anthony Bowens and Max Caster in AEW, explaining what he brought to the group.",
       "link": "https://www.wrestlinginc.com/2292796/aew-billy-gunn-anthony-bowens-max-caster-acclaimed-thought-process-behind-joining/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-10-24T19:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MVP Says The Hurt Syndicate Wanted To Drop AEW World Tag Team Titles Back To Private Party",
-      "p": "MVP says The Hurt Syndicate wanted to drop the AEW World Tag Team Titles back to Private Party. On the January 25, 2025 edition of AEW Dynamite, The Hurt Syndicate (Bobby Lashley and Shelton...",
-      "link": "https://www.fightful.com/wrestling-news/mvp-says-the-hurt-syndicate-wanted-to-drop-aew-world-tag-team-titles-back-to-private-party/",
-      "t": "3h",
-      "dt": "2026-10-24T19:18:45+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Ilja Dragunov Reflects On Final Stretch Of WWE Run, Decision To Join AEW",
       "p": "Now that he is \"All Elite,\" Ilja Dragunov has reflected on his final year on the WWE roster.",
       "link": "https://www.wrestlinginc.com/2296242/ilja-dragunov-final-stretch-wwe-run-decision-join-aew/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-10-24T18:55:58+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "AEW Dynamite rating (10/21): Did the WrestleDream fallout show maintain the strong numbers delivered by the go-home show?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (10/21): Did the WrestleDream fallout show maintain the strong numbers delivered by the go-home show? appeared first on Pro...",
       "link": "https://prowrestling.net/site/2026/10/24/aew-dynamite-rating-10-21-did-the-wrestledream-fallout-show-maintain-the-strong-numbers-delivered-by-the-go-home-show/",
-      "t": "4h",
-      "dt": "2026-10-24T18:12:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Fright Night Dynamite ticket sales update ahead of this week’s show (10-24-2026)",
-      "p": "AEW Fright Night Dynamite takes place this upcoming Wednesday from the Chaifetz Arena in Saint Louis. According to the latest update from WrestleTix, there have been around 2,779 tickets...",
-      "link": "https://www.f4wonline.com/news/aew/aew-fright-night-dynamite-ticket-sales-update-ahead-of-this-weeks-show-10-24-2026/",
-      "t": "5h",
-      "dt": "2026-10-24T17:54:17+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 10/24 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: WrestleDream, Ilja Dragunov debut, Blood & Guts main event set, Full Gear takes shape, more (94 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner give thoughts on last Saturday’s WrestleDream PPV and what was subsequently...",
-      "link": "https://www.pwtorch.com/site/2026/10/24/free-podcast-10-24-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-wrestledream-ilja-dragunov-debut-blood-guts-main-event-set-full-gear-takes-shape-more/",
-      "t": "5h",
-      "dt": "2026-10-24T17:50:06+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Full Gear 2026 Card Predictions: Big Vinny V",
-      "p": "When one pay per view ends, the build for the next begins. And so, with the dust still settling after Clockwork Carnage and WrestleDream, the focus in AEW now turns to Full Gear next month. Here’s...",
-      "link": "https://www.f4wonline.com/news/aew/aew-full-gear-2026-card-predictions-big-vinny-v/",
       "t": "6h",
-      "dt": "2026-10-24T16:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Anthony Bowens sparks NJPW speculation after AEW contract expires",
-      "p": "Anthony Bowens has sparked speculation that he could be headed to NJPW after a recent social media post. On Friday, Bowens posted a photo of himself outside New Japan’s LA Dojo. AEW’s Kevin Knight...",
-      "link": "https://www.f4wonline.com/news/aew/anthony-bowens-njpw-speculation-aew-contract/",
-      "t": "8h",
-      "dt": "2026-10-24T14:27:47+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report, 10/21/2026",
-      "p": "After an action packed WrestleDream pay-per-view, the October 21 episode of \"AEW Dynamite\" had an interesting week in the TV ratings.",
-      "link": "https://www.wrestlinginc.com/2296150/aew-dynamite-viewership-ratings-report-october-21-2026/",
-      "t": "9h",
-      "dt": "2026-10-24T13:13:16+00:00"
+      "dt": "2026-10-24T18:12:09+00:00"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-26T19:14:40.249845+00:00",
+  "updated": "2026-10-26T23:08:23.847524+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -13,10 +13,42 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "Andrade Comments On Moving Between AEW & WWE, Relationship With Tony Khan",
+      "p": "Former AEW National Champion Andrade looks back on his brief return to WWE.",
+      "link": "https://www.wrestlinginc.com/2297808/aew-wwe-andrade-tony-khan-moving-between-relationship/",
+      "t": "10m",
+      "dt": "2026-10-26T22:57:42+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Dustin Rhodes Writing Second Book, Says 'My Hands Were Tied' In WWE",
+      "p": "AEW's Dustin Rhodes reveals that he is writing his second book, and seems to criticize his first book by saying \"my hands were tied\" by WWE while writing it",
+      "link": "https://www.wrestlinginc.com/2297783/aew-dustin-rhodes-second-book-hands-tied-wwe/",
+      "t": "1h",
+      "dt": "2026-10-26T21:55:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Dustin Rhodes writing another book, says his hands were tied with ‘the other company’",
+      "p": "AEW wrestler and coach Dustin Rhodes is currently working on another book about his life. While with WWE, Rhodes authored the memoir “Cross Rhodes: Goldust, Out of the Darkness” in 2010. He...",
+      "link": "https://www.f4wonline.com/news/aew/dustin-rhodes-writing-another-book-says-his-hands-were-tied-with-the-other-company/",
+      "t": "2h",
+      "dt": "2026-10-26T20:44:21+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kofi Confirms The 'Main Reason' He & Austin Creed Signed With AEW",
+      "p": "Kofi confirms the \"main reason\" he and New Level tag team partner Austin Creed signed with AEW was to take on Kenny Omega and the Young Bucks of The Elite",
+      "link": "https://www.wrestlinginc.com/2297635/aew-kofi-austin-creed-kenny-omega-young-bucks-main-reason-signed/",
+      "t": "2h",
+      "dt": "2026-10-26T20:14:04+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "AEW's Ilja Dragunov Comments On How WWE Has Used GUNTHER Since He Retired John Cena",
       "p": "Ex-WWE star Ilja Dragunov reflects on GUNTHER's rise and if his run still remains as relevant as it did before.",
       "link": "https://www.wrestlinginc.com/2297331/aew-ilja-dragunov-wwe-gunther-retired-john-cena-booking/",
-      "t": "58m",
+      "t": "4h",
       "dt": "2026-10-26T18:16:07+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "AEW reveals location for final Dynamite/Collision before Worlds End",
       "p": "The latest addition to the AEW calendar is a Dynamite/Collision episode from Oklahoma City this December. It was announced today that AEW’s go-home show for Worlds End 2026 will take place at OG&E...",
       "link": "https://www.f4wonline.com/news/aew/aew-reveals-location-for-final-dynamite-collision-before-worlds-end/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-10-26T17:24:33+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "AEW Star Buddy Matthews Pulled From Australian Indie Tour Due To Scheduling Conflicts",
       "p": "Buddy Matthews hasn't appeared in AEW since February 2025 after injuring his ankle during his entrance. He was cleared to wrestle last August.",
       "link": "https://www.wrestlinginc.com/2297112/aew-buddy-matthews-oulled-australian-indie-tour-scheduling-conflicts/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-10-26T16:49:34+00:00"
     },
     {
@@ -40,23 +72,15 @@
       "h": "AEW COLLISION HITS & MISSES (10/24): Jay White’s Last Outfit, FTR battles Motor City Machine Guns, Strickland vs. Myron Reed, women’s Blood & Guts takes shape, White vs. O’Reilly",
       "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HIT — COLLISION’S SHOW FORMAT I thought this week’s Collision...",
       "link": "https://www.pwtorch.com/site/2026/10/26/aew-collision-hits-misses-10-24-jay-whites-last-outfit-ftr-battles-motor-city-machine-guns-strickland-vs-myron-reed-womens-blood-guts-takes-shape-white-vs-oreilly/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-10-26T16:49:03+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "WWE, AEW, TNA, NJPW Wrestler Injury Report List: Expected Returns, Inactives | Fightful",
-      "p": "Fightful.com will keep a running injury report and inactive list and update each accordingly. You can also see our updated contract expiration list at this link. WWE RAW Angelo Dawkins: Inactive;...",
-      "link": "https://www.fightful.com/wrestling-news/wwe-impact-njpw-roh-injury-report-expected-returns-more/",
-      "t": "2h",
-      "dt": "2026-10-26T16:46:00+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Buddy Matthews return dates in Australia off, citing ‘scheduling conflicts’",
       "p": "AEW's Buddy Matthews has been pulled from an upcoming tour, World Series of Wrestling announced on Monday. The post Buddy Matthews return dates in Australia off, citing ‘scheduling conflicts’...",
       "link": "https://www.postwrestling.com/2026/10/26/buddy-matthews-return-dates-in-australia-off-citing-scheduling-conflicts/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-10-26T16:23:34+00:00"
     },
     {
@@ -64,39 +88,15 @@
       "h": "Report: AEW's Tony Khan Was 'Extremely Happy' After Meeting With Skydance Execs",
       "p": "AEW's Tony Khan reportedly met with Skydance executives last week and was \"extremely happy\" afterwards. There have been many unknowns with the merger.",
       "link": "https://www.wrestlinginc.com/2297018/aew-skydance-tony-khan-extremely-happy-meeting-execs/",
-      "t": "3h",
+      "t": "7h",
       "dt": "2026-10-26T16:01:17+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Jeff Jarrett Loved Seeing AEW Try 'New Things' At WrestleDream",
-      "p": "Jeff Jarrett has spoken highly of the AEW WrestleDream main event, which featured the Clockwork Carnage match won by Will Ospreay.",
-      "link": "https://www.wrestlinginc.com/2296543/jeff-jarrett-loved-seeing-aew-try-new-things-wrestledream/",
-      "t": "3h",
-      "dt": "2026-10-26T15:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "New AEW Faction Featuring Jay White Changes Name Hours After Unveiling Initial Term",
-      "p": "Last week, the Bang Bang Gang aligned with The Dogs to form a new faction. They revealed their name on \"AEW Collision\" only to change it hours later.",
-      "link": "https://www.wrestlinginc.com/2296901/aew-jay-white-cut-last-outfit-faction-changes-name-hours-after-unveiling-initial-term/",
-      "t": "4h",
-      "dt": "2026-10-26T15:07:32+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tony Khan Comments On Hurt Syndicate's AEW Absence",
-      "p": "Tony Khan has explained why The Hurt Syndicate have appeared sporadically on AEW television, with their last appearance coming at All In.",
-      "link": "https://www.wrestlinginc.com/2296517/aew-tony-khan-hurt-syndicate-absence/",
-      "t": "4h",
-      "dt": "2026-10-26T14:30:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW’s Buddy Matthews off indie tour due to ‘scheduling conflicts’",
       "p": "Buddy Matthews’ return to the ring won’t be happening on World Series Wrestling’s MegaMania tour. It was first announced in May that Matthews would be returning home to Australia for the...",
       "link": "https://www.f4wonline.com/news/aew/aews-buddy-matthews-off-indie-tour-due-to-scheduling-conflicts/",
-      "t": "4h",
+      "t": "8h",
       "dt": "2026-10-26T14:19:17+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "AEW Collision lineup: Saturday’s Fright Night edition",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Saturday’s Fright Night edition appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/10/26/aew-collision-lineup-saturdays-fright-night-edition/",
-      "t": "5h",
+      "t": "9h",
       "dt": "2026-10-26T14:00:45+00:00"
     }
   ]

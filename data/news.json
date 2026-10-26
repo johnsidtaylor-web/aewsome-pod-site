@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-26T00:18:17.393740+00:00",
+  "updated": "2026-10-26T06:07:47.617043+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,35 @@
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "RADICAN’S TAKE: Moxley’s push in AEW should be the blueprint for unlocking Ospreay’s potential as a centerpiece act",
+      "p": "AEW seemed primed to push Will Ospreay as a centerpiece championship act after All in London in August. Virtually every top wrestler in the promotion passed the torch to Ospreay both ceremonially...",
+      "link": "https://www.pwtorch.com/site/2026/10/25/radicans-take-moxleys-push-in-aew-should-be-the-blueprint-for-unlocking-ospreays-potential-as-a-centerpiece-act/",
+      "t": "1h",
+      "dt": "2026-10-26T04:50:38+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 10/25 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Did Cody’s plea to be cheered backfire? Did Halloween theme main event work? On-site report, mailbag, callers (148 min.)",
+      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (10-27-2021), PWTorch editor Wade Keller is joined by ProWrestling.net’s Jake Barnett to discuss...",
+      "link": "https://www.pwtorch.com/site/2026/10/25/free-podcast-10-25-wkpwp-aew-dynamite-post-show-5-yrs-ago-did-codys-plea-to-be-cheered-backfire-did-halloween-theme-main-event-work-on-site-report-mailbag-callers-14/",
+      "t": "2h",
+      "dt": "2026-10-26T04:00:17+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
+      "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
+      "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
+      "t": "4h",
+      "dt": "2026-10-26T01:39:25+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "ROH spoilers from Winston-Salem, North Carolina",
       "p": "Dark match & ROH spoilers from Winston-Salem. AEW taped matches for future episodes of Ring of Honor Saturday in North Carolina, which was the site of this past week’s AEW Collision. Here are the...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-spoilers-from-winston-salem-north-carolina/",
-      "t": "34m",
+      "t": "6h",
       "dt": "2026-10-25T23:43:27+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Jonathan Gresham Comments On Chances Of Returning Work For ROH Under AEW's Tony Khan",
       "p": "Jonathan Gresham comments on if he would ever like to return to ROH, should the opportunity present itself.",
       "link": "https://www.wrestlinginc.com/2295612/jonathan-gresham-returning-roh-aew-tony-khan/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-10-25T20:30:00+00:00"
     },
     {
@@ -32,23 +56,15 @@
       "h": "AEW Star Kofi Looks Back On Kofi-Mania In WWE: 'Childhood Dream Come True'",
       "p": "AEW's Kofi recently reflected on historic KofiMana run that led to him becoming WWE Champion at WrestleMania 35 and what it meant to him.",
       "link": "https://www.wrestlinginc.com/2295581/aew-wwe-kofi-mania-looks-back-childhood-dream-true/",
-      "t": "4h",
+      "t": "10h",
       "dt": "2026-10-25T19:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Spoilers (Taped On 10/24)",
-      "p": "Ring of Honor taped matches for upcoming episodes of ROH TV on October 24. Full spoilers (courtesy of PWInsider) are below. ROH TV Spoilers (Taped On 10/24) AEW Collision Dark Matches: Garrett...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-spoilers-taped-on-10-24/",
-      "t": "4h",
-      "dt": "2026-10-25T19:18:12+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "AEW Collision 10/24/26 Review",
       "p": "Kate from Montreal & Jey Lacey review AEW Collision featuring FTR vs Motor City Machine Guns (Best of Five, Match 2) and Swerve Strickland vs. Myron Reed. The post AEW Collision 10/24/26 Review...",
       "link": "https://www.postwrestling.com/2026/10/25/aew-collision-10-24-26-review-live-1015pm-et/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-10-25T19:00:05+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "AEW's Jeff Jarrett Defends CMLL Appearance",
       "p": "AEW's Jeff Jarrett defends his recent appearance in CMLL, which garnered some negativity from the online wrestling community.",
       "link": "https://www.wrestlinginc.com/2296377/aew-jeff-jarrett-defends-cmll-appearance/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-10-25T18:52:13+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Women's Blood & Guts Match Set For AEW Special",
       "p": "For only the second time in history, the AEW women's division will step inside Blood and Guts on November 4.",
       "link": "https://www.wrestlinginc.com/2296374/womens-blood-guts-match-set-aew-special/",
-      "t": "5h",
+      "t": "11h",
       "dt": "2026-10-25T18:34:00+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Tommaso Ciampa cuts promo on Andrade El Idolo following AEW Collision",
       "p": "Tommaso Ciampa cut a promo directed at AEW National Champion Andrade El Idolo following AEW Collision. Andrade retained the title against Ciampa at AEW WrestleDream, picking up the win after...",
       "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-cuts-promo-andrade-el-idolo-aew-collision/",
-      "t": "6h",
+      "t": "11h",
       "dt": "2026-10-25T18:12:57+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "Anthony Bowens Looks Back On Signing With AEW, Forming The Acclaimed",
       "p": "Anthony Bowens looks back on his big break of signing with All Elite Wrestling and forming The Acclaimed in 2020.",
       "link": "https://www.wrestlinginc.com/2294911/aew-anthony-bowens-signing-forming-acclaimed/",
-      "t": "7h",
+      "t": "13h",
       "dt": "2026-10-25T16:30:00+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "Jay White’s new AEW faction renamed ‘The Cut’ shortly after Collision",
       "p": "Jay White’s newly formed AEW faction has apparently undergone a name change just hours after being introduced as The Last Outfit. The post Jay White’s new AEW faction renamed ‘The Cut’ shortly...",
       "link": "https://www.postwrestling.com/2026/10/25/jay-whites-new-aew-faction-renamed-the-cut-shortly-after-collision/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-10-25T16:16:24+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "10/25 Pruett’s AEW Collision audio review: Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve Strickland vs. Myron Reed",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 10/25 Pruett’s AEW Collision audio review: Motor City Machine Guns vs. FTR in the second match of a best-of-five series, Swerve Strickland...",
-      "link": "https://prowrestling.net/site/2026/10/25/10-25-pruetts-aew-collision-audio-review-motor-city-machine-guns-vs-ftr-in-the-second-match-of-a-best-of-five-series-swerve-strickland-vs-myron-reed/",
-      "t": "8h",
-      "dt": "2026-10-25T15:46:51+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Samoa Joe Shares Thoughts On In-Ring Retirement",
-      "p": "Former AEW World Champion Samoa Joe discusses his priorities.",
-      "link": "https://www.wrestlinginc.com/2294865/aew-samoa-joe-thoughts-in-ring-retirement/",
-      "t": "8h",
-      "dt": "2026-10-25T15:30:00+00:00"
     }
   ]
 }

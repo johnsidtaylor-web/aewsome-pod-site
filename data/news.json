@@ -1,22 +1,62 @@
 {
-  "updated": "2026-10-27T07:46:07.314742+00:00",
+  "updated": "2026-10-27T14:24:54.092552+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (3 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Dustin Rhodes: “Jimmy House Would Be A Great Addition To The AEW Locker Room”",
+      "p": "Dustin Rhodes shows love to Jimmy House. Fightful’s Sean Ross Sapp conducted an interview with former WWE I.D. talent Jimmy House, f.k.a. CJ Valor. In reaction to the interview, Dustin Rhodes took...",
+      "link": "https://www.fightful.com/wrestling-news/dustin-rhodes-jimmy-house-would-be-a-great-addition-to-the-aew-locker-room/",
+      "t": "21m",
+      "dt": "2026-10-27T14:03:24+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Samoa Joe Says New Level Was 'Restrained' In WWE, Will Reach Full Potential In AEW",
+      "p": "Samoa Joe, who traded WWE for AEW, believes The New Level, Kofi and Austin Creed, will take their wrestling to another level in Tony Khan's promotion.",
+      "link": "https://www.wrestlinginc.com/2297919/aew-wwe-samoa-joe-kofi-austin-creed-new-level-restrained-full-potential/",
+      "t": "54m",
+      "dt": "2026-10-27T13:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Speedball Mike Bailey Explains Why They And Andrade El Idolo Didn’t Make The Save For Will Ospreay On Last Week’s AEW Dynamite",
+      "p": "Speedball Mike Bailey explains where they and Andrade El Idolo were during the Don Callis Family’s attack on Will Ospreay last week. On the October 21st edition of AEW Dynamite, following a tag...",
+      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-explains-why-they-and-andrade-el-idolo-didnt-make-the-save-for-will-ospreay-on-last-weeks-aew-dynamite/",
+      "t": "1h",
+      "dt": "2026-10-27T13:20:09+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Speedball Mike Bailey: Ilja Dragunov Is Going To Do Amazing And I’m Very Excited To See Where This Goes",
+      "p": "Speedball Mike Bailey reflects on their match with Ilja Dragunov, noting that they are very excited to see what comes next for Ilja. On the October 21st edition of AEW Dynamite, Ilja would make...",
+      "link": "https://www.fightful.com/wrestling-news/speedball-mike-bailey-ilja-dragunov-is-going-to-do-amazing-and-im-very-excited-to-see-where-this-goes/",
+      "t": "1h",
+      "dt": "2026-10-27T12:52:07+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Max Caster: Tony Khan Is Financially Supporting A Lot Of Wrestlers… I’m Still Living Off AEW Money",
+      "p": "Max Caster shouts out Tony Khan. For the last five years of his pro wrestling career, Max Caster was under contract with All Elite Wrestling. During his time with the company, he won the AEW World...",
+      "link": "https://www.fightful.com/wrestling-news/max-caster-tony-khan-is-financially-supporting-a-lot-of-wrestlers-im-still-living-off-aew-money/",
+      "t": "1h",
+      "dt": "2026-10-27T12:30:00+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 10/26 – WKPWP 15 Yrs Ago Livecasts: Bret Hart-Shawn Michaels “Rivalries” DVD in-depth review, TNA Impact and ROH analysis, a look ahead to Scott Hall ESPN documentary (104 min.)",
       "p": "SHOW SUMMARY: Today we jump back 15 years to the Oct. 19, 2011 episode of the PWTorch Livecast with PWTorch assistant editor James Caldwell and PWTorch columnist Sean Radican. They discussed with...",
       "link": "https://www.pwtorch.com/site/2026/10/26/free-podcast-10-26-wkpwp-15-yrs-ago-livecasts-bret-hart-shawn-michaels-rivalries-dvd-in-depth-review-tna-impact-and-roh-analysis-a-look-ahead-to-scott-hall-espn-documentary-104-min/",
-      "t": "4h",
+      "t": "10h",
       "dt": "2026-10-27T03:31:07+00:00"
     },
     {
@@ -24,7 +64,7 @@
       "h": "VIP PODCAST 10/26 – Greg Parks Outloud! Making a list of potential final opponents in the last year of Adam Copeland’s career, including Christian Cage, MJF, Kenny Omega, more (21 min.)",
       "p": "SHOW SUMMARY: In this edition of “Greg Parks Outloud!,” PWTorch columnist Greg Parks presents a podcast version of his weekly PWTorch Newsletter column. This week’s show takes a look at potential...",
       "link": "https://www.pwtorch.com/site/2026/10/26/vip-podcast-10-26-greg-parks-outloud-making-a-list-of-potential-final-opponents-in-the-last-year-of-adam-copelands-career-including-christian-cage-mjf-kenny-omega-more-21-min/",
-      "t": "6h",
+      "t": "12h",
       "dt": "2026-10-27T01:34:26+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Former WWE Star Kalisto Reflects On 'Surreal' Loss Of PAC",
       "p": "Former WWE star Kalisto reflected on the \"surreal\" loss of AEW star Pac, who he worked with in WWE when he was known as Neville.",
       "link": "https://www.wrestlinginc.com/2297821/former-wwe-star-kalisto-reflects-surreal-loss-pac/",
-      "t": "8h",
+      "t": "15h",
       "dt": "2026-10-26T23:20:54+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "Andrade Comments On Moving Between AEW & WWE, Relationship With Tony Khan",
       "p": "Former AEW National Champion Andrade looks back on his brief return to WWE.",
       "link": "https://www.wrestlinginc.com/2297808/aew-wwe-andrade-tony-khan-moving-between-relationship/",
-      "t": "8h",
+      "t": "15h",
       "dt": "2026-10-26T22:57:42+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "AEW's Dustin Rhodes Writing Second Book, Says 'My Hands Were Tied' In WWE",
       "p": "AEW's Dustin Rhodes reveals that he is writing his second book, and seems to criticize his first book by saying \"my hands were tied\" by WWE while writing it",
       "link": "https://www.wrestlinginc.com/2297783/aew-dustin-rhodes-second-book-hands-tied-wwe/",
-      "t": "9h",
+      "t": "16h",
       "dt": "2026-10-26T21:55:00+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "Dustin Rhodes writing another book, says his hands were tied with ‘the other company’",
       "p": "AEW wrestler and coach Dustin Rhodes is currently working on another book about his life. While with WWE, Rhodes authored the memoir “Cross Rhodes: Goldust, Out of the Darkness” in 2010. He...",
       "link": "https://www.f4wonline.com/news/aew/dustin-rhodes-writing-another-book-says-his-hands-were-tied-with-the-other-company/",
-      "t": "11h",
+      "t": "17h",
       "dt": "2026-10-26T20:44:21+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Kofi Confirms The 'Main Reason' He & Austin Creed Signed With AEW",
       "p": "Kofi confirms the \"main reason\" he and New Level tag team partner Austin Creed signed with AEW was to take on Kenny Omega and the Young Bucks of The Elite",
       "link": "https://www.wrestlinginc.com/2297635/aew-kofi-austin-creed-kenny-omega-young-bucks-main-reason-signed/",
-      "t": "11h",
+      "t": "18h",
       "dt": "2026-10-26T20:14:04+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Ilja Dragunov Comments On How WWE Has Used GUNTHER Since He Retired John Cena",
-      "p": "Ex-WWE star Ilja Dragunov reflects on GUNTHER's rise and if his run still remains as relevant as it did before.",
-      "link": "https://www.wrestlinginc.com/2297331/aew-ilja-dragunov-wwe-gunther-retired-john-cena-booking/",
-      "t": "13h",
-      "dt": "2026-10-26T18:16:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW reveals location for final Dynamite/Collision before Worlds End",
-      "p": "The latest addition to the AEW calendar is a Dynamite/Collision episode from Oklahoma City this December. It was announced today that AEW’s go-home show for Worlds End 2026 will take place at OG&E...",
-      "link": "https://www.f4wonline.com/news/aew/aew-reveals-location-for-final-dynamite-collision-before-worlds-end/",
-      "t": "14h",
-      "dt": "2026-10-26T17:24:33+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Star Buddy Matthews Pulled From Australian Indie Tour Due To Scheduling Conflicts",
-      "p": "Buddy Matthews hasn't appeared in AEW since February 2025 after injuring his ankle during his entrance. He was cleared to wrestle last August.",
-      "link": "https://www.wrestlinginc.com/2297112/aew-buddy-matthews-oulled-australian-indie-tour-scheduling-conflicts/",
-      "t": "14h",
-      "dt": "2026-10-26T16:49:34+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (10/24): Jay White’s Last Outfit, FTR battles Motor City Machine Guns, Strickland vs. Myron Reed, women’s Blood & Guts takes shape, White vs. O’Reilly",
-      "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HIT — COLLISION’S SHOW FORMAT I thought this week’s Collision...",
-      "link": "https://www.pwtorch.com/site/2026/10/26/aew-collision-hits-misses-10-24-jay-whites-last-outfit-ftr-battles-motor-city-machine-guns-strickland-vs-myron-reed-womens-blood-guts-takes-shape-white-vs-oreilly/",
-      "t": "14h",
-      "dt": "2026-10-26T16:49:03+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Buddy Matthews return dates in Australia off, citing ‘scheduling conflicts’",
-      "p": "AEW's Buddy Matthews has been pulled from an upcoming tour, World Series of Wrestling announced on Monday. The post Buddy Matthews return dates in Australia off, citing ‘scheduling conflicts’...",
-      "link": "https://www.postwrestling.com/2026/10/26/buddy-matthews-return-dates-in-australia-off-citing-scheduling-conflicts/",
-      "t": "15h",
-      "dt": "2026-10-26T16:23:34+00:00"
     }
   ]
 }

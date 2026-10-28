@@ -1,30 +1,86 @@
 {
-  "updated": "2026-10-28T12:44:58.417941+00:00",
+  "updated": "2026-10-28T18:48:56.485650+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (1 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
-    "ProWrestling.net": "ok (5 AEW items)"
+    "Wrestling Inc": "ok (2 AEW items)",
+    "ProWrestling.net": "ok (4 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
-      "h": "Orange Cassidy Offers Advice To This Year’s AEW Blood & Guts Competitors",
-      "p": "Orange Cassidy offers up advice to this year’s competitors in the AEW Blood And Guts match set for next week’s AEW Dynamite. Last year, Cassidy would compete in his first ever AEW Blood And Guts...",
-      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-offers-advice-to-this-years-aew-blood-guts-competitors/",
-      "t": "14m",
-      "dt": "2026-10-28T12:30:25+00:00"
+      "h": "Stu Grayson Recalls Severing A Nerve In His Finger With Barbed Wire During Ring Of Honor Bout",
+      "p": "Stu Grayson recalls severing a nerve in his finger with barbed wire during a Ring Of Honor match with John Silver. Injuries in wrestling are a common danger for the performers in the ring, but...",
+      "link": "https://www.fightful.com/wrestling-news/stu-grayson-recalls-severing-a-nerve-in-his-finger-with-barbed-wire-during-ring-of-honor-bout/",
+      "t": "48m",
+      "dt": "2026-10-28T18:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "Top Five Less-Than-Obvious Opponents for Will Ospreay to showcase a variety of match styles",
+      "p": "Modern professional wrestling does a good job with the title chase and creating moments from them. Will Ospreay winning at Wembley Stadium, Stephanie Vaquer winning in Chile, and Cody Rhodes...",
+      "link": "https://www.pwtorch.com/site/2026/10/28/top-five-less-than-obvious-opponents-for-will-ospreay-to-showcase-a-variety-of-match-styles/",
+      "t": "53m",
+      "dt": "2026-10-28T17:54:58+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Orange Cassidy Shares He Built A Ring In His Backyard After Deciding He Wanted To Try Wrestling",
+      "p": "Orange Cassidy has shared that he built a ring in his backyard after making the decision that he wanted to try out pro wrestling. Cassidy is a unique pro wrestler in his own right, as his ‘sloth...",
+      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-shares-he-built-a-ring-in-his-backyard-after-deciding-he-wanted-to-try-wrestling/",
+      "t": "1h",
+      "dt": "2026-10-28T17:32:57+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (10/28): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, OCTOBER 28, 2026 Where: ST. LOUIS, MO. AT CHAIFETZ ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,098 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/10/28/aew-dynamite-preview-10-28-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "1h",
+      "dt": "2026-10-28T17:10:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star gives Mercedes Mone credit she feels others don’t: ‘I want to be as good as this woman is’",
+      "p": "Queen Aminata opened up about the impact of Mercedes Mone’s feud at Grand Slam France and how the experience motivated her to improve as a wrestler and shaped her admiration for the AEW star....",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-gives-mercedes-mone-credit-she-feels-others-dont-i-want-to-be-as-good-as-this-woman-is/",
+      "t": "3h",
+      "dt": "2026-10-28T15:24:39+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Ilja Dragunov Gushes About AEW Debut",
+      "p": "AEW's Ilja Dragunov has discussed his debut in the promotion at WrestleDream and the emotions he experienced while in the ring.",
+      "link": "https://www.wrestlinginc.com/2299252/ilja-dragunov-gushes-aew-debut/",
+      "t": "4h",
+      "dt": "2026-10-28T14:30:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: Tonight’s Fright Night edition",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Tonight’s Fright Night edition appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/28/aew-dynamite-preview-tonights-fright-night-edition/",
+      "t": "4h",
+      "dt": "2026-10-28T14:00:50+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Mistico, Yota Tsuji, Konosuke Takeshita among new additions to NJPW/CMLL Lucha Kingdom",
+      "p": "Major names on the NJPW and CMLL rosters have been confirmed for Lucha Kingdom, which is now just a few weeks away. The post Mistico, Yota Tsuji, Konosuke Takeshita among new additions to...",
+      "link": "https://www.postwrestling.com/2026/10/28/mistico-yota-tsuji-konosuke-takeshita-among-new-additions-to-njpw-cmll-lucha-kingdom/",
+      "t": "5h",
+      "dt": "2026-10-28T13:15:38+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite ticket sales update ahead of tonight’s show (10-28-2026)",
       "p": "AEW Dynamite takes place tonight from the Chaifetz Arena in Saint Louis. According to the latest update from WrestleTix, 3,066 tickets have been distributed for the event thus far, which is up +30...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-tonight-show-10-28-2026/",
-      "t": "15m",
+      "t": "6h",
       "dt": "2026-10-28T12:29:07+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "AEW Dynamite Start Time Tonight (10-28-2026)",
       "p": "AEW Dynamite takes place tonight from the Chaifetz Arena in Saint Louis with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. The Best of Five series continues between Motor City Machine...",
       "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-10-28-2026/",
-      "t": "31m",
+      "t": "6h",
       "dt": "2026-10-28T12:12:59+00:00"
     },
     {
@@ -40,72 +96,16 @@
       "h": "AEW Dynamite in St. Louis, AEW Collision taping (reports needed), WWE Evolve, WWE Main Event, last week’s Dynamite and Collision grades, Les Thatcher, MVP, Christy Hemme, Rocky Romero, Mason Rook, Mike Sharpe, Tracy Smothers",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in St. Louis, AEW Collision taping (reports needed), WWE Evolve, WWE Main Event, last week’s Dynamite and Collision grades, Les...",
       "link": "https://prowrestling.net/site/2026/10/28/aew-dynamite-in-st-louis-aew-collision-taping-reports-needed-wwe-evolve-wwe-main-event-last-weeks-dynamite-and-collision-grades-les-thatcher-mvp-christy-hemme-rocky-romero-mason-rook-mi/",
-      "t": "44m",
+      "t": "6h",
       "dt": "2026-10-28T12:00:52+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Fright Night Dynamite Preview, Start Time, How To Watch, Location (10/28)",
-      "p": "Viewing information and lineup for AEW Dynamite on October 28, 2026. AEW Dynamite (October 28, 2026) Venue: Chaifetz Arena City: St. Louis, MO Time: 8pm ET Channel: TBS, Max Lineup TNT...",
-      "link": "https://www.fightful.com/wrestling-news/aew-fright-night-dynamite-preview-start-time-how-to-watch-location-10-28/",
-      "t": "44m",
-      "dt": "2026-10-28T12:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite Preview: Confirmed matches and segments (10-28-2026)",
       "p": "AEW Dynamite takes place tonight from the Chaifetz Arena in Saint Louis, and several matches and segments have been announced for the Fright Night edition of the show. The Best of Five series...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-10-28-2026/",
-      "t": "50m",
-      "dt": "2026-10-28T11:54:25+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Callum Newman: AEW Wrestlers Feel NJPW Is Easy, It’s Not Easy",
-      "p": "AEW seems set to have a big presence at NJPW Wrestle Kingdom 21 with Kenny Omega, Jon Moxley, MJF, and Will Ospreay all appearing on recent NJPW shows to set up future NJPW matches. This doesn’t...",
-      "link": "https://www.fightful.com/wrestling-news/callum-newman-aew-wrestlers-feel-njpw-is-easy-its-not-easy/",
-      "t": "1h",
-      "dt": "2026-10-28T11:14:46+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Callum Newman: I Stepped Up To Lead United Empire When Nobody Did, Then Will Ospreay Makes In Own Group In The US",
-      "p": "When Will Ospreay left NJPW in February 2024 to officially join AEW, United Empire was left without a leader. Eventually, Callum Newman took the throne, shaping the group in his vision and...",
-      "link": "https://www.fightful.com/wrestling-news/callum-newman-i-stepped-up-to-lead-united-empire-when-nobody-did-then-will-ospreay-makes-in-own-group-in-the-us/",
-      "t": "1h",
-      "dt": "2026-10-28T11:07:28+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: Kline’s slotting of what’s going on with Nick Wayne, Women’s Blood & Guts, Davis & Doyle, Marina Shafir",
-      "p": "Welcome everyone! Another week of AEW television is in the books. We had the debut of Ilija Dragunov with vignettes hyping his match debut. Honestly, it felt like they put more into his match...",
-      "link": "https://www.pwtorch.com/site/2026/10/28/aew-rising-and-fading-stars-klines-slotting-of-whats-going-on-with-nick-wayne-womens-blood-guts-davis-doyle-marina-shafir/",
       "t": "6h",
-      "dt": "2026-10-28T06:18:14+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kyle Fletcher Cites The Miz As An Influence",
-      "p": "Former TNT Champion Kyle Fletcher explains how WWE star The Miz's verbal mastery has directly influenced his current work in AEW.",
-      "link": "https://www.wrestlinginc.com/2296392/aew-kyle-fletcher-cites-miz-influence/",
-      "t": "11h",
-      "dt": "2026-10-28T01:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: AEW notes, Orange Cassidy, Arik Cannon",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Tuesday Update WWE AEW & Other Wrestling",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-notes-orange-cassidy-arik-cannon/",
-      "t": "14h",
-      "dt": "2026-10-27T22:39:40+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Former WWE & AEW Star Jake Hager Reportedly Undergoes Second Eye Surgery",
-      "p": "Former WWE and AEW star Jake Hager reportedly underwent a second eye surgery following a brutal injury during a Power Slap event in September.",
-      "link": "https://www.wrestlinginc.com/2298916/wwe-aew-jake-hager-second-eye-surgery-power-slap/",
-      "t": "16h",
-      "dt": "2026-10-27T19:58:23+00:00"
+      "dt": "2026-10-28T11:54:25+00:00"
     }
   ]
 }

@@ -1,46 +1,94 @@
 {
-  "updated": "2026-10-28T05:33:58.817568+00:00",
+  "updated": "2026-10-28T12:44:58.417941+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
-    "Wrestling Observer": "ok (3 AEW items)",
+    "Fightful": "ok (4 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (3 AEW items)",
-    "ProWrestling.net": "ok (4 AEW items)"
+    "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
-      "h": "Yota Tsuji & Hirooki Goto Teaming, Konosuke Takeshita Match Added To CMLL x NJPW Lucha Kingdom",
-      "p": "More matches were added to Lucha Kingdom, one of which includes Yota Tsuji. Arena México is scheduled to host the CMLL x NJPW Lucha Kingdom show on November 16th. Two new matches have been added...",
-      "link": "https://www.fightful.com/wrestling-news/yota-tsuji-hirooki-goto-teaming-konosuke-takeshita-match-added-to-cmll-x-njpw-lucha-kingdom/",
-      "t": "25m",
-      "dt": "2026-10-28T05:07:57+00:00"
+      "h": "Orange Cassidy Offers Advice To This Year’s AEW Blood & Guts Competitors",
+      "p": "Orange Cassidy offers up advice to this year’s competitors in the AEW Blood And Guts match set for next week’s AEW Dynamite. Last year, Cassidy would compete in his first ever AEW Blood And Guts...",
+      "link": "https://www.fightful.com/wrestling-news/orange-cassidy-offers-advice-to-this-years-aew-blood-guts-competitors/",
+      "t": "14m",
+      "dt": "2026-10-28T12:30:25+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite ticket sales update ahead of tonight’s show (10-28-2026)",
+      "p": "AEW Dynamite takes place tonight from the Chaifetz Arena in Saint Louis. According to the latest update from WrestleTix, 3,066 tickets have been distributed for the event thus far, which is up +30...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-tonight-show-10-28-2026/",
+      "t": "15m",
+      "dt": "2026-10-28T12:29:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Start Time Tonight (10-28-2026)",
+      "p": "AEW Dynamite takes place tonight from the Chaifetz Arena in Saint Louis with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. The Best of Five series continues between Motor City Machine...",
+      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-10-28-2026/",
+      "t": "31m",
+      "dt": "2026-10-28T12:12:59+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite in St. Louis, AEW Collision taping (reports needed), WWE Evolve, WWE Main Event, last week’s Dynamite and Collision grades, Les Thatcher, MVP, Christy Hemme, Rocky Romero, Mason Rook, Mike Sharpe, Tracy Smothers",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite in St. Louis, AEW Collision taping (reports needed), WWE Evolve, WWE Main Event, last week’s Dynamite and Collision grades, Les...",
+      "link": "https://prowrestling.net/site/2026/10/28/aew-dynamite-in-st-louis-aew-collision-taping-reports-needed-wwe-evolve-wwe-main-event-last-weeks-dynamite-and-collision-grades-les-thatcher-mvp-christy-hemme-rocky-romero-mason-rook-mi/",
+      "t": "44m",
+      "dt": "2026-10-28T12:00:52+00:00"
     },
     {
       "src": "Fightful",
-      "h": "John Cena & Cody Rhodes To Appear, Dusty Classic Final, Unsanctioned Match Set For 11/4 NXT",
-      "p": "John Cena is showing up to NXT. Due to Election coverage, WWE’s weekly NXT program on The CW will be airing on a Wednesday on November 4th. The show will be going head-to-head with AEW Blood &...",
-      "link": "https://www.fightful.com/wrestling-news/john-cena-cody-rhodes-to-appear-dusty-classic-final-unsanctioned-match-set-for-11-4-nxt/",
-      "t": "3h",
-      "dt": "2026-10-28T02:15:24+00:00"
+      "h": "AEW Fright Night Dynamite Preview, Start Time, How To Watch, Location (10/28)",
+      "p": "Viewing information and lineup for AEW Dynamite on October 28, 2026. AEW Dynamite (October 28, 2026) Venue: Chaifetz Arena City: St. Louis, MO Time: 8pm ET Channel: TBS, Max Lineup TNT...",
+      "link": "https://www.fightful.com/wrestling-news/aew-fright-night-dynamite-preview-start-time-how-to-watch-location-10-28/",
+      "t": "44m",
+      "dt": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Preview: Confirmed matches and segments (10-28-2026)",
+      "p": "AEW Dynamite takes place tonight from the Chaifetz Arena in Saint Louis, and several matches and segments have been announced for the Fright Night edition of the show. The Best of Five series...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-10-28-2026/",
+      "t": "50m",
+      "dt": "2026-10-28T11:54:25+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Tony Khan Says He Met With Skydance Team, Warner Brothers Executives Will Be At 10/28 AEW Dynamite",
-      "p": "Tony Khan continues to be excited about the future of AEW. At the beginning of October, Paramount completed the acquisition of Warner Bros. Discovery, bringing the two media companies together to...",
-      "link": "https://www.fightful.com/wrestling-news/tony-khan-says-he-met-with-skydance-team-warner-brothers-executives-will-be-at-10-28-aew-dynamite/",
-      "t": "3h",
-      "dt": "2026-10-28T02:10:51+00:00"
+      "h": "Callum Newman: AEW Wrestlers Feel NJPW Is Easy, It’s Not Easy",
+      "p": "AEW seems set to have a big presence at NJPW Wrestle Kingdom 21 with Kenny Omega, Jon Moxley, MJF, and Will Ospreay all appearing on recent NJPW shows to set up future NJPW matches. This doesn’t...",
+      "link": "https://www.fightful.com/wrestling-news/callum-newman-aew-wrestlers-feel-njpw-is-easy-its-not-easy/",
+      "t": "1h",
+      "dt": "2026-10-28T11:14:46+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Callum Newman: I Stepped Up To Lead United Empire When Nobody Did, Then Will Ospreay Makes In Own Group In The US",
+      "p": "When Will Ospreay left NJPW in February 2024 to officially join AEW, United Empire was left without a leader. Eventually, Callum Newman took the throne, shaping the group in his vision and...",
+      "link": "https://www.fightful.com/wrestling-news/callum-newman-i-stepped-up-to-lead-united-empire-when-nobody-did-then-will-ospreay-makes-in-own-group-in-the-us/",
+      "t": "1h",
+      "dt": "2026-10-28T11:07:28+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Kline’s slotting of what’s going on with Nick Wayne, Women’s Blood & Guts, Davis & Doyle, Marina Shafir",
+      "p": "Welcome everyone! Another week of AEW television is in the books. We had the debut of Ilija Dragunov with vignettes hyping his match debut. Honestly, it felt like they put more into his match...",
+      "link": "https://www.pwtorch.com/site/2026/10/28/aew-rising-and-fading-stars-klines-slotting-of-whats-going-on-with-nick-wayne-womens-blood-guts-davis-doyle-marina-shafir/",
+      "t": "6h",
+      "dt": "2026-10-28T06:18:14+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Kyle Fletcher Cites The Miz As An Influence",
       "p": "Former TNT Champion Kyle Fletcher explains how WWE star The Miz's verbal mastery has directly influenced his current work in AEW.",
       "link": "https://www.wrestlinginc.com/2296392/aew-kyle-fletcher-cites-miz-influence/",
-      "t": "4h",
+      "t": "11h",
       "dt": "2026-10-28T01:00:00+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Daily Update: AEW notes, Orange Cassidy, Arik Cannon",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Tuesday Update WWE AEW & Other Wrestling",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-notes-orange-cassidy-arik-cannon/",
-      "t": "6h",
+      "t": "14h",
       "dt": "2026-10-27T22:39:40+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "Former WWE & AEW Star Jake Hager Reportedly Undergoes Second Eye Surgery",
       "p": "Former WWE and AEW star Jake Hager reportedly underwent a second eye surgery following a brutal injury during a Power Slap event in September.",
       "link": "https://www.wrestlinginc.com/2298916/wwe-aew-jake-hager-second-eye-surgery-power-slap/",
-      "t": "9h",
+      "t": "16h",
       "dt": "2026-10-27T19:58:23+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Top AEW name announced for CMLL debut",
-      "p": "AEW star Darby Allin will be in Mexico City this Friday (October 30) for his CMLL debut. CMLL has announced that Allin will take on Hechicero at this Friday night’s Arena Mexico card, which is...",
-      "link": "https://www.f4wonline.com/news/aew/top-aew-name-announced-for-cmll-debut/",
-      "t": "10h",
-      "dt": "2026-10-27T19:15:04+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Ilja Dragunov Explains Decision To Let WWE Contract Expire",
-      "p": "AEW's Ilja Dragunov gives a more detailed explanation regarding his decision to leave WWE for AEW when his contract expired earlier this year",
-      "link": "https://www.wrestlinginc.com/2298714/aew-wwe-ilja-dragunov-explains-decision-contract-expire/",
-      "t": "11h",
-      "dt": "2026-10-27T18:18:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Max Caster gives update on Anthony Bowens’ AEW status",
-      "p": "Max Caster has departed AEW, but it seems like his former Acclaimed partner Anthony Bowens is still with the promotion. It was reported that both Bowens and Caster had their AEW contracts set to...",
-      "link": "https://www.f4wonline.com/news/aew/max-caster-gives-update-on-anthony-bowens-aew-status/",
-      "t": "13h",
-      "dt": "2026-10-27T16:15:22+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 10/26 – WKPWP 15 Yrs Ago Livecasts: Bret Hart-Shawn Michaels “Rivalries” DVD in-depth review, TNA Impact and ROH analysis, a look ahead to Scott Hall ESPN documentary (104 min.)",
-      "p": "SHOW SUMMARY: Today we jump back 15 years to the Oct. 19, 2011 episode of the PWTorch Livecast with PWTorch assistant editor James Caldwell and PWTorch columnist Sean Radican. They discussed with...",
-      "link": "https://www.pwtorch.com/site/2026/10/26/free-podcast-10-26-wkpwp-15-yrs-ago-livecasts-bret-hart-shawn-michaels-rivalries-dvd-in-depth-review-tna-impact-and-roh-analysis-a-look-ahead-to-scott-hall-espn-documentary-104-min/",
-      "t": "1d",
-      "dt": "2026-10-27T03:31:07+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 10/26 – Greg Parks Outloud! Making a list of potential final opponents in the last year of Adam Copeland’s career, including Christian Cage, MJF, Kenny Omega, more (21 min.)",
-      "p": "SHOW SUMMARY: In this edition of “Greg Parks Outloud!,” PWTorch columnist Greg Parks presents a podcast version of his weekly PWTorch Newsletter column. This week’s show takes a look at potential...",
-      "link": "https://www.pwtorch.com/site/2026/10/26/vip-podcast-10-26-greg-parks-outloud-making-a-list-of-potential-final-opponents-in-the-last-year-of-adam-copelands-career-including-christian-cage-mjf-kenny-omega-more-21-min/",
-      "t": "1d",
-      "dt": "2026-10-27T01:34:26+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION HITS & MISSES (10/24): Jay White’s Last Outfit, FTR battles Motor City Machine Guns, Strickland vs. Myron Reed, women’s Blood & Guts takes shape, White vs. O’Reilly",
-      "p": "To help add context, my “Hits” are ordered from best to worst. With that said, let’s move into the high points of this week’s episode. HIT — COLLISION’S SHOW FORMAT I thought this week’s Collision...",
-      "link": "https://www.pwtorch.com/site/2026/10/26/aew-collision-hits-misses-10-24-jay-whites-last-outfit-ftr-battles-motor-city-machine-guns-strickland-vs-myron-reed-womens-blood-guts-takes-shape-white-vs-oreilly/",
-      "t": "1d",
-      "dt": "2026-10-26T16:49:03+00:00"
     }
   ]
 }

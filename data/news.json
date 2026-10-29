@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-28T23:10:43.059934+00:00",
+  "updated": "2026-10-29T02:24:19.587242+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (1 AEW items)",
+    "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
-    "ProWrestling.net": "ok (4 AEW items)"
+    "Wrestling Inc": "ok (6 AEW items)",
+    "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Inc",
-      "h": "AEW Fright Night Dynamite Results 10/28/26 W/ Live Updates",
-      "p": "This is Wrestling Inc.'s live blog for Fright Night \"AEW Dynamite\" on October 28, 2026, with matches for the TNT & TBS Championships!",
-      "link": "https://www.wrestlinginc.com/2297881/aew-fright-night-dynamite-october-28-2026-results/",
-      "t": "10m",
-      "dt": "2026-10-28T23:00:00+00:00"
+      "h": "Darby Allin Defeats Josh Alexander, Escapes AEW Fright Night Dynamite With TNT Title",
+      "p": "Darby Allin is still TNT Champion after a victory over Josh Alexander in a brutal bout on \"AEW Fright Night Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2300606/aew-dynamite-fright-night-darby-allin-josh-alexander-tnt-title/",
+      "t": "7m",
+      "dt": "2026-10-29T02:16:47+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Thekla Talks Triangle Of Madness Helping Female Wrestlers Develop An Edge",
-      "p": "Thekla touts the influence of Triangle Of Madness. Since joining forces in July 2025, Thekla, Julia Hart, and Skye Blue have only continued to elevate their profiles in AEW. Effectively leading...",
-      "link": "https://www.fightful.com/wrestling-news/336339-thekla-triangle-of-madness/",
-      "t": "30m",
-      "dt": "2026-10-28T22:39:39+00:00"
+      "h": "Ilja Dragunov vs. The Beast Mortos, The Cut vs. The Conglomeration, More Set For AEW Fright Night Collision",
+      "p": "Here’s what’s on tap for AEW Fright Night Collision. In trios action, The Conglomeration team of Roderick Strong, Kyle O’Reilly, and Orange Cassidy will face off against The Cut (Juice Robinson,...",
+      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-vs-the-beast-mortos-the-cut-vs-the-conglomeration-more-set-for-aew-fright-night-collision/",
+      "t": "10m",
+      "dt": "2026-10-29T02:13:33+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "AEW Collision rating (10/24): Did the World Series Game 2 cut into Collision’s numbers?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (10/24): Did the World Series Game 2 cut into Collision’s numbers? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/28/aew-collision-rating-10-24-did-the-world-series-game-2-cut-into-collisions-numbers/",
+      "h": "AEW Dynamite Poll: Grade the October 28 Fright Night edition",
+      "p": "Loading… The post AEW Dynamite Poll: Grade the October 28 Fright Night edition appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/10/28/aew-dynamite-poll-grade-the-october-28-fright-night-edition/",
+      "t": "33m",
+      "dt": "2026-10-29T01:50:46+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "World title main event signed for AEW Full Gear",
+      "p": "AEW World Champion Will Ospreay will defend against Kyle Fletcher in the main event of next month’s AEW Full Gear from Phoenix, Arizona. Fletcher issued the challenge on Wednesday’s Dynamite...",
+      "link": "https://www.f4wonline.com/news/aew/will-ospreay-vs-kyle-fletcher-aew-full-gear-2026/",
+      "t": "43m",
+      "dt": "2026-10-29T01:41:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Update On ‘Timeless’ Toni Storm",
+      "p": "Details on the potential return of Toni Storm. Fightful Select reports, “At AEW WrestleDream, some media members in attendance found planted cassette tapes to start teasing the return of Timeless...",
+      "link": "https://www.fightful.com/wrestling-news/update-on-timeless-toni-storm/",
+      "t": "51m",
+      "dt": "2026-10-29T01:32:37+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Motor City Machine Guns Take 2-1 Series Lead Over FTR On AEW Fright Night Dynamite",
+      "p": "Motor City Machine Guns gain the advantage. On this week’s episode of AEW Dynamite, the Motor City Machine Guns took on FTR in the third match of their best-of-five series. Both teams entered the...",
+      "link": "https://www.fightful.com/wrestling-news/336362-motor-city-machine-guns-ftr/",
+      "t": "51m",
+      "dt": "2026-10-29T01:32:20+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Kyle Fletcher Challenges Will Ospreay To AEW World Title Match At Full Gear 2026",
+      "p": "Kyle Fletcher wants to bring more gold to the Don Callis Family as he will face Will Ospreay for the AEW World Title at AEW Full Gear 2026.",
+      "link": "https://www.wrestlinginc.com/2300592/kyle-fletcher-will-ospreay-aew-world-title-full-gear-2026-challenge/",
       "t": "1h",
-      "dt": "2026-10-28T21:31:45+00:00"
+      "dt": "2026-10-29T01:12:57+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Collision ratings up against strong sports competition",
-      "p": "Back in its normal day and against strong sports competition, last Saturday’s AEW Collision on TNT posted one of its strongest viewership numbers since early-June. First reported by our Dave...",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-ratings-up-against-strong-sports-competition/",
+      "h": "Anarchy in the Arena match set for AEW Full Gear",
+      "p": "For the first time in the history of the company, an Anarchy in the Arena match will take place at AEW Full Gear. In a challenge made during Wednesday’s Dynamite after the opening bout, The Death...",
+      "link": "https://www.f4wonline.com/news/aew/anarchy-in-the-arena-aew-full-gear-2026-cut-vs-death-riders/",
+      "t": "1h",
+      "dt": "2026-10-29T01:10:22+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kyle Fletcher To Challenge Will Ospreay For AEW World Title At AEW Full Gear",
+      "p": "Kyle Fletcher wants to take down Will Ospreay again. After his win over Jack Perry on this week’s episode of AEW Dynamite, Fletcher was joined in the ring by Don Callis, Jake Doyle, and Mark...",
+      "link": "https://www.fightful.com/wrestling-news/336356-kyle-fletcher-will-ospreay/",
+      "t": "1h",
+      "dt": "2026-10-29T01:09:28+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Jon Moxley Challenges The Cut To Hardcore Stipulation Match At AEW Full Gear 2026",
+      "p": "Jon Moxley laid out a challenge for the Cut and the Death Riders to battle it out at AEW Full Gear.",
+      "link": "https://www.wrestlinginc.com/2300589/jon-moxley-death-riders-the-cut-anarchy-in-the-arena-aew-full-gear-2026/",
+      "t": "1h",
+      "dt": "2026-10-29T00:45:31+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jon Moxley Lays Out Anarchy In The Arena Challenge For AEW Full Gear",
+      "p": "A big challenge has been made for AEW Full Gear. This week’s episode of AEW Dynamite kicked off with a tag bout that pitted Jon Moxley and Daniel Garcia against The Cut’s Jay White and David...",
+      "link": "https://www.fightful.com/wrestling-news/336349-aew-full-gear/",
+      "t": "1h",
+      "dt": "2026-10-29T00:32:27+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Fright Night Dynamite 10/28/26 Review (XL Live 10:35pm ET)",
+      "p": "John Pollock & Wai Ting review AEW Dynamite w/ Allin vs. Alexander (TNT), Aminata vs. Persephone (TBS), FTR vs. MCMG. XL: WWE Crown Jewel changes venue, Susan St. James dies at 80. The post AEW...",
+      "link": "https://www.postwrestling.com/2026/10/28/aew-fright-night-dynamite-10-28-26-review-xl-live-1035pm-et/",
       "t": "2h",
-      "dt": "2026-10-28T21:08:39+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Thinks WWE Will Announce John Cena Classic For Same Day As AEW PPV",
-      "p": "Dave Meltzer says he would be on WWE announcing the John Cena Classic for the same day as the AEW PPV Worlds End, which will feature the finals of the C2",
-      "link": "https://www.wrestlinginc.com/2300396/dave-meltzer-wwe-john-cena-classic-aew-worlds-end/",
-      "t": "2h",
-      "dt": "2026-10-28T20:29:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "For subscribers: Dave Meltzer on strong AEW Collision ratings number",
-      "p": "In a new subscriber-exclusive article, Dave Meltzer analyzes the strong ratings AEW Collision did on October 24. Click Here to Read (sub needed)",
-      "link": "https://www.f4wonline.com/news/aew/for-subscribers-dave-meltzer-on-strong-aew-collision-ratings-number/",
-      "t": "3h",
-      "dt": "2026-10-28T20:06:23+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 10/28 – WKH – The News: Breaking details on Crown Jewel moving, last week’s Dynamite viewership plus 2026 overview, Ric Flair update, Sami reflects on Montreal (13 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: Breaking news and details on Crown Jewel being moved AEW Dynamite...",
-      "link": "https://www.pwtorch.com/site/2026/10/28/vip-podcast-10-28-wkh-the-news-breaking-details-on-crown-jewel-moving-last-weeks-dynamite-viewership-plus-2026-overview-ric-flair-update-sami-reflects-on-montreal-13-min/",
-      "t": "4h",
-      "dt": "2026-10-28T19:08:58+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Matt Hardy Doesn't Think AEW Fans Would Accept Adam Copeland As World Champion",
-      "p": "If Adam Copeland were to win the AEW World Championship, Matt Hardy believes some of the company's fans would criticize the decision.",
-      "link": "https://www.wrestlinginc.com/2300214/aew-matt-hardy-adam-copeland-doesnt-think-fans-would-accept-world-champion/",
-      "t": "4h",
-      "dt": "2026-10-28T19:05:28+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "Top Five Less-Than-Obvious Opponents for Will Ospreay to showcase a variety of match styles",
-      "p": "Modern professional wrestling does a good job with the title chase and creating moments from them. Will Ospreay winning at Wembley Stadium, Stephanie Vaquer winning in Chile, and Cody Rhodes...",
-      "link": "https://www.pwtorch.com/site/2026/10/28/top-five-less-than-obvious-opponents-for-will-ospreay-to-showcase-a-variety-of-match-styles/",
-      "t": "5h",
-      "dt": "2026-10-28T17:54:58+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE PREVIEW (10/28): Announced matches, location, ticket sales, how to watch",
-      "p": "When: WEDNESDAY, OCTOBER 28, 2026 Where: ST. LOUIS, MO. AT CHAIFETZ ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 3,098 tickets had been...",
-      "link": "https://www.pwtorch.com/site/2026/10/28/aew-dynamite-preview-10-28-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "6h",
-      "dt": "2026-10-28T17:10:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star gives Mercedes Mone credit she feels others don’t: ‘I want to be as good as this woman is’",
-      "p": "Queen Aminata opened up about the impact of Mercedes Mone’s feud at Grand Slam France and how the experience motivated her to improve as a wrestler and shaped her admiration for the AEW star....",
-      "link": "https://www.f4wonline.com/news/aew/aew-star-gives-mercedes-mone-credit-she-feels-others-dont-i-want-to-be-as-good-as-this-woman-is/",
-      "t": "7h",
-      "dt": "2026-10-28T15:24:39+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Ilja Dragunov Gushes About AEW Debut",
-      "p": "AEW's Ilja Dragunov has discussed his debut in the promotion at WrestleDream and the emotions he experienced while in the ring.",
-      "link": "https://www.wrestlinginc.com/2299252/ilja-dragunov-gushes-aew-debut/",
-      "t": "8h",
-      "dt": "2026-10-28T14:30:00+00:00"
+      "dt": "2026-10-28T23:45:54+00:00"
     }
   ]
 }

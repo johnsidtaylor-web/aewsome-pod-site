@@ -1,22 +1,78 @@
 {
-  "updated": "2026-10-30T01:55:39.082121+00:00",
+  "updated": "2026-10-30T08:33:51.221201+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Bobby Lashley proposes $10,000 wrestling challenge for high school athletes",
+      "p": "AEW wrestler Bobby Lashley recently opened up about his plans for a massive $10,000 wrestling challenge for high school athletes. An amateur wrestler himself, Lashley pursued amateur wrestling...",
+      "link": "https://www.f4wonline.com/news/aew/bobby-lashley-proposes-10000-wrestling-challenge-for-high-school-athletes/",
+      "t": "1h",
+      "dt": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Ilja Dragunov wants to be in AEW’s Continental Classic",
+      "p": "AEW Continental Classic is just around the corner, and Ilja Dragunov wants to be a part of it. Just weeks after making his AEW debut, Dragunov recently appeared on the promotion’s social media...",
+      "link": "https://www.f4wonline.com/news/aew/ilja-dragunov-wants-to-be-in-aews-continental-classic/",
+      "t": "4h",
+      "dt": "2026-10-30T04:30:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Ilja Dragunov Expresses Interest In Competing In AEW Continental Classic",
+      "p": "Ilja Dragunov was asked about the tournament. All Elite Wrestling is inching closer to the annual Continental Classic tournament. It was brought up to the company’s newest signee, Ilja Dragunov....",
+      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-expresses-interest-in-competing-in-aew-continental-classic/",
+      "t": "4h",
+      "dt": "2026-10-30T04:10:02+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH TV Results (10/29)",
+      "p": "Ring of Honor aired the latest episode of ROH TV on October 29. The event aired on HonorClub. Full results are below. ROH TV Results (10/29) Footage of Swerve Strickland bloodying ROH Champion...",
+      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-10-29/",
+      "t": "5h",
+      "dt": "2026-10-30T03:09:44+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WWE reportedly interested in AEW wrestler’s availability",
+      "p": "AEW and ROH wrestler Dralistico could be very close to securing a move to WWE. Earlier this month, Dralistico uploaded an AI-generated image of himself sitting in a jail cell with the caption...",
+      "link": "https://www.f4wonline.com/news/wwe/wwe-reportedly-interested-in-aew-wrestlers-availability/",
+      "t": "5h",
+      "dt": "2026-10-30T02:36:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW FEUD TRACKER: Barber’s look at the eventful last two weeks with The Cut being formed and changing their name, an unexpected TBS Title change, MCMG vs. FTR, Nick Wayne, more",
+      "p": "HOUSEKEEPING •Megan Bayne made it the final two in the CMLL International Grand Prix before falling to Skadi. She had a great showing throughout the match. Bayne doesn’t miss in Mexico. INTRO AEW...",
+      "link": "https://www.pwtorch.com/site/2026/10/29/aew-feud-tracker-barbers-look-at-the-eventful-last-two-weeks-with-the-cut-being-formed-and-changing-their-name-an-unexpected-tbs-title-change-mcmg-vs-ftr-nick-wayne-more/",
+      "t": "5h",
+      "dt": "2026-10-30T02:35:39+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "PARKS’S TAKE: Does The Cut look like it’s going to be one faction too many or a misuse of the talent or a good fit in the AEW mix?",
+      "p": "Heat, heat, heat. That’s been the story so far of The Cut, the group briefly known as The Last Outfit. By the way, for all the consternation about the name, “The Outfit” would’ve been fine. [...]",
+      "link": "https://www.pwtorch.com/site/2026/10/29/parkss-take-does-the-cut-look-like-its-going-to-be-one-faction-too-many-or-a-misuse-of-the-talent-or-a-good-fit-in-the-aew-mix/",
+      "t": "6h",
+      "dt": "2026-10-30T02:06:41+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Backstage Update On Potential WWE Interest In AEW Star Dralistico",
       "p": "Dralistico's AEW future is up in the air, and if he becomes a free agent in the near future, there could be some interest from WWE.",
       "link": "https://www.wrestlinginc.com/2301851/wwe-interest-aew-dralistico-main-roster-aaa-december/",
-      "t": "2h",
+      "t": "9h",
       "dt": "2026-10-29T23:20:36+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "ROH TV live results: Lio Rush returns, Scorpio Sky vs. Oro",
       "p": "Ring of Honor is back on HonorClub tonight. The Grizzled Young Veterans, James Drake and Zack Gibson, will be in action. Their opponents have not been announced. Lio Rush will return to Ring of...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-lio-rush-returns-scorpio-sky-vs-oro/",
-      "t": "2h",
+      "t": "9h",
       "dt": "2026-10-29T23:15:00+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "ROH on HonorClub lineup: The card for tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/10/29/roh-on-honorclub-lineup-the-card-for-tonights-show-46/",
-      "t": "5h",
+      "t": "12h",
       "dt": "2026-10-29T20:30:21+00:00"
     },
     {
@@ -40,7 +96,7 @@
       "h": "Tommaso Ciampa Attempts RKO On Fellow AEW Star After Mistaking Him For Randy Orton",
       "p": "Tommaso Ciampa attempts, and fails, to hit an RKO on a fellow AEW star after mistaking the individual for WWE star Randy Orton while in St. Louis",
       "link": "https://www.wrestlinginc.com/2301667/aew-tommaso-ciampa-rko-kyle-fletcher-randy-orton-wwe-out-of-nowhere/",
-      "t": "5h",
+      "t": "12h",
       "dt": "2026-10-29T20:23:27+00:00"
     },
     {
@@ -48,64 +104,8 @@
       "h": "WOL: HBK and AJ futures, Prichard replacement, Dynamite report, more!",
       "p": "Wrestling Observer Live with Bryan Alvarez is back with a solo show running down a ton of news, including the potential replacement for Bruce Prichard and possible changes coming to NXT, the...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-hbk-and-aj-futures-prichard-replacement-dynamite-report-more/",
-      "t": "5h",
+      "t": "12h",
       "dt": "2026-10-29T20:07:16+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: Shawn Michaels reportedly taking over WWE creative role, Queen Aminata wins TBS title",
-      "p": "John Kleinchester covers a reported change to WWE's creative leadership, a new TBS Champion and Will Ospreay's Full Gear challenger. Available for all members at POSTWrestlingCafe.com. The post...",
-      "link": "https://www.postwrestling.com/2026/10/29/post-news-shawn-michaels-reportedly-taking-over-wwe-creative-role-queen-aminata-wins-tbs-title-cr/",
-      "t": "5h",
-      "dt": "2026-10-29T20:03:46+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW HITS & MISSES (10/28): Persephone losing the TBS Title, Death Riders vs. The Cut, Fletcher vs. Perry, New Level, Ciampa-Dragunov",
-      "p": "HITS JAY WHITE & DAVID FINLEY VS. JON MOXLEY & DANIEL GARCIA (DEATH RIDERS VS. THE CUT) Coming off a big heel turn last week and a new group named (twice) on Saturday, I thought [...]",
-      "link": "https://www.pwtorch.com/site/2026/10/29/aew-hits-misses-10-28-persephone-losing-the-tbs-title-death-riders-vs-the-cut-fletcher-vs-perry-new-level-ciampa-dragunov/",
-      "t": "6h",
-      "dt": "2026-10-29T19:35:47+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite: Queen Aminata’s crowning moment, Darby Allin vs. Josh Alexander, Full Gear gets a main event and Anarchy in the Arena",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite: Queen Aminata’s crowning moment, Darby Allin vs. Josh Alexander, Full Gear gets a main event and...",
-      "link": "https://prowrestling.net/site/2026/10/29/pruetts-pause-10-thoughts-on-aew-dynamite-queen-aminatas-crowning-moment-darby-allin-vs-josh-alexander-full-gear-gets-a-main-event-and-anarchy-in-the-arena/",
-      "t": "6h",
-      "dt": "2026-10-29T19:15:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Orange Cassidy reflects on PAC rivalry and difficult period for AEW",
-      "p": "Orange Cassidy says PAC will always be his greatest rival. Speaking to Going Ringside in an interview published on Thursday, Orange Cassidy said that every time he got in the ring with PAC, it was...",
-      "link": "https://www.f4wonline.com/news/aew/orange-cassidy-reflects-on-pac-rivalry-and-difficult-period-for-aew/",
-      "t": "6h",
-      "dt": "2026-10-29T19:09:58+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "GCW Announces Annual New Year’s Eve Show, AEW Fright Night Dynamite Highlights, More | Fight Size",
-      "p": "GCW announcements, AEW highlights, and more are covered in your fight size update for Thursday, October 29, 2026. – GCW has announced their annual NYE show: GCW returns to RIDGEFIELD PARK on New...",
-      "link": "https://www.fightful.com/wrestling-news/gcw-fight-size/",
-      "t": "6h",
-      "dt": "2026-10-29T19:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Queen Aminata Makes First Comment On AEW TBS Title Win On Fright Night Dynamite",
-      "p": "Queen Aminata makes her first comments following an emotional AEW TBS Championship victory, her first title win in AEW, on Fright Night Dynamite",
-      "link": "https://www.wrestlinginc.com/2301411/queen-aminata-aew-tbs-title-win-fright-night-dynamite/",
-      "t": "7h",
-      "dt": "2026-10-29T18:20:49+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Swerve Strickland forcing Texas Death, Queen Aminata’s big night should have been bigger, high-risk moves should matter",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Swerve Strickland forcing Texas Death, Queen Aminata’s big night should have been bigger, high-risk moves...",
-      "link": "https://prowrestling.net/site/2026/10/29/powells-aew-dynamite-hit-list-swerve-strickland-forcing-texas-death-queen-aminatas-big-night-should-have-been-bigger-high-risk-moves-should-matter/",
-      "t": "8h",
-      "dt": "2026-10-29T17:46:27+00:00"
     }
   ]
 }

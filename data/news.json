@@ -1,111 +1,111 @@
 {
-  "updated": "2026-10-31T18:30:11.802575+00:00",
+  "updated": "2026-10-31T22:26:50.965121+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "Big Cass responds to speculation about his WWE push",
+      "p": "Despite a thunderous return a few months ago, Big Cass’ push has not quite hit the mark. Earlier this year, in Aug. 2026, Big Cass returned to WWE after a successful run in AEW. Coming back to...",
+      "link": "https://www.f4wonline.com/news/wwe/big-cass-responds-to-speculation-about-his-wwe-push/",
+      "t": "26m",
+      "dt": "2026-10-31T22:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WWE legend says he has re-signed with company following AEW departure",
+      "p": "Jake “The Snake” Roberts says he has re-signed with WWE. Roberts confirmed he was no longer employed with AEW during an interview with Bill Apter in May. He had been with the company since March...",
+      "link": "https://www.f4wonline.com/news/wwe/wwe-legend-re-signs-following-aew-departure/",
+      "t": "57m",
+      "dt": "2026-10-31T21:29:36+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Collision Results 10/31/2026 W/ Live Updates",
+      "p": "It's a special edition of \"AEW Collision: Fright Night\". Triangle of Madness will defend their Artist of STARDOM championship against TRINITY.",
+      "link": "https://www.wrestlinginc.com/2303207/aew-collision-october-31-2026-results/",
+      "t": "1h",
+      "dt": "2026-10-31T21:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Adam Copeland: Wrestling In Maple Leaf Gardens Was More Important Than Wembley",
+      "p": "Adam Copeland has explained the importance of wrestling at Maple Leaf Gardens and why it means more to him than wrestling at any other venue in the world.",
+      "link": "https://www.wrestlinginc.com/2300675/aew-adam-copeland-maple-leaf-gardens-more-important-wembley/",
+      "t": "1h",
+      "dt": "2026-10-31T21:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jake Roberts: ‘Tony Khan Needs To Loosen Up The Reins A Little Bit And Take Some Advice,’ Believes His Talent Can Be Used Better",
+      "p": "Jake Roberts comments on Tony Khan. Jake Roberts confirmed his departure from All Elite Wrestling in July 2026. He made his official debut for the company in 2020 in the lead-up to Lance Archer’s...",
+      "link": "https://www.fightful.com/wrestling-news/jake-roberts-tony-khan-needs-to-loosen-up-the-reins-a-little-bit-and-take-some-advice-believes-his-talent-can-be-used-better/",
+      "t": "1h",
+      "dt": "2026-10-31T20:40:48+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jake Roberts Says He Has Re-Signed With WWE",
+      "p": "Jake ‘The Snake’ Roberts is back with WWE. In July, Jake Roberts revealed that he is no longer with All Elite Wrestling. He worked for the promotion on and off from 2019 to 2026. Speaking with...",
+      "link": "https://www.fightful.com/wrestling-news/jake-roberts-says-he-has-re-signed-with-wwe/",
+      "t": "2h",
+      "dt": "2026-10-31T20:23:41+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Exclusive: AEW’s Mansoor addresses WWE’s Saudi Arabia plans: ‘We have very little leverage’",
+      "p": "While hostilities and the tragic incidents continue to take place in Saudi Arabia, WWE is far from canceling its plans. Previously scheduled to take place at Riyadh Season Stadium, the PLE was...",
+      "link": "https://www.f4wonline.com/news/aew/exclusive-aews-mansoor-addresses-wwes-saudi-arabia-plans-we-have-very-little-leverage/",
+      "t": "2h",
+      "dt": "2026-10-31T20:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 10/31 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: Ospreay vs. Fletcher at Full Gear, new TBS champ, more (87 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review Dynamite Fright Night from St. Louis, Mo. Full Gear card takes shape...",
+      "link": "https://www.pwtorch.com/site/2026/10/31/free-podcast-10-31-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-ospreay-vs-fletcher-at-full-gear-new-tbs-champ-more-87-min/",
+      "t": "2h",
+      "dt": "2026-10-31T19:40:27+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Bryce Remsburg Compares Referee Role On The Indies Vs. AEW",
+      "p": "Long-time AEW referee Bryce Remsburg compares his referee role in AEW to the one he had on the indies, where he previously refereed for over a decade",
+      "link": "https://www.wrestlinginc.com/2299653/aew-bryce-remsburg-compares-referee-role-indies/",
+      "t": "2h",
+      "dt": "2026-10-31T19:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW’s Orange Cassidy details worst injury of his wrestling career",
+      "p": "AEW’s Orange Cassidy recalled suffering a broken orbital bone and sinus injury that left him vomiting blood. Speaking on The Rizzuto Show, Cassidy described the incident as the worst injury of his...",
+      "link": "https://www.f4wonline.com/news/aew/orange-cassidy-worst-wrestling-injury/",
+      "t": "3h",
+      "dt": "2026-10-31T18:30:00+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Billy Gunn Shares Thoughts On His Children Following In His Footsteps",
       "p": "Billy Gunn's sons Austin and Colten have followed in his footsteps as pro wrestlers, with the AEW coach offering his thoughts on their decision.",
       "link": "https://www.wrestlinginc.com/2298622/aew-billy-gunn-austin-colten-thoughts-children-following-footsteps/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-10-31T16:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "The Swirl: ‘When Blake And I Get Back To AEW, All Of You Teams, You Are F**ked’",
-      "p": "Blake Christian and Lee Johnson share a message with AEW tag teams. On Night 5 of NJPW Super Junior Tag League, The Swirl (Blake Christian and Lee Johnson) went up against HOUSE OF TORTURE (Dick...",
-      "link": "https://www.fightful.com/wrestling-news/the-swirl-when-blake-and-i-get-back-to-aew-all-of-you-teams-you-are-fked/",
-      "t": "2h",
-      "dt": "2026-10-31T16:24:24+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Excalibur Recalls Chemistry Test With Jim Ross Before Starting With AEW",
       "p": "AEW play-by-play announcer Excalibur recalls having to do a chemistry test with the Hall of Famer Jim Ross before AEW launched at Double or Nothing in 2019",
       "link": "https://www.wrestlinginc.com/2298321/aew-excalibur-jim-ross-chemistry-test/",
-      "t": "3h",
+      "t": "6h",
       "dt": "2026-10-31T15:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Excalibur Pinpoints The Best Match He's Ever Called",
-      "p": "Before Excalibur was in AEW, he was the \"Voice of PWG\". He has called numerous matches, but there is one that he picked as the best he's ever called.",
-      "link": "https://www.wrestlinginc.com/2297879/aew-excalibur-will-ospreay-kenny-omega-pinpoints-best-match-ever-called/",
-      "t": "4h",
-      "dt": "2026-10-31T14:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report, 10/28/2026",
-      "p": "It was a spooky night in St. Louis this week on \"AEW Dynamite,\" but the company saw a slight dip in the television ratings.",
-      "link": "https://www.wrestlinginc.com/2303246/aew-dynamite-viewership-ratings-report-october-28-2026/",
-      "t": "5h",
-      "dt": "2026-10-31T13:28:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Darby Allin vs. Hechicero result from CMLL at Arena Mexico",
-      "p": "Hechicero defeated AEW TNT Champion Darby Allin at CMLL’s Día de Muertos: Rey del Inframundo event at Arena Mexico on Friday night. The CMLL World Heavyweight Champion pinned Allin after a...",
-      "link": "https://www.f4wonline.com/news/mexico/darby-allin-hechicero-cmll-rey-del-inframundo-2026-results/",
-      "t": "5h",
-      "dt": "2026-10-31T13:05:17+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Samoa Joe Identifies Ways Modern Wrestling Has Improved On The Past",
-      "p": "AEW star Samoa Joe identified some ways modern wrestling has improved compared to previous generations.",
-      "link": "https://www.wrestlinginc.com/2297637/aew-samoa-joe-identifies-ways-modern-wrestling-improved-past/",
-      "t": "5h",
-      "dt": "2026-10-31T13:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Tonight’s Fright Night edition",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Tonight’s Fright Night edition appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/10/31/aew-collision-lineup-tonights-fright-night-edition/",
-      "t": "7h",
-      "dt": "2026-10-31T11:00:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW wrestler replaces Marina Shafir, teams with Jon Moxley at Warrior Wrestling event",
-      "p": "Jon Moxley got a different tag team partner at Warrior Wrestling on Friday. Originally, Moxley was set to team with Marina Shafir against Lance Archer and Tootie Lynn. But after it was announced...",
-      "link": "https://www.f4wonline.com/news/other-wrestling/aew-wrestler-replaces-marina-shafir-teams-with-jon-moxley-at-warrior-wrestling-event/",
-      "t": "13h",
-      "dt": "2026-10-31T05:06:10+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating (10/28): How did the Fright Night show perform opposite the final game of the World Series?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (10/28): How did the Fright Night show perform opposite the final game of the World Series? appeared first on Pro Wrestling...",
-      "link": "https://prowrestling.net/site/2026/10/30/aew-dynamite-rating-10-28-how-did-the-fright-night-show-perform-opposite-the-final-game-of-the-world-series/",
-      "t": "15h",
-      "dt": "2026-10-31T02:38:19+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite ratings down against World Series",
-      "p": "Wednesday night’s Fright Night episode of AEW Dynamite averaged 620,000 viewers on TBS, down 6.2 percent from the previous week. It’s the lowest audience total for a Wednesday night airing since...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-down-against-world-series-3/",
-      "t": "16h",
-      "dt": "2026-10-31T02:07:19+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: AEW Dynamite ratings, TKO town hall, Sky Daily",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update – We just finished a show...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-dynamite-ratings-tko-town-hall-sky-daily/",
-      "t": "17h",
-      "dt": "2026-10-31T01:12:08+00:00"
     }
   ]
 }

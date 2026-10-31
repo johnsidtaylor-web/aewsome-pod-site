@@ -1,22 +1,70 @@
 {
-  "updated": "2026-10-31T00:43:56.285987+00:00",
+  "updated": "2026-10-31T06:57:06.797083+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Darby Allin Pays Tribute To Benjamin Satterley (PAC) At CMLL Show",
+      "p": "Darby Allin pays tribute to PAC. At the October 30th CMLL show, AEW TNT Champion Darby Allin went one-on-one with CMLL World Heavyweight Champion Hechicero. During his entrance, Allin paid tribute...",
+      "link": "https://www.fightful.com/wrestling-news/darby-allin-pays-tribute-to-benjamin-satterley-pac-at-cmll-show/",
+      "t": "57m",
+      "dt": "2026-10-31T05:59:36+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW wrestler replaces Marina Shafir, teams with Jon Moxley at Warrior Wrestling event",
+      "p": "Jon Moxley got a different tag team partner at Warrior Wrestling on Friday. Originally, Moxley was set to team with Marina Shafir against Lance Archer and Tootie Lynn. But after it was announced...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/aew-wrestler-replaces-marina-shafir-teams-with-jon-moxley-at-warrior-wrestling-event/",
+      "t": "1h",
+      "dt": "2026-10-31T05:06:10+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite rating (10/28): How did the Fright Night show perform opposite the final game of the World Series?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (10/28): How did the Fright Night show perform opposite the final game of the World Series? appeared first on Pro Wrestling...",
+      "link": "https://prowrestling.net/site/2026/10/30/aew-dynamite-rating-10-28-how-did-the-fright-night-show-perform-opposite-the-final-game-of-the-world-series/",
+      "t": "4h",
+      "dt": "2026-10-31T02:38:19+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite (10/28) Viewership Drops, Remains Over 600,000 Viewers Against World Series",
+      "p": "AEW Dynamite viewership and ratings information for the October 28 episode. Wrestlenomics reports that AEW Dynamite on October 28 averaged 620,000 viewers on TBS. This number is down from the...",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-10-28-viewership-drops-remains-over-600000-viewers-against-world-series/",
+      "t": "4h",
+      "dt": "2026-10-31T02:16:44+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite ratings down against World Series",
+      "p": "Wednesday night’s Fright Night episode of AEW Dynamite averaged 620,000 viewers on TBS, down 6.2 percent from the previous week. It’s the lowest audience total for a Wednesday night airing since...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-down-against-world-series-3/",
+      "t": "4h",
+      "dt": "2026-10-31T02:07:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: AEW Dynamite ratings, TKO town hall, Sky Daily",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update – We just finished a show...",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-dynamite-ratings-tko-town-hall-sky-daily/",
+      "t": "5h",
+      "dt": "2026-10-31T01:12:08+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "WOR: TV landscape with Court Bauer, WWE & AEW news",
       "p": "Dave Meltzer and I are back on Wrestling Observer Radio discussing the major stories from today’s issue of the Wrestling Observer Newsletter. On the first half of the show, MLW’s Court Bauer...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-tv-landscape-with-court-bauer-wwe-aew-news/",
-      "t": "11m",
+      "t": "6h",
       "dt": "2026-10-31T00:32:33+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Backstage Details On Komander's AEW Absence",
       "p": "Details were reported regarding Komander's AEW absence on Friday, after the star was last seen on AEW programming at the beginning of September.",
       "link": "https://www.wrestlinginc.com/2303157/aew-komander-absence-backstage-details-october-2026/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-10-30T23:26:43+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "Recapping Queen Aminata’s path to the AEW TBS Championship | Big Vinny V",
       "p": "Queen Aminata won her first AEW title on Dynamite, defeating Persephone to win the TBS Championship. It was an unexpected title change, but it hardly came out of nowhere. In fact, it was the...",
       "link": "https://www.f4wonline.com/opinion/recapping-queen-aminatas-path-to-the-aew-tbs-championship-big-vinny-v/",
-      "t": "3h",
+      "t": "9h",
       "dt": "2026-10-30T21:00:00+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "Ilja Dragunov Comments On Entering AEW's Continental Classic Tournament",
       "p": "Ilja Dragunov addresses the possibility of him entering the 2026 AEW Continental Classic, which is slated to kick off next month.",
       "link": "https://www.wrestlinginc.com/2302471/aew-ilja-dragunov-continental-classic-entering-comments/",
-      "t": "8h",
+      "t": "14h",
       "dt": "2026-10-30T16:33:37+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Ilja Dragunov Says AEW Deal Came Together 'Quite Quickly' After WWE Contract Expiration",
       "p": "AEW's Ilja Dragunov has explained how keen he was to join the promotion and how quickly the deal came together.",
       "link": "https://www.wrestlinginc.com/2301954/ilja-dragunov-aew-deal-quite-quickly-wwe-contract-expiration/",
-      "t": "10h",
+      "t": "16h",
       "dt": "2026-10-30T14:30:00+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "ROH on HonorClub results (10/29): Dante Martin, Darius Martin, Alec Price, and Jordan Oliver vs. Zack Gibson, James Drake, Matthew Taven, and Michael Bennett, Cassie Lee vs. Lacey Lane",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub results (10/29): Dante Martin, Darius Martin, Alec Price, and Jordan Oliver vs. Zack Gibson, James Drake, Matthew Taven, and...",
       "link": "https://prowrestling.net/site/2026/10/30/roh-on-honorclub-results-10-29-dante-martin-darius-martin-alec-price-and-jordan-oliver-vs-zack-gibson-james-drake-matthew-taven-and-michael-bennett-cassie-lee-vs-lacey-lane/",
-      "t": "10h",
+      "t": "16h",
       "dt": "2026-10-30T14:25:18+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "November 2, 2026 Observer Newsletter: WWE Crown Jewel changes venues, more AEW & WWE head-to-head battles coming",
-      "p": "Dave Meltzer has returned with a new Wrestling Observer Newsletter. He leads off with the very fluid situation in Saudi Arabia as next weekend’s WWE Crown Jewel has moved venues amid a lot of...",
-      "link": "https://www.f4wonline.com/newsletters/wrestling-observer-newsletter/november-2-2026-observer-newsletter-wwe-crown-jewel-venue-change-aew/",
-      "t": "10h",
-      "dt": "2026-10-30T14:14:49+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Former WWE/AEW Star Maria Kanellis Ruminates On Future",
-      "p": "Former WWE and AEW star Maria Kanellis ruminated on her future and a possible return to the wrestling industry.",
-      "link": "https://www.wrestlinginc.com/2297558/former-wwe-aew-star-maria-kanellis-ruminates-future/",
-      "t": "12h",
-      "dt": "2026-10-30T12:30:00+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Weekend TV Guide: Wrestling celebrates Halloweekend",
-      "p": "A preview of this weekend's professional wrestling events on TV & streaming, including WWE, AEW, CMLL, NJPW, STARDOM and more. The post Weekend TV Guide: Wrestling celebrates Halloweekend appeared...",
-      "link": "https://www.postwrestling.com/2026/10/30/weekend-tv-guide-wrestling-celebrates-halloweekend/",
-      "t": "12h",
-      "dt": "2026-10-30T12:00:03+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bobby Lashley proposes $10,000 wrestling challenge for high school athletes",
-      "p": "AEW wrestler Bobby Lashley recently opened up about his plans for a massive $10,000 wrestling challenge for high school athletes. An amateur wrestler himself, Lashley pursued amateur wrestling...",
-      "link": "https://www.f4wonline.com/news/aew/bobby-lashley-proposes-10000-wrestling-challenge-for-high-school-athletes/",
-      "t": "17h",
-      "dt": "2026-10-30T07:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Ilja Dragunov wants to be in AEW’s Continental Classic",
-      "p": "AEW Continental Classic is just around the corner, and Ilja Dragunov wants to be a part of it. Just weeks after making his AEW debut, Dragunov recently appeared on the promotion’s social media...",
-      "link": "https://www.f4wonline.com/news/aew/ilja-dragunov-wants-to-be-in-aews-continental-classic/",
-      "t": "20h",
-      "dt": "2026-10-30T04:30:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW FEUD TRACKER: Barber’s look at the eventful last two weeks with The Cut being formed and changing their name, an unexpected TBS Title change, MCMG vs. FTR, Nick Wayne, more",
-      "p": "HOUSEKEEPING •Megan Bayne made it the final two in the CMLL International Grand Prix before falling to Skadi. She had a great showing throughout the match. Bayne doesn’t miss in Mexico. INTRO AEW...",
-      "link": "https://www.pwtorch.com/site/2026/10/29/aew-feud-tracker-barbers-look-at-the-eventful-last-two-weeks-with-the-cut-being-formed-and-changing-their-name-an-unexpected-tbs-title-change-mcmg-vs-ftr-nick-wayne-more/",
-      "t": "22h",
-      "dt": "2026-10-30T02:35:39+00:00"
     }
   ]
 }

@@ -1,30 +1,54 @@
 {
-  "updated": "2026-10-31T13:36:32.738009+00:00",
+  "updated": "2026-10-31T18:30:11.802575+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (4 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (6 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Inc",
+      "h": "AEW's Billy Gunn Shares Thoughts On His Children Following In His Footsteps",
+      "p": "Billy Gunn's sons Austin and Colten have followed in his footsteps as pro wrestlers, with the AEW coach offering his thoughts on their decision.",
+      "link": "https://www.wrestlinginc.com/2298622/aew-billy-gunn-austin-colten-thoughts-children-following-footsteps/",
+      "t": "2h",
+      "dt": "2026-10-31T16:30:00+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Kris Statlander Fills In For Marina Shafir And Teams With Jon Moxley At Warrior Wrestling Event",
-      "p": "Kris Statlander has filled in for Marina Shafir and teamed with Jon Moxley at a Warrior Wrestling event from this past Friday. Last year, while holding the AEW Women’s World Championship, the...",
-      "link": "https://www.fightful.com/wrestling-news/kris-statlander-fills-in-for-marina-shafir-and-teams-with-jon-moxley-at-warrior-wrestling-event/",
-      "t": "2m",
-      "dt": "2026-10-31T13:34:13+00:00"
+      "h": "The Swirl: ‘When Blake And I Get Back To AEW, All Of You Teams, You Are F**ked’",
+      "p": "Blake Christian and Lee Johnson share a message with AEW tag teams. On Night 5 of NJPW Super Junior Tag League, The Swirl (Blake Christian and Lee Johnson) went up against HOUSE OF TORTURE (Dick...",
+      "link": "https://www.fightful.com/wrestling-news/the-swirl-when-blake-and-i-get-back-to-aew-all-of-you-teams-you-are-fked/",
+      "t": "2h",
+      "dt": "2026-10-31T16:24:24+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Excalibur Recalls Chemistry Test With Jim Ross Before Starting With AEW",
+      "p": "AEW play-by-play announcer Excalibur recalls having to do a chemistry test with the Hall of Famer Jim Ross before AEW launched at Double or Nothing in 2019",
+      "link": "https://www.wrestlinginc.com/2298321/aew-excalibur-jim-ross-chemistry-test/",
+      "t": "3h",
+      "dt": "2026-10-31T15:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Excalibur Pinpoints The Best Match He's Ever Called",
+      "p": "Before Excalibur was in AEW, he was the \"Voice of PWG\". He has called numerous matches, but there is one that he picked as the best he's ever called.",
+      "link": "https://www.wrestlinginc.com/2297879/aew-excalibur-will-ospreay-kenny-omega-pinpoints-best-match-ever-called/",
+      "t": "4h",
+      "dt": "2026-10-31T14:30:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW Dynamite Viewership & Ratings Report, 10/28/2026",
       "p": "It was a spooky night in St. Louis this week on \"AEW Dynamite,\" but the company saw a slight dip in the television ratings.",
       "link": "https://www.wrestlinginc.com/2303246/aew-dynamite-viewership-ratings-report-october-28-2026/",
-      "t": "8m",
+      "t": "5h",
       "dt": "2026-10-31T13:28:30+00:00"
     },
     {
@@ -32,55 +56,31 @@
       "h": "Darby Allin vs. Hechicero result from CMLL at Arena Mexico",
       "p": "Hechicero defeated AEW TNT Champion Darby Allin at CMLL’s Día de Muertos: Rey del Inframundo event at Arena Mexico on Friday night. The CMLL World Heavyweight Champion pinned Allin after a...",
       "link": "https://www.f4wonline.com/news/mexico/darby-allin-hechicero-cmll-rey-del-inframundo-2026-results/",
-      "t": "31m",
+      "t": "5h",
       "dt": "2026-10-31T13:05:17+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Rusev: Penta Becoming A World Champion Would Be Good For Business",
-      "p": "Rusev has high praise for Penta. Since returning to WWE in 2025, Rusev has frequently shared the ring with Penta. As it turns out, he’s been a big fan of the luchador since their time in AEW....",
-      "link": "https://www.fightful.com/wrestling-news/rusev-penta-becoming-a-world-champion-would-be-good-for-business/",
-      "t": "36m",
-      "dt": "2026-10-31T13:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "AEW's Samoa Joe Identifies Ways Modern Wrestling Has Improved On The Past",
       "p": "AEW star Samoa Joe identified some ways modern wrestling has improved compared to previous generations.",
       "link": "https://www.wrestlinginc.com/2297637/aew-samoa-joe-identifies-ways-modern-wrestling-improved-past/",
-      "t": "36m",
+      "t": "5h",
       "dt": "2026-10-31T13:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Fright Night Collision Preview, Start Time, How To Watch, Location (10/31)",
-      "p": "Viewing information and lineup for AEW Fright Night Collision on October 31, 2026 AEW Fright Night Collision (October 31, 2026) Venue: Chaifetz Arena City: St. Louis, MO Time: 8 pm ET Channel:...",
-      "link": "https://www.fightful.com/wrestling-news/aew-fright-night-collision-preview-start-time-how-to-watch-location-10-31/",
-      "t": "1h",
-      "dt": "2026-10-31T12:00:00+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "AEW Collision lineup: Tonight’s Fright Night edition",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Tonight’s Fright Night edition appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/10/31/aew-collision-lineup-tonights-fright-night-edition/",
-      "t": "2h",
-      "dt": "2026-10-31T11:00:17+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Darby Allin Pays Tribute To Benjamin Satterley (PAC) At CMLL Show",
-      "p": "Darby Allin pays tribute to PAC. At the October 30th CMLL show, AEW TNT Champion Darby Allin went one-on-one with CMLL World Heavyweight Champion Hechicero. During his entrance, Allin paid tribute...",
-      "link": "https://www.fightful.com/wrestling-news/darby-allin-pays-tribute-to-benjamin-satterley-pac-at-cmll-show/",
       "t": "7h",
-      "dt": "2026-10-31T05:59:36+00:00"
+      "dt": "2026-10-31T11:00:17+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW wrestler replaces Marina Shafir, teams with Jon Moxley at Warrior Wrestling event",
       "p": "Jon Moxley got a different tag team partner at Warrior Wrestling on Friday. Originally, Moxley was set to team with Marina Shafir against Lance Archer and Tootie Lynn. But after it was announced...",
       "link": "https://www.f4wonline.com/news/other-wrestling/aew-wrestler-replaces-marina-shafir-teams-with-jon-moxley-at-warrior-wrestling-event/",
-      "t": "8h",
+      "t": "13h",
       "dt": "2026-10-31T05:06:10+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "AEW Dynamite rating (10/28): How did the Fright Night show perform opposite the final game of the World Series?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (10/28): How did the Fright Night show perform opposite the final game of the World Series? appeared first on Pro Wrestling...",
       "link": "https://prowrestling.net/site/2026/10/30/aew-dynamite-rating-10-28-how-did-the-fright-night-show-perform-opposite-the-final-game-of-the-world-series/",
-      "t": "10h",
+      "t": "15h",
       "dt": "2026-10-31T02:38:19+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "AEW Dynamite ratings down against World Series",
       "p": "Wednesday night’s Fright Night episode of AEW Dynamite averaged 620,000 viewers on TBS, down 6.2 percent from the previous week. It’s the lowest audience total for a Wednesday night airing since...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ratings-down-against-world-series-3/",
-      "t": "11h",
+      "t": "16h",
       "dt": "2026-10-31T02:07:19+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Daily Update: AEW Dynamite ratings, TKO town hall, Sky Daily",
       "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update – We just finished a show...",
       "link": "https://www.f4wonline.com/news/daily-updates/daily-update-aew-dynamite-ratings-tko-town-hall-sky-daily/",
-      "t": "12h",
+      "t": "17h",
       "dt": "2026-10-31T01:12:08+00:00"
     }
   ]

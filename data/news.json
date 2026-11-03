@@ -1,30 +1,102 @@
 {
-  "updated": "2026-11-02T18:16:06.000466+00:00",
+  "updated": "2026-11-03T01:31:48.047628+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
-    "Wrestling Observer": "ok (5 AEW items)",
+    "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Fightful",
-      "h": "David Harbour Praises MJF For His Work On ‘Violent Night 2’",
-      "p": "MJF has a starring role in the upcoming film “Violent Night 2,” working along David Harbour, who plays Santa Claus, and Kristen Bell, who plays Mrs. Claus. Speaking to Liam Crowley of ScreenRant,...",
-      "link": "https://www.fightful.com/wrestling-news/david-harbour-praises-mjf-for-his-work-on-violent-night-2/",
-      "t": "48m",
-      "dt": "2026-11-02T17:27:52+00:00"
+      "h": "Ricochet Says He Pulls From The Joker For His Character In AEW",
+      "p": "Ricochet takes inspiration from The Joker. Since arriving to AEW in 2024, Ricochet has spent the majority of his time playing a heel character. If you’ve noticed a sense of chaos in his persona,...",
+      "link": "https://www.fightful.com/wrestling-news/337106-ricochet-joker/",
+      "t": "3h",
+      "dt": "2026-11-02T22:06:46+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "David Finlay Talks 'Contract Chess Game,' Says AEW Money Is Better Than NJPW Money",
+      "p": "David Finlay talks playing the \"contract chess game\" before joining AEW, enjoying AEW, and agrees with Clark Connors saying AEW money is better than NJPW money",
+      "link": "https://www.wrestlinginc.com/2304792/david-finlay-contract-chess-game-aew-money-better-njpw-clark-connors/",
+      "t": "3h",
+      "dt": "2026-11-02T22:00:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Top AEW star announced for rare indie match",
+      "p": "Former AEW World Champion Swerve Strickland is set to work a rare indie date this month. Fourth Rope, an indie promotion founded by rapper Westside Gunn, is partnering with record label Mass...",
+      "link": "https://www.f4wonline.com/news/aew/top-aew-star-announced-for-rare-indie-match/",
+      "t": "3h",
+      "dt": "2026-11-02T21:39:06+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "McGuire’s Monthlies: Longing for a WarGames that deserves to be a WarGames, the curious case of Big Cass, Ilja Dragunov arrives in AEW",
+      "p": "By Colin McGuire, ProWrestling.net Staffer... The post McGuire’s Monthlies: Longing for a WarGames that deserves to be a WarGames, the curious case of Big Cass, Ilja Dragunov arrives in AEW...",
+      "link": "https://prowrestling.net/site/2026/11/02/mcguires-monthlies-longing-for-a-wargames-that-deserves-to-be-a-wargames-the-curious-case-of-big-cass-ilja-dragunov-arrives-in-aew/",
+      "t": "4h",
+      "dt": "2026-11-02T21:30:11+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Bryce Remsburg: AEW Could Hold A Stadium Show At Home Of The Philadelphia Eagles",
+      "p": "AEW referee Bryce Remsburg leaves the door open for AEW holding a stadium show at the home of the Philadelphia Eagles, though not in the immediate future",
+      "link": "https://www.wrestlinginc.com/2304734/aew-bryce-remsburg-philadelphia-eagles-lincoln-financial-field-stadium-show/",
+      "t": "4h",
+      "dt": "2026-11-02T21:10:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Ricochet reflects on emotional AEW tribute match for PAC",
+      "p": "Ricochet says wrestling Will Ospreay on AEW’s tribute show for PAC helped him get through an emotional time following the death of their friend. Speaking to Zack Heydorn of The Takedown on SI,...",
+      "link": "https://www.f4wonline.com/news/aew/ricochet-aew-pac-tribute-match-will-ospreay/",
+      "t": "5h",
+      "dt": "2026-11-02T20:28:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Indie promotion Produce Wrestling going on hiatus soon",
+      "p": "Produce Wrestling, an indie promotion that launched in 2026 with a pay-per-view distribution deal on MyAEW, is going on hiatus after its next couple of the events. Citing a family medical...",
+      "link": "https://www.f4wonline.com/news/indies/indie-promotion-produce-wrestling-going-on-hiatus-soon/",
+      "t": "5h",
+      "dt": "2026-11-02T20:22:37+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Adam Copeland Says He & Tony Khan Were 'Open' To Final WWE Match With John Cena",
+      "p": "Adam Copeland says there were no obstacles on the AEW side, regarding him possibly wrestling John Cena's final match.",
+      "link": "https://www.wrestlinginc.com/2304530/aew-wwe-adam-copeland-edge-tony-khan-john-cena-open-final-match/",
+      "t": "6h",
+      "dt": "2026-11-02T19:28:39+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW star Darby Allin completed the New York Marathon",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW star Darby Allin completed the New York Marathon appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/02/aew-star-darby-allin-completed-the-new-york-marathon/",
+      "t": "6h",
+      "dt": "2026-11-02T19:00:50+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Darby Allin Completes New York City Marathon",
+      "p": "AEW's Darby Allin continues his wild week by completing the New York City marathon, just days before he's set to compete in AEW Blood & Guts",
+      "link": "https://www.wrestlinginc.com/2304328/aew-darby-allin-complete-new-york-city-marathon/",
+      "t": "7h",
+      "dt": "2026-11-02T18:16:03+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Former AEW VP Accepts Position With MLW",
       "p": "New faces are appearing in MLW, as this former AEW VP has accepted a new backstage role within the promotion.",
       "link": "https://www.wrestlinginc.com/2304158/aew-mlw-rafael-morfii-vice-president-vp-accepts-position/",
-      "t": "53m",
+      "t": "8h",
       "dt": "2026-11-02T17:22:24+00:00"
     },
     {
@@ -32,80 +104,8 @@
       "h": "20 YEARS AGO – ROH LIVE EVENT REPORT (10-28-2006): Samoa Joe vs. Bryan Danielson, plus Adam Pearce, Roderick Strong, Jay Briscoe, Christopher Daniels, Matt Sydal, Mark Briscoe",
       "p": "The following is a report originally published here 20 years ago this week… RING OF HONOR RESULTS OCTOBER 28, 2006 CHICAGO RIDGE, ILL. REPORT BY CHRIS VETTER, PWTORCH CONTRIBUTOR Estimated...",
       "link": "https://www.pwtorch.com/site/2026/11/02/20-years-ago-roh-live-event-report-10-28-2006-samoa-joe-vs-bryan-danielson-plus-adam-pearce-roderick-strong-jay-briscoe-christopher-daniels-matt-sydal-mark-briscoe/",
-      "t": "56m",
+      "t": "8h",
       "dt": "2026-11-02T17:19:21+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Comments On Whether AEW Is Safe From Upcoming Skydance Sports Cuts",
-      "p": "Dave Meltzer comments on whether AEW is safe from upcoming sports cuts being made by Skydance, and seems to indicate AEW is safe for the time being",
-      "link": "https://www.wrestlinginc.com/2304124/dave-meltzer-aew-safe-upcoming-skydance-sports-cuts-entertainment/",
-      "t": "1h",
-      "dt": "2026-11-02T17:12:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Orange Cassidy Explains How Tony Khan Has Helped The Pro Wrestling Industry",
-      "p": "Orange Cassidy has praised AEW CEO Tony Khan, claiming that his boss has helped grow the pro wrestling business as a whole.",
-      "link": "https://www.wrestlinginc.com/2303589/aew-orange-cassidy-tony-khan-helped-pro-wrestling-industry/",
-      "t": "1h",
-      "dt": "2026-11-02T16:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "For subscribers: The latest on AEW/Skydance media rights situation",
-      "p": "In a subscriber-only article, Dave Meltzer breaks down the ongoing dynamics in the AEW/Skydance media rights situation. Click Here to Read (subscription needed)",
-      "link": "https://www.f4wonline.com/news/aew/for-subscribers-the-latest-on-aew-skydance-media-rights-situation/",
-      "t": "1h",
-      "dt": "2026-11-02T16:20:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Santino Marella believes TNA’s greatest strength over AEW and WWE is giving talent creative freedom",
-      "p": "Santino Marella described creative freedom as a major factor in what separates TNA Wrestling from AEW and WWE. In his interview with We R Wrestling, Marella discussed what sets TNA apart from an...",
-      "link": "https://www.f4wonline.com/news/tna-wrestling/santino-marella-believes-tnas-greatest-strength-over-aew-and-wwe-is-giving-talent-creative-freedom/",
-      "t": "2h",
-      "dt": "2026-11-02T15:59:19+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Reports: MLW sees change in Director of Live Events position",
-      "p": "A former AEW behind the scenes name has taken over MLW's Director of Live Events position recently, per a new report. The post Reports: MLW sees change in Director of Live Events position appeared...",
-      "link": "https://www.postwrestling.com/2026/11/02/reports-mlw-sees-change-in-director-of-live-events-position/",
-      "t": "2h",
-      "dt": "2026-11-02T15:55:03+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Kevin Knight Comments On Split From Mike Bailey",
-      "p": "AEW star Kevin Knight has discussed the possibility of reconciling with his former tag team partner, Mike Bailey, after turning on him earlier this year.",
-      "link": "https://www.wrestlinginc.com/2303547/aew-kevin-knight-comments-split-mike-bailey/",
-      "t": "3h",
-      "dt": "2026-11-02T15:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite preview: Two Blood & Guts matches",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: Two Blood & Guts matches appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/02/aew-dynamite-preview-two-blood-guts-matches-2/",
-      "t": "4h",
-      "dt": "2026-11-02T14:15:27+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 11/1 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Comparing Cody’s ring entrance to “Spinal Tap,” Punk’s prickly promo, is Miro more valuable than Omega, MJF-Darby (117 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (11-3-2021), PWTorch editor Wade Keller was joined by PWTorch’s Joel Dehnel to discuss the 2nd...",
-      "link": "https://www.pwtorch.com/site/2026/11/01/free-podcast-11-1-wkpwp-aew-dynamite-post-show-5-yrs-ago-comparing-codys-ring-entrance-to-spinal-tap-punks-prickly-promo-is-miro-more-valuable-than-omega-mjf-darby-117/",
-      "t": "13h",
-      "dt": "2026-11-02T05:00:56+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Report: Former AEW backstage name takes over MLW spot",
-      "p": "A former AEW backstage name now has a role in MLW. Fightful Select reported on Sunday that Rafael Morffi will take over for Mike Kitlas as Senior Director of Live Events for the promotion....",
-      "link": "https://www.f4wonline.com/news/mlw/report-former-aew-backstage-name-takes-over-mlw-spot/",
-      "t": "15h",
-      "dt": "2026-11-02T02:35:12+00:00"
     }
   ]
 }

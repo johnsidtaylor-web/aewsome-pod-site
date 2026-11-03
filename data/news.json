@@ -1,30 +1,70 @@
 {
-  "updated": "2026-11-03T01:31:48.047628+00:00",
+  "updated": "2026-11-03T09:28:02.969658+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Jon Moxley challenged to NJPW Wrestle Kingdom 21 match",
+      "p": "Jon Moxley’s plans for NJPW Wrestle Kingdom 21 are now locked in. It will be Moxley vs. Shingo Takagi at the Tokyo Dome on January 4, 2027, with Takagi laying out the challenge after defeating the...",
+      "link": "https://www.f4wonline.com/news/new-japan/jon-moxley-challenged-to-njpw-wrestle-kingdom-21-match/",
+      "t": "11m",
+      "dt": "2026-11-03T09:16:49+00:00"
+    },
+    {
       "src": "Fightful",
-      "h": "Ricochet Says He Pulls From The Joker For His Character In AEW",
-      "p": "Ricochet takes inspiration from The Joker. Since arriving to AEW in 2024, Ricochet has spent the majority of his time playing a heel character. If you’ve noticed a sense of chaos in his persona,...",
-      "link": "https://www.fightful.com/wrestling-news/337106-ricochet-joker/",
+      "h": "Jon Moxley vs. Shingo Takagi Announced For NJPW Wrestle Kingdom 21",
+      "p": "Jon Moxley is set for action against Shingo Takagi. The Death Riders (Jon Moxley & Wheeler Yuta) returned to New Japan Pro-Wrestling at the 2026 Power Struggle event. They faced off against...",
+      "link": "https://www.fightful.com/wrestling-news/jon-moxley-vs-shingo-takagi-announced-for-njpw-wrestle-kingdom-21/",
+      "t": "28m",
+      "dt": "2026-11-03T08:59:47+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star MJF to make NJPW debut at Wrestle Kingdom 21",
+      "p": "MJF’s New Japan debut will happen on the company’s biggest stage possible. Following up on the challenge he issued last month, another video with MJF addressing Ryohei Oiwa aired during NJPW Power...",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-mjf-to-make-njpw-debut-at-wrestle-kingdom-21/",
+      "t": "55m",
+      "dt": "2026-11-03T08:32:27+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF vs. Ryohei Oiwa Set For NJPW Wrestle Kingdom 21",
+      "p": "MJF versus Ryohei Oiwa is locked in. At the 2026 New Japan Pro-Wrestling Power Struggle event on November 3rd, T.M.D.K. (Ryohei Oiwa & Hartley Jackson) scored a win over The Swirl (Lee Johnson &...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-vs-ryohei-oiwa-set-for-njpw-wrestle-kingdom-21/",
+      "t": "1h",
+      "dt": "2026-11-03T07:55:29+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "NJPW Power Struggle Results (11/3): Kenny Omega, Yota Tsuji, Jon Moxley Compete",
+      "p": "New Japan Pro-Wrestling held its NJPW Power Struggle event on November 3 from Hiroshima Sun Plaza Hall in Hiroshima, Japan. The event aired on NJPW World. Full results are below. NJPW Power...",
+      "link": "https://www.fightful.com/wrestling-news/njpw-power-struggle-results-11-3-kenny-omega-yota-tsuji-jon-moxley-compete/",
       "t": "3h",
-      "dt": "2026-11-02T22:06:46+00:00"
+      "dt": "2026-11-03T06:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Ricochet explains why he’s a better performer now than earlier in his career",
+      "p": "A part of the AEW roster since 2024, Ricochet now believes himself to be a better performer than he was earlier in his career. A pro-wrestling veteran, Ricochet was part of the WWE from 2018 till...",
+      "link": "https://www.f4wonline.com/news/aew/ricochet-explains-why-hes-a-better-performer-now-than-earlier-in-his-career/",
+      "t": "3h",
+      "dt": "2026-11-03T06:00:00+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "David Finlay Talks 'Contract Chess Game,' Says AEW Money Is Better Than NJPW Money",
       "p": "David Finlay talks playing the \"contract chess game\" before joining AEW, enjoying AEW, and agrees with Clark Connors saying AEW money is better than NJPW money",
       "link": "https://www.wrestlinginc.com/2304792/david-finlay-contract-chess-game-aew-money-better-njpw-clark-connors/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-11-02T22:00:51+00:00"
     },
     {
@@ -32,7 +72,7 @@
       "h": "Top AEW star announced for rare indie match",
       "p": "Former AEW World Champion Swerve Strickland is set to work a rare indie date this month. Fourth Rope, an indie promotion founded by rapper Westside Gunn, is partnering with record label Mass...",
       "link": "https://www.f4wonline.com/news/aew/top-aew-star-announced-for-rare-indie-match/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-11-02T21:39:06+00:00"
     },
     {
@@ -40,7 +80,7 @@
       "h": "McGuire’s Monthlies: Longing for a WarGames that deserves to be a WarGames, the curious case of Big Cass, Ilja Dragunov arrives in AEW",
       "p": "By Colin McGuire, ProWrestling.net Staffer... The post McGuire’s Monthlies: Longing for a WarGames that deserves to be a WarGames, the curious case of Big Cass, Ilja Dragunov arrives in AEW...",
       "link": "https://prowrestling.net/site/2026/11/02/mcguires-monthlies-longing-for-a-wargames-that-deserves-to-be-a-wargames-the-curious-case-of-big-cass-ilja-dragunov-arrives-in-aew/",
-      "t": "4h",
+      "t": "11h",
       "dt": "2026-11-02T21:30:11+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Bryce Remsburg: AEW Could Hold A Stadium Show At Home Of The Philadelphia Eagles",
       "p": "AEW referee Bryce Remsburg leaves the door open for AEW holding a stadium show at the home of the Philadelphia Eagles, though not in the immediate future",
       "link": "https://www.wrestlinginc.com/2304734/aew-bryce-remsburg-philadelphia-eagles-lincoln-financial-field-stadium-show/",
-      "t": "4h",
+      "t": "12h",
       "dt": "2026-11-02T21:10:00+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "Ricochet reflects on emotional AEW tribute match for PAC",
       "p": "Ricochet says wrestling Will Ospreay on AEW’s tribute show for PAC helped him get through an emotional time following the death of their friend. Speaking to Zack Heydorn of The Takedown on SI,...",
       "link": "https://www.f4wonline.com/news/aew/ricochet-aew-pac-tribute-match-will-ospreay/",
-      "t": "5h",
+      "t": "12h",
       "dt": "2026-11-02T20:28:19+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Indie promotion Produce Wrestling going on hiatus soon",
       "p": "Produce Wrestling, an indie promotion that launched in 2026 with a pay-per-view distribution deal on MyAEW, is going on hiatus after its next couple of the events. Citing a family medical...",
       "link": "https://www.f4wonline.com/news/indies/indie-promotion-produce-wrestling-going-on-hiatus-soon/",
-      "t": "5h",
+      "t": "13h",
       "dt": "2026-11-02T20:22:37+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Adam Copeland Says He & Tony Khan Were 'Open' To Final WWE Match With John Cena",
-      "p": "Adam Copeland says there were no obstacles on the AEW side, regarding him possibly wrestling John Cena's final match.",
-      "link": "https://www.wrestlinginc.com/2304530/aew-wwe-adam-copeland-edge-tony-khan-john-cena-open-final-match/",
-      "t": "6h",
-      "dt": "2026-11-02T19:28:39+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW star Darby Allin completed the New York Marathon",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW star Darby Allin completed the New York Marathon appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/02/aew-star-darby-allin-completed-the-new-york-marathon/",
-      "t": "6h",
-      "dt": "2026-11-02T19:00:50+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Darby Allin Completes New York City Marathon",
-      "p": "AEW's Darby Allin continues his wild week by completing the New York City marathon, just days before he's set to compete in AEW Blood & Guts",
-      "link": "https://www.wrestlinginc.com/2304328/aew-darby-allin-complete-new-york-city-marathon/",
-      "t": "7h",
-      "dt": "2026-11-02T18:16:03+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Former AEW VP Accepts Position With MLW",
-      "p": "New faces are appearing in MLW, as this former AEW VP has accepted a new backstage role within the promotion.",
-      "link": "https://www.wrestlinginc.com/2304158/aew-mlw-rafael-morfii-vice-president-vp-accepts-position/",
-      "t": "8h",
-      "dt": "2026-11-02T17:22:24+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "20 YEARS AGO – ROH LIVE EVENT REPORT (10-28-2006): Samoa Joe vs. Bryan Danielson, plus Adam Pearce, Roderick Strong, Jay Briscoe, Christopher Daniels, Matt Sydal, Mark Briscoe",
-      "p": "The following is a report originally published here 20 years ago this week… RING OF HONOR RESULTS OCTOBER 28, 2006 CHICAGO RIDGE, ILL. REPORT BY CHRIS VETTER, PWTORCH CONTRIBUTOR Estimated...",
-      "link": "https://www.pwtorch.com/site/2026/11/02/20-years-ago-roh-live-event-report-10-28-2006-samoa-joe-vs-bryan-danielson-plus-adam-pearce-roderick-strong-jay-briscoe-christopher-daniels-matt-sydal-mark-briscoe/",
-      "t": "8h",
-      "dt": "2026-11-02T17:19:21+00:00"
     }
   ]
 }

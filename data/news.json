@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-03T09:28:02.969658+00:00",
+  "updated": "2026-11-03T17:48:05.312791+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (1 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "Jon Moxley challenged to NJPW Wrestle Kingdom 21 match",
-      "p": "Jon Moxley’s plans for NJPW Wrestle Kingdom 21 are now locked in. It will be Moxley vs. Shingo Takagi at the Tokyo Dome on January 4, 2027, with Takagi laying out the challenge after defeating the...",
-      "link": "https://www.f4wonline.com/news/new-japan/jon-moxley-challenged-to-njpw-wrestle-kingdom-21-match/",
-      "t": "11m",
-      "dt": "2026-11-03T09:16:49+00:00"
+      "src": "Fightful",
+      "h": "Paul Wight Says He Sees ‘Huge Big Star Potential’ In Kyle Fletcher",
+      "p": "Paul Wight discusses the potential of Kyle Fletcher, remarking that he feels that he is building ‘incredible momentum.’ At AEW Full Gear, Fletcher will once again step into a situation that he is...",
+      "link": "https://www.fightful.com/wrestling-news/paul-wight-says-he-sees-huge-big-star-potential-in-kyle-fletcher/",
+      "t": "33m",
+      "dt": "2026-11-03T17:14:30+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Jon Moxley vs. Shingo Takagi Announced For NJPW Wrestle Kingdom 21",
-      "p": "Jon Moxley is set for action against Shingo Takagi. The Death Riders (Jon Moxley & Wheeler Yuta) returned to New Japan Pro-Wrestling at the 2026 Power Struggle event. They faced off against...",
-      "link": "https://www.fightful.com/wrestling-news/jon-moxley-vs-shingo-takagi-announced-for-njpw-wrestle-kingdom-21/",
-      "t": "28m",
-      "dt": "2026-11-03T08:59:47+00:00"
+      "h": "DDT Ultimate Party Results (11/3/26): Zack Sabre Jr. & Konosuke Takeshita In Action",
+      "p": "The results from Ultimate Party. DDT Pro-Wrestling’s Ultimate Party show took place on November 3rd at Ryōgoku Sumo Hall in Tokyo, Japan. There were 14 matches on the card, and the show closed...",
+      "link": "https://www.fightful.com/wrestling-news/ddt-ultimate-party-results-11-3-26-zack-sabre-jr-konosuke-takeshita-in-action/",
+      "t": "1h",
+      "dt": "2026-11-03T16:22:11+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Kenny Omega pins Yota Tsuji in non-title three-way at NJPW Power Struggle",
+      "p": "Kenny Omega scored a non-title victory in Tuesday’s three-way match-up at Power Struggle to set the stage for the Tokyo Dome. Tuesday’s return by Omega The post Kenny Omega pins Yota Tsuji in...",
+      "link": "https://www.postwrestling.com/2026/11/03/kenny-omega-pins-yota-tsuji-in-non-title-three-way-at-njpw-power-struggle/",
+      "t": "2h",
+      "dt": "2026-11-03T15:39:10+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "NJPW Wrestle Kingdom Matches Announced For AEW's Kenny Omega, Jon Moxley, MJF & More",
+      "p": "Multiple AEW stars will appear at NJPW Wrestle Kingdom 21, including Kenny Omega who looks to regain the IWGP Heavyweight Title.",
+      "link": "https://www.wrestlinginc.com/2305275/aew-njpw-wrestle-kingdom-21-kenny-omega-jon-moxley-will-ospreay-mjf-gabe-kidd-matches-announced/",
+      "t": "2h",
+      "dt": "2026-11-03T15:27:36+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "United Empire fails to co-exist, match confirmed for Wrestle Kingdom 21",
+      "p": "The expected implosion of the United Empire leadership occurred at Power Struggle, setting up another match for Wrestle Kingdom. Will Ospreay and Callum Newman failed The post United Empire fails...",
+      "link": "https://www.postwrestling.com/2026/11/03/united-empire-fails-to-co-exist-match-confirmed-for-wrestle-kingdom-21/",
+      "t": "2h",
+      "dt": "2026-11-03T15:00:19+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Shingo Takagi to meet Jon Moxley in NJPW vs. AEW match on January 4",
+      "p": "Shingo Takagi and Jon Moxley will have their 1-on-1 match on January 4 after the challenge was issued at New Japan’s Power Struggle. The post Shingo Takagi to meet Jon Moxley in NJPW vs. AEW match...",
+      "link": "https://www.postwrestling.com/2026/11/03/shingo-takagi-to-meet-jon-moxley-in-njpw-vs-aew-match-on-january-4/",
+      "t": "3h",
+      "dt": "2026-11-03T14:28:03+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Ryohei Oiwa accepts challenge from MJF for Wrestle Kingdom 21",
+      "p": "Ryohei Oiwa was confronted by MJF for the second time following his tag win with Hartley Jackson against The Swirl at Power Struggle. The post Ryohei Oiwa accepts challenge from MJF for Wrestle...",
+      "link": "https://www.postwrestling.com/2026/11/03/ryohei-oiwa-accepts-challenge-from-mjf-for-wrestle-kingdom-21/",
+      "t": "4h",
+      "dt": "2026-11-03T13:34:06+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "IWGP Heavyweight Championship match set for NJPW Wrestle Kingdom 21",
+      "p": "Eight years after he last held the title, Kenny Omega is aiming to become IWGP Heavyweight Champion once again. Omega challenging Yota Tsuji for the IWGP Heavyweight Championship looks set to...",
+      "link": "https://www.f4wonline.com/news/new-japan/iwgp-heavyweight-championship-match-set-for-njpw-wrestle-kingdom-21/",
+      "t": "7h",
+      "dt": "2026-11-03T10:17:37+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Result of IWGP Tag Team title match at NJPW Power Struggle 2026",
+      "p": "A grudge match that’s been building for months is officially set to go down at NJPW Wrestle Kingdom 21. After failing to win the IWGP Tag Team titles at Power Struggle, Will Ospreay will now face...",
+      "link": "https://www.f4wonline.com/news/new-japan/result-of-iwgp-tag-team-title-match-at-njpw-power-struggle-2026/",
+      "t": "7h",
+      "dt": "2026-11-03T09:53:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jon Moxley challenged to NJPW Wrestle Kingdom 21 match",
+      "p": "Update: Post-show comments have indicated that Jon Moxley vs. Shingo Takagi at Wrestle Kingdom 21 will be a death match, which in NJPW means no rules/no DQ. ********** Jon Moxley’s plans for NJPW...",
+      "link": "https://www.f4wonline.com/news/new-japan/jon-moxley-challenged-to-njpw-wrestle-kingdom-21-match/",
+      "t": "8h",
+      "dt": "2026-11-03T09:16:49+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW star MJF to make NJPW debut at Wrestle Kingdom 21",
       "p": "MJF’s New Japan debut will happen on the company’s biggest stage possible. Following up on the challenge he issued last month, another video with MJF addressing Ryohei Oiwa aired during NJPW Power...",
       "link": "https://www.f4wonline.com/news/aew/aew-star-mjf-to-make-njpw-debut-at-wrestle-kingdom-21/",
-      "t": "55m",
+      "t": "9h",
       "dt": "2026-11-03T08:32:27+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MJF vs. Ryohei Oiwa Set For NJPW Wrestle Kingdom 21",
-      "p": "MJF versus Ryohei Oiwa is locked in. At the 2026 New Japan Pro-Wrestling Power Struggle event on November 3rd, T.M.D.K. (Ryohei Oiwa & Hartley Jackson) scored a win over The Swirl (Lee Johnson &...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-vs-ryohei-oiwa-set-for-njpw-wrestle-kingdom-21/",
-      "t": "1h",
-      "dt": "2026-11-03T07:55:29+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "NJPW Power Struggle Results (11/3): Kenny Omega, Yota Tsuji, Jon Moxley Compete",
-      "p": "New Japan Pro-Wrestling held its NJPW Power Struggle event on November 3 from Hiroshima Sun Plaza Hall in Hiroshima, Japan. The event aired on NJPW World. Full results are below. NJPW Power...",
-      "link": "https://www.fightful.com/wrestling-news/njpw-power-struggle-results-11-3-kenny-omega-yota-tsuji-jon-moxley-compete/",
-      "t": "3h",
-      "dt": "2026-11-03T06:00:00+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Ricochet explains why he’s a better performer now than earlier in his career",
       "p": "A part of the AEW roster since 2024, Ricochet now believes himself to be a better performer than he was earlier in his career. A pro-wrestling veteran, Ricochet was part of the WWE from 2018 till...",
       "link": "https://www.f4wonline.com/news/aew/ricochet-explains-why-hes-a-better-performer-now-than-earlier-in-his-career/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-11-03T06:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "David Finlay Talks 'Contract Chess Game,' Says AEW Money Is Better Than NJPW Money",
-      "p": "David Finlay talks playing the \"contract chess game\" before joining AEW, enjoying AEW, and agrees with Clark Connors saying AEW money is better than NJPW money",
-      "link": "https://www.wrestlinginc.com/2304792/david-finlay-contract-chess-game-aew-money-better-njpw-clark-connors/",
-      "t": "11h",
-      "dt": "2026-11-02T22:00:51+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Top AEW star announced for rare indie match",
-      "p": "Former AEW World Champion Swerve Strickland is set to work a rare indie date this month. Fourth Rope, an indie promotion founded by rapper Westside Gunn, is partnering with record label Mass...",
-      "link": "https://www.f4wonline.com/news/aew/top-aew-star-announced-for-rare-indie-match/",
-      "t": "11h",
-      "dt": "2026-11-02T21:39:06+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "McGuire’s Monthlies: Longing for a WarGames that deserves to be a WarGames, the curious case of Big Cass, Ilja Dragunov arrives in AEW",
-      "p": "By Colin McGuire, ProWrestling.net Staffer... The post McGuire’s Monthlies: Longing for a WarGames that deserves to be a WarGames, the curious case of Big Cass, Ilja Dragunov arrives in AEW...",
-      "link": "https://prowrestling.net/site/2026/11/02/mcguires-monthlies-longing-for-a-wargames-that-deserves-to-be-a-wargames-the-curious-case-of-big-cass-ilja-dragunov-arrives-in-aew/",
-      "t": "11h",
-      "dt": "2026-11-02T21:30:11+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Bryce Remsburg: AEW Could Hold A Stadium Show At Home Of The Philadelphia Eagles",
-      "p": "AEW referee Bryce Remsburg leaves the door open for AEW holding a stadium show at the home of the Philadelphia Eagles, though not in the immediate future",
-      "link": "https://www.wrestlinginc.com/2304734/aew-bryce-remsburg-philadelphia-eagles-lincoln-financial-field-stadium-show/",
-      "t": "12h",
-      "dt": "2026-11-02T21:10:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Ricochet reflects on emotional AEW tribute match for PAC",
-      "p": "Ricochet says wrestling Will Ospreay on AEW’s tribute show for PAC helped him get through an emotional time following the death of their friend. Speaking to Zack Heydorn of The Takedown on SI,...",
-      "link": "https://www.f4wonline.com/news/aew/ricochet-aew-pac-tribute-match-will-ospreay/",
-      "t": "12h",
-      "dt": "2026-11-02T20:28:19+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Indie promotion Produce Wrestling going on hiatus soon",
-      "p": "Produce Wrestling, an indie promotion that launched in 2026 with a pay-per-view distribution deal on MyAEW, is going on hiatus after its next couple of the events. Citing a family medical...",
-      "link": "https://www.f4wonline.com/news/indies/indie-promotion-produce-wrestling-going-on-hiatus-soon/",
-      "t": "13h",
-      "dt": "2026-11-02T20:22:37+00:00"
     }
   ]
 }

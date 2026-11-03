@@ -1,38 +1,86 @@
 {
-  "updated": "2026-11-03T17:48:05.312791+00:00",
+  "updated": "2026-11-03T23:16:14.526289+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (1 AEW items)",
+    "Wrestling Inc": "ok (2 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Paul Wight Says He Sees ‘Huge Big Star Potential’ In Kyle Fletcher",
-      "p": "Paul Wight discusses the potential of Kyle Fletcher, remarking that he feels that he is building ‘incredible momentum.’ At AEW Full Gear, Fletcher will once again step into a situation that he is...",
-      "link": "https://www.fightful.com/wrestling-news/paul-wight-says-he-sees-huge-big-star-potential-in-kyle-fletcher/",
-      "t": "33m",
-      "dt": "2026-11-03T17:14:30+00:00"
+      "src": "Wrestling Inc",
+      "h": "AEW's Will Ospreay Makes 'Public Request' To United Empire Ahead Of NJPW Wrestle Kingdom 21 Match",
+      "p": "AEW's Will Ospreay makes a \"public request\" to the rest of United Empire after he accepts the challenge of Callum Newman to face him at Wrestle Kingdom 21",
+      "link": "https://www.wrestlinginc.com/2306090/aew-will-ospreay-public-request-united-empire-ahead-njpw-wrestle-kingdom-21-match/",
+      "t": "21m",
+      "dt": "2026-11-03T22:54:42+00:00"
     },
     {
       "src": "Fightful",
-      "h": "DDT Ultimate Party Results (11/3/26): Zack Sabre Jr. & Konosuke Takeshita In Action",
-      "p": "The results from Ultimate Party. DDT Pro-Wrestling’s Ultimate Party show took place on November 3rd at Ryōgoku Sumo Hall in Tokyo, Japan. There were 14 matches on the card, and the show closed...",
-      "link": "https://www.fightful.com/wrestling-news/ddt-ultimate-party-results-11-3-26-zack-sabre-jr-konosuke-takeshita-in-action/",
+      "h": "Darby Allin Explains Why Steven Borden Drove Him Home After Flaming Table Spot At Blood & Guts 2025",
+      "p": "Darby Allin credits Steven Borden with a big assist. Back in November 2025, Allin teamed with The Conglomeration to take down the Death Riders in a Blood & Guts match. During the bout, PAC put...",
+      "link": "https://www.fightful.com/wrestling-news/337283-darby-allin-steven-borden/",
       "t": "1h",
-      "dt": "2026-11-03T16:22:11+00:00"
+      "dt": "2026-11-03T21:55:02+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Steven Borden Opens Up About Concussion He Suffered At AEW All Out",
+      "p": "Steven Borden reflects on the injury. After being sidelined since the 2026 All Out pay-per-view, Steven Borden is back in the mix at All Elite Wrestling. He is going to be competing in the men’s...",
+      "link": "https://www.fightful.com/wrestling-news/steven-borden-opens-up-about-concussion-he-suffered-at-aew-all-out/",
+      "t": "2h",
+      "dt": "2026-11-03T20:42:32+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Steven Borden details AEW All Out 2026 injury",
+      "p": "Steven Borden is excited to be back in action following the scary injury that he suffered at AEW All Out 2026. Appearing on First Coast News in Jacksonville ahead of Blood & Guts, Borden confirmed...",
+      "link": "https://www.f4wonline.com/news/aew/steven-borden-details-aew-all-out-2026-injury/",
+      "t": "2h",
+      "dt": "2026-11-03T20:39:59+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Will Ospreay accepts NJPW Wrestle Kingdom 21 challenge, issues statement on United Empire’s future",
+      "p": "Will Ospreay has accepted Callum Newman’s challenge for a match at NJPW Wrestle Kingdom 21. Ospreay and Newman unsuccessfully challenged the Knockout Brothers (Yuto-Ice and OSKAR) for the IWGP Tag...",
+      "link": "https://www.f4wonline.com/news/new-japan/will-ospreay-njpw-wrestle-kingdom-21-challenge-united-empire-future/",
+      "t": "3h",
+      "dt": "2026-11-03T20:00:54+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jake ‘The Snake’ Roberts clarifies his WWE status, addresses health concerns",
+      "p": "Wrestling legend Jake “The Snake” Roberts is clearing things up after recently stating that he’s re-signed with WWE. After announcing his AEW departure earlier this year, Roberts appeared for WWE...",
+      "link": "https://www.f4wonline.com/news/wwe/jake-the-snake-roberts-clarifies-his-wwe-status-addresses-health-concerns/",
+      "t": "4h",
+      "dt": "2026-11-03T19:05:42+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "NJPW Wrestle Kingdom 21 lineup: The first matches set for the company’s biggest annual event, several AEW wrestlers included",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post NJPW Wrestle Kingdom 21 lineup: The first matches set for the company’s biggest annual event, several AEW wrestlers included appeared first on...",
+      "link": "https://prowrestling.net/site/2026/11/03/njpw-wrestle-kingdom-21-lineup-the-first-matches-set-for-the-companys-biggest-annual-event-several-aew-wrestlers-included/",
+      "t": "4h",
+      "dt": "2026-11-03T19:03:50+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "NJPW “Power Struggle” results (11/3): Vetter’s review of the tournament final, MJF’s video, KO Brothers vs. Will Ospreay and Callum Newman for the IWGP Tag Titles, Kenny Omega vs. Boltin Oleg vs. Yota Tsuji",
+      "p": "By Chris Vetter, ProWrestling.net Contributor... The post NJPW “Power Struggle” results (11/3): Vetter’s review of the tournament final, MJF’s video, KO Brothers vs. Will Ospreay and Callum Newman...",
+      "link": "https://prowrestling.net/site/2026/11/03/njpw-power-struggle-results-11-3-vetters-review-of-the-tournament-final-mjfs-video-ko-brothers-vs-will-ospreay-and-callum-newman-for-the-iwgp-tag-titles-kenny-omega-vs-boltin-oleg-vs/",
+      "t": "5h",
+      "dt": "2026-11-03T17:50:18+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Kenny Omega pins Yota Tsuji in non-title three-way at NJPW Power Struggle",
       "p": "Kenny Omega scored a non-title victory in Tuesday’s three-way match-up at Power Struggle to set the stage for the Tokyo Dome. Tuesday’s return by Omega The post Kenny Omega pins Yota Tsuji in...",
       "link": "https://www.postwrestling.com/2026/11/03/kenny-omega-pins-yota-tsuji-in-non-title-three-way-at-njpw-power-struggle/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-11-03T15:39:10+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "NJPW Wrestle Kingdom Matches Announced For AEW's Kenny Omega, Jon Moxley, MJF & More",
       "p": "Multiple AEW stars will appear at NJPW Wrestle Kingdom 21, including Kenny Omega who looks to regain the IWGP Heavyweight Title.",
       "link": "https://www.wrestlinginc.com/2305275/aew-njpw-wrestle-kingdom-21-kenny-omega-jon-moxley-will-ospreay-mjf-gabe-kidd-matches-announced/",
-      "t": "2h",
+      "t": "7h",
       "dt": "2026-11-03T15:27:36+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "United Empire fails to co-exist, match confirmed for Wrestle Kingdom 21",
       "p": "The expected implosion of the United Empire leadership occurred at Power Struggle, setting up another match for Wrestle Kingdom. Will Ospreay and Callum Newman failed The post United Empire fails...",
       "link": "https://www.postwrestling.com/2026/11/03/united-empire-fails-to-co-exist-match-confirmed-for-wrestle-kingdom-21/",
-      "t": "2h",
+      "t": "8h",
       "dt": "2026-11-03T15:00:19+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "Shingo Takagi to meet Jon Moxley in NJPW vs. AEW match on January 4",
       "p": "Shingo Takagi and Jon Moxley will have their 1-on-1 match on January 4 after the challenge was issued at New Japan’s Power Struggle. The post Shingo Takagi to meet Jon Moxley in NJPW vs. AEW match...",
       "link": "https://www.postwrestling.com/2026/11/03/shingo-takagi-to-meet-jon-moxley-in-njpw-vs-aew-match-on-january-4/",
-      "t": "3h",
-      "dt": "2026-11-03T14:28:03+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Ryohei Oiwa accepts challenge from MJF for Wrestle Kingdom 21",
-      "p": "Ryohei Oiwa was confronted by MJF for the second time following his tag win with Hartley Jackson against The Swirl at Power Struggle. The post Ryohei Oiwa accepts challenge from MJF for Wrestle...",
-      "link": "https://www.postwrestling.com/2026/11/03/ryohei-oiwa-accepts-challenge-from-mjf-for-wrestle-kingdom-21/",
-      "t": "4h",
-      "dt": "2026-11-03T13:34:06+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "IWGP Heavyweight Championship match set for NJPW Wrestle Kingdom 21",
-      "p": "Eight years after he last held the title, Kenny Omega is aiming to become IWGP Heavyweight Champion once again. Omega challenging Yota Tsuji for the IWGP Heavyweight Championship looks set to...",
-      "link": "https://www.f4wonline.com/news/new-japan/iwgp-heavyweight-championship-match-set-for-njpw-wrestle-kingdom-21/",
-      "t": "7h",
-      "dt": "2026-11-03T10:17:37+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Result of IWGP Tag Team title match at NJPW Power Struggle 2026",
-      "p": "A grudge match that’s been building for months is officially set to go down at NJPW Wrestle Kingdom 21. After failing to win the IWGP Tag Team titles at Power Struggle, Will Ospreay will now face...",
-      "link": "https://www.f4wonline.com/news/new-japan/result-of-iwgp-tag-team-title-match-at-njpw-power-struggle-2026/",
-      "t": "7h",
-      "dt": "2026-11-03T09:53:18+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jon Moxley challenged to NJPW Wrestle Kingdom 21 match",
-      "p": "Update: Post-show comments have indicated that Jon Moxley vs. Shingo Takagi at Wrestle Kingdom 21 will be a death match, which in NJPW means no rules/no DQ. ********** Jon Moxley’s plans for NJPW...",
-      "link": "https://www.f4wonline.com/news/new-japan/jon-moxley-challenged-to-njpw-wrestle-kingdom-21-match/",
       "t": "8h",
-      "dt": "2026-11-03T09:16:49+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star MJF to make NJPW debut at Wrestle Kingdom 21",
-      "p": "MJF’s New Japan debut will happen on the company’s biggest stage possible. Following up on the challenge he issued last month, another video with MJF addressing Ryohei Oiwa aired during NJPW Power...",
-      "link": "https://www.f4wonline.com/news/aew/aew-star-mjf-to-make-njpw-debut-at-wrestle-kingdom-21/",
-      "t": "9h",
-      "dt": "2026-11-03T08:32:27+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Ricochet explains why he’s a better performer now than earlier in his career",
-      "p": "A part of the AEW roster since 2024, Ricochet now believes himself to be a better performer than he was earlier in his career. A pro-wrestling veteran, Ricochet was part of the WWE from 2018 till...",
-      "link": "https://www.f4wonline.com/news/aew/ricochet-explains-why-hes-a-better-performer-now-than-earlier-in-his-career/",
-      "t": "11h",
-      "dt": "2026-11-03T06:00:00+00:00"
+      "dt": "2026-11-03T14:28:03+00:00"
     }
   ]
 }

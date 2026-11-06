@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-06T06:36:38.750898+00:00",
+  "updated": "2026-11-06T14:58:50.539016+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,27 @@
   },
   "items": [
     {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: WWE presents Crown Jewel, AEW boards the Jericho Cruise & more",
+      "p": "A preview of this weekend's top professional wrestling events on TV & streaming, including shows from WWE, AEW, MLW, STARDOM and more. The post Weekend TV Guide: WWE presents Crown Jewel, AEW...",
+      "link": "https://www.postwrestling.com/2026/11/06/weekend-tv-guide-wwe-presents-crown-jewel-aew-boards-the-jericho-cruise-more/",
+      "t": "1h",
+      "dt": "2026-11-06T13:00:20+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mick Foley Spoke To Darby Allin About His Wrestling Style, Says Allin Was Walking ‘A Little Gingerly’ After AEW Blood & Guts",
+      "p": "Darby Allin became a topic of conversation during Mick Foley’s media appearance. Highspots conducted a Sign-it-Live session with Mick Foley, and as the signing went on, Darby Allin was brought up....",
+      "link": "https://www.fightful.com/wrestling-news/mick-foley-spoke-to-darby-allin-about-his-wrestling-style-says-allin-was-walking-a-little-gingerly-after-aew-blood-guts/",
+      "t": "2h",
+      "dt": "2026-11-06T12:30:00+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "Gabe Kidd reveals frustration with NJPW officials after Kenny Omega match",
       "p": "Gabe Kidd says he was frustrated with NJPW officials following his January 2025 match against Kenny Omega. Recently, in an interview with Chris Jericho, Kidd opened up about one of his not-so-good...",
       "link": "https://www.f4wonline.com/news/new-japan/gabe-kidd-reveals-frustration-with-njpw-officials-after-kenny-omega-match/",
-      "t": "36m",
+      "t": "8h",
       "dt": "2026-11-06T06:00:00+00:00"
     },
     {
@@ -24,7 +40,7 @@
       "h": "VIP NEWSLETTER – PRO WRESTLING TORCH #1992 (Nov. 5, 2026): Radican’s cover story on AEW involvement in New Japan Wrestle Kingdom line-up, Parks evaluates TNA after BFG, Keller’s TV reports",
       "p": "PWTorch Newsletter #1992 Cover-dated November 5, 2026 LINK: 1992 PWTorch Newsletter PDF –LIST OF ALL LATEST NEWSLETTERS –CLICK HERE FOR DIRECTORY OF ALL PAST NEWSLETTERS BY YEAR SUMMARY: This...",
       "link": "https://www.pwtorch.com/site/2026/11/05/vip-newsletter-pro-wrestling-torch-1992-nov-5-2026-radicans-cover-story-on-aew-involvement-in-new-japan-wrestle-kingdom-line-up-parks-evaluates-tna-after-bfg-kellers-tv-reports/",
-      "t": "37m",
+      "t": "8h",
       "dt": "2026-11-06T05:59:13+00:00"
     },
     {
@@ -32,39 +48,23 @@
       "h": "ROH Women’s World Champion Athena to defend at Final Battle",
       "p": "With Ring of Honor’s Final Battle one month away, the first match has been announced for the streaming special which will feature its longest reigning champion ever. ROH Women’s World Champion...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-womens-world-champion-athena-hyan-final-battle-2026/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-11-06T03:29:28+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Results (11/5): Lee Moriarty, Mark Davis, Eddie Kingston Compete",
-      "p": "Ring of Honor aired the latest episode of ROH TV on November 5. The event aired on HonorClub. Full results are below. ROH TV Results (11/5) ROH Men’s Pure Championship Proving Ground: Lee Moriarty...",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-11-5-lee-moriarty-mark-davis-eddie-kingston-compete/",
-      "t": "3h",
-      "dt": "2026-11-06T02:59:23+00:00"
     },
     {
       "src": "PWTorch",
       "h": "VIP PODCAST 11/5 – The Fix w/Todd & Wade (pt. 1 of 1): New Japan Power Struggle, Wrestle Kingdom line-up so far with AEW wrestlers, AEW vs. NXT, catching up on WWE, AAA, UFC (89 min.)",
       "p": "SHOW SUMMARY: In this current events episode of The Fix with PWTorch VIP analyst Todd Martin and host PWTorch editor Wade Keller, they cover these topics: First, Todd updates his health emergency...",
       "link": "https://www.pwtorch.com/site/2026/11/05/vip-podcast-11-5-the-fix-w-todd-wade-pt-1-of-1-new-japan-power-struggle-wrestle-kingdom-line-up-so-far-with-aew-wrestlers-aew-vs-nxt-catching-up-on-wwe-aaa-ufc-89-min/",
-      "t": "3h",
+      "t": "12h",
       "dt": "2026-11-06T02:57:04+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Athena Challenges Hyan For ROH Final Battle",
-      "p": "Athena has targeted Hyan as her next opponent. On the November 5 episode of ROH TV, ROH Women’s Champion Athena challenged Hyan for ROH Final Battle. “The Forever Champion” put Diamante and Billie...",
-      "link": "https://www.fightful.com/wrestling-news/athena-challenges-hyan-for-roh-final-battle/",
-      "t": "3h",
-      "dt": "2026-11-06T02:52:51+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "ROH TV live results: Lee Moriarty vs. AR Fox",
       "p": "Ring of Honor is back on HonorClub with a new episode on Thursday, November 5, 2026. As of this writing, a few matches have been announced for the show, including ROH Pure Champion Lee Moriarty of...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-lee-moriarty-vs-ar-fox/",
-      "t": "6h",
+      "t": "14h",
       "dt": "2026-11-06T00:15:00+00:00"
     },
     {
@@ -72,7 +72,7 @@
       "h": "Jason Sensation reveals which WWE legend threw him out of the dressing room, how Owen Hart helped open the door for him to perform impressions on WWE television",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Jason Sensation reveals which WWE legend threw him out of the dressing room, how Owen Hart helped open the door for him to perform impressions...",
       "link": "https://prowrestling.net/site/2026/11/05/jason-sensation-reveals-which-wwe-legend-threw-him-out-of-the-dressing-room-how-owen-hart-helped-open-the-door-for-him-to-perform-impressions-on-wwe-television/",
-      "t": "8h",
+      "t": "16h",
       "dt": "2026-11-05T22:30:02+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite: Blood and Guts 2026 – plus Hangman Page confirms Texas Death and Jon Moxley gives up a fork to make a friend",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite: Blood and Guts 2026 – plus Hangman Page confirms Texas Death and Jon Moxley gives up a fork to...",
       "link": "https://prowrestling.net/site/2026/11/05/pruetts-pause-10-thoughts-on-aew-dynamite-blood-and-guts-2026-plus-hangman-page-confirms-texas-death-and-jon-moxley-gives-up-a-fork-to-make-a-friend/",
-      "t": "9h",
+      "t": "17h",
       "dt": "2026-11-05T21:15:40+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "h": "AEW Full Gear lineup: The latest card for the next pay-per-view",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Full Gear lineup: The latest card for the next pay-per-view appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/11/05/aew-full-gear-lineup-the-latest-card-for-the-next-pay-per-view/",
-      "t": "10h",
+      "t": "18h",
       "dt": "2026-11-05T20:30:18+00:00"
     },
     {
@@ -96,7 +96,7 @@
       "h": "Report: AEW Was Forced To Change Terminology During Blood & Guts Match",
       "p": "On Wednesday, AEW had their annual Blood and Guts episode of \"Dynamite\". Fans noticed that commentary changed terminology during the women's match.",
       "link": "https://www.wrestlinginc.com/2308352/aew-blood-guts-forced-change-terminology-legos/",
-      "t": "11h",
+      "t": "19h",
       "dt": "2026-11-05T19:26:28+00:00"
     },
     {
@@ -104,7 +104,7 @@
       "h": "Powell’s AEW Dynamite Hit List: Thoughts on the two Blood & Guts matches, Swerve Strickland getting his Texas Death Match, Nick Wayne’s video",
       "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Thoughts on the two Blood & Guts matches, Swerve Strickland getting his Texas Death Match, Nick Wayne’s video...",
       "link": "https://prowrestling.net/site/2026/11/05/powells-aew-dynamite-hit-list-thoughts-on-the-two-blood-guts-matches-swerve-strickland-getting-his-texas-death-match-nick-waynes-video/",
-      "t": "11h",
+      "t": "19h",
       "dt": "2026-11-05T19:15:46+00:00"
     }
   ]

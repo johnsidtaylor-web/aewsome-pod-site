@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T22:42:16.518737+00:00",
+  "updated": "2026-11-08T02:24:14.482746+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -7,16 +7,64 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (2 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "FTR Ties Series 2-2 With Motor City Machine Guns On 11/7 AEW Collision",
+      "p": "FTR defeat Motor City Machine Guns on AEW Collision. On the 11/7 AEW Collision, Motor City Machine Guns (Alex Shelley & Chris Sabin) and FTR (Dax Harwood & Cash Wheeler) wrestled the fourth match...",
+      "link": "https://www.fightful.com/wrestling-news/ftr-ties-series-2-2-with-motor-city-machine-guns-on-11-7-aew-collision/",
+      "t": "18m",
+      "dt": "2026-11-08T02:05:27+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite Viewership & Ratings Report, 11/4/2026",
+      "p": "AEW's most violent night of the year proved to be a big success as the Blood and Guts edition of \"AEW Dynamite\" posted big ratings and outdrew \"WWE NXT.\"",
+      "link": "https://www.wrestlinginc.com/2310201/aew-dynamite-viewership-ratings-report-november-4-2026/",
+      "t": "1h",
+      "dt": "2026-11-08T01:24:11+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Jericho Cruise: AEW Collision 11/6/26 Review (Live 10:15pm ET)",
+      "p": "LIVE 10:15pm ET — Kate from Montreal & Bruce Lord review AEW Collision from the Jericho cruise w/ Andrade vs. Ciampa for the AEW National Title. The post Jericho Cruise: AEW Collision 11/6/26...",
+      "link": "https://www.postwrestling.com/2026/11/07/jericho-cruise-aew-collision-11-6-26-review-live-1015pm-et/",
+      "t": "1h",
+      "dt": "2026-11-08T01:15:27+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision Rock & Wrestling Rager Results (11/7/2026): Andrade vs. Tommaso Ciampa, FTR vs. MCMG, Persephone vs. Mina Shirakawa, More",
+      "p": "Full results for the November 7, 2026, edition of AEW Collision from the Norwegian Jewel in Miami, Florida. On November 7, 2026, All Elite Wrestling hosted the new episode of Collision on TNT from...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-rock-wrestling-rager-results-11-7-2026-andrade-vs-tommaso-ciampa-ftr-vs-mcmg-persephone-vs-mina-shirakawa-more/",
+      "t": "1h",
+      "dt": "2026-11-08T00:35:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision live results: Andrade El Idolo vs. Tommaso Ciampa on Chris Jericho cruise",
+      "p": "AEW Collision tonight is live from the Norwegian Jewel docked in Miami, Florida. The cruise ship will depart following the show for Chris Jericho’s Rock ‘N’ Wrestling Rager at Sea. Four matches...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-november-7-2026/",
+      "t": "2h",
+      "dt": "2026-11-08T00:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Mercedes Mone reveals death of younger sister Alexis",
+      "p": "Mercedes Mone has revealed that her younger sister, Alexis Varnado, has passed away. Mone revealed the news in the latest edition of her Mone Mag newsletter and recalled attending WrestleMania...",
+      "link": "https://www.f4wonline.com/news/aew/mercedes-mone-younger-sister-alexis-death/",
+      "t": "3h",
+      "dt": "2026-11-07T22:47:28+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "AEW needs to pull the trigger on Marina Shafir | Big Vinny V",
       "p": "It has been over four years since Marina Shafir last challenged for the AEW Women’s World Championship. Now, she’s not just a fresh face in the championship picture, but a viable threat to take...",
       "link": "https://www.f4wonline.com/opinion/aew-needs-to-pull-the-trigger-on-marina-shafir-big-vinny-v/",
-      "t": "37m",
+      "t": "4h",
       "dt": "2026-11-07T22:05:00+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "AEW Collision Results 11/7/26 W/ Live Updates",
       "p": "\"AEW Collision\" will emanate from Chris Jericho's Rock 'N' Rager at Sea for the first time ever. Andrade will defend the National Championship.",
       "link": "https://www.wrestlinginc.com/2310035/aew-collision-november-7-2026-results/",
-      "t": "42m",
+      "t": "4h",
       "dt": "2026-11-07T22:00:00+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "FTR vs The Young Bucks – AEW Full Gear 2020 | WON Flashback",
       "p": "November 7 2020 was the date of that year’s AEW Full Gear PPV, and arguably the best match on the card was FTR vs The Young Bucks, which received a *****1/4 in that week’s Wrestling Observer...",
       "link": "https://www.f4wonline.com/news/aew/ftr-vs-the-young-bucks-aew-full-gear-2020-won-flashback/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-11-07T20:45:09+00:00"
     },
     {
@@ -40,72 +88,24 @@
       "h": "WOL: Blood and Guts and Big Ratings",
       "p": "Wrestling Observer Live with Jim Valley. Saturday is packed with wrestling from WWE Crown Jewel in Saudi Arabia to the Norwegian Jewel home port tonight in Miami for AEW Collision Rock n Rager to...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-blood-and-guts-and-big-ratings/",
-      "t": "2h",
+      "t": "5h",
       "dt": "2026-11-07T20:30:26+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Mercedes Mone Reflects On AEW Women’s Title Victory",
-      "p": "At AEW All In, Mercedes Mone captured the AEW Women’s Championship, defeating Willow Nightingale in the co-main event. Willow had been Mercedes’ kryptonite over the years, becoming the first-ever...",
-      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-reflects-on-aew-womens-title-victory/",
-      "t": "2h",
-      "dt": "2026-11-07T20:13:06+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW Dynamite ticket sales update ahead of next week’s show (11-07-2026)",
       "p": "AEW Dynamite takes place on Wednesday night from the Maverik Center in West Valley City, UT. According to the latest update from WrestleTix, 1,580 tickets have been distributed for the event thus...",
       "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-update-next-week-show-11-07-2026/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-11-07T20:08:12+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "WWE Crown Jewel Post-Show: Nov. 7, 2026",
-      "p": "Superstars react to all of the action and fallout at WWE Crown Jewel! The post WWE Crown Jewel Post-Show: Nov. 7, 2026 appeared first on Fightful | WWE News, AEW News, Pro Wrestling Backstage News.",
-      "link": "https://www.fightful.com/wrestling-news/wwe-crown-jewel-post-show-nov-7-2026/",
-      "t": "2h",
-      "dt": "2026-11-07T19:42:29+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Former ECW Star Says Cody Rhodes Asked Him To Come Out Of Retirement Multiple Times",
       "p": "A former ECW star has admitted that Cody Rhodes always wanted him to come out of retirement while he was in AEW.",
       "link": "https://www.wrestlinginc.com/2306096/ecw-wwe-aew-cody-rhodes-jerry-lynn-asked-come-out-retirement-multiple-times/",
-      "t": "4h",
+      "t": "7h",
       "dt": "2026-11-07T18:30:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Chris Jericho’s Rock N’ Wrestling Rager",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Chris Jericho’s Rock N’ Wrestling Rager appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/07/aew-collision-lineup-chris-jerichos-rock-n-wrestling-rager-3/",
-      "t": "11h",
-      "dt": "2026-11-07T11:30:13+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Daily Update: Ratings notes, Konosuke Takeshita, Irene Hennig",
-      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update – We just finished a show...",
-      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-ratings-notes-konosuke-takeshita-irene-hennig/",
-      "t": "19h",
-      "dt": "2026-11-07T02:57:28+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 11/6 – Radican Worldwide – Interview with Dunkzilla Mark Davis: Working as singles wrestler for first time, being part of Ospreay’s entrance at All In, Moxley match at Wrestle Dream, Blood & Guts, challenging Young Bucks at Full Gear, more (23 min.)",
-      "p": "SHOW SUMMARY: In this episode of Radican Worldwide, “Dunkzilla” Mark Davis discusses the following topics: Signing with AEW in 2023 Suffering an injury while wrestling as an indie wrestler vs....",
-      "link": "https://www.pwtorch.com/site/2026/11/06/vip-podcast-11-6-radican-worldwide-interview-with-dunkzilla-mark-davis-working-as-singles-wrestler-for-first-time-being-part-of-ospreays-entrance-at-all-in-moxley-match-at-wres/",
-      "t": "20h",
-      "dt": "2026-11-07T02:20:44+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 11/6 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: Blood & Guts indeed! (86 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner review Dynamite Blood & Guts from Jacksonville, Fla. They also preview the...",
-      "link": "https://www.pwtorch.com/site/2026/11/06/free-podcast-11-6-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-blood-guts-indeed-86-min/",
-      "t": "1d",
-      "dt": "2026-11-06T21:28:05+00:00"
     }
   ]
 }

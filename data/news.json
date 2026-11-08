@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-08T10:13:02.041431+00:00",
+  "updated": "2026-11-08T16:39:52.628073+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Observer",
-      "h": "WOR: Crown Jewel 2026, Dana White press secretary, Collision on the boat, more!",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the WWE Crown Jewel show, all the matches and angles, Dana White as press secretary,...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-crown-jewel-2026-dana-white-press-secretary-collision-on-the-boat-more/",
-      "t": "1h",
-      "dt": "2026-11-08T08:57:01+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kyle Fletcher reveals most valuable advice he’s received from Don Callis",
-      "p": "AEW star Kyle Fletcher recently revealed the most valuable advice he’s received from Don Callis. A part of the Don Callis Family for almost two years now, Fletcher recently opened up about the...",
-      "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-reveals-most-valuable-advice-hes-received-from-don-callis/",
-      "t": "2h",
-      "dt": "2026-11-08T08:00:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision results (11/7): Murphy’s review of Andrade El Idolo vs. Tommaso Ciampa for the AEW National Title, MCMG vs. FTR in a best-of-five series match",
-      "p": "By Don Murphy, ProWrestling.net Contributor... The post AEW Collision results (11/7): Murphy’s review of Andrade El Idolo vs. Tommaso Ciampa for the AEW National Title, MCMG vs. FTR in a...",
-      "link": "https://prowrestling.net/site/2026/11/07/aew-collision-results-11-7-murphys-review-of-andrade-el-idolo-vs-tommaso-ciampa-for-the-aew-national-title-mcmg-vs-ftr-in-a-best-of-five-series-match/",
-      "t": "6h",
-      "dt": "2026-11-08T04:05:51+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "International title match added to AEW Full Gear",
-      "p": "A match for the International title is set for Full Gear. It was announced on Saturday’s Collision that Kazuchika Okada will defend the title against Adam Copeland. The two have come across one...",
-      "link": "https://www.f4wonline.com/news/aew/international-title-match-added-to-aew-full-gear/",
-      "t": "6h",
-      "dt": "2026-11-08T04:01:22+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW COLLISION RESULTS (11/7): Andrade vs. Ciampa for the National title, Persephone vs. Mina Shirakawa, FTR vs. MCMG, Death Riders, Jericho and Nick Wayne in action",
-      "p": "AEW COLLISION REPORT NOVEMBER 7, 2026 MIAMI, FLA. AT THE NORWEGIAN JEWEL AIRED ON TBS & HBO MAX REPORT BY JOSHUA WHITE, PWTORCH CONTRIBUTOR Commentators: Nigel McGuiness, Tony Schiavone, Paul...",
-      "link": "https://www.pwtorch.com/site/2026/11/07/aew-collision-results-11-7-andrade-vs-ciampa-for-the-national-title-persephone-vs-mina-shirakawa-ftr-vs-mcmg-death-riders-jericho-and-nick-wayne-in-action/",
-      "t": "6h",
-      "dt": "2026-11-08T03:52:45+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tommaso Ciampa wins National title on AEW Collision",
-      "p": "A new champion was crowned on Collision. Tommaso Ciampa bested Andrade El Idolo on Saturday in Miami to win the AEW National Championship for the first time. The finish had Andrade connecting with...",
-      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-wins-national-title-on-aew-collision/",
-      "t": "6h",
-      "dt": "2026-11-08T03:46:31+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Will Ospreay & Kyle Fletcher Face-To-Face, Two Matches Added To 11/11 AEW Dynamite/Collision",
-      "p": "Will Ospreay segment, and two matches added to the upcoming AEW Dynamite/Collision. AEW will host a three-hour live special for AEW Dynamite and Collision on November 11. It’ll be the last show...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-kyle-fletcher-face-to-face-two-matches-added-to-11-11-aew-dynamite-collision/",
-      "t": "6h",
-      "dt": "2026-11-08T03:27:50+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Tommaso Ciampa wins National Championship from Andrade El Idolo on AEW Collision",
-      "p": "Tommaso Ciampa defeated Andrade El Idolo to win the AEW National Championship in the main event of Saturday’s Collision. The post Tommaso Ciampa wins National Championship from Andrade El Idolo on...",
-      "link": "https://www.postwrestling.com/2026/11/07/tommaso-ciampa-wins-national-championship-from-andrade-el-idolo-on-aew-collision/",
-      "t": "6h",
-      "dt": "2026-11-08T03:26:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Ospreay/Fletcher face-to-face, mixed tag, New Level vs. Brodido set for AEW Dynamite & Collision",
-      "p": "New matches and segments have been announced for the three-hour Dynamite & Collision block next Wednesday. AEW announced during Collision that Will Ospreay will meet Kyle Fletcher face-to-face in...",
-      "link": "https://www.f4wonline.com/news/aew/ospreay-fletcher-face-to-face-mixed-tag-new-level-vs-brodido-set-for-aew-dynamite-collision/",
-      "t": "6h",
-      "dt": "2026-11-08T03:19:12+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Jericho Cruise: AEW Collision 11/6/26 Review",
-      "p": "Kate from Montreal & Bruce Lord review AEW Collision from the Jericho cruise w/ Andrade vs. Ciampa for the AEW National Title. The post Jericho Cruise: AEW Collision 11/6/26 Review appeared first...",
-      "link": "https://www.postwrestling.com/2026/11/07/jericho-cruise-aew-collision-11-6-26-review-live-1015pm-et/",
-      "t": "6h",
-      "dt": "2026-11-08T03:15:27+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kazuchika Okada Defending AEW International Title Against Adam Copeland At AEW Full Gear",
-      "p": "Kazuchika Okada will defend his title against Adam Copeland at AEW Full Gear. On the 11/7 AEW Collision, the company officially announced a match between Kazuchika Okada and Adam Copeland for the...",
-      "link": "https://www.fightful.com/wrestling-news/kazuchika-okada-defending-aew-international-title-against-adam-copeland-at-aew-full-gear/",
-      "t": "7h",
-      "dt": "2026-11-08T03:08:48+00:00"
+      "h": "Tommaso Ciampa reveals new nickname for the AEW National Championship",
+      "p": "Tommaso Ciampa has named the AEW National Championship “Ruby” after defeating Andrade El Idolo for the belt aboard the Norwegian Jewel in Miami, Florida on Saturday’s edition of AEW Collision. AEW...",
+      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-reveals-new-name-aew-national-championship/",
+      "t": "13m",
+      "dt": "2026-11-08T16:26:45+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Dynamite Viewership & Ratings Report, 11/4/2026",
-      "p": "AEW's most violent night of the year proved to be a big success as the Blood and Guts edition of \"AEW Dynamite\" posted big ratings and outdrew \"WWE NXT.\"",
-      "link": "https://www.wrestlinginc.com/2310201/aew-dynamite-viewership-ratings-report-november-4-2026/",
-      "t": "8h",
-      "dt": "2026-11-08T01:24:11+00:00"
+      "h": "AEW Promoting 'Survivor 51' Contestant From ROH",
+      "p": "After his outing on the islands of Fiji, \"Survivor 51\" contestant Brady Booker looks to make a splash in the lands of AEW and ROH next.",
+      "link": "https://www.wrestlinginc.com/2310280/aew-promoting-survivor-51-contestant-brady-booker/",
+      "t": "13m",
+      "dt": "2026-11-08T16:26:19+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland Names Jon Moxley Drowning Darby Allin As The Moment AEW Went ‘A Little Too Far’",
+      "p": "Swerve Strickland names Jon Moxley drowning Darby Allin as the moment were AEW went ‘a little too far’ with a spot. Over the years, Swerve has been part of some of the biggest hardcore moments in...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-names-jon-moxley-drowning-darby-allin-as-the-moment-aew-went-a-little-too-far/",
+      "t": "39m",
+      "dt": "2026-11-08T16:00:35+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Swerve Strickland Says PAC Was His Go To Answer For AEW Stars That Could Potentially Become AEW World Champion",
+      "p": "Swerve Strickland names several AEW talents he thinks could one day become AEW World Champion while also discussing PAC. Throughout Strickland’s time in All Elite Wrestling, he has largely been at...",
+      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-says-pac-was-his-go-to-answer-for-aew-stars-that-could-potentially-become-aew-world-champion/",
+      "t": "59m",
+      "dt": "2026-11-08T15:39:47+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Booker T reacts to Adam Copeland’s retirement and AEW cage dive",
+      "p": "At the age of 53, AEW’s Adam Copeland recently announced his intention to retire next year, in 2027. In 2020, Copeland reversed his retirement and returned at the 2020 Royal Rumble. Going strong...",
+      "link": "https://www.f4wonline.com/news/aew/booker-t-adam-copeland-retirement-aew-cage-dive/",
+      "t": "1h",
+      "dt": "2026-11-08T15:15:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Claudio Castagnoli Says He Is Currently Not Medically Cleared",
+      "p": "Claudio Castagnoli noted in a new interview while attending the League Of Legends Worlds that he is not currently medically cleared. On the October 28th edition of AEW Dynamite, Claudio would look...",
+      "link": "https://www.fightful.com/wrestling-news/claudio-castagnoli-says-he-is-currently-not-medically-cleared/",
+      "t": "1h",
+      "dt": "2026-11-08T15:14:34+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Tommaso Ciampa Leaves Jericho Cruise With AEW National Title",
+      "p": "Tommaso Ciampa took to the seas to earn his second piece of AEW gold as he defeated Andrade El Idolo on the Jericho Cruise to win the AEW National Championship.",
+      "link": "https://www.wrestlinginc.com/2310267/tommaso-ciampa-leaves-jericho-cruise-aew-national-title/",
+      "t": "1h",
+      "dt": "2026-11-08T15:07:05+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tommaso Ciampa Reacts To Winning The AEW National Championship, Names It ‘Rubie’",
+      "p": "Tommaso Ciampa reacts to winning the AEW National Championship on the Jericho Cruise and has named it ‘Rubie.’ On the 2026 Jericho Cruise, AEW Collision would take place on November 7th. Amongst...",
+      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-reacts-to-winning-the-aew-national-championship-names-it-rubie/",
+      "t": "2h",
+      "dt": "2026-11-08T14:28:48+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Andrade El Idolo Reacts To Losing AEW National Championship: You Learn More From Losing Than Winning",
+      "p": "Andrade El Idolo has reacted to losing the AEW National Championship on the 2026 Jericho Cruise, noting his next move. On the November 7th edition of AEW Collision from the Jericho Cruise, the AEW...",
+      "link": "https://www.fightful.com/wrestling-news/andrade-el-idolo-reacts-to-losing-aew-national-championship-you-learn-more-from-losing-than-winning/",
+      "t": "2h",
+      "dt": "2026-11-08T14:06:55+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Full Gear lineup: Title match added to Saturday’s pay-per-view",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Full Gear lineup: Title match added to Saturday’s pay-per-view appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/08/aew-full-gear-lineup-title-match-added-to-saturdays-pay-per-view/",
+      "t": "4h",
+      "dt": "2026-11-08T12:30:01+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Bryan Alvarez’s AEW Collision November 7 report for subscribers",
+      "p": "Bryan Alvarez’s report on the November 7 edition of AEW Collision is now available for subscribers.",
+      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-collision-november-7-report-for-subscribers/",
+      "t": "4h",
+      "dt": "2026-11-08T12:00:48+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOR: WWE Crown Jewel 2026, Dana White press secretary, AEW Collision on the boat, news",
+      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the WWE Crown Jewel show, all the matches and angles, Dana White as press secretary,...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-crown-jewel-2026-dana-white-press-secretary-collision-on-the-boat-more/",
+      "t": "7h",
+      "dt": "2026-11-08T08:57:01+00:00"
     }
   ]
 }

@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-09T07:54:31.678911+00:00",
+  "updated": "2026-11-09T18:43:32.024973+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Inc",
+      "h": "Garrett & Steven Borden Win Tag Team Debut On Independent Show",
+      "p": "AEW's Steven Borden wrestled alongside his brother, Garrett for the first time. They competed in a tag match and picked up the victory at an independent show.",
+      "link": "https://www.wrestlinginc.com/2311154/garrett-steven-borden-win-tag-team-debut-independent-show-rhodes-wrestling-association/",
+      "t": "15m",
+      "dt": "2026-11-09T18:28:03+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kyle Fletcher Was ‘A Very Nervous Little Boy’ Ahead Of His First AEW Blood And Guts Match",
+      "p": "Kyle Fletcher noted that he was a ‘very nervous little boy’ ahead of his first AEW Blood And Guts match during his latest Protolog. On last Wednesday’s edition of AEW Dynamite, Fletcher would step...",
+      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-was-a-very-nervous-little-boy-ahead-of-his-first-aew-blood-and-guts-match/",
+      "t": "1h",
+      "dt": "2026-11-09T17:35:22+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Former WWE ID Talent Makes AEW Collision Debut",
+      "p": "On Saturday, this ex-WWE ID star made their singles debut on \"AEW Collision.\"",
+      "link": "https://www.wrestlinginc.com/2311034/aew-collision-wwe-id-marcus-mathers-talent-debut/",
+      "t": "1h",
+      "dt": "2026-11-09T17:24:59+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tommaso Ciampa vs. ‘Speedball’ Mike Bailey For AEW National Title Added To Three-Hour Dynamite/Collision",
+      "p": "Tommaso Ciampa versus ‘Speedball’ Mike Bailey for the National Title. The November 11th edition of AEW programming is going to be a three-hour Dynamite/Collision episode. Joining the lineup is the...",
+      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-vs-speedball-mike-bailey-for-aew-national-title-added-to-three-hour-dynamite-collision/",
+      "t": "1h",
+      "dt": "2026-11-09T17:19:31+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star walked away from WWE after they revealed plans for him in AAA",
+      "p": "Andrade had earlier expressed his WWE return in 2024 was partly motivated by ex-wife Charlotte Flair. She had suffered a knee injury the year prior and Andrade wanted to be around to support Flair...",
+      "link": "https://www.f4wonline.com/news/wwe/aew-star-walked-away-from-wwe-after-they-revealed-plans-for-him-in-aaa/",
+      "t": "1h",
+      "dt": "2026-11-09T17:13:36+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "TNA Star Jada Stone Hospitalized Following Auto Collision",
+      "p": "On Sunday, TNA star Jada Stone revealed on social media that she has been hospitalized following a car accident two days prior.",
+      "link": "https://www.wrestlinginc.com/2310919/tna-jada-stone-hospitalized-auto-collision/",
+      "t": "2h",
+      "dt": "2026-11-09T16:32:59+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Title defense announced for Full Gear go-home edition of AEW Dynamite & Collision",
+      "p": "After winning the AEW National title this past Saturday on Collision, Tommaso Ciampa will defend for the first time on this Wednesday’s combo edition of Dynamite and Collision ahead of this...",
+      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-vs-mike-bailey-aew-dynamite-national-title/",
+      "t": "2h",
+      "dt": "2026-11-09T16:31:51+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Select CMLL events now included in MyAEW international package",
+      "p": "Subscribers to MyAEW will get more opportunities to watch CMLL programming, the company confirmed recently. The post Select CMLL events now included in MyAEW international package appeared first...",
+      "link": "https://www.postwrestling.com/2026/11/09/select-cmll-events-now-included-in-myaew-international-package/",
+      "t": "3h",
+      "dt": "2026-11-09T14:50:19+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite/Collision preview: The three-hour block heading into AEW Full Gear",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: The three-hour block heading into AEW Full Gear appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/09/aew-dynamite-collision-preview-the-three-hour-block-heading-into-aew-full-gear/",
+      "t": "4h",
+      "dt": "2026-11-09T14:15:12+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST SCHEDULE: “You Can See Everything” review, AEW Full Gear, UFC 334 & The N.W.A. Podcast",
+      "p": "John Pollock & Wai Ting review \"You Can See Everything\", shows covering Full Gear & UFC 334, plus The N.W.A. Podcast & MCU L8R this week. The post POST SCHEDULE: “You Can See Everything” review,...",
+      "link": "https://www.postwrestling.com/2026/11/09/post-schedule-you-can-see-everything-review-aew-full-gear-ufc-334-the-n-w-a-podcast/",
+      "t": "5h",
+      "dt": "2026-11-09T13:00:30+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star still not medically cleared",
+      "p": "Claudio Castagnoli declared he is not medically cleared for an in-ring return during his attendance at the 2026 League of Legends World Championship. In an interview with Paul Delos Santos of The...",
+      "link": "https://www.f4wonline.com/news/aew/aew-star-still-not-medically-cleared/",
+      "t": "6h",
+      "dt": "2026-11-09T12:09:06+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 11/8 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller & Moynahan talk Omega-Hangman contract angle, Danielson having fun in AEW, CM Punk-Kingston angle, Cody, Inner Circle, on-site report (130 min.)",
       "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (11-10-2021), PWTorch editor Wade Keller was joined by PWTorch contributor Patrick Moynahan to...",
       "link": "https://www.pwtorch.com/site/2026/11/08/free-podcast-11-8-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-moynahan-talk-omega-hangman-contract-angle-danielson-having-fun-in-aew-cm-punk-kingston-angle-cody-inner-circ/",
-      "t": "2h",
+      "t": "13h",
       "dt": "2026-11-09T05:00:53+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 11/8 – WKH – The News: Jericho Cruise Rager Collision notes, why The Creeds didn’t stick in WWE, Saudi Arabia intercepted missiles this weekend, Dana White-Trump (21 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: A look at last night’s AEW Collision which was held on the Chris...",
-      "link": "https://www.pwtorch.com/site/2026/11/08/vip-podcast-11-8-wkh-the-news-jericho-cruise-rager-collision-notes-why-the-creeds-didnt-stick-in-wwe-saudi-arabia-intercepted-missiles-this-weekend-dana-white-trump-21-min/",
-      "t": "8h",
-      "dt": "2026-11-08T23:29:36+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE's Big E Talks 'Special Bond' With Former New Day Members Kofi & Austin Creed",
-      "p": "Although Kofi and Austin Creed have departed WWE for AEW, Big E believes he'll always remain close with the two after they spent years on the road together.",
-      "link": "https://www.wrestlinginc.com/2309776/wwe-aew-big-e-kofi-austin-creed-new-day-special-bond/",
-      "t": "9h",
-      "dt": "2026-11-08T22:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Kyle Fletcher says AEW singles run came faster than expected",
-      "p": "Ahead of his World title match against Will Ospreay, Kyle Fletcher opened up about his AEW singles push. A couple of years ago, Fletcher turned heel, shaved his head, and joined the Don Callis...",
-      "link": "https://www.f4wonline.com/news/aew/kyle-fletcher-aew-singles-run-faster-than-expected/",
-      "t": "10h",
-      "dt": "2026-11-08T21:49:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Breaks Down Backstage Politics Of AEW Presence At NJPW Wrestle Kingdom",
-      "p": "With so many AEW stars on the NJPW Wrestle Kingdom 21 card, Dave Meltzer has broken down the politics of the event.",
-      "link": "https://www.wrestlinginc.com/2310318/aew-njpw-wrestle-kingdom-21-dave-meltzer-breaks-down-backstage-politics-presence/",
-      "t": "11h",
-      "dt": "2026-11-08T19:57:21+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW stars among several new champions crowned at Pro Wrestling EVE show",
-      "p": "AEW’s Skye Blue and Marina Shafir, as well as former WWE wrestler Kay Lee Ray, all won championships at today’s Pro Wrestling EVE show. EVE Elite Encounters 2 took place Sunday in Wolverhampton,...",
-      "link": "https://www.f4wonline.com/news/aew/aew-stars-new-champions-pro-wrestling-eve/",
-      "t": "12h",
-      "dt": "2026-11-08T19:11:48+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE's Booker T Comments On Adam Copeland's Impending AEW Retirement",
-      "p": "WWE Hall of Famer Booker T weighs in on Adam Copeland's impending in-ring retirement, which will officially put an end to his comeback run in 2027.",
-      "link": "https://www.wrestlinginc.com/2310292/wwe-booker-t-adam-copeland-edge-impending-aew-retirement-christian/",
-      "t": "14h",
-      "dt": "2026-11-08T17:34:05+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "11/08 Pruett’s AEW Collision audio review: Andrade El Idolo vs. Tommaso Ciampa for the AEW National Title, MCMG vs. FTR in a best-of-five series match",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 11/08 Pruett’s AEW Collision audio review: Andrade El Idolo vs. Tommaso Ciampa for the AEW National Title, MCMG vs. FTR in a best-of-five...",
-      "link": "https://prowrestling.net/site/2026/11/08/11-08-pruetts-aew-collision-audio-review-andrade-el-idolo-vs-tommaso-ciampa-for-the-aew-national-title-mcmg-vs-ftr-in-a-best-of-five-series-match/",
-      "t": "14h",
-      "dt": "2026-11-08T17:09:14+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Adam Copeland To Challenge For AEW International Title At Full Gear 2026",
-      "p": "Adam Copeland will look to get revenge on Kazuchika Okada for what happened at Blood and Guts by taking his AEW International Title away at Full Gear 2026.",
-      "link": "https://www.wrestlinginc.com/2310284/adam-copeland-challenge-aew-international-title-full-gear-2026/",
-      "t": "14h",
-      "dt": "2026-11-08T17:00:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tommaso Ciampa reveals new nickname for the AEW National Championship",
-      "p": "Tommaso Ciampa has named the AEW National Championship “Ruby” after defeating Andrade El Idolo for the belt aboard the Norwegian Jewel in Miami, Florida on Saturday’s edition of AEW Collision. AEW...",
-      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-reveals-new-name-aew-national-championship/",
-      "t": "15h",
-      "dt": "2026-11-08T16:26:45+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Promoting 'Survivor 51' Contestant From ROH",
-      "p": "After his outing on the islands of Fiji, \"Survivor 51\" contestant Brady Booker looks to make a splash in the lands of AEW and ROH next.",
-      "link": "https://www.wrestlinginc.com/2310280/aew-promoting-survivor-51-contestant-brady-booker/",
-      "t": "15h",
-      "dt": "2026-11-08T16:26:19+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Booker T reacts to Adam Copeland’s retirement and AEW cage dive",
-      "p": "At the age of 53, AEW’s Adam Copeland recently announced his intention to retire next year, in 2027. In 2020, Copeland reversed his retirement and returned at the 2020 Royal Rumble. Going strong...",
-      "link": "https://www.f4wonline.com/news/aew/booker-t-adam-copeland-retirement-aew-cage-dive/",
-      "t": "16h",
-      "dt": "2026-11-08T15:15:00+00:00"
     }
   ]
 }

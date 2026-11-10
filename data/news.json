@@ -1,22 +1,70 @@
 {
-  "updated": "2026-11-10T09:42:58.598907+00:00",
+  "updated": "2026-11-10T17:45:31.217512+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (2 AEW items)",
+    "Wrestling Observer": "ok (5 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (2 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (5 AEW items)"
   },
   "items": [
+    {
+      "src": "Fightful",
+      "h": "Renee Paquette Announces Passing Of Her And Jon Moxley’s Dog, Blue",
+      "p": "Renee Paquette has shared some heartbreaking news on social media. Taking to Instagram on Tuesday, Paquette revealed that her family’s beloved dog, Blue, has passed away after nearly 11 years of...",
+      "link": "https://www.fightful.com/wrestling-news/renee-paquette-announces-passing-of-her-and-jon-moxleys-dog-blue/",
+      "t": "4m",
+      "dt": "2026-11-10T17:40:59+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Steven Borden Talks AEW All Out Injury, In-Ring Return At Blood & Guts",
+      "p": "AEW's Steven Borden was injured during a mid-air collision at All Out. He returned a few weeks later to challenge the Don Callis Family to a Blood & Guts match.",
+      "link": "https://www.wrestlinginc.com/2312275/aew-all-out-blood-guts-steven-borden-injury-in-ring-return/",
+      "t": "12m",
+      "dt": "2026-11-10T17:33:21+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW & ROH Star Truth Magnum Gets Engaged On Chris Jericho Cruise",
+      "p": "AEW and Ring of Honor star Truth Magnum gets engaged in the center of the ring after winning a match on the Chris Jericho Rock N' Wrestling Rager at Sea",
+      "link": "https://www.wrestlinginc.com/2312265/aew-roh-truth-magnum-outrunners-engaged-chris-jericho-cruise/",
+      "t": "14m",
+      "dt": "2026-11-10T17:31:01+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Matt Sydal Wants To Reunite With Kofi And Team With The New Level In Place Of Swerve Strickland",
+      "p": "Matt Sydal is interested in reuniting Air Boom with Kofi in AEW, pitching potentially replacing Swerve Strickland in a trio with the New Level. Prior to the two men finding their way to WWE, both...",
+      "link": "https://www.fightful.com/wrestling-news/matt-sydal-wants-to-reunite-with-kofi-and-team-with-the-new-level-in-place-of-swerve-strickland/",
+      "t": "1h",
+      "dt": "2026-11-10T16:41:50+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "WWE's Booker T Believes AEW Is Trying To Change The Way People Watch Wrestling",
+      "p": "Booker T thinks that AEW is trying to change the way people watch wrestling, which is why some stars haven't fit in the promotion.",
+      "link": "https://www.wrestlinginc.com/2311296/wwe-booker-t-aew-change-people-watch-wrestling-cm-punk-hurt-syndicate/",
+      "t": "4h",
+      "dt": "2026-11-10T13:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite ticket sales ahead of this week’s show (11-10-2026)",
+      "p": "AEW Dynamite takes place on Wednesday night from the Maverik Center in West Valley City, UT. According to the latest update from WrestleTix, 1,887 tickets have been distributed for the taping thus...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-ticket-sales-ahead-this-weeks-show-11-10-2026/",
+      "t": "7h",
+      "dt": "2026-11-10T09:47:52+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "AEW Full Gear 2026 Global Start Times: US, UK, Australia and more",
       "p": "AEW Full Gear 2026 takes place on Saturday, November 14 from the Mortgage Matchup Center in Phoenix, Arizona. The main card of the show is expected to start at around 8pm Eastern, 7pm Central and...",
       "link": "https://www.f4wonline.com/event-guides/aew-full-gear-2026-global-start-times-us-uk-australia/",
-      "t": "46m",
+      "t": "8h",
       "dt": "2026-11-10T08:56:27+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Mike Bailey says it’s ‘about time’ he won an AEW singles championship",
       "p": "A part of AEW for over a year, Mike Bailey has not yet won a singles title in the promotion; however, he believes it is time for him to win one. Speaking on his latest vlog on YouTube, Bailey...",
       "link": "https://www.f4wonline.com/news/aew/mike-bailey-says-its-about-time-he-won-an-aew-singles-championship/",
-      "t": "1h",
+      "t": "9h",
       "dt": "2026-11-10T08:00:00+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "AEW & ROH wrestler gets engaged aboard Chris Jericho’s Rock ‘N’ Wrestling Rager at Sea cruise",
       "p": "AEW & ROH wrestler Truth Magnum proposed to his girlfriend on Chris jericho’s Rock ‘N’ Wrestling Rager at Sea cruise. A video now going viral on social media shows Truth Magnum of The Outrunners...",
       "link": "https://www.f4wonline.com/news/aew/aew-roh-wrestler-gets-engaged-aboard-chris-jerichos-rock-n-wrestling-rager-at-sea-cruise/",
-      "t": "6h",
+      "t": "14h",
       "dt": "2026-11-10T03:20:26+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "AEW’s Kyle Fletcher says match with Ilja Dragunov is ‘inevitable’",
       "p": "Ilja Dragunov made his AEW in-ring debut a few weeks ago and immediately came off like a future main eventer. Now a current main eventer says a match with Dragunov is “inevitable.” Kyle Fletcher,...",
       "link": "https://www.f4wonline.com/news/aew/aews-kyle-fletcher-says-match-with-ilja-dragunov-is-inevitable/",
-      "t": "7h",
+      "t": "15h",
       "dt": "2026-11-10T01:55:17+00:00"
     },
     {
@@ -48,64 +96,16 @@
       "h": "AEW's Queen Aminata Shares Reaction To Winning TBS Championship",
       "p": "AEW's Queen Aminata shares her emotional reaction to winning the TBS Championship from Persephone in her first YouTube vlog video in the last few months",
       "link": "https://www.wrestlinginc.com/2311671/aew-queen-aminata-shares-reaction-winning-tbs-championship/",
-      "t": "10h",
+      "t": "18h",
       "dt": "2026-11-09T23:02:41+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage Report On AEW Using Survivor Footage To Promote Brady Booker",
-      "p": "A backstage report offered more details about AEW using \"Survivor\" footage to promote ROH talent Brady Booker on \"AEW Collision.\"",
-      "link": "https://www.wrestlinginc.com/2311494/aew-skydance-survivor-brady-booker-footage-promote-backstage-report/",
-      "t": "12h",
-      "dt": "2026-11-09T20:55:06+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "Tommaso Ciampa vs. Speedball Bailey for National title among four segments set for Wednesday’s three-hour AEW Dynamite",
       "p": "Just days after winning the AEW National Championship, Tommaso Ciampa will defend his belt Wednesday against Mike Bailey. The post Tommaso Ciampa vs. Speedball Bailey for National title among four...",
       "link": "https://www.postwrestling.com/2026/11/09/tommaso-ciampa-vs-speedball-bailey-for-national-title-among-four-segments-set-for-wednesdays-three-hour-aew-dynamite/",
-      "t": "13h",
+      "t": "21h",
       "dt": "2026-11-09T20:02:07+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star walked away from WWE after they revealed plans for him in AAA",
-      "p": "Andrade had earlier expressed his WWE return in 2024 was partly motivated by ex-wife Charlotte Flair. She had suffered a knee injury the year prior and Andrade wanted to be around to support Flair...",
-      "link": "https://www.f4wonline.com/news/wwe/aew-star-walked-away-from-wwe-after-they-revealed-plans-for-him-in-aaa/",
-      "t": "16h",
-      "dt": "2026-11-09T17:13:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Title defense announced for Full Gear go-home edition of AEW Dynamite & Collision",
-      "p": "After winning the AEW National title this past Saturday on Collision, Tommaso Ciampa will defend for the first time on this Wednesday’s combo edition of Dynamite and Collision ahead of this...",
-      "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-vs-mike-bailey-aew-dynamite-national-title/",
-      "t": "17h",
-      "dt": "2026-11-09T16:31:51+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Select CMLL events now included in MyAEW international package",
-      "p": "Subscribers to MyAEW will get more opportunities to watch CMLL programming, the company confirmed recently. The post Select CMLL events now included in MyAEW international package appeared first...",
-      "link": "https://www.postwrestling.com/2026/11/09/select-cmll-events-now-included-in-myaew-international-package/",
-      "t": "18h",
-      "dt": "2026-11-09T14:50:19+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite/Collision preview: The three-hour block heading into AEW Full Gear",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: The three-hour block heading into AEW Full Gear appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/09/aew-dynamite-collision-preview-the-three-hour-block-heading-into-aew-full-gear/",
-      "t": "19h",
-      "dt": "2026-11-09T14:15:12+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST SCHEDULE: “You Can See Everything” review, AEW Full Gear, UFC 334 & The N.W.A. Podcast",
-      "p": "John Pollock & Wai Ting review \"You Can See Everything\", shows covering Full Gear & UFC 334, plus The N.W.A. Podcast & MCU L8R this week. The post POST SCHEDULE: “You Can See Everything” review,...",
-      "link": "https://www.postwrestling.com/2026/11/09/post-schedule-you-can-see-everything-review-aew-full-gear-ufc-334-the-n-w-a-podcast/",
-      "t": "20h",
-      "dt": "2026-11-09T13:00:30+00:00"
     }
   ]
 }

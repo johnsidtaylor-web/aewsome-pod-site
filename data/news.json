@@ -1,54 +1,70 @@
 {
-  "updated": "2026-11-09T18:43:32.024973+00:00",
+  "updated": "2026-11-10T02:01:46.302496+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
-    "Wrestling Observer": "ok (6 AEW items)",
+    "Fightful": "ok (0 AEW items)",
+    "Wrestling Observer": "ok (4 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW’s Kyle Fletcher says match with Ilja Dragunov is ‘inevitable’",
+      "p": "Ilja Dragunov made his AEW in-ring debut a few weeks ago and immediately came off like a future main eventer. Now a current main eventer says a match with Dragunov is “inevitable.” Kyle Fletcher,...",
+      "link": "https://www.f4wonline.com/news/aew/aews-kyle-fletcher-says-match-with-ilja-dragunov-is-inevitable/",
+      "t": "6m",
+      "dt": "2026-11-10T01:55:17+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Queen Aminata Shares Reaction To Winning TBS Championship",
+      "p": "AEW's Queen Aminata shares her emotional reaction to winning the TBS Championship from Persephone in her first YouTube vlog video in the last few months",
+      "link": "https://www.wrestlinginc.com/2311671/aew-queen-aminata-shares-reaction-winning-tbs-championship/",
+      "t": "2h",
+      "dt": "2026-11-09T23:02:41+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage Report On AEW Using Survivor Footage To Promote Brady Booker",
+      "p": "A backstage report offered more details about AEW using \"Survivor\" footage to promote ROH talent Brady Booker on \"AEW Collision.\"",
+      "link": "https://www.wrestlinginc.com/2311494/aew-skydance-survivor-brady-booker-footage-promote-backstage-report/",
+      "t": "5h",
+      "dt": "2026-11-09T20:55:06+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Tommaso Ciampa vs. Speedball Bailey for National title among four segments set for Wednesday’s three-hour AEW Dynamite",
+      "p": "Just days after winning the AEW National Championship, Tommaso Ciampa will defend his belt Wednesday against Mike Bailey. The post Tommaso Ciampa vs. Speedball Bailey for National title among four...",
+      "link": "https://www.postwrestling.com/2026/11/09/tommaso-ciampa-vs-speedball-bailey-for-national-title-among-four-segments-set-for-wednesdays-three-hour-aew-dynamite/",
+      "t": "5h",
+      "dt": "2026-11-09T20:02:07+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "Garrett & Steven Borden Win Tag Team Debut On Independent Show",
       "p": "AEW's Steven Borden wrestled alongside his brother, Garrett for the first time. They competed in a tag match and picked up the victory at an independent show.",
       "link": "https://www.wrestlinginc.com/2311154/garrett-steven-borden-win-tag-team-debut-independent-show-rhodes-wrestling-association/",
-      "t": "15m",
+      "t": "7h",
       "dt": "2026-11-09T18:28:03+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kyle Fletcher Was ‘A Very Nervous Little Boy’ Ahead Of His First AEW Blood And Guts Match",
-      "p": "Kyle Fletcher noted that he was a ‘very nervous little boy’ ahead of his first AEW Blood And Guts match during his latest Protolog. On last Wednesday’s edition of AEW Dynamite, Fletcher would step...",
-      "link": "https://www.fightful.com/wrestling-news/kyle-fletcher-was-a-very-nervous-little-boy-ahead-of-his-first-aew-blood-and-guts-match/",
-      "t": "1h",
-      "dt": "2026-11-09T17:35:22+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Former WWE ID Talent Makes AEW Collision Debut",
       "p": "On Saturday, this ex-WWE ID star made their singles debut on \"AEW Collision.\"",
       "link": "https://www.wrestlinginc.com/2311034/aew-collision-wwe-id-marcus-mathers-talent-debut/",
-      "t": "1h",
+      "t": "8h",
       "dt": "2026-11-09T17:24:59+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Tommaso Ciampa vs. ‘Speedball’ Mike Bailey For AEW National Title Added To Three-Hour Dynamite/Collision",
-      "p": "Tommaso Ciampa versus ‘Speedball’ Mike Bailey for the National Title. The November 11th edition of AEW programming is going to be a three-hour Dynamite/Collision episode. Joining the lineup is the...",
-      "link": "https://www.fightful.com/wrestling-news/tommaso-ciampa-vs-speedball-mike-bailey-for-aew-national-title-added-to-three-hour-dynamite-collision/",
-      "t": "1h",
-      "dt": "2026-11-09T17:19:31+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "AEW star walked away from WWE after they revealed plans for him in AAA",
       "p": "Andrade had earlier expressed his WWE return in 2024 was partly motivated by ex-wife Charlotte Flair. She had suffered a knee injury the year prior and Andrade wanted to be around to support Flair...",
       "link": "https://www.f4wonline.com/news/wwe/aew-star-walked-away-from-wwe-after-they-revealed-plans-for-him-in-aaa/",
-      "t": "1h",
+      "t": "8h",
       "dt": "2026-11-09T17:13:36+00:00"
     },
     {
@@ -56,7 +72,7 @@
       "h": "TNA Star Jada Stone Hospitalized Following Auto Collision",
       "p": "On Sunday, TNA star Jada Stone revealed on social media that she has been hospitalized following a car accident two days prior.",
       "link": "https://www.wrestlinginc.com/2310919/tna-jada-stone-hospitalized-auto-collision/",
-      "t": "2h",
+      "t": "9h",
       "dt": "2026-11-09T16:32:59+00:00"
     },
     {
@@ -64,7 +80,7 @@
       "h": "Title defense announced for Full Gear go-home edition of AEW Dynamite & Collision",
       "p": "After winning the AEW National title this past Saturday on Collision, Tommaso Ciampa will defend for the first time on this Wednesday’s combo edition of Dynamite and Collision ahead of this...",
       "link": "https://www.f4wonline.com/news/aew/tommaso-ciampa-vs-mike-bailey-aew-dynamite-national-title/",
-      "t": "2h",
+      "t": "9h",
       "dt": "2026-11-09T16:31:51+00:00"
     },
     {
@@ -72,7 +88,7 @@
       "h": "Select CMLL events now included in MyAEW international package",
       "p": "Subscribers to MyAEW will get more opportunities to watch CMLL programming, the company confirmed recently. The post Select CMLL events now included in MyAEW international package appeared first...",
       "link": "https://www.postwrestling.com/2026/11/09/select-cmll-events-now-included-in-myaew-international-package/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-11-09T14:50:19+00:00"
     },
     {
@@ -80,7 +96,7 @@
       "h": "AEW Dynamite/Collision preview: The three-hour block heading into AEW Full Gear",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite/Collision preview: The three-hour block heading into AEW Full Gear appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/11/09/aew-dynamite-collision-preview-the-three-hour-block-heading-into-aew-full-gear/",
-      "t": "4h",
+      "t": "11h",
       "dt": "2026-11-09T14:15:12+00:00"
     },
     {
@@ -88,24 +104,8 @@
       "h": "POST SCHEDULE: “You Can See Everything” review, AEW Full Gear, UFC 334 & The N.W.A. Podcast",
       "p": "John Pollock & Wai Ting review \"You Can See Everything\", shows covering Full Gear & UFC 334, plus The N.W.A. Podcast & MCU L8R this week. The post POST SCHEDULE: “You Can See Everything” review,...",
       "link": "https://www.postwrestling.com/2026/11/09/post-schedule-you-can-see-everything-review-aew-full-gear-ufc-334-the-n-w-a-podcast/",
-      "t": "5h",
-      "dt": "2026-11-09T13:00:30+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW star still not medically cleared",
-      "p": "Claudio Castagnoli declared he is not medically cleared for an in-ring return during his attendance at the 2026 League of Legends World Championship. In an interview with Paul Delos Santos of The...",
-      "link": "https://www.f4wonline.com/news/aew/aew-star-still-not-medically-cleared/",
-      "t": "6h",
-      "dt": "2026-11-09T12:09:06+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 11/8 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Keller & Moynahan talk Omega-Hangman contract angle, Danielson having fun in AEW, CM Punk-Kingston angle, Cody, Inner Circle, on-site report (130 min.)",
-      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (11-10-2021), PWTorch editor Wade Keller was joined by PWTorch contributor Patrick Moynahan to...",
-      "link": "https://www.pwtorch.com/site/2026/11/08/free-podcast-11-8-wkpwp-aew-dynamite-post-show-5-yrs-ago-keller-moynahan-talk-omega-hangman-contract-angle-danielson-having-fun-in-aew-cm-punk-kingston-angle-cody-inner-circ/",
       "t": "13h",
-      "dt": "2026-11-09T05:00:53+00:00"
+      "dt": "2026-11-09T13:00:30+00:00"
     }
   ]
 }

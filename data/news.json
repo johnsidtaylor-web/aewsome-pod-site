@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-12T01:29:31.205795+00:00",
+  "updated": "2026-11-12T09:44:42.847355+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (2 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "AEW Full Gear 2026 Match Card",
+      "p": "AEW Full Gear 2026 takes place on Saturday, November 14 from the Mortgage Matchup Center in Phoenix, Arizona. Most of the card has now been confirmed for the show, including the main event, which...",
+      "link": "https://www.f4wonline.com/event-guides/aew-full-gear-2026-match-card/",
+      "t": "47m",
+      "dt": "2026-11-12T08:56:39+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Dynamite/Collision - 11/11/2026: 3 Things We Hated & 3 Things We Loved",
+      "p": "The very best and the very worst of the pre-Full Gear AEW double header.",
+      "link": "https://www.wrestlinginc.com/2314467/aew-dynamite-collision-november-11-2026-3-things-hated-loved-opinion-review/",
+      "t": "2h",
+      "dt": "2026-11-12T07:32:17+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "11/11 Powell’s AEW Dynamite and Collision audio review: Full Gear go-home block with Will Ospreay and Kyle Fletcher, FTR vs. MCMG in the fifth match of the best-of-five series",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 11/11 Powell’s AEW Dynamite and Collision audio review: Full Gear go-home block with Will Ospreay and Kyle Fletcher, FTR vs. MCMG in the fifth...",
+      "link": "https://prowrestling.net/site/2026/11/12/11-11-powells-aew-dynamite-and-collision-audio-review-full-gear-go-home-block-with-will-ospreay-and-kyle-fletcher-ftr-vs-mcmg-in-the-fifth-match-of-the-best-of-five-series/",
+      "t": "2h",
+      "dt": "2026-11-12T07:11:47+00:00"
+    },
+    {
       "src": "PWTorch",
-      "h": "AEW DYNAMITE RESULTS (11/11): Keller’s report on final build to AEW Full Gear, Ospreay and Fletcher face-to-face, Mercedes & White vs. Moxley & Shafir",
-      "p": "AEW DYNAMITE REPORT NOVEMBER 11, 2026 WEST VALLEY CITY, UTAH AT MAVERIK CENTER AIRED ON DELAY ON TBS & HBO MAX REPORT BY WADE KELLER, PWTORCH EDITOR Commentators: Excalibur, Tony Schiavone, Taz...",
-      "link": "https://www.pwtorch.com/site/2026/11/11/aew-dynamite-results-11-11-kellers-report-on-final-build-to-aew-full-gear-ospreay-and-fletcher-face-to-face-mercedes-white-vs-moxley-shafir/",
-      "t": "3m",
-      "dt": "2026-11-12T01:26:06+00:00"
+      "h": "FREE PODCAST 11/11 – WKPWP after Dynamite: Keller & Zilem talk standout Ospreay-Fletcher exchange, Brody King silences Utah crowd, Ospreay confronts Copeland, more Full Gear hype (105 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Brian Zilem to discuss AEW Dynamite including praise (and one critique) for the Will Ospreay and Kyle Fletcher in-ring exchange....",
+      "link": "https://www.pwtorch.com/site/2026/11/12/free-podcast-11-11-wkpwp-after-dynamite-keller-zilem-talk-standout-ospreay-fletcher-exchange-brody-king-silences-utah-crowd-ospreay-confronts-copeland-more-full-gear-hype-105-min/",
+      "t": "3h",
+      "dt": "2026-11-12T06:12:15+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 11/11 – WKH – AEW Dynamite: Final Full Gear hype including Ospreay-Fletcher segment, MCMGs vs. FTR in fifth match of series, Ciampa vs. Speedball, Brodido vs. New Level, more (28 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the Nov. 11 episode of AEW Dynamite start to finish including the Kyle Fletcher-Will Ospreay 20-plus...",
+      "link": "https://www.pwtorch.com/site/2026/11/12/vip-podcast-11-11-wkh-aew-dynamite-final-full-gear-hype-including-ospreay-fletcher-segment-mcmgs-vs-ftr-in-fifth-match-of-series-ciampa-vs-speedball-brodido-vs-new-level-more-28-min/",
+      "t": "3h",
+      "dt": "2026-11-12T06:00:21+00:00"
     },
     {
       "src": "POST Wrestling",
-      "h": "AEW Dynamite/Collision 11/11/26 Review (XL Live 11:15pm ET)",
-      "p": "TONIGHT — John Pollock & Wai Ting review AEW Dynamite w/ Ciampa vs. Bailey, FTR vs. MCMG #5. XL: Jim Herd passes away, Bronson Reed injured, Bloodsport future Live 11:15pm ET for Café members....",
+      "h": "Tommaso Ciampa to defend AEW National Title against Ilja Dragunov at Full Gear",
+      "p": "Ilja Dragunov will search for his first AEW title when he faces Tommaso Ciampa at Full Gear this Saturday. The post Tommaso Ciampa to defend AEW National Title against Ilja Dragunov at Full Gear...",
+      "link": "https://www.postwrestling.com/2026/11/11/tommaso-ciampa-to-defend-aew-national-title-against-ilja-dragunov-at-full-gear/",
+      "t": "4h",
+      "dt": "2026-11-12T04:51:45+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Full Gear card updates: Three-way TBS title match, Anarchy in the Arena participants official",
+      "p": "As a result of Wednesday’s Dynamite & Collision combo show, a three-way for the TBS title is now official for this Saturday’s AEW Full Gear. After successfully defending against Hyan and Skye Blue...",
+      "link": "https://www.f4wonline.com/news/aew/aew-full-gear-card-2026-three-way-tbs-title-match-anarchy-in-the-arena-participants/",
+      "t": "4h",
+      "dt": "2026-11-12T04:51:13+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Motor City Machine Guns earn #1 contender status for AEW World Tag Team Championships",
+      "p": "The Motor City Machine Guns are next in line for an AEW World Tag Team Championship opportunity, it was revealed on Wednesday night. The post Motor City Machine Guns earn #1 contender status for...",
+      "link": "https://www.postwrestling.com/2026/11/11/motor-city-machine-guns-earn-1-contender-status-for-aew-world-tag-team-championships/",
+      "t": "4h",
+      "dt": "2026-11-12T04:49:22+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Full Gear Go-Home: AEW Dynamite/Collision 11/11/26 Review",
+      "p": "John Pollock & Wai Ting review a 3-hour AEW Dynamite/Collision ahead of Full Gear. XL: Jim Herd passes away, TKO employees on Saudi, Bloodsport future. The post Full Gear Go-Home: AEW...",
       "link": "https://www.postwrestling.com/2026/11/11/aew-dynamite-collision-11-11-26-review-xl-live-1115pm-et/",
-      "t": "14m",
-      "dt": "2026-11-12T01:15:03+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite and Collision results (11/11): Powell’s live review of the Full Gear go-home block with Will Ospreay and Kyle Fletcher, FTR vs. MCMG in the fifth match of the best-of-five series",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite and Collision results (11/11): Powell’s live review of the Full Gear go-home block with Will Ospreay and Kyle Fletcher, FTR vs....",
-      "link": "https://prowrestling.net/site/2026/11/11/aew-dynamite-and-collision-results-11-11-powells-live-review-of-the-full-gear-go-home-block-with-will-ospreay-and-kyle-fletcher-ftr-vs-mcmg-in-the-fifth-match-of-the-best-of-five-series/",
-      "t": "58m",
-      "dt": "2026-11-12T00:30:37+00:00"
+      "t": "4h",
+      "dt": "2026-11-12T04:45:03+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW Dynamite Results (11/11/2026): Will Ospreay & Kyle Fletcher Face-to-Face, Merecedes Mone & Jay White vs. Death Riders, More",
-      "p": "Full results for the November 11, 2026, edition of AEW Dynamite on TBS live from the Maverik Center in West Valley City, Utah. On November 11, 2026, All Elite Wrestling hosted a new episode of...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-results-11-11-2026-will-ospreay-kyle-fletcher-face-to-face-merecedes-mone-jay-white-vs-death-riders-more/",
-      "t": "1h",
-      "dt": "2026-11-12T00:15:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite & Collision live results: Full Gear go-home show, FTR vs. MCMG",
-      "p": "AEW is live tonight from the Maverik Center in West Valley City, Utah, for a three-hour Dynamite and Collision block, with Collision immediately following Dynamite at 10 p.m. Eastern. This week’s...",
-      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-dynamite-collision-live-results-november-11-2026/",
-      "t": "1h",
-      "dt": "2026-11-12T00:15:00+00:00"
+      "h": "TBS Title Match Set For AEW Full Gear Tailgate Brawl Pre-Show",
+      "p": "A big title match has been set for AEW Saturday Night Tailgate Brawl before Full Gear. The bout will be contested for the TBS Championship, as Queen Aminata will put the belt up against Maya World...",
+      "link": "https://www.fightful.com/wrestling-news/338682-aew-full-gear/",
+      "t": "5h",
+      "dt": "2026-11-12T04:42:44+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "WWE Hall Of Famer Attacks AEW's Nick Wayne During Jericho Cruise Run-In",
-      "p": "A WWE Hall of Famer and Japanese wrestling legend attacks AEW's Nick Wayne with the green mist during a run-in for a match on the Jericho Cruise",
-      "link": "https://www.wrestlinginc.com/2314350/wwe-aew-nick-wayne-great-muta-jericho-cruise-run-in-attacks-green-mist/",
-      "t": "2h",
-      "dt": "2026-11-11T22:55:54+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Austin Creed Opens Up About Freedom Of Creative Expression In AEW: “More Space To Be Allowed To Fail”",
-      "p": "Austin Creed opens up about the creative freedom. The New Level (Austin Creed & Kofi) arrived at All Elite Wrestling at the 2026 installment of All In. They were revealed as Swerve Strickland’s...",
-      "link": "https://www.fightful.com/wrestling-news/austin-creed-opens-up-about-freedom-of-creative-expression-in-aew-more-space-to-be-allowed-to-fail/",
-      "t": "3h",
-      "dt": "2026-11-11T22:00:00+00:00"
+      "h": "Queen Aminata Still AEW TBS Champion After Chaotic Three-Way Match",
+      "p": "Queen Aminata remains the AEW TBS Champion following a three-way match on \"AEW Collision,\" and she'll have two more opponents this Saturday at Full Gear.",
+      "link": "https://www.wrestlinginc.com/2314439/queen-aminata-still-aew-tbs-champion-chaotic-three-way-match/",
+      "t": "5h",
+      "dt": "2026-11-12T04:41:19+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW Dynamite & Collision Results 11/11/26 W/ Live Updates",
-      "p": "This is Wrestling Inc.'s live coverage of the \"AEW Dynamite/Collision\" double-bill emanating from West Valley City in Utah.",
-      "link": "https://www.wrestlinginc.com/2314240/aew-dynamite-november-11-2026-results/",
-      "t": "3h",
-      "dt": "2026-11-11T22:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Tay Melo Removed From AEW's Roster Page After Asking For Release Over The Summer",
-      "p": "Tay Melo is removed from AEW's roster page, seemingly signaling she has received the release she asked for this past summer, and ending her AEW tenure",
-      "link": "https://www.wrestlinginc.com/2314303/aew-tay-melo-removed-roster-asking-release-summer/",
-      "t": "3h",
-      "dt": "2026-11-11T21:51:32+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Gabe Sapolsky Lists Seven Things To Consider When Signing A Contract",
-      "p": "Gabe Sapolsky is a scout in WWE who is involved in the WWE ID program and WWE EVOLVE. He previously work for ROH and other independent promotions. On social media, Sapolsky noted seven things...",
-      "link": "https://www.fightful.com/wrestling-news/gabe-sapolsky-lists-seven-things-to-consider-when-signing-a-contract/",
-      "t": "4h",
-      "dt": "2026-11-11T21:12:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Marina Shafir remembers PAC as a ‘once-in-a-lifetime human being’",
-      "p": "Marina Shafir paid tribute to PAC in a recent interview. Shafir, who will challenge AEW Women’s World Champion Mercedes Moné at Full Gear on Saturday, recently spoke with Forbes and said she felt...",
-      "link": "https://www.f4wonline.com/news/aew/marina-shafir-remembers-pac-once-in-a-lifetime-human-being/",
-      "t": "4h",
-      "dt": "2026-11-11T20:45:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Full Gear lineup: The card for Saturday’s pay-per-view",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Full Gear lineup: The card for Saturday’s pay-per-view appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/11/aew-full-gear-lineup-the-card-for-saturdays-pay-per-view-4/",
-      "t": "4h",
-      "dt": "2026-11-11T20:36:37+00:00"
+      "h": "ROH Tag Champions El Sky Team Best The Swirl On AEW Dynamite/Collision",
+      "p": "Mistico and Mascara Dorada retained the ROH Tag Team Championship over Lee Johnson and Blake Christian during \"AEW Dynamite/Collision.\"",
+      "link": "https://www.wrestlinginc.com/2314433/roh-tag-champions-el-sky-team-best-swirl-aew-dynamite-collision/",
+      "t": "5h",
+      "dt": "2026-11-12T04:27:06+00:00"
     }
   ]
 }

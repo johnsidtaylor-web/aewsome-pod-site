@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-12T18:13:56.987191+00:00",
+  "updated": "2026-11-12T23:39:34.160753+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Marina Shafir Says Mercedes Mone Is Going To Feel Her Grief At Full Gear, ‘I Don’t Know What That’s Going To Look Like’",
-      "p": "Marina Shafir is going to take her grief out on Mercedes Mone. AEW Full Gear is set to feature a big match for the AEW Women’s World Championship, as Mercedes Mone will put the title up against...",
-      "link": "https://www.fightful.com/wrestling-news/marina-shafir-says-mercedes-mone-is-going-to-feel-her-grief-at-full-gear-i-dont-know-what-thats-going-to-look-like/",
-      "t": "17m",
-      "dt": "2026-11-12T17:56:43+00:00"
-    },
-    {
       "src": "ProWrestling.net",
-      "h": "AEW Full Gear lineup: The updated card for Saturday’s pay-per-view, ticket distribution numbers",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Full Gear lineup: The updated card for Saturday’s pay-per-view, ticket distribution numbers appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/12/aew-full-gear-lineup-the-updated-card-for-saturdays-pay-per-view-ticket-distribution-numbers/",
+      "h": "11/12 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Full Gear",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 11/12 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Full Gear appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/12/11-12-prowrestling-net-free-podcast-aew-media-call-with-tony-khan-before-aew-full-gear/",
       "t": "1h",
-      "dt": "2026-11-12T17:01:22+00:00"
+      "dt": "2026-11-12T22:32:08+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Full Gear watchability index | Big Vinny V",
+      "p": "Typically when I preview premium wrestling events, I sort matches by category: Must Watch, Watch if you Have Time, and Skippable. But that won’t work for Full Gear, because AEW has put together...",
+      "link": "https://www.f4wonline.com/opinion/aew-full-gear-watchability-index-big-vinny-v/",
+      "t": "1h",
+      "dt": "2026-11-12T22:05:00+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Chavo Guerrero Starting Wrestling Agency With Brad Small, Says He’s Talked With Tony Khan And People In WWE",
-      "p": "Chavo Guerrero is launching his own agency for wrestlers. Hollywood has been one of Guerrero’s main focus in recent years, as he’s lent his hand to projects like ‘Disclosure Day’, ‘Margo’s Got...",
-      "link": "https://www.fightful.com/wrestling-news/338442-chavo-guerrero-wrestling-brad-small/",
+      "h": "RevPro Live In Eastbourne Results (11/8)",
+      "p": "Revolution Pro Wrestling held its RevPro Live In Eastbourne event on November 8 from Winter Garden Eastbourne, East Sussex, England. Full results are below. RevPro Live In Eastbourne Results...",
+      "link": "https://www.fightful.com/wrestling-news/revpro-live-in-eastbourne-results-11-8/",
       "t": "1h",
-      "dt": "2026-11-12T17:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Darby Allin Explains Why He Values TNT Championship More Than World Title",
-      "p": "AEW star Darby Allin has explained why his current title, the TNT Championship, holds more personal value to him than the World Championship he previously held.",
-      "link": "https://www.wrestlinginc.com/2314513/aew-darby-allin-tnt-championship-values-more-world-title/",
-      "t": "1h",
-      "dt": "2026-11-12T17:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Kyle Fletcher Would Be 'Extremely Disappointed' To Not Face New AEW Star",
-      "p": "AEW's Kyle Fletcher has discussed the addition of a former WWE star and expressed his eagerness to get in the ring with him, having faced him before.",
-      "link": "https://www.wrestlinginc.com/2314499/kyle-fletcher-extremely-disappointed-not-face-aew-ilja-dragunov/",
-      "t": "1h",
-      "dt": "2026-11-12T16:30:00+00:00"
+      "dt": "2026-11-12T21:54:58+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "New match added to NJPW Bound for Unbound",
-      "p": "Before he takes part in World Tag League 2026, AEW wrestler Lance Archer will be competing at NJPW Bound for Unbound. A singles match between Archer and OSKAR has been added to the card for NJPW’s...",
-      "link": "https://www.f4wonline.com/news/new-japan/new-match-added-to-njpw-bound-for-unbound/",
+      "h": "AEW Full Gear media call notes: Updates on Marcus Mathers, The Cut, Christian Cage",
+      "p": "Tony Khan spoke to the media for an hour Thursday ahead of this Saturday’s Full Gear, opening up on a variety of topics including negotiations with Skydance, some interesting quotes about his...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-aew-full-gear-media-call-marcus-mathers-christian-cage-the-cut/",
+      "t": "1h",
+      "dt": "2026-11-12T21:49:14+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOL: AEW Dynamite & Collision, UFC 1 anniversary",
+      "p": "Wrestling Observer Live is back with co-hosts “Filthy” Tom Lawlor & Lance Storm to talk the THREE HOUR plus AEW Dynamite & Collision go home show before the Full Gear PPV this weekend, the...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-aew-dynamite-collision-ufc-1-anniversary/",
       "t": "2h",
-      "dt": "2026-11-12T15:24:26+00:00"
+      "dt": "2026-11-12T21:38:51+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: MCMG win series over FTR, Ciampa vs. Dragunov set for Full Gear & Jim Ross’ surgery",
+      "p": "John Kleinchester recaps the news, including the end of the FTR vs MCMG series, a National title match for Full Gear & an update on Jim Ross. Available for Double Double & Espresso members at...",
+      "link": "https://www.postwrestling.com/2026/11/12/post-news-mcmg-win-series-over-ftr-ciampa-vs-dragunov-set-for-full-gear-jim-ross-surgery/",
+      "t": "2h",
+      "dt": "2026-11-12T21:33:15+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW Dynamite & Collision underwent last-minute changes | Exclusive",
-      "p": "Much of Wednesday’s AEW Dynamite and Collision show was put together on the fly due to travel issues involving wrestlers returning from Chris Jericho’s cruise. Dave Meltzer addressed the situation...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-collision-last-minute-changes/",
+      "h": "Tony Khan says early AEW/NJPW relationship was ‘a bit of a cold war,’ provides interesting Wrestle Kingdom quote",
+      "p": "While Tony Khan considers the current relationship between AEW and NJPW as “a great partnership,” he admitted on Thursday that it wasn’t always that way. During Thursday’s Full Gear media call,...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-early-aew-njpw-relationship-cold-war-wrestle-kingdom/",
+      "t": "2h",
+      "dt": "2026-11-12T21:29:33+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan not focused on ‘chasing down dollars’ in early AEW/Skydance relationship, more updates",
+      "p": "One of the biggest questions in wrestling going into next year is the future of AEW on Skydance as they enter the final year of a domestic media rights deal signed with the now-former Warner Bros....",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-aew-skydance-negotiations-early-talks-david-ellison/",
+      "t": "2h",
+      "dt": "2026-11-12T21:03:34+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW Continental Classic: A look at the potential participants including who seem like locks and the pros and cons of others",
+      "p": "It’s that time of the year, time to start considering what the field for the annual Continental Classic is going to look like. AEW’s roster is impossibly deep so the make up of this tournament [...]",
+      "link": "https://www.pwtorch.com/site/2026/11/12/aew-continental-classic-a-look-at-the-potential-participants-including-who-seem-like-locks-and-the-pros-and-cons-of-others/",
+      "t": "2h",
+      "dt": "2026-11-12T20:46:06+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Explains The Last Outfit’s Name Change To The Cut",
+      "p": "The Last Outfit to The Cut. It was in October that an alliance between the Bang Bang Gang (Jay White, Juice Robinson, Austin Gunn, Colten Gunn & Ace Austin) and The Dogs (David Finlay & Clark...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-explains-the-last-outfits-name-change-to-the-cut/",
       "t": "3h",
-      "dt": "2026-11-12T14:59:21+00:00"
+      "dt": "2026-11-12T20:38:46+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Bryan Alvarez’s AEW Dynamite November 11 report for subscribers",
-      "p": "Bryan Alvarez’s report on the November 11, 2026 episode of AEW Dynamite is now available for subscribers.",
-      "link": "https://www.f4wonline.com/news/aew/bryan-alvarezs-aew-dynamite-november-11-report-for-subscribers/",
+      "src": "Fightful",
+      "h": "Tony Khan ‘Very Impressed’ By Marcus Mathers, Expects To See More Of Him In AEW/ROH",
+      "p": "Marcus Mathers on the receiving end of praise. Independent wrestler Marcus Mathers competed at a Ring of Honor taping against Mark Davis and then went on to wrestle Nick Wayne on the Jericho...",
+      "link": "https://www.fightful.com/wrestling-news/tony-khan-very-impressed-by-marcus-mathers-expects-to-see-more-of-him-in-aew-roh/",
       "t": "3h",
-      "dt": "2026-11-12T14:14:15+00:00"
+      "dt": "2026-11-12T20:13:12+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "AEW Full Gear 2026: Draws & Duds",
-      "p": "From the International Championship match to Texas Death, here are Wrestling Inc.'s biggest draws and biggest duds for AEW Full Gear 2026!",
-      "link": "https://www.wrestlinginc.com/2314381/aew-full-gear-2026-draws-duds-texas-death-new-level-adam-copeland-okada/",
-      "t": "4h",
-      "dt": "2026-11-12T14:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Gabe Kidd Experienced Psychotic Episode During Tail End Of NJPW Run",
-      "p": "The current two-time IWGP Global Heavyweight Champion Gabe Kidd recalls his mental health struggles in 2022 while living and wrestling in Japan.",
-      "link": "https://www.wrestlinginc.com/2311489/aew-njpw-gabe-kidd-experienced-psychotic-episode-tail-end-run/",
-      "t": "4h",
-      "dt": "2026-11-12T13:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: The Jim Herd Story, WCW’s Early Turner Years, AEW Dynamite & Collision, Full Gear",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with a huge episode covering both wrestling history and everything happening today! First, an extensive 30-plus minute...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-the-jim-herd-story-wcws-early-turner-years-aew-dynamite-collision-full-gear/",
-      "t": "8h",
-      "dt": "2026-11-12T10:06:17+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Full Gear 2026 Match Card",
-      "p": "AEW Full Gear 2026 takes place on Saturday, November 14 from the Mortgage Matchup Center in Phoenix, Arizona. Most of the card has now been confirmed for the show, including the main event, which...",
-      "link": "https://www.f4wonline.com/event-guides/aew-full-gear-2026-match-card/",
-      "t": "9h",
-      "dt": "2026-11-12T08:56:39+00:00"
+      "src": "POST Wrestling",
+      "h": "Tony Khan’s Full Gear 2026 Media Call Notes: Relationship with Skydance and David Ellison, recruiting Marcus Mathers, The Cut’s name creation",
+      "p": "Tony Khan discussed multiple topics on the Full Gear 2026 media call, including David Ellison and recruiting Marcus Mathers. The post Tony Khan’s Full Gear 2026 Media Call Notes: Relationship with...",
+      "link": "https://www.postwrestling.com/2026/11/12/tony-khans-full-gear-2026-media-call-notes-relationship-with-skydance-and-david-ellison-recruiting-marcus-mathers-the-cuts-name-creation/",
+      "t": "3h",
+      "dt": "2026-11-12T20:08:59+00:00"
     }
   ]
 }

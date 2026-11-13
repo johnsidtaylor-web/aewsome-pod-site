@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-13T06:34:45.096767+00:00",
+  "updated": "2026-11-13T15:19:48.022140+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
@@ -12,11 +12,67 @@
   },
   "items": [
     {
+      "src": "Fightful",
+      "h": "Trey Miguel Says TNA Contract Expires At The End Of The Year, Hoping To Re-Sign On A Longer Deal",
+      "p": "Trey Miguel is hoping to secure a long term deal with TNA. After parting ways with AEW in January, Miguel returned to TNA on a six month deal. Then, in June, he re-signed with the company again....",
+      "link": "https://www.fightful.com/wrestling-news/trey-miguel-says-tna-contract-expires-at-the-end-of-the-year-hoping-to-re-sign-on-a-longer-deal/",
+      "t": "23m",
+      "dt": "2026-11-13T14:55:51+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision (11/7) Viewership Increases From Halloween Night",
+      "p": "AEW Collision viewership information for November 7. Wrestlenomics that AEW Collision drew 376,000 viewers on TNT on Saturday, November 7. This number is up from the 302,000 viewers the show drew...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-11-7-viewership-increases-from-halloween-night/",
+      "t": "44m",
+      "dt": "2026-11-13T14:35:13+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW star Bobby Lashley becomes new 4th Rope Heavyweight Champion",
+      "p": "AEW star Bobby Lashley is the new 4th Rope Heavyweight Champion. At 4th Rope Wrestling’s event Heelmatic in New York on November 12, Joe Alonzo was awarded the vacant Heavyweight Championship by...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/aew-star-bobby-lashley-becomes-new-4th-rope-heavyweight-champion/",
+      "t": "1h",
+      "dt": "2026-11-13T13:57:17+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Weekend TV Guide: Ospreay & Fletcher headline AEW Full Gear, TNA revives Destination X & more!",
+      "p": "A preview of this weekend's top professional wrestling events on TV & streaming, including shows from AEW, WWE, GCW, CMLL and more. The post Weekend TV Guide: Ospreay & Fletcher headline AEW Full...",
+      "link": "https://www.postwrestling.com/2026/11/13/weekend-tv-guide-ospreay-fletcher-headline-aew-full-gear-tna-revives-destination-x-more/",
+      "t": "2h",
+      "dt": "2026-11-13T13:00:35+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Tony Khan Says AEW Collision On Rock ‘N’ Wrestling Rager At Sea Was A ‘Very Worthwhile Show’",
+      "p": "Tony Khan was very happy with AEW Collision on Chris Jericho’s Rock ‘N’ Wrestling Rager At Sea. The show aired live from the boat on November 7, giving fans a unique show environment once again....",
+      "link": "https://www.fightful.com/wrestling-news/338828-tony-khan-aew/",
+      "t": "2h",
+      "dt": "2026-11-13T12:59:26+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Adam Page vs Kenny Omega – AEW Full Gear 2021 | WON Flashback",
+      "p": "November 13 2021 was the date of AEW Full Gear 2021, which featured Adam Page vs Kenny Omega in the main event for the AEW Championship. The match was incredibly well received, with it getting a...",
+      "link": "https://www.f4wonline.com/news/aew/adam-page-vs-kenny-omega-aew-full-gear-2021-won-flashback/",
+      "t": "3h",
+      "dt": "2026-11-13T11:45:14+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Khan says Jon Moxley has ‘always gone to bat’ for Marina Shafir, admits both are proud of her development",
+      "p": "Tony Khan praised Marina Shafir for the continued improvement in her in-ring progress ahead of her AEW Women’s World Championship match at Full Gear. During the Full Gear media call, Khan...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-says-jon-moxley-has-always-gone-to-bat-for-marina-shafir-admits-both-are-proud-of-her-development/",
+      "t": "4h",
+      "dt": "2026-11-13T11:16:41+00:00"
+    },
+    {
       "src": "Wrestling Observer",
       "h": "B&V: AEW’s Massive Full Gear Go-Home Show, NXT’s Surprising Hot Streak With Two Shoot Segments",
       "p": "The Bryan & Vinny Show is back with tons to talk about as we recap Dynamite, Collision and NXT! Dynamite and Collision were a three hours and 38 minute block acting as go-home shows for what...",
       "link": "https://www.f4wonline.com/podcasts/bryan-and-vinny-show/bv-aews-massive-full-gear-go-home-show-nxts-surprising-hot-streak-with-two-shoot-segments/",
-      "t": "1h",
+      "t": "9h",
       "dt": "2026-11-13T05:31:52+00:00"
     },
     {
@@ -24,7 +80,7 @@
       "h": "VIP PODCAST 11/12 – VIP Vault – 18 Yrs Ago: The show that made Wade feel ill it was so awful, Adam Pearce takes over ROH booking, WWE brand split ideas, an emerging WWE act, more (78 min.)",
       "p": "SHOW SUMMARY: This installment of the PWTorch VIP Vault jumps back 18 years to the daily Wade Keller Hotlines from Oct. 22, 28, 29, and Nov. 1, 2008. The following are the updates and the [...]",
       "link": "https://www.pwtorch.com/site/2026/11/12/vip-podcast-11-12-vip-vault-18-yrs-ago-the-show-that-made-wade-feel-ill-it-was-so-awful-adam-pearce-takes-over-roh-booking-wwe-brand-split-ideas-an-emerging-wwe-act-more-78-m/",
-      "t": "1h",
+      "t": "10h",
       "dt": "2026-11-13T04:52:33+00:00"
     },
     {
@@ -32,7 +88,7 @@
       "h": "Boom & Doom, Big Justice & The Rizzler set for AEW Full Gear",
       "p": "The Costco Guys crew of Big Boom AJ, Big Justice and The Rizzler will appear at this Saturday’s AEW Full Gear as AJ and QT Marshall will be in action. On Thursday’s Ring of Honor TV, AJ and...",
       "link": "https://www.f4wonline.com/news/aew/boom-doom-big-justice-rizzler-vs-rpg-vice-aew-full-gear-2026/",
-      "t": "2h",
+      "t": "11h",
       "dt": "2026-11-13T03:44:24+00:00"
     },
     {
@@ -40,72 +96,16 @@
       "h": "Tony Khan confirms changes in line of communication behind the scenes at Skydance, says he is “happy to report to anybody”",
       "p": "AEW CEO Tony Khan confirmed that he won’t report directly to Skydance CEO David Ellison saying he’s “happy to report to anybody” when asked about reports indicating that communication behind the...",
       "link": "https://www.pwtorch.com/site/2026/11/12/tony-khan-confirms-changes-in-line-of-communication-behind-the-scenes-at-skydance-says-he-is-happy-to-report-to-anybody/",
-      "t": "3h",
+      "t": "12h",
       "dt": "2026-11-13T03:19:27+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "ROH TV Results (11/12): Multiple Title Matches",
-      "p": "Ring of Honor aired the latest episode of ROH TV on November 12. The event aired on HonorClub. Full results are below. ROH TV Results (11/12) The Premier Athletes (Ariya Daivari & Tony Nese) def....",
-      "link": "https://www.fightful.com/wrestling-news/roh-tv-results-11-12-multiple-title-matches/",
-      "t": "3h",
-      "dt": "2026-11-13T02:48:59+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Big Boom AJ And QT Marshall Issue Challenge For AEW Full Gear",
-      "p": "Big Boom AJ and QT Marshall are coming to AEW Full Gear. During the November 12 episode of ROH TV, AJ and QT issued a challenge to Trent Beretta and Rocky Romero for AEW Full Gear. Instead of a...",
-      "link": "https://www.fightful.com/wrestling-news/big-boom-aj-and-qt-marshall-issue-challenge-for-aew-full-gear/",
-      "t": "3h",
-      "dt": "2026-11-13T02:38:48+00:00"
     },
     {
       "src": "PWTorch",
       "h": "EXCLUSIVE: Mark Davis credits Jon Moxley for showing incredible fortitude for blending Pac’s death into the storyline of their match at AEW’s WrestleDream PPV",
       "p": "Mark Davis said his match against Continental Champion Jon Moxley at WrestleDream in October that had a heavy storyline with Moxley seemingly at a breaking point after the death of Pac while...",
       "link": "https://www.pwtorch.com/site/2026/11/12/exclusive-mark-davis-credits-jon-moxley-for-showing-incredible-fortitude-for-blending-pacs-death-into-the-storyline-of-their-match-at-aews-wrestledream-ppv/",
-      "t": "5h",
+      "t": "14h",
       "dt": "2026-11-13T00:50:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "ROH TV live results: Bandido vs. Bishop Kaun, Lee Moriarty vs. AR Fox title matches",
-      "p": "Ring of Honor takes to the air on HonorClub tonight at 8/7c featuring two title matches as the road to Final Battle continues. ROH Men’s World Champion Bandido takes on Bishop Kaun with his title...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-results-bandido-bishop-kaun-lee-moriarty-vs-ar-fox/",
-      "t": "6h",
-      "dt": "2026-11-13T00:15:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "11/12 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Full Gear",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 11/12 ProWrestling.net Free Podcast: AEW media call with Tony Khan before AEW Full Gear appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/12/11-12-prowrestling-net-free-podcast-aew-media-call-with-tony-khan-before-aew-full-gear/",
-      "t": "8h",
-      "dt": "2026-11-12T22:32:08+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Full Gear watchability index | Big Vinny V",
-      "p": "Typically when I preview premium wrestling events, I sort matches by category: Must Watch, Watch if you Have Time, and Skippable. But that won’t work for Full Gear, because AEW has put together...",
-      "link": "https://www.f4wonline.com/opinion/aew-full-gear-watchability-index-big-vinny-v/",
-      "t": "8h",
-      "dt": "2026-11-12T22:05:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Full Gear media call notes: Updates on Marcus Mathers, The Cut, Christian Cage",
-      "p": "Tony Khan spoke to the media for an hour Thursday ahead of this Saturday’s Full Gear, opening up on a variety of topics including negotiations with Skydance, some interesting quotes about his...",
-      "link": "https://www.f4wonline.com/news/aew/tony-khan-aew-full-gear-media-call-marcus-mathers-christian-cage-the-cut/",
-      "t": "8h",
-      "dt": "2026-11-12T21:49:14+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: AEW Dynamite & Collision, UFC 1 anniversary",
-      "p": "Wrestling Observer Live is back with co-hosts “Filthy” Tom Lawlor & Lance Storm to talk the THREE HOUR plus AEW Dynamite & Collision go home show before the Full Gear PPV this weekend, the...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-aew-dynamite-collision-ufc-1-anniversary/",
-      "t": "8h",
-      "dt": "2026-11-12T21:38:51+00:00"
     }
   ]
 }

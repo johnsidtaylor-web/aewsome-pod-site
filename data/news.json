@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-14T02:22:50.318170+00:00",
+  "updated": "2026-11-14T10:16:16.186270+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,10 +13,42 @@
   "items": [
     {
       "src": "ProWrestling.net",
+      "h": "AEW Collision rating (11/11): How did the one-hour show perform after Dynamite during Full Gear week?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (11/11): How did the one-hour show perform after Dynamite during Full Gear week? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/14/aew-collision-rating-11-11-how-did-the-one-hour-show-perform-after-dynamite-during-full-gear-week/",
+      "t": "1h",
+      "dt": "2026-11-14T08:16:30+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite rating (11/11): Did the Dynamite portion of the three-hour block before Full Gear measure up to last week’s big numbers?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (11/11): Did the Dynamite portion of the three-hour block before Full Gear measure up to last week’s big numbers? appeared...",
+      "link": "https://prowrestling.net/site/2026/11/14/aew-dynamite-rating-11-11-did-the-dynamite-portion-of-the-three-hour-block-before-full-gear-measure-up-to-last-weeks-big-numbers/",
+      "t": "2h",
+      "dt": "2026-11-14T08:12:48+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW CEO Tony Khan says hes “never gotten hung up on” who he reports to in regards to changes at Skydance, says he’s excited to collaborate with new DC Studios head Jeremy Latcham",
+      "p": "AEW CEO Tony Khan said when it comes time to talk about a new TV rights deal for AEW, he will be able to talk directly to Skydance CEO David Ellison despite not reporting directly [...]",
+      "link": "https://www.pwtorch.com/site/2026/11/13/aew-ceo-tony-khan-says-hes-never-gotten-hung-up-on-who-he-reports-to-in-regards-to-changes-at-skydance-says-hes-excited-to-collaborate-with-new-dc-studios-head-jeremy-latcham/",
+      "t": "4h",
+      "dt": "2026-11-14T05:21:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: FAA shutdown ends, AEW ratings, Shawn Michaels-Bruce Prichard",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update – We just finished the Hall...",
+      "link": "https://www.f4wonline.com/news/daily-updates/daily-update-faa-shutdown-ends-aew-ratings-shawn-michaels-bruce-prichard/",
+      "t": "7h",
+      "dt": "2026-11-14T02:56:31+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
       "h": "Murphy’s Blog: AEW Full Gear Predictions – Will Kyle Fletcher beat Will Ospreay to win the AEW World Championship? Which team wins the Texas Death Match for the AEW Trios Titles?",
       "p": "By Don Murphy, ProWrestling.net Contributor... The post Murphy’s Blog: AEW Full Gear Predictions – Will Kyle Fletcher beat Will Ospreay to win the AEW World Championship? Which team wins the Texas...",
       "link": "https://prowrestling.net/site/2026/11/13/murphys-blog-aew-full-gear-predictions-will-kyle-fletcher-beat-will-ospreay-to-win-the-aew-world-championship-which-team-wins-the-texas-death-match-for-the-aew-trios-titles/",
-      "t": "2h",
+      "t": "10h",
       "dt": "2026-11-14T00:06:58+00:00"
     },
     {
@@ -24,7 +56,7 @@
       "h": "Exclusive: Mark Davis says competing in the AEW Blood & Guts match was a “completely different beast,” talks in-depth about his mindset during the match",
       "p": "AEW wrestler Mark Davis said wrestling in the Blood & Guts match on Dynamite on Nov. 4 was a “completely different beast” for him after wrestling for 20 years and never being in a steel [...]",
       "link": "https://www.pwtorch.com/site/2026/11/13/mark-davis-says-competing-in-the-aew-blood-guts-match-was-a-completely-different-beast-talks-in-depth-about-his-mindset-during-the-match/",
-      "t": "2h",
+      "t": "10h",
       "dt": "2026-11-14T00:03:45+00:00"
     },
     {
@@ -32,7 +64,7 @@
       "h": "AEW needs to make Kyle Fletcher their next top star | Opinion",
       "p": "Kyle Fletcher is the future. Watching the former TNT Champion’s back-and-forth promo battle with Will Ospreay this past Wednesday made me realize even more how bright Fletcher’s future is in...",
       "link": "https://www.f4wonline.com/news/aew/aew-needs-to-make-kyle-fletcher-their-next-top-star-opinion/",
-      "t": "2h",
+      "t": "10h",
       "dt": "2026-11-14T00:00:00+00:00"
     },
     {
@@ -40,7 +72,7 @@
       "h": "AEW Collision rating (11/7): How were the numbers with WWE Crown Jewel airing earlier in the day?",
       "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (11/7): How were the numbers with WWE Crown Jewel airing earlier in the day? appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/11/13/aew-collision-rating-11-7-how-were-the-numbers-with-wwe-crown-jewel-airing-earlier-in-the-day/",
-      "t": "2h",
+      "t": "10h",
       "dt": "2026-11-13T23:42:52+00:00"
     },
     {
@@ -48,7 +80,7 @@
       "h": "AEW Full Gear 2026 Predictions: Wrestling Inc. Picks The Winners",
       "p": "Ahead of AEW's 2026 installment of its Full Gear pay-per-view, here is who the Wrestling Inc. staff believe will emerge victorious this Saturday in Phoenix, AZ.",
       "link": "https://www.wrestlinginc.com/2316696/aew-full-gear-2026-predictions-winners/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-11-13T23:04:09+00:00"
     },
     {
@@ -56,7 +88,7 @@
       "h": "AEW Collision Viewership & Ratings Report: 11/7/2026",
       "p": "\"AEW Collision,\" held live from Chris Jericho's Rock 'N' Wrestling Rager at Sea, saw a big increase in viewership from the previous week's episode.",
       "link": "https://www.wrestlinginc.com/2316695/aew-collision-viewership-ratings-november-7-2026/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-11-13T23:03:05+00:00"
     },
     {
@@ -64,7 +96,7 @@
       "h": "AEW Full Gear 2026 preview & predictions: New Slang",
       "p": "A year ago, a lot of Saturday’s AEW Full Gear card would have read differently. Ilja Dragunov and Tommaso Ciampa were toiling away somewhere else. Kofi and Austin Creed were WWE lifers, universes...",
       "link": "https://www.f4wonline.com/news/aew/aew-full-gear-2026-preview/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-11-13T23:00:00+00:00"
     },
     {
@@ -72,40 +104,8 @@
       "h": "Flights Grounded At All US Airports, Potentially Impacting Weekend Wrestling Shows",
       "p": "The FAA issued a ground stop for all departing flights at all US airports on Friday, potentially impacting weekend wrestling shows like AEW Full Gear.",
       "link": "https://www.wrestlinginc.com/2316663/flights-grounded-faa-ground-stop-us-airports-weekend-wrestling/",
-      "t": "4h",
+      "t": "11h",
       "dt": "2026-11-13T22:21:54+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Full Gear 2026 could be impacted by FAA nationwide ground stop | Exclusive",
-      "p": "There could be some serious travel issues for talent trying to get to Arizona for AEW Full Gear 2026. On Friday, the FAA (Federal Aviation Administration) issued a rare notice grounding all...",
-      "link": "https://www.f4wonline.com/news/aew/aew-full-gear-2026-could-be-impacted-by-faa-nationwide-ground-stop-exclusive/",
-      "t": "4h",
-      "dt": "2026-11-13T21:59:25+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan Elaborates On His Confidence Level Working With Skydance",
-      "p": "AEW President Tony Khan elaborated further on his confidence level working with Skydance and its CEO, David Ellison, going forward.",
-      "link": "https://www.wrestlinginc.com/2316627/aew-skydance-tony-khan-elaborates-confidence-level/",
-      "t": "4h",
-      "dt": "2026-11-13T21:43:18+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 11/13 – WKH – The News: AEW Full Gear news and notes with a preview and predictions, Tony Khan talks new Skydance boss dynamic, Marina Shafir speaks on rise, ratings, attendance (34 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: Notes on AEW Full Gear ticket sales AEW Collision rating Various...",
-      "link": "https://www.pwtorch.com/site/2026/11/13/vip-podcast-11-13-wkh-the-news-aew-full-gear-news-and-notes-with-a-preview-and-predictions-tony-khan-talks-new-skydance-boss-dynamic-marina-shafir-speaks-on-rise-ratings-attendance-34-min/",
-      "t": "4h",
-      "dt": "2026-11-13T21:31:56+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 11/13 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: Kanner’s full preview of Full Gear + Tony Khan Media Q&A (91 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributor Gregg Kanner presents his solo preview of AEW Full Gear. From there, we present the full Tony Khan media...",
-      "link": "https://www.pwtorch.com/site/2026/11/13/free-podcast-11-13-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-kanners-full-preview-of-full-gear-tony-khan-media-qa-91-min/",
-      "t": "5h",
-      "dt": "2026-11-13T21:18:50+00:00"
     }
   ]
 }

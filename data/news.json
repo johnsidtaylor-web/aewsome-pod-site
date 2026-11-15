@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-14T21:26:07.228763+00:00",
+  "updated": "2026-11-15T01:51:02.774334+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "Wrestling Inc",
-      "h": "AEW Full Gear Results 11/14//26 W/ Live Updates",
-      "p": "This is Wrestling Inc.'s live blog for AEW Full Gear 2026, with several championships up for grabs & an Anarchy In The Arena Match among tonight's card!",
-      "link": "https://www.wrestlinginc.com/2316784/aew-full-gear-november-14-2026-results/",
-      "t": "26m",
-      "dt": "2026-11-14T21:00:00+00:00"
+      "h": "Kazuchika Okada Beats Adam Copeland, Retains AEW International Title At Full Gear 2026",
+      "p": "In a dream match that Adam Copeland has wanted, he came up short against Kazuchika Okada in a match for the International Championship at AEW Full Gear.",
+      "link": "https://www.wrestlinginc.com/2317009/aew-full-gear-2026-kazuchika-okada-adam-copeland-international-title/",
+      "t": "10m",
+      "dt": "2026-11-15T01:40:48+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Kazuchika Okada retains AEW International Championship against Adam Copeland at Full Gear",
+      "p": "Kazuchika Okada defeated Adam Copeland to retain the AEW International Championship in the opening match of Full Gear. The post Kazuchika Okada retains AEW International Championship against Adam...",
+      "link": "https://www.postwrestling.com/2026/11/14/kazuchika-okada-retains-aew-international-championship-against-adam-copeland-at-full-gear/",
+      "t": "11m",
+      "dt": "2026-11-15T01:39:28+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kazuchika Okada Def. Adam Copeland To Retain AEW International Title At Full Gear 2026",
+      "p": "Kazuchika Okada attacked Copeland post-match. Kicking off the in-ring action of the main card for AEW’s 2026 Full Gear pay-per-view was Kazuchika Okada defending the AEW International Championship...",
+      "link": "https://www.fightful.com/wrestling-news/kazuchika-okada-def-adam-copeland-to-retain-aew-international-title-at-full-gear-2026/",
+      "t": "13m",
+      "dt": "2026-11-15T01:37:31+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Queen Aminata retains TBS Championship to close out AEW Full Gear Tailgate Brawl",
+      "p": "Queen Aminata retained the TBS Championship in an impromptu four-way match to close AEW’s Full Gear Tailgate Brawl. The post Queen Aminata retains TBS Championship to close out AEW Full Gear...",
+      "link": "https://www.postwrestling.com/2026/11/14/queen-aminata-retains-tbs-championship-to-close-out-aew-full-gear-tailgate-brawl/",
+      "t": "39m",
+      "dt": "2026-11-15T01:11:27+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW FULL GEAR PPV RESULTS (11/14): Keller’s report on Ospreay vs. Fletcher, Mercedes vs. Shafir, Anarchy in the Arena, Young Bucks vs. Davis & Doyle",
+      "p": "AEW FULL GEAR NOVEMBER 14, 2026 PHOENIX, ARIZ. AT MORTGAGE MATCH-UP CENTER STREAMED LIVE ON PPV (including PPV.com) Attendance: WrestleTix reports 7,022 tickets distributed as of showtime, with a...",
+      "link": "https://www.pwtorch.com/site/2026/11/14/aew-full-gear-ppv-results-11-14-kellers-report-on-ospreay-vs-fletcher-mercedes-vs-shafir-anarchy-in-the-arena-young-bucks-vs-davis-doyle/",
+      "t": "43m",
+      "dt": "2026-11-15T01:07:16+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Kyle Fletcher Says Singles Success Came Faster Than He Expected",
-      "p": "Over the last several years, Kyle Fletcher has gone from being known as a tag team performer to one of AEW's top singles stars.",
-      "link": "https://www.wrestlinginc.com/2314642/aew-kyle-fletcher-singles-success-faster-expected/",
-      "t": "26m",
-      "dt": "2026-11-14T21:00:00+00:00"
+      "h": "Queen Aminata Retaining AEW TBS Title Headlines Full Gear 2026 Tailgate Brawl",
+      "p": "Travel issues impacted the Tailgate Brawl portion of AEW Full Gear 2026, but they didn't stop Queen Aminata from retaining her AEW TBS Championship.",
+      "link": "https://www.wrestlinginc.com/2316990/aew-full-gear-tailbate-brawl-queen-aminata-tbs-jack-perry-big-boom-aj/",
+      "t": "46m",
+      "dt": "2026-11-15T01:04:15+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan Confirms Status Of Wrestle Dynasty PPV With NJPW",
-      "p": "Tony Khan clarified whether there will be another AEW x NJPW Wrestle Dynasty event ahead of Full Gear this weekend.",
-      "link": "https://www.wrestlinginc.com/2316915/aew-njpw-tony-khan-confirms-status-wrestle-dynasty/",
+      "h": "AEW President Tony Khan Announces 2026 Continental Classic Start Date",
+      "p": "AEW President Tony Khan announced both the selection show and start date for the 2026 Continental Classic ahead of AEW Full Gear on Saturday.",
+      "link": "https://www.wrestlinginc.com/2316989/aew-tony-khan-2026-continental-classic-start-date-selection-special/",
+      "t": "47m",
+      "dt": "2026-11-15T01:03:40+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Queen Aminata Retains AEW TBS Title At AEW Full Gear Tailgate Brawl",
+      "p": "Queen Aminata remains the queen. Queen Aminata retained the AEW TBS Championship during AEW Full Gear Tailgate Brawl, defeating Hyan, Skye Blue, and Persephone in a four-way bout. The finish saw...",
+      "link": "https://www.fightful.com/wrestling-news/queen-aminata-retains-aew-tbs-title-at-aew-full-gear/",
+      "t": "47m",
+      "dt": "2026-11-15T01:02:59+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Wrestler misses AEW Full Gear Tailgate Brawl due to FAA grounding",
+      "p": "A match at Full Gear was changed due to travel issues. Originally, a three-way match for the TBS Championship was set, with Queen Aminata defending the title against Maya World and Persephone....",
+      "link": "https://www.f4wonline.com/news/aew/wrestler-misses-aew-full-gear-tailgate-brawl-due-to-faa-grounding/",
+      "t": "56m",
+      "dt": "2026-11-15T00:54:23+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW unveils redesigned World Trios Championship belts honoring PAC",
+      "p": "AEW has unveiled redesigned World Trios Championship belts featuring several tributes to the late Benjamin “PAC” Satterley. The post AEW unveils redesigned World Trios Championship belts honoring...",
+      "link": "https://www.postwrestling.com/2026/11/14/aew-unveils-redesigned-world-trios-championship-belts-honoring-pac/",
       "t": "1h",
-      "dt": "2026-11-14T20:17:19+00:00"
+      "dt": "2026-11-15T00:48:24+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Andrade El Idolo Says He Was Happy In AEW, Returned To WWE For 'Personal Reasons'",
-      "p": "Andrade El Idolo explained that while he was happy the first time in AEW, he made the jump back to WWE for \"personal reasons.\"",
-      "link": "https://www.wrestlinginc.com/2314302/andrade-el-idolo-happy-aew-returned-wwe-personal-reasons/",
+      "src": "POST Wrestling",
+      "h": "AEW Full Gear 2026 Review, Results & Analysis (LIVE TONIGHT)",
+      "p": "LIVE TONIGHT — John Pollock and Wai Ting review AEW Full Gear headlined by Will Ospreay defending his title against Kyle Fletcher. The post AEW Full Gear 2026 Review, Results & Analysis (LIVE...",
+      "link": "https://www.postwrestling.com/2026/11/14/aew-full-gear-2026-review-results-analysis/",
       "t": "1h",
-      "dt": "2026-11-14T19:30:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Clark Connors Speaks On What Pushed Him To Go To AEW After His NJPW Run",
-      "p": "Clark Connors talks about signing with AEW. At the start of this year, Clark Connors returned to AEW programming after signing with the promotion. He is currently part of The Cut stable. Speaking...",
-      "link": "https://www.fightful.com/wrestling-news/clark-connors-speaks-on-what-pushed-him-to-go-to-aew-after-his-njpw-run/",
-      "t": "2h",
-      "dt": "2026-11-14T18:50:31+00:00"
+      "dt": "2026-11-15T00:45:48+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Kyle Fletcher Credits AEW Original For Coming Up With Protostar Moniker",
-      "p": "Kyle Fletcher credits an AEW original and a former AEW/Ring of Honor producer for helping him come up with his \"Protostar\" moniker several years ago",
-      "link": "https://www.wrestlinginc.com/2314043/aew-kyle-fletcher-angelico-protostar-moniker/",
-      "t": "2h",
-      "dt": "2026-11-14T18:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Big Boom AJ And Big Justice Say They're Bringing The Boom To AEW Full Gear 2026",
-      "p": "\"Big Boom\" A.J. and Big Justice are ready to bring the \"BOOM\" to AEW Full Gear, should they find a flight to Phoenix before tonight's event.",
-      "link": "https://www.wrestlinginc.com/2316897/big-boom-aj-big-justice-aew-full-gear-2026/",
-      "t": "3h",
-      "dt": "2026-11-14T18:10:25+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Clark Connors Responds To Adam Page Comparisons: He Seems Sad All The Time And Gets Really Angry Easily, I’m Cool As Hell",
-      "p": "Clark Connors responds to Hangman Adam Page comparisons. Both Clark Connors and Adam Page are part of the AEW roster. Many fans online have pointed out similarities between both wrestlers....",
-      "link": "https://www.fightful.com/wrestling-news/clark-connors-responds-to-adam-page-comparisons-he-seems-sad-all-the-time-and-gets-really-angry-easily-im-cool-as-hell/",
-      "t": "3h",
-      "dt": "2026-11-14T18:07:26+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: Old School cred, AEW Full Gear, 946 & more",
-      "p": "It’s the Saturday Wrestling Observer Live with Jim Valley, ad-free and an hour early for our subscribers. While modern wrestling may be faster paced and often over the top, there are still plenty...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-old-school-cred-aew-full-gear-946-more/",
-      "t": "3h",
-      "dt": "2026-11-14T17:59:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Clark Connors Compares His First Year In AEW To His First Year In NJPW",
-      "p": "Clark Connors compares his first year in New Japan with All Elite Wrestling. Earlier this year, Clark Connors started appearing frequently on AEW programming after signing with the promotion. He...",
-      "link": "https://www.fightful.com/wrestling-news/clark-connors-compares-his-first-year-in-aew-to-his-first-year-in-njpw/",
-      "t": "3h",
-      "dt": "2026-11-14T17:43:38+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW using charter flights to get wrestlers to Full Gear | Exclusive",
-      "p": "Our Bryan Alvarez writes that some AEW wrestlers still have not made it to Phoenix, Arizona, for tonight’s Full Gear pay-per-view, but charter flights are being sent to pick them up. Alvarez...",
-      "link": "https://www.f4wonline.com/news/aew/aew-using-charter-flights-to-get-wrestlers-to-full-gear/",
-      "t": "4h",
-      "dt": "2026-11-14T17:22:33+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Full Gear 2026 betting odds see major shifts ahead of PPV",
-      "p": "Updated betting odds for AEW Full Gear on Saturday, November 14 are now available. Several of the odds for matches have seen swings since press time for the Wrestling Observer Newsletter. Will...",
-      "link": "https://www.f4wonline.com/news/aew/aew-full-gear-2026-updated-betting-odds/",
-      "t": "6h",
-      "dt": "2026-11-14T15:08:00+00:00"
+      "h": "Backstage Update On Former WWE Star Kairi's AEW Status Ahead Of Full Gear 2026",
+      "p": "There's been an update on former WWE star Kairi's status ahead of AEW Full Gear.",
+      "link": "https://www.wrestlinginc.com/2316984/wwe-kairi-sane-aew-full-gear-2026-tony-khan-visa/",
+      "t": "1h",
+      "dt": "2026-11-15T00:43:00+00:00"
     }
   ]
 }

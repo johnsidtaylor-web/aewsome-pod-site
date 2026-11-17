@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-17T13:15:42.350311+00:00",
+  "updated": "2026-11-17T22:17:00.880969+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -13,99 +13,99 @@
   "items": [
     {
       "src": "Wrestling Observer",
-      "h": "AEW and Mercedes Mone announced for collaboration with USA Wrestling women’s freestyle team",
-      "p": "AEW and Mercedes Mone have been announced to collaborate with USA Wrestling women’s freestyle team. The press release on Newswire stated that Mone’s involvement as Chief Executive Envoy is to...",
-      "link": "https://www.f4wonline.com/news/aew/aew-and-mercedes-mone-announced-for-collaboration-with-usa-wrestling-womens-freestyle-team/",
+      "h": "Update on ROH wrestler potentially being fired from AEW",
+      "p": "At least as of this moment, Cole Karter might still be employed by AEW. Fighftul Select reported on Monday that Karter was fired by AEW in recent weeks after he “was dishonest about a family issue...",
+      "link": "https://www.f4wonline.com/news/aew/update-on-roh-wrestler-potentially-being-fired-from-aew/",
       "t": "2m",
-      "dt": "2026-11-17T13:13:24+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOR: Continental Classic Finals Predictions, CM Punk’s WWE Future, RAW, and Adam Copeland Battles a Bear",
-      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the field for the Continental Classic and what the finals perhaps will be, Adam Copeland...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-continental-classic-finals-predictions-cm-punks-wwe-future-raw-and-adam-copeland-battles-a-bear/",
-      "t": "4h",
-      "dt": "2026-11-17T08:43:34+00:00"
+      "dt": "2026-11-17T22:14:15+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Mercedes Moné Named As Chief Executive Envoy To USA Wrestling Women’s Freestyle Team",
-      "p": "USA Wrestling and Mercedes Moné form a partnership. USA Wrestling pushed out the announcement that they’ve formed a partnership with AEW Women’s World Champion Mercedes Moné and media entrepreneur...",
-      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-named-as-chief-executive-envoy-to-usa-wrestling-womens-freestyle-team/",
-      "t": "8h",
-      "dt": "2026-11-17T04:59:22+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Continental Classic entrants and blocks revealed",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Continental Classic entrants and blocks revealed appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/16/aew-continental-classic-entrants-and-blocks-revealed-2/",
-      "t": "8h",
-      "dt": "2026-11-17T04:20:51+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "PAC’s wife pens emotional note two months after his passing",
-      "p": "Almost two months ago, AEW wrestler PAC passed away at the age of 40 and is survived by his wife, Natalie Satterley. PAC wed Natalie Satterley over a decade ago in 2015 and maintained a very...",
-      "link": "https://www.f4wonline.com/news/aew/pacs-wife-pens-emotional-note-two-months-after-his-passing/",
-      "t": "8h",
-      "dt": "2026-11-17T04:20:00+00:00"
+      "h": "RYZIN Details Decision To Retire In 2027, Says He Was Overwhelmed By The Reaction To His Initial Announcement",
+      "p": "RYZIN explains his decision to retire in 2027. The former WWE/AEW star announced his impending retirement earlier this week, noting that he’s choosing to focus on a new chapter of his career that...",
+      "link": "https://www.fightful.com/wrestling-news/ryzin-details-decision-to-retire-in-2027-says-he-was-overwhelmed-by-the-reaction-to-his-initial-announcement/",
+      "t": "16m",
+      "dt": "2026-11-17T22:00:19+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "AEW's Tony Khan Announces 2026 Continental Classic Tournament Participants",
-      "p": "Tony Khan announced the 2026 Continental Classic participants ahead of the tournament's kick-off during Wednesday's \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2318761/aew-tony-khan-2026-continental-classic-tournament-participants/",
-      "t": "9h",
-      "dt": "2026-11-17T03:50:03+00:00"
+      "h": "Late AEW Star Pac Appears To Get Tribute Feature In Video Game",
+      "p": "Late AEW star PAC appears to have been given a tribute feature in a video game.",
+      "link": "https://www.wrestlinginc.com/2319936/aew-pac-video-game-tribute-feature-foxhole-burst-launcher/",
+      "t": "29m",
+      "dt": "2026-11-17T21:47:39+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 11/17 – WKH – The News: Reaction to this year’s AEW Continental Classic field, Halloween Havoc ratings, Collision vs. Dynamite viewership last week, big new WWE project, more (22 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: Reaction to this year’s AEW Continental Classic field NXT...",
+      "link": "https://www.pwtorch.com/site/2026/11/17/vip-podcast-11-17-wkh-the-news-reaction-to-this-years-aew-continental-classic-field-halloween-havoc-ratings-collision-vs-dynamite-viewership-last-week-big-new-wwe-project-more-22-min/",
+      "t": "1h",
+      "dt": "2026-11-17T21:00:40+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 11/17 – PWTorch Dailycast – Destination Impact: Zac & JB review TNA’s Destination X including changes made due to travel issues, plus last week’s Impact and storyline predictions, more (97 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: Reaction to this year’s AEW Continental Classic field NXT...",
+      "link": "https://www.pwtorch.com/site/2026/11/17/free-podcast-11-17-pwtorch-dailycast-destination-impact-zac-jb-review-tnas-destination-x-including-changes-made-due-to-travel-issues-plus-last-weeks-impact-and-story/",
+      "t": "1h",
+      "dt": "2026-11-17T20:50:46+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "AEW reveals lineups for this year’s Continental Classic tournament",
-      "p": "The participants for this year’s AEW Continental Classic and the blue and gold league look stacked. AEW President Tony Khan announced this year’s complete lineup on the 2026 AEW Continental...",
-      "link": "https://www.f4wonline.com/news/aew/aew-reveals-lineups-for-this-years-continental-classic-tournament/",
-      "t": "9h",
-      "dt": "2026-11-17T03:31:48+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Full lineup revealed for 2026 AEW Continental Classic",
-      "p": "The fourth annual AEW Continental Classic features four tournament newcomers, along with defending champ Jon Moxley. The post Full lineup revealed for 2026 AEW Continental Classic appeared first...",
-      "link": "https://www.postwrestling.com/2026/11/16/full-lineup-revealed-for-2026-aew-continental-classic/",
-      "t": "9h",
-      "dt": "2026-11-17T03:23:31+00:00"
+      "h": "The Young Bucks envisioned AEW as ‘PWG on illegal steroids’",
+      "p": "AEW has lived up to the original vision The Young Bucks had for the promotion. In a new video on the Being the Elite YouTube channel, Matt & Nick Jackson took part in a Q&A where they answered a...",
+      "link": "https://www.f4wonline.com/news/aew/the-young-bucks-envisioned-aew-as-pwg-on-illegal-steroids/",
+      "t": "1h",
+      "dt": "2026-11-17T20:23:58+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Tony Khan Talks Possibility Of More AEW Tournaments Similar To Continental Classic",
-      "p": "AEW President Tony Khan spoke about the possibility of adding more tournaments similar to the Continental Classic to the company's yearly lineup.",
-      "link": "https://www.wrestlinginc.com/2318728/tony-khan-aew-tournaments-continental-classic/",
-      "t": "11h",
-      "dt": "2026-11-17T01:28:44+00:00"
+      "h": "Backstage Update On Incident Involving MJF Kicking Fan At AEW Full Gear 2026",
+      "p": "MJF returned to AEW at Full Gear 2026 and attacked Will Ospreay from behind. As he was fleeing, MJF accidentally kicked a fan in the face.",
+      "link": "https://www.wrestlinginc.com/2319702/aew-full-gear-2026-incident-mjf-kicking-fan/",
+      "t": "2h",
+      "dt": "2026-11-17T19:50:21+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Anthony Bowens discusses planned Billy & Chuck reunion in AEW",
-      "p": "Billy Gunn and Chuck Palumbo are not a gay couple, but they played one on TV. Anthony Bowens is a gay man who’s on TV, but his sexuality is rarely mentioned. Four years ago, the three of them were...",
-      "link": "https://www.f4wonline.com/news/aew/anthony-bowens-discusses-planned-billy-chuck-reunion-in-aew/",
-      "t": "11h",
-      "dt": "2026-11-17T01:26:31+00:00"
+      "h": "Tony Khan addresses whether AEW Blood & Guts could ever become a PPV",
+      "p": "It doesn’t sound like Tony Khan has any intention of changing AEW Blood & Guts from a TV special into its own pay-per-view. Coming off the ratings success of Blood & Guts 2026, Khan appeared on...",
+      "link": "https://www.f4wonline.com/news/aew/tony-khan-addresses-whether-aew-blood-guts-could-ever-become-a-ppv/",
+      "t": "2h",
+      "dt": "2026-11-17T19:27:19+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Several WWE wrestlers took a jet to make it to Raw",
-      "p": "The travel woes for wrestlers continue. Following Friday’s brief FAA ground stop, promotions across professional wrestling had to deal with the aftereffects, including AEW and TNA. WWE also had...",
-      "link": "https://www.f4wonline.com/news/wwe/several-wwe-wrestlers-took-a-jet-to-make-it-to-wwe-raw/",
-      "t": "12h",
-      "dt": "2026-11-17T01:09:41+00:00"
+      "src": "Fightful",
+      "h": "Deonna Purrazzo On What It Would Take For Her To Do A Blood & Guts Match In AEW",
+      "p": "Deonna Purrazzo wants to tell stories. Many fans believe that the women outshined the men when it comes to this year’s Blood & Guts matches. The match pitted Megan Bayne, Thekla, Skye Blue, Julia...",
+      "link": "https://www.fightful.com/wrestling-news/deonna-purrazzo-on-what-it-would-take-for-her-to-do-a-blood-guts-match-in-aew/",
+      "t": "3h",
+      "dt": "2026-11-17T19:13:24+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW RISING AND FADING STARS: Kline’s asessment of Mercedes Mone, Brawling Birds, Nick Wayne, and a wildcard factor in AEW",
+      "p": "Welcome everyone! Another PPV is in the books and for the third PPV in a row I would give this one a thumbs in the middle to a slight thumbs up. I don’t know what [...]",
+      "link": "https://www.pwtorch.com/site/2026/11/17/aew-rising-and-fading-stars-klines-asessment-of-mercedes-mone-brawling-birds-nick-wayne-and-a-wildcard-factor-in-aew/",
+      "t": "3h",
+      "dt": "2026-11-17T19:08:20+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "Backstage Report On Kasper Brothers (FKA Creed Brothers) Leaving WWE For AEW",
-      "p": "A backstage update revealed more on the Kasper Brothers, the former Creeds in WWE, leaving the company ahead of their AEW Full Gear debut.",
-      "link": "https://www.wrestlinginc.com/2318682/wwe-aew-kasper-creed-brothers-backstage-report-leaving/",
-      "t": "13h",
-      "dt": "2026-11-16T23:58:25+00:00"
+      "h": "AEW Source Pushes Back On Report Of Cole Karter Being Fired",
+      "p": "On Monday, it was reported that AEW had fired ROH's Cole Karter. An AEW source has pushed back on the original report with different information.",
+      "link": "https://www.wrestlinginc.com/2319578/aew-cole-karter-source-pushes-back-report-fired/",
+      "t": "3h",
+      "dt": "2026-11-17T18:42:39+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "USA Wrestling Announces Collaboration With AEW, Mercedes Mone Ahead Of 2028 Olympics",
+      "p": "USA Wrestling announced a collaboration with AEW and Women's World Champion Mercedes Mone ahead of the 2028 Olympics in Los Angeles.",
+      "link": "https://www.wrestlinginc.com/2319442/usa-wrestling-collaboration-aew-mercedes-mone-2028-olympics/",
+      "t": "4h",
+      "dt": "2026-11-17T17:53:22+00:00"
     }
   ]
 }

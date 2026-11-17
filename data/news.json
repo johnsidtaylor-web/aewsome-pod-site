@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:47:06.860830+00:00",
+  "updated": "2026-11-17T13:15:42.350311+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -13,10 +13,58 @@
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "AEW and Mercedes Mone announced for collaboration with USA Wrestling women’s freestyle team",
+      "p": "AEW and Mercedes Mone have been announced to collaborate with USA Wrestling women’s freestyle team. The press release on Newswire stated that Mone’s involvement as Chief Executive Envoy is to...",
+      "link": "https://www.f4wonline.com/news/aew/aew-and-mercedes-mone-announced-for-collaboration-with-usa-wrestling-womens-freestyle-team/",
+      "t": "2m",
+      "dt": "2026-11-17T13:13:24+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOR: Continental Classic Finals Predictions, CM Punk’s WWE Future, RAW, and Adam Copeland Battles a Bear",
+      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including the field for the Continental Classic and what the finals perhaps will be, Adam Copeland...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-continental-classic-finals-predictions-cm-punks-wwe-future-raw-and-adam-copeland-battles-a-bear/",
+      "t": "4h",
+      "dt": "2026-11-17T08:43:34+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Mercedes Moné Named As Chief Executive Envoy To USA Wrestling Women’s Freestyle Team",
+      "p": "USA Wrestling and Mercedes Moné form a partnership. USA Wrestling pushed out the announcement that they’ve formed a partnership with AEW Women’s World Champion Mercedes Moné and media entrepreneur...",
+      "link": "https://www.fightful.com/wrestling-news/mercedes-mone-named-as-chief-executive-envoy-to-usa-wrestling-womens-freestyle-team/",
+      "t": "8h",
+      "dt": "2026-11-17T04:59:22+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Continental Classic entrants and blocks revealed",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Continental Classic entrants and blocks revealed appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/16/aew-continental-classic-entrants-and-blocks-revealed-2/",
+      "t": "8h",
+      "dt": "2026-11-17T04:20:51+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "PAC’s wife pens emotional note two months after his passing",
+      "p": "Almost two months ago, AEW wrestler PAC passed away at the age of 40 and is survived by his wife, Natalie Satterley. PAC wed Natalie Satterley over a decade ago in 2015 and maintained a very...",
+      "link": "https://www.f4wonline.com/news/aew/pacs-wife-pens-emotional-note-two-months-after-his-passing/",
+      "t": "8h",
+      "dt": "2026-11-17T04:20:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Khan Announces 2026 Continental Classic Tournament Participants",
+      "p": "Tony Khan announced the 2026 Continental Classic participants ahead of the tournament's kick-off during Wednesday's \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2318761/aew-tony-khan-2026-continental-classic-tournament-participants/",
+      "t": "9h",
+      "dt": "2026-11-17T03:50:03+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "AEW reveals lineups for this year’s Continental Classic tournament",
       "p": "The participants for this year’s AEW Continental Classic and the blue and gold league look stacked. AEW President Tony Khan announced this year’s complete lineup on the 2026 AEW Continental...",
       "link": "https://www.f4wonline.com/news/aew/aew-reveals-lineups-for-this-years-continental-classic-tournament/",
-      "t": "15m",
+      "t": "9h",
       "dt": "2026-11-17T03:31:48+00:00"
     },
     {
@@ -24,23 +72,15 @@
       "h": "Full lineup revealed for 2026 AEW Continental Classic",
       "p": "The fourth annual AEW Continental Classic features four tournament newcomers, along with defending champ Jon Moxley. The post Full lineup revealed for 2026 AEW Continental Classic appeared first...",
       "link": "https://www.postwrestling.com/2026/11/16/full-lineup-revealed-for-2026-aew-continental-classic/",
-      "t": "23m",
+      "t": "9h",
       "dt": "2026-11-17T03:23:31+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Continental Classic 2026 Participants Announced",
-      "p": "The field is set for the 2026 AEW Continental Classic. The round robin tournament will begin on the November 18th episode of AEW Dynamite and conclude at AEW Worlds End with the new Continental...",
-      "link": "https://www.fightful.com/wrestling-news/aew-continental-classic-2026-participants-announced/",
-      "t": "38m",
-      "dt": "2026-11-17T03:08:31+00:00"
     },
     {
       "src": "Wrestling Inc",
       "h": "Tony Khan Talks Possibility Of More AEW Tournaments Similar To Continental Classic",
       "p": "AEW President Tony Khan spoke about the possibility of adding more tournaments similar to the Continental Classic to the company's yearly lineup.",
       "link": "https://www.wrestlinginc.com/2318728/tony-khan-aew-tournaments-continental-classic/",
-      "t": "2h",
+      "t": "11h",
       "dt": "2026-11-17T01:28:44+00:00"
     },
     {
@@ -48,7 +88,7 @@
       "h": "Anthony Bowens discusses planned Billy & Chuck reunion in AEW",
       "p": "Billy Gunn and Chuck Palumbo are not a gay couple, but they played one on TV. Anthony Bowens is a gay man who’s on TV, but his sexuality is rarely mentioned. Four years ago, the three of them were...",
       "link": "https://www.f4wonline.com/news/aew/anthony-bowens-discusses-planned-billy-chuck-reunion-in-aew/",
-      "t": "2h",
+      "t": "11h",
       "dt": "2026-11-17T01:26:31+00:00"
     },
     {
@@ -56,7 +96,7 @@
       "h": "Several WWE wrestlers took a jet to make it to Raw",
       "p": "The travel woes for wrestlers continue. Following Friday’s brief FAA ground stop, promotions across professional wrestling had to deal with the aftereffects, including AEW and TNA. WWE also had...",
       "link": "https://www.f4wonline.com/news/wwe/several-wwe-wrestlers-took-a-jet-to-make-it-to-wwe-raw/",
-      "t": "2h",
+      "t": "12h",
       "dt": "2026-11-17T01:09:41+00:00"
     },
     {
@@ -64,48 +104,8 @@
       "h": "Backstage Report On Kasper Brothers (FKA Creed Brothers) Leaving WWE For AEW",
       "p": "A backstage update revealed more on the Kasper Brothers, the former Creeds in WWE, leaving the company ahead of their AEW Full Gear debut.",
       "link": "https://www.wrestlinginc.com/2318682/wwe-aew-kasper-creed-brothers-backstage-report-leaving/",
-      "t": "3h",
+      "t": "13h",
       "dt": "2026-11-16T23:58:25+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Full Gear match producers",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Full Gear match producers appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/16/aew-full-gear-match-producers/",
-      "t": "4h",
-      "dt": "2026-11-16T23:38:44+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Adam Copeland Reportedly Had Scuffle With Wild Animal Ahead Of Full Gear Match",
-      "p": "Adam Copeland reportedly fought a wild animal prior to AEW Full Gear on Saturday.",
-      "link": "https://www.wrestlinginc.com/2318643/aew-full-gear-adam-copeland-scuffle-wild-animal-bear/",
-      "t": "4h",
-      "dt": "2026-11-16T23:07:48+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Juice Robinson Reportedly Expected To Take Time Off From AEW",
-      "p": "AEW star Juice Robinson is reportedly expected to take some time off the company.",
-      "link": "https://www.wrestlinginc.com/2318638/aew-juice-robinson-reportedly-expected-time-off-november-2026/",
-      "t": "4h",
-      "dt": "2026-11-16T23:04:41+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Report: ROH wrestler fired from AEW after being ‘dishonest’ about family issue",
-      "p": "Cole Karter, who wrestled in Ring of Honor as a member of the Frat House, has reportedly been fired from AEW under some pretty unique circumstances. Fightful Select reports that Karter was fired...",
-      "link": "https://www.f4wonline.com/news/aew/report-roh-wrestler-fired-from-aew-after-being-dishonest-about-family-issue/",
-      "t": "5h",
-      "dt": "2026-11-16T21:55:51+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: AEW announces Arlington residency, weekend recap & more",
-      "p": "Jack Wannan recaps this weekend’s top wrestling & MMA events, news on AEW’s next residency, plus what to expect in tonight’s busy TV slate. Available for Double Double & Espresso members at...",
-      "link": "https://www.postwrestling.com/2026/11/16/post-news-aew-announces-arlington-residency-weekend-recap-more/",
-      "t": "6h",
-      "dt": "2026-11-16T21:23:04+00:00"
     }
   ]
 }

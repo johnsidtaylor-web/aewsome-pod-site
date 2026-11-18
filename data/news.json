@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T04:13:47.423304+00:00",
+  "updated": "2026-11-18T13:02:59.517232+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
@@ -7,16 +7,96 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (5 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite and WWE Evolve coverage, last week’s Dynamite and Collision grade, Taiyo Kea, Tomoaki Honma, Buggy Nova, Yoshiki Inamura, Yuya Uemura, Koichiro Kimura",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite and WWE Evolve coverage, last week’s Dynamite and Collision grade, Taiyo Kea, Tomoaki Honma, Buggy Nova, Yoshiki Inamura, Yuya...",
+      "link": "https://prowrestling.net/site/2026/11/18/aew-dynamite-and-wwe-evolve-coverage-last-weeks-dynamite-and-collision-grade-taiyo-kea-tomoaki-honma-buggy-nova-yoshiki-inamura-yuya-uemura-koichiro-kimura/",
+      "t": "2m",
+      "dt": "2026-11-18T13:00:40+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (11/18)",
+      "p": "Viewing information and lineup for AEW Dynamite on November 18, 2026. AEW Dynamite (November 18, 2026) Venue: Mission Ballroom City: Denver, CO Time: 8pm ET Channel: TBS, Max Lineup Jack Perry vs....",
+      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-11-18/",
+      "t": "2m",
+      "dt": "2026-11-18T13:00:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Big Boom AJ Reveals He Was On The Same Private Plane As Kasper Brothers To AEW Full Gear",
+      "p": "Big Boom AJ details travel issues to AEW Full Gear. Due to the FAA grounding flights on Friday, there were a number of travel issues with talent getting to AEW Full Gear in Phoenix, AZ on...",
+      "link": "https://www.fightful.com/wrestling-news/big-boom-aj-reveals-he-was-on-the-same-private-plane-as-kasper-brothers-to-aew-full-gear/",
+      "t": "27m",
+      "dt": "2026-11-18T12:35:07+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Tony Schiavone on AEW deathmatch spots: “Where is the line? I don’t know that we found it yet. I don’t know that it even exists.”",
+      "p": "AEW commentator Tony Schiavone recently reacted to the ‘blood drinking’ spot from the Trios Deathmatch at AEW Full Gear 2026. Speaking on his What Happened When podcast, Schiavone would refer to...",
+      "link": "https://www.f4wonline.com/news/aew/tony-schiavone-aew-deathmatch-spots-where-is-the-line/",
+      "t": "42m",
+      "dt": "2026-11-18T12:20:36+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Start Time Tonight (11-18-2026)",
+      "p": "AEW Dynamite takes place tonight from the Mission Ballroom in Denver, CO with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. Maxwell Jacob Friedman will be appearing on tonight’s show...",
+      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-11-18-2026/",
+      "t": "4h",
+      "dt": "2026-11-18T08:38:26+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Preview: Confirmed matches and segments (11-18-2026)",
+      "p": "AEW Dynamite takes place tonight from the Mission Ballroom in Denver, CO, and several matches and segments have been confirmed for the broadcast. Tonight’s show will feature the fallout from the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-11-18-2026/",
+      "t": "4h",
+      "dt": "2026-11-18T08:25:42+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jeff Jarrett explains why he missed AEW Full Gear",
+      "p": "Just hours before AEW Full Gear, the entire USA was hit with FAA-related travel disruptions. The FAA-related travel disruptions affected WWE shows, TNA Destination X, and even AEW Full Gear, which...",
+      "link": "https://www.f4wonline.com/news/aew/jeff-jarrett-explains-why-he-missed-aew-full-gear/",
+      "t": "5h",
+      "dt": "2026-11-18T07:35:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW FEUD TRACKER: Full Gear developments with Ospreay, The Cut, Mercedes, Swerve, a deepening tag division, more",
+      "p": "HOUSEKEEPING • AEW announced a Collision residency at the former Esports Stadium in Arlington, TX in January. AEW previously held a Collision residency at this venue two years ago. INTRO Full Gear...",
+      "link": "https://www.pwtorch.com/site/2026/11/18/aew-feud-tracker-full-gear-developments-with-ospreay-the-cut-mercedes-swerve-a-deepening-tag-division-more/",
+      "t": "6h",
+      "dt": "2026-11-18T06:04:30+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "11/17 Wade Keller Pro Wrestling Podcast: Powell and Keller on weird John Cena, the AEW Continental Classic, WWE Survivor Series, AEW Full Gear",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post 11/17 Wade Keller Pro Wrestling Podcast: Powell and Keller on weird John Cena, the AEW Continental Classic, WWE Survivor Series, AEW Full Gear...",
+      "link": "https://prowrestling.net/site/2026/11/17/11-17-wade-keller-pro-wrestling-podcast-powell-and-keller-on-weird-john-cena-the-aew-continental-classic-wwe-survivor-series-aew-full-gear/",
+      "t": "8h",
+      "dt": "2026-11-18T04:56:30+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 11/17 – Everything with Rich & Wade: Bill Watts Torch Talk controversy, Rock’s 30th Anniversary, Weird John Cena, AEW Continental Classic, Cody & Punk, The 946, Kasper Brothers (120 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: A look back Bill Watts and the controversy that ultimately cost him...",
+      "link": "https://www.pwtorch.com/site/2026/11/17/vip-podcast-11-17-everything-with-rich-wade-bill-watts-torch-talk-controversy-rocks-30th-anniversary-weird-john-cena-aew-continental-classic-cody-punk-the-946-kasper-brothers-120-min/",
+      "t": "8h",
+      "dt": "2026-11-18T04:42:16+00:00"
+    },
     {
       "src": "PWTorch",
       "h": "FREE PODCAST 11/17 – WKPWP Tuesday Flagship: Keller & Powell talk Weird John Cena, AEW Continental Classic, Punk-Cody dynamic, Survivor Series, Full Gear, Rule Enforcement, more (114 min.)",
       "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Jason Powell from ProWrestling.net. They discuss these...",
       "link": "https://www.pwtorch.com/site/2026/11/17/free-podcast-11-17-wkpwp-tuesday-flagship-keller-powell-talk-weird-john-cena-aew-continental-classic-punk-cody-dynamic-survivor-series-full-gear-rule-enforcement-more-114-min/",
-      "t": "13m",
+      "t": "9h",
       "dt": "2026-11-18T04:00:13+00:00"
     },
     {
@@ -24,88 +104,8 @@
       "h": "Report: Update on Anthony Bowens’ AEW future",
       "p": "Anthony Bowens is reportedly set to continue with AEW. After the Kasper (Creed) Brothers made their AEW debut at Full Gear, rumors also emerged about Sheamus and Kairi Sane becoming All Elite in...",
       "link": "https://www.f4wonline.com/news/aew/report-update-on-anthony-bowens-aew-future/",
-      "t": "13m",
+      "t": "9h",
       "dt": "2026-11-18T04:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Big Vinny V Show: TNA Destination X may have been the sleeper show of the year",
-      "p": "This past weekend’s TNA Destination X was lost in the shadow of AEW Full Gear, and then lost gobs of talent due to the USA’s travel nightmares last week. Yet through it all, they came out with...",
-      "link": "https://www.f4wonline.com/podcasts/big-vinny-v-show/big-vinny-v-show-tna-destination-x-may-have-been-the-sleeper-show-of-the-year/",
-      "t": "1h",
-      "dt": "2026-11-18T03:03:58+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "TBS title match, Continental Classic bouts announced for this week’s AEW Dynamite",
-      "p": "Tony Khan has announced several high-stakes matches for this week’s AEW Dynamite. With just hours left until this week’s AEW Dynamite on Nov. 18, 2026, Khan announced a few initial Continental...",
-      "link": "https://www.f4wonline.com/news/aew/tbs-title-match-continental-classic-bouts-announced-for-this-weeks-aew-dynamite/",
-      "t": "1h",
-      "dt": "2026-11-18T03:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Update On Anthony Bowens/AEW Relationship",
-      "p": "A new report offered an update on the potential AEW status of Anthony Bowens.",
-      "link": "https://www.wrestlinginc.com/2320102/update-aew-anthony-bowens-relationship/",
-      "t": "3h",
-      "dt": "2026-11-18T01:11:33+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Anthony Bowens Expected To Remain With AEW",
-      "p": "Anthony Bowens is expected to remain with AEW. Per Fightful Select, former AEW World Tag Team Champion and World Trios Champion Anthony Bowens is expected to remain with All Elite Wrestling....",
-      "link": "https://www.fightful.com/wrestling-news/anthony-bowens-expected-to-remain-with-aew/",
-      "t": "3h",
-      "dt": "2026-11-18T01:11:30+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Continental Classic Matches, TBS Title Four-Way Announced For 11/18 AEW Dynamite",
-      "p": "The former Trios Champions Hangman Adam Page and Bandido will clash in a Continental Classic bout. Coming up on November 18th is the start of AEW’s Continental Classic tournament. Three tournament...",
-      "link": "https://www.fightful.com/wrestling-news/continental-classic-matches-tbs-title-four-way-announced-for-11-18-aew-dynamite/",
-      "t": "3h",
-      "dt": "2026-11-18T01:07:08+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Nick Jackson Says Vision For AEW Was 'PWG On Illegal Steroids'",
-      "p": "During the latest edition of \"Being the Elite,\" Nick Jackson commented that the vision for AEW was \"PWG on illegal steroids.\"",
-      "link": "https://www.wrestlinginc.com/2320026/nick-jackson-young-bucks-aew-vision-pwg-illegal-steroids/",
-      "t": "5h",
-      "dt": "2026-11-17T23:06:50+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Handicapping the 2026 AEW Continental Classic | Big Vinny V",
-      "p": "The rosters for the 2026 AEW Continental Classic have been revealed, and at first glance, it seems pretty obvious how things are going to go down. Will the favorites reach the finals, or will...",
-      "link": "https://www.f4wonline.com/opinion/handicapping-the-2026-aew-continental-classic/",
-      "t": "5h",
-      "dt": "2026-11-17T22:23:19+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on ROH wrestler potentially being fired from AEW",
-      "p": "At least as of this moment, Cole Karter might still be employed by AEW. Fighftul Select reported on Monday that Karter was fired by AEW in recent weeks after he “was dishonest about a family issue...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-roh-wrestler-potentially-being-fired-from-aew/",
-      "t": "5h",
-      "dt": "2026-11-17T22:14:15+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Late AEW Star Pac Appears To Get Tribute Feature In Video Game",
-      "p": "Late AEW star PAC appears to have been given a tribute feature in a video game.",
-      "link": "https://www.wrestlinginc.com/2319936/aew-pac-video-game-tribute-feature-foxhole-burst-launcher/",
-      "t": "6h",
-      "dt": "2026-11-17T21:47:39+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 11/17 – WKH – The News: Reaction to this year’s AEW Continental Classic field, Halloween Havoc ratings, Collision vs. Dynamite viewership last week, big new WWE project, more (22 min.)",
-      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: Reaction to this year’s AEW Continental Classic field NXT...",
-      "link": "https://www.pwtorch.com/site/2026/11/17/vip-podcast-11-17-wkh-the-news-reaction-to-this-years-aew-continental-classic-field-halloween-havoc-ratings-collision-vs-dynamite-viewership-last-week-big-new-wwe-project-more-22-min/",
-      "t": "7h",
-      "dt": "2026-11-17T21:00:40+00:00"
     }
   ]
 }

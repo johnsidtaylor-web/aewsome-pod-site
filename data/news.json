@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-18T13:02:59.517232+00:00",
+  "updated": "2026-11-18T21:23:01.569815+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (2 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (3 AEW items)",
+    "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite and WWE Evolve coverage, last week’s Dynamite and Collision grade, Taiyo Kea, Tomoaki Honma, Buggy Nova, Yoshiki Inamura, Yuya Uemura, Koichiro Kimura",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite and WWE Evolve coverage, last week’s Dynamite and Collision grade, Taiyo Kea, Tomoaki Honma, Buggy Nova, Yoshiki Inamura, Yuya...",
-      "link": "https://prowrestling.net/site/2026/11/18/aew-dynamite-and-wwe-evolve-coverage-last-weeks-dynamite-and-collision-grade-taiyo-kea-tomoaki-honma-buggy-nova-yoshiki-inamura-yuya-uemura-koichiro-kimura/",
-      "t": "2m",
-      "dt": "2026-11-18T13:00:40+00:00"
+      "src": "Wrestling Inc",
+      "h": "Kenny Omega Promises To Prioritize NJPW Over AEW If He Wins IWGP Heavyweight Title",
+      "p": "Kenny Omega has promised to prioritize NJPW over AEW if he wins the IWGP Heavyweight Championship at Wrestle Kingdom 21.",
+      "link": "https://www.wrestlinginc.com/2321160/kenny-omega-njpw-aew-iwgp-heavyweight-title-prioritize/",
+      "t": "3m",
+      "dt": "2026-11-18T21:19:04+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Mercedes Moné segment added to tonight’s AEW Dynamite",
+      "p": "AEW has announced a segment involving Women’s World Champion Mercedes Moné for tonight’s episode of Dynamite. Moné will hold another championship celebration on the show, which takes place at the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-announces-mercedes-mone-plans-dynamite/",
+      "t": "9m",
+      "dt": "2026-11-18T21:12:55+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "POST NEWS: Bill Watts, All In ‘discussed’ for Toronto & The Rock added to Survivor Series",
+      "p": "Jack Wannan recaps the news for Wednesday, including news on AEW All In 2027, the passing of Cowboy Bill Watts, NJPW’s latest signing & more. The post POST NEWS: Bill Watts, All In ‘discussed’ for...",
+      "link": "https://www.postwrestling.com/2026/11/18/post-news-bill-watts-all-in-discussed-for-toronto-the-rock-added-to-survivor-series/",
+      "t": "10m",
+      "dt": "2026-11-18T21:12:10+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Backstage News On Potential Location For AEW All In 2027",
+      "p": "There's reportedly been discussions in AEW over where the next All In event should be held.",
+      "link": "https://www.wrestlinginc.com/2321083/aew-all-in-2027-location-toronto-canada-adam-copeland/",
+      "t": "47m",
+      "dt": "2026-11-18T20:35:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Potential location for AEW All In 2027 revealed",
+      "p": "AEW could be bringing its biggest show of the year to Canada in 2027. Fightful Select reports that Toronto, Ontario, Canada is being discussed internally within AEW as a potential location for...",
+      "link": "https://www.f4wonline.com/news/aew/potential-location-for-aew-all-in-2027-revealed/",
+      "t": "1h",
+      "dt": "2026-11-18T19:33:01+00:00"
     },
     {
       "src": "Fightful",
-      "h": "AEW Dynamite Preview, Start Time, How To Watch, Location (11/18)",
-      "p": "Viewing information and lineup for AEW Dynamite on November 18, 2026. AEW Dynamite (November 18, 2026) Venue: Mission Ballroom City: Denver, CO Time: 8pm ET Channel: TBS, Max Lineup Jack Perry vs....",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-preview-start-time-how-to-watch-location-11-18/",
-      "t": "2m",
-      "dt": "2026-11-18T13:00:00+00:00"
+      "h": "Toronto Discussed As Potential Landing Spot For AEW All In 2027",
+      "p": "Details on AEW All In 2027. Fightful Select reports, “Toronto is being discussed as a potential landing point for AEW All In 2027. The promotion would likely be around Adam Copeland’s final...",
+      "link": "https://www.fightful.com/wrestling-news/toronto-discussed-as-potential-landing-spot-for-aew-all-in-2027/",
+      "t": "2h",
+      "dt": "2026-11-18T19:10:19+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Report: Toronto ‘discussed’ as potential spot for AEW All In 2027",
+      "p": "AEW is reportedly discussing the possibility of bringing All In to Toronto, Ontario, Canada in 2027, although nothing has been finalized. The post Report: Toronto ‘discussed’ as potential spot for...",
+      "link": "https://www.postwrestling.com/2026/11/18/report-toronto-discussed-as-potential-spot-for-aew-all-in-2027/",
+      "t": "2h",
+      "dt": "2026-11-18T19:08:29+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (11/18): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, NOVEMBER 18, 2026 Where: DENVER, COLO. AT MISSION BALLROOM How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 794 tickets had been...",
+      "link": "https://www.pwtorch.com/site/2026/11/18/aew-dynamite-preview-11-18-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "2h",
+      "dt": "2026-11-18T19:04:52+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Chris Jericho thinks AEW ‘should at least try’ to do more with Sammy Guevara",
+      "p": "Chris Jericho is still a believer in Sammy Guevara and would like to see him get more of an opportunity on AEW programming. Once considered one of the young pillars of the AEW roster, Guevara’s...",
+      "link": "https://www.f4wonline.com/news/aew/chris-jericho-thinks-aew-should-at-least-try-to-do-more-with-sammy-guevara/",
+      "t": "2h",
+      "dt": "2026-11-18T18:34:12+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Big Boom AJ Reveals He Was On The Same Private Plane As Kasper Brothers To AEW Full Gear",
-      "p": "Big Boom AJ details travel issues to AEW Full Gear. Due to the FAA grounding flights on Friday, there were a number of travel issues with talent getting to AEW Full Gear in Phoenix, AZ on...",
-      "link": "https://www.fightful.com/wrestling-news/big-boom-aj-reveals-he-was-on-the-same-private-plane-as-kasper-brothers-to-aew-full-gear/",
-      "t": "27m",
-      "dt": "2026-11-18T12:35:07+00:00"
+      "h": "Kenny Omega States That If He Wins IWGP Heavyweight Title, His NJPW Matches Will Be Prioritized Over AEW Schedule",
+      "p": "Kenny Omega will be prioritizing NJPW if he regains the top belt. It is official that at Wrestle Kingdom 21, Kenny Omega will challenge Yota Tsuji for the IWGP Heavyweight Championship....",
+      "link": "https://www.fightful.com/wrestling-news/kenny-omega-states-that-if-he-wins-iwgp-heavyweight-title-his-njpw-matches-will-be-prioritized-over-aew-schedule/",
+      "t": "3h",
+      "dt": "2026-11-18T17:51:46+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "Tony Schiavone on AEW deathmatch spots: “Where is the line? I don’t know that we found it yet. I don’t know that it even exists.”",
-      "p": "AEW commentator Tony Schiavone recently reacted to the ‘blood drinking’ spot from the Trios Deathmatch at AEW Full Gear 2026. Speaking on his What Happened When podcast, Schiavone would refer to...",
-      "link": "https://www.f4wonline.com/news/aew/tony-schiavone-aew-deathmatch-spots-where-is-the-line/",
-      "t": "42m",
-      "dt": "2026-11-18T12:20:36+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (11-18-2026)",
-      "p": "AEW Dynamite takes place tonight from the Mission Ballroom in Denver, CO with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. Maxwell Jacob Friedman will be appearing on tonight’s show...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-11-18-2026/",
+      "src": "Wrestling Inc",
+      "h": "Big Boom AJ Flew To AEW Full Gear In Tony Khan's Private Jet Alongside Debuting Stars",
+      "p": "Big Boom AJ outlined how Tony Khan made it possible for him and other stars to make it to AEW Full Gear.",
+      "link": "https://www.wrestlinginc.com/2320592/aew-full-gear-2026-big-boom-aj-kasper-brothers-tony-khan-flew-private-jet-debuting-stars/",
       "t": "4h",
-      "dt": "2026-11-18T08:38:26+00:00"
+      "dt": "2026-11-18T16:23:53+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (11-18-2026)",
-      "p": "AEW Dynamite takes place tonight from the Mission Ballroom in Denver, CO, and several matches and segments have been confirmed for the broadcast. Tonight’s show will feature the fallout from the...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-11-18-2026/",
-      "t": "4h",
-      "dt": "2026-11-18T08:25:42+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Jeff Jarrett explains why he missed AEW Full Gear",
-      "p": "Just hours before AEW Full Gear, the entire USA was hit with FAA-related travel disruptions. The FAA-related travel disruptions affected WWE shows, TNA Destination X, and even AEW Full Gear, which...",
-      "link": "https://www.f4wonline.com/news/aew/jeff-jarrett-explains-why-he-missed-aew-full-gear/",
+      "src": "POST Wrestling",
+      "h": "TBS title four-way, Continental Classic matchups set for tonight’s AEW Dynamite",
+      "p": "Six segments have been confirmed for tonight's AEW Dynamite, including a TBS title showdown and Continental Classic action. The post TBS title four-way, Continental Classic matchups set for...",
+      "link": "https://www.postwrestling.com/2026/11/18/tbs-title-four-way-continental-classic-matchups-set-for-tonights-aew-dynamite/",
       "t": "5h",
-      "dt": "2026-11-18T07:35:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW FEUD TRACKER: Full Gear developments with Ospreay, The Cut, Mercedes, Swerve, a deepening tag division, more",
-      "p": "HOUSEKEEPING • AEW announced a Collision residency at the former Esports Stadium in Arlington, TX in January. AEW previously held a Collision residency at this venue two years ago. INTRO Full Gear...",
-      "link": "https://www.pwtorch.com/site/2026/11/18/aew-feud-tracker-full-gear-developments-with-ospreay-the-cut-mercedes-swerve-a-deepening-tag-division-more/",
-      "t": "6h",
-      "dt": "2026-11-18T06:04:30+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "11/17 Wade Keller Pro Wrestling Podcast: Powell and Keller on weird John Cena, the AEW Continental Classic, WWE Survivor Series, AEW Full Gear",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post 11/17 Wade Keller Pro Wrestling Podcast: Powell and Keller on weird John Cena, the AEW Continental Classic, WWE Survivor Series, AEW Full Gear...",
-      "link": "https://prowrestling.net/site/2026/11/17/11-17-wade-keller-pro-wrestling-podcast-powell-and-keller-on-weird-john-cena-the-aew-continental-classic-wwe-survivor-series-aew-full-gear/",
-      "t": "8h",
-      "dt": "2026-11-18T04:56:30+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "VIP PODCAST 11/17 – Everything with Rich & Wade: Bill Watts Torch Talk controversy, Rock’s 30th Anniversary, Weird John Cena, AEW Continental Classic, Cody & Punk, The 946, Kasper Brothers (120 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: A look back Bill Watts and the controversy that ultimately cost him...",
-      "link": "https://www.pwtorch.com/site/2026/11/17/vip-podcast-11-17-everything-with-rich-wade-bill-watts-torch-talk-controversy-rocks-30th-anniversary-weird-john-cena-aew-continental-classic-cody-punk-the-946-kasper-brothers-120-min/",
-      "t": "8h",
-      "dt": "2026-11-18T04:42:16+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 11/17 – WKPWP Tuesday Flagship: Keller & Powell talk Weird John Cena, AEW Continental Classic, Punk-Cody dynamic, Survivor Series, Full Gear, Rule Enforcement, more (114 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with guest co-host Jason Powell from ProWrestling.net. They discuss these...",
-      "link": "https://www.pwtorch.com/site/2026/11/17/free-podcast-11-17-wkpwp-tuesday-flagship-keller-powell-talk-weird-john-cena-aew-continental-classic-punk-cody-dynamic-survivor-series-full-gear-rule-enforcement-more-114-min/",
-      "t": "9h",
-      "dt": "2026-11-18T04:00:13+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Report: Update on Anthony Bowens’ AEW future",
-      "p": "Anthony Bowens is reportedly set to continue with AEW. After the Kasper (Creed) Brothers made their AEW debut at Full Gear, rumors also emerged about Sheamus and Kairi Sane becoming All Elite in...",
-      "link": "https://www.f4wonline.com/news/aew/report-update-on-anthony-bowens-aew-future/",
-      "t": "9h",
-      "dt": "2026-11-18T04:00:00+00:00"
+      "dt": "2026-11-18T15:45:45+00:00"
     }
   ]
 }

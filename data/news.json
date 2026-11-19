@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-18T21:23:01.569815+00:00",
+  "updated": "2026-11-19T03:20:23.599750+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (2 AEW items)",
+    "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (4 AEW items)",
+    "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Inc",
-      "h": "Kenny Omega Promises To Prioritize NJPW Over AEW If He Wins IWGP Heavyweight Title",
-      "p": "Kenny Omega has promised to prioritize NJPW over AEW if he wins the IWGP Heavyweight Championship at Wrestle Kingdom 21.",
-      "link": "https://www.wrestlinginc.com/2321160/kenny-omega-njpw-aew-iwgp-heavyweight-title-prioritize/",
-      "t": "3m",
-      "dt": "2026-11-18T21:19:04+00:00"
+      "src": "Fightful",
+      "h": "AEW National Title Bout, Continental Classic Matches Set For 11/21 AEW Collision",
+      "p": "Here’s what’s on tap for Saturday’s episode of AEW Collision. First, the Continental Classic will continue. In the Blue League, Ricochet will take on Jay White and Brody King will face Daniel...",
+      "link": "https://www.fightful.com/wrestling-news/339846-aew-collision/",
+      "t": "2m",
+      "dt": "2026-11-19T03:17:32+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Mercedes Moné segment added to tonight’s AEW Dynamite",
-      "p": "AEW has announced a segment involving Women’s World Champion Mercedes Moné for tonight’s episode of Dynamite. Moné will hold another championship celebration on the show, which takes place at the...",
-      "link": "https://www.f4wonline.com/news/aew/aew-announces-mercedes-mone-plans-dynamite/",
-      "t": "9m",
-      "dt": "2026-11-18T21:12:55+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: Bill Watts, All In ‘discussed’ for Toronto & The Rock added to Survivor Series",
-      "p": "Jack Wannan recaps the news for Wednesday, including news on AEW All In 2027, the passing of Cowboy Bill Watts, NJPW’s latest signing & more. The post POST NEWS: Bill Watts, All In ‘discussed’ for...",
-      "link": "https://www.postwrestling.com/2026/11/18/post-news-bill-watts-all-in-discussed-for-toronto-the-rock-added-to-survivor-series/",
-      "t": "10m",
-      "dt": "2026-11-18T21:12:10+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Backstage News On Potential Location For AEW All In 2027",
-      "p": "There's reportedly been discussions in AEW over where the next All In event should be held.",
-      "link": "https://www.wrestlinginc.com/2321083/aew-all-in-2027-location-toronto-canada-adam-copeland/",
-      "t": "47m",
-      "dt": "2026-11-18T20:35:19+00:00"
+      "h": "Ilja Dragunov National title defense part of AEW Collision lineup",
+      "p": "New AEW National Champion Ilja Dragunov will put his title on the line for the first time on this Saturday’s live edition of AEW Collision. Dragunov, fresh off defeating Tommaso Ciampa for the...",
+      "link": "https://www.f4wonline.com/news/aew/ilja-dragunov-national-title-defense-aew-collision/",
+      "t": "5m",
+      "dt": "2026-11-19T03:14:58+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Potential location for AEW All In 2027 revealed",
-      "p": "AEW could be bringing its biggest show of the year to Canada in 2027. Fightful Select reports that Toronto, Ontario, Canada is being discussed internally within AEW as a potential location for...",
-      "link": "https://www.f4wonline.com/news/aew/potential-location-for-aew-all-in-2027-revealed/",
+      "h": "World title challenge issued for AEW Worlds End",
+      "p": "A challenge for a title vs. title match has been thrown out for next month’s AEW Worlds End pay-per-view despite the fact one of the men involved only thinks he is a champion. On Wednesday’s...",
+      "link": "https://www.f4wonline.com/news/aew/world-title-challenge-aew-worlds-end-mjf-vs-will-ospreay/",
+      "t": "22m",
+      "dt": "2026-11-19T02:57:16+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Don Callis Offers First Challenger For AEW National Champion Ilja Dragunov",
+      "p": "Don Callis served up the first challenger for Ilja Dragunov's National Championship during \"AEW Dynamite.\"",
+      "link": "https://www.wrestlinginc.com/2321422/don-callis-offers-first-challenger-aew-national-champion-ilja-dragunov/",
+      "t": "29m",
+      "dt": "2026-11-19T02:50:51+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite Poll: Grade the November 18 edition",
+      "p": "Loading… The post AEW Dynamite Poll: Grade the November 18 edition appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/18/aew-dynamite-poll-grade-the-november-18-edition-2/",
+      "t": "29m",
+      "dt": "2026-11-19T02:50:43+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "First match set for Winter is Coming edition of AEW Dynamite",
+      "p": "Three weeks away, AEW’s first-ever trip to Monterrey, Mexico, next month for Winter is Coming already has its first match. Made during Wednesday’s Dynamite, the Young Bucks will team with the...",
+      "link": "https://www.f4wonline.com/news/aew/aew-winter-is-coming-2026-ftr-kaspers-young-bucks-mcmg/",
+      "t": "49m",
+      "dt": "2026-11-19T02:30:30+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF Challenges Will Ospreay To Title vs. Title Match At AEW Worlds End",
+      "p": "MJF wants to be undisputed. After making a splashy return at Full Gear, Friedman appeared on Wednesday’s episode of Dynamite and continued to get under Will Ospreay’s skin. After poking fun at him...",
+      "link": "https://www.fightful.com/wrestling-news/339836-mjf-will-ospreay/",
+      "t": "56m",
+      "dt": "2026-11-19T02:23:34+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "New AEW Signees The Kasper Brothers Set For Major Winter Is Coming Match",
+      "p": "The newly-signed Kasper Brothers are set for a big \"AEW Dynamite: Winter is Coming\" match next month.",
+      "link": "https://www.wrestlinginc.com/2321406/new-aew-signees-kasper-brothers-set-major-winter-coming-match/",
       "t": "1h",
-      "dt": "2026-11-18T19:33:01+00:00"
+      "dt": "2026-11-19T02:12:09+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Toronto Discussed As Potential Landing Spot For AEW All In 2027",
-      "p": "Details on AEW All In 2027. Fightful Select reports, “Toronto is being discussed as a potential landing point for AEW All In 2027. The promotion would likely be around Adam Copeland’s final...",
-      "link": "https://www.fightful.com/wrestling-news/toronto-discussed-as-potential-landing-spot-for-aew-all-in-2027/",
-      "t": "2h",
-      "dt": "2026-11-18T19:10:19+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "Report: Toronto ‘discussed’ as potential spot for AEW All In 2027",
-      "p": "AEW is reportedly discussing the possibility of bringing All In to Toronto, Ontario, Canada in 2027, although nothing has been finalized. The post Report: Toronto ‘discussed’ as potential spot for...",
-      "link": "https://www.postwrestling.com/2026/11/18/report-toronto-discussed-as-potential-spot-for-aew-all-in-2027/",
-      "t": "2h",
-      "dt": "2026-11-18T19:08:29+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE PREVIEW (11/18): Announced matches, location, ticket sales, how to watch",
-      "p": "When: WEDNESDAY, NOVEMBER 18, 2026 Where: DENVER, COLO. AT MISSION BALLROOM How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 794 tickets had been...",
-      "link": "https://www.pwtorch.com/site/2026/11/18/aew-dynamite-preview-11-18-announced-matches-location-ticket-sales-how-to-watch/",
-      "t": "2h",
-      "dt": "2026-11-18T19:04:52+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Chris Jericho thinks AEW ‘should at least try’ to do more with Sammy Guevara",
-      "p": "Chris Jericho is still a believer in Sammy Guevara and would like to see him get more of an opportunity on AEW programming. Once considered one of the young pillars of the AEW roster, Guevara’s...",
-      "link": "https://www.f4wonline.com/news/aew/chris-jericho-thinks-aew-should-at-least-try-to-do-more-with-sammy-guevara/",
-      "t": "2h",
-      "dt": "2026-11-18T18:34:12+00:00"
+      "h": "FTR & Kasper Brothers To Face Young Bucks & Motor City Machine Guns At AEW Winter Is Coming",
+      "p": "A huge match has been announced for AEW Winter Is Coming. The show, which will take place in Monterrey, Mexico on December 9, is set to feature an eight man tag bout that will pit the Young Bucks...",
+      "link": "https://www.fightful.com/wrestling-news/339834-ftr-kasper-aew-winter-is-coming/",
+      "t": "1h",
+      "dt": "2026-11-19T02:11:31+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Kenny Omega States That If He Wins IWGP Heavyweight Title, His NJPW Matches Will Be Prioritized Over AEW Schedule",
-      "p": "Kenny Omega will be prioritizing NJPW if he regains the top belt. It is official that at Wrestle Kingdom 21, Kenny Omega will challenge Yota Tsuji for the IWGP Heavyweight Championship....",
-      "link": "https://www.fightful.com/wrestling-news/kenny-omega-states-that-if-he-wins-iwgp-heavyweight-title-his-njpw-matches-will-be-prioritized-over-aew-schedule/",
-      "t": "3h",
-      "dt": "2026-11-18T17:51:46+00:00"
+      "h": "AEW Continental Classic 2026 Standings And Results Archive",
+      "p": "The AEW Continental Classic began on the November 18th episode of AEW Dynamite with league action. The top point-getter in Blue League will face second place in Gold League in the semifinals while...",
+      "link": "https://www.fightful.com/wrestling-news/aew-continental-classic-2026-standings-and-results-archive/",
+      "t": "1h",
+      "dt": "2026-11-19T01:57:03+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Big Boom AJ Flew To AEW Full Gear In Tony Khan's Private Jet Alongside Debuting Stars",
-      "p": "Big Boom AJ outlined how Tony Khan made it possible for him and other stars to make it to AEW Full Gear.",
-      "link": "https://www.wrestlinginc.com/2320592/aew-full-gear-2026-big-boom-aj-kasper-brothers-tony-khan-flew-private-jet-debuting-stars/",
-      "t": "4h",
-      "dt": "2026-11-18T16:23:53+00:00"
+      "src": "Fightful",
+      "h": "Will Ospreay Not Cleared To Travel After Competing At AEW Full Gear",
+      "p": "Will Ospreay is banged up after AEW Full Gear. The pay-per-view was headlined by an AEW World Championship bout that pitted Will Ospreay against Kyle Fletcher. Ospreay left the match victorious,...",
+      "link": "https://www.fightful.com/wrestling-news/will-ospreay-not-cleared-to-travel-after-competing-at-aew-full-gear/",
+      "t": "2h",
+      "dt": "2026-11-19T01:19:14+00:00"
     },
     {
-      "src": "POST Wrestling",
-      "h": "TBS title four-way, Continental Classic matchups set for tonight’s AEW Dynamite",
-      "p": "Six segments have been confirmed for tonight's AEW Dynamite, including a TBS title showdown and Continental Classic action. The post TBS title four-way, Continental Classic matchups set for...",
-      "link": "https://www.postwrestling.com/2026/11/18/tbs-title-four-way-continental-classic-matchups-set-for-tonights-aew-dynamite/",
-      "t": "5h",
-      "dt": "2026-11-18T15:45:45+00:00"
+      "src": "Fightful",
+      "h": "New Level To Perform DJ Set At Sweet Chin Disco After AEW Dynasty",
+      "p": "New Level (Kofi & Austin Creed) are the next guest DJs at Sweet Chin Disco. Sweet Chin Disco in Liverpool announced that New Level will perform a DJ Set on February 7 following AEW Dynasty. From...",
+      "link": "https://www.fightful.com/wrestling-news/new-level-to-perform-dj-set-at-sweet-chin-disco-after-aew-dynasty/",
+      "t": "2h",
+      "dt": "2026-11-19T01:18:15+00:00"
     }
   ]
 }

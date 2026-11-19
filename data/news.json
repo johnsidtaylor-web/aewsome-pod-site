@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-19T03:20:23.599750+00:00",
+  "updated": "2026-11-19T12:57:06.141737+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (6 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
     "Wrestling Inc": "ok (6 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "AEW National Title Bout, Continental Classic Matches Set For 11/21 AEW Collision",
-      "p": "Here’s what’s on tap for Saturday’s episode of AEW Collision. First, the Continental Classic will continue. In the Blue League, Ricochet will take on Jay White and Brody King will face Daniel...",
-      "link": "https://www.fightful.com/wrestling-news/339846-aew-collision/",
-      "t": "2m",
-      "dt": "2026-11-19T03:17:32+00:00"
+      "src": "Wrestling Observer",
+      "h": "Former ROH World Television Champion Lio Rush confirmed for UK wrestling return",
+      "p": "Former Ring of Honor World Television Champion Lio Rush has been confirmed for the upcoming PROGRESS Wrestling Chapter 200 event. Chapter 200 is set to take place on Sunday, November 29 from The...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/lio-rush-progress-wrestling-roh-world-television-champion-chapter-200-sha-samuels/",
+      "t": "2h",
+      "dt": "2026-11-19T10:43:21+00:00"
     },
     {
       "src": "Wrestling Observer",
-      "h": "Ilja Dragunov National title defense part of AEW Collision lineup",
-      "p": "New AEW National Champion Ilja Dragunov will put his title on the line for the first time on this Saturday’s live edition of AEW Collision. Dragunov, fresh off defeating Tommaso Ciampa for the...",
-      "link": "https://www.f4wonline.com/news/aew/ilja-dragunov-national-title-defense-aew-collision/",
-      "t": "5m",
-      "dt": "2026-11-19T03:14:58+00:00"
+      "h": "WOR: Dave Meltzer’s Definitive Bill Watts Biography, Kyle Fletcher’s Babyface Turn, Dynamite Delivers",
+      "p": "Wrestling Observer Radio with Bryan Alvarez and Dave Meltzer is back with tons to talk about including Dave’s one-hour bio of Bill Watts with his history, his success as a wrestler, booker and...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-dave-meltzers-definitive-bill-watts-biography-kyle-fletchers-babyface-turn-dynamite-delivers/",
+      "t": "3h",
+      "dt": "2026-11-19T09:53:54+00:00"
     },
     {
-      "src": "Wrestling Observer",
-      "h": "World title challenge issued for AEW Worlds End",
-      "p": "A challenge for a title vs. title match has been thrown out for next month’s AEW Worlds End pay-per-view despite the fact one of the men involved only thinks he is a champion. On Wednesday’s...",
-      "link": "https://www.f4wonline.com/news/aew/world-title-challenge-aew-worlds-end-mjf-vs-will-ospreay/",
-      "t": "22m",
-      "dt": "2026-11-19T02:57:16+00:00"
+      "src": "PWTorch",
+      "h": "FREE PODCAST 11/18 – WKPWP after Dynamite: Keller & Kline talk Moxley vs. Cassidy, Speedball vs. Nick Wayne, Hangman vs. Bandido, Full Gear fallout with MJF, Kaspers, Mercedes, Ospreay-Fletcher (131 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller was joined by PWTorch’s Dennis Kline to discuss AEW Dynamite including the start of the Continental Classic with two upsets and some good in-ring action....",
+      "link": "https://www.pwtorch.com/site/2026/11/19/free-podcast-11-18-wkpwp-after-dynamite-keller-kline-talk-moxley-vs-cassidy-speedball-vs-nick-wayne-hangman-vs-bandido-full-gear-fallout-with-mjf-kaspers-mercedes-ospreay-fletche/",
+      "t": "5h",
+      "dt": "2026-11-19T07:11:36+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Don Callis Offers First Challenger For AEW National Champion Ilja Dragunov",
-      "p": "Don Callis served up the first challenger for Ilja Dragunov's National Championship during \"AEW Dynamite.\"",
-      "link": "https://www.wrestlinginc.com/2321422/don-callis-offers-first-challenger-aew-national-champion-ilja-dragunov/",
-      "t": "29m",
-      "dt": "2026-11-19T02:50:51+00:00"
+      "src": "PWTorch",
+      "h": "VIP PODCAST 11/18 – WKH – AEW Dynamite: MJF returns, Continental Classic begins with Wayne vs. Speedball, Hangman vs. Bandido, Mox vs. Cassidy, Full Gear follow-up, Ospreay-Fletcher (28 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller reviews the Nov. 18 episode of AEW Dynamite start to finish including the start of the Continental Classic with...",
+      "link": "https://www.pwtorch.com/site/2026/11/19/vip-podcast-11-18-wkh-aew-dynamite-mjf-returns-continental-classic-begins-with-wayne-vs-speedball-hangman-vs-bandido-mox-vs-cassidy-full-gear-follow-up-ospreay-fletcher-28-min/",
+      "t": "6h",
+      "dt": "2026-11-19T06:49:36+00:00"
     },
     {
       "src": "ProWrestling.net",
-      "h": "AEW Dynamite Poll: Grade the November 18 edition",
-      "p": "Loading… The post AEW Dynamite Poll: Grade the November 18 edition appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/18/aew-dynamite-poll-grade-the-november-18-edition-2/",
-      "t": "29m",
-      "dt": "2026-11-19T02:50:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "First match set for Winter is Coming edition of AEW Dynamite",
-      "p": "Three weeks away, AEW’s first-ever trip to Monterrey, Mexico, next month for Winter is Coming already has its first match. Made during Wednesday’s Dynamite, the Young Bucks will team with the...",
-      "link": "https://www.f4wonline.com/news/aew/aew-winter-is-coming-2026-ftr-kaspers-young-bucks-mcmg/",
-      "t": "49m",
-      "dt": "2026-11-19T02:30:30+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MJF Challenges Will Ospreay To Title vs. Title Match At AEW Worlds End",
-      "p": "MJF wants to be undisputed. After making a splashy return at Full Gear, Friedman appeared on Wednesday’s episode of Dynamite and continued to get under Will Ospreay’s skin. After poking fun at him...",
-      "link": "https://www.fightful.com/wrestling-news/339836-mjf-will-ospreay/",
-      "t": "56m",
-      "dt": "2026-11-19T02:23:34+00:00"
+      "h": "11/18 Moore’s AEW Dynamite audio review: Hangman Page vs. Bandido, Jon Moxley vs. Orange Cassidy, and Mike Bailey vs. Nick Wayne in Continental Classic matches",
+      "p": "By John Moore, ProWrestling.net Staffer... The post 11/18 Moore’s AEW Dynamite audio review: Hangman Page vs. Bandido, Jon Moxley vs. Orange Cassidy, and Mike Bailey vs. Nick Wayne in Continental...",
+      "link": "https://prowrestling.net/site/2026/11/18/11-18-moores-aew-dynamite-audio-review-hangman-page-vs-bandido-jon-moxley-vs-orange-cassidy-and-mike-bailey-vs-nick-wayne-in-continental-classic-matches/",
+      "t": "7h",
+      "dt": "2026-11-19T05:37:25+00:00"
     },
     {
       "src": "Wrestling Inc",
-      "h": "New AEW Signees The Kasper Brothers Set For Major Winter Is Coming Match",
-      "p": "The newly-signed Kasper Brothers are set for a big \"AEW Dynamite: Winter is Coming\" match next month.",
-      "link": "https://www.wrestlinginc.com/2321406/new-aew-signees-kasper-brothers-set-major-winter-coming-match/",
-      "t": "1h",
-      "dt": "2026-11-19T02:12:09+00:00"
+      "h": "AEW Dynamite - 11/18/2026: 3 Things We Hated & 3 Things We Loved",
+      "p": "The best and the worst of the post-Full Gear AEW Dynamite.",
+      "link": "https://www.wrestlinginc.com/2321437/aew-dynamite-november-18-2026-3-things-hated-loved-opinion-review/",
+      "t": "8h",
+      "dt": "2026-11-19T04:14:34+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "FTR & Kasper Brothers To Face Young Bucks & Motor City Machine Guns At AEW Winter Is Coming",
-      "p": "A huge match has been announced for AEW Winter Is Coming. The show, which will take place in Monterrey, Mexico on December 9, is set to feature an eight man tag bout that will pit the Young Bucks...",
-      "link": "https://www.fightful.com/wrestling-news/339834-ftr-kasper-aew-winter-is-coming/",
-      "t": "1h",
-      "dt": "2026-11-19T02:11:31+00:00"
+      "src": "PWTorch",
+      "h": "FREE PODCAST 11/18 – WKPWP Flagship from 5 Yrs Ago: Keller & Powell talk AEW Full Gear in-person perspective, WWE Survivor Series preview, Dynamite angles, Vince McMahon’s trajectory, ROH (103 min.)",
+      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Podcast “Flagship” episode (11-18-2021), PWTorch editor Wade Keller was joined by co-host Jason Powell...",
+      "link": "https://www.pwtorch.com/site/2026/11/18/free-podcast-11-18-wkpwp-flagship-from-5-yrs-ago-keller-powell-talk-aew-full-gear-in-person-perspective-wwe-survivor-series-preview-dynamite-angles-vince-mcmahons-trajectory/",
+      "t": "8h",
+      "dt": "2026-11-19T04:00:22+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "AEW Continental Classic 2026 Standings And Results Archive",
-      "p": "The AEW Continental Classic began on the November 18th episode of AEW Dynamite with league action. The top point-getter in Blue League will face second place in Gold League in the semifinals while...",
-      "link": "https://www.fightful.com/wrestling-news/aew-continental-classic-2026-standings-and-results-archive/",
-      "t": "1h",
-      "dt": "2026-11-19T01:57:03+00:00"
+      "src": "Wrestling Observer",
+      "h": "Mike Bailey names Kenny Omega as dream AEW opponent",
+      "p": "Former AEW Trios Champion Mike Bailey has named Kenny Omega as his AEW dream opponent. Recently, speaking on 9NEWS, Bailey was asked if there’s any wrestler he’d like to face that he hasn’t faced...",
+      "link": "https://www.f4wonline.com/news/aew/mike-bailey-names-kenny-omega-as-dream-aew-opponent/",
+      "t": "8h",
+      "dt": "2026-11-19T04:00:00+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "Will Ospreay Not Cleared To Travel After Competing At AEW Full Gear",
-      "p": "Will Ospreay is banged up after AEW Full Gear. The pay-per-view was headlined by an AEW World Championship bout that pitted Will Ospreay against Kyle Fletcher. Ospreay left the match victorious,...",
-      "link": "https://www.fightful.com/wrestling-news/will-ospreay-not-cleared-to-travel-after-competing-at-aew-full-gear/",
-      "t": "2h",
-      "dt": "2026-11-19T01:19:14+00:00"
+      "src": "POST Wrestling",
+      "h": "Orange Cassidy, Bandido & Nick Wayne score wins on opening night of AEW Continental Classic",
+      "p": "Upset wins occurred on the first night of AEW's 2026 Continental Classic tournament this Wednesday. The post Orange Cassidy, Bandido & Nick Wayne score wins on opening night of AEW Continental...",
+      "link": "https://www.postwrestling.com/2026/11/18/orange-cassidy-bandido-nick-wayne-score-wins-on-opening-night-of-aew-continental-classic/",
+      "t": "9h",
+      "dt": "2026-11-19T03:48:04+00:00"
     },
     {
-      "src": "Fightful",
-      "h": "New Level To Perform DJ Set At Sweet Chin Disco After AEW Dynasty",
-      "p": "New Level (Kofi & Austin Creed) are the next guest DJs at Sweet Chin Disco. Sweet Chin Disco in Liverpool announced that New Level will perform a DJ Set on February 7 following AEW Dynasty. From...",
-      "link": "https://www.fightful.com/wrestling-news/new-level-to-perform-dj-set-at-sweet-chin-disco-after-aew-dynasty/",
-      "t": "2h",
-      "dt": "2026-11-19T01:18:15+00:00"
+      "src": "POST Wrestling",
+      "h": "National Championship showdown, Continental Classic matches set for AEW Collision",
+      "p": "Ilja Dragunov's first assignment as National champ, plus three tourney matches have been booked for AEW Collision. The post National Championship showdown, Continental Classic matches set for AEW...",
+      "link": "https://www.postwrestling.com/2026/11/18/national-championship-showdown-continental-classic-matches-set-for-aew-collision/",
+      "t": "9h",
+      "dt": "2026-11-19T03:45:27+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Continental Classic 2026 results & updated standings",
+      "p": "The 2026 Continental Classic is off and running after Wednesday’s AEW Dynamite. Here’s everything you need to know from the first night of action and what’s to come this Saturday on Collision....",
+      "link": "https://www.f4wonline.com/news/aew/aew-continental-classic-2026-results-updated-standings/",
+      "t": "9h",
+      "dt": "2026-11-19T03:43:44+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW Continental Classic 2026 Opening Night Round Up",
+      "p": "The 2026 Continental Classic kicked off on the November 18 episode of \"AEW Dynamite\" with a few surprising results in the opening set of matches.",
+      "link": "https://www.wrestlinginc.com/2321432/aew-continental-classic-2026-opening-round/",
+      "t": "9h",
+      "dt": "2026-11-19T03:39:01+00:00"
     }
   ]
 }

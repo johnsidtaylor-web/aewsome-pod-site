@@ -1,22 +1,46 @@
 {
-  "updated": "2026-11-20T01:22:20.447622+00:00",
+  "updated": "2026-11-20T03:07:02.796808+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (6 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (6 AEW items)",
+    "Wrestling Inc": "ok (5 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
       "src": "Wrestling Observer",
+      "h": "Men’s TV title defense announced for Ring of Honor Final Battle",
+      "p": "A second title match is now official for next month’s Ring of Honor Final Battle streaming special. Made during Thursday’s ROH TV, reigning men’s TV Champion Action Andretti will defend against El...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/mens-tv-title-defense-announced-ring-of-honor-final-battle/",
+      "t": "6m",
+      "dt": "2026-11-20T03:00:56+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH TV Title Bout Added To ROH Final Battle",
+      "p": "A new match has been added to ROH Final Battle. Ring of Honor announced Action Andretti will team the TV Title against Adam Priest and ELP in a triple threat match at Final Battle. Final Battle...",
+      "link": "https://www.fightful.com/wrestling-news/roh-tv-title-bout-added-to-roh-final-battle/",
+      "t": "24m",
+      "dt": "2026-11-20T02:42:07+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Rocky Romero And Volador Jr. To Challenge For ROH Tag Team Titles",
+      "p": "ROH action is coming to Arena Mexico. On the November 19 episode of Ring of Honor TV, Don Callis revealed that Rocky Romero will team with Volador Jr. to challenge El Sky Team (Místico and Máscara...",
+      "link": "https://www.fightful.com/wrestling-news/rocky-romero-and-volador-jr-to-challenge-for-roh-tag-team-titles/",
+      "t": "36m",
+      "dt": "2026-11-20T02:29:59+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
       "h": "ROH TV live results: Action Andretti defends TV title against Soleil",
       "p": "Ring of Honor is back on HonorClub tonight. Announced for the show thus far is a singles match between Tony Nese of the Premier Athletes and AR Fox, who is coming off a loss to Lee Moriarty in an...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-tv-live-results-action-andretti-defends-tv-title-against-soleil/",
-      "t": "1h",
+      "t": "2h",
       "dt": "2026-11-20T00:15:00+00:00"
     },
     {
@@ -24,7 +48,7 @@
       "h": "Speedball Mike Bailey Responds To Early Continental Classic Loss On AEW Dynamite",
       "p": "\"Speedball\" Mike Bailey cuts an impassioned promo following his early loss in the 2026 AEW Continental Classic.",
       "link": "https://www.wrestlinginc.com/2322560/speedball-mike-bailey-continental-classic-loss-nick-wayne-aew-dynamite/",
-      "t": "2h",
+      "t": "3h",
       "dt": "2026-11-19T23:19:14+00:00"
     },
     {
@@ -32,7 +56,7 @@
       "h": "POST NEWS: Continental Classic underway, TNA PPVs & Hechicero wants ZSJ rematch",
       "p": "John Kleinchester recaps the news, including the Continental Classic, TNA’s PPVs, Hechicero's call for a Wrestle Kingdom rematch, and more. Available for Double Double & Espresso members at...",
       "link": "https://www.postwrestling.com/2026/11/19/post-news-continental-classic-underway-tna-ppvs-hechicero-wants-zsj-rematch/",
-      "t": "3h",
+      "t": "5h",
       "dt": "2026-11-19T21:56:26+00:00"
     },
     {
@@ -40,7 +64,7 @@
       "h": "Mick Foley reveals his special childhood connection with AEW’s Nick Wayne",
       "p": "Mick Foley revealed that he used to send letters from Santa Claus to AEW’s Nick Wayne when Wayne was a kid. Foley discussed his longtime relationship with Nick and his family during Nick’s...",
       "link": "https://www.f4wonline.com/news/aew/mick-foley-reveals-special-childhood-connection-aew-nick-wayne/",
-      "t": "4h",
+      "t": "5h",
       "dt": "2026-11-19T21:20:50+00:00"
     },
     {
@@ -48,7 +72,7 @@
       "h": "WOL: AEW’s Continental Classic Hot Start, Full Gear’s Success Explained, and the Truth About WWE Ticket Prices",
       "p": "Wrestling Observer Live with Bryan Alvarez is back with a huge solo show discussing a ton of topics including a great Dynamite with three big upsets to kick off the Continental Classic, Full Gear...",
       "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-aews-continental-classic-hot-start-full-gears-success-explained-and-the-truth-about-wwe-ticket-prices/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-11-19T21:05:29+00:00"
     },
     {
@@ -56,7 +80,7 @@
       "h": "Pruett’s Pause: 10 Thoughts on AEW Dynamite – The Continental Classic begins, Full Gear fallout, Hangman vs. Bandido, and so much talking from Jay White and MJF",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post Pruett’s Pause: 10 Thoughts on AEW Dynamite – The Continental Classic begins, Full Gear fallout, Hangman vs. Bandido, and so much talking...",
       "link": "https://prowrestling.net/site/2026/11/19/pruetts-pause-10-thoughts-on-aew-dynamite-the-continental-classic-begins-full-gear-fallout-hangman-vs-bandido-and-so-much-talking-from-jay-white-and-mjf/",
-      "t": "4h",
+      "t": "6h",
       "dt": "2026-11-19T20:30:09+00:00"
     },
     {
@@ -64,7 +88,7 @@
       "h": "PRODUCE x ASSEMBLY Results (11/14)",
       "p": "PRODUCE Wrestling held its PRODUCE x ASSEMBLY event on November 14 from Assembly in Kingston, New York. The event aired on MyAEW. Full results are below. PRODUCE x ASSEMBLY Results (11/14) Dolphin...",
       "link": "https://www.fightful.com/wrestling-news/produce-x-assembly-results-11-14/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-11-19T20:04:50+00:00"
     },
     {
@@ -72,7 +96,7 @@
       "h": "AEW Night Set For 12/5 Chicago Wolves Game, AEW Dynamite Highlights, More | Fight Size",
       "p": "Here is your fight size update for Thursday, November 19, 2026. – AEW Night is coming to the Chicago Wolves game on December 5: @AEW Night is returning on December 5th! 🤼 Arrive early for your...",
       "link": "https://www.fightful.com/wrestling-news/aew-night-set-for-12-5-chicago-wolves-game-aew-dynamite-highlights-more-fight-size/",
-      "t": "5h",
+      "t": "7h",
       "dt": "2026-11-19T20:00:00+00:00"
     },
     {
@@ -80,32 +104,8 @@
       "h": "ROH on HonorClub lineup: The card for tonight’s show",
       "p": "By Jason Powell, ProWrestling.net Editor... The post ROH on HonorClub lineup: The card for tonight’s show appeared first on Pro Wrestling Dot Net.",
       "link": "https://prowrestling.net/site/2026/11/19/roh-on-honorclub-lineup-the-card-for-tonights-show-47/",
-      "t": "5h",
-      "dt": "2026-11-19T19:31:36+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Producer Kevin Matthew McDonald Did Motion Capture Work For Grand Theft Auto VI",
-      "p": "Kevin Matthew McDonald worked on Grand Theft Auto VI. Taking to Instagram on November 19, the current AEW producer revealed that he has spent the past five years doing motion capture work for the...",
-      "link": "https://www.fightful.com/wrestling-news/aew-producer-kevin-matthew-mcdonald-did-motion-capture-work-for-grand-theft-auto-vi/",
-      "t": "6h",
-      "dt": "2026-11-19T19:21:34+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Powell’s AEW Dynamite Hit List: Continental Classic opens with upsets, Will Ospreay encourages Kyle Fletcher to move away from Don Callis, MJF claims he’s the rightful world champion",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post Powell’s AEW Dynamite Hit List: Continental Classic opens with upsets, Will Ospreay encourages Kyle Fletcher to move away from Don Callis, MJF...",
-      "link": "https://prowrestling.net/site/2026/11/19/powells-aew-dynamite-hit-list-continental-classic-opens-with-upsets-will-ospreay-encourages-kyle-fletcher-to-move-away-from-don-callis-mjf-claims-hes-the-rightful-world-champion/",
-      "t": "6h",
-      "dt": "2026-11-19T18:23:04+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW DYNAMITE HITS & MISSES (11/18): One key aspect that undercut Ospreay and Fletcher conversation, two-man announce booth, MJF’s return promo, more",
-      "p": "HITS & MISSES OSPREAY/FLETCHER AFTER FULL GEAR They opened the show with a review of Full Gear and then a backstage segment filmed right after the main event with Will Ospreay entering the...",
-      "link": "https://www.pwtorch.com/site/2026/11/19/aew-dynamite-hits-misses-11-18-one-key-aspect-that-undercut-ospreay-and-fletcher-conversation-two-man-announce-booth-mjfs-return-promo-more/",
       "t": "7h",
-      "dt": "2026-11-19T18:06:15+00:00"
+      "dt": "2026-11-19T19:31:36+00:00"
     }
   ]
 }

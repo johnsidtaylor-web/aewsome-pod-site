@@ -13,7 +13,11 @@ SITE = "https://aewsomepod.com"
 APPLE_SHOW = "https://podcasts.apple.com/us/podcast/the-aew-some-pod-w-johnny-taylor-diana-prince-gringo/id1655190709"
 SPOTIFY_SHOW = "https://open.spotify.com/show/7wOoXA1zgghRv25SbOSu7h"
 RSS = "https://feeds.simplecast.com/nroyEyaj"
+IHEART = "https://www.iheart.com/podcast/269-the-aew-some-pod-w-johnny-104826268/"
+PODBEAN = "https://www.podbean.com/podcast-detail/episode-list?pid=dir2688267"
 APPLE_SHOW_ID = "1655190709"
+# Show-level directory URLs used on PodcastSeries.sameAs and episode listen links.
+SHOW_SAME_AS = [APPLE_SHOW, SPOTIFY_SHOW, IHEART, PODBEAN]
 
 HEAD_ICONS = """
 <link rel="icon" href="/favicon.ico" sizes="any">
@@ -36,6 +40,8 @@ FOOTER = """
     <a href="https://podcasts.apple.com/us/podcast/the-aew-some-pod-w-johnny-taylor-diana-prince-gringo/id1655190709" target="_blank" rel="noopener">Apple Podcasts</a>
     <a href="https://open.spotify.com/show/7wOoXA1zgghRv25SbOSu7h" target="_blank" rel="noopener">Spotify</a>
     <a href="https://feeds.simplecast.com/nroyEyaj" rel="noopener">RSS feed</a>
+    <a href="https://www.iheart.com/podcast/269-the-aew-some-pod-w-johnny-104826268/" target="_blank" rel="noopener">iHeart</a>
+    <a href="https://www.podbean.com/podcast-detail/episode-list?pid=dir2688267" target="_blank" rel="noopener">Podbean</a>
   </div>
   <div class="presented-mini" aria-label="Presented by Kalshi">
     <span class="k">Presented by</span>
@@ -151,6 +157,7 @@ def episode_jsonld(ep, with_series=True):
             "@type": "PodcastSeries",
             "name": "The AEW-some Pod",
             "url": SITE + "/",
+            "sameAs": list(SHOW_SAME_AS),
         },
     }
     if ep.get("len"):
@@ -180,6 +187,9 @@ def episode_jsonld(ep, with_series=True):
         links.append(spotify_url(ep))
     if ep.get("link"):
         links.append(ep["link"])
+    for url in (IHEART, PODBEAN):
+        if url not in links:
+            links.append(url)
     if links:
         data["sameAs"] = links
     if not with_series:
@@ -216,6 +226,8 @@ def write_episode_page(ep, out_dir: Path):
         f'<a class="btn red" href="{esc(apple_url(ep))}" target="_blank" rel="noopener">Apple Podcasts</a>',
         f'<a class="btn" href="{esc(spotify_url(ep))}" target="_blank" rel="noopener">Spotify</a>',
         f'<a class="btn" href="{esc(RSS)}" rel="noopener">RSS feed</a>',
+        f'<a class="btn" href="{esc(IHEART)}" target="_blank" rel="noopener">iHeart</a>',
+        f'<a class="btn" href="{esc(PODBEAN)}" target="_blank" rel="noopener">Podbean</a>',
     ]
     if ep.get("link"):
         listen_links.append(f'<a class="btn" href="{esc(ep["link"])}" target="_blank" rel="noopener">Show notes source</a>')
@@ -225,6 +237,7 @@ def write_episode_page(ep, out_dir: Path):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="google-site-verification" content="r4LDtyuGqt0kKYMNNoChUzqTSj-Rv2uqj12PwrfnfYI" />
 <title>{esc(title_tag)}</title>
 <meta name="description" content="{esc(meta_desc)}">
 <link rel="canonical" href="{esc(url)}">

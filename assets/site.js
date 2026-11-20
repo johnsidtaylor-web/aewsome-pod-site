@@ -1,6 +1,8 @@
 (() => {
   const APPLE_SHOW = "https://podcasts.apple.com/us/podcast/the-aew-some-pod-w-johnny-taylor-diana-prince-gringo/id1655190709";
   const SPOTIFY_SHOW = "https://open.spotify.com/show/7wOoXA1zgghRv25SbOSu7h";
+  const IHEART_SHOW = "https://www.iheart.com/podcast/269-the-aew-some-pod-w-johnny-104826268/";
+  const PODBEAN_SHOW = "https://www.podbean.com/podcast-detail/episode-list?pid=dir2688267";
   const COVER_FALLBACK = "assets/cover-art-176.jpg";
   const APPLE_SHOW_ID = "1655190709";
   const ITUNES_LOOKUP = "https://itunes.apple.com/lookup?id=" + APPLE_SHOW_ID + "&entity=podcastEpisode&limit=5";
@@ -264,6 +266,8 @@
         "<div class='eplinks'>" +
           "<a href='" + esc(appleHref) + "' target='_blank' rel='noopener' title='Listen on Apple Podcasts'>APPLE</a>" +
           "<a class='sp' href='" + esc(spotHref) + "' target='_blank' rel='noopener' title='Listen on Spotify'>SPOTIFY</a>" +
+          "<a href='" + esc(IHEART_SHOW) + "' target='_blank' rel='noopener' title='Listen on iHeart'>IHEART</a>" +
+          "<a href='" + esc(PODBEAN_SHOW) + "' target='_blank' rel='noopener' title='Listen on Podbean'>PODBEAN</a>" +
         "</div>";
       box.appendChild(d);
     });

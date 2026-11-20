@@ -1,0 +1,22 @@
+{
+  "name": "The AEW-some Pod",
+  "short_name": "AEW-some Pod",
+  "description": "The AEW-some Pod is an All Elite Wrestling podcast hosted by Johnny Taylor, Diana Prince, and Gringo Fantastico.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#fdf9f3",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,4 +1,7 @@
-# Pretty URLs for host pages -> rewrite to the real .html file (200 = no visible redirect)
-/johnny    /johnny.html    200
-/diana     /diana.html     200
-/gringo    /gringo.html    200
+# Pretty host URLs. The ! forces a 301 even though the .html file exists.
+/johnny.html  /johnny  301!
+/diana.html   /diana   301!
+/gringo.html  /gringo  301!
+/johnny       /johnny.html  200
+/diana        /diana.html   200
+/gringo       /gringo.html  200

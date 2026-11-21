@@ -1,15 +1,31 @@
 {
-  "updated": "2026-11-20T01:07:05.947287+00:00",
-  "count": 257,
+  "updated": "2026-11-21T09:42:15.927373+00:00",
+  "count": 258,
   "latest_embeds": {
     "apple_track_id": 1000802416423,
     "apple_slug": "sparkling-death",
     "apple_title": "Sparkling Death",
     "apple_release": "2026-11-17T06:22:00Z",
-    "spotify_episode_id": "5FNPKvGgOUFDv9TVFf4NS7",
-    "spotify_title": "Sparkling Death"
+    "spotify_episode_id": "6mkNhy6rBUeZKp8P44P4qz",
+    "spotify_title": "Friends Don’t Let Friends Hit Buckshots"
   },
   "episodes": [
+    {
+      "num": 257,
+      "title": "Friends Don’t Let Friends Hit Buckshots",
+      "date": "Nov 21, 2026",
+      "date_iso": "2026-11-21T05:57:00+00:00",
+      "len": "1h 04m",
+      "blurb": "It's time for Episode 257! Full Gear is over, the blood’s barely mopped up, and AEW is already asking us to do Continental tournament math. Johnny Taylor Jr., Diana Prince, and Gringo Fantastico break down a three-hour Dynamite from Denver, where a post-match heart-to-heart with Will Ospreay has the crew wondering...",
+      "blurb_full": "It's time for Episode 257! Full Gear is over, the blood’s barely mopped up, and AEW is already asking us to do Continental tournament math. Johnny Taylor Jr., Diana Prince, and Gringo Fantastico break down a three-hour Dynamite from Denver, where a post-match heart-to-heart with Will Ospreay has the crew wondering if Kyle Fletcher is finally ready to leave the Don Callis Family. Meanwhile, “Movie Maxwell” returns with the Triple B and a bold argument for why losing the world title shouldn’t stop him from calling himself champion. The Continental Classic opens with Orange Cassidy beating Jon Moxley, Bandido catching Hangman Page out of a Buckshot Lariat, and Nick Wayne calling Mox and Cassidy “unks,” which sends Gringo straight to the dictionary. The crew makes their tournament picks, Diana makes the case that friends should get to skip wrestling each other, and a cat lands directly on the keyboard for the episode’s only unscheduled run-in. www.aewsomepod.com www.wrestlingwatchlist.com www.reccentertv.com",
+      "audio": "https://pdrl.fm/747638/pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/69a332b7-e422-4daa-9df1-e77881cf2ba1/episodes/697dd633-46ac-45f1-b403-c5f3a5e88a88/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=69a332b7-e422-4daa-9df1-e77881cf2ba1&amp;awEpisodeId=697dd633-46ac-45f1-b403-c5f3a5e88a88&amp;feed=nroyEyaj",
+      "link": "https://bleav.com/shows/the-aew-some-pod/episodes/friends-dont-let-friends-hit-buckshots/",
+      "guid": "964e67ce-f0ef-4e7e-adbe-30a41d1257d4",
+      "image": "",
+      "simplecast_id": "697dd633-46ac-45f1-b403-c5f3a5e88a88",
+      "spotify_episode_id": "6mkNhy6rBUeZKp8P44P4qz",
+      "slug": "friends-don-t-let-friends-hit-buckshots"
+    },
     {
       "num": 256,
       "title": "Sparkling Death",
@@ -25,7 +41,6 @@
       "simplecast_id": "bf0858a8-abb6-4c00-a1df-eb839701603a",
       "apple_track_id": 1000802416423,
       "apple_slug": "sparkling-death",
-      "spotify_episode_id": "5FNPKvGgOUFDv9TVFf4NS7",
       "slug": "sparkling-death"
     },
     {

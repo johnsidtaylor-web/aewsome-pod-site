@@ -1,22 +1,102 @@
 {
-  "updated": "2026-11-21T09:42:24.657327+00:00",
+  "updated": "2026-11-21T17:26:32.551748+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (5 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite rating (11/18): Were the numbers up for the start of the Continental Classic?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (11/18): Were the numbers up for the start of the Continental Classic? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/21/aew-dynamite-rating-11-18-were-the-numbers-up-for-the-start-of-the-continental-classic/",
+      "t": "10m",
+      "dt": "2026-11-21T17:16:01+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "MJF Responds To Claim He Stayed With AEW As A ‘Safe Bet’",
+      "p": "MJF responds to a claim on social media that he stayed with AEW as a ‘safe bet’, listing the reasons why this wasn’t true. Back in 2023 and 2024, one of the biggest stories of the year would...",
+      "link": "https://www.fightful.com/wrestling-news/mjf-responds-to-claim-he-stayed-with-aew-as-a-safe-bet/",
+      "t": "35m",
+      "dt": "2026-11-21T16:50:24+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "ROH Fortnite To Final Battle Results (11/20)",
+      "p": "Ring of Honor held its ROH Fortnite to Final Battle event on November 20. The event aired on YouTube. Full results are below. ROH Fortnite To Final Battle Results (11/20) Ace Austin def. Ortiz The...",
+      "link": "https://www.fightful.com/wrestling-news/roh-fortnite-to-final-battle-results-11-20/",
+      "t": "43m",
+      "dt": "2026-11-21T16:42:56+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Marina Shafir Says The AEW Women’s Locker Room Fighting To Prove That They Have Just As Much To Offer As The Men Is A ‘Forever Battle’",
+      "p": "Marina Shafir discusses how it feels to try prove that the women’s locker room have just as much to offer as the men’s. Shafir is a staple of AEW’s women’s division and has grown as a performer as...",
+      "link": "https://www.fightful.com/wrestling-news/marina-shafir-says-the-aew-womens-locker-room-fighting-to-prove-that-they-have-just-as-much-to-offer-as-the-men-is-a-forever-battle/",
+      "t": "1h",
+      "dt": "2026-11-21T16:26:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Bret Hart says Dynamite Kid wasn’t happy when he became WWF Champion",
+      "p": "Hall of Famer Bret Hart believes Dynamite Kid was not happy about Hart’s WWF title win. A few days ago, while speaking on Johnny I Pro Show, WWE legend Bret Hart opened up about Dynamite Kid’s...",
+      "link": "https://www.f4wonline.com/news/wwe/bret-hart-says-dynamite-kid-wasnt-happy-when-he-became-wwf-champion/",
+      "t": "1h",
+      "dt": "2026-11-21T16:03:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Jonathan Cruz Commentates Serpentico Match On Ring Of Honor Programming, Notes His Disdain For Masked Wrestlers",
+      "p": "Jonathan Cruz was on the call for a Serpentico matchup on this week’s edition of Ring Of Honor programming. Cruz is a professional wrestler that has wrestled not only under the Cruz ring name, as...",
+      "link": "https://www.fightful.com/wrestling-news/jonathan-cruz-commentates-serpentico-match-on-ring-of-honor-programming-notes-his-disdain-for-masked-wrestlers/",
+      "t": "1h",
+      "dt": "2026-11-21T15:33:43+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Marina Shafir: Brody King Is Like The Big Dog In The Kennel, But He’s Really Not That Big",
+      "p": "Marina Shafir says that Brody King is like ‘the big dog in the kennel,’ while also noting that he is ‘not really that big.’ Earlier this week on Wednesday’s edition of AEW Dynamite, the company...",
+      "link": "https://www.fightful.com/wrestling-news/marina-shafir-brody-king-is-like-the-big-dog-in-the-kennel-but-hes-really-not-that-big/",
+      "t": "2h",
+      "dt": "2026-11-21T15:09:10+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite TV viewers ratings info for Full Gear fallout show",
+      "p": "For the second straight week, total viewers for this past Wednesday’s AEW Dynamite on TBS were down despite the kickoff to the Continental Classic and the return of MJF. First reported by our Dave...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-tv-ratings-viewers-down-slightly-for-full-gear-fallout-show/",
+      "t": "2h",
+      "dt": "2026-11-21T14:33:02+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Tony Schiavone Thinks WWE Star Is 'Pretty Cool'",
+      "p": "The voice of AEW Tony Schiavone says that this current WWE star is \"pretty cool.\"",
+      "link": "https://www.wrestlinginc.com/2318436/aew-tony-schiavone-wwe-star-pretty-cool/",
+      "t": "3h",
+      "dt": "2026-11-21T13:30:00+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision lineup: Three Continental Classic matches and an AEW National Championship match",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Three Continental Classic matches and an AEW National Championship match appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/21/aew-collision-lineup-three-continental-classic-matches-and-an-aew-national-championship-match/",
+      "t": "5h",
+      "dt": "2026-11-21T12:00:48+00:00"
+    },
     {
       "src": "Wrestling Observer",
       "h": "ROH Final Battle notes: New matches announced, Survival of the Fittest, Women’s TV title tournament",
       "p": "One wrestler has qualified for Survival of the Fittest, while two have advanced to the semifinals of the Women’s Television title tournament. Mark Davis of the Don Callis Family defeated Darius...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-final-battle-notes-new-matches-announced-survival-of-the-fittest-womens-tv-title-tournament/",
-      "t": "3h",
+      "t": "11h",
       "dt": "2026-11-21T06:19:49+00:00"
     },
     {
@@ -24,88 +104,8 @@
       "h": "ROH Fortnite to Final Battle results: Death Riders, Mark Davis, more in action",
       "p": "Ring of Honor presents a special Fortnight to Final Battle card on the ROH YouTube channel, with just two weeks before the Final Battle pay-per-view on Friday, December 4th. Tonight’s featured...",
       "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-fortnite-to-final-battle-results-death-riders-mark-davis-more-in-action/",
-      "t": "3h",
-      "dt": "2026-11-21T05:54:27+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Tony Khan announces ROH title match for Final Battle, tournament for vacant Women’s TV title",
-      "p": "The card for Final Battle is starting to emerge. Tony Khan made several announcements ahead of Friday’s special episode of Ring of Honor, titled Fortnight to Final Battle. Bandido will defend the...",
-      "link": "https://www.f4wonline.com/news/ring-of-honor/tony-khan-announces-roh-title-match-for-final-battle-tournament-for-vacant-womens-tv-title/",
-      "t": "7h",
-      "dt": "2026-11-21T02:07:07+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Red Velvet Not Cleared, ROH Women’s TV Title Vacated",
-      "p": "A new ROH Women’s TV Champion will be crowned at Final Battle. Tony Khan announced that Red Velvet is not cleared to compete at Final Battle and the Women’s Television Championship will be...",
-      "link": "https://www.fightful.com/wrestling-news/red-velvet-not-cleared-roh-womens-tv-title-vacated-final-battle/",
-      "t": "8h",
-      "dt": "2026-11-21T01:26:57+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Bandido To Defend ROH World Title In Survival Of The Fittest At ROH Final Battle",
-      "p": "The ROH World Title match is set for Final Battle. Tony Khan announced that Bandido will defend the Ring of Honor World Title in a Survival of the Fittest match at Final Battle on December 4....",
-      "link": "https://www.fightful.com/wrestling-news/bandido-to-defend-roh-world-title-in-survival-of-the-fittest-at-roh-final-battle/",
-      "t": "8h",
-      "dt": "2026-11-21T01:21:22+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Jeff Jarrett Details AEW Full Gear Travel Issues Following Nation-Wide FAA Ground Stop",
-      "p": "AEW's Jeff Jarrett detailed his travel woes that caused him to miss AEW Full Gear on Saturday, due to the nation-wide FAA ground stop.",
-      "link": "https://www.wrestlinginc.com/2323950/jeff-jarrett-aew-full-gear-2026-travel-nation-wide-faa-ground-stop/",
-      "t": "8h",
-      "dt": "2026-11-21T00:57:42+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "AEW Dynamite (11/18) Draws Over 725,000 Viewers",
-      "p": "AEW Dynamite viewership and ratings information for the November 18 episode. Dave Meltzer of the Wrestling Observer reports that AEW Dynamite on November 18 drew 727,000 viewers on TBS. This...",
-      "link": "https://www.fightful.com/wrestling-news/aew-dynamite-viewership-11-18-draws-over-725000-viewers/",
-      "t": "9h",
-      "dt": "2026-11-21T00:17:40+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "11/20 Dot Net Weekly audio show: Barnett and Powell on The Rock appearing at WWE Survivor Series, Bill Watts’ death, AEW Continental Classic, Keanu Carver, AEW Dynamite",
-      "p": "By Jake Barnett (@jakebarnett) and... The post 11/20 Dot Net Weekly audio show: Barnett and Powell on The Rock appearing at WWE Survivor Series, Bill Watts’ death, AEW Continental Classic, Keanu...",
-      "link": "https://prowrestling.net/site/2026/11/20/11-20-dot-net-weekly-audio-show-barnett-and-powell-on-the-rock-appearing-at-wwe-survivor-series-bill-watts-death-aew-continental-classic-keanu-carver-aew-dynamite/",
       "t": "11h",
-      "dt": "2026-11-20T22:28:30+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Dave Meltzer Estimates PPV Buys For AEW Full Gear 2026",
-      "p": "In the latest edition of the Wrestling Observer Newsletter, Dave Meltzer estimated the pay-per-view buy rate for AEW Full Gear 2026.",
-      "link": "https://www.wrestlinginc.com/2323593/aew-full-gear-2026-dave-meltzer-estimates-ppv-buys/",
-      "t": "13h",
-      "dt": "2026-11-20T20:26:50+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Chris Jericho Comments On Sammy Guevara's Absence From AEW TV",
-      "p": "Chris Jericho reacts to Sammy Guevara's absence on AEW programming and why his former tag team partner should be featured more.",
-      "link": "https://www.wrestlinginc.com/2323437/aew-chris-jericho-sammy-guevara-comments-absence-tv/",
-      "t": "14h",
-      "dt": "2026-11-20T19:12:25+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Jim Ross Says He Will Keep Fighting After Latest Hospital Stay",
-      "p": "Last week, AEW's Jim Ross underwent another successful shunt surgery. On Thursday night, JR posted an update after being released from the hospital.",
-      "link": "https://www.wrestlinginc.com/2323179/ew-jim-ross-keep-fighting-latest-hospital-stay/",
-      "t": "16h",
-      "dt": "2026-11-20T17:27:47+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "Vetter’s Independent Wrestling Roundup: Lee Moriarty vs. Jonathan Gresham for the ROH Pure Title, Hechicero vs. Minoru Suzuki, Persephone vs. Skadi, Final Rumble match",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post Vetter’s Independent Wrestling Roundup: Lee Moriarty vs. Jonathan Gresham for the ROH Pure Title, Hechicero vs. Minoru Suzuki, Persephone...",
-      "link": "https://prowrestling.net/site/2026/11/20/vetters-independent-wrestling-roundup-lee-moriarty-vs-jonathan-gresham-for-the-roh-pure-title-hechicero-vs-minoru-suzuki-persephone-vs-skadi-final-rumble-match/",
-      "t": "16h",
-      "dt": "2026-11-20T17:12:54+00:00"
+      "dt": "2026-11-21T05:54:27+00:00"
     }
   ]
 }

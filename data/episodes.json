@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-21T17:26:20.046778+00:00",
+  "updated": "2026-11-21T23:09:09.074086+00:00",
   "count": 258,
   "latest_embeds": {
-    "apple_track_id": 1000803246809,
-    "apple_slug": "friends-dont-let-friends-hit-buckshots",
-    "apple_title": "Friends Don’t Let Friends Hit Buckshots",
-    "apple_release": "2026-11-21T05:57:00Z",
+    "apple_track_id": 1000802416423,
+    "apple_slug": "sparkling-death",
+    "apple_title": "Sparkling Death",
+    "apple_release": "2026-11-17T06:22:00Z",
     "spotify_episode_id": "6mkNhy6rBUeZKp8P44P4qz",
     "spotify_title": "Friends Don’t Let Friends Hit Buckshots"
   },
@@ -23,10 +23,8 @@
       "guid": "964e67ce-f0ef-4e7e-adbe-30a41d1257d4",
       "image": "",
       "simplecast_id": "697dd633-46ac-45f1-b403-c5f3a5e88a88",
-      "apple_track_id": 1000803246809,
-      "apple_slug": "friends-dont-let-friends-hit-buckshots",
       "spotify_episode_id": "6mkNhy6rBUeZKp8P44P4qz",
-      "slug": "friends-dont-let-friends-hit-buckshots"
+      "slug": "friends-don-t-let-friends-hit-buckshots"
     },
     {
       "num": 256,
@@ -3424,6 +3422,8 @@
       "guid": "0bdf9e40-24d8-45f2-ab11-7d811a23417e",
       "image": "https://image.simplecastcdn.com/images/69a332/69a332b7-e422-4daa-9df1-e77881cf2ba1/ae9cf6cf-b7df-4dbc-b864-34b41e337c81/3000x3000/5aabcb8eeea6f388547e78f194bed4fc.jpg?aid=rss_feed",
       "simplecast_id": "ae9cf6cf-b7df-4dbc-b864-34b41e337c81",
+      "apple_track_id": 1000636941813,
+      "apple_slug": "episode-56-recapping-collision-rampage-for-november-25",
       "slug": "episode-56-recapping-collision-rampage-for-november-25"
     },
     {

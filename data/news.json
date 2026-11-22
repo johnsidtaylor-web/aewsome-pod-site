@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-21T23:09:18.283501+00:00",
+  "updated": "2026-11-22T03:05:16.715051+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (3 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (3 AEW items)",
@@ -12,11 +12,75 @@
   },
   "items": [
     {
+      "src": "Wrestling Observer",
+      "h": "Gail Kim and TNA name hosting auction to benefit Rebel",
+      "p": "Wrestling legend Gail Kim and current TNA name Alisha Edwards are currently coming together to host an auction for AEW’s Rebel. Earlier this year, in May, 2026, Rebel announced her battle with ALS...",
+      "link": "https://www.f4wonline.com/news/aew/gail-kim-and-tna-name-hosting-auction-to-benefit-rebel/",
+      "t": "5m",
+      "dt": "2026-11-22T03:00:00+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "Daniel Garcia suffers arm injury as Continental Classic match stopped on AEW Collision",
+      "p": "Daniel Garcia suffered an arm injury during Saturday’s AEW Collision, forcing his Continental Classic match against Brody King to be stopped. The post Daniel Garcia suffers arm injury as...",
+      "link": "https://www.postwrestling.com/2026/11/21/daniel-garcia-suffers-arm-injury-as-continental-classic-match-stopped-on-aew-collision/",
+      "t": "15m",
+      "dt": "2026-11-22T02:50:08+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Daniel Garcia Suffers Arm Injury On 11/21 AEW Collision",
+      "p": "Daniel Garcia suffered an injury on AEW Collision. On this week’s show (11/21), Garcia faced Brody King in a Blue League Continental Classic match. The bout was abruptly stopped midway through as...",
+      "link": "https://www.fightful.com/wrestling-news/daniel-garcia-suffers-arm-injury-on-11-21-aew-collision/",
+      "t": "48m",
+      "dt": "2026-11-22T02:16:17+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daniel Garcia match stopped on AEW Collision following injury",
+      "p": "An injury led to a match being stopped during this week’s AEW Collision. Saturday’s show in Green Bay was interrupted during the Continental Classic match between Brody King and Daniel Garcia....",
+      "link": "https://www.f4wonline.com/news/aew/daniel-garcia-match-stopped-on-aew-collision-following-injury/",
+      "t": "51m",
+      "dt": "2026-11-22T02:13:24+00:00"
+    },
+    {
+      "src": "POST Wrestling",
+      "h": "AEW Collision 11/21/26 Review (Live 10:15pm ET)",
+      "p": "TONIGHT 10:15pm ET — Kate from Montreal & Jey Lacey review AEW Collision w/ King vs. Garcia, Ricochet vs. White, Ciampa vs. Knight in C2 matches, and Dragunov vs. El Clon for the AEW National...",
+      "link": "https://www.postwrestling.com/2026/11/21/aew-collision-11-21-26-review-live-1015pm-et/",
+      "t": "2h",
+      "dt": "2026-11-22T00:45:12+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "AEW Collision Results (11/21/2026): Ilja Dragunov vs. El Clon, Continental Classic Continues, Divine Dominion, More",
+      "p": "Full results for the November 21, 2026, edition of AEW Collision from the Resch Center in Green Bay, Wisconsin. On November 21, 2026, All Elite Wrestling hosted the new episode of Collision on TNT...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-results-11-21-2026-ilja-dragunov-vs-el-clon-continental-classic-continues-divine-dominion-more/",
+      "t": "2h",
+      "dt": "2026-11-22T00:15:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision live results: Ilja Dragunov vs. El Clon, Continental Classic",
+      "p": "AEW Collision is live tonight from the Resch Center in Green Bay, Wisconsin, and airing on TNT and HBO Max. Five matches are advertised for tonight’s show, including three in the Continental...",
+      "link": "https://www.f4wonline.com/news/aew/aew-results/aew-collision-live-results-november-21-2026/",
+      "t": "2h",
+      "dt": "2026-11-22T00:15:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "FTR To Defend RevPro Undisputed British Tag Titles At High Stakes",
+      "p": "FTR will return to RevPro in February. Revolution Pro Wrestling announced that FTR (Dax Harwood & Cash Wheeler) will defend the RevPro Undisputed British Tag Team Titles at RevPro High Stakes on...",
+      "link": "https://www.fightful.com/wrestling-news/ftr-to-defend-revpro-undisputed-british-tag-titles-at-high-stakes/",
+      "t": "3h",
+      "dt": "2026-11-21T23:59:35+00:00"
+    },
+    {
       "src": "Wrestling Inc",
-      "h": "AEW Collision Results 11/21/26 W/ Live Updates",
+      "h": "AEW Collision Results 11/21/26 W/ Live Updates- Continental Classic Continues",
       "p": "\"AEW Collision\" will have three first round C2 matches and Ilja Dragunov will defend the National Championship against the Don Callis Family's El Clon.",
       "link": "https://www.wrestlinginc.com/2324005/aew-collision-november-21-2026-results/",
-      "t": "1h",
+      "t": "5h",
       "dt": "2026-11-21T22:00:00+00:00"
     },
     {
@@ -24,7 +88,7 @@
       "h": "AEW's Bobby Lashley Hopes To Work With Former WWE Associate Again Before Retirement",
       "p": "AEW's Bobby Lashley reveals that he hopes to work with his former WWE associate, and current AEW co-worker, Lio Rush again before Lashley retires",
       "link": "https://www.wrestlinginc.com/2320593/aew-wwe-bobby-lashley-lio-rush-hopes-work-former-associate-before-retirement/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-11-21T21:00:00+00:00"
     },
     {
@@ -32,7 +96,7 @@
       "h": "FREE PODCAST 11/21 – PWTorch Dailycast – All Elite Conversation Club with Dehnel & Kanner: Thoughts on Full Gear, Continental Classic begins, groundwork set for Worlds End, more (105 min.)",
       "p": "SHOW SUMMARY: In this week’s episode of All Elite Conversation Club, PWTorch contributors Joel Dehnel and Gregg Kanner give thoughts on last Saturday’s Full Gear PPV that included the return of...",
       "link": "https://www.pwtorch.com/site/2026/11/21/free-podcast-11-21-pwtorch-dailycast-all-elite-conversation-club-with-dehnel-kanner-thoughts-on-full-gear-continental-classic-begins-groundwork-set-for-worlds-end-more-105-m/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-11-21T20:33:47+00:00"
     },
     {
@@ -40,72 +104,8 @@
       "h": "AEW Collision doing strong ticket numbers ahead of tonight’s show (11-21-2026)",
       "p": "AEW Collision takes place tonight from the Resch Center Complex from Green Bay, WI. According to the latest update from WrestleTix, 2,643 tickets have been distributed for the event thus far,...",
       "link": "https://www.f4wonline.com/news/aew/aew-collision-ticket-numbers-tonight-show-11-21-2026/",
-      "t": "2h",
+      "t": "6h",
       "dt": "2026-11-21T20:16:41+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW’s Bandido to main event CMLL Sabados De Coliseo card tonight (November 21 2026)",
-      "p": "The next CMLL card takes place tonight (Saturday, November 21) from the Arena Coliseo de Mexico City in Mexico City, Distrito Federal. The full card for the show has been confirmed, including a...",
-      "link": "https://www.f4wonline.com/news/mexico/aews-bandido-to-main-event-cmll-sabados-de-coliseo-card-tonight-november-21-2026/",
-      "t": "3h",
-      "dt": "2026-11-21T19:51:59+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Predicting a card for AEW Worlds End | Big Vinny V",
-      "p": "It has been a busy couple of months for AEW, but they have one more big event before the end of the year: the Worlds End pay per view event, coming to you from the Target Center in Minneapolis,...",
-      "link": "https://www.f4wonline.com/news/aew/predicting-a-card-for-aew-worlds-end-big-vinny-v/",
-      "t": "5h",
-      "dt": "2026-11-21T18:00:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "ROH Women's World Television Championship Vacated Due To Injury, Tournament Begins",
-      "p": "As announced on Friday, a new ROH Women's World Television Champion will be crowned at Final Battle after it was reported that Red Velvet is not cleared to compete.",
-      "link": "https://www.wrestlinginc.com/2324107/roh-womens-world-television-championship-vacated-injury-tournament/",
-      "t": "5h",
-      "dt": "2026-11-21T17:30:12+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Dynamite rating (11/18): Were the numbers up for the start of the Continental Classic?",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite rating (11/18): Were the numbers up for the start of the Continental Classic? appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/21/aew-dynamite-rating-11-18-were-the-numbers-up-for-the-start-of-the-continental-classic/",
-      "t": "5h",
-      "dt": "2026-11-21T17:16:01+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bret Hart says Dynamite Kid wasn’t happy when he became WWF Champion",
-      "p": "Hall of Famer Bret Hart believes Dynamite Kid was not happy about Hart’s WWF title win. A few days ago, while speaking on Johnny I Pro Show, WWE legend Bret Hart opened up about Dynamite Kid’s...",
-      "link": "https://www.f4wonline.com/news/wwe/bret-hart-says-dynamite-kid-wasnt-happy-when-he-became-wwf-champion/",
-      "t": "7h",
-      "dt": "2026-11-21T16:03:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite TV viewers ratings info for Full Gear fallout show",
-      "p": "For the second straight week, total viewers for this past Wednesday’s AEW Dynamite on TBS were down despite the kickoff to the Continental Classic and the return of MJF. First reported by our Dave...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-tv-ratings-viewers-down-slightly-for-full-gear-fallout-show/",
-      "t": "8h",
-      "dt": "2026-11-21T14:33:02+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Tony Schiavone Thinks WWE Star Is 'Pretty Cool'",
-      "p": "The voice of AEW Tony Schiavone says that this current WWE star is \"pretty cool.\"",
-      "link": "https://www.wrestlinginc.com/2318436/aew-tony-schiavone-wwe-star-pretty-cool/",
-      "t": "9h",
-      "dt": "2026-11-21T13:30:00+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Three Continental Classic matches and an AEW National Championship match",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Three Continental Classic matches and an AEW National Championship match appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/21/aew-collision-lineup-three-continental-classic-matches-and-an-aew-national-championship-match/",
-      "t": "11h",
-      "dt": "2026-11-21T12:00:48+00:00"
     }
   ]
 }

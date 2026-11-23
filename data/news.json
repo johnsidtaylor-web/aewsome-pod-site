@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-22T18:30:21.342277+00:00",
+  "updated": "2026-11-23T00:14:49.629370+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (3 AEW items)",
+    "Fightful": "ok (0 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -13,10 +13,58 @@
   "items": [
     {
       "src": "Wrestling Inc",
+      "h": "MVP Offers Thoughts On Lawsuit Against WWE's Montez Ford: 'We Do Not Touch The Fans'",
+      "p": "AEW star MVP is a fan of Montez Ford, but he believes the WWE wrestler made a mistake earlier this year when he gave a security guard a lap dance.",
+      "link": "https://www.wrestlinginc.com/2322610/wwe-aew-mvp-montez-ford-thoughts-lawsuit-do-not-touch-fans/",
+      "t": "3h",
+      "dt": "2026-11-22T21:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Ricochet Looks Back At Wrestling Will Ospreay On Dynamite Tribute To Pac",
+      "p": "AEW star Ricochet reflects on his emotional faceoff with Will Ospreay on the special \"Dynamite\" tribute show to Pac.",
+      "link": "https://www.wrestlinginc.com/2322577/aew-dynamite-ricochet-will-ospreay-pac-looks-back-wrestling-tribute/",
+      "t": "4h",
+      "dt": "2026-11-22T19:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daniel Garcia injury update after AEW Collision match stopped early | Exclusive",
+      "p": "Bryan Alvarez has an update regarding the injury suffered by Daniel Garcia on AEW Collision on Saturday. The match between Garcia and Brody King was stopped early following Garcia taking a...",
+      "link": "https://www.f4wonline.com/news/aew/daniel-garcia-injury-update-aew-collision-match-stopped-early/",
+      "t": "5h",
+      "dt": "2026-11-22T19:11:42+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Injury Update On Former AEW Star Jake Hager",
+      "p": "An update has been released on the status of ex-AEW and WWE star Jake Hager two months after gruesome eye injury at Power Slap 23.",
+      "link": "https://www.wrestlinginc.com/2324386/injury-update-former-aew-star-jake-hager/",
+      "t": "5h",
+      "dt": "2026-11-22T19:10:49+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Mara Sadè reveals discussions about teaming with AEW’s Kevin Knight",
+      "p": "A former member of the WWE and TNA roster, Mara Sadè is now expected to have joined AEW, where she could team up with her real-life partner, Kevin Knight. Speaking to Allenownz Wrasslin, Sadè...",
+      "link": "https://www.f4wonline.com/news/aew/mara-sade-reveals-discussions-about-teaming-with-aews-kevin-knight/",
+      "t": "5h",
+      "dt": "2026-11-22T19:00:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "AEW's Kenny Omega Praises NJPW G1 Climax Final Between Yuya Uemura And Ryohei Oiwa",
+      "p": "Kenny Omega was a huge fan of the NJPW G1 Climax 36 final, to the point where he has questioned if AEW has gotten too violent.",
+      "link": "https://www.wrestlinginc.com/2322555/aew-kenny-omega-njpw-g1-climax-yuya-uemura-ryohei-oiwa/",
+      "t": "5h",
+      "dt": "2026-11-22T18:30:00+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
       "h": "Andrade El Idolo Explains Origins Of Current AEW Gimmick",
       "p": "On \"Talk Is Jericho,\" AEW's Andrade El Idolo explained how his gimmick has evolved and how it's taken on a life of its own due to the fans.",
       "link": "https://www.wrestlinginc.com/2322289/andrade-el-idolo-origins-current-aew-gimmick-how-you-know/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-11-22T17:30:00+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "Ilja Dragunov Makes First National Title Defense On AEW Collision",
       "p": "One week after capturing the National Championship, Ilja Dragunov hosted his first successful title defense on Saturday's \"AEW Collision.\"",
       "link": "https://www.wrestlinginc.com/2324338/ilja-dragunov-first-national-title-defense-aew-collision-clon/",
-      "t": "1h",
+      "t": "6h",
       "dt": "2026-11-22T17:22:45+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "11/22 Pruett’s AEW Collision audio review: Tommaso Ciampa vs. Kevin Knight, Ricochet vs. Jay White, and Brody King vs. Daniel Garcia in Continental Classic matches",
       "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 11/22 Pruett’s AEW Collision audio review: Tommaso Ciampa vs. Kevin Knight, Ricochet vs. Jay White, and Brody King vs. Daniel Garcia in...",
       "link": "https://prowrestling.net/site/2026/11/22/11-22-pruetts-aew-collision-audio-review-tommaso-ciampa-vs-kevin-knight-ricochet-vs-jay-white-and-brody-king-vs-daniel-garcia-in-continental-classic-matches/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-11-22T17:13:42+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "AEW Collision on-site report: Vetter’s in-person notes on Daniel Garcia’s injury, Kevin Knight’s awkward landing, Divine Dominion saving Viva Van, what may have encouraged more fans to stay for the ROH taping",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post AEW Collision on-site report: Vetter’s in-person notes on Daniel Garcia’s injury, Kevin Knight’s awkward landing, Divine Dominion saving...",
       "link": "https://prowrestling.net/site/2026/11/22/aew-collision-on-site-report-vetters-in-person-notes-on-daniel-garcias-injury-kevin-knights-awkward-landing-divine-dominion-saving-viva-van-what-may-have-encouraged-more-fans-to-stay-for-the/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-11-22T17:11:48+00:00"
     },
     {
@@ -48,64 +96,16 @@
       "h": "ROH taping spoilers: Vetter’s report on the taping for upcoming HonorClub shows held after Saturday’s Collision in Green Bay (spoilers)",
       "p": "By Chris Vetter, ProWrestling.net Contributor... The post ROH taping spoilers: Vetter’s report on the taping for upcoming HonorClub shows held after Saturday’s Collision in Green Bay (spoilers)...",
       "link": "https://prowrestling.net/site/2026/11/22/roh-taping-spoilers-vetters-report-on-the-taping-for-upcoming-honorclub-shows-held-after-saturdays-collision-in-green-bay-spoilers/",
-      "t": "1h",
+      "t": "7h",
       "dt": "2026-11-22T17:05:43+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW's Brody King Comments On Daniel Garcia Injury: 'It's Not Supposed To End Like That'",
-      "p": "AEW's Brody King addresses his opening round Continental Classic win, which came after Daniel Garcia suffered an injury.",
-      "link": "https://www.wrestlinginc.com/2324322/aew-brody-king-comments-daniel-garcia-injury-not-supposed-to-end/",
-      "t": "1h",
-      "dt": "2026-11-22T16:38:41+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "WWE HOFer Kevin Nash On Paul Wight: 'The Nicest F****** Person'",
-      "p": "WWE Hall of Famer Kevin Nash compliments AEW's Paul Wight on his new physique, and calls his former WCW co-worker \"the nicest f****** person\"",
-      "link": "https://www.wrestlinginc.com/2321842/wwe-hofer-kevin-nash-paul-wight-nicest-person/",
-      "t": "2h",
-      "dt": "2026-11-22T16:00:00+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Kevin Knight Says Don Callis Has ‘Put That Pressure’ On His Back To Win The Continental Classic",
-      "p": "Kevin Knight has addressed being the only Don Callis Family member to be entered into the AEW Continental Classic. On the November 21st edition of AEW Collision, the Continental Classic continued,...",
-      "link": "https://www.fightful.com/wrestling-news/kevin-knight-says-don-callis-has-put-that-pressure-on-his-back-to-win-the-continental-classic/",
-      "t": "2h",
-      "dt": "2026-11-22T15:54:44+00:00"
     },
     {
       "src": "Wrestling Observer",
       "h": "Brody King reacts to Daniel Garcia injury in AEW Collision post-show comments",
       "p": "AEW has released post-match comments from Brody King, Tommaso Ciampa, Ricochet, Kevin Knight, and Jay White following their matches in the Continental Classic on AEW Collision. The match between...",
       "link": "https://www.f4wonline.com/news/aew/brody-king-daniel-garcia-injury-aew-collision-post-show-comments/",
-      "t": "2h",
+      "t": "8h",
       "dt": "2026-11-22T15:32:43+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Continental Classic 2026 Round Up, 11/21 Collision",
-      "p": "The 2026 Continental Classic rolled on, with three more competitors securing their first wins on the November 21 edition of \"AEW Collision.\"",
-      "link": "https://www.wrestlinginc.com/2324298/aew-continental-classic-round-up-11-21-collision/",
-      "t": "2h",
-      "dt": "2026-11-22T15:30:22+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "MJF Promises He Will Get Brody King Fired Following Daniel Garcia Injury On AEW Collision",
-      "p": "MJF has reacted after a spot involving two previous rivals led to injury on the November 21st edition of AEW Collision. On this week’s episode of AEW Collision, Brody King and Daniel Garcia would...",
-      "link": "https://www.fightful.com/wrestling-news/mjf-promises-he-will-get-brody-king-fired-following-daniel-garcia-injury-on-aew-collision/",
-      "t": "3h",
-      "dt": "2026-11-22T15:22:09+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Brody King: Going Into This Danny, I Said I Owed You A Beating, But It’s Not Supposed To End Like That",
-      "p": "Brody King reacts to his match with Daniel Garcia on AEW Collision being stopped due to injury, noting it’s not supposed to end that way. On the November 21st edition of AEW Collision, the...",
-      "link": "https://www.fightful.com/wrestling-news/brody-king-going-into-this-danny-i-said-i-owed-you-a-beating-but-its-not-supposed-to-end-like-that/",
-      "t": "3h",
-      "dt": "2026-11-22T14:36:27+00:00"
     }
   ]
 }

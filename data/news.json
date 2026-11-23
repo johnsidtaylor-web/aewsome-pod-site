@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-23T00:14:49.629370+00:00",
+  "updated": "2026-11-23T07:42:22.638753+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (0 AEW items)",
+    "Fightful": "ok (1 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (4 AEW items)",
@@ -12,11 +12,59 @@
   },
   "items": [
     {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 11/22 – WKPWP AEW Dynamite Post-Show – 5 Yrs Ago: Epic CM Punk and MJF promo battle, Danielson vs. Cabana, Dante Martin joins Team Taz, Rosa vs. Hayter, more (109 min.)",
+      "p": "SHOW SUMMARY: In this week’s 5 Yrs Ago Flashback episode of the Wade Keller Pro Wrestling Post-show (11-24-2021), PWTorch assistant editor Zack Heydorn was joined by Jake Barnett of...",
+      "link": "https://www.pwtorch.com/site/2026/11/22/free-podcast-11-22-wkpwp-aew-dynamite-post-show-5-yrs-ago-epic-cm-punk-and-mjf-promo-battle-danielson-vs-cabana-dante-martin-joins-team-taz-rosa-vs-hayter-more-109-min/",
+      "t": "2h",
+      "dt": "2026-11-23T05:00:51+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Jeff Hardy 'Ashamed' Of DUIs In WWE And AEW",
+      "p": "Former WWE and AEW star Jeff Hardy recently apologized to a crowd of fans during an interview, sharing his regret over his past DUI arrests.",
+      "link": "https://www.wrestlinginc.com/2323520/jeff-hardy-ashamed-aew-dui-wwe-aew/",
+      "t": "2h",
+      "dt": "2026-11-23T04:59:00+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Austin Creed Recalls Trying To Double Leg Kurt Angle: ‘The Way He Sprawled, His Ankles Went To Mount Olympus And My Head Went To The Ground’",
+      "p": "Austin Creed recalls trying to double-leg Kurt Angle. In a video uploaded by USA Wrestling’s YouTube channel, world medalists Dymond Guilford and Adaugo Nwachukwu met with Mercedes Mone and other...",
+      "link": "https://www.fightful.com/wrestling-news/austin-creed-recalls-trying-to-double-leg-kurt-angle-the-way-he-sprawled-his-ankles-went-to-mount-olympus-and-my-head-went-to-the-ground/",
+      "t": "4h",
+      "dt": "2026-11-23T03:17:18+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Report: More details on Mark Briscoe’s injury",
+      "p": "An update on Mark Briscoe following his lengthy absence from AEW. Fightful Select’s Sean Ross Sapp is reporting that Briscoe has been sidelined with a knee injury that required surgery. While the...",
+      "link": "https://www.f4wonline.com/news/aew/report-more-details-on-mark-briscoes-injury/",
+      "t": "4h",
+      "dt": "2026-11-23T02:59:38+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jake Hager’s fiance disputes reports of permanent vision loss",
+      "p": "An update on Jake Hager following his serious eye injury. Hager’s fiancée, Patricia Blackburn, has disputed reports that the former WWE and AEW star has suffered permanent vision loss following...",
+      "link": "https://www.f4wonline.com/news/other-wrestling/jake-hagers-fiance-disputes-reports-of-permanent-vision-loss/",
+      "t": "5h",
+      "dt": "2026-11-23T02:38:31+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Anna Jay provides update following shoulder surgery",
+      "p": "Anna Jay has provided an update on her recovery from shoulder surgery. The AEW star spoke about her injury during a recent Twitch stream, revealing that everything is going well, though still has...",
+      "link": "https://www.f4wonline.com/news/aew/anna-jay-provides-update-following-shoulder-surgery/",
+      "t": "6h",
+      "dt": "2026-11-23T00:51:45+00:00"
+    },
+    {
       "src": "Wrestling Inc",
       "h": "MVP Offers Thoughts On Lawsuit Against WWE's Montez Ford: 'We Do Not Touch The Fans'",
       "p": "AEW star MVP is a fan of Montez Ford, but he believes the WWE wrestler made a mistake earlier this year when he gave a security guard a lap dance.",
       "link": "https://www.wrestlinginc.com/2322610/wwe-aew-mvp-montez-ford-thoughts-lawsuit-do-not-touch-fans/",
-      "t": "3h",
+      "t": "10h",
       "dt": "2026-11-22T21:00:00+00:00"
     },
     {
@@ -24,7 +72,7 @@
       "h": "AEW's Ricochet Looks Back At Wrestling Will Ospreay On Dynamite Tribute To Pac",
       "p": "AEW star Ricochet reflects on his emotional faceoff with Will Ospreay on the special \"Dynamite\" tribute show to Pac.",
       "link": "https://www.wrestlinginc.com/2322577/aew-dynamite-ricochet-will-ospreay-pac-looks-back-wrestling-tribute/",
-      "t": "4h",
+      "t": "12h",
       "dt": "2026-11-22T19:30:00+00:00"
     },
     {
@@ -32,7 +80,7 @@
       "h": "Daniel Garcia injury update after AEW Collision match stopped early | Exclusive",
       "p": "Bryan Alvarez has an update regarding the injury suffered by Daniel Garcia on AEW Collision on Saturday. The match between Garcia and Brody King was stopped early following Garcia taking a...",
       "link": "https://www.f4wonline.com/news/aew/daniel-garcia-injury-update-aew-collision-match-stopped-early/",
-      "t": "5h",
+      "t": "12h",
       "dt": "2026-11-22T19:11:42+00:00"
     },
     {
@@ -40,7 +88,7 @@
       "h": "Injury Update On Former AEW Star Jake Hager",
       "p": "An update has been released on the status of ex-AEW and WWE star Jake Hager two months after gruesome eye injury at Power Slap 23.",
       "link": "https://www.wrestlinginc.com/2324386/injury-update-former-aew-star-jake-hager/",
-      "t": "5h",
+      "t": "12h",
       "dt": "2026-11-22T19:10:49+00:00"
     },
     {
@@ -48,7 +96,7 @@
       "h": "Mara Sadè reveals discussions about teaming with AEW’s Kevin Knight",
       "p": "A former member of the WWE and TNA roster, Mara Sadè is now expected to have joined AEW, where she could team up with her real-life partner, Kevin Knight. Speaking to Allenownz Wrasslin, Sadè...",
       "link": "https://www.f4wonline.com/news/aew/mara-sade-reveals-discussions-about-teaming-with-aews-kevin-knight/",
-      "t": "5h",
+      "t": "12h",
       "dt": "2026-11-22T19:00:00+00:00"
     },
     {
@@ -56,56 +104,8 @@
       "h": "AEW's Kenny Omega Praises NJPW G1 Climax Final Between Yuya Uemura And Ryohei Oiwa",
       "p": "Kenny Omega was a huge fan of the NJPW G1 Climax 36 final, to the point where he has questioned if AEW has gotten too violent.",
       "link": "https://www.wrestlinginc.com/2322555/aew-kenny-omega-njpw-g1-climax-yuya-uemura-ryohei-oiwa/",
-      "t": "5h",
+      "t": "13h",
       "dt": "2026-11-22T18:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Andrade El Idolo Explains Origins Of Current AEW Gimmick",
-      "p": "On \"Talk Is Jericho,\" AEW's Andrade El Idolo explained how his gimmick has evolved and how it's taken on a life of its own due to the fans.",
-      "link": "https://www.wrestlinginc.com/2322289/andrade-el-idolo-origins-current-aew-gimmick-how-you-know/",
-      "t": "6h",
-      "dt": "2026-11-22T17:30:00+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Ilja Dragunov Makes First National Title Defense On AEW Collision",
-      "p": "One week after capturing the National Championship, Ilja Dragunov hosted his first successful title defense on Saturday's \"AEW Collision.\"",
-      "link": "https://www.wrestlinginc.com/2324338/ilja-dragunov-first-national-title-defense-aew-collision-clon/",
-      "t": "6h",
-      "dt": "2026-11-22T17:22:45+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "11/22 Pruett’s AEW Collision audio review: Tommaso Ciampa vs. Kevin Knight, Ricochet vs. Jay White, and Brody King vs. Daniel Garcia in Continental Classic matches",
-      "p": "By Will Pruett, ProWrestling.net Co-Senior... The post 11/22 Pruett’s AEW Collision audio review: Tommaso Ciampa vs. Kevin Knight, Ricochet vs. Jay White, and Brody King vs. Daniel Garcia in...",
-      "link": "https://prowrestling.net/site/2026/11/22/11-22-pruetts-aew-collision-audio-review-tommaso-ciampa-vs-kevin-knight-ricochet-vs-jay-white-and-brody-king-vs-daniel-garcia-in-continental-classic-matches/",
-      "t": "7h",
-      "dt": "2026-11-22T17:13:42+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision on-site report: Vetter’s in-person notes on Daniel Garcia’s injury, Kevin Knight’s awkward landing, Divine Dominion saving Viva Van, what may have encouraged more fans to stay for the ROH taping",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post AEW Collision on-site report: Vetter’s in-person notes on Daniel Garcia’s injury, Kevin Knight’s awkward landing, Divine Dominion saving...",
-      "link": "https://prowrestling.net/site/2026/11/22/aew-collision-on-site-report-vetters-in-person-notes-on-daniel-garcias-injury-kevin-knights-awkward-landing-divine-dominion-saving-viva-van-what-may-have-encouraged-more-fans-to-stay-for-the/",
-      "t": "7h",
-      "dt": "2026-11-22T17:11:48+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "ROH taping spoilers: Vetter’s report on the taping for upcoming HonorClub shows held after Saturday’s Collision in Green Bay (spoilers)",
-      "p": "By Chris Vetter, ProWrestling.net Contributor... The post ROH taping spoilers: Vetter’s report on the taping for upcoming HonorClub shows held after Saturday’s Collision in Green Bay (spoilers)...",
-      "link": "https://prowrestling.net/site/2026/11/22/roh-taping-spoilers-vetters-report-on-the-taping-for-upcoming-honorclub-shows-held-after-saturdays-collision-in-green-bay-spoilers/",
-      "t": "7h",
-      "dt": "2026-11-22T17:05:43+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Brody King reacts to Daniel Garcia injury in AEW Collision post-show comments",
-      "p": "AEW has released post-match comments from Brody King, Tommaso Ciampa, Ricochet, Kevin Knight, and Jay White following their matches in the Continental Classic on AEW Collision. The match between...",
-      "link": "https://www.f4wonline.com/news/aew/brody-king-daniel-garcia-injury-aew-collision-post-show-comments/",
-      "t": "8h",
-      "dt": "2026-11-22T15:32:43+00:00"
     }
   ]
 }

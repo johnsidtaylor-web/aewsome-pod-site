@@ -1,111 +1,111 @@
 {
-  "updated": "2026-11-25T09:47:39.516255+00:00",
+  "updated": "2026-11-25T19:54:10.965179+00:00",
   "count": 12,
   "sources": {
-    "Fightful": "ok (1 AEW items)",
+    "Fightful": "ok (4 AEW items)",
     "Wrestling Observer": "ok (6 AEW items)",
     "PWTorch": "ok (6 AEW items)",
-    "POST Wrestling": "ok (5 AEW items)",
+    "POST Wrestling": "ok (3 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (4 AEW items)",
+    "Wrestling Inc": "ok (3 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
     {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Start Time Tonight (11-25-2026)",
-      "p": "AEW Dynamite takes place tonight from the Liberty First Credit Union Arena in Omaha, NE with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. Kyle Fletcher will be taking on Andrade El...",
-      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-11-25-2026/",
-      "t": "1h",
-      "dt": "2026-11-25T08:43:38+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Dynamite Preview: Confirmed matches and segments (11-25-2026)",
-      "p": "AEW Dynamite takes place tonight from the Liberty First Credit Union Arena in Omaha, NE, and several matches and segments have already been confirmed for the broadcast. Kyle Fletcher will be...",
-      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-11-25-2026/",
-      "t": "1h",
-      "dt": "2026-11-25T08:36:15+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Buddy Matthews targeting 2027 for AEW return",
-      "p": "Absent for over a year now, Buddy Matthews recently opened up about his plans for a 2027 AEW return. Recently, speaking to RG News, Matthews opened up and claimed that he doesn’t expect to come...",
-      "link": "https://www.f4wonline.com/news/aew/buddy-matthews-targeting-2027-for-aew-return/",
-      "t": "1h",
-      "dt": "2026-11-25T08:00:00+00:00"
-    },
-    {
       "src": "PWTorch",
-      "h": "VIP PODCAST 11/24 – Everything with Rich & Wade: The Rock’s return at Survivor Series, Cody-Punk-Seth, 946-Bloodline, Bill Watts, Continental Classic, Kenny Omega, Charlotte, Marvel (105 min.)",
-      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: A look at the build to the Team USA vs. Team Mexico match with [...]",
-      "link": "https://www.pwtorch.com/site/2026/11/24/vip-podcast-11-24-everything-with-rich-wade-the-rocks-return-at-survivor-series-cody-punk-seth-946-bloodline-bill-watts-continental-classic-kenny-omega-charlotte-marvel-105-min/",
-      "t": "3h",
-      "dt": "2026-11-25T05:49:22+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Buddy Matthews provides update on Rhea Ripley’s WWE return",
-      "p": "AEW’s Buddy Matthews has opened up regarding his wife Rhea Ripley’s much-awaited WWE return. During a recent interview with RG News, Matthews discussed his wife Ripley’s WWE return. Ripley was...",
-      "link": "https://www.f4wonline.com/news/wwe/buddy-matthews-provides-update-on-rhea-ripleys-wwe-return/",
-      "t": "4h",
-      "dt": "2026-11-25T05:45:00+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "FREE PODCAST 11/24 – WKPWP Tuesday Flagship: Keller & Lansdell talk Cody-Punk-Seth predictions for Survivor Series, Bloodline-FTR, comparing how WWE and AEW are preparing for next generation, Nick Wayne, NJPW (118 min.)",
-      "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with PWTorch’s Chris Lansdell, making his long-awaited Flagship debut. They...",
-      "link": "https://www.pwtorch.com/site/2026/11/24/free-podcast-11-24-wkpwp-tuesday-flagship-keller-lansdell-talk-cody-punk-seth-predictions-for-survivor-series-bloodline-ftr-comparing-how-wwe-and-aew-are-preparing-for-next-generation/",
-      "t": "5h",
-      "dt": "2026-11-25T04:00:19+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW’s Kasper Brothers respond to ‘unsafe’ Cannonball finisher",
-      "p": "AEW’s newest additions, the Kasper Brothers, have now opened up about the “unsafe” comments regarding their Kasper Cannonball finisher. A few days ago, Kasper Brothers [Jacob & Drew Kasper]...",
-      "link": "https://www.f4wonline.com/news/aew/aews-kasper-brothers-respond-to-unsafe-cannonball-finisher/",
-      "t": "6h",
-      "dt": "2026-11-25T03:45:00+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW Collision TV ratings info for last Saturday",
-      "p": "Back in its normal night and at two hours, this past Saturday’s AEW Collision saw a drop in total viewers from the prior week’s hourlong show but was up from the last time they ran on Saturday....",
-      "link": "https://www.f4wonline.com/news/aew/aew-collision-tv-ratings-info-for-last-saturday/",
-      "t": "7h",
-      "dt": "2026-11-25T02:42:47+00:00"
+      "h": "AEW FEUD TRACKER: Barber’s look at the feuds coming out of Full Gear including the Ospreay-Fletcher follow-up",
+      "p": "HOUSEKEEPING • Marina Shafir will challenge Persephone for the CMLL World Women’s Title this Friday night in Arena México. It’s not inconceivable that Marina wins, but I do think it’s more likely...",
+      "link": "https://www.pwtorch.com/site/2026/11/25/aew-feud-tracker-barbers-look-at-the-feuds-coming-out-of-full-gear-including-the-ospreay-fletcher-follow-up/",
+      "t": "5m",
+      "dt": "2026-11-25T19:49:01+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Kasper Brothers Respond To Criticism Of Cannonball Finisher",
-      "p": "In their AEW in-ring debut, the Kasper Brothers (Drew Kasper & Jacob Kasper) defeated Cody Devine & Kevin Koa in just under 90 seconds. The finish saw the Kaspers hit the Kasper Cannonball with...",
-      "link": "https://www.fightful.com/wrestling-news/kasper-brothers-respond-to-criticism-of-cannonball-finisher/",
-      "t": "7h",
-      "dt": "2026-11-25T02:33:06+00:00"
+      "h": "AEW Collision (11/21) Draws 434,000 Viewers",
+      "p": "AEW Collision viewership information for November 21. Wrestlenomics reports that AEW Collision drew 434,000 viewers on TNT on Saturday, November 21. This number is up from the 376,000 viewers the...",
+      "link": "https://www.fightful.com/wrestling-news/aew-collision-11-21-draws-434000-viewers/",
+      "t": "59m",
+      "dt": "2026-11-25T18:54:01+00:00"
     },
     {
-      "src": "Wrestling Inc",
-      "h": "Buddy Matthews Hints At Major Changes Upon AEW Return",
-      "p": "AEW star Buddy Matthews hinted at majors changes upon his return to the company following a February 2025 injury.",
-      "link": "https://www.wrestlinginc.com/2327553/aew-buddy-matthews-major-changes-return/",
+      "src": "PWTorch",
+      "h": "AEW DYNAMITE PREVIEW (11/25): Announced matches, location, ticket sales, how to watch",
+      "p": "When: WEDNESDAY, NOVEMBER 25, 2026 Where: RALSTON, NEB. AT LIBERTY FIRST CREDIT UNION ARENA How To Watch: Live on TBS and on Max streaming service Attendance: WrestleTix reported that 2,572...",
+      "link": "https://www.pwtorch.com/site/2026/11/25/aew-dynamite-preview-11-25-announced-matches-location-ticket-sales-how-to-watch/",
+      "t": "1h",
+      "dt": "2026-11-25T18:37:01+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Collision rating (11/21): Did the Continental Classic boost the numbers?",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision rating (11/21): Did the Continental Classic boost the numbers? appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/25/aew-collision-rating-11-21-did-the-continental-classic-boost-the-numbers/",
+      "t": "2h",
+      "dt": "2026-11-25T17:51:01+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Buddy Matthews Names Three Dream Matches He Has His Eye On In AEW",
+      "p": "Buddy Matthews has named several dream matches that he has his eye on when it comes to his potential AEW return from injury. Matthews has been out of the ring since February of 2025, and has yet...",
+      "link": "https://www.fightful.com/wrestling-news/buddy-matthews-names-three-dream-matches-he-has-his-eye-on-in-aew/",
+      "t": "2h",
+      "dt": "2026-11-25T17:06:12+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW announces Dangerous New Level segment for Dynamite",
+      "p": "The trio consisting of Swerve Strickland, Austin Creed, and Kofi, now known as The Dangerous New Level, will be on Dynamite tonight. AEW announced on Wednesday that “we’ll hear from” the AEW World...",
+      "link": "https://www.f4wonline.com/news/aew/aew-announces-dangerous-new-level-segment-for-dynamite/",
+      "t": "2h",
+      "dt": "2026-11-25T16:58:08+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Buddy Matthews: Pac Was Beyond An Awesome Person And Just Amazing In The Ring",
+      "p": "Buddy Matthews discusses the top 6 talent he has shared a ring with not only in AEW but also during his time with WWE. Matthews is one of several talents that has found himself on the roster of...",
+      "link": "https://www.fightful.com/wrestling-news/buddy-matthews-pac-was-beyond-an-awesome-person-and-just-amazing-in-the-ring/",
+      "t": "3h",
+      "dt": "2026-11-25T16:46:38+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Taya Valkyrie explains why she left AEW, says she ‘wasn’t happy’",
+      "p": "Taya Valkyrie broke down her decision to leave AEW in a new interview with TMZ. Valkyrie released a statement on November 4 announcing that she had declined to accept an offer to extend her...",
+      "link": "https://www.f4wonline.com/news/aew/taya-valkyrie-explains-why-she-left-aew/",
+      "t": "3h",
+      "dt": "2026-11-25T16:18:37+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Ilja Dragunov Wants To Wrestle People Who Are ‘Drawn To A Certain Artistic Form Of Violence’ Like Jon Moxley And Samoa Joe",
+      "p": "Ilja Dragunov wants to wrestle certain AEW stars who are drawn to a ‘certain artistic form of violence’ in All Elite Wrestling. Dragunov has only been in All Elite Wrestling for a short time,...",
+      "link": "https://www.fightful.com/wrestling-news/ilja-dragunov-wants-to-wrestle-people-who-are-drawn-to-a-certain-artistic-form-of-violence-like-jon-moxley-and-samoa-joe/",
+      "t": "4h",
+      "dt": "2026-11-25T15:30:13+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite preview: The Continental Classic continues on tonight’s Thanksgiving Eve edition",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite preview: The Continental Classic continues on tonight’s Thanksgiving Eve edition appeared first on Pro Wrestling Dot Net.",
+      "link": "https://prowrestling.net/site/2026/11/25/aew-dynamite-preview-the-continental-classic-continues-on-tonights-thanksgiving-eve-edition/",
+      "t": "4h",
+      "dt": "2026-11-25T15:00:48+00:00"
+    },
+    {
+      "src": "ProWrestling.net",
+      "h": "AEW Dynamite coverage, AEW Collision taping (reports needed), WWE Evolve note, WWE Main Event, last week’s Dynamite and Collision grade, Josh Mathews, Cruz Del Toro, Blackjack Mulligan, Johnny Valiant, Angel of Death, Kantaro Hoshino, Connor Michalek",
+      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Dynamite coverage, AEW Collision taping (reports needed), WWE Evolve note, WWE Main Event, last week’s Dynamite and Collision grade, Josh...",
+      "link": "https://prowrestling.net/site/2026/11/25/aew-dynamite-coverage-aew-collision-taping-reports-needed-wwe-evolve-note-wwe-main-event-last-weeks-dynamite-and-collision-grade-josh-mathews-cruz-del-toro-blackjack-mulligan-johnny-v/",
+      "t": "6h",
+      "dt": "2026-11-25T13:00:20+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Jeff Jarrett believes WWE Survivor Series ‘doesn’t feel special anymore’",
+      "p": "WWE Hall of Famer and AEW performer Jeff Jarrett recently discussed the upcoming WWE Survivor Series event and why he feels it is no longer ‘special.’ Speaking with co-host Conrad Thompson on his...",
+      "link": "https://www.f4wonline.com/news/wwe/jeff-jarrett-wwe-survivor-series-doesnt-feel-special-anymore/",
       "t": "9h",
-      "dt": "2026-11-25T00:34:46+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Latest Update On Injury Suffered By AEW Star Daniel Garcia During Continental Classic",
-      "p": "Dave Meltzer provided another update on the injury suffered by AEW star Daniel Garcia during a Continental Classic match on \"AEW Collision.\"",
-      "link": "https://www.wrestlinginc.com/2327455/aew-daniel-garcia-injury-suffered-continental-classicl-latest-update/",
-      "t": "11h",
-      "dt": "2026-11-24T22:45:33+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "POST NEWS: Takeshita replaces Garcia, World Tag League Review & Mike Romo’s TNA release",
-      "p": "John Pollock recaps the news for Tuesday, with Daniel Garcia out of the C2, World Tag League review, and Mike Romo’s TNA departure. Available for Double Double & Espresso members at...",
-      "link": "https://www.postwrestling.com/2026/11/24/post-news-takeshita-replaces-garcia-world-tag-league-review-mike-romos-tna-release/",
-      "t": "12h",
-      "dt": "2026-11-24T21:14:12+00:00"
+      "dt": "2026-11-25T10:25:56+00:00"
     }
   ]
 }

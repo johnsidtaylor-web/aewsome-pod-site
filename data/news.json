@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T00:38:17.876334+00:00",
+  "updated": "2026-11-25T09:47:39.516255+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (1 AEW items)",
@@ -7,105 +7,105 @@
     "PWTorch": "ok (6 AEW items)",
     "POST Wrestling": "ok (5 AEW items)",
     "PWInsider": "FAILED (HTTP Error 404: Not Found)",
-    "Wrestling Inc": "ok (3 AEW items)",
+    "Wrestling Inc": "ok (4 AEW items)",
     "ProWrestling.net": "ok (6 AEW items)"
   },
   "items": [
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Start Time Tonight (11-25-2026)",
+      "p": "AEW Dynamite takes place tonight from the Liberty First Credit Union Arena in Omaha, NE with a start time of 8pm Eastern, 7pm Central and 5pm Pacific. Kyle Fletcher will be taking on Andrade El...",
+      "link": "https://www.f4wonline.com/event-guides/aew-dynamite-start-time-tonight-11-25-2026/",
+      "t": "1h",
+      "dt": "2026-11-25T08:43:38+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Dynamite Preview: Confirmed matches and segments (11-25-2026)",
+      "p": "AEW Dynamite takes place tonight from the Liberty First Credit Union Arena in Omaha, NE, and several matches and segments have already been confirmed for the broadcast. Kyle Fletcher will be...",
+      "link": "https://www.f4wonline.com/news/aew/aew-dynamite-preview-confirmed-matches-segments-11-25-2026/",
+      "t": "1h",
+      "dt": "2026-11-25T08:36:15+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Buddy Matthews targeting 2027 for AEW return",
+      "p": "Absent for over a year now, Buddy Matthews recently opened up about his plans for a 2027 AEW return. Recently, speaking to RG News, Matthews opened up and claimed that he doesn’t expect to come...",
+      "link": "https://www.f4wonline.com/news/aew/buddy-matthews-targeting-2027-for-aew-return/",
+      "t": "1h",
+      "dt": "2026-11-25T08:00:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 11/24 – Everything with Rich & Wade: The Rock’s return at Survivor Series, Cody-Punk-Seth, 946-Bloodline, Bill Watts, Continental Classic, Kenny Omega, Charlotte, Marvel (105 min.)",
+      "p": "SHOW SUMMARY: In this week’s episode of “Everything with Rich Fann hosted by Wade Keller,” Wade and Rich discuss these topics: A look at the build to the Team USA vs. Team Mexico match with [...]",
+      "link": "https://www.pwtorch.com/site/2026/11/24/vip-podcast-11-24-everything-with-rich-wade-the-rocks-return-at-survivor-series-cody-punk-seth-946-bloodline-bill-watts-continental-classic-kenny-omega-charlotte-marvel-105-min/",
+      "t": "3h",
+      "dt": "2026-11-25T05:49:22+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Buddy Matthews provides update on Rhea Ripley’s WWE return",
+      "p": "AEW’s Buddy Matthews has opened up regarding his wife Rhea Ripley’s much-awaited WWE return. During a recent interview with RG News, Matthews discussed his wife Ripley’s WWE return. Ripley was...",
+      "link": "https://www.f4wonline.com/news/wwe/buddy-matthews-provides-update-on-rhea-ripleys-wwe-return/",
+      "t": "4h",
+      "dt": "2026-11-25T05:45:00+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "FREE PODCAST 11/24 – WKPWP Tuesday Flagship: Keller & Lansdell talk Cody-Punk-Seth predictions for Survivor Series, Bloodline-FTR, comparing how WWE and AEW are preparing for next generation, Nick Wayne, NJPW (118 min.)",
+      "p": "SHOW SUMMARY: PWTorch editor Wade Keller presents the Tuesday Flagship edition of the Wade Keller Pro Wrestling Podcast with PWTorch’s Chris Lansdell, making his long-awaited Flagship debut. They...",
+      "link": "https://www.pwtorch.com/site/2026/11/24/free-podcast-11-24-wkpwp-tuesday-flagship-keller-lansdell-talk-cody-punk-seth-predictions-for-survivor-series-bloodline-ftr-comparing-how-wwe-and-aew-are-preparing-for-next-generation/",
+      "t": "5h",
+      "dt": "2026-11-25T04:00:19+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW’s Kasper Brothers respond to ‘unsafe’ Cannonball finisher",
+      "p": "AEW’s newest additions, the Kasper Brothers, have now opened up about the “unsafe” comments regarding their Kasper Cannonball finisher. A few days ago, Kasper Brothers [Jacob & Drew Kasper]...",
+      "link": "https://www.f4wonline.com/news/aew/aews-kasper-brothers-respond-to-unsafe-cannonball-finisher/",
+      "t": "6h",
+      "dt": "2026-11-25T03:45:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "AEW Collision TV ratings info for last Saturday",
+      "p": "Back in its normal night and at two hours, this past Saturday’s AEW Collision saw a drop in total viewers from the prior week’s hourlong show but was up from the last time they ran on Saturday....",
+      "link": "https://www.f4wonline.com/news/aew/aew-collision-tv-ratings-info-for-last-saturday/",
+      "t": "7h",
+      "dt": "2026-11-25T02:42:47+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Kasper Brothers Respond To Criticism Of Cannonball Finisher",
+      "p": "In their AEW in-ring debut, the Kasper Brothers (Drew Kasper & Jacob Kasper) defeated Cody Devine & Kevin Koa in just under 90 seconds. The finish saw the Kaspers hit the Kasper Cannonball with...",
+      "link": "https://www.fightful.com/wrestling-news/kasper-brothers-respond-to-criticism-of-cannonball-finisher/",
+      "t": "7h",
+      "dt": "2026-11-25T02:33:06+00:00"
+    },
+    {
+      "src": "Wrestling Inc",
+      "h": "Buddy Matthews Hints At Major Changes Upon AEW Return",
+      "p": "AEW star Buddy Matthews hinted at majors changes upon his return to the company following a February 2025 injury.",
+      "link": "https://www.wrestlinginc.com/2327553/aew-buddy-matthews-major-changes-return/",
+      "t": "9h",
+      "dt": "2026-11-25T00:34:46+00:00"
+    },
     {
       "src": "Wrestling Inc",
       "h": "Latest Update On Injury Suffered By AEW Star Daniel Garcia During Continental Classic",
       "p": "Dave Meltzer provided another update on the injury suffered by AEW star Daniel Garcia during a Continental Classic match on \"AEW Collision.\"",
       "link": "https://www.wrestlinginc.com/2327455/aew-daniel-garcia-injury-suffered-continental-classicl-latest-update/",
-      "t": "1h",
+      "t": "11h",
       "dt": "2026-11-24T22:45:33+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW’s Zayda Steel discusses family opposition to her wrestling career",
-      "p": "Zayda Steel revealed during a recent interview that she no longer speaks with some family members due to her decision to become a professional wrestler. During an interview with The Wrestling...",
-      "link": "https://www.f4wonline.com/news/aew/aew-zayda-steel-discusses-family-opposition-wrestling-career/",
-      "t": "3h",
-      "dt": "2026-11-24T21:32:57+00:00"
     },
     {
       "src": "POST Wrestling",
       "h": "POST NEWS: Takeshita replaces Garcia, World Tag League Review & Mike Romo’s TNA release",
       "p": "John Pollock recaps the news for Tuesday, with Daniel Garcia out of the C2, World Tag League review, and Mike Romo’s TNA departure. Available for Double Double & Espresso members at...",
       "link": "https://www.postwrestling.com/2026/11/24/post-news-takeshita-replaces-garcia-world-tag-league-review-mike-romos-tna-release/",
-      "t": "3h",
+      "t": "12h",
       "dt": "2026-11-24T21:14:12+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "WOL: WWE’s easily avoidable Cody Rhodes booking problem, why Dynamite is getting extra hours",
-      "p": "Wrestling Observer Live with Bryan Alvarez and Lance Storm is back with tons to talk about including the RAW report, a discussion of what WWE could have easily done to not making Cody look like a...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/wol-wwes-easily-avoidable-cody-rhodes-booking-problem-why-dynamite-is-getting-extra-hours/",
-      "t": "3h",
-      "dt": "2026-11-24T21:07:53+00:00"
-    },
-    {
-      "src": "Fightful",
-      "h": "Swerve Strickland Scheduled For APC France Show In January 2027",
-      "p": "Swerve Strickland is heading back to France. It was announced by the France-based Association les Professionnels du Catch promotion that former AEW World Champion Swerve Strickland is scheduled...",
-      "link": "https://www.fightful.com/wrestling-news/swerve-strickland-scheduled-for-apc-france-show-in-january-2027/",
-      "t": "3h",
-      "dt": "2026-11-24T21:04:33+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "Konosuke Takeshita Steps In For Injured AEW Star In Continental Classic 2026",
-      "p": "Konosuke Takeshita is set to join the 2026 AEW Continental Classic, stepping in for an injured star.",
-      "link": "https://www.wrestlinginc.com/2327013/aew-konosuke-takeshita-daniel-garcia-steps-in-injured-continental-classic-2026/",
-      "t": "5h",
-      "dt": "2026-11-24T19:27:19+00:00"
-    },
-    {
-      "src": "PWTorch",
-      "h": "AEW RISING AND FADING STARS: Kline’s look at MJF’s return, Nick Wayne’s overall presentation and YouTube promo, Wrathlander humor, more",
-      "p": "Welcome everyone! All Elite Wrestling has had 51 PPVs where they had a follow up Dynamite, 53 total overall, plus the Fyter Fest Free show from 2019 (Darby’s coming out party and proof that Jon [...]",
-      "link": "https://www.pwtorch.com/site/2026/11/24/aew-rising-and-fading-stars-klines-look-at-mjfs-return-nick-waynes-overall-presentation-and-youtube-promo-wrathlander-humor-more/",
-      "t": "5h",
-      "dt": "2026-11-24T19:13:42+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW named on list of “Brands That Matter” by Fast Company",
-      "p": "All Elite Wrestling received some positive publicity on Tuesday after being named by Fast Company’s “Brands That Matter”. The post AEW named on list of “Brands That Matter” by Fast Company...",
-      "link": "https://www.postwrestling.com/2026/11/24/aew-named-on-list-of-brands-that-matter-by-fast-company/",
-      "t": "5h",
-      "dt": "2026-11-24T19:08:09+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Son of AEW coach Scotty 2 Hotty to train in Japan",
-      "p": "Keagan Garland, the son of AEW coach Scott Garland (Scotty 2 Hotty), is heading to Japan as he takes the next step in his pro wrestling career. We’ve already seen Keagan compete in ROH, including...",
-      "link": "https://www.f4wonline.com/news/other-wrestling/son-of-aew-coach-scotty-2-hotty-to-train-in-japan/",
-      "t": "5h",
-      "dt": "2026-11-24T18:49:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW reacts to being named to Fast Company ‘Brands That Matter’ list",
-      "p": "AEW is “honored” to have been named to Fast Company’s “Brands That Matter” list for 2026. The well-known business publication released its annual list on Tuesday recognizing 137 brands that...",
-      "link": "https://www.f4wonline.com/news/aew/aew-reacts-to-being-named-to-fast-company-brands-that-matter-list/",
-      "t": "6h",
-      "dt": "2026-11-24T18:17:47+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Update on three-hour AEW programming blocks, Worlds End pre-show | Exclusive",
-      "p": "Bryan Alvarez has an update on why AEW has two three-hour blocks of television scheduled for December. AEW has three-hour blocks of programming scheduled for December 2 and December 16 next month,...",
-      "link": "https://www.f4wonline.com/news/aew/update-on-three-hour-aew-programming-blocks-worlds-end-pre-show-exclusive/",
-      "t": "7h",
-      "dt": "2026-11-24T17:27:53+00:00"
-    },
-    {
-      "src": "ProWrestling.net",
-      "h": "AEW Collision lineup: Daniel Garcia’s replacement in the Continental Classic, the Thanksgiving night card",
-      "p": "By Jason Powell, ProWrestling.net Editor... The post AEW Collision lineup: Daniel Garcia’s replacement in the Continental Classic, the Thanksgiving night card appeared first on Pro Wrestling Dot Net.",
-      "link": "https://prowrestling.net/site/2026/11/24/aew-collision-lineup-daniel-garcias-replacement-in-the-continental-classic-the-thanksgiving-night-card/",
-      "t": "8h",
-      "dt": "2026-11-24T16:27:37+00:00"
     }
   ]
 }

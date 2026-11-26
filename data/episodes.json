@@ -1,15 +1,33 @@
 {
-  "updated": "2026-11-22T03:05:01.543696+00:00",
-  "count": 258,
+  "updated": "2026-11-26T22:16:48.438873+00:00",
+  "count": 259,
   "latest_embeds": {
-    "apple_track_id": 1000803246809,
-    "apple_slug": "friends-dont-let-friends-hit-buckshots",
-    "apple_title": "Friends Don’t Let Friends Hit Buckshots",
-    "apple_release": "2026-11-21T05:57:00Z",
-    "spotify_episode_id": "6mkNhy6rBUeZKp8P44P4qz",
-    "spotify_title": "Friends Don’t Let Friends Hit Buckshots"
+    "apple_track_id": 1000804265260,
+    "apple_slug": "when-does-the-devil-get-a-holiday",
+    "apple_title": "When Does the Devil Get a Holiday?",
+    "apple_release": "2026-11-26T21:03:00Z",
+    "spotify_episode_id": "0GWEoXt3Brap5Iq3YbZGbG",
+    "spotify_title": "When Does the Devil Get a Holiday?"
   },
   "episodes": [
+    {
+      "num": 258,
+      "title": "When Does the Devil Get a Holiday?",
+      "date": "Nov 26, 2026",
+      "date_iso": "2026-11-26T21:03:00+00:00",
+      "len": "10m",
+      "blurb": "Episode 258 of the AEW-some Pod is up. Diana Prince (The Last Drive-In with Joe Bob Briggs, Halloween Ends), Johnny Taylor (The Hard Times, Stand-Up! Records, Tubi), and Gringo Fantastico (Troma's Disasterpiece Theater) cover Thanksgiving Eve Dynamite from Omaha. Will Ospreay answers MJF from a safe distance and...",
+      "blurb_full": "Episode 258 of the AEW-some Pod is up. Diana Prince (The Last Drive-In with Joe Bob Briggs, Halloween Ends), Johnny Taylor (The Hard Times, Stand-Up! Records, Tubi), and Gringo Fantastico (Troma's Disasterpiece Theater) cover Thanksgiving Eve Dynamite from Omaha. Will Ospreay answers MJF from a safe distance and picks a ladder. MJF stages a sit-in, loses to a main event, and breaks a camera. Jay White hugs Hangman Page and then ruins his night, Kyle Fletcher wins with Don Callis, a screwdriver and no shame, and 18 people get squashed in about three minutes. We also talk Takeshita, the Copeland \"retirement celebration,\" and why Hangman needs a bowl of stuffing. Rate, review, and subscribe, or MJF sits on your porch until the graphic changes. This episode is presented by Kalshi, the prediction market for sports, news and more. Try Kalshi today! Trade $25, get $25 when you sign up with code BLEAV at",
+      "audio": "https://pdrl.fm/747638/pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/69a332b7-e422-4daa-9df1-e77881cf2ba1/episodes/7df02fd7-48f4-4647-8003-3ee3c44d8f0f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=69a332b7-e422-4daa-9df1-e77881cf2ba1&amp;awEpisodeId=7df02fd7-48f4-4647-8003-3ee3c44d8f0f&amp;feed=nroyEyaj",
+      "link": "https://bleav.com/shows/the-aew-some-pod/episodes/when-does-the-devil-get-a-holiday/",
+      "guid": "89b1bf4b-ab75-4251-8c87-229bc7bcdaed",
+      "image": "",
+      "simplecast_id": "7df02fd7-48f4-4647-8003-3ee3c44d8f0f",
+      "apple_track_id": 1000804265260,
+      "apple_slug": "when-does-the-devil-get-a-holiday",
+      "spotify_episode_id": "0GWEoXt3Brap5Iq3YbZGbG",
+      "slug": "when-does-the-devil-get-a-holiday"
+    },
     {
       "num": 257,
       "title": "Friends Don’t Let Friends Hit Buckshots",
@@ -25,7 +43,6 @@
       "simplecast_id": "697dd633-46ac-45f1-b403-c5f3a5e88a88",
       "apple_track_id": 1000803246809,
       "apple_slug": "friends-dont-let-friends-hit-buckshots",
-      "spotify_episode_id": "6mkNhy6rBUeZKp8P44P4qz",
       "slug": "friends-dont-let-friends-hit-buckshots"
     },
     {
@@ -3407,9 +3424,7 @@
       "guid": "b24dca34-6b19-45ec-8760-1b13636ee3e0",
       "image": "https://image.simplecastcdn.com/images/69a332/69a332b7-e422-4daa-9df1-e77881cf2ba1/5391fa1c-7309-4105-8276-aaaf78e5877c/3000x3000/5aabcb8eeea6f388547e78f194bed4fc.jpg?aid=rss_feed",
       "simplecast_id": "5391fa1c-7309-4105-8276-aaaf78e5877c",
-      "apple_track_id": 1000637628350,
-      "apple_slug": "episode-57-recapping-dynamite-collision-for-november",
-      "slug": "episode-57-recapping-dynamite-collision-for-november"
+      "slug": "episode-57-recapping-dynamite-collision-for-november-29-december-2"
     },
     {
       "num": 56,

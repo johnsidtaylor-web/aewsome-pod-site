@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:24:53.615703+00:00",
+  "updated": "2026-11-28T07:39:59.391642+00:00",
   "count": 12,
   "sources": {
     "Fightful": "ok (3 AEW items)",
@@ -12,35 +12,83 @@
   },
   "items": [
     {
-      "src": "Fightful",
-      "h": "Austin Creed Recalls Cutting A Promo About Pokemon Go, Vince McMahon Not Understanding It",
-      "p": "In 2016, the world changed forever with the release of Pokemon Go. The latest craze took fans by storm, including those in wrestling. Being anime enthusiasts, Xavier Woods (Austin Creed in AEW)...",
-      "link": "https://www.fightful.com/wrestling-news/austin-creed-recalls-cutting-a-promo-about-pokemon-go-vince-mcmahon-not-understanding-it/",
-      "t": "34m",
-      "dt": "2026-11-27T22:49:56+00:00"
+      "src": "Wrestling Observer",
+      "h": "AEW 2026 PPV list & schedule: How to watch, start time, streaming options",
+      "p": "AEW schedule of pay-per-views and special shows are always developing throughout the year. The following is the known/announced schedule for both AEW pay-per-views throughout 2026. Read More – How...",
+      "link": "https://www.f4wonline.com/event-guides/aew-2026-ppv-schedule/",
+      "t": "3h",
+      "dt": "2026-11-28T04:39:37+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH Final Battle updates: New additions to Survival of the Fittest, Women’s TV title semifinals",
+      "p": "Next Friday’s Ring of Honor Final Battle is starting to round into form with several new additions to the main event and a semifinal set for the Women’s TV title tournament. Friday’s special...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-final-battle-2026-card-updates-matt-sydal-hechicero-mina-dani-luna/",
+      "t": "3h",
+      "dt": "2026-11-28T04:16:32+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Francesco Akira Feels United Empire Shouldn’t Be Recruiting Right Now",
-      "p": "Francesco Akira does not think the group should be adding new members. There is a definitive split in the United Empire faction. It exists in All Elite Wrestling and is led by AEW World Champion...",
-      "link": "https://www.fightful.com/wrestling-news/francesco-akira-feels-united-empire-shouldnt-be-recruiting-right-now/",
-      "t": "56m",
-      "dt": "2026-11-27T22:28:05+00:00"
+      "h": "AEW Pays Tribute To Jermaine Haley (Bronson Reed)",
+      "p": "All Elite Wrestling pays tribute to Jermaine Haley (Bronson Reed). On November 27, WWE announced the passing of Bronson Reed. He was last seen on WWE programming during the Crown Jewel show. Reed...",
+      "link": "https://www.fightful.com/wrestling-news/aew-pays-tribute-to-jermaine-haley-bronson-reed/",
+      "t": "3h",
+      "dt": "2026-11-28T04:09:38+00:00"
     },
     {
       "src": "Fightful",
-      "h": "Francesco Akira Discusses United Empire Forming In USA While Existing In Japan",
-      "p": "Francesco Akira opens up about United Empire. Due to the heated conflict between Callum Newman and AEW World Champion Will Ospreay, the United Empire faction was split. The group exists in All...",
-      "link": "https://www.fightful.com/wrestling-news/francesco-akira-discusses-united-empire-forming-in-usa-while-existing-in-japan/",
-      "t": "1h",
-      "dt": "2026-11-27T21:58:07+00:00"
+      "h": "Hechicero And Matt Sydal Qualify For Survival Of The Fittest Match At ROH Final Battle",
+      "p": "Two more names are set for the World Title match at ROH Final Battle. Hechicero and Matt Sydal are the latest names to qualify for the World Title match at Final Battle, winning their respective...",
+      "link": "https://www.fightful.com/wrestling-news/hechicero-and-matt-sydal-qualify-for-survival-of-the-fittest-match-at-roh-final-battle/",
+      "t": "3h",
+      "dt": "2026-11-28T04:07:14+00:00"
+    },
+    {
+      "src": "Fightful",
+      "h": "Two Title Bouts, More Set For ROH Final Battle",
+      "p": "Two more title matches have been added to ROH Final Battle. Ring of Honor announced that Lee Moriarty will defend the Pure Championship against Wheeler Yuta at Final Battle on December 4....",
+      "link": "https://www.fightful.com/wrestling-news/two-title-bouts-more-set-for-roh-final-battle/",
+      "t": "3h",
+      "dt": "2026-11-28T04:02:40+00:00"
+    },
+    {
+      "src": "PWTorch",
+      "h": "VIP PODCAST 11/27 – WKH – The News: Devastatingly sad news that Bronson Reed has died, Survivor Series attendance notes, Cody interested in creative role behind scenes, Collision notes, more (26 min.)",
+      "p": "SHOW SUMMARY: In this edition of the Wade Keller Hotline, PWTorch editor Wade Keller covers the latest headlines and news topics: Breaking devastating news on death of Bronson Reed WWE Survivor...",
+      "link": "https://www.pwtorch.com/site/2026/11/27/vip-podcast-11-27-wkh-the-news-devastatingly-sad-news-that-bronson-reed-has-died-survivor-series-attendance-notes-cody-interested-in-creative-role-behind-scenes-collision-notes-more-26-min/",
+      "t": "4h",
+      "dt": "2026-11-28T02:46:57+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "WOR: Bill Watts stories, Survivor Series, AEW business notes",
+      "p": "NOTE: The news of Jermaine Haley, aka Bronson Reed, passing away happened right as we finished the show. We recorded a show right after to talk about the news. Dave Meltzer and I are back on...",
+      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-radio/wor-bill-watts-stories-survivor-series-aew-business-notes/",
+      "t": "5h",
+      "dt": "2026-11-28T02:10:10+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "ROH Black Friday live results: Survival of the Fittest qualifiers, women’s TV title tournament",
+      "p": "Ring of Honor presents a special show on Black Friday tonight. There will be two Survival of the Fittest qualifiers for the ROH World Championship match at Final Battle. Matt Taven vs. Matt Sydal...",
+      "link": "https://www.f4wonline.com/news/ring-of-honor/roh-results/roh-black-friday-live-results-survival-of-the-fittest-qualifiers-womens-tv-title-tournament/",
+      "t": "7h",
+      "dt": "2026-11-28T00:14:00+00:00"
+    },
+    {
+      "src": "Wrestling Observer",
+      "h": "Daily Update: Weekend show previews, Mercedes Mone vs. AZM, Bandido",
+      "p": "Daily Update Latest News Latest Audio Latest YouTube Video This Week’s Wrestling Observer Newsletter FIRST TIME SUBSCRIBERS GET 50% OFF YOUR FIRST MONTH Friday Update — Our weekend schedule will...",
+      "link": "https://www.f4wonline.com/news/aew/daily-update-weekend-show-previews-mercedes-mone-vs-azm-bandido/",
+      "t": "8h",
+      "dt": "2026-11-27T23:25:29+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "11/27 Dot Net Weekly and PW Boom Combo Show (Episode 435): WWE Survivor Series predictions, Nick Dinsmore, Daniel Garcia, Thea Hail, TNA contracts, AEW Dynamite",
       "p": "By Jake Barnett (@jakebarnett) and Jason... The post 11/27 Dot Net Weekly and PW Boom Combo Show (Episode 435): WWE Survivor Series predictions, Nick Dinsmore, Daniel Garcia, Thea Hail, TNA...",
       "link": "https://prowrestling.net/site/2026/11/27/11-27-dot-net-weekly-and-pw-boom-combo-show-episode-435-wwe-survivor-series-predictions-nick-dinsmore-daniel-garcia-thea-hail-tna-contracts-aew-dynamite/",
-      "t": "1h",
+      "t": "10h",
       "dt": "2026-11-27T21:25:45+00:00"
     },
     {
@@ -48,64 +96,16 @@
       "h": "New Level praise AEW creative environment",
       "p": "The New Level are enjoying the creative environment during their first few months in AEW. On a Talk is Jericho episode that was recorded live on Chris Jericho’s Rock ‘n’ Wrestling Rager at Sea,...",
       "link": "https://www.f4wonline.com/news/aew/new-level-praise-aew-creative-environment/",
-      "t": "2h",
+      "t": "10h",
       "dt": "2026-11-27T21:24:08+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "FREE WOL: The right finish for WarGames, Rock rumors heat up, Continental Classic delivers",
-      "p": "On this FREE edition of Wrestling Observer Live, Bryan Alvarez and Lance Storm talk all the news in wrestling including Smackdown and Survivor Series tomorrow, tons of rumors about the Rock and...",
-      "link": "https://www.f4wonline.com/podcasts/wrestling-observer-live/free-wol-the-right-finish-for-wargames-rock-rumors-heat-up-continental-classic-delivers/",
-      "t": "2h",
-      "dt": "2026-11-27T21:05:59+00:00"
     },
     {
       "src": "ProWrestling.net",
       "h": "11/27 Powell’s AEW Collision audio review: Konosuke Takeshita vs. Bandido, Brody King vs. Ricochet, and Tommaso Ciampa vs. Nick Wayne in Continental Classic matches",
       "p": "By Jason Powell, ProWrestling.net Editor... The post 11/27 Powell’s AEW Collision audio review: Konosuke Takeshita vs. Bandido, Brody King vs. Ricochet, and Tommaso Ciampa vs. Nick Wayne in...",
       "link": "https://prowrestling.net/site/2026/11/27/11-27-powells-aew-collision-audio-review-konosuke-takeshita-vs-bandido-brody-king-vs-ricochet-and-tommaso-ciampa-vs-nick-wayne-in-continental-classic-matches/",
-      "t": "2h",
+      "t": "10h",
       "dt": "2026-11-27T21:05:33+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "Bryan Alvarez’s AEW Collision November 26 report for subscribers",
-      "p": "Bryan Alvarez’s report on the November 26 edition of AEW Collision is now available for subscribers.",
-      "link": "https://www.f4wonline.com/news/aew/bryan-alvarez-aew-collision-november-26-2026-report/",
-      "t": "3h",
-      "dt": "2026-11-27T19:54:48+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "RJ City Says Toni Storm 'Ran That Ship' During Timeless AEW Run",
-      "p": "During a recent interview. AEW's RJ City discussed working with \"Timeless\" Toni Storm and her year-long story arc that culminated in \"The Hollywood Ending\".",
-      "link": "https://www.wrestlinginc.com/2329625/rj-city-says-toni-storm-ran-ship-timeless-aew/",
-      "t": "5h",
-      "dt": "2026-11-27T17:34:48+00:00"
-    },
-    {
-      "src": "POST Wrestling",
-      "h": "AEW Continental Classic update and matches announced for next week’s shows",
-      "p": "AEW will present its latest three-hour broadcast next Wednesday, with a slew of match announcements released. The post AEW Continental Classic update and matches announced for next week’s shows...",
-      "link": "https://www.postwrestling.com/2026/11/27/aew-continental-classic-update-and-matches-announced-for-next-weeks-shows/",
-      "t": "6h",
-      "dt": "2026-11-27T17:10:06+00:00"
-    },
-    {
-      "src": "Wrestling Observer",
-      "h": "AEW releases first episode of The Toni Storm Tapes",
-      "p": "AEW has published the contents of the first of the Toni Storm Tapes. On Friday, AEW posted a video to its YouTube channel hosted by Renee Paquette. In the video, Paquette states that last...",
-      "link": "https://www.f4wonline.com/news/aew/aew-releases-first-episode-toni-storm-tapes/",
-      "t": "6h",
-      "dt": "2026-11-27T16:45:46+00:00"
-    },
-    {
-      "src": "Wrestling Inc",
-      "h": "AEW Premieres First Entry In 'The Toni Storm Tapes'",
-      "p": "AEW premiered the first episode of \"The Toni Storm Tapes\" on YouTube and MyAEW. The episode features eights tracks about a day in the life of \"Timeless Toni\".",
-      "link": "https://www.wrestlinginc.com/2329567/aew-premieres-first-entry-toni-storm-tapes/",
-      "t": "6h",
-      "dt": "2026-11-27T16:39:45+00:00"
     }
   ]
 }
